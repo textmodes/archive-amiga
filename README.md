@@ -20,6 +20,14 @@ display on the Amiga ASCII collection site. The following guidelines should
 be kept in mind when contributing to the project:
 
  * Only ASCII art
+  
+   * The accepted text encodings are:
+
+     * US-ASCII
+     * IBM Code Page 437
+
+   * Do not submit UTF-8 encoded works
+
  * Only original work
  * Some ANSI codes are allowed, such as SGI (colors), but no cursor movement
    or other ANSI sequences
