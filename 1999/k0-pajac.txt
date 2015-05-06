@@ -1,0 +1,2063 @@
+-[sof]-
+
+
+
+
+
+
+  .
+
+  :
+  .
+  :. ..
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:              . .. ra d oô c i  ni e   byî o   k o ïca .. .
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:   . .. g dy û  p o  ra z  pi e r w sz y . .. .
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:                      .. .m o gîem  zo bacz yê jak z bl is k a. ...
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:     .. . w y gl âda  to c o  ma  k aû d y  z  n as . .. .
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:        .  . ..  .  P     0  L    A k     ó    W . .. .  .
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..  [ W T E D Y D U M A U R A Û O N A N A K A M I E Ï Z A Î O Û O N A ]
+  :. .:
+  .. ..
+  :. .:  [ A T E N K A M I E Ï P O L E C I T A M G D Z I E W R Ó G K O N A ]
+  .. ..
+  :. .:
+  .. ..  [ H I K ! ]
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..
+  :. .:
+  .. ..               ___________________________
+  :. .:    __________\\                         //________________________
+  .. ..    \
+  :. .:  l--\--------------------------------------------[ ]---------[ ]--
+  .. ..      \
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+  .. ..        \
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]  . l u ú n y
+  .. ..          \
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+  .. ..            \                                   . z b i e g
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+  .. ..              \
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]  . z d a r z e ï
+  .. ..                \
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+  .. ..                  \                             . t u d z i e û
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+  .. ..                    \
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]  . o k o
+  .. ..                      \
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+  .. ..                        \                       . l i c z n o ô c i
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+  .. ..                          \
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]  . z w a n y c h
+  .. ..                            \
+  :. .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+  .. ..                              \                 . p r z y p a d k i e m
+  :  .:   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+     ..                                \
+  :   :   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]  . w y p a d k i e m ?
+                                         \
+  ·       [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+      .                                    \           . w
+  .       [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+  .                                          \
+      .   [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]  . p a c h w i n i e ?
+                                               \
+  .       [¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼]
+                                                 \
+                                                  \
+   - -- --------------------------------------------------[ ]---------[ ]--
+   ______________                              _____\
+                //____________________________\\
+
+
+
+
+
+
+                                         __ _____
+                                        \\//÷   (____.__ _
+                            -   - -- ----\(   . .. °O|
+           _._____ _       _______ _     _______ _   ¦  _______ _
+         ___|     //-/  ___\     //-/  ___\     //-/ ·___\     //-/
+        |°  |  _____/--|°__        /--|°    ____  /--|°________  /--|
+        |..          __| \/         ..|         \/ ..| \/      \/ ..|
+        |___|_____ _  _/_________ _  _|_________ _  _|_________ _  _|
+          az0!/sea//__\          //__\          //__\          //__\
+                       ¦      ·           °             °
+                       | [k] [o] [r] [e] l a b o r a t o r i e s .
+                    _ _|___    _ _      ____ __
+                       ·   )____\\ ______(  \\/---÷-- - ÷  - -
+                                  \/
+
+
+
+
+
+
+ · (   m i g n ë î o   m i   t y l k o   n a   k t ó r y m ô   z n a k u   ) ·
+
+
+
+
+
+
+                   · (  D   R   A   G   O   W   Y   M   ) ·
+
+
+
+
+
+
+          .
+          l                                                        .
+    ______|__                                                      l
+          | /                                                      |
+     ___. |/                                                       |
+     \  | |                       e h . .. .                       |
+      \  /|                                                        |
+       \/ |                                                        |
+          |                                                        |
+          |                                                        |
+          |                                                        |
+          |        _                                               |
+          |         \ _______|_                                    l
+          |         |\\      |                                     |
+          |         |        |  = k e m p y =                      |
+          |       ._|___   . |               ......                |
+          |       |/   |___|_|___     .____  : .. :   _____.       |
+          |       |    /  /.   _/_ ___|  _ \_: :: :___\    |       |
+          ·       |____\___|   __| _    /    : :: :__  \  _|       |
+          |         |      |_______\  \/    _: ...: /_____\        |
+          |         |  _     |    /____|____\: :                   ¦
+          |         |  \ ____|       Bd!/La! :.:                   |
+          |        _|___\                                          |
+          |         |                                              l
+          |                                                        |
+          |                                                        |
+          |                                                        |
+          |                                                        |
+          |                                                      __|______
+          l                                                      \ | .
+          |      .. . w  l us t  r z e t o  s a  mo               \| ¦___
+          |                                                        | |  /
+          :                                                        |\  /
+          |                 c iâ g le   e h !                      | \/
+          |                                                        |
+          |                                                        |
+          |                               t o  s am o . .. .       |
+          |                                                        l
+          |                                                        |
+          l                                                        |
+          |                                                        |
+          |    [ H I K !]                                          |
+          |                                                        |
+          l                                                        :
+          ¦                                                        ·
+          ·                                                        ·
+          :                                                        :
+          .                                                        ¦
+                                                                   ·
+                                                                   .
+
+
+
+
+     co za  dziwny  to kraj. tutaj. tam. dookoîa mnie. sië patrzë, ludzie
+     czekajâ  na  przystankach,  w koôciele,  w kolejce po papi'EROS'a. o
+     kaûdym  mamy  zdanie - szare, brudne, jasne czy sîodkie  - zawsze to
+     jednak  jakaô  opinia,  klasyfikacja, szufladkowanie i setki tysiëcy
+     innych okreôleï. a znaczenie to samo. ciâgle to samo...
+
+
+
+
+
+                                                                   ·
+          ·                                                        :
+          :                                                        ¦
+          |                                                        |
+          |                                                        |
+          |                                                        |
+          |                 !   p s t r y k  !                     |
+          |                                                        |
+          |                                                        |
+          |                                                        |
+          |                                                        |
+          :                                                        ¦
+          .                                                        :
+                                                                   .
+
+
+
+
+         robimy  to co nam kaûâ. nie kîamcie - wasza wolna wola to czysta
+     uîuda.  jesteômy  zamkniëci w schematach. tak po prostu. i z tym nam
+     teû  poniekâd  îatwiej,  ale  czy  lepiej?  podnoszâc  gîos  czasami
+     przesadzamy. moûnaby mnóstwo rzeczy rozwiâzaê o wiele ciszej...
+     kolejny  imperator  z piekielnym bólem brzucha - kurczowo chwytajâcy
+     sië  krawëdzi stoîu. obok kaîuûa wina, powoli krzepnie - szkarîat na
+     sztylecie.  purpura  pochîonëîa  kamieï.  ogieï  oczyszcza. to tylko
+     zemsta...
+
+     musimy  krzyczeê.  to  pozwala  ochîonâê.  wydalmy to z siebie a gdy
+     jakiô  oszoîom  z przerostem ambicji wytatuowanym na prawym policzku
+     wyjdzie  - skrzyknie gawiedú - wtedy pobiegniemy - darmowe lizaki za
+     pancernâ szybâ [schowane, a jednak!].
+
+     kraj  to  bowiem  piëkny i cudowny. zieleï na wiosnë, w zimie biel.
+     plecaki  peîne marzeï, wygodne buty wypchane mchem i czysta chëê. a
+     dokâd by sië tu wybraê? gdzie skierowaê wzrok, ha? gdzie?
+
+
+
+
+                                                                   ·
+          ·                                                        :
+          :                                                        .
+          |                                                        |
+          |                                                        |
+          :                                                        ¦
+          .                                                        :
+                                                                   .
+
+
+
+
+               ?
+
+             ?
+                   ?
+
+ 
+                            ,,µµµµµweøøØ$ë,
+                        __Ø~~¯¯       JË __,µeøøøøøøøøøøøøøë,
+              ,,µµµµwøøPP°             PP°°~¯               ~#
+              Ø~¯¯                ?          ?               ¶L
+             JF   ?                                 ?        ¬B
+             Ø                                                Ø¸
+            JV          ?        ¼¼¼¼¼¼¼¼¼¼¼¼¼           ?    ¶L
+            Ø¹                   ¼¼¼       ¼¼¼  ?              #
+            Ø_   ?               ¼¼¼       ¼¼¼                 Ø
+             Ø                        ¼¼¼¼¼¼¼¼          ?     ØL
+             ØL             ?         ¼¼¼                     ¬ØL
+             !l     ?                 ¼¼¼                       #
+             J#                 ?            ?     ?        ?   ¶L
+              #                       ¼¼¼                        Ø¸
+              Ø            ?                                     ¬B
+              ÆÞ,¸  ?                                    ?        Ø
+               ¬~Mw,_              ?                            ,µØ
+                   ~¶ëw                       ?                Ø~
+                     JF   _æµ,_          ?                    Ø`
+                     ¤#µ,ØP` ~¶ëµ__                  ?       Ø´
+                       ¬~       ¬~#w¸    _                  Ø´
+                                    Ð,µµØMw,¸       _____   ¶L
+                                     ~¯¯   ~#wµµeøPPP°°~¤#wµ_Ø¹
+                                              ¯            ¬¤P
+
+
+           ?                                            ?
+
+                                                              ?
+                                                      ?
+
+
+
+
+
+
+
+
+
+                   ?
+
+
+              ?
+
+
+                      ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             ?
+
+                                         ?
+
+
+                                                ?
+
+
+
+
+
+
+
+
+
+
+                     ¼
+
+                     ¼
+                     ¼
+                     ¼
+     ¼¼¼¼¼  ¼¼¼¼¼  ¼¼¼                                           ¼¼¼¼¼¼¼¼¼ ¼
+     ¼   ¼  ¼                         ._                         ¼
+            ¼                         | \   Z   I   E   ! ! !       ¼¼¼¼¼
+     ¼¼¼¼¼       ! ! !    N   I   G   I__\                       ¼
+            ¼                                                    ¼  ¼   ¼
+  ¼ ¼¼¼¼¼¼¼¼¼                                           ¼¼¼  ¼¼¼¼¼  ¼¼¼¼¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼
+                                                        ¼  .b
+                                                        ¼
+                                                        ¼  .b
+                                                        ¼
+                                                        ¼  .bo
+                                                        ¼
+                                                        ¼  .bo
+                                                        ¼
+                                                        ¼  .bo
+                                                        ¼
+                                                        ¼  .bo jakiô
+                                                        ¼
+                                                        ¼  .jeîop
+                                                        ¼
+                                                        ¼  .ursusem
+                                                        ¼
+                                                        ¼  .303
+                                                        ¼
+                                                        ¼  .zatarasowaî
+                                                        ¼
+                                                        ¼  .jezdnië
+                                                        ¼
+                                                        ¼  .naraûajâc
+                                                        ¼
+                                                        ¼  .na
+                                                        ¼
+                                                        ¼  .szkodë
+                                                        ¼
+                                                        ¼  .skodë
+                                                        ¼
+                                                        ¼  .i jelcza
+                                                        ¼
+                                                        ¼  .z przyczepâ
+                                                        ¼
+                                                        ¼  .kierowca
+                                                        ¼
+                                                        ¼  .sië
+                                                        ¼
+                                                        ¼  .zde
+                                                        ¼
+                                                        ¼  .NERW
+                                                        ¼
+                                                        ¼  .owaî
+                                                        ¼
+                                                        ¼  .podwija
+                                                        ¼
+                                                        ¼  .rëkawy
+                                                        ¼
+                                                        ¼  .lecz
+                                                        ¼
+                                                        ¼  .szybko
+                                                        ¼
+                                                        ¼  .ostudzi
+                                                        ¼
+                                                        ¼  .go
+                                                        ¼
+                                                        ¼  .tîum
+                                                        ¼
+                                                        ¼  .z widîami
+                                                        ¼
+                                                        ¼  .i czapka
+                                                        ¼
+                                                        ¼  .z piórami
+                                                        ¼
+                                                        ¼  .
+                                                        ¼
+                                                        ¼  .kolejny
+                                                        ¼
+                                                        ¼  .cholerny
+                                                        ¼
+                                                           .
+                                                        ¼
+                                                        ¼  .
+                                                        ¼
+
+
+                                                        ¼
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                               o
+                                                              / \
+                                                             /+  \
+                                                           ./_____\.
+                ...... .------------.                     _)  _ -  (_
+             .. .....: l            ¦                     \) -x x- (/ _
+                   ... | . strajk . : ....                 \ --o--  _(_)_
+                 ....: ¦            : :.....     ¼¼¼¼¼¼   __7 ---' (_(Z)_)
+     _________      ____            ·                       lllllll  (_)
+           __/_____/   /___ _________   ________ ¼¼¼¼¼¼   ________
+     ___________       ___/         /__/____   / ¼¼¼¼¼¼  /   / __/_______
+               /       /       /___      __/     ¼¼¼¼¼¼
+     _________________________/   /____________  ¼¼¼¼¼¼  __/
+                                                 ¼¼¼¼¼¼   /______________
+     ¼¼¼¼¼¼¼¼¼¼¼¼¼¼   .             :    ¼¼¼¼¼¼            ____
+                      ¦      =)     ·    ¼¼¼¼¼¼¼¼¼¼¼¼¼¼     _ /
+     ¼¼¼¼¼¼  ¼¼¼  ¼   ·           _____                     \/
+     ¼¼¼¼¼¼  ¼¼¼  ¼    ________  /____/  _____________ __________ _ _ _ __
+     ¼¼¼¼¼¼       ¼ __/____   /_________/____      __/___  ___    / / /
+     ¼¼¼¼¼¼¼¼¼¼¼¼¼¼     __/               __/     /     /   _/  _/_/_/
+     ¼¼¼¼¼¼      __________________  ____________      / _________________
+                              /______/          /_____/
+     ¼¼¼¼¼¼           ·                                             kem/k0
+               .. ... :             .    _______     _______    __   _
+             .. ....: ¦ . pajaców . |   ¦   .   |   |   .   ¦  |  | ¦ | ¦
+                      |_____________l   |_______|   |_______|  |__| |_: | .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .... .... .. .........         ..........       .          .   .....
+    :...         :       :..:::::  :          ..::: :....::::  :...: :::...
+       : masakra :  :::            : ....:::: :........ ..           .... :
+    ::.: .... .. :....:  ::::......: :................: :......::::: :....:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   _____ _____________________________
+    ........                __:_  _\                                 /_
+    :..     :  _____   ____/__|_                                       |
+      :     :__\  _/___\ _    _/   ________ /\    ______  ____   _____ |
+      :     :  _\       \/    | ___\__    //  \___\_   /__\_  \__\  _/___
+      :  ::::_________________:_     /   //    \  _/  /    /   / _\     /
+      :..::::...cDr/e^d        /____/\    \     \_\____\______/__________\
+            :  :..            .      \_____\     \                     .
+            :..: :            |_       /__________\ - first words!    _|
+               ···             /__ ___________________________________\
+
+
+
+                  .stuku puku.
+
+                   bez  owijania  w  baweînë  - wysîaîem bowiem w
+                ôwiat  pewien pakiecik kresek i kropek. poleciaîy
+                te  bajty,  hen hen, za morza, za góry, za lasy i
+                jeziora a moûe nawet i dalej? kto wie?
+
+                   odbiorcy  sâ  znani - nadawca teû. komplikowaê
+                caîâ  sprawë  mogâ jednakûe niektóre partyzanckie
+                barykady   na  drogach.  to  rolnicy,  psia  maê,
+                pokazali na co ich STAÊ!
+
+                   a  co  dokîadnie  nam  sië  objawiîo?  GÎUPOTA
+                wsteczna z przytupem. bo jakûe inaczej, jeôli nie
+                piëôciâ, mîotem czy teû grabiami.
+
+                siîa nas moôci panowie!
+                                                         eh!
+                zresztâ, sami zobaczcie...
+
+
+
+
+
+
+          · ...
+       ...:.:.:........                                        ______
+          : : .  ___  :  ______      ______.    ______      __|     /
+          : ·   _\  l_:__\     l___ _\___  l__ _\   __l__ __\ l    /_
+          :   .Y      Y            Y    |     Y     _l   Y           Y
+          :                ¯7           l     ___         ____7
+          :   .7________    |______7__________l/__________\  /l______7
+          :........tG!/_____llA!
+
+
+
+
+   ..[CYFRY/CYFRY/CYFRY].............................[LITERY/LITERY/LITERY]..
+ ==============================================================================
+   ..[zerozerozerojeden].............................................[acid]..
+   ..[zerozerozerodwa]................................................[ada]..
+   ..[zerozerozerotrzy].........................................[amigaeuro]..
+   ..[zerozerozerocztery]..........................................[azzaro]..
+   ..[zerozerozeropiëê].............................................[blaze]..
+   ..[zerozerozeroszeôê]..............................................[cnr]..
+   ..[zerozerozerosiedem]...........................................[chudy]..
+   ..[zerozerozeroosiem]............................................[coola]..
+   ..[zerozerozerodziewiëê]........................................[decree]..
+   ..[zerozerozerojedenzero].......................................[digger]..
+   ..[zerozerozerojedendwa]........................................[dûumen]..
+   ..[zerozerozerojedentrzy].........................................[evan]..
+   ..[zerozerozerojedencztery].....................................[fiedor]..
+   ..[zerozerozerojedenpiëê]..................................[highvoltage]..
+   ..[zerozerozerojedenszeôê].......................................[index]..
+   ..[zerozerozerojedensiedem].......................................[info]..
+   ..[zerozerozerojedenosiem]........................................[juen]..
+   ..[zerozerozerojedendziewiëê]...................................[kla+ra]..
+   ..[zerozerozerodwazero]..........................................[k0re.]..
+   ..[zerozerozerodwajeden]........................................[linear]..
+   ..[zerozerozerodwadwa].........................................[makaron]..
+   ..[zerozerozerodwatrzy]...........................................[mawi]..
+   ..[zerozerozerodwacztery].........................................[miki]..
+   ..[zerozerozerodwapiëê].........................................[mornaug]..
+   ..[zerozerozerodwaszeôê].....................................[nah-kolor]..
+   ..[zerozerozerodwasiedem].......................................[oldtad]..
+   ..[zerozerozerodwaosiem]...........................................[ryô]..
+   ..[zerozerozerodwadziewiëê]..................................[sativemea]..
+   ..[zerozerozerotrzyzero]........................................[simmon]..
+   ..[zerozerozerotrzyjeden]........................................[sqlim]..
+   ..[zerozerozerotrzydwa]...........................................[tomi]..
+   ..[zerozerozerotrzytrzy].........................................[yaneq]..
+   ..[zerozerozerotrzycztery]......................................[veezya]..
+   ..[zerozerozerotrzypiëê]...........................................[xxl]..
+   ..[zerozerozerowystarczy].................................................
+   ...............................                                   ........
+   ...............................  ...............................  ........
+   ...............................  ...............................  ........
+   ...............................  .......                 .......  ........
+   ...............................  .......  . q n i e c .  .......  ........
+   ...............................  ...............................  ........
+   ...............................  ...............................  ........
+   ...............................                                   ........
+   ..........................................................................
+   ..........................................................................
+   .....  ..  ..  ..  ..  ..
+   .....  ..  ..  ..  ..  ..
+   .....  ..  ..  ..  ..                                                 c
+   .....  ..  ..  ..  ..
+   .....  ..  ..  ..  ..                                                 z
+   .....  ..  ..  ..  ..
+   .....  ..  ..  ..                                                     y
+   .....  ..  ..  ..
+   .....  ..  ..  ..                                                     t
+   .....  ..  ..  ..
+   .....  ..  ..                                                         w
+   .....  ..  ..
+   .....  ..  ..                                                         o
+   .....  ..  ..
+   .....  ..                                                             j
+   .....  ..
+   .....  ..                                                             a
+   .....  ..
+   .....  ..                                                             m
+   .....
+   .....                                                                 a
+   .....
+   .....                                                                 t
+   .....
+   .....                                                                 k
+   .....
+   .....                                                                 a
+   .....
+   .....                                                                 w
+   .....
+   .....                                                                 i
+   .....
+   .....                                                                 e
+   .....
+   .....                                                                 û
+   .....
+   .....                                                                 e
+   .....
+   .....                                                                 k
+   .....
+   .....                                                                 r
+   .....
+   .....                                                                 a
+   .....
+   .....                                                                 d
+   .....
+   .....                                                                 n
+   .....
+   .....                                                                 i
+   .....
+   .....                                                                 e
+   .....
+   .....                                                                 s
+   .....
+   .....                                                                 z
+   .....
+   .....                                                                 z
+   .....
+   .....                                                                 b
+   .....
+   .....                                                                 o
+   .....
+   .....                                                                 û
+   .....
+   .....                                                                 e
+   .....
+   .....                                                                 k
+   .....
+   .....                                                                 u
+   .....
+   .....                                                                 r
+   .....
+   .....                                                                 o
+   .....
+   ...                                                                   m
+   ...
+   ..                                                                    ?
+
+   ..
+
+   .
+
+   .
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   a c i d                    /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   sorry,  ale   chîopaki  z
+                                             samoobrony  byli  nie  do
+                                             podwalenia...   ûebyô  ty
+                                             widziaî  jak  sië  pajace
+                                             zatarasowaîy...   wybacz!
+                                             logosik   nie   dotarî  -
+                                             rozjechany traktorami =(
+
+
+
+
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   a d a                      /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   uff, ten jest w caloôci
+
+
+
+
+                                        _____
+                      .     ___________/    /   _______  .
+                    __|____/____    ____   /___/____  /__|____
+                      :      __/      _/         __/     :
+                  ____.__________________________________.___
+                   kem|                                  |k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :  a m i g a   e u r o         /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :  kilka kresek - dojechaîy!
+
+
+
+
+                                   _____
+       .     ___________________  /____/ ______          _______    .
+     __|____/____      _ _ _   /________/  ___/_____ ___/____  /____|___
+       :      __/      / / /              /___     /      __/       |
+    ___¦_____________ / / /__________________/    /_________________:__
+    kem·            _/_/_/                  /____/                  ¦
+       .                                                            .
+     __|________ ______________________ ____________________________|___
+       ¦    ___/___      /            /   ____                      ¦
+       |    _/    /    _/       /____/      _/     .amiga. .euro.   :
+    ___:_________/_____________/ ___________________________________¦__
+       |                                                            |k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :  a t r e y                   /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :  na okrâgîo, przez francjë,
+                                            ale jest! =)
+
+
+
+                             ____
+               .     _______/   /___ _________________ _____    .
+             __|____/___      _____/     _        ___/     /____|___
+               ¦    ___/       /         /____    _/      /     ·
+            ___·________________________/    /__________   _____¦__
+            kem¦                                     /_____/    |k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   a z z a r o                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   z tym logosem byîy zwaîy.
+                                             zrobiîem    go   z   waty
+                                             cukrowej i niestety, taki
+                                             jeden  wôcibski,  ôwiïski
+                                             ryj go w caîoôci zeûarî!
+                                             brown   sugar   -  ôwinia
+                                             przyjmie wszystko.
+                                             next   time   bëdzie   ze
+                                             stali - obiecujë =)
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   b l a z e                  /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   broniîem  sië jak mogîem,
+                                             ale    zabîâkane   grabie
+                                             przywaliîy po plecaku.
+                                             tak, tak - w drobny mak.
+
+
+
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   c n r                      /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   hmmm, ten logosik poszedî
+                                             za okazyjne  póî litra...
+                                             biaîego barszczu =)
+                                             w kolejnej kolekcji -
+                                                       - na mur beton!
+
+
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   c h u d y                  /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   =)
+
+
+
+
+
+            ·                _____  .c h u d y.  _____          .
+          __:____________ __/    /______________/    /______    |
+            .         __/___            /    ____   /      /____|___
+         ___¦___     /     /___/      _/       _/         /     .
+         kem|  /____      /   /________________________     ____|__
+            ·      /_____/                          /_______/   ¦k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   c o o l a                  /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   ûadnych przeszkód
+
+
+
+
+                                              _____
+         __:____________ ____________________/    /      __________:___
+           .         __/___   ___     ___        /______/____      .
+        ___¦___     /     /    _/      _/                 __/   ___¦__
+        kem|  /____      /_____________________     ___________/   |k0
+           ·      /_____/                     /____/               ·
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   d e c r e e                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   cisza...
+
+
+
+
+
+     kem/k0  _____
+    ________/    /______ ________ _________________ ________  ______________
+         ____   /   ___/__    __/__    _       ___/__   ___/__
+           _/       _/   /   /    /    /___    _/   /   _/   /   .decree.
+  ______________________/___     /____/   /________/________/  ___________
+                           /____/
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   d i g g e r                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   niah =)
+
+
+
+
+
+  kem/k0  ____  ______
+  _______/   / /_____/ _________ _________ __________ ___________ _________
+     ____   /_________/    ____/___  ____/___    ___/     _     /
+       _/                 /__     / /__     /    _/       /____/ .digger.
+  __________________________/    /____/    /_____________/ ________________
+                           /____/    /____/
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   d û u m e n                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   morowo... =)
+
+
+
+
+                          _____
+                              /
+                _____      \_/
+       ________/    /_  _________  ______________________ ___________
+       \    ____        \_\   / /      /   _  _  _   ___/__    _    /
+        \     _/        _____/_/     _/    /  /  /   _/   /    /    \
+        /____________  /   /  __  ________/__/__/________/____/______\
+                      /___/___\_\                              kem/k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 3 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   e v a n                    /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   ufff,  azkii  za wzorowy
+                                             deeeeelay =)
+
+
+
+
+                               ____________
+                    .          \          /                  ·
+                  __|__________ \ .evan. /     ______________:___
+                    .      ___/___      /_____/___      _    ¦
+                    ¦      _/          /_      __/      /    |
+                 ___l__________________________________/_____l__
+                 kem¦                                        ¦k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 4 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   f i e d o r                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   tyû bez problemu
+
+
+
+
+
+    __________  _____                  ____
+             / /____/ ________ _______/   /___________________  __________
+       _____/________/   ____/__  ____   /   ____      _     /
+      __/                 _/   /    _/         _/      /____/   .fiedor.
+     / _______________________/_______________________/ __________________
+        kem/k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 5 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :  h i g h   v o l t a g e     /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :  od tego wszyscy uciekajâ =)
+
+
+
+
+       ______        _____            ______
+            /_____  /____/  _______  /     /_____
+                 /_________/  ____/____                 . h i g h .
+       ___/                  /__      /__/
+         /_____________________/     /  /________
+                              /_____/                . v o l t a g e .
+
+       ______           _____     ____
+            /__________/    /    /   /___    _____________ _________
+           /     ____      /____/   ____/___/___     ____/____  ___/___
+          /_       _/               /        __/    /__      /  _/
+       __________________     ________________________/     /__________
+                        /____/                       /_____/     kem/k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 6 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   i n d e x                  /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   yuppi!
+
+
+
+
+                _____                ____               _____
+         .     /____/   ____________/   /______   _____/    /
+       __|_____________/   _    ____   /   ___/__/__  /  __/____    .
+         :                 /      _/       _/                  /____|___
+      ___.________________/__________________________/ .index.      :
+         |kem/k0                                    /_______________.__
+                                                                    |
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 7 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   i n f o                    /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   - linia [0800-34-221-1]
+
+
+
+
+                  _____            _________                      .
+           .     /____/   ________/        /______________________|___
+         __|_____________/   _       _____/   ____                ·
+           :                 /      __/         _/   . i n f o .  ¦
+        ___.________________/______/______________________________|__
+        kem|                                                      ¦k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 8 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   j u e n                    /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   300m. od poczty... a siîy
+                                             rolniczej  po  prostu nie
+                                             ma...
+
+
+
+                     ______
+              .     /_____/   ________________ ______________  .
+            __|______________/     /      ___/___     _     /__l___
+              ¦                  _/       _/    /     /        ¦
+           ___l_______  _______________________/_____/_________:__
+           kem¦  /______/                                      lk0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 9 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   k l a + r a                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   naj, naj, naj... =)
+
+
+
+
+                        ____
+      __._________ ____/   /     _______       __________  __________:__
+        .    / __/___     /_____/____              _    /_/____      .
+      __|___        /             __/     +        /__      __/   ___|__
+     kem|  /       /____     __________       ____/  /___________/   |k0
+          /_______/    /____/                                        ·
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   k 0 r e .                  /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   tu  sië nieúle wkurzyîem.
+                                             rozsypali ziemniaki, siem
+                                             potknâî,  orzeî  jak  sië
+                                             patrzy.  logos  wypadî na
+                                             drogë - operator kombajna
+                                             jakby tylko na to czekaî.
+                                             grrrr...
+
+
+
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   l i n e a r                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   ha! co  tu  wiecej dodaê?
+                                             uschnâî biedak.. czekajâc
+                                             w  kroku,  przepraszam! w
+                                             korku - miaîo byê =)
+
+
+
+
+
+
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   m a k a r o n              /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   buziaki! =)
+
+
+
+
+    ______________    ______________     __________________________________
+         _ _ _   /___/____     / __/____/____              ____      _
+         / / /         __/                __/      /____     _/      /
+    ___ / / /________________/ .makaron.  ________/    /____________/______
+      _/_/_/                /____________/                           kem/k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 3 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   m a w i                    /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   cud czy nie cud? magia...
+
+
+
+
+      .                             _ _ _      ______                 .
+    __l______________    __________ / / /___  /_____/  _______________|___
+      ·     _ _ _   /___/____      / / /   /__________/               :
+      ¦     / / /         __/    _/_/_/                  . m A w I .  ¦
+   ___|___ / / /______________________________________________________l__
+   kem:  _/_/_/                                                       ¦k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 4 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   m i k i                    /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   =)
+
+
+
+
+               .                  _____                _____
+               |    ___________  /____/  ________     /____/  .
+             __¦___/  _ _ _   /_________/   / __/_____________|___
+               .      / / /                                   .
+            ___¦_____/ / /________________/ .miki.  __________¦__
+            kem|                         /_________/          |k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 5 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   m o r n a u g              /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   teleportacja
+
+
+
+
+    ______________________________________   ____________________
+         _ _ _   ____               _    /__/___      /     ____/________
+         / / /     _/     /____     /        __/    _/     /__
+    ___ / / /____________/    /____/_________________________/ .mornaug.
+      _/_/_/ kem                                         k0./____________
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 6 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   n a h - k o l o r          /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   rzut beretem do sleeve'a
+
+
+
+
+        .                          ______                           .
+      __|______________    _______/     /_______ ___________________|___
+        ·       _     /___/____       _        /                    ¦
+        ¦       /          ___/    ___/       /    .nah. - .kolor.  ·
+     ___|______/__________________/  /_______/ _____________________:__
+     kem·                                                           ¦
+        .                            _____                          .
+      __|____________ ______________/    /    ______________________|___
+        ·      /  __/___   ____         /____/   ____       _       :
+     ___¦_____         /     _/                    _/       /_______¦__
+        :    /        /______________      ________________/        |k0
+            /________/              /_____/
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 7 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   o l d t a d                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   =)
+
+
+
+
+     .            ____          ____       ____                  ____
+    _|___________/   /   ______/   /__ ___/   /___   ___________/   /__:__
+     :   ____       /___/  ____   /          ____/__/___    ____   /   |
+     .     _/                _/              /       __/      _/       .
+   __|____________     ______________ _________________________________¦_
+     |           /____/                                          kem/k0|
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 8 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   r y ô                      /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   kury  pierzchîy  -  przed
+                                             tym leônym 'kotkiem' - to
+                                             dobrze!
+
+
+
+                                                ____
+                                                \
+                   .     ________                \/
+                ___|____/  ___  /_________      _______  .
+                   .        _/           /_____/    __/__|___
+                ___¦_____7              /     /______    .
+                kem¦k0  /       _____     _______   /  __|__
+                       /_______/  /_______/        /     ·
+                                                  /   .r y ô.
+                                                 /_______.____
+                                                         |
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 9 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   s a t i v e   m e a        /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   jak  bum  cyk  cyk! przed
+                                             chwilkâ jeszcze tu byî!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   s i m m o n                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   teleportacja cz.2
+
+
+
+
+         ______          _____
+            __/_______  /____/  ___________________________________
+         _________   /_________/  _ _ _    _ _ _    ____     _
+                 /                / / /    / / /      _/     /
+         ________________________/_/_/____/_/_/_____________/______
+                                                             kem/k0
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 1 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   s q l i m                  /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   =)
+
+
+
+
+        ______                 _____    _____                        .
+           __/________________/    /   /____/    ____________________|__
+        ________    ____          /_____________/  _ _ _             ·
+               /      _/  _                        / / /   .sqlim.   ¦
+        ________________  /_____     _____________/_/_/______________l_
+        kem/k0        ___/     /____/                                ¦
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 2 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   t o m i                    /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   mada dostarczyîa?
+
+
+
+
+               ____                              _____
+         _____/   /___ ______________________   [¼¼¼¼¼]   _____________
+                 ____/__   ____     _ _ _   /_  _______  _\
+                 /     /     _/     / / /      [¼¼¼¼¼¼¼]    . t o m i .
+         _____________/____________/_/_/______ [¼¼¼¼¼¼¼] ______________
+          kem/k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 3 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   y a n e q                  /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   wiem, wiem,  ale naprawdë
+                                             zawalili drogë gnojem! =)
+
+
+
+
+
+
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 4 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   v e e z y a                /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   hop!  z  jednego  drawera
+                                             do drugiego. nie ma prawa
+                                             zniknâê!
+
+
+
+        _________
+                /  . v e e z y a .
+               /___________ ________   _________   _____      ________
+              /        ___/     ___/__ \_\   / / _/    /_____/____
+             /_l       _/       _/     _____/_/       /        __/
+         _____________________    ___ /   /  __  ____    _____________
+                            /______/ /___/___\_\  /______/     kem/k0
+
+
+
+
+
+  ________
+         / pajacezone·pajacezone·pajacezone·pajacezone·pajacezone·pajacezone
+   k0!  / ziemniakitîuczone·ziemniakitîuczone·burakipastewne·burakitîuczone!
+       / pajacezone·pajacykzone·pajacezone·pajacykzone·pajacezone·pajacezone
+   k0 / trzcinacukrowa·kaszamielona·jajodinozaura·naszatrójpolówka·kura! ___
+     /___________________________________________________________________\
+
+   »- [ n u u u u u u u u u u u u m e r o o o o o o o o o o o o o o o o ] -«
+
+   »- [ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3 5 ] -«
+     _____________________________________________________________________
+   . \                                                                   / .
+   ¦  \   p o t o c z n a    n a z w a   :   x x l                      /  ¦
+   ____\                                                               /____
+          t a k i    k o m e n t a r z   :   teleportacja cz.3
+
+
+
+
+
+                x X L   p A c K   b Y   h I g H   v O l T a G e
+
+                          _____          _____      _____
+               .    _____/    /    _____/    /     /    /      .
+             __|___/__  /  __/____/__  /  __/_____/    /_______|___
+                                                               .
+            ___¦______/  .X.   ______/  .X.   _______  .L.  ___¦__
+            kem|     /________/     /________/      /______/   ·k0
+               ·
+
+                     u N i W e R s A l N y    R o Z m i A r
+
+
+
+
+
+
+
+
+
+                                        .....         ................
+                                        :: ::         ::            ::
+                                        .. ::         ::... ..  .   ::
+          ____     ____      _______     __::____________      ___  ::
+         _) _/__ _|   /___  _)  __  |  __)  __     __   (______)  | ::
+         |    _/ (   __   (_     /  |  |     /  ___\/          __ | ::
+         |__      ___\/       _____(   |  _____(   /     __     /_| ::
+            )_____|  /___________\      )____\    /______| )___/    ::
+             az0!/l124                     ::                       ::
+                                           :: t h e   e n d   n o w ::
+                                           ::.......................::
+
+
+
+
+
+
+
+    ... ale jeszcze kilka sîów od poszkodowanego ...
+
+                                                 ...  do poszkodowanych
+
+                                 zeskîadowanych  ...
+
+                                                 ...  pobitych
+
+                                    spóúnionych  ...
+
+                                                 ...  obdartych
+
+                                    obwâchanych  ...
+
+                                                 ...  zagnojonych
+
+                                           itp.  ...
+
+                                                 ...
+
+                                                 ...
+
+                                                 . .
+
+                                   .    . .. ... . . ... .. .    .
+
+
+
+       to juû drugie  moje wewnëtrzne wcielenie  w  istocie  o  tajemniczym
+    pochodzeniu  z katakumb egipskich wîadców. a... bez przecinków i duûych
+    liter  historia  ta  bëdzie  wyglâdaê  kiepsko  wiëc  dam  sobie  z niâ
+    spokój juû teraz ... =)
+
+       chwilka wolnego czasu - druga chwilka koncentracji i jeszcze trzecia
+    chwilka  by  rozruszaê  koôci ôródpalcza prawej i lewej górnej koïczyny
+    chwytnej.  obok ôciereczka ûeby z potu otrzeê paluchy - szklanka z wodâ
+    i zestaw membran na uszach poîâczonych wstâûkâ do pakowania prezentów.
+
+       k0re.  to podpucha =) nic nie robimy nic nie zrobimy i nic nigdy nie
+    zrobiliômy. nas tu nie ma - to sâ tylko fantomy!
+
+       reszta   ascii   grup   w   polsce   powoduje  chwilowe  otumanienie
+    poskromienie  i zadowolenie îaskoczâce po piëtach. reszta ôwiata patrzy
+    na nas jak my na rumunów. moûna by dodaê - normalne.
+
+       malutki  zapas  tolerancji  i  szacunku  dla  rolników teraz po tych
+    wszystkich  wybrykach  na  drogach  poszedî  sie  waliê.  postrajkowali
+    pokrzyczeli - lepperomania contra power puff girls!
+
+       a ten zestaw kresek dedykowany jest ani =)
+
+       no  dobrze  -  zaklepane  logosy  pójdâ w nastëpnym pliczku a jak na
+    razie  zasîoïcie  ûaluzje  wîâczcie  tefaîkë  na  'mrówczany' program i
+    patrzcie... ja wytrzymaîem 6,5 godziny!
+
+      blah...
+
+                                      kempy / k0re. + veezya + twilight
+
+
+
+
+
+
+                                                  ·          _________ _
+                   .                      ________:__________\
+              ____ | _____  _____      .__   ____ | ______   ____
+            __\ _/__ \ __/__\ __/__ ___| (__(___/_ _\__ _/_ _) _/____
+           |   /    Y         _)   Y  __          Y         \____    |
+           |___     :         \    :  \|          :             / ___|
+              /_______________________________________________ /__\ ecl
+                   .                                          /
+                 __|_________________             |
+        _ _______\ :                              ·
+
+
+
+     cytaty: --------------------- wersik z 'przy sîowie' by kazik na ûywo
+
+             ---- parafraza tekstu zaczerpniëtego z legendarnej publikacji
+ 
+             ------ pod wszystko mowiâcym tytuîem 'mawi - przysîów ksiëga'
+
+     gîówny mieszacz: ------------------------------------------------ ya!
+
+     poboczni mieszacze: -- acid, azzaro, budgie, crusader, eclipse, thung
+
+     supporciarze: ---------------------------------- ty, ty i jeszcze ty!
+
+     nutki zone: --------------------------------------------------- paula
+
+                 ------ x-ball, state, psylocyb, noisy abdul i kupa innych
+
+     sprzët: [analog] ------- koôê îódeczkowata, koôê czworoboczna wiëksza
+
+                      -------- koôê gîówkowata, koôê czworoboczna mniejsza
+
+                      ----------------- koôê ksiëûycowata, koôê grochowata
+
+                      --------------- koôê trójgraniasta, koôê haczykowata
+
+                      ------------------ paliczek ôrodkowy, koôê sródrëcza
+
+                      ------------------ paliczek bliûszy, paliczek dalszy
+
+                      ----------------------- pîyn rdzeniowo-krëgowy, mózg
+
+            [digital] ----- amiga, ced 3.5, iff to ascii, delitracker 2.21
+
+     respect: ---------------------- kop ultra! + motorola inside movement
+
+              ------------ azzaro i acid - patrzem, patrzem i siem dziwiem
+
+              ----------------------------------------- sative mea, linear
+
+     pozdrowicha: ---------- acid,  atrey, azzaro, baderman, beatels, bump
+
+                  ------------ clever,  christo,  coma, dagon, digger, elf
+
+                  -------- evan,  fiedor,  gfh,  gorzyga,  iceman,  inikep
+
+                  -------- juen, kla+ra, lunar, makaron, nd0s, nick, otton
+
+                  ----------- punisher,  qix,  quetz,  raider, sabe, sante
+
+                  -----------  simmon,   sobol,   sqlim,  thorin,  twister
+
+                  --------------- tygrys, yaneq, yoyo, zabora + zapomnieni
+
+                  ------------------------------------------#amisia freaks
+
+                  --------- i dla tych którzy jeszcze ze mnâ nie swapiâ =)
+
+
+
+
+                              .........
+      ...................     :  ...  :       k  0  r  e  .
+      :         :  .....:.........:.............................
+  . : :                   ..: ....:.... :..              ......:..  kem/k0
+ ...: :.........:         :.. :.°...°.: ..:    :.......  :.......: .....
+                :...........:.....:.....:......:      :........:       :
+                               ...:...                       .    .    :
+         . m a c h i n e s .   :.:.:.:   . i n s i d e .     :         : : .
+                                                             :.........: :..
+
+
+                    [ [ k0re. manufaktories in 1999 ] ]
+
+
+MEMBERS  .................. acid, cnr, kempy, sundance
+
+
+CONTACT ................... a: arkadiusz kajzerek   c: konrad szeromski
+                   :           heleny 12/43            rechniweskiego 10/48
+                   :           pl-30838 krakow         03-980 warszawa
+                   :           012 6574558
+                   :
+                   :        k: przemek kowalczyk    s: damian warzocha
+                   :           kopernika 13/14         ustronna 6/52
+                   :           pl-34100 wadowice       pl-43100 tychy
+                   :           033 8235834               032 2172491
+                   :
+                   :....... e-mail: kajzerea@wizard.ae.krakow.pl    acid
+                                    cnr@plearn.edu.pl                cnr
+                                    kempy666@hotmail.com           kempy
+                                    k0re@hotmail.com                all!
+
+
+PR0DUCTIONS ............... "maximalistik98", k0-max98.txt, acid
+                   :        24 apr 1998, 040kb
+                   :
+                   :        "kwiaty", k0-kwiat.txt, acid+fitzory
+                   :        30 sep 1998, 060kb
+                   :
+                   :        "experiment 25", k0-exp25.txt, acid
+                   :        01 oct 1998, 026kb
+                   :
+                   :        "forgotten in space", k0-forgt.txt, kempy
+                   :        18 feb 1999, 090kb
+                   :
+                   :        "strajk pajaców", k0-pajac.txt, kempy
+                   :....... 22 feb 1999, 87kb
+
+
+ ___ .___    . __   . ______    . ______    . ______    . ______    ___ .___
+ T  \|  T    |/ T   |/     T    |/     T    |/     T    |/     T    T  \|  T
+_|   \  |__ _|  |_ _| _____|__ _|      |__ _|      |__ _| ___  |__ _|   \  |__
+    __     Y |_/| Y_______    Y           Y    ____   Y    [/__|  Y      \
+     |     _      _      |    _      ______      \]   _   __      _      _____
+-----|____/]_____/]__________/]________|--]__________/]----]_____/]________|
+a(id/k0.
+
+ - [ one nine nine seven ] --------------------------------------- [ azkee ] -
+
+  001 [kem]-gde.txt - god doesn't exist           31 / 08 / 97     000.066kb
+  002 [kem]-hbt.txt - hipnotized by television    03 / 10 / 97     000.116kb
+  003 [kem]-ann.txt - annihilination              26 / 12 / 97     000.099kb
+
+ - [ one nine nine nine ] ---------------------------------------- [ azkee ] -
+
+  001 k0-forgt.txt  - forgotten in space          18 / 02 / 99     000.090kb
+  002 k0-pajac.txt  - strajk pajaców              22 / 02 / 99     000.087kb
+
+ - [ number : 5 files ] ------------------------- [ total size : 000.458kb ] -
+
+
+
+
+
+
+             [ [ k0RE. - wyûej kropki nam nie podskoczycie! ] ]
+
+
+
+                         -  1  -  9  -  9  -   9  -
+
+
+
+
+
+-[eof]-

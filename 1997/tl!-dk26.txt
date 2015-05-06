@@ -1,0 +1,887 @@
+ 
+  ...         _ _                                          _ _     ...
+ ::::          \\\ sTAGE 1 cOMPLEtED <> pAsSED tHRoUGH TY ///      ::::
+ :::_   .___.    \                                        /        _:::
+ :://-- |   |-----\  24h Static Telnet on broadband ADSL /--------// ::
+ |. .___.  _:____ _  ___                                             _:
+ _ _|   |_ \_   // //  /____   __ _  cONSOLES/aSCII/aMIGA/gRAFF/=C64 \:
+ \\\_   _/__/  /___  _     /__||///  mACINTOSH/mUSIC/sAMPLES  ____    |
+    |_  \_\        \ /____/   _      _____ _      _____     ./  _/    .
+ .   /_    \________\________\\    ._)  _ \\______\__  \____|   \_ _ _: _
+ :     \______\\t^/lp!        ____ |   _/     /     /   \  _|   _////__\\
+                             /   /___  \      \ __ \\  _/__\|   \     :/
+  > theyard@graffiti.ag < _ /   / __//__\______\\_\ /_____/ \    \    :
+ :     _                  //_____\\:     \      /___|   \_________\  _.
+-.----\\-----------------------|   |----- .-----------||-------- ----/:
+ | tHE iDEA oF sTYLE iS tHE kEYl___|tO aLL fORMs oF rOCKiNG - TY 9603 |_
+-@----------------------------._____.---------------------------------@
+
+
+ 
+ 
+ 
+          .________________________________________________________.
+  __      |                                                        |
+ /_/\  ___|__¦______ ______________¦_______________________  _ _/\_|______
+ \_\/  \·    |     /_\______  /·   |    \_______   _ /    /_________    o/
+  +:    \\   |    /    ______//          \     /   //    /    /    /   //
+  :o     \_______/______|   /______|______\________/________ /________ /
+  .·      |                        ¦                       \/      | \/
+          |                                                        |
+  .       | U   P   H   O   L   D        T   H   E       L   A   W |
+          |                                                        |
+ ______/\_|_______¦____    __________     _____     _____   _____ /\ _____
+ \ _ o     _ /    |   ·\  /  ___    /    /    /____/o   /___\ _  /  \    /
+  \//      \/          \\/    _____/    /    /    //   /\    \\ /    \  /
+  /_________\_____|______\_______ /    /________ /____________\___/\___/
+          |       ¦             \/             \/                  |Sk¡n 
+          |________________________________________________________|
+
+                         dA uLTiMaTe dEMo BBS for:
+
+        aMiGa · pC · cONSoLe · aScII  ( c64, aTaRi & aRCHiMEdEs sOOn )
+
+
+      ReMeDy wHQ (Amiga)  ·  x-FiLEs nEWs sTaTiOn  ·  U.D.O. wHQ (Amiga)
+
+      LiGhtStORm iNc. gHQ (Amiga)  ·  aNAdUNe dIStRiBuTiON SiTe (Amiga)
+
+  aRtWoRk gHQ (Amiga & PC)  ·  sUPeRiOr aRt cReATiONs dIStRiBuTiON SiTe (PC)
+
+   aLieNDeSiGN gHQ (Amiga-Tools)  ·  tRSi rECoRDz dIStRiBuTiON SiTe (Audio)
+
+
+      sEArCHiNg fOr mORe gRoUPs!   eSpEziAllY c64, aTaRi aNd aRChiMeDEs!
+
+                                dA sYSOPs aRe:
+             Node 1 & 2 :                            Node 3 & 4 :
+         USR V.34+/x2 I-Modem       rAMSeS            Euro  ISDN 
+          +49-(0)30-47411057          &&          +49-(0)30-47411058
+                                     pASo
+
+                        -----  nOw X2 aVAiLaBle  -----
+ 
+ 
+ 
+
+
+                        .______ _ _ ____.     ______ _
+                       _|     ///_\\\   |____/ __  ///_.
+                ___ __ \_              _       \__/    | ___ ___
+           _:___\       |              /               |       /___:_
+            |           |_____________/     ___________|           |
+            ·                        /______|tGø                   ·
+   _ ______. _ ____  _ ______. _ _______ .______ _ _ __  _ ________. _ ______.
+ ._\\\__   |_\\\  /__\\\_    |_\\\_    /_|     ///_\\\_)_\\\  _    |_\\\_    |
+ | \___/         /      /        _/___/ \_                    /         /    |
+ |    /         /|     /         \       |                   /         /     |
+ |___________________ /      ____________|___________________________ /      |
+                     /_______|                                       /_______|
+
+       slapshot/slt · shallow/x! · scandic/dcn · zoltrix/hf · moondog/tnb
+
+          shelter & x-trek! whq (amiga) · saints & quasar ghq (amiga)
+           pioneer design ghq (ascii) · panzerknacker ghq (graffiti)
+      juicy dildos ehq (bitches) · underground anarchy front ghq (hpavcd)
+             tnb & tscc whq (atari) · vectronix & elite ghq (atari)
+
+    amiga · mac · atari · psx^n64 · graffiti · bitches · hpa · ascii · fame
+
+              2 nodes modem · 2 nodes isdn · 2 nodes telnet static
+            ·                                                      ·
+           _|___                                                ___|_
+            :  /_____ __ _  .x( the junction bbs )x.  _ __ _____\  :
+
+
+                  ._____.
+                  |     |  _____________    _______________
+    _________________   |__\__  _______/_ __\___  ______  /_______
+   _\_ ___________ _/_  |   _/_   ______/      /  \  ____/       /
+   \_            '  _/  !     /____           /    \ \      ..: /
+    `---------------'________/   `-----------' -----\__________/
+                  |     .               _____________
+        ÷ÐÅ!÷     |     | ______________\__ ________/_____
+        __________|___  |_\_ ___________ _/__________    /________
+       _\_  _________/ _|\_            '  _/        /   / _______/_ ______
+       \_   `           _/`---------------'____        /    ______/      /
+        `---------------'                    `--------'______           /
+                                                           `-----------'
+                          [ - o V E R D O S E - ]
+
+
+                [ - n O D E 1 :  + 4 8 - 1 2 - 1 3 0 4 4 4 - ]
+                [ - n O D E 2 :  + 4 8 - 1 2 - 1 1 s o o n - ]
+                [ - n O D E 3 :  t    e    l    n    e    t  - ]
+                [ - n O D E 4 :  t    e    l    n    e    t  - ]
+
+
+        [ - s Y S O P :   i M M O R T A L   /   f R E E Z E R S - ]
+
+                      [ - f R E E Z E R S   p H Q - ]
+                      [ - s H E L T E R     p H Q - ]
+                    [ - t E C H N O L O G Y   e H Q - ]
+                     [ - c H R O M A N C E   p H Q - ]
+
+                   [ - a M I G A ^ c 6 4 - s T U F F - ]
+
+
+ ************************************************************************
+ >>>>>>>>>  5 kicking nodes to make your uploads look pitiful!  <<<<<<<<<
+
+  _   _____\____________________
+ |_| |     \\                   |
+  ___|          /\  SYSOP: fURY :                d.i.A.L  h.A.R.D
+ |     ________/_ \ _________ __|__
+ :   ._)   ._    \ \\    _.  \\    |______
+ |   |     |/    /  \    \|   \_   |     /    SYSTEM PASSWORD ENABLED
+ |   |__________/____\____\____/    ____/  NEWUSER PASSWORD ENABLED
+ |                            |    |
+ :  CRUX     -  WHQ  AMiGA    |    |_____________ _____________ ________
+ \\ ROYAL    -  EHQ  AMiGA    |    |    .   _.   \\     ._    //  ._    \
+ |\ HELLFiRE -  SHQ  AMiGA    |         |   \|    \_    |/  _/    |/    /
+ |  ANTHROX  -  SHQ  CONSOLE  |____|    |____\_____/____/    \_._______/
+ :  MOTiON   -  SHQ  AMiGA      |  |____|               \______|
+ |_____________________\\_______:         04-Aug-97               sTZ!/sE
+                         \                17:02:31
+
+ >>>>>>>>>  5 kicking nodes to make your uploads look pitiful!  <<<<<<<<<
+ ************************************************************************
+
+
+
+
+
+              ______ _____ _____ ___.-___ __ _____ _____ ______
+             _)    _Y    _Y    _Y  (__)  | _Y   __Y    _Y     (_
+             \_  | \_  | \_  l_\_  _/\_    \_  _/\_  l_\_  |  _/
+              |  |  |     |  |  |  l  |  |  |  l  |  |  |  |  |
+              l__|  l_____l__|  l__   l__|  l__   l__|  l__|  |
+                 `--'              `--'  `--'  `--'        `--'
+                    ______ _____ ___.-______ _____ _____
+                   _)  ._ Y_   _Y  (__)    _Y    _Y   __|
+                   \_  |/  / | \_  | \_  | \_  |_\_  _/_
+                    |   __/  .  |  l  |  .  |  l  |  l  |
+                    l__|  l__|  l__   l__|  l__   l__   |
+                        2F   `--'  `--'  `--'  `--'  `--'
+
+            3nds Ringdown loaded with AMIGA/ASCII/CONSOLE/PSX/MAC
+
+              4040 26mb 7.3gb cd-rom 2/33.6ds 1/28.8ds 3/TELNET
+
+            * TRSI RECORDZ DKHQ * AFTERSHOCK HQ * HOODLUM DK HQ *
+           * MOT!ON HQ * ROYAL HQ * TRADERS DREAM  HQ * STYLE HQ *
+        * LSD HQ * DATA DIVISION EHQ * POLKA BROS. WHQ * PUZZLE WHQ *
+       * KEFRENS WHQ * SAVE OUR SOULS HQ * ARTWORK EHQ * OLDSKOOL HQ *
+        * 5TH DYNASTY HQ * TWILIGHT * LOOKER HOUSE EHQ * ARSENIC HQ *
+         * CRUX & BAD KARMA HQ * LIGHTFORCE HQ * ABUSE HQ * OMA HQ *
+
+                          THE PROTECTORS ARE:
+        ZINKO^PLAYMATE^SISko^BILBO BAGGIn^NEIL/FLT^BLACK PANTHER/PSG
+           UFOK/MsT^LsD^PsG^iHS^FURY/PSG/M!/SYS/HLM^KELDON^CHEWIE
+
+                         <0>  +45 58ASK4IT  <0>
+                         <0>  +FIND ON IRC  <0>
+
+
+[SOF]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    .___
+                        ___.           .____________:_ /
+                        \ _:___________|            |\/
+                         \/|           |            |
+                           |           :            |
+                           |:                       |
+                           ::     - twilight -      :
+                           .
+          _____   _________   /\   ____    /\   _____   _____   _____
+         _)    \__)  /   / \_/  \ _)  /___/  \ _) _  \__)  / \__)    \_
+        /___/   /   /   /   /_   \   /   / .· \   /   /       /___/   /
+           /___/___________/ /  /___    /  _ /___   _/___/   /   /___/
+                          /  _\    \---/ _ )\ _ \---/   `----\  2F
+                         /__________\ /__________\
+                           .                        :
+                           |           :            |_ _
+                        ___|           |____________|_ /
+                        \ _|___________|            :\/
+                         \/:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     provides you with the latest issue of:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   _____         _____   /\   _____   _____
+  _)__  \______ _) _  \_/  \ _)  _/___)  / \_    _ _ _
+ /   /   /_  _ \   /   /_ o \__     /       /    / . \
+/___    //   //___/   / /. /___'   /___/   / _____\ /________________________
+   `---/_________\----\  _)   \---/   `----\       Y
+                    /__________\                   .
+
+  _|_     ||___ _|_  ____   _|_ _______ ___  _|_   ._  _   ._  _|_ ___ __ __
+  )__))__(||)_/,)__,|)  (   )__))__()__\)  '(__(   `--.)__|`--.)__,)_/,) | (
+          ||                                       )__|.--')__|
+
+                                                  ____    /\   _____   _____
+                                     _ _ _       _)  /___/  \ _)  _/___)    \_
+                                     / · \  2F  /   /   /  · \__     /___/   /
+ _____________________________________\ /_____ /___    / // /___'   / _ /___/
+                                       Y          `---/ ·  _   \---/
+                                                     /__________\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Danish BBS List - Stay Away From The Road Please
+                ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+           Hi there, back again! The Summer vacation is nearly over,
+          alot of people are starting at school today or they will in
+            a couple of days. Other have been busy at their work for
+                             a long time allready.
+
+               This issue of the list have been 'shined' a bit up
+             with some new logos from 2Fast, have been used the old
+                       one for nearly a half a year now.
+
+           This month I got the correct datas from Flozzy, last month
+             I simply 'forgot' to include that he got ISDN. But all
+                           that should be fixed now.
+
+             A new board opened during July, The South it's called.
+                     Not much to say about, but call it :)
+
+           Also notice that I've got a new E-Mail adress, BUT you can
+              still use nco@amiga.dk - no problem for that, yet! :)
+
+               Uh! BTW: I got my driving licence today (topic!) ;)
+
+
+                            · THE DANISH BBS LIST ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Elite Board Name:   Phone:   Support Group(s):    SysOp:     Baud: H:   Flags:
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Artificial Wonder   PRiVATE! Renegade/Total Chaos Slartibart. 28k8 N        /X
+Battle Field    [1] 3646336O Decision        [DK] Flozzy      33k6 Y PC,RD,S!X
+Battle Field    [2] RiNGDOWN Decision Mac     [W] Flozzy      33k6 Y   NET,S!X
+Battle Field    [3] 36151628 Saints           [E] Flozzy      iSDN Y  iSDN,S!X
+Battle Field    [4] RiNGDOWN Craze/Cannabis  [DK] Flozzy      iSDN Y   MP3,S!X
+Bomb the Bass   [1] 5383OO99 Independent          Mc ZipLib   28k8 N  PC,RD,/X
+Bomb the Bass   [2] RiNGDOWN Independent          Mc ZipLib   28k8 N  PC,RD,/X
+HippoDrome          3646474O Independent          Nerat       28k8 N     PC,/X
+Illegal Connection  43622966 Independent          Acoma       28k8 N   PC,C,/X
+Insanity            47924O54 Relish          [DK] Saint       28k8 N     PC,F!
+Kings Castle    [1] 44643616 Independent          Lionheart   28k8 N     PC,/X
+Kings Castle    [2] RiNGDOWN Independent          Lionheart   28k8 N      C,/X
+Northern Palace [1] PRIVATE! CBK/TRSI R/AS/HLM/LFC/tL! Zinko  33k6 Y   RD,C,/X
+Northern Palace [2] RiNGDOWN M!/SE/LKR/LSD/DAT/PB/PZL  Zinko  28k8 Y     CD,/X
+Northern Palace [3] RiNGDOWN RYL/ABS/SOS/OS/5D/AW/KEF  Zinko  33k6 Y    NET,/X
+Organized Confusion 56311468 IRIS             [W] Sticky      28k8 N    PC,S!X
+Primal Rage     [1] 39961111 Element         [DK] Darkwing    33k6 Y   NET,S!X
+Primal Rage     [2] RiNGDOWN Twilight        [DS] Darkwing    33k6 Y  ISDN,S!X
+Primal Rage     [3] RiNGDOWN Hostile Graphicalent Darkwing    iSDN Y   MP3,S!X
+Primal Rage     [4] RiNGDOWN Logic Innovation     Darkwing    iSDN Y    RD,S!X
+Sky Tower       [1] PRiVATE! Digital Corruption   Enzo        33k6 Y      C,F!
+Sky Tower       [2] RiNGDOWN Shelter         [DK] Enzo        33k6 Y    NUP,F!
+Sky Tower       [3] RiNGDOWN Hellfire         [E] Enzo        33k6 Y     RD,F!
+Sky Tower       [4] RiNGDOWN Insane           [E] Enzo        33k6 Y    MP3,F!
+Sky Tower       [5] PRiVATE! Nightfall       [DK] Enzo        iSDN Y   ISDN,F!
+Sky Tower       [6] RiNGDOWN AudioPhiles     [DK] Enzo        iSDN Y TELNET,F!
+Synergy Denmark     399O2992 PTQ/FLE/LGI/HS!/TL!  Genius      28k8 Y   NET,S!X
+Tea Tree            31228235 Independent          Tea Drinker 28k8 N        /X
+The Channel     [1] 734O7O4O Skid Row        [DK] Marc        33k6 N     RD,/X
+The Channel     [2] RiNGDOWN Onyx            [DK] Marc        33k6 N   ISDN,/X
+The Channel     [3] RiNGDOWN Skid Row        [DK] Marc        iSDN N TELNET,/X
+The Channel     [4] RiNGDOWN Onyx            [DK] Marc        iSDN N        /X
+The South           36482042 Relish           [D] Cyberbob    33k6 N    NEW,F!
+The Trip            55778835 Creed/Sceptic/Vodka  Jawlog      28k8 N     CD,/X
+Trade Central   [1] 3297119O Rebels           [W] Bakerman    33k6 Y        F!
+Trade Central   [2] 32971195 Depth            [W] Bakerman    28k8 Y        F!
+Trade Central   [3] 3286119O Fnuque/Loonies   [W] Bakerman    iSDN Y        F!
+Trade Central   [4] RiNGDOWN EuroChart&Hydra Mag. Bakerman    iSDN Y   ISDN,F!
+Wasted Warez    [1] 32843OO8 Flood Demo Div.  [W] Chevy       33k6 Y    RD,S!X
+Wasted Warez    [2] 328493O8 Flood Demo Div.  [W] Chevy       33k6 Y    RD,S!X
+Wasted Warez    [3] RiNGDOWN Flood Demo Div.  [W] Chevy       28k8 Y    RD,S!X
+World of Dreams     4824999O Ambrosia/Relish      Raivo       28k8 Y     PC,F!
+X-Mortis            44991O78 Dune/PSX Force   [W] 2Pac        33k6 Y     C,S!X
+     ______________________________________________________________________.
+   ._\                                                                     |
+   |   Twilight Danish BBS List updated on the 4th of August 1997 by Nicko |
+   |             Total [2O] Elite Boards - New/Closed boards [+1]          |
+   |_______________________________________________________________________|_
+                                                                           '
+
+
+
+
+
+
+
+
+
+
+
+                                     Flags:
+                                     ¯¯¯¯¯¯
+              C ................................... Console section
+              CD .......................... CD-Rom connected to BBS
+              H: ..................... Hydra Magazine support [Y/N]
+              ISDN ...................................... ISDN node
+              MP3 .......................... MP3 audiofiles section
+              Name ................................. New Board name
+              Net .......................... TelNet nodes available
+              New ............................ New since last issue
+              Node ................ Another node connected to board
+              Number ................................... New number
+              NUP ......................... (N)ew (U)ser (P)assword
+              PC ....................................... PC section
+              RD ......................................... Ringdown
+              ReOpen ............................. Board open again
+              T ........................... Time open ?? - Close ??
+              TClosed ............................ Temporary closed
+
+             [DK] = Danish Headquarter  [E] = European Headquarter
+             [DS] = Distribution Site   [W] = World Headquarter
+
+        The last word in ·FLAGS· is the BBS system the board is running:
+
+          /X = AmiExpress  -  S!X = Sigma  -  F! = Fame  -  L! = Logic
+
+
+
+
+
+
+
+
+
+
+
+                         Contact The SysOps By E-Mail:
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+    Bakerman, Trade Central:
+
+                               bakerman@image.dk
+
+    Chevy, Wasted Warez:
+
+                              chevy@post4.tele.dk
+
+    Darkwing, Primal Rage:
+
+                             dkw-fld@geocities.com
+
+    Enzo, Sky Tower:
+
+                                 enzo@image.dk
+
+    Flozzy, Battle Field:
+
+                              flozzy@post3.tele.dk
+
+    Genius, Synergy Denmark:
+
+                              gns_fld@hotmail.com
+
+    Jawlog, The Trip:
+
+                              jawlog@post4.tele.dk
+
+    Sticky, Organized Confusion:
+
+                             all-niel@post2.tele.dk
+
+    Zinko, The Northern Palace:
+
+                                 zinko@trsi.de
+
+
+
+
+
+
+
+
+
+
+
+                             Lately Closed Boards:
+                             ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+    Bodycount          - Closed, because of inactivity. Read "bc-closd.txt".
+    Deep Bass Nine     - Closed, reason unknown!
+    Elektrick Kafe     - Closed, according to Silicon.
+    Gangsters Paradise - Closed, read "closegp.txt"
+    Mainline           - PC board now.
+
+
+
+
+
+
+
+
+
+
+
+                           You Should Read This Too:
+                           ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                  If you have any information, suggestions of
+             improvements that could be made to this list or don't
+                want your BBS to be included, I would appreciate
+             if you would tell me about it.  Post a message for me
+                 at the boards you see me at often. Also if you
+                   want a special flag on your BBS, that can
+                       easily be fixed in a future-coming
+                                   BBS-List.
+
+                I'm not responsible for any errors in this list,
+                  offline boards, wrong groups, wrong modems,
+                               or missing boards!
+
+                If you foreigner then remember to call Denmark's
+                   international prefix first. So now is the
+                         number: +45-xxxx-xxxx (number)
+
+
+
+
+
+
+
+
+
+
+
+                              How To Contact Me:
+                              ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+    BBS:
+
+                  The fastest way is to leave a message to me
+                     at The Northern Palace BBS. I'll give
+                          it call almost everyday (!)
+
+
+    E-Mail:
+
+                               nco@post8.tele.dk
+
+                    and page me at: 20772654@note.sonofon.dk
+
+
+    IRC:
+
+                         #AmigaDK, #AmiElite or #Ascii
+
+
+    Homepage:
+
+                        http://home6.inet.tele.dk/twilight
+
+                         or http://home8.inet.tele.dk/nco
+
+
+    FidoNet:
+
+                                  2:236/516.17
+
+
+    Voice:
+
+                                  +45-2077-2654
+
+
+
+
+
+
+
+
+
+
+
+                                  Thanks To:
+                                  ¯¯¯¯¯¯¯¯¯¯
+           Flags/Design etc. idea original by:     Zcandaler
+           Twilight ascii was done by:             2Fast/Jedi Arts
+           1st Danish BBS List ascii was done by:  2Fast/Jedi Arts
+           Twilight file_id.diz was done by:       2Fast/Jedi Arts
+           2nd Danish BBS List ascii was done by:  Taxi/Nonsense
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ_|_ _|_             | _____._|___ _|_ ____|_
+ |  )____,)___|___(|||)____|)    ))____,  |
+ |                  | .----'            2F|
+ |                                        |
+ | Danish Elite Amiga BBS List - Aug 1997 |
+ | Issue 26 - Made by Nicko/Twilight^sLt! |
+_|________________________________________|_
+ |                                        |
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    You've been watching the latest issue of:
+
+
+
+
+
+
+
+
+
+
+
+                             _._             _._
+                              |_\___________/_|
+              ______ ________ |    ______ ___ |  _________  ______
+     _ __ ____\_    \ ___   / +____\_    \ _/ + /    ____/--\    /  __ _
+        /-\    /    /   \    \-\    /    /   \|-\____   \    \__  \-\
+       / /    /    /\    __   \    /    /\    \    /    /\    _/   \ \
+   _ _/-/_________/--\____\----\--/_____\-\____\_______/--\____\----\-\_ _
+    ______  _____        _____|___ ______     |  ____________    _____
+    \  __/_/   _/_____  /    ____/ \    /     |  \_____   __/___ \   /_
+   /   \_   \  \__   / _\____   \   \    \----\ /    /______   /·   __/___
+  /    /    /    \    \    /    / t! \    \    \    / T    \    \   /    /
+  \________/^\________/________/      \_________\ _//\ \________/_______/
+                              +               +     ¯¯
+                        d a n i s h   b b s   l i s t
+                              |_______________|
+                             _|_/           \_|_
+
+
+
+
+
+
+
+
+
+
+
+                     and that was issue 26, August 1997 !!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[EOF]
+
+
+                ___  __ _.
+ _____   ___   (___)_)//¬|____    ___.    ____ _ ______  ______    .___ ___
+ \ __/__ \  |__ \¬(_   __! __/__  \ _|___ \  .  .\___  .\\__  _)___|_ // _/__
+|¯ -'  ¬|¯  |  |¯  |   ||¯ -'  ¬||¯ \__ ¬|¯  !  |   /  |   .  ¬|  __/ |---- ¬|
+l_______l______l___l___!l_______!l_______l______l___|__l___|___l______l______!
+                                                                          ©gNS
+
+
+[EOF - ONCE AGAIN :)) ]
+
+
+
+
+
+
+ .                   this file has been frozen inside                     .
+                                                                          .
+ :                            ____ _|_ __                                 :
+ :                             \/  \ / \/,                                :
+ : ______    ______    ______  ____      _____     ______   ______  ______:
+ __) _  (____) __ (____)  _ (__)  (__  __)   /_____) ___( __)  _ (__) _  (__
+/    /    _     (   _      __     __/_/   _ /   _   __(__/      __    /    /
+\___/    /\____    /\___/   \____ (   \___/    /\____   _____/   \___/    /
+ :  )___/gdm-)____/    /____/  )______/  /____/    )____/lkr/____/   )___/:
+ :                 _                                    _                 :
+ :         -   - -)_)- P ·  A  ·  L  ·  A  ·  C  ·  E -(_(- -  -          :
+ :                                                                        :
+ `----------------.- t.h.e.n.o.r.t.h.e.r.n.p.a.l.a.c.e -.-----------------'
+
+    _::_   3nds ringdown loaded with amiga/ascii/console/psx/mac    _::_
+     \/      4040 26mb 7.3gb cd-rom 2/33.6ds 1/28.8ds 3/telnet       \/
+
+ motion · royal · traders  dream · trsi  recordz · aftershock · hoodlum  hq
+  style · looker house · lsd · data division ehq · polka bros · puzzle whq
+   oma · sos · abuse hq · crux & bad karma hq · oldskool hq · arsenic hq
+     5th dynasty · lightforce hq · artwork ehq · twilight · kefrens whq
+
+                 .   -  -  board dedushka-morozes  -  -   .
+                 :                                        :
+  zinko · playmate · sisko · bilbo baggins/m! · neil/flt · keldon^chewie
+          ufok/mst^lsd^cbk^ryl · fury/psg/m! · black panther/psg
+                 :                                        :
+                 . -^-  - -santa +45-58aSKyARSELF- -  -^- .
+
+                 .                                        .
+
+
+
+
+
+
+ **************************************************************************
+ ==========================================================================
+        .______
+   _____|_    /_______ ____________ ______.
+  /     __    \_______)\_______    \      |_______
+ /      |      \      \_     _/     \     |      /    uled on: 04-Aug-97
+ \_____________/_______/____________/___________/skZ
+                        ______.                                    .______
+                        \    _|_____ ____________ ____________ ____|_    /
+                        /    __     \\_______    \\     _     \__  __    \
+     diAL hARD!        /      |      \_    _/     \     |_______/  |      \
+                    wL!\______|_______/___________/_____|   \_____________/
+
+ ==========================================================================
+ **************************************************************************
+
+                                                     [A¡RaDDer v3.5 By A¡Rcø]
+
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+     _ _  _/\____  ___.__/\___/\___/\_____/\___/\_____/\________/\_  _ _
+    ////\ \____  \/   |    \ ___/\___  \____ \____  \    ____/ ___/ ////\
+    \\\\/  /  |   \   |    / _)_| __/ _/_|/   \  |   \___   \  _)_  \\\\/
+          /   ·    \  !   /     \_\      \_    \ ·    \ \    \    \_ [dRAw]
+          \________/_____/_______/_\______/____/______/______/_____/
+
+
+     fREEZERS pLHQ  ÷  sHELTER pLHQ  ÷  tECHNOLOGY eHQ  ÷  cHROMANCE pLHQ
+
+
+                           SysOp: iMMORTAL/fREEZERS
+          ][ aMIGA^C= warez ][ a1200/10 MEGz rAM/enough gB ][24/24h][
+
+
+   NODE1: +48-12-130444  ·  NODE2: +48-12-11!ask!  ·  NODE3&4: T E L N E T
+
+  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                                          [-AquaAdder v1.0-]
+
+  ·
+  _\
+  \ __ ____________ _        · the junction bbs ·         ·   ·Mo!\aL·
+   \\/                                                    .
+    \      .__ _____       ____            _______     ___: ___________
+  ._ \ ____| _/   _/__  ___\   \_____ ___ _\_    /____/   |_\_        /_______
+ _|   \    | \  _/   /  \   \   /   /   /   /   /    /    _/(_)_ /  _/_\_    /
+ \_    \   :  \______\  /______/   /   /___/____\    \_.__|    /____\   /   /
+  |__  /___|____\ «------------\_______\---------\_____|--|____\-»  /__/____\
+     \/                                                   ·
+
+       slapshot/slt · shallow/x! · scandic/dcn · zoltrix/hf · moondog/tnb
+
+          shelter & x-trek! whq (amiga) · saints & quasar ghq (amiga)
+           pioneer design ghq (ascii) · panzerknacker ghq (graffiti)
+      juicy dildos ehq (bitches) · underground anarchy front ghq (hpavcd)
+             tnb & tscc whq (atari) · vectronix & elite ghq (atari)
+
+    amiga · mac · atari · psx^n64 · graffiti · bitches · hpa · ascii · fame
+
+              2 nodes modem · 2 nodes isdn · 2 nodes telnet static
+
+
+
+ 
+ 
+ .------------------------------------------------------------------\\---.
+ |                                                                   \\  |
+ |     :____.              .____.              .____.                 \\ |
+ |     |    |____  _______ |    |     ________ |    |      _______     \\|
+ |__ _ |    |    |_\__.   \|   _|___  \___.   \|    |    ._\__.   \_ _ _\\
+ |     |    |    |    |    |   \_   \_    |    |    |   _|    |    |     \
+ |     |    |    |    |    |    |    |    |    |    |__/ |    |    |     |
+ |     |    |    |    :    |    |    |    |    |    | /  |    |    |     |
+ |     |    :    |    .___/|    |    |    :    |    :    |    :    |     |
+ |     |         |    |    |    |    |         |         |         |     |
+ |__ _ |         |    |    |    |    |         |         |         | _ __|
+ |     ¯\_______/|____|    |____|    |\_______/¯\_______/|________/¯     |
+ |                              |____|                                   |
+ |                              :    :                                   |
+ |           .____.                  .____.              .____.          |
+ |   ________|    |      _________   |    |      _______ |    |  .____.  |
+ | _/        |   _|___ ._\  _____/   |    |    ._\__    \_    |  |    |  |
+ | |    .    |   \_   \|    __)__    |    |   _|    |    |    |  |    |  |
+ | |____|    |    |    |    |    |   |    |__/ |    .    |    |  |    |  |
+ |      |    |    |    |    |    |   |    | /  |    |    |    |  |    |  |
+ |      |    |    |    |    :    |   |    :    |    |    |    |/\|    |  |
+ |      |    |    |    |         |   |         |    |    |    :  :    |  |
+ |      |    |    |    |         |   |         |    |    |            |  |
+ |      |____|____|    |\_______/¯   ¯\_______/|____|    |\____/\____/¯  |
+ |                |____|                            |____|·AbN·          |
+ |                :    :                            :    :               |
+ |                       dA uLTiMaTe dEMo BBS for:                       |
+ |                                                                       |
+ |    aMiGa · pC · cONSoLe · aScII   ( c64, aTaRi & aRCHiMEdEs sOOn )    |
+ \                                                                       |
+ \\            Node 1 & 2 :                     Node 3 & 4 :             |
+ |\\          USR V34+ Modem                     Euro  ISDN              |
+ | \\       +49-(0)30-47411057               +49-(0)30-47411058          |
+ |  \\                                                                   |
+ `---\\------------------------------------------------------------------'
+ 
+ 
+                                             [mULTI-cHECK v1.5 by SieGeL/tRSi]
+
+                                              ¡    fOR pLEASURE sINCE 1996
+>> ¡ -------------------------------------- - |. - ----------------------- -
+  .|  w  o  r  l  d    h e a d q u a t e r s  ||
+  ||     bad karma - phantasy - up rough      !| _
+  |!   divine stylers - dtr - ageema blues     | ;
+  |      aeroholics - black maiden - mvp       |   _
+  |                                            |   ;
+  7   g e r m a n  +  e u r o p e a n  h q's   |
+  :    lightforce - oldskool - rising sun      |
+  ¡   supplex - royal - soia - low profile     |
+_ |    drunken - 1oo% - true school - asl      | "...dON't pLAY uS cHEAP!"
+; |                                            !
+  |   amiga/ascii/graffiti/handheld consoles    ___.     ______.    drn\lp!
+  |    n64/snes/gb/gba/ngp/wsc archive/ngc     \\  !___  \     !__ _ _ ________
+  |    apple macintosh/pc audio-gfx apps/dd    \\  .__/--\\   ._   \ / ._     /
+  |     =c64/atari/speccy/sample soundbank     _\  ;/     \   !/    \  !/____/_
+  |                                            /___/     _____/     __ /    __\
+ _!   daydreaming on 5 telnet nodes. 24h/day.      `----'     `----'  `----' 
+\\;     . ______   ___ _ _ _________   _______                            ¡
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   y A R d _______,|
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\ ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\ !
+     ,_____\     `----'  `----\      `----'     theyard@graffiti.ag

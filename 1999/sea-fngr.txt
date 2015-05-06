@@ -1,0 +1,1805 @@
+
+                                  .........
+                                  ::::   ::
+                                  ::   ::::
+                                  :  :::  :
+                                  ::::   ::
+                                  ::   ::::
+                                  :       :
+           [node0: +48-91-4879493] [node1: telnet] [node2: telnet]
+   ___       ___        _______   :____   :  _______   ____     ___
+  _| _|_ __ |   |___  _|   __  | _| ___|__:_|   __  |_| ___|_  _| _|_ __
+  |    _| |_|  __   |_|     |  | |_______        |           |_|    _| |_
+  |__      ____||    __  ______| |_   |_| __  _________       ____      |
+     |_____|    |____| |____|     :|______| |____|    |_______|   |_____|
+                                  :       :                     az0!/l124
+            [powered by amiga1240T/603e/240mhz/4gb warez space]
+          [nonstop supporters: jacobs - prefix.appendix - ziutek]
+                        [master: madbart.appendix]
+                                  :       :
+                      !still third place in the world!
+                                  :       :
+                               ...:....   :...
+                               :  ·       :  :
+                               :  :       ·  :
+                               :..:   .......:
+                                  :       :
+                      !still third place in the world!
+                                  :       :
+        [appendix/whq] [anadune/whq] [teklords/phq] [floppy/phq]
+ [dinx project/phq] [jormas/phq] [mawi/phq] [doggystyle/phq] [venus art/phq]
+     [pic saint loup/phq] [linear whq] [old bulls phq]  [sativa mea/phq]
+   ___       ___        _______   :____   :  _______   ____     ___
+  _| _|_ __ |   |___  _|   __  | _| ___|__:_|   __  |_| ___|_  _| _|_ __
+  |    _| |_|  __   |_|     |  | |_______        |           |_|    _| |_
+  |__      ____||    __  ______| |_   |_| __  _________       ____      |
+     |_____|    |____| |____|     :|______| |____|    |_______|   |_____|
+                                  :       :                     az0!/l124
+           [node0: +48-91-4879493] [node1: telnet] [node2: telnet]
+                                  :       :
+                                  ::   ::::
+                                  ::::   ::
+                                  :  :::  :
+                                  ::   ::::
+                                  ::::   ::
+                                  :.......:
+
+
+
+
+@BEGIN_FILE_ID.DIZ
+
+           ___   [.z.a.b.0.r.a.!.]-+
+ zbr\s3a---\ /  _______   ________ |
+    _______ / __\   __/_ _\   _  /_!
+ ___\    _/__\        __|     _    |
+|    \___     \---\_____!-----/____!
+·--\___________\\--------[.s.e.a.]-+
+                   [.f.i.n.g.e.r.]-+
+     [.m.y. .2. .c.o.l.l.y. .i.n.]-+
+           [.s.a.t.i.v.e. .m.e.a.]-!
+
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     _ ____________________________________/_
+                                          /
+           ____   _______ .____       _______   ________   _______
+     ______)__ \./   _   \|  _(______/       \._\___    \ /   _   \.
+     \     _____|    _    |  \_     /    7    |   _(    /.    _    |
+      \    \i___\____/    |   '    /__________|___\______|____/    |
+      tF!___\       /_____|_______/                          /__u'R!
+                                    /   z  a  b  o  r  a  !
+                                  _/_______________________ _
+                                  /
+       wellcome in zabora.net
+
+
+
+
+Login: zabora
+Password:
+
+
+   Welcome zabora!/sative mea.old bulls.palimy traFke.web404
+   Welcome home zabora...
+
+   You have mail.
+
+
+[zabora@zabora.net] man finger
+
+
+    NAME
+        finger - user information lookup program
+
+    VERSION
+        $Id: finger.c,v 6.12 1994/10/04 18:26:21 jraja Exp $
+
+    SYNOPSIS
+        finger [-lmsp] [user ...] [user@host ...]
+
+    DESCRIPTION
+        The finger displays information about the system users.
+
+        Options are:
+
+        -s    Finger displays the user's login name, real name, login time
+              and host, office location and office phone number.
+
+              Login time is displayed as month, day, hours and minutes,
+              unless more than six months ago, in which case the year is
+              displayed rather than the hours and minutes.
+
+              Unknown hosts as well as nonexistent login time are
+              displayed as single asterisks.
+
+        -l    Produces a multi-line format displaying the user's login name,
+              real name, the user's home directory, home phone number, login
+              shell, and the contents of the files `.forward', `.plan' and
+              `.project' from the user's home directory.
+
+              Phone numbers specified as eleven digits are printed as
+              `+N-NNN- NNN-NNNN'.  Numbers specified as ten or seven digits
+              are printed as the appropriate subset of that string.  Numbers
+              specified as five digits are printed as `xN-NNNN'.
+
+        -p    Prevents the -l option of finger from displaying the contents
+              of the `.forward', `.plan' and `.project' files.
+
+        -m    Prevent matching of user names.  User is usually a login name;
+              however, matching will also be done on the users' real names,
+              unless the -m option is supplied.  All name matching performed
+              by finger is case insensitive.
+
+        If no options are specified, finger defaults to the -l style output
+        if operands are provided, otherwise to the -s style.  Note that some
+        fields may be missing, in either format, if information is not
+        available for them.
+
+        If no arguments are specified, finger will print an entry for each
+        user currently logged into the system.
+
+        Finger may be used to look up users on a remote machine.  The format
+        is to specify a user as `user@host', or `@host', where the default
+        output format for the former is the -l style, and the default output
+        format for the latter is the -s style.  The -l option is the only
+        option that may be passed to a remote machine.
+
+    SEE ALSO
+        in.fingerd
+
+    HISTORY
+        The finger command appeared in 3.0BSD.
+
+[zabora@zabora.net] ping sea.gov.pl
+
+PING zabora (148.91.22.15): 56 data bytes
+64 bytes from 148.91.22.15: icmp_seq=0 ttl=255 time=3 ms
+64 bytes from 148.91.22.15: icmp_seq=1 ttl=255 time=3 ms
+64 bytes from 148.91.22.15: icmp_seq=2 ttl=255 time=5 ms
+64 bytes from 148.91.22.15: icmp_seq=3 ttl=255 time=3 ms
+64 bytes from 148.91.22.15: icmp_seq=4 ttl=255 time=4 ms
+64 bytes from 148.91.22.15: icmp_seq=5 ttl=255 time=5 ms
+64 bytes from 148.91.22.15: icmp_seq=6 ttl=255 time=3 ms
+
+--- sea.gov.pl ping statistics ---
+4 packets transmitted, 7 packets received, 0% packet loss
+round-trip min/avg/max = 3/4/5 ms
+
+
+[zabora@zabora.net] ssh sea.gov.pl
+
+Trying 148.91.22.15...
+Connected to sea.gov.pl.
+
+Escape character is '^]'.
+
+
+
+          _ __._____                               ___      __
+              |O°  (_____·/___   __           _____) /      \(_._ _
+              |  . ... . /·   )--\/-÷   °    ÷\     /--  - --\÷|
+              |   ___      .        .    .   ¯¯     ¯.   .     |
+              |   \ /         °          .:.           °       |
+              |    \    A    T    I    V    E     M    E   /\  |
+            __|____¯_     _____          _______ _      ____   |_
+         ____\     //-/  __\  //____   ___\     //-/  ___\  |--//-/
+  _______|°___\      /--|°      ___/--|°   \______/--|°     |    /--|____ _
+___\     / \/         ..|.          ..|.           ..|.        .___\     //-/
+°    ______/--|____ _  _|________ _  _|_________ _  _|_________|°___\      /--|
+__________  ..|    //__\         //__\  .      //__\           | \/         ..|
+_________ _  _| :    o      .            .             .  °    |_________ _  _|
+   ·     //__\. .  .,      .,.   . '  °    .   °     .  .      |az0!/sea //__\
+   ·          |    __  ___ _      _______ _      ______: _     |
+   ·          | ____\\/   //-/  ___\     //-/  ___\     //-/   |
+   ·          | |°          /--|°________  /--|°___\      /--| |
+   ·          | |            ..| \/      \/ ..| \/         ..| |
+   ·          | |_______\\/_  _|_________ _  _|_________ _  _| |
+   ·          |           //__\          //__\          //__\  |
+   ·          |  :.              . '                        .  |
+   ·          |  . azzaro - blaze - revi - zabora! - x-ball ,  |
+   ·          |           ____ __ ______     __  .   .,.       |
+   ·          °-----------\  ( \/       )____\(    __   _ / .; |
+   ·                                        (_)\-÷-\/--÷)/__ ° |
+   ·                                                        )__|_ _
+   ·wellcome in sea.gov.pl - official site of sative mea azkee band
+   ··········································································
+
+Login: zabora
+Password:
+
+Password incorect!
+
+
+Login: zabora
+Password:
+
+done...
+
+You have new mail.
+
+[sea.gov.pl] mail
+Mail version 8.1 6/6/93. Type ? for help.
+"/usr/var/spool/mailzabora": 8 messages.
+
+
+> 1. The Bastard Ope    "secure 15.02:20:19"
+> 2. The Bastard Ope    "secure 15.02:22:58"
+> 3. The Bastard Ope    "secure 15.02:23:00"
+> 4. The Bastard Ope    "secure 15.02:23:20"
+> 5. The Bastard Ope    "SECURE 16.02:00:01"
+> 6. The Bastard Ope    "secure 16.02:00:37"
+> 7. czlowiek lufka     "!"
+> 8. kevin.m            "exploits"
+
+& q
+
+[sea.gov.pl] cd sea
+
+[sea.gov.pl] pwd
+/usr/local/user/zabora/sea
+
+[sea.gov.pl] ls
+
+sea-1999.txt  sea-blue.txt  sea-jtkn.txt  sea-pulv.txt
+sea-1pos.txt  sea-dubt.txt  sea-neon.txt  sea.news_v01
+sea-4a3.txt   sea-fngr.txt  sea-orig.txt
+
+[zabora@sea.gov.pl] cat sae.news_v01
+
+
+
+                          [ b|z'sea ]     _:__________/_______ __________:_
+       __________       ____________      \|         /        \)         |7
+      /    ______\     /  ______   /       :        /          \         |
+     /______     /_____\______\   /      __:_      /___________ \·       |
+    /    _______/  ____    \/    /_______|__|     /    _______/  \\      |7
+   /    /      /   \  /    /    /  ________|/    /     ______|    \\     /
+               \_____/    /    /    /  __  /    /\_____     /      ·\   /:
+                    /    /    /    /    /_/    /      /    /         \   :
+                        /          \__________/      /    /____       o  j
+                       /                   :        / _  ____  \         :
+       ,     ___ .  _ /     _____          :       /   \/      /         ;
+       )  /\  |  |  \/  E   |`|'|  E  /\   :      /    /______/____      |
+                                        \  :     /    /    _______/      |
+    * azzaro * blaze * revi * zabora! *  \ :         /     ______|_______:_
+                 * x-ball *               \:         \_____     /  ____    \
+                                           \              /    /   \  /    /
+                                           :\                  \_____/    /
+           FORGET ABOUT STANDARDS!         : \                      /    /
+                                           |_(\__________________________:
+
+                                                [ o f f i c i a l  n - e w s ]
+
+ - SATIVE MEA was formed by ex.LINK124 members like Azzaro, Blaze and Revi.
+ - Zabora! joined from nowhere.
+ - X-Ball joined from nowhere.
+ - We are looking for more members/boards woldwide!
+
+                     [ o f f i c i a l   r e l e a s e s   t i l l   n - o w ]
+ -----------------------------------------------------------------------------
+ no. | shortcut     | full title              | artist  | date       | lenght
+ -----------------------------------------------------------------------------
+ ONE-NINE-NINE-EIGHT]. .[08 releases till now
+ -----------------------------------------------------------------------------
+ 01. | sea-dubt.txt | dubitation              | blaze   | 18/12/1998 | 042.104
+ 02. | sea-neon.txt | neon flow               | azzaro  | 15/12/1998 | 074.000
+ 03. | sea-orig.txt | origami                 | azzaro  | 20/12/1998 | 116.314
+ 04. | sea-4a3.txt  | 456 alien 3             | azzaro  | 20/12/1998 | xxx.xxx
+ 05. | sea-blue.txt | portrait out of the blue| azzaro  | 20/12/1998 | xxx.xxx
+ 06. | sea-pulv.txt | pulverturm              | azzaro  | 20/12/1998 | xxx.xxx
+ 07. | sea-jtkn.txt | jak to kurwa nazwac?    | zabora  | 10/12/1998:) 021.550
+ 08. | sea-1pos.txt | 100 percent of shit     | blaze   | 10/01/1999 | 022.858
+ 09. | sea-1999.txt | najnhundretnajntynajn   | blaze   | 11/01/1999 | 048.361
+ 10. | sea-fngr.txt | finger                  | zabora  | 16/02/1999:) 050.777
+ -----------------------------------------------------------------------------
+ FURTHCOMING].
+ -----------------------------------------------------------------------------
+     | sea.hack.txt | hacka                   | zabora  |xx/02/1999  | xxx.xxx
+ -----------------------------------------------------------------------------
+ total number of collections: 010           total lenght in bytes:
+ -----------------------------------------------------------------------------
+                                                     [ s - t a t i s t i c s ]
+ -----------------------------------------------------------------------------
+                         actual members productivity:
+
+     azzaro ---------- 05 ascii collections, 05 own made, 00 cooperations
+     blaze ----------- 03 ascii collections, 03 own made, 00 cooperations
+     revi ------------ 00 ascii collections, 00 own made, 00 cooperations
+     x-ball ---------- 00 ascii collections, 00 own made, 00 cooperations
+     zabora! --------- 02 ascii collections, 02 own made, 00 cooperations
+ -----------------------------------------------------------------------------
+                                                           [ c - o n t a c t ]
+ -----------------------------------------------------------------------------
+           azzaro - tommy wisniewski · szeroka 35/8 · 75-814 koszalin · poland
+                                           e-mail: zorka19@puma.tu.koszalin.pl
+
+               blaze - patryk kalinowski · p.o.box 3 · 21-200 parczew · poland
+
+               revi - slawek ostruszka · moniuszki 4 · 43-400 cieszyn · poland
+                                                     e-mail: revi@mailcity.com
+
+          x-ball - marko nowacki · dabrowskiego 66/7 · 41-500 chorzow · poland
+
+        zabora! - grzesio zaborowski · balonowa 5/17 · 54-129 wroclaw · poland
+                                         e-mail: zabora@bratek.ift.uni.wroc.pl
+
+                     call SEA polish headquarter: DA SECT BBS - +48-91-4879493
+                    look oficial sea web page: http://kret.ifd.uni.wroc.pl/sea
+ -----------------------------------------------------------------------------
+                     typed by blaze/sative mea, psychikal kreation at 11/01/99
+ -----------------------------------------------------------------------------
+
+
+
+[sea.gov.pl] cd finger_colly
+
+[sea.gov.pl] pwd
+
+/usr/local/user/zabora/finger_colly
+
+[sea.gov.pl] myls -h
+
+myls - list directory by zabora/old bulls
+v.02b - [under construction]
+zabora@bratek.ift.uni.wroc.pl
+
+-l, --long       long
+-g, --gfx        gfx mode
+-a, --all        all filles
+-c, --count      count
+-d, --date       list date
+-b, --block      list block
+-h, --help       this help
+-v, --version    version and info
+
+myls <options> <directory>
+
+[sea.gov.pl] myls -gl
+
+|[lp]|  [acces]      |  [owner]       |  [group]          |  [file]
++----+---------------+----------------+-------------------+------------------
+|01  | -rwxr--r--    |  acid          |  mawi             |  acid
+|    |               |                |                   |
+|02  | -rwxr--r--    |  azzaro        |  sative_mea       |  azzaro
+|    |               |                |                   |
+|03  | -rwxr--r--    |  blaze         |  palimy_trafke    |  blaze
+|    |               |                |                   |
+|04  | -rwx------    |  cerber        |  old_bulls        |  cerber
+|    |               |                |                   |
+|05  | -rwxr--r--    |  voicer        |  pt               |  contact_box
+|    |               |                |                   |
+|06  | -rwxr--r--    |  twister       |  garbage          |  deez_nuts
+|    |               |                |                   |
+|07  | -rwx------    |  elfica        |  pt               |  elfica
+|    |               |                |                   |
+|08  | -rwxr--r--    |  emers         |  emers            |  emers
+|    |               |                |                   |
+|09  | -rwxr-----    |  maq           |  pt               |  floppy
+|    |               |                |                   |
+|10  | -rwxr--r--    |  twister       |  garbage          |  garbage
+|    |               |                |                   |
+|11  | -rwxr--r--    |  ajo           |  ajo              |  kret
+|    |               |                |                   |
+|12  | -rwxr--r--    |  voicer        |  pt               |  letter
+|    |               |                |                   |
+|13  | -rwxr--r--    |  blaze         |  pt               |  lumen
+|    |               |                |                   |
+|14  | -rwx------    |  madbard       |  apednix          |  madbard
+|    |               |                |                   |
+|15  | -rwxr--r--    |  maq           |  pt               |  maq
+|    |               |                |                   |
+|16  | -rwxr--r--    |  azzaro        |  sative_mea       |  mawi
+|    |               |                |                   |
+|17  | -rwxr--r--    |  unkown        |  no_special       |  menu
+|    |               |                |                   |
+|18  | -rwxr--r--    |  blaze         |  pt               |  mst
+|    |               |                |                   |
+|19  | -rwxr--r--    |  blaze         |  pt               |  mystic
+|    |               |                |                   |
+|20  | -rwxr--r--    |  blaze         |  pt               |  nah_kolor
+|    |               |                |                   |
+|21  | -rwxr--r--    |  unkown        |  no_special       |  news
+|    |               |                |                   |
+|22  | -rwx------    |  zabora        |  pt               |  old_bulls
+|    |               |                |                   |
+|23  | -rwxr--r--    |  voicer        |  pt               |  psychodelic
+|    |               |                |                   |
+|24  | -rwxr--r--    |  cerber        |  old_bulls        |  radioactive
+|    |               |                |                   |
+|25  | -rwxr--r--    |  unkown        |  no_special       |  request
+|    |               |                |                   |
+|26  | -rwxr--r--    |  unkown        |  no_special       |  respect
+|    |               |                |                   |
+|27  | -rwxr--r--    |  revi          |  sative_mea       |  revi
+|    |               |                |                   |
+|28  | -rwxr-----    |  blaze         |  pt               |  sative_mea
+|    |               |                |                   |
+|29  | -rwxr-----    |  zabora        |  sative_mea       |  sea
+|    |               |                |                   |
+|30  | -rwxr-----    |  zabora        |  sative_mea       |  sea2
+|    |               |                |                   |
+|31  | -rwxr--r--    |  madbard       |  appendix         |  the_sect
+|    |               |                |                   |
+|32  | -rwxr--r--    |  twister       |  garbage          |  twister
+|    |               |                |                   |
+|33  | -rwxr--r--    |  twister       |  garbage          |  veezya
+|    |               |                |                   |
+|34  | -rwx------    |  winnik        |  damage_inc       |  winnik
+|    |               |                |                   |
+|35  | -rwx------    |  viedzmin      |  tarquet          |  viedzmin
+|    |               |                |                   |
+|36  | -rwxr--r--    |  voicer        |  pt               |  voicer
+|    |               |                |                   |
+|37  | -rwxr--r--    |  x-ball        |  sative_mea       |  x-ball
+|    |               |                |                   |
+|38  | -rwx------    |  zabora        |  sative_mea       |  zabora
+
+[sea.gov.pl] su -l root
+
+Password:
+
+[root:#] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[root:#] id
+
+uid=0(root) gid=0(wheel) groups=2(kmem), 3(sys), 4(tty)
+
+[root:#] cd bin
+
+[root:#] ls
+
+makeplan     makeplan.pl
+
+[root:#] makeplan all /usr/local/user/zabora/finger_colly
+
+ERRER!
+unkown user(s) '/usr/local/user/zabora/finger_colly'
+
+[root:#] makeplan all owner /usr/local/user/zabora/finger_colly
+
+
+Addading .plan files to all user...
+
+Done!
+
+
+
+[root: #] exit
+
+[sea.gov.pl] ls /usr/bin/*mail*
+
+localbrodcastmail    mail            sendmail
+
+[sea.gov.pl] localbrodcastmail -u all -n root
+Mail to all local user!
+
+Subject: witka
+
+
+             zajebioza  mam wlasnie na lbie sluchawki
+             a w nich leca juz od ponad godzinki nowe
+             modki  Voicera  ups Voicera/old bulls :]
+             kurwa chaos_day rozpierdala wszytsko jak
+             leci  o  jaaaaaaaaaa  a  chipowki  sa po
+             prostu    rozzwalajace...   [mialo   byc
+             rozpierdalajace ale nie bede przeklinal]
+
+             no  ale  przyjrzyjmy sië temu co tu mamy
+             ano  mamy  pewna  nowa  kolekcje pewnego
+             kolesia  co  sie  zabora!  zwie [wlasnie
+             hip'ek   przeszkoczyl  na  mod.lsd_trip]
+             moja  2 kolekcja pod masztami sative mee
+             zaraz  za nia na lad wyskocza takze dwie
+             nastepne w sumei to jedna jest z ta dosc
+             mocno powiazana rzeklnym ze nawet bardzo
+                             mocno :)
+
+             o  kurwa...  chyba zaczne urzywac kropek
+             [.]    i   przecinkow   [,]   ledne   to
+                          nawet[.][.][.]
+
+             ta          kolekcyjke          dedykuje
+             EMERS'owi[.][.][.]  i  wszystkim kobieta
+             jakie znam [co wcale nie oznaca ze EMERS
+                         jest kobieta :]
+
+
+             bede  spadal  juz... moze jeszcze cos do
+             was   wysle...   a  na  razie  to  musze
+                prze.F.I.N.G.E.R.owac pare osob...
+
+             gwoli  wyjasninia  finger  jest  komenda
+             znana  midzy  innymi z un*xow, a sluzaca
+             do...  wlasnei do czego... to znaczy jak
+             to  napisac? hmmmm... do fingerowania...
+             do  sprawdzania z kad byl ostatni login,
+             kiedy  byly czytane maile i takie tam...
+             ofcoz  wszytsko mozna skonfigurowac, tak
+             aby   za   duzo   inforamcji   nie  bylo
+             podanych...  acha,  no  i  jako  dodatek
+             mozna  zamiescic  plik  plan  z  jakimis
+             waznymi  informacjami,  dla tego kto nas
+             zechce        fingerowac...       sooo..
+             zainstalujcie   sobie   AmiTCP   i  sami
+             sprwadzcie  jak  to dziala... ide wyslac
+              pare maili i wykonac pare fingerow :)
+
+                             papajka
+
+
+                      [zabora / sative mea]
+                     [.a.z.k.e.e. .b.a.n.d.]
+                       [zabora@sea.gov.pl]
+                       [zabora@zabora.net]
+                 [zabora@bratek.ifd.uni.wroc.pl]
+
+.
+
+local brodcast mail done...
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] finger -p root
+
+Login: root                             Name: The Bastard Operator From Hell
+Directory: /root                        Shell: sh
+Last login: from sea.gov.pl
+
+
+[sea.gov.pl] finger root
+
+Login: root                             Name: The Bastard Operator From Hell
+Directory: /root                        Shell: sh
+Last login: from sea.gov.pl
+
+Plan:
+
+            ...                    ......         ........................
+            :.:....................:... :         :                   ...:...
+              :                    :..:.:.  ......:..  z a b o r a !  :..:  :
+       _      :    _            _     : ::..:_    :.:    _           _    ..:.
+     __)\___  :  __)\____     __)\____:..:  _)\___     __)\____    __)\___:.::
+ ____)__   /__:__\  _   /__ __\____  (___ __\    (__ __\   _   \ __\  _  /__ :
+ \  ______/  /-\    -\    /-\     /  __ /-\   ()   /-\  \  )___(-\    -\   /_:
+  )__________________________________________________________\__________zBr!(:
+                                                                          :..:
+
+  still in live... still in azkee... still in... still :D
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail acid
+
+Subject: logosy...
+
+             haja  acidqu....  jak Ci sie logosiki te
+             podobaja?  no  i  jak cala kolekcyjka...
+             pliss  machnij  mi  moze  kilka sztokow:
+             zabora,   old  bulls,  olb,  pt,  palimy
+                trafke, sea, sative mea... papajka
+
+.
+Cc:
+
+
+[sea.gov.pl] finger acid
+
+Login: acid                             Name: acid
+Directory: /usr/local/user/acid         Shell: sh
+Last login: from sea.gov.pl
+
+Plan:
+
+   ________        _______      _______     ________
+ __\   _  /___ ____\    _/_ ____\    _/__ __\      /___
+|      _      |     \      |     \__/    | ___         |
+·------/______!--\_________!--\__________!______/------·
+a.c.i.d                                          zbr!s3a
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail ajo
+
+Subject: logos na kretowisko
+
+             machnelem kilka logosikow na kreta... na
+             7  trzeba postawic httpd :) i moze jakis
+             warezik ?
+
+             papajka
+.
+Cc:
+
+[sea.gov.pl] finger ajo
+
+Login: ajo                              Name: ajo
+Directory: /usr/local/user/acid         Shell: sh
+Last login: from kret.ifd.uni.wroc.pl
+
+Plan:
+
+     ___  ___      ________      ________     _________
++----\  |/ _/--.___\   _  /__ ___\    __/__ __\__   __/__
+|     \______  |      ___/   |          ___|       /     |
+·____]---\_____|___]--\______|--\__________!---/_________!
+kret.ifd.uni.wroc.pl                              zbr!s3a
+
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail azzaro
+
+Subject: zabora
+
+             hajakala...  cos  dlugo nie pisalem, ale
+             nie   moglem   sie   do  twojich  dyskow
+             dobrac...  za  to teraz bedziesz mial co
+             czytac..  oj  bedziesz...  podoba Ci sie
+             idea tej kollekcji ?
+
+.
+Cc:
+
+
+[sea.gov.pl] finger azzaro
+
+Login: azzaro                           Name: azzaro/mawi.sative mea
+Directory: /usr/local/user/azzaro       Shell: sh
+Last login: from sea.gov.pl
+
+Plan:
+
+   ________    ________     ________    ________      ________   ________
+  _\   _  /__ _\__    /___ _\__    /__ _\   _  /__ ___\   _  /_ _\   _  /__
+ |     _     |       /    |       /   |     _     |       __/  |     \     |
+ ·-----/_____!----/_______!----/______!-----/_____!___]--\_____!--[________!
+ a.z.z.a.r.o                                                         zbr!s3a
+
+
+  ____  ____    ________     ____    ____      ________
+ _\   \/   /-.__\   _  /___ _\   \/\/   /_ ____\     _/_
+|    \  /    |      _      |              |     \___/   |
+·-----\/|____!------/______!-------\____\-!--\__________!
+m.a.w.i                                           zbr!s3a
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail blaze
+
+Subject: narkomani pojebani :)
+
+             hajaka...   mam  to  o  czym  pisales  w
+             lisciq... zaraz zadzwonie... wiesz po co
+             :D  a  tak  w  ogole  to na party jedzie
+             nieazla ekipa pT :)
+
+.
+Cc:
+
+[sea.gov.pl] finger blaze
+
+Login: blaze                            Name: blaze/sative mea.pT.old bulls
+Directory: /usr/local/user/blaze        Shell: sh
+Last login: from sea.gov.pl
+
+Plan:
+
+
+
+
+
+   ________     _______     ________    ________      ________
+ __\   _  /__ __\     /___ _\   _  /__ _\__    /__ ___\    __/__
+|         __ |       /    |     _     |       /   |          ___|
+·-----\______!----\_______!-----/_____!----/______!-----\_______!
+b.l.a.z.e                                                 zbr!s3a
+
+
+
+
+
+
+  ____  ____    ________      _______
+ _\   \/   /-·__\   _  /___ __\     /____
+|    \ \     |      _      |       /  _  |--[.n.a.h. .k.o.l.o.r.]-·
+·-----\______!------/______!----\_____|__!                        |
+  |  ___  ___     ________     _______       ________      ________
+.----\  |/ _/--.__\   _  /__ __\     /____ __\   _  /__ ___\   _  /__
+|     \______  |     \      |       /     |      \     |       __/   |
+!____]---\_____!---[________!----\________!---[________!___]--\______!
+                                                               zbr!s3a
+
+
+
+
+
+
+   _______       _____ ____   ____  ____     ________     ____  ____
+ __\     /___ ___\   _/   /_ _\   \/   /--+__\    __/__ __\   \/   /-+
+|       /    |          _/  |    \  /     |         ___|     \ \     |
+·----\_______!--\___________!-----\/|_____!----\_______!------\______!
+l.u.m.e.n                                                      zbr!s3a
+
+
+
+
+
+
+  ____  ____    _______   _________
+ _\   \/   /-.__\    _/_ _\__   __/_
+|    \  /    |   \___   |      /    |
+·-----\/|____!-\________!--/________!
+m.y.s.t.i.c                   zbr!s3a
+
+
+
+
+
+
+  ____  ____   ____  ___     _______   _________    _______     _______
+ _\   \/   /-.-\   \/  /-.___\    _/_ _\__   __/_ __\    _/_ ___\    _/_
+|    \  /    |      __/  |    \___   |      /    |   \__/   |    \      |
+·-----\/|____!---\_______|-\_________!--/________!-\________!-\_________!
+m.y.s.t.i.c                                                       zbr!s3a
+
+
+
+
+
+
+     _______   ________     _________    _______   ____  ___    ________
+ ____\    _/_ _\   _  /__ __\__   __/_ __\    _/-·-\   \/  /-+__\    __/_
+|     \___   |     _     |       /    |   \__/   |  \        |         __|
+·--\_________!-----/_____!---/________!-\________!---\_______|----\______!
+zbr|s3a                           ____  ____     ________     ________
+   |                             _\   \/   /--+__\    __/__ __\   _  /___
+   ·-[.s.a.t.i.v.e. .m.e.a.]----|    \  /     |         ___|      _      |
+                                ·-----\/|_____!----\_______!------/______!
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail cerber
+
+Subject: zabora na linie
+
+             cze   cerberq...   logosiki  dla  Ciebie
+             dwa...  w tej kolekcji.. ale tak w ogole
+             to  mailne  Ci jeszce jakies inne na bbs
+             :)  strona  juz zrobiona i czeka na moje
+             checi jej przeniesienia...
+
+.
+Cc:
+
+
+[sea.gov.pl] finger cerber
+
+Login: cerber                           Name: cerber/old bulls.appendix
+Directory: /usr/local/user/cerber       Shell: sh
+Last login: from voruta.ek.univ.gda.pl
+
+Plan:
+
+
+   ________   ________      ________   _________    ________      ________
+ __\     _/_ _\    __/__ ___\   _  /_ _\     _ /__ _\    __/__ ___\   _  /_
+|   \       |        ___|      ___/  |         __ |        ___|      ___/  |
+·-\_________!----\______!___]--\_____!----\_______|----\______!___]--\_____!
+c.e.r.b.e.r                                                          zbr!s3a
+
+
+
+   ____       ________   ________     ________      ________    _________
+   \  /    ___\   _  /_ _\   _  /__ __\      /__ ___\     _/_·--\   _   /__
+ ___\/___ |      ___/  |     _     | ___        |    \___/   |      \      |
+ \  /\  / |___]--\_____|-----/_____!______/-----!--\_________!-\___________!
+  ____\/__     ________    _________    ________   ___  _____ | _________
+ _\   _  /__ __\     _/_ __\__   __/_ __\     _/_ -\  \/    /-._\     __/__
+|     _     |   \       |       /    |   \___/   |  \         |         ___|
+·-----/_____!-\_________!---/________!-\_________!---\________|----\_______|
+r.a.d.i.a.c.t.i.v.e. .b.b.s.                                         zbr!s3a
+
+
+
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail ela
+
+Subject: czesc elzbietko
+
+             no  i  widzisz...  na  party jedziesz, z
+             kolegami  sie bawisz... a matura sie nie
+             przejmoj,   sa  gorsze  rzeczy  (dzieci,
+             zgubienie  dyskow  na party, lysi...) ja
+             sie  troszke  pouczysz to bedziesz sie z
+             tego potem tylko smiala
+
+             a na party i tak sie zgrzejemy :)
+
+.
+Cc:
+
+
+[sea.gov.pl] finger ela
+
+Login: ela                              Name: ela/pT
+Directory: /usr/local/user/ela          Shell: sh
+Last login: from lame.lame.lame.org
+
+Plan:
+
+
+  _________    _______     ___________   ________    ________   ________
+ _\     __/__ _\     /___ _\      ___/___\     _/_ __\     _/_ _\   _  /__
+|         ___|      /    |       ____|    \___/   |   \       |     _     |
+·----\_______|---\_______!---]_____\ ·-\__________!-\_________!-----/_____!
+e.l.f.i.c.a  aka  .e.l.a./.p.T.                                     zbr!s3a
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail emers
+
+Subject: nowa kolekcja
+
+             No  i  widziesz  w koncu zrobilem.. male
+             poprawki   i   juz   jest...  dedykowana
+             tobie... [jak obiecalem :]
+
+.
+Cc:
+
+
+[sea.gov.pl] finger emers
+
+Login: emers                            Name: emers
+Directory: /usr/local/user/emers        Shell: sh
+Last login: from oral.sex.org
+
+
+    ________    ____  ____     ________      ________     ________
+ ___\    __/__ _\   \/   /-.___\    __/__ ___\   _  /_ ___\     _/__
+|          ___|    \  /    |          ___|       __/  |    \___     |
+·------\______!-----\/|____!-----\_______!___\--\_____!--\__________!
+e.m.e.r.s                                                    zbr!s3a
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail madbard
+
+Subject: 6
+
+             noi  w koncu do Ciebie pisze :)))) artka
+             dostaniesz  zaraz...  dzieki za te spisy
+             warezikowe
+
+.
+Cc:
+
+
+[sea.gov.pl] finger madbard
+
+Login: madbard                          Name: madbard/appendix
+Directory: /usr/local/user/badbard      Shell: sh
+Last login: from appendix.ml.org
+
+Plan:
+
+
+  ___  ____   _______    ______    _______    _______   ________    ______
+.-\  \/   /-._\  _  /_ __\    /__ _\   _ /__ _\  _  /_ _\   _  /_ __\    /__
+|   \  /    |    _    | ___      |       __ |    _    |    ___/  | ___      |
+·----\/|____|----/____!_____/----!---\______|----/____!__]-\_____!_____/----·
+ m.a.d.b.a.r.d                                                         zbr!s3a
+
+
+
+                    __|_________            !still third place in the world!
+[appendix.whq]        |              _________    ____  ___     _________
+[anadune.whq]         | .t.h.e.    __\__   __/_·--\   |/   |_ __\     __/__
+[teklords.phq]        | .s.e.c.t. |       /    |      --     |          ___|
+[floppy.phq]          | .b.b.s.   ·---/________!____]---\____!-----\_______|
+[dinx project.phq]    |                                        |     zbr!s3a
+[jormas.phq]          |  ________     _________      ________  | _________
+[mawi.phq]            ___\     _/__ __\     __/__ ___\     _/_ __\__   __/_
+[doggystyle.phq]     |    \____    |          ___|            |       /    |
+[venus art.phq]      ·--\__________!-----\_______!--\_________!---/________!
+[sative mea.phq]      |  [powered by amiga1240T/603e/240mhz/4gb warez space]
+[pic saint loup.phq] [nonstop supporters: jacobs - prefix.appendix - ziutek]
+[linear.whq]          |                           [master: madbart.appendix]
+[old bulls.phq]-------|----                                    |
+                      |[node0: +48-91-4879493] [node1:telnet] [node2:telnet]
+                                                             --|------------
+
+
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail maq
+
+Subject: zabora
+
+             przyjdziesz, wypijemy pifka(a) i zrobimy
+             interko  :)...  a  moze zjeby sobie zupe
+             grzybowa i pojdziemy na kwasne wina? :)
+
+.
+Cc:
+
+
+[sea.gov.pl] finger maq
+
+Login: maq                              Name: maq/pT.floppy.old bulls
+Directory: /usr/local/user/maq          Shell: sh
+Last login: from grass.org.pl
+
+Plan:
+
+
+  ____  ____   ________    _________
+ _\   \/   /-._\   _  /__ _\       /_
+|    \  /    |     _     |     _\   _|
+·-----\/|____!-----/_____!---/_______\
+m.a.q                          zbr!s3a
+
+
+  ___________ _______      _________     ________     ________   ____  ___
+ _\      ___/_\     /___ __\   _   /_ ___\   _  /_ ___\   _  /_+-\   \/  /-.
+|       ____|      /    |      \     |      ___/  |      ___/  |    ____/  |
+·--/______\ !---\_______!-\__________!____________!____________!---/_______|
+f.l.o.p.p.y                                                          zbr!s3a
+
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail revi
+
+Subject: zabora
+
+             no  i  jestesmy  w jednej grupce... moze
+             lizda  do cibie posle... tak jak dawniej
+             to bywalo... machnij mi jakies logosiki:
+             zabora,  zbr!,  pt,  palimy trafke, olb,
+             old bulls
+
+.
+Cc:
+
+
+[sea.gov.pl] finger revi
+
+Login: revi                             Name: revi/sative mea
+Directory: /usr/local/user/maq          Shell: sh
+Last login: from sea.sex.pl
+
+Plan:
+
+
+     ________      ________     ___  ____      _______
+ ____\   _  /__ ___\    __/__ __\  \/   /_ ____\    _/__
+|       ___/   |          ___|   \     /  |     \__/    |
+·____]--\______!------\______!----\_______!--\__________!
+r.e.v.i                                          zbr!s3a
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail twister
+
+Subject: logosiki
+
+             logosiki dla ciebie... :) 
+.
+Cc:
+
+
+[sea.gov.pl] finger twister
+
+Login: twister                          Name: twister/garbage
+Directory: /usr/local/user/twister      Shell: sh
+Last login: from sea.gov.pl
+
+Plan:
+
+  ________   ____   ___  _______    _______   _________  _______   _________
+ _\__  __/_ _\  //\|  /__\    _/_ __\    _/_ _\__   __/ _\   __/_ _\    _  /_
+|     /    |          |   \__/   |   \      |      /   |       __|     ___/  |
+·--/_______!-----/____!-\________!-\________!--/_______!--\______|__]--\_____!
+t.w.i.s.t.e.r                                                          zbr!s3a
+
+
+    _______   _______   ________   ________    _______     _______   _______
+ ___\  _  /_ _\  _  /_ _\   _  /_ _\    _ /__ _\  _  /_ ___\  _  /_ _\   __/_
+|  ______/  |    _    |     __/  |        __ |    _    |  ______/  |       __|
+·-/_________|----/____!__]--\____|---\_______|----/____!-/_________|--\______|
+g.a.r.b.a.g.e                                                          zbr!s3a
+
+
+
+  ____ _____   ________    ________     ________    _____  ___   ________
+.-\   /    /-._\    __/__ _\    __/__ __\__    /__·-\    \/  /-·_\   _  /__
+|  \      /  |        ___|        ___|        /   |    _____/  |     _     |
+·---\________|---\_______|---\_______|---/________!---/________|-----/_____!
+v.e.e.z.y.a                                                          zbr!s3a
+
+
+
+   ________     ________    ________     ________
+ __\      /___ _\    __/__ _\    __/__ __\__    /__
+| ___         |        ___|        ___|        /   | ------+
+|______/------!---\_______|---\_______|---/________!       |
+d.e.e.z  n.u.t.s  ____  ____   _____ ____     _________    | ________
+          |     .-\   \/   /-._\   _/   /__ __\__   __/__ ___\     _/__
+          +---- |    \ \     |         /_  |       /     |    \____    |
+                ·-----\______|--/__________!---/_________!--\__________!
+                                                                 zbr!s3a
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] finger unkown
+
+Login: unkown                           Name: no special
+Directory: /usr/local/user/twister      Shell: sh
+Newer loged!
+
+Plan:
+
+
+  ____  ____     ________     ____  ____     _____ ____
+ _\   \/   /--+__\    __/__ __\   \/   /-+___\    /   /_
+|    \  /     |         ___|     \ \     |           /_ |
+·-----\/|_____!----\_______!------\______!--\___________!
+m.e.n.u                                          zbr!s3a
+
+
+   ____  ____    ________    ___    ___      _______
+ __\   \/   /-+__\    __/__ _\  \/\/  /_ ____\    _/__
+|     \ \     |         ___|            |     \___    |
+·------\______!----\_______!-/__\--/____!--\__________!
+n.e.w.s                                         zbr!s3a
+
+
+  _________   _______   ________    ____ ___   _______    _______   _________
+ _\    _  /_ _\   __/_ _\  _   /_ __\   /  /_ _\   __/_ __\    _/_ _\__   __/
+|     ___/  |       __|    \    _|        /_ |       __|   \___   |      /  |
+!__]--\_____!--\______!------/__\--\_________!--\______|-\________!--/______!
+r.e.q.u.e.s.t                                                         zbr!s3a
+
+
+  _________   _______    _______   ________   ________    _______   _________
+ _\    _  /_ _\   __/_ __\    _/_ _\   _  /_ _\    __/_ __\    _/_ _\__   __/
+|     ___/ |        __|   \___   |    ___/  |        __|   \      |      /  |
+!__]--\____!---\______|-\________!____\_____|---\______!-\________!--/______!
+r.e.s.p.e.c.t                                                         zbr!s3a
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail winnik
+
+Subject: zabora
+
+             no  i co mam tobie napisac.. pogadamy na
+             pracowni :)
+
+.
+Cc:
+
+
+[sea.gov.pl] finger winnik
+
+Login: winnik                           Name: winnik/tarquet/atari_8b/un*x
+Directory: /usr/local/user/winnik       Shell: sh
+Last login: from tulip.ift.uni.wroc.pl
+
+Plan:
+
+  ___    ___    _______   ____  ____   ____  ____    _______    ___  ___
+ _\  \/\/  /_ __\    _/_ _\   \/   /-·-\   \/   /_ __\    _/-·--\  |/ _/--.
+|            |   \__/   |    \ \     |    \ \     |   \__/   |   \______  |
+·----/_______!-\________!-----\______|-----\______|-\________!__\---\_____|
+w.i.n.n.i.k                                                         zbr!s3a
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail viedzmin
+
+Saubject: zaborawa!
+
+             witka...  oscylki zalatwione... poczytaj
+             cos  o polach i bedzie max faq z ktorego
+             nikt  nic  nie zrozumie...:D albo jeszce
+             lepiej  mozna  opisac  tam  duzo teorii,
+             albo    dodac    jakies   odnosniki   do
+             bibiografi  :)))  jak Ci sie ta kolekcja
+             podoba...
+
+.
+Cc:
+
+
+[sea.gov.pl] finger viedzmin
+Login: viedzmin                         Name: viedzmin/damage.inc
+Directory: /usr/local/user/twister      Shell: sh
+Last login: from hack.pl
+
+Plan:
+
+  _____ ___    _______    ________     _________     ________
+.-\    /  /_ __\    _/-+__\    __/__ __\       /_____\__    /_
+|  \        |   \__/   |         ___| ___                  /  |
+·---\_______|-\________!-----\______!_______/----/____________!
+                           ____  ____    _______   ____  ____
+                          _\   \/   /-.__\    _/- -\   \/   /_
+  -[.v.i.e.d.z.m.i.n.]-  |    \  /    |   \__/   |    \ \     |
+                         ·-----\/|____!-\________!-----\______!
+                                                        zbr!s3a
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail voicer
+
+Subject: zabora
+
+
+             slucham    chaos   day...   non   top...
+             zajebisty..  a  tak  w  ogole  to MUSISZ
+             PRZEROBIC  lsd_trip  -  ten sampel ktory
+             wchodzi       na      poczatek      jest
+             beznadziejny!!!!  kurwa,  normalne disko
+             polo... muza do intra juz poszla :)
+
+.
+Cc:
+
+
+[sea.gov.pl] finger voicer
+
+Login: voicer                           Name: voicer/pT.old bulls
+Directory: /usr/local/user/voicer       Shell: sh
+Last login: from zabora.net
+
+Plan:
+
+
+  ____ ____    ________     ________    ________   ________     _________
+.-\   /   /-.__\  _   /_ ___\     _/_ __\     _/_ _\    __/__ __\    _  /_
+|  \     /  |     \     |    \___/   |   \       |        ___|      ___/  |
+·---\_______!-]_________!-\__________!--\________!---\_______!__]---\_____!
+v.o.i.c.e.r                                                         zbr!s3a
+
+
+
+   _______   ________  ___  ____   _________ ________    _______   _________
+ __\    _/_ _\  _   /+-\  \/   /-._\__   __/_\   _  /_ __\    _/_ _\__   __/
+|   \      |    \    |   \ \     |      /  |     _    |   \      |      /  |
+·-\________!-\_______!----\______|--/______!-----/____!-\________!--/__/---·
+                                      ________     _________ |  _____  ___
+                                    __\    _ /__ __\   _   /-+__\    \/  /_
+     -[.c.o.n.t.a.c.t  b.o.x.]-    |         __ |      \     |             |
+                                   ·----\_______!-\__________!--/____/\__\-·
+                                                                     zbr!s3a
+
+
+   ________    _______    ____  ___    ________    ____  ___    _________
+ __\   _  /_ __\   __/__+-\   \/  /_ __\     _/__ _\   |/   |-+-\   _   /_
+|     ___/  |   \____   |    ____/  |   \        |     --     |     \     |
+·_____\_____!-\_________!---/_______!-\__________!____]--\____|-\_________!
+ +~~~~+    ________      _________    _______       ________   | _______
+[|°/\°|] __\      /___ __\     __/__ _\     /___ ___\     _/_ ___\    _/__
+ \/--\/ | ___         |          ___|      /    |    \___/   |    \       |
+ |\--/| |______/------!-----\_______|---\_______!-\__________!--\_________!
+ +----+  p.s.y.c.h.o.d.e.l.i.c                                       zbr!s3a
+
+
+
+   _______     _________     _________ _________    _________     _________
+ __\     /___ _\     __/__ __\__   __/|\__   __/__ _\     __/__ __\    _  /_
+|       /    |         ___|       /   |   \       |         ___|     ____/  |
+·----\_______!----\_______!---/_______!_______\---+----\_______!__]--\______!
+l.e.t.t.e.r                                                          zbr!s3a
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail xball
+
+Subject: zabora
+
+             haja...  logosik 4 you... mam nadziej ze
+             na astro Cie spotkam i poznam :)
+
+.
+Cc:
+
+
+[sea.gov.pl] finger xball
+Login: xball                          Name: x-ball/sative mea
+Directory: /usr/local/user/xball      Shell: sh
+Last login: from sea.gov.pl
+
+Plan:
+
+
+   ____  ____    ________     ________     _______      _______
+ __\   \/   /_ __\    _ /__ __\   _  /___ _\     /____ _\     /____
+|             \         __ |      _      |      /     |      /     |
+·------/\___\--·----\______|------/______!---\________!---\________!
+x.-.b.a.l.l                                                  zbr!s3a
+
+
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] mail zabora
+
+Subject: zabora
+
+
+             no i po chuj ja do siebie pisze?
+
+.
+Cc:
+
+
+[sea.gov.pl] finger zabora
+Login: zabora                          Name: zabora!/sea.pT.old bulls.web404
+Directory: /usr/local/user/zabora      Shell: sh
+Last login: from zabora.net
+
+Plan:
+
+
+
+
+  ________    ________      ________
+ _\   _  /__ _\      /___ __\      /___
+|     \     |       /    | ___         |  --[.o.l.d. .b.u.l.l.s]-.
+·--[________!----\_______!______/------·                         |
+ |  ________    _____ ____    _______     _______        _______ |
+ ___\    _ /__ _\    /   /__ _\     /___ _\     /___ ____\    _/___
+|          __ |         /_  |      /    |      /    |     \___     |
+·-----\_______|--/__________!---\_______!---\_______!--\___________!
+                                                             zbr!s3a
+
+
+    _______     _______   ________
+ ___\    _/__ __\   __/_ _\   _  /_
+|    \___    |        __|     _    |
+·--\_________!----\_____!-----/____!
+s.a.t.i.v.e  m.e.a           zbr!s3a
+
+
+
+
+       ___________        ____________         ____________
+ ______\        _/___ ____\      ____/____ ____\    _     /____
+|       \_____       |              ______|         _          |
+·----\_______________!------\_____________!---------/__________!
+s.a.t.i.v.e  m.e.a                                       zbr!s3a
+
+
+
+
+  ________    ________     ________    ________     ________   ________
+ _\__    /__ _\   _  /__ __\   _  /__ _\      /__ __\   _  /_ _\   _  /__
+|       /   |     _     |         __ |     !     |      __/  |     _     |
+·----/______!-----/_____!----\_______!--\________!__\--\_____!-----/_____!
+z.a.b.o.r.a                                                        zbr!s3a
+
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] pwd
+/usr/local/user/zabora/sea/finger_colly
+
+[sea.gov.pl] cd ..
+
+You hawen new mail.
+
+[sea.gov.pl] mail
+
+Mail version 8.1 6/6/93. Type ? for help.
+"/usr/var/spool/mailzabora": 9 messages.
+
+
+> 1. The Bastard Ope    "secure 15.02:20:19"
+> 2. The Bastard Ope    "secure 15.02:22:58"
+> 3. The Bastard Ope    "secure 15.02:23:00"
+> 4. The Bastard Ope    "secure 15.02:23:20"
+> 5. The Bastard Ope    "SECURE 16.02:00:01"
+> 6. The Bastard Ope    "secure 16.02:00:37"
+> 7. root@zabora.net    "!"
+> 8. kevin.m@jail.us    "exploits"
+> 9. mullder@fbi.gov    "ufo..."
+
+& q
+
+[sea.gov.pl] rm -R finger_colly/
+
+[sae.gov.pl] loacalbrodcastmail
+
+Mail to all local user!
+
+Subject: papajka
+
+
+             no   i  skonczylo  sie...  wszytsko  sie
+             kiedys tam konczy... ja mam nadziej ze w
+             koncu skoncze sesje ziomowa :) oj sie to
+             ciagnie...  musze  sie zaraz pouczyc, bo
+             inaczej     bede    mial    dluuuuuuugie
+             wakacje...  albo i nawet urlop zdrowotny
+             sponsorowany przez mon...
+
+             to   moja  druga  kolekcja  spod  szyldu
+             sative  mea...  mam nadzieje z choc pare
+             osob  oceni  ja  pozytywnie..  moze dosc
+             duzo  nei zrozumie o co chodzi, ale wali
+             mnie   to...  jak  ktos  jest  jako-taka
+             domyslny to zalapie... czekajcie na next
+             colly called "hacka" :D
+
+                         zabora!sative mea azkee band
+
+.
+
+local brodcast mail done...
+
+[sea.gov.pl] cls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[sea.gov.pl] cat finger_info
+
+
+                     logos .]---[. zabora/sea
+
+                    dezigz .]---[. zabora/sea
+
+                      name .]---[. finger.txt
+
+                  acronyme .]---[. sea-fngr.txt
+
+                    length .]---[. 50000 bytes
+
+                      date .]---[. 16.02.1999
+
+                      soft .]---[. ced, hippoplayer
+
+                      hard .]---[. zjebana amiga, magnetofon kasprzak
+
+             modules music .]---[. by voicer/olb.pT
+
+                tape music .]---[. exploited, the cure
+
+
+          _ __._____                               ___      __
+              |O°  (_____·/___   __           _____) /      \(_._ _
+              |  . ... . /·   )--\/-÷   °    ÷\     /--  - --\÷|
+              |   ___      .        .    .   ¯¯     ¯.   .     |
+              |   \ /         °          .:.           °       |
+              |    \    A    T    I    V    E     M    E   /\  |
+            __|____¯_     _____          _______ _      ____   |_
+         ____\     //-/  __\  //____   ___\     //-/  ___\  |--//-/
+  _______|°___\      /--|°      ___/--|°   \______/--|°     |    /--|____ _
+___\     / \/         ..|.          ..|.           ..|.        .___\     //-/
+°    ______/--|____ _  _|________ _  _|_________ _  _|_________|°___\      /--|
+__________  ..|    //__\         //__\  .      //__\           | \/         ..|
+_________ _  _| :    o      .            .             .  °    |_________ _  _|
+   ·     //__\. .  .,      .,.   . '  °    .   °     .  .      |az0!/sea //__\
+   ·          |    __  ___ _      _______ _      ______: _     |
+   ·          | ____\\/   //-/  ___\     //-/  ___\     //-/   |
+   ·          | |°          /--|°________  /--|°___\      /--| |
+   ·          | |            ..| \/      \/ ..| \/         ..| |
+   ·          | |_______\\/_  _|_________ _  _|_________ _  _| |
+   ·          |           //__\          //__\          //__\  |
+   ·          |  :.              . '                        .  |
+   ·          |  . azzaro - blaze - revi - zabora! - x-ball ,  |
+   ·          |           ____ __ ______     __  .   .,.       |
+   ·          °-----------\  ( \/       )____\(    __   _ / .; |
+   ·                                        (_)\-÷-\/--÷)/__ ° |
+   ·                                                        )__|_ _
+   · we want new members!
+   ··········································································
+
+
+
+[sea.gov.pl] logout
+
+[zabora@zabora.net] logout
+
+
+
+
+
+
+
+
+
+     _ ____________________________________/_
+                                          /
+           ____   _______ .____       _______   ________   _______
+     ______)__ \./   _   \|  _(______/       \._\___    \ /   _   \.
+     \     _____|    _    |  \_     /    7    |   _(    /.    _    |
+      \    \i___\____/    |   '    /__________|___\______|____/    |
+      tF!___\       /_____|_______/                          /__u'R!
+                                    /   z  a  b  o  r  a  !
+                                  _/_______________________ _
+                                  /
+       wellcome in zabora.net
+
+
+
+
+Login:
+
+
+
+
+
+
+------------------------------------------------------------------------
+
+@BEGIN_FILE_ID.DIZ
+
+           ___   [.z.a.b.0.r.a.!.]-+
+ zbr\s3a---\ /  _______   ________ |
+    _______ / __\   __/_ _\   _  /_!
+ ___\    _/__\        __|     _    |
+|    \___     \---\_____!-----/____!
+·--\___________\\--------[.s.e.a.]-+
+           [.n.e.t. .f.i.n.g.e.r.]-+
+       [.c.o.l.l.y. .t.w.o. .i.n.]-+
+           [.s.a.t.i.v.e. .m.e.a.]-!
+
+@END_FILE_ID.DIZ
+
+                                  .........
+                                  ::::   ::
+                                  ::   ::::
+                                  :  :::  :
+                                  ::::   ::
+                                  ::   ::::
+                                  :       :
+           [node0: +48-91-4879493] [node1: telnet] [node2: telnet]
+   ___       ___        _______   :____   :  _______   ____     ___
+  _| _|_ __ |   |___  _|   __  | _| ___|__:_|   __  |_| ___|_  _| _|_ __
+  |    _| |_|  __   |_|     |  | |_______        |           |_|    _| |_
+  |__      ____||    __  ______| |_   |_| __  _________       ____      |
+     |_____|    |____| |____|     :|______| |____|    |_______|   |_____|
+                                  :       :                     az0!/l124
+            [powered by amiga1240T/603e/240mhz/4gb warez space]
+          [nonstop supporters: jacobs - prefix.appendix - ziutek]
+                        [master: madbart.appendix]
+                                  :       :
+                      !still third place in the world!
+                                  :       :
+                               ...:....   :...
+                               :  ·       :  :
+                               :  :       ·  :
+                               :..:   .......:
+                                  :       :
+                      !still third place in the world!
+                                  :       :
+        [appendix/whq] [anadune/whq] [teklords/phq] [floppy/phq]
+ [dinx project/phq] [jormas/phq] [mawi/phq] [doggystyle/phq] [venus art/phq]
+     [pic saint loup/phq] [linear whq] [old bulls phq]  [sativa mea/phq]
+   ___       ___        _______   :____   :  _______   ____     ___
+  _| _|_ __ |   |___  _|   __  | _| ___|__:_|   __  |_| ___|_  _| _|_ __
+  |    _| |_|  __   |_|     |  | |_______        |           |_|    _| |_
+  |__      ____||    __  ______| |_   |_| __  _________       ____      |
+     |_____|    |____| |____|     :|______| |____|    |_______|   |_____|
+                                  :       :                     az0!/l124
+           [node0: +48-91-4879493] [node1: telnet] [node2: telnet]
+                                  :       :
+                                  ::   ::::
+                                  ::::   ::
+                                  :  :::  :
+                                  ::   ::::
+                                  ::::   ::
+                                  :.......:
+
+
+

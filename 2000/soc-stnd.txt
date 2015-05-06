@@ -1,0 +1,821 @@
+@BEGIN_FILE_ID.DIZ    ________       _______  _____
+____\\  ___|_______\\    /__\\  /_____
+\\           |   _   _____|     \    /_
+/=====/______|__//___\====|______Y____|
+--------------------------------------.
+                                      |
+ - -  ( )  -.     __s__T__A__N__D__   |
+            |     ~~~~~~~~~~~~~~~~~   |
+juen.'soc (-'     o2  .  o3  .  2k!   |
+--------------------------------------'
+hhs'lot
+@END_FILE_ID.DIZ
+                        _                        _
+           ____h H s ·«½®¼»·------------------·«¾®¾»·  j   u   e   n
+          ____h  h S ·«¾®¾»·                  ·«¾®¾»·   j U    e    n
+           ____H  h s _ ®¾»· hHS'sOc          ·«¾®¾»·   j   u E   n
+          ____h H  __/ \__ ·                  ·«¾®¾»· j    u    e  N
+           ____h _/   _   \_         jUEN'sOC ·«¾®¾»·   J   u e     n
+            _ __.\  _/ \_  /.__ _             ·«¾®¾»·  j  U    e   n
+                   _\___/_     _______   ________  _________
+     |-------------\     /_____\     /___\  ____/__\_    __/------------/            ciekawy czy sië kapniecie ûe niema jednego logosa =)
+     |_            |_____\     Y     \      \      _/    \            _/
+  hhs'/____________|====/______|======\______\=====\______\===========\'lot
+
+          _____        ____.___   ____.____   _________   _____
+     _   _\ __/_____ __\   |  /_ _\   |   /_ _\   .__ /_ _\   /_____   _
+     \  .\______.  /.\  \___   /.\   _ _   /.\    |_/  /.\   _.____/.  /
+     \\ |_    \_|  _|_     |   _|_   | |   _|_  |_______|_    |    _| //
+     .\  /_________\ /_________\ /___|_|___\ /_____\     /_________\  /.
+      \         _________   ____.____   _________   _____             /
+       _  __   _\       /_ _\   |   /_ _\   .__ /_ _\ __/_____   __  _
+    ||| ||  | .\   .__   /.\   _ _   /.\    |_/  /.\______.  /. |  || |||
+    |||_||__| |_   |_/   _|_   | |   _|_  |_______|_    \_|  _| |__||_|||
+               /_________\ /___|_|___\ /_____\     /_________\
+       km! _  ____  _                                   _  ____  _ .k0
+           \  \  /  /       _________   .________       \  \  /  /
+     _  _______\/___  _    _\       /_ _| .__   /_    _  ___\/_______  _
+     \  \ ·.   /\  /  /   .\   .__   /.\  |_/____/.   \  \  /\   ·. /  /
+      \  \·   /  \/  ·    |_   |_/   _|_   ____/__|    ·  \/  \  · /  /
+       \  \  /      /      /_________\ /_____|          \      \  /  /
+        ·  \/                                                   \/  ·
+          ________        _____      ______   _________       .____
+     _   _\ __.__/__ _____\__ /_ ____\__  /_ _\   .__ /_ _____|   /_   _
+     \  .\  \_|    /.\  .______/.\  __.    /.\    |_/  /.\    _    /.  /
+     \\ |_         _|_  |_/    _|_  \_|    _|_   .______|_    |    _| //
+     .\  /_________\ /_________\ /_________\ /___|_____\ /____|____\  /.
+      \         _________   ____.        ____.___   ____.             /
+    .  _  __   _\       /_ _\   |_____ __\   |  /_ _\   |        __  _  .
+    ||| ||  | .\   .__   /.\    .__  /.\  \___   /.\    |___ /. |  || |||
+    |||_||__| |_   |_/   _|_    |_/  _|_     |   _|_    l   /_| |__||_|||
+    ||         /_________\ /_________\ /_________\ /_________\         ||
+    ·|      .                                                   .      |·
+     | -- ] | [  S Y M P T O M P S   O F   C Z A R N O B Y L  ] | [ -- |
+     :                                                                 :
+
+     .                                                              .    
+        o                                                              o 
+    o    .     001. welcome                                        o    .
+      o        002. info                                             o   
+        O      003. bye!                                               O 
+    O          004. greets                                         O     
+       O O     005. menu                                              O O
+    O O        006. stamps back!                                   O O
+        O      007. send                                               O 
+    O O  O     008. don't send                                     O O  O
+    0   0      009. credits                                        0   0
+     O   O     010. letter                                          O O O
+      o                                                            o    o
+    .                                                                 .
+         .
+
+
+                    __________ ____________
+                    |        //           |___
+                  __| _/\_                   /____
+                 _\   \__/                       |
+                 |    ___ __ __      ____ __    _|___ ____  __  ____
+      ___  __  __|__ _|  Y // /._____\  // |__ _\   //   / / / /
+         \ \ \ \_   \\  _|_  / |    /      | /_.    \    \ \_\ \__
+       __/ /_/ _/                      ____7         \____\
+               \        ___            \ |            7
+               (/_______\·/______\\_\_  \|     |______\)
+                 |               hHs'/______\\_|'sOc
+                 |                               |
+                 |       juen/hvr+brth+tsi+soc!  |
+                 |                               |
+                 |                  paweî nowak  |
+                 | ___        ul.szpitalna 7/13  |
+                 | \ /            31-024 kraków  |
+                 |  /                    poland  |
+                 |_/                           __|
+                  /___________________//_______\
+
+
+
+                                                    _____ ____
+            ___ __ __  _________ __       __ __    _\   //  _|___ ________ __
+     _____ _|  Y // /._|_      // |__  __Y // /.____        \   /__      // |
+     \_   \\  _|_    |   \\       | /_.\_|_    |    \\    __)     |         |
+      /_      ___         (   ____7     /__          (    \ |     |         |
+      //_____\·/____\\___\)___\|________//____\\____\ _    \|   __|\_______\'
+                                                      /_________\\
+                                                   ____        ____ __    hHS
+                                     ____   _____ _|  |_ ______\  // |__ 'sOC
+                                         \_ \_  //      \\   _/      | /_____
+                                          /_ /_     ___     _\  ____7       |
+                               ____________/ //_____\·/_____\\  \ |         |
+                                                             /_  \|         |
+                                                              /__________\\_|
+
+
+ _______   _____ ____ _____ ___ _______ __
+Y____ _7_ _\   //   /.\   //  /       // |
+|   //  /.     \    \      ___\          |
+|        |      \____\   ____7|          |
+|                7         7  |         _7hHS
+|_____\\_)_______\)________\) (\________\'sOc
+
+
+_____        __ __      ____ __    _____ __
+|   |_ _____Y // /._____\  // |__ _\   // /
+(_    \\  _||_  / |    /      | /_.      _)
+_/   \_   \_          /   ____7          |
+\     /   _/__            \ |     |______7
+(/________\)·/______\\___  \|     |______/)
+                    hHs'/______\\_|'sOc
+
+
+ _______ _____
+_\     // ___|_      _____ ____ ____ __    ____ __    _____ ____ _________
+|         \   /____ _\   //   / \  // |__ _\  // |__ _\   //   / \       |
+|         )__     |.     \    \       | /_|      | /_.    \    \      ___|__
+|         \ |     ||      \____   ____7      ____7         \____\_  __\    /__
+(\_        \|   __|        7'hHs  \ |        \ |            7 (/  ___        :
+  /____________\\  )_______\)sOc_  \|     |_  \|     |______\) __/`_.\______\)
+                                /______\\_|/______\\_|
+
+
+       ____        ____ __    hHS  _____ ____  __ __
+_____ _|  |_ ______\  // |__ 'sOC _\   //   /.Y // /._____
+\_  //      \\   _/      | /_____.     \    \ |_  / |    / 
+ /_             _\  ____7       ||      \____\          /  
+ //     ___     \\  \ |         |        7   ___        \  
+//______\·/______/_  \|         |)_______\)__|·/______\\_\
+              ((--/__________\\_|--))
+
+
+ ____ __    ____ __    
+_\  // |__ _\  // |__ ______ ____      ____ 
+|      | /_\      | /_\    //   /____ _|   Y
+|  ____7      ____7        \    \_   \\   _|
+l______       \ |     _     \____/   _     |
+|_   |     |_  \|     |        7\    \    _|
+|/______\\_|/______\\_|______\))/________\|
+                                    hHS'sOC
+
+
+       ____                    _ _______ ___ 
+_____ _|   Y_________ __ _____ \_\_    //  / 
+\_   \\   _|        // |_\   //   /.       \ 
+_/   _     |           .     \    \|    ____\
+\    \                        \____\     |
+|         __           |       |_        7    
+(/________\|(_________\'_______7)________\)
+                                    hHS'sOC
+ ____ __    ____ __    
+_\  // |__ _\  // |__ ______ ____      ____ 
+|      | /_\      | /_\    //   /____ _|   Y
+|  ____7      ____7        \    \_   \\   _|
+l______       \ |     _     \____/   _     |
+|_   |     |_  \|     |        7\    \    _|
+|/______\\_|/______\\_|______\))/________\|
+
+
+ _____ ____
+_\   //  _|___   _____ ____ ____ __          ____ _____   _____ ___ ____
+|        \   /__ \   //   / \  // |__ _____ _|   Y__ _7_ _\   //  /    /_
+|      __)     |.    \    \       | /_\_   \\   _| //  /.         \  ___|__
+|      \ |     ||     \____   ____7   _/         |      |     _____\_\    /__
+(\_     \|   __|       7'hHs  \ |     \         __             7            :
+  /_________\\ )_______\)sOc_  \|     (/________\|___\\_)______\) ____//___\)
+                            /______\\_|
+
+
+                                            _________ __
+ ______ _  ____ __     _____ ____ ____ ____ \       // |__      ___ ______
+ \_  // /_ \  // |__ __\   //   /_\  //   /            | /____ _\ //     /
+ _/      /.      | /__     \    \    \    \_         __7     ).   \      \
+ \        |  ____7   |      \____\    \____/         \ |     ||   )_______(
+ (           \ |             7         7  _           \|     |        7'hHs
+ |_____\\_)_  \|     |)__//__\ ________\  /____________\\____|)_______\)sOc
+           /______\\_|
+
+
+
+
+==========================================================================
+
+A  TO JEST MAÎY REALTIME TEXTCIK Z DNIA 22.01.2000 NA 23.01.2000, Z BARDZO
+SKROMNEJ     IMPY    U    MNIE,    CZYLI    JUENIASTEGO,    UCZESTNICZYLI:
+BOOSHMAN'RETROACTIVE                               [SZCZECIN/MIESZKOWICE],
+ENERGIZER'BREATHE+LAYOUT+OXYGEN       [EX.       SAN],       JARGO'OXYGEN,
+JUEN'HARVESTER+BREATHE+LAYOUT  ORAZ  ASA'IND [ALIAS PIES =)]... OBY WIËCEJ
+TAKICH SPOTKAÏ!
+
+==========================================================================
+
+
+
+No to dajemy
+
+kurewny  z nas sa niezle ja czyli energizer'layout+breathe+oxygen i juen i
+jeszcze  booshman'raetroactivei  of  coz  jargo  jest tu nas w pizdu i ...
+eeeaah  co  mam  pisac  -amigowa  chlejnia  simply sie tu rogrywa bo tylko
+browce  mamy - problem2000 minâî nas 22 dni temu i jest to ma y realtimeja
+topierdole  bo  ju sie ferie zaczynaja prawiei publicznie prosze pawla by
+to  pozniej  sformatwal  tekst  bo  z  tego  co  widze to chujnia wychodzi
+niesamowita - pozdrowienia dla pauliny ..i ofcozkaroliny :) *
+
+i  co ja niby mam tu wypisywaê ... taaa , wpadîem sobiena ôlâsk , zobaczyê
+co  wtrawie  piszczy  ,  a  tu roover mnie przygarnâî , teraz siedzesobieu
+juenajest  trochë  póúno  ,  ajaniewiem zbytnio jak do chaty wróciêalejest
+cooliôcie , bleeeco zabzdury juenzabieraj to klepadîo
+
+ciiiiiI!  stara za dwoma parami drzwi =) San wygraî beer compo ;)_ no nioe
+san  ooops!  energizer sorki =)))) stara sië wkurwia i juû nigdy niewîâcze
+amigi,ale ja wiem swoje ;)))) - juen
+
+
+kurwa,co  by  tu nabvazgrolic? hmmmm,nie wiem, noooo. Coz piesmnie wacha,.
+p-rzed chwila niuchalmi mojefo browca,fuj. Tereaz stoi pod drzwiami i gapi
+sie,p[owalony  pies,  dobrze  chociaz,zenie  ddzemordy  :).  Ja  teraz mam
+klawiertke na kolanach i stukam jakies pierdoly... Wîônie szczelilem sobie
+browca,koïczy sie....nieeee. Co by tu jesszcze wystukac,juzwiem nic. teraz
+apodam klawietke enrgizer'owi, bo cos tamchce wstykac
+
+
+ehh  aato znowu ja .. mylimy sie tu juz niezle w tym standzie -spedzie czy
+jak to chuj zwal toma byc na szybko pisany tekst i jakis nawet smieszny by
+bylto  bylo fajno ludzie-kurwa -wpadajciedo krakowa botu w chuj sie dzieje
+i amisia tez w naszym miescie rzadzi [jak wszedzie ] wiec oglaszam konkurs
+mega  super -dowygrania karta z czarodziejka 020 napokladzie apytanie... ?
+nie ma czegos takiego do chuja a co?
+ byscie  tylko  chcieli  - kto opisze krakowskascene wnajfjnieszym tekscie
+mabrowca.. a a teraz przerwa bo zaczyna sie ascii old-san-kompo
+
+
+  _____
+ /_____\ z l o t  w   k r a k o w i e twoim przeznaczeniem ..
+ S!LOT
+
+  a  teraz  sie  zaczyna  gfx-kompo [prace okla wpolaczeniu z wizja swiata
+przeznaczonego q zakladzioe ]
+
+pozdrowienia -energizer :)
+  a terazwy wy!
+
+yuup  !!! to znowu czîowiek zlasu :))) , co jawam powiem o krakowie ... tu
+jest  caîîkiek  okkki!!!  .... wsumie fajnie tylko ci panowie w dresach co
+siëpo nocy wîuczâ, robiâtrochëniemiîe wraûenie:)...
+
+dobra jak juz ci tak przeszkadz to sciagamy:)
+
+ludzie a moze wy cos docholery napiszecie do jebanego banana :)
+
+
+banan power czy raczer banan pozer :)
+
+_______ 
+\_____/____
+
+ S!LOT          
+
+
+      a  pytanie  dzisiejsze  churem  spiewane  --->  dlaczego  nie lubimy
+equal'a?
+
+ olek:)-jak  go  np.  nie  lubie  chocgo  nie  znam  -)  energizer  -)  to
+maszsluszne prawo i mozesz gop poznac-pozdrowienia dla wszystkich bedacych
+obecnie ba koncercie pantery wniewiadomo gdzie ;)
+ jak ktos lubi pantere to niech sie tu wpisze bo ja tak:)
+
+
+   1 . energizer of cos tam blabla ..
+   2. cholera..
+   3. namnie nie licz
+   4.ja tamja pierwszy raz dziasiaj slyszale,ni jest najgorsz,aleja nie
+     mampodejscia dometalu! Jargoô
+   5.miaîem kiedyô naszywkë =) a teraz mnie ksiâdz od religi nazywa tygrys
+=)
+
+   ciiiiiiii! ENERGIZER! CIII!! STara ôpi =)
+
+aaa  to  ciemammm..  aaa  aa...aaaa  azmi sie plakac chce a kasetke to kto
+chccial  ?  heh,  czy  moze wiem o czym o czym wy nie wiecie:) ps: sciezka
+nieprawosci prowafdzi,,,' - nasz szkkolny tataj-rumtaj ..-) ludzie jak sie
+komus  moja obecna ksywka z jakimis bateryjkamy kojarzy to nie moja sprawa
+ale ja bylem pierwszy ;) a teraz sylwester 2000-) olek pil i pil i pil pil
+i pil az w koncu musial nerke sprzedac .. ;)
+
+niestety,mam  taki  chlerny  rachunek  za  internet,ze  na  przeszczep nie
+starczy  :)  dzisiaj  liczylem  i  mi  sie  skalkulowaîo  coô  220  zetow,
+okutrwa,alemasaktra,skad  ja  tyle  kasy  wyczaruje  :)  A  tak  wogule to
+emergizer  mnie  prosi o logosa,wiec niech ma...male asciii w realtimie po
+browcu!
+    _____
+   / ___/
+  /  /_
+ /  
+/____/
+
+olek - STOP! =) teraz ja
+
+                ________
+             ___\__    /    _______   _______     _______
+            _\    | __/__  _\     /_  \     |_____\ ____7___
+           _\      _    /--\   __  /--/    _    /_    _|   /_
+       hhs'\      |/    \_     |/  \ /     //____|    \|    /__'lot
+       : ::/______//_____//____|____\\________|:/_______      /:: :
+         ==============================================|______\==
+
+KARE. ;))))
+
+zrobiîem to w 2 sekundy =)
+
+juen. a teraz skurwysyn ;)))
+
+teraz  jargo  sie znaczy,nie skurwysyn,tylko jargo,kturwysyn to siedzi max
+po  lewej :) a to ascii to on nie zrobiî, tylko skopiowal skadstam,jak tam
+robie   zrobilbym,ale   juen  mi  klawietke  wyrwe,tera  ktosmi  klawietke
+wyrwie,albo sam przekaze,bierzcie...
+
+albo nie chce mi sië pisaê zabieraj tâ klawiaturejuen :)))
+
+  czeôê znowu =)))
+
+ascii jarga rulz i tyle niema co! Energzer - kOOOODDUUUUJJJJJJJ!!!!
+
+ammeeee rulz ;)
+
+ccciiiiiiiii
+
+starapodsluchuje conioe;)
+
+
+
+nooooo]
+
+
+
+OSWIADCZAM  PUBLICZNIE ZE u!.lOt!u!.lOt!u!.lOt!u!.lOt!u!.lOt!u!.lOt!u!.lOt
+u!.lOt! MNIE GRY
+
+
+nie  jaraja  ..  pierdolicpecety  tu  sie  chyba zgodzimy -piece jebane to
+wymysl satana .. jebanegokurwy -ave! piereeerdole..
+
+tylko  pawel  o  czlonkach  myslali  co  niech ludzie wiedzaz kim swapia..
+i,kytg/' h ]g +
+
+to nie ja mam xywe baterji....
+
+
+dlczego .. aha 'bo woda cieknie z niego ..'
+
+..  a  chujj.. kto to taki swinia - nie ja - i co rzyssz pawle ? nie ma to
+jak spierdalaj na dobranocke
+
+
+wywiad z equalem:
+
+in=inkwizytor - destruktor
+
+
+
+in: -moze pare slowek o sobie ..
+
+ jo  ludzie  mam  na  imie equali jestem niezly w pierdoleniu farmazonow o
+breathe
+
+
+for las :) - sorki ale lasowpelno w polsce.. nie wiem gdzie dokladnie -jak
+tam trafic..
+
+farmazon  - sorki alez tego co wiem to jestes niezlym ascii - odtwarzaczem
+bez skojarzen i nie o ciebie mi tu chodzilo wiec sie odemnie odpierdol..
+
+ej ... aleodwalcie sië od lasów - booshman..przepraszam serdecznie -
+
+...'sorki ale bez chamstwa' - skad ten cyta,pamietacie????
+
+-myslec mi tu natychmiast pytanie dotrojcy - 'sorki ale bezchamstwa' z kad
+ten cytat :)
+
+BOOSHMAN  -  jest  najlepszym swapperem na ôwiecie i pisze listy na 3 kilo
+;))))))))
+
+fakt,faktem  ,  ale  tylko  do  ciebiejuen :))) reszcie przysîuguje trochë
+wixcëcej:))) +
+
+np. Hahowi =) a Booshman ma xxx ct
+
+
+
+fk;pqrewkgp[karewgqer          gwrg         qre         jg         qjoergr
+k[b…=909x2ddzy;oi/wddddddddddddddd s;'pp:z/
+
+
+jebany karton odstawiacie ,..:)
+
+oo ja pierdole
+
+wkrakowie na miasto o jezestecie optymistami - pawel toja siostrato niezly
+element - chleje i chleje tylko.. olku pisz cos prosze-)
+ 
+znowu  dostalem ta klawietke i co by tu napisac... cholernuie podobva mi
+sie  ta nowa xyva san'a energizer,spoko jreet. nie mam nic przeciwko,dobry
+ale mi poszlo ,,.,.
+
+ksiadz riob
+
+krok,byle tak dalej...
+
+
+ksiadz
+
+andrzej kicha =) teraz ja
+
+
+andrzej  wdychnal  za  duzo tabaki i swiruje kicha i kicha a NBooshman sie
+pyta co mu dalem =)))) andrzejpobija rekord kichania, tabaka rulz! andrzej
+kicha ludkom we wîosy =)))
+
+
+spoko  klimat  ?  ..  chybaôcie  wszyscy  ocipieli ... zaraz sië na ômierê
+zasmarkam  ...  nie juen ... nie chcëtabaki do piwa ... zostawa mój browar
+:)))
+
+
+ANKA  CZESC NIE WIEM CZY TO CZYTASZ BO SUMIE TO NIE MASZ KOMPUTERAI GLUPIA
+BARDZO JESTES ALE CZESC,...- ENERGIZER TOJA HAJ.. I CO KUREWNO PAWELKU BEZ
+KOMENTARZY -OLEK AAA,,,WLASCIWIE TOJAK LUBISZ,..-) BOSHMAN NIE ZAPOMINAJ O
+KSIAZCE- NA PRZYSZLOSC-POZDROWINENIA DLA MIESZKOWICZAN :) -
+
+JA PUIERDOLE OLUÔ I ANDRZEJ SIË JUÛ SPILI I KURWA TÎUMACZÂ SIË TABAKÂ ;)))
+SPOKO NIE??? JA PIERDOLË PIJACY ;))))) - JUEN
+
+
+
+PIJANY  JESTEM NIE ja i pijana osoba to wcale nie jest jednosc pierdole to
+i  chuj  -  WCALE wybryki klawierki SA DLAMNIE NIJASNE -) .. a ty pawel to
+sam sie ujebales jak nie wiadomo co - techno sux!! aktualny tekst conie ..
+:)  zabijcie  mnie  .. todobry pomysl .. ale i tak bedzioecie mnie musieli
+jakos sprzatnaca to juz problem jak chuj ..
+
+
+tym sie zajmie MPO! =)
+
+
+
+pi9jaki!
+
+
+miejskie przedsiebierstwo onanizacji or what dlaolka :)???
+
+
+tuolek uwalilem sie jak swinia!!
+
+
+bleee...  widzë  tu  pijane  towarzystwo  .. to jest to co booshmany lubiâ
+najbardziej , a nawetjeszcze bardziej :))))
+
+
+to ja equal jestem zlamany chuj
+
+
+
+colubie  jaklubie  or  what  nie  kumam ale niewazne sprzatam tylko -ktora
+godzina  jest  obecnie  -pawel  dopiero zaczyne 0-'lepiej pozno..' -jest w
+koncu u siebie :)
+
+ej kto boooshuje w plecaku boshhmana:)
+
+
+tak `to ja rudy 102
+
+
+to  jeest  jeden  jebany  karton  to  tutaj  -taknaprawde to siedze tu sam
+-energizer .. ihhhahahahaahhaga - olek mow cos bo juz tracecierpliwosc ..
+
+porazmawiamy o sexie? - nie -ok, a jak lubisz?
+
+
+
+juen,co  ty [irdoluisz.... a no nie twoja sprawa...gey'u :) bezurazy olek,
+a jak tam jas16???? =)
+
+
+-spotkanie czy jak - moze wkrotce slub bedzie .. irc pozneje ludzie..
+
+-chodzi ci chyba o ^jas16^?????? nie jestempadalempe PEWNIE ZDECH...MIEJMY
+NASDZIEJ,GLUPI  PEDAL!  o  kurwa  klawiatura  spadla  na  ziemi  i  wyda;a
+cholernie  glosny  odglo,miejmm6  nasdziej,ze stara (ladacznica) juen'a nie
+slyszala :)
+
+teraztoglupi? h4eh? boo0shman cooming zsoon..
+
+ ja nigdzie niekoming , ja tylko chciaî klawerke na chwile... koorwa... to
+sië  meta  zaczyna...  zaraz stara juena tu wpadnie i bëdzie po ypressie..
+bleee,,,  a  tak  pozatym to o której jest pociâg do szczecina .. bo chyba
+dziônie zdâûë
+
+co to jest ypresss???
+
+trolejbus? ja pierdole juz wiem! impreza =) dziëki BooshManiak!
+
+wiem teû mi sië podoba =_)))))
+
+
+kurwa  chcialemo  cos sie pyac ale zapomnialem - wiec poleje wode bo musze
+isc  ..  NARAZZZIEEEE  POLNOC...  SCHOWTIME  - JA TU WIECEJ NE PRZYJEZDZAM
+-BOOSHMAN  ..:0  -IDE  MNIE JUB WILEJ BALBLABLABLABKLA;. KARWAWA.. AEEAAHH
+ASA  BO  SIE  ZDENERWUJ E- I CI ROKIEGO CHAMKA [ ZE NIE PRZEZ CHUJ PUSZCZE
+JUEN  NIE  PISZ  PRZEZ  ZROBISZ'  -  NARAZIE .. jajnika ? jakiego jhajnika
+??znowu /// 
+
+zaglosno =))))
+
+co ja?
+
+ stara  szara  jeszcze  spi  ....stara  szara jeszcze spi,.... stara-szar,
+jeszcze  spi..  a  my  sie nie boimi olek po kosciolem czarnych wdziankach
+szyji zimy nie spiiii...ollle..
+
+ a  to  sië  kurwaboordel  narobiî  ...  taaaa,,,  energizermusi  do chaty
+wracaê ...  juena  staramuôli  ûetylko  ja  tu  jestem  ...  ajargo  idzie
+odprowadziê egualizera .... bleeee , a wsumie ch... ztym
+
+bede zwami duchowo naraziek..
+
+jargo,wlasnie    rozp[oczynamy   misje   escorta,odprowadzam   san'a   tj.
+ozygizer'asna  przystranek  iejmy nadzueje,ze misjha zakonczy sie sukcesem
+sstop
+
+zabko mojaq :___ haha niezle a niech was intercipy szczeli..
+
+
+asa-  hauhauhauhau..  ona tez scenuje osa.. z niej a zreszta ja tez ..kur0
+MUSIAL ANDRZEJ ISC ;) - JUEN
+
+A  JA  FORMATUJE  I  FORMATUJE =) A BOOSHMAN SOBIE W OKNIE PALI =) ACH TEN
+ZAPACH..... STARSZA SIË ZACZYNA OSTRO WKURWIAÊ, BABCIA BYÎA NA SKARDZE...
+
+
+FUCK =) PODOBNO MUZKA I PIES ZAGÎOÔNO SZCZEKA TRALALALALAL
+
+HEHE
+
+HEHEHE
+
+KASETA BOOSHMANA RULEZ, ALEJUÛ SIË PRZEWIJA....
+
+TRALALALALA  NASZ  REALTIME  RULZI JET DUÛYMI LITERAMI PISANY A MI BROWIEC
+JESZCZE ZOSTAÎ I NIKT O TYM NIEWIE ;)))))
+
+
+CHYBA CZAS NA INTRO4K COMPO =)
+
+
+I   OCZYWIÔCIE  HARVESTER  WYGRAÎO,,  HUH  JAK  ZWYKLENIEMA  CO,  ACH  TAM
+1324682586  MEGOWA  MUZYKA  I  TE EFEKTY NICZYM Z DEMA WYJËTE, TAK A PROPO
+JAKBY NASZA 4KILÓWKA W DEMOCOMPO ZOSTAÎA PUSZCZONA TO BYÔMY WYGRALI =)
+
+
+RULEZUJEMY,  NBIEMA  CO, STARSZA OBOK ÔWIATÎO ZAPALIÎA, =----- CISZA NOCNA
+;))
+
+
+NAS TU NIEMA =) HIEHIEHIE
+
+PLUM
+
+PRZEMKNEÎA DO ÎAZIENKI
+
+KLKLKFDKL/
+
+
+NIE...NO  TO  JA  SIE  ZARAZ  ZWIJAM  ...MNIEBËDËJUENOWI  ÔWINI ROBIÎ ....
+PRZEKI8MAM SIËNA DWOCU :)))))) .... ITAK CRACOWROLKLLOS
+
+NIE NO COTY NIE NA DWORCU! W SCHRONISKU =))
+
+A TAK NA SERIOP TO STARA ZARAZ ZAÔNIE... JEST 0:23 =)
+
+ÔWINIA RULZ....
+
+MIESZKOWICE RULZ!
+
+=)
+
+REALTIME RULZ!!!!!!!!!!
+
+BOOOOOOOOM
+
+CO  BOOOOMMMM ... BLEEE JARGO TO CHYNA NAMNIE NADOLEZXACZEKA A TAK POZATYM
+TO DO WARSZXAWY JUÛMI SIËNIE CHCEJECHAÊ:((((
+
+HEHE, METRO RULZ =)))))
+
+BOOSHMAN LOOKA ZA JARGIEM =)
+
+JARGA NIEMA
+
+JARGA ZJADÎO
+
+AAAAAAA..  ALIENYWKRAKOWIE... ZJADÎYU JARGA ... I CO MY TERAZ POWIEMY JEGO
+STARYM :)))
+
+ JA PROPONUJE ÛE POWIEMY STARYM ÛE GO ALIENY ZJADÎY...
+
+ NIECH CI BËDZIE , PRZECIEÛNIEBËDZIEMY ICH OKÎAMYWAÊ:))
+
+DOBRA ALETERAZTO SIËZBIERAM I NO WÎAÔNIE TYLEWTEJ KWESTI BLEEE:))))
+
+NIEPIEPRZ =)
+
+WCALENIEPIEPRZE  ...  WSUMIETO LUBIËPIKANTNE POTRAWY .. ALENIE NA TYLE ...
+HIH PRZESPAÎBYM SIËWRESZCIE ... 2 DOBY WPODRÓZY ROBIÂSWOJE ...
+
+ÎÓÛKO WOLNE - ÔPIJ, SIOSTRA SIË NIEOBRAZI =)
+
+SKORA  TAK TO DOBRANOC.. EJ ALECO ROBI PIESWWYRKU TWOJEJ SIORY ... BLE TAK
+TO SIËNIEBAWIE :)
+
+NO CO TY PSÓW NIELUBISZ!?!?!? =)))))
+
+, LUBIËALE NIE NA TYLE:))))
+
+HMM,  HMM  POSSZEDÎ  SIË  ODLAÊ... JA PIERDOLE... CIEKAWIE JEST, BO WPÓÎDO
+01:00  I WOGÓLE TRANCIK LECI I CZÎOWIEK NIEWIE CO ROBIÊ I WOGÓLE , A JARGO
+PEWNIE POD OKNEM CZEKA ;))) HI JARGO... FUCK ENERGIZER DO DOMU POJECHAÎ...
+
+SWAP THA BEST ... PO MATURZESIËPOPRAWIE:)))
+
+HMNMMM.. FUCK IS DA REST =)))
+
+I TYLE ... DOBRA CZAS WRACAÊW SZCZECIÏSKIEOKOLICE:)))\ \ HUH
+
+JARGA NIEA | |]' ] ]'[ \\\
+
+
+w8689990908 \908FC \\
+
+
+NO    TO   PA   W   ROLI   GÎOWNEJ:   JA   CZLI   FKOZBOOSHMAN/RETROACTIVE
+JUENISKO'HARVESTER+BREATHE+LAYOUT  I  NIEOBECNI: ENERGIZER/BREATHE AKA SAN
+I: JARGO , KTÓRY JUÛDAWNO POWINIEN WRÓCIÊ, POZA TYM TO ONLUBI JASIA`16
+
+HEHE, BYE
+
+ÛYCZYMY MIÎYCH SNÓW 0:35.04
+
+
+maîy  powrót  ale tylko ja juen =) jargo przyszedî z energizerem o godzine
+1:xx  i mówi ûe juû Autobusu do domu niema, ale dziô jargo dzwoniî ûe jego
+starszy  go  odwiózî  =) stara bateryjki byîa trchë wkórwiona, i kazaîa mu
+nawet  taxówkë  braê  ;))))  to tyle w tej kwestiii ludki przyjeûdzajcie w
+mojâ  chatë  to  meeting  se znowu zrobimy ;))) tyle ûe tym razem lepiej w
+dzieï  =DDD  a pzoatym ferie za tydzieï wiëc sië bójcie, [juû do was jadë]
+hahahHAHAHAHAHAHA!
+
+
+apsik
+
+
+
+  _          _                                               _          _
+ ]_ 07.01.2k _[         hARVESTEr   hOTTESt   nEWs!         ]_ 07.01.2k _[
+
+
+                                          .........
+ _ ____,        ._____.                   :       :................
+ \\\   | _______|__   |________  ___      :              .____    :
+  \  __l_\    ____/   |\  _    \/   |    _·_____ _____   |    |___·___ s3a~
+     \     |__ \l     |   /_____\   l----\  ___//   _/___|    |\  ___/________
+ _____\      /_____   ·     \       \       _/  \______ \_    _/  _/  \  _    \
+------ \_____\ --/__________ \______|\___           /    T    |          /_____\
+                              \     |   /______ _  /____/|     ______      \
+                                          ·       /       -×6L   ·  /______ \
+                                          :....   ·            ..:           \
+                                              :................:              ·
+
+                       email: hvr@centauri.rsc.com.pl
+
+
+	       _                     _
+]-------------]_ m--e--m--b--e--r--s _[------------------------------------[
+               _                     _    _                               _
+]..AGASlayer..]_  Boleslav  Kristen  _[..]_ leader, organizer, txt, swap  _[
+              ]_  Czech              _[..]_ boleslav.kristen.fs@vsb.cz    _[
+               _                     _    _                               _
+]..Arnee......]_  Rafal     Glinski  _[..]_ gfx                           _[
+              ]_  Poland             _[..]_ arnee@friko.onet.pl           _[
+               _                     _    _                               _
+]..Explora....]_  Adam Kazmierski    _[..]_ 3d gfx, www master            _[
+              ]_  Poland             _[..]_ adamk@swk.med.pl              _[
+               _                     _    _                               _
+]..fAr........]_  Tomasz Stefanski   _[..]_ ascii'maker, swapper          _[
+              ]_  Poland             _[..]_ farmaz0n@kki.net.pl           _[
+               _                     _    _                               _
+]..Holdys.....]_  Boguslaw  Holdas   _[..]_ msx                           _[
+              ]_  Poland             _[..]_ AMIGA@LAURA.TU.KIELCE.PL      _[
+               _                     _    _                               _
+]..Juen.......]_  Pawel     Nowak    _[..]_ coder                         _[
+              ]_  Poland             _[..]_ juen@tl.krakow.pl             _[
+               _                     _    _                               _
+]..Lightman...]_  Lukasz Wisniewski  _[..]_ 3D modeller, 3D gfx           _[
+              ]_  Poland             _[..]_ no mail                       _[
+               _                     _    _                               _
+]..Mot........]_  Tomas     Pavlik   _[..]_ 2D gfx                        _[
+              ]_  Czech              _[..]_ no mail                       _[
+               _                     _    _                               _
+]..Neami......]_  Anka      Zapal    _[..]_ text-writer-eng,editor,help   _[
+              ]_  Poland             _[..]_ neami@home.mck.pl             _[
+               _                     _    _                               _
+]..RedRose....]_  Tomas     Przybyla _[..]_ 2D gfx, editor                _[
+              ]_  Czech              _[..]_ redrose@post.cz               _[
+               _                     _    _                               _
+]..Speedy.....]_  Robert    Jankovic _[..]_ 2D gfx                        _[
+              ]_  Czech              _[..]_ no mail                       _[
+               _                     _    _                               _
+]..TommyGun...]_  Tomas     Zdrazil  _[..]_ msx, editor                   _[
+              ]_  Czech              _[..]_ zdrazil@phil.muni.cz          _[
+               _                     _    _                               _
+]..UHU........]_  Jarek Cishowsky    _[..]_ article maker, swapper        _[
+              ]_  Poland             _[..]_ no mail                       _[
+               _                     _    _                               _
+]..X-Type.....]_  Tomasz    Zalega   _[..]_ leader, organizer, music      _[
+              ]_  Poland             _[..]_ xtype@alpha.pl                _[
+
+thats aLL 14 mEmBERs... m0re commING sOOn ;-)
+             _                           _    _     _
+]-----------]_ Y-o-u---W-a-n-t---J-o-i-n _[--]_ ??? _[---------------------[
+
+ <>    (...)us ? no problem...  please mail to AGASlayer or X-Type       <>
+                      _                           _
+]--------------------]_ s--u--b--g--r--o--u--p--s _[-----------------------[
+
+ <>                   Yes! We have a >>SubGroup<< !                      <>
+
+>-----------------------<<   _        _    _                    _    _    _
+ The Amiga Music Makers     ]_ Ars    _[..]_ Arkadiusz Pekalski _[..]_ PL _[
+>-----------------------<<                ]_ music, organizer   _[
+                                          ]_ ars@alpha.net.pl   _[
+ Our firs MusicCD called     _        _    _                    _    _    _
+ "AmiInspiration"    was    ]_ X-Type _[..]_ Tomasz    Zalega   _[..]_ PL _[
+ released..  If You want                  ]_ music              _[
+ it  please  mail to Ars                  ]_ xtype@alpha.pl     _[
+                        _                        _
+]----------------------]_ p--r--o--d--u--c--t--s _[------------------------[
+                                                         _               _
+   we tRy to do sOMETHINg lIKe a:                       ]_    intros     _[
+                                                        ]_    demos      _[
+                                                        ]_    utils      _[
+                        do yOu bELIEVe??                ]_    mods       _[
+                                                        ]_    pixs       _[
+                               _            _
+]-----------------------------]_ n--e--w--s _[-----------------------------[
+
+]-->> <> Soon music CD called "Friends" by TAMM...
+      <> fAr joined as ascii'maker, swapper
+      <> UHU joined as article maker, swapper
+      <> Lightman joined as 3D modeller
+]-->> <> Our WWW Page : http://centauri.rsc.com.pl/~hvr/
+                           _                   _
+]-------------------------]_ y-e-a-r---2-0-0-0 _[--------------------------[
+
+          AMIGA® >>> last hope for better live on the world !!
+
+     and remember - spread this file in snail, e-mail, c-mail, d-mail..
+
+
+
+             ______ nie wiesz co masz z sobâ zrobiê?
+             \    /                            __ ______
+             /   /___       ______   _________ \_\\    /
+        ___ /    \_  \__ _.-\___ /_  \____   /___ /   /___
+     ,____//______/    //    __/   \ ____/__/-' //    \_  \__
+           -FFF- /_____\\____\/    //__________//______/    /___
+                             /    /__                 /_____\\____,
+            -)·hAzh·(-      /____//_/
+     friendly swapp - join to oxygen - azkee - support ascpack(brth)
+                   po to, i po wiëcej pisz do mnie!
+
+                   hazh/dione·oxygen·Soc     2k% (tr)answer
+                        michaî warzecha
+                              11listopada8/40
+                                  32-590 libiâû
+                        nie traê czasu ! pisz juû dzisiaj!
+                             kaûdy_mile_widziany!
+
+
+                   _/\_
+                   \__/
+                   ___ __ __      ____ __    _____ ____
+            _____ _|  Y // /._____\  // |__ _\   //   /
+            \_   \\  _|_  / |    /   ___| /_.    \____\
+            (/_______\·/______\\_\_  \|     |_____\)
+                              hHs'/______\\_|'sOc
+
+
+                     for friendly swapp write to:
+
+                   + juen/harvester+breathe+taski +
+                           ----------------
+                             paweî nowak
+                          ul.szpitalna 7/13
+                            31-024 kraków
+                               pol-and
+                           ----------------
+                       no beginners, no lamers

@@ -1,0 +1,1234 @@
+--[BOF]-----------------------------------------------------------------------
+______________________________________________________________________________
+
+w    w    w    .    t    h    u    g    l    i    f    e    .    o    r    g
+              ,  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+        . __________;;;;_____________________;;;;____  t·H·U·G·L·I·F·E
+     _ _|_)                                          \ _______________
+     ___|      ___   _______  ______   ____        ___\\   ____  ____/_
+ _ __\ (|_ ____\ (___\__   /__\_  _(___\_ (._______\_(_\\__\ _(_ \   _/_____
+ \\\_   _//  _/  _    _/  /   _/  \_   _/  |    _/      _/ _    \   _\    _//
+    /__ \    \___/    \___    \___     \___     \___    \  )_____\___     \
+<<====/____ __\=/___ __\=/__ __\=/___ __\=/___ __\=/__ __\___\    /=/___ __\==
+        | / \      / \     / \      / \      / \     / \   \\    /     / \
+     _ _|___________________________________________________\\  /
+________|           ;;;;,,,,,,, ,,,   ,      ;;;;             \/ bne&&spf-----
+                                             ``````````` ``  `
+w    w    w    .    t    h    u    g    l    i    f    e    .    o    r    g
+______________________________________________________________________________
+             This file passed The Ascii Archive at THUGLIFE.ORG.
+         Home to over 137 +/- ascii groups, and even more releases.
+      Interviews & Reviews. Always the latest in Ascii News/Releases.
+--[EOF]-----------------------------------------------------------------------
+
+
+
+ 
+ 
+                                     ·
+                                     :         
+                               __ _/\¦/\_ __    
+               __/\__ _ _  __ _/(_)  |  (_)\_ __  _ _ __/\__  iF U sOFT
+aMIGA          \    /   ( /_/\\_     |     _//\_\ )   \    /  gET lOST!
+ tERROR        /_  _\     \_\/_/   @ | @   \_\/_/     /_  _\
+  wORLDWIDE      \/           \__   _|_   __/           \/   sHARP aS a kNIFE
+          _ ___ _____/\_ ___/\__/\__).(__/\__/\___ _/\_____ ___ _
+          \\\__\\_____ (_) __ ___  (_¦_)  ___ __ (_) _____//__/// dAS fLEISCH
+fICKEN   _          \___  /  \/| _ _ _ _ _ |\/  \  ___/          _ GEWORDENE
+uND     /(___ _/\_____ / /_ _ _| | | | | | |_ _ _\ \ _____/\_ ___)\  bOESE
+tOETEN /    (_)  \_    \/    \\_ |_|_|_|_| _//    \/    _/  (_)    \ 
+      /          _/      _  _ _| | | | | | |_ _  _      \_          \
+      \                  ( (_)\_ | | | | | _/(_) )                  /  
+    /\ \   WE W¿LL NEVER      _/ ¯ ¯ ¯ ¯ ¯ \_       WE W¿LL NEVER  / /\
+    \/ /     SURRENDER  _ __/\\__ _\   /_ __//\__ _  COMPROMISE!   \ \/
+      /                 \\\__/  \/  \_/  \/  \__///                 \
+      \                  ¯  __/\           /\__  ¯                  /
+       \  __________________\__/           \__/__________________  /
+i HATe  \(                    __/\       /\__                    )/ 
+PC ANd I ¯                    \__/  ___  \__/    :)              ¯
+WONt STOp                       __/\\_//\__
+              ONL¿NE UNTIL BUST \__/ _ \__/ ONL¿NE B¿S ZUM KNAST
+                                  __/ \__
+                                  \_____/   WE WOULD DiE FOR COMMODoRE
+
+
+
+
+
+
+[SOF]
+
+          Upload time: 05:01:37           Upload Date: 10-31-1999
+                                      :
+                                    :_|_:
+                                 ___| X |___
+                              _:_)  |   |  (_:_
+                            \\\_    :        _///
+            :_                 |             |         :_
+ __  ___/\ _| \_ ___/\ ____ _/\|____ ___/\ __|_ ___/\ _| \_ __/\ ____
+   \\\__  \_|__/_\__  \___ \_  \__  \\__  \___ \\__  \_|__/\__  \___ \
+     _/_________ \/     |/  \  __|_  \/     |____/   ____)__/      /  \
+    _\         // \_   _/    \_\___   \_    |    \_ \\      \_   _/    \_
+   /         _/     \  \______/  |      \   |      \  \_      \  \___ _  \
+  /          \       \  |        |       \          \  /       \          \
+  \           \      /  |        |       /          / /        /          /
+   \___________\____/___|________|______/__________/_/________/__________///_
+      :                 :      | :           |                        :
+      |       :       ___/\ ___| ___/\ _:   _|_/\ ____  __    :       |
+      |/\\ //\|    mR!\__  \___ \\__  \ |___\__  \___ \\\     |/\\ //\|
+      /  \ /  \        /     |/  \/     |   \/     |   \      /  \ /  \
+    _/    X    \_    _/      /    \_    |    \_    |    \_  _/    X    \_
+   \\_____|_____//  /       /|__    \   |      \   |_____/ \\_____|_____//
+      _/ / \ \_    /         :       \  |       \  |          _/ / \ \_
+      |   :   |    \                 /  |       /  |          |   :   |
+      |||||||||  _\\\_______________/__________/___|          |||||||||
+      |:     :|                |             |     :          |:     :|
+      :       :                |             |                :       :
+                         ..  S P A C E D   O U T  ..
+                               |             |
+                       v i s i t   t h e   l e g e n d
+                               |             |
+                               |_           _|
+                               :/           \:
+                             ///___ _   _ ___\\\
+
+           F A C T i O N                      World Headquarters
+           L o W  P r O F i L E               World Headquarters
+           F A i R L i G H T          United Kingdom Headquarter
+           R O Y A L                  United Kingdom Headquarter
+           R A M  J A M               United Kingdom Headquarter
+           L i g h t f o r c e        United Kingdom Headquarter
+           L o o k e r   H o u s e    United Kingdom Headquarter
+           X!-T r e K                 United Kingdom Headquarter
+           O u t l a w s              United Kingdom Headquarter
+           DiGiTAL CoRRUPTiON         United Kingdom Headquarter
+           F A i T H                  United Kingdom Headquarter
+           Save Our Souls             United Kingdom Headquarter
+           Tristar & Red Sector Inc   United Kingdom Headquarter
+
+           .---------------------------------------------------.
+           |           UPLOADED BY chill                       |
+           |---------------------------------------------------|
+           |        fROM Faction Ascii Dept iN dOCKiNG bAY 01  |
+        .--`---------------------------------------------------'--.
+        |          IN SPACE NO ONE CAN HEAR YOU SCREAM!           |
+        `---------------------------------------------------------'
+
+[EOF]
+
+- ------------------------------------------------------------------------- -
+  ×××××××××××××××××××× ·evil·to·he·who·evil·thinks· ×××××××××××××××××××××××
+- ------------------------------------------------------------------------- -
+
+           n  i  n  e  t  e  e  n    n  i  n  e  t  y    n  i  n  e
+
+
+           a     c  o  l  l  e  c  t  i  o  n    i  s    b  o  r  n
+
+                      _____   ___    ___ ____   ____
+                     |   __) |   |  (___)    | |    |
+        ________     |   |\  |   |_ |   |   _|_|   _|_      ________
+        ¼¼¼¼¼¼¼¼--- -|   | \ |   _ \|   |  |   \  |   \- ---¼¼¼¼¼¼¼¼
+        ¼            |   |  \|   |  \   |  |    \ |    \           ¼
+        ¼            |       \   |   \  |        \      \          ¼
+        ¼            |        \_ |    \_|         \_     \_        ¼
+        ¼            `---------'-^-----''----------'------'        ¼
+        ¼                          [..of..]                        ¼
+        ¼           ____ ____ ____   ___    ___ _____ ____         ¼
+        ¼______    / ___(__  |  __)_|   |_ (___)     |    \    ____¼
+        ¼¼¼¼¼¼¼- -/  __)  _  |  |\(__   __)|   |  _  |  _  \- -¼¼¼¼¼
+                 /    |   |  |  | \/     \ |   |  |  |  |   \
+                /     |   |  |  |  \      \|   |  |  |  |    \
+               /      |   |  |      \      \   |  |  |  |     \
+             _/       |      |       \_     \_ |     |  |      \_
+             `--------'------'--------'------'-'-----'--^-------'
+
+
+    p  r  e  s  e  n  t  s    e  x  p  e  r  i  e  n  c  e    f  i  v  e
+
+   ____    __ _    ___ _    ___ ____      ____    ___    __ _    _____
+  |    |  |  Y \  |   Y \  (___)    \   _(__  | _|   |_ |  Y \  |   __)
+  |   _|_ |  |  \ |   |  \ |   |  _  \ |   _  |(__   __)|  |  \ |     \
+  |  |   \|  |   \|  \_/  \|   |  |   \|   |  | /     \ |  |   \|____  \
+  |  |    \  |    \   |    \   |  |    \   |  |/       \|  |    \   |   \
+  |        \ `     \  |     \  |  |     \  |  |         \  `     \  |    \
+  |         \_______\_|      \_|  |      \____|          \________\_______\_
+  ==========================================================================
+          t  h  e     y  e  a  r     o  f     d  a  r  k  n  e  s  s
+  ==========================================================================
+           :                 :                                          :
+           |                 |                                          |
+          _:                 :    _ _____________________________ _     :_
+          \\                 |                                          //
+           \                 :    l · U · m · i · N · a · t · u · S     /
+        _ _:_______          .    _ _____________________________ _     |
+           |       \ __      :                                          :
+           |        \\/  ____:    chapter one : the year of darkness    |
+           | sTZ!/sE \  /    |                                          :
+           :          \/     |  the fifth asc² experience by chill^fTN  |
+        _____   _______ ________ _____  ______ ________ ______  _____   :
+       /   _/___\      \\       \\    \_\__   |\       \\     \_\  _/___|
+      /    \    \_      \   \   /     _/  /___|    \   /      _/_____   \
+      \__________/______/___/  /______|____________/  /_______| /_______/
+           .               /___\                  /___\                 |
+           |      /\         .½½½½½½½½½½½½½|             |½½½½½½½½½½½½½½:
+           |_____/  \ __    _|.............. first words ...............|_
+                     \\/    \\.............| index       |..............//
+                      \      \.............| artwork     |............../
+                       \_____|.............| credits     |..............|
+                             :.............| respects    |..............:
+                             |.............| file Info   |..............|
+                             |.............| history     |..............|
+                             :.............| messages    |...............
+     _                   _   :½½½½½½½½½½½½½`-------------'½½½½½½½½½½½½½½:
+  .-\\( the first words )//--'                                          |
+  |    ______ ___   _____    ___    _ ___ _  _____ ___        __ _____  :_
+ _.   / ___)_)   |_|_  __) _|   |_ | Y   Y )|     |   |___   |  |   __) //
+ \\  /  __)  |       |   \(__   __)| |   | \|  _  |       |__|  |     \ /
+  \ /    |   |   |   |__  \/     \ |   _    \  |  |   |   |  _  |____  \|
+  :/     |   |   `---' |   \      \|   |     \ |  |   `---'  |  |   |   \
+  /      |   |     |   |    \      \   |      \|  |     |    |  |   |    \
+_/       |   |     |         \______\__|       \__|     |       |         \_
+============================================================================
+
+  Well it's been some time since my last collection.During which time I had
+  a HD crash killing all my asc² work,collections and tools.Having lost the
+  "feeling" for ascii I've not really used the computer much,apart from the
+  odd IRC session it's been  sitting dormant.During one of these particular
+  sessions  on Irc I   had the pleasure of  chatting to zaner and dipswitch
+  the latter of who suggested I grab Cygnus Editor and get busy.Well as you
+  can see this collection is the result.This collection and the three or so
+  chapters that will follow are  dedicated to event of the century,to those
+  who have been living  under a rock I  refer to the solar eclipse recently
+  Indeed  this  is  the year of darkness, temporary  as it may have been we
+  were all shrouded in the cover of perpetual night.
+
+  I wonder how early  man would have viewed such  a planetary event.Fearing
+  some  omnipotent  being would descend  from the skies I'm sure they would
+  have fled to the safety of their caves.And I'm sure even in this,the dawn
+  of a new millenium,the event  struck fear and panic in the hearts of many
+  people all over the globe.
+
+  The primary title "Luminatus" is my homage to the art of HRgiger.Those of
+  you not familiar with this artist,he was responsible for the artwork from
+  the Alien  series  of movies.This  man has the  deepest,darkest soul I've
+  encountered,which is reflected in  his artwork.Through his (ab)use of LSD
+  he has tapped into the  darkest side of the human mind,I highly recommend
+  you check out his artwork through  whatever medium you have access to.I'm
+  sure you will  agree with me after viewing his work,this  man has touched
+  something primevil in his soul,the results of which are astounding.
+
+  This collection contains solely board logos,the reason for which is after
+  I had considered the amount of artwork I wanted to do it was considerable
+  and as this is a "redesign" of my style after the HD crash I did not want
+  to release some  400k ascii collection  so I will split the overall colly
+  into chapters; BBS logos,group logos,personal logos and diz's/nfo's.
+
+  2 complete this introduction I feel I must comment and commend the people
+  responsible  for The Ascii charts.I'm all for constructive criticism in a
+  field such as asc² art.It is very difficult to "measure" an artists skill
+  as it is the individuals own perception of his art that is being measured
+  a difficult task indeed.But so far the people responsible have been up to
+  now correct in all their  analysis of the art.But it would be  impossible
+  to suggest  set guidelines for ascii art as  it is purely an  individuals
+  use of the charset to convey a message to the viewer.But I agree with the
+  views of the  team as far as massive,unreadable,archived collections have
+  no place on the BBS scene.That will no doubt stir up some contraversy and
+  should you wish to reply,dont.
+
+  Well I hope  you enjoy this collection,should you wish to make a  request
+  then mail  me on Spaced Out or Liberation.I don't use Inet much at all at
+  the moment but I'm in regular contact with the sysop's of these boards so
+  your request will reach me.And if you are an ascii artist I'd like to ask
+  for some personal logo's (chill) and group logo's/diz's (faction).Thanks!
+
+      ._                                                             _.
+      |/_ _                                                       _ _\|
+      `=\o/== Peace to you brother,in this the year of darkness ==\o/='
+        \/                                                         \/
+
+                            .--------------------.
+                         .  |  .                 |
+                            |                   :|
+                           \|/                  ||
+                         - -O- -                ||
+                           /|\                  ||
+                          . | .                 ||
+                            |                   :| _ ______  ______ _
+     _  _____._____________ |____________ _______|         \/
+             |   __       /_|\____      /   _____/____     /\
+     bY!/sE  |____/      /      _/     /    __\       \    \/
+       ______|   /________\_.___________\________._____\___/\_____ _
+    _ ___ ______ _______    |                    |     _______ ______ ___ _
+   ///__//_____//_______    [     the index      ]     _______\\_____\\__\\\
+                            |                 .  |  .
+                            |.                   |
+                            |          /        \|/
+                            |:        //      - -O- -
+                            ||        //        /|\
+                            ||                 . | .
+                            ||                   |
+                          __||__ _         _ ____|__
+                   _     _\ |:                   | /_     _
+                .__)\____\\\|                    |///____/(__.
+                |           `--------------------'           |
+                |<01):........... Spaced Out                 |
+                |                 Liberation ...........:(02>|
+                :<03):........... Retrograde                 :
+                |                 Cryogenics ...........:(04>|
+                |<05):........ Electric Warrior              |
+                |                  Death Row ...........:(06>|
+                |<07):........... Specialist                 |
+                :              The Wrath of Khan .......:(08>:
+                |<09):............ Los Endos                 |
+                |               Restricted Area ........:(10>|
+                |<11):............ The Yard                  |
+                :                Cosmic Trance .........:(12>|
+                |<13):........... Kings Crown                |
+                |                Digital World .........:(14>|
+                |<15):............ Acid Slam                 |
+                |                Bustin Loose ..........:(16>:
+                :<17):............ Vultures                  |
+                |                Canadian Mist .........:(18>|
+                |<19):........... Winterland                 |
+                |                 Checkpoint ...........:(20>|
+                |<21):............ Nightline                 |
+                :                  Eternity  ...........:(22):
+                |<23):.......... Techno House                |
+                |                 Last Legend ..........:(24>|
+                |<25):.......... Access Denied               |
+                |                  Boondocks ...........:(26>:
+                |<27):............ Dial Hard                 |
+         .......'                                            `.....
+ ........:   ____ ___       ___    _ ___ _   _____ ___   ___ ____ :........
+ :___:   : _(__  |   |___ _|   |_ | Y   Y ) |     |   |_|_  Y   / :   :___:
+    .:.. :|   _  |       (__   __)| |   | \ |  _  |       | | _/  : ..:.
+    :  :_:|   |  |   |   |/     \ |   _    \|  |  |   |   |    \  :_:  :
+    :  :  |   |  |   `---'       \|   |     \  |  |   `---' _   \   : .:.
+  _: :_:  |   |  |     |/         \   |      \ |  |     |   |    \  :_: :_
+ :_:_:____|      |     |           \__|       \___|     |   |     \___:_:_:
+ ==========================================================================
+ ·artwork·artwork·artwork·artwork·art-work·artwork·artwork·artwork·artwork·
+ ==========================================================================
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [01(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Spaced Out  _½½ ____) _  (____ ½½_          Greetings Zoltrix |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+      _____  _______ ____ ____  _____     __    _____ __ _     ___
+     |   __)|   __  (__  |  __)|  ___)   |  |  |     |  Y \  _|   |_
+     |     \|  (__| | _  |  |\ |   _) ___|  |  |  _  |  |  \(__   __)
+     |____  \       | |  |  | \|  | \|   _  |  |  |  |  |   \/     \
+     |   |   \ `----' |  |  |  \  |  \   |  |  |  |  |  |    \      \
+     |   |    \  |    |  |      \     \  |  |  |  |  |  `     \      \
+     |         \_|       |       \_    \_   |  |     |         \_ [©L]\_
+     `----------''-------'--------'-----'---'  `-----'----------'------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [02(of)27]    _½__\\__\/__//__½_   Running F.A.M.E            |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Liberation  _½½ ____) _  (____ ½½_      Greetings Hellraiser |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+      ____   ___ __   _____ ___     ____    ___    ___ _____ ____
+     |    | (___)  | |  ___)   |___(__  | _|   |_ (___)     |    \
+     |   _|_|   |  |_|   _)|       | _  |(__   __)|   |  _  |  _  \
+     |  |   \   |  _ \  | \|   |   | |  | /     \ |   |  |  |  |   \
+     |  |    \  |  |  \ |  \   `---' |  |/       \|   |  |  |  |    \
+     |        \ |  |   \    \    |   |  |         \   |  |  |  |     \
+     |         \_       \_   \_  |      |          \_ |     |  |  [©L]\_
+     `----------'--------'----'--'------'-----------'-'-----'--^-------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments: none    |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [03(of)27]    _½__\\__\/__//__½_   Running Daydream?          |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Retrograde  _½½ ____) _  (____ ½½_          Greetings [sonic] |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+      ___   _____    ___    ___   _____ ____  ___     ____    __ _____
+     |   |_|_ ___) _|   |_ |   |_|_    |  __)|   |___(__  |  |  |  ___)
+     |       | _) (__   __)|       |_  | (_ \|       | _  |__|  |   _)
+     |   |   || \  /     \ |   |   ||  |  |  \   |   | |  |  _  |  | \
+     |   `---'|  \/       \|   `---'|  |  |   \  `---' |  |  |  |  |  \
+     |     |      \        \     |  |  |       \   |   |  |  |  |      \
+     |     |       \_       \_   |     |        \_ |      |     |   [©L]\_
+     `-----'--------'--------'---'-----'---------'-'------'-----`--------'
+
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [04(of)27]    _½__\\__\/__//__½_   Running Sigma Express.     |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Cryogenics  _½½ ____) _  (____ ½½_       Greetings datastream |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+      ____  ___    __ __  _____ ____  _____  ____   ___ ____  _____
+     |  __)|   |__|  Y  )|     |  __)|  ___)|    \ (___)  __)|   __)
+     |  |\ |       | |  \|  _  | (_ \|   _) |  _  \|   |  |\ |     \
+     |  | \|   |   |     \  |  |  |  \  | \ |  |   \   |  | \|____  \
+     |  |  \   `---'-|    \ |  |  |   \ |  \|  |    \  |  |  \   |   \
+     |      \    ||  |     \   |       \    \  |     \ |      \  |    \
+     |       \_  ||         \_ |        \_   \_|      \_       \_  [©L]\_
+     `--------'--'`----------'-'---------'----'^-------'--------'-------'
+
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [05(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Electric    _½½ ____) _  (____ ½½_              Greetings axl |
+|             Warrior     ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+            _____  ____   _____  ____    ___    ___   ___ ____
+           |  ___)|    | |  ___)|  __) _|   |_ |   |_(___)  __)
+           |   _) |   _|_|   _) |  |\ (__   __)|       | |  |\
+           |  | \ |  |   \  | \ |  | \ /     \ |   |   | |  | \
+           |  |  \|  |    \ |  \|  |  \       \|   `---' |  |  \
+           |      \        \    \      \       \     |   |      \
+           |       \_       \_   \_     \_      \_   |   |   [©L]\_
+           `--------'--------'----'------'-------'---'---'--------'
+                _ ___ _    ___ ___   ___   ___ _____ ___
+               | Y   Y ) _(__ |   |_|_  |_(___)     |   |___
+               | |   | \|  _  |       |     | |  _  |       |
+               |   _    \  |  |   |   | |   | |  |  |   |   |
+               |   |     \ |  |   `---' `---' |  |  |   `---'
+               |   |      \|  |     |     |   |  |  |     |
+               |   |       \_ |     |     |   |     |     |
+               `---^--------'-'-----'-----'---'-----'-----'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [06(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Deathrow    _½½ ____) _  (____ ½½_         Greetings Shadower |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+           __ _____   ____    ___    ___    ___   _____ _ ___ _
+          |  |  ___)_(__  | _|   |_ |   |  |   |_|_    | Y   Y )
+      ____|  |   _)|   _  |(__   __)|   |_ |       |_  | |   | \
+     |    _  |  | \|   |  | /     \ |   _ \|   |   ||  |   _    \
+     |    |  |  |  \   |  |/       \|   |  \   `---'|  |   |     \
+     |    |  |      \  |  |         \   |   \    |  |  |   |      \
+     |       |       \_   |          \_ |    \_  |     |   |   [©L]\_
+     `-------'--------'---'-----------'-^-----'--'-----'---^--------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [07(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Specialist  _½½ ____) _  (____ ½½_            Greetings Gunda |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+      _____   ___________ ____  ___   ____ ____   ___ _____    ___
+     |   __) |   __  |___)  __)(___)_(__  |    | (___)   __) _|   |_
+     |     \ |  (__| | _)|  |\ |   |   _  |   _|_|   |     \(__   __)
+     |____  \|       || \|  | \|   |   |  |  |   \   |____  \/     \
+     |   |   \  `----'|  \  |  \   |   |  |  |    \  |   |   \      \
+     |   |    \   ||      \     \  |   |  |        \ |   |    \      \
+     |         \_ ||       \_    \_|      |         \|         \_ [©L]\_
+     `----------'-'`--------'-----''------'----------'----------'------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [08(of)27]    _½__\\__\/__//__½_   Running Sigma Express.     |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: The Wrath   _½½ ____) _  (____ ½½_     Greetings Genghis Khan |
+|             Of Khan     ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+       ___    ___   _____      _ ___ _  ___     ____    ___    ___
+     _|   |_ |   | |  ___)    | Y   Y )|   |___(__  | _|   |_ |   |
+    (__   __)|   |_|   _)     | |   | \|       | _  |(__   __)|   |_
+     /     \ |   _ \  | \     |   _    \   |   | |  | /     \ |   _ \
+    /       \|   |  \ |  \    |   |     \  `---' |  |/       \|   |  \
+   /         \   |   \    \   |   |      \   |   |  |         \   |   \
+ _/           \_ |    \_   \_ |   |       \_ |      |          \_ |[©L]\_
+ `-------------'-^-----'----' `---^--------'-'------'-----------'-^-----'
+             _____   ____   ___ ____ ___      ____ ____
+            |     | / ___) |   Y   /|   |   _(__  |    \
+            |  _  |/  __)  |   | _/ |   |_ |   _  |  _  \
+            |  |  |    |   |      \ |   _ \|   |  |  |   \
+            |  |  |    |   |   _   \|   |  \   |  |  |    \
+            |  |  |    |   |   |    \   |   \  |  |  |     \
+            |     |    |   |   |     \_ |    \_   |  |      \_
+            `-----'----'   `---'------'-^-----'---'--^-------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [09(of)27]    _½__\\__\/__//__½_   Running F.A.M.E            |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Los Endos   _½½ ____) _  (____ ½½_             Greetings Exon |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+        ____   _____ _____        _____  ____       __ _____ _____
+       |    | |     |   __)      |  ___)|    \     |  |     |   __)
+       |   _|_|  _  |     \      |   _) |  _  \____|  |  _  |     \
+       |  |   \  |  |____  \     |  | \ |  |   \   _  |  |  |____  \
+       |  |    \ |  |   |   \    |  |  \|  |    \  |  |  |  |   |   \
+       |        \|  |   |    \   |      \  |     \ |  |  |  |   |    \
+       |         \_ |         \_ |       \_|      \_  |     |     [©L]\_
+       `----------'-'----------' `--------'^-------'--`-----'----------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [10(of)27]    _½__\\__\/__//__½_   Running ?                  |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Restricted  _½½ ____) _  (____ ½½_     Greetings Minor Threat |
+|             Area        ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+    ___   _____  _____    ___    ___   ___ ____   ___    _____      __
+   |   |_|_ ___)|   __) _|   |_ |   |_(___)  __)_|   |_ |  ___)    |  |
+   |       | _) |     \(__   __)|       | |  |\(__   __)|   _) ____|  |
+   |   |   || \ |____  \/     \ |   |   | |  | \/     \ |  | \|    _  |
+   |   `---'|  \|   |   \      \|   `---' |  |  \      \|  |  \    |  |
+   |     |      \   |    \      \     |   |      \      \      \   |  |
+   |     |       \_       \_     \_   |   |       \_     \_ [©L]\_    |
+   `-----'--------'--------'------'---'---'--------'------'------'----'
+                           ____ ___   _____   ____
+                         _(__  |   |_|_ ___)_(__  |
+                        |   _  |       | _)|   _  |
+                        |   |  |   |   || \|   |  |
+                        |   |  |   `---'|  \   |  |
+                        |   |  |     |      \  |  |
+                        |      |     |       \_   |
+                        `------`-----'--------'---'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [11(of)27]    _½__\\__\/__//__½_   Running Daydream/Linux.    |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: The Yard    _½½ ____) _  (____ ½½_  Greetings Zaner&Dipswitch |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+               ___   ___   _____      __ __    ____ ___        __
+             _|   |_|   | |  ___)    |  Y  ) _(__  |   |___   |  |
+            (__   __)   |_|   _)     |  |  \|   _  |       |__|  |
+             /     \|   _ \  | \     |      \   |  |   |   |  _  |
+            /       \   |  \ |  \    `---.   \  |  |   `---'  |  |
+           /         \  |   \    \   |   |    \ |  |     |    |  |
+         _/           \_|    \_   \_ |         \_  | [©L]|       |
+         `-------------'^-----'----' `----------'--'-----'-------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [12(of)27]    _½__\\__\/__//__½_   Running Sigma-express.     |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Cosmic      _½½ ____) _  (____ ½½_           Greetings Kernal |
+|             Trance      ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+                  ____  _____ _____  ___ _   ___ ____
+                 |  __)|     |   __)|   Y \ (___)  __)
+                 |  |\ |  _  |     \|   |  \|   |  |\
+                 |  | \|  |  |____  \  \_/  \   |  | \
+                 |  |  \  |  |   |   \  |    \  |  |  \
+                 |      \ |  |   |    \ |     \ |      \
+                 |       \_  |         \_      \_       \_
+                 `--------'--'----------'-------'--------'
+                    ___    ___     ____ ____  ____  _____
+                  _|   |_ |   |___(__  |    \|  __)|  ___)
+                 (__   __)|       | _  |  _  \  |\ |   _)
+                  /     \ |   |   | |  |  |   \ | \|  | \
+                 /       \|   `---' |  |  |    \|  \  |  \
+                /         \     |   |  |  |     \   \     \
+              _/           \_   |      |  |      \_  \_[©L]\_
+              `-------------'---'------'--^-------'---'-----'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [13(of)27]    _½__\\__\/__//__½_   Running Ami-Express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Kings Crown _½½ ____) _  (____ ½½_            Greetings Saint |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+ ___ ____ ___ ____  ____  _____       ____  ___   _____ _ ___ _  ____
+|   Y   /(___)    \|  __)|   __)     |  __)|   |_|_    | Y   Y )|    \
+|   | _/ |   |  _  \ (_ \|     \     |  |\ |       |_  | |   | \|  _  \
+|      \ |   |  |   \ |  \____  \    |  | \|   |   ||  |   _    \  |   \
+|   _   \|   |  |    \|   \  |   \   |  |  \   `---'|  |   |     \ |    \
+|   |    \   |  |     \    \ |    \  |      \    |  |  |   |      \|     \
+|   |     \_ |  |      \_   \_     \_|       \_  |     |   |       \_ [©L]\_
+`---'------'-'--^-------'----'------'`--------'--'-----'---^--------'------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [14(of)27]    _½__\\__\/__//__½_   Running ?                  |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Digital     _½½ ____) _  (____ ½½_            Greetings Steve |
+|             World       ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+                  __ ___ ____  ___    ___      ____ ____
+                 |  (___)  __)(___) _|   |_  _(__  |    |
+             ____|  |   | (_ \|   |(__   __)|   _  |   _|_
+            |    _  |   |  |  \   | /     \ |   |  |  |   \
+            |    |  |   |  |   \  |/       \|   |  |  |    \
+            |    |  |   |       \ |         \   |  |        \
+            |       |   |        \_          \_    |     [©L]\_
+            `-------'---'---------'-----------'----`----------'
+                   _ ___ _  _____ ___   ____         __
+                  | Y   Y )|     |   |_|_   |       |  |
+                  | |   | \|  _  |       | _|_  ____|  |
+                  |   _    \  |  |   |   ||   \|    _  |
+                  |   |     \ |  |   `---'|    \    |  |
+                  |   |      \|  |     |        \   |  |
+                  |   |       \_ |     |         \_    |
+                  `---^--------'-'-----'----------'----'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [15(of)27]    _½__\\__\/__//__½_   Running Ami-Express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Acid Slam   _½½ ____) _  (____ ½½_          Greetings Digiman |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+             ____ ____  ___      __  _____  ____     ____ ___ _
+           _(__  |  __)(___)    |  ||   __)|    |  _(__  |   Y \
+          |   _  |  |\ |   |____|  ||     \|   _|_|   _  |   |  \
+          |   |  |  | \|   |    _  ||____  \  |   \   |  |  \_/  \
+          |   |  |  |  \   |    |  ||   |   \ |    \  |  |   |    \
+          |   |  |      \  |    |  ||   |    \      \ |  |   |     \
+          |      |       \_|       ||         \_     \_  |   |  [©L]\_
+          `------'--------'--------'`----------'------'--'---'-------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [16(of)27]    _½__\\__\/__//__½_   Running Tempest.           |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Bustin Loose_½½ ____) _  (____ ½½_      Greetings Trivialinko |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+                 __   __ _  _____    ___    ___ ____
+                |  | |  Y \|   __) _|   |_ (___)    \
+                |  |_|  |  \     \(__   __)|   |  _  \
+                |  _ \  |   \___  \/     \ |   |  |   \
+                |  |  \ |    \ |   \      \|   |  |    \
+                |  |   \`     \|    \      \   |  |     \
+                |       \_     \_    \_     \_ |  |  [©L]\_
+                `--------'------'-----'------'-'--^-------'
+                    ____   _____ _____ _____  _____
+                   |    | |     |     |   __)|  ___)
+                   |   _|_|  _  |  _  |     \|   _)
+                   |  |   \  |  |  |  |____  \  | \
+                   |  |    \ |  |  |  |   |   \ |  \
+                   |        \|  |  |  |   |    \    \
+                   |         \_ |     |         \_   \_
+                   `----------'-'-----'----------'----'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [17(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Vultures    _½½ ____) _  (____ ½½_          Greetings Vulture |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+           _ __ __ _   ____     ___    __ _   ___   _____  _____
+          / Y  |  Y \ |    |  _|   |_ |  Y \ |   |_|_ ___)|   __)
+         /  |  |  |  \|   _|_(__   __)|  |  \|       | _) |     \
+        /   |  |  |   \  |   \/     \ |  |   \   |   || \ |____  \
+       /    |  |  |    \ |    \      \|  |    \  `---'|  \|   |   \
+      /     '  |  `     \      \      \  `     \   |      \   |    \
+    _/         |         \_     \_     \_       \_ |       \_   [©L]\_
+    `----------'----------'------'------'--------'-'--------'--------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [18(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Electric    _½½ ____) _  (____ ½½_             Greetings Flux |
+|             Warrior     ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+         ____    ____ ____     ____      __ ___   ____ ____
+        |  __) _(__  |    \  _(__  |    |  (___)_(__  |    \
+        |  |\ |   _  |  _  \|   _  |____|  |   |   _  |  _  \
+        |  | \|   |  |  |   \   |  |    _  |   |   |  |  |   \
+        |  |  \   |  |  |    \  |  |    |  |   |   |  |  |    \
+        |      \  |  |  |     \ |  |    |  |   |   |  |  |     \
+        |       \_   |  |      \_  |       |   |      |  |  [©L]\_
+        `--------'---'--^-------'--'-------'---'------'--^-------'
+                       ___ _   ___ _____    ___
+                      |   Y \ (___)   __) _|   |_
+                      |   |  \|   |     \(__   __)
+                      |  \_/  \   |____  \/     \
+                      |   |    \  |   |   \      \
+                      |   |     \ |   |    \      \
+                      |   |      \_         \_     \_
+                      `---'-------'----------'------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [19(of)27]    _½__\\__\/__//__½_   Running ?                  |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Winterland  _½½ ____) _  (____ ½½_       Greetings fisherking |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+   _ ___ _  ___ ____     ___    _____  ___   ____     ____ ____         __
+  | Y   Y )(___)    \  _|   |_ |  ___)|   |_|_   |  _(__  |    \       |  |
+  | |   | \|   |  _  \(__   __)|   _) |       | _|_|   _  |  _  \  ____|  |
+  |   _    \   |  |   \/     \ |  | \ |   |   ||   \   |  |  |   \|    _  |
+  |   |     \  |  |    \      \|  |  \|   `---'|    \  |  |  |    \    |  |
+  |   |      \ |  |     \      \      \     |        \ |  |  |     \   |  |
+  |   |       \_  |      \_     \_     \_   |         \_  |  |  [©L]\_    |
+  `---^--------'--^-------'------'------'---'----------'--'--^-------'----'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [20(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Checkpoint  _½½ ____) _  (____ ½½_       Greetings Thundercat |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+    ____  ___    _____  ____  ___ ____ ___________ ___ ____     ___
+   |  __)|   |  |  ___)|  __)|   Y   /|   __  |   (___)    \  _|   |_
+   |  |\ |   |_ |   _) |  |\ |   | _/ |  (__| |_  |   |  _  \(__   __)
+   |  | \|   _ \|  | \ |  | \|      \ |       ||  |   |  |   \/     \
+   |  |  \   |  \  |  \|  |  \   _   \|  `----'|  |   |  |    \      \
+   |      \  |   \     \      \  |    \    ||  |  |   |  |     \      \
+   |       \_|    \_    \_     \_|     \_  ||     |   |  |      \_ [©L]\_
+   `--------'^-----'-----'------''------'--'`-----'---'--^-------'------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [21(of)27]    _½__\\__\/__//__½_   Running Tempest.           |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Nightline   _½½ ____) _  (____ ½½_          Greetings 4player |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+        ____   ___ ____   ___     ___    ____    ___ ____   _____
+       |    \ (___)  __) |   |  _|   |_ |    |  (___)    \ |  ___)
+       |  _  \|   | (_ \ |   |_(__   __)|   _|_ |   |  _  \|   _)
+       |  |   \   |  |  \|   _ \/     \ |  |   \|   |  |   \  | \
+       |  |    \  |  |   \   |  \      \|  |    \   |  |    \ |  \
+       |  |     \ |       \  |   \      \        \  |  |     \    \
+       |  |      \_        \_|    \_     \_       \_|  |  [©L]\_   \_
+       `--^-------'---------'^-----'------'--------'---^-------'----'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [22(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Eternity    _½½ ____) _  (____ ½½_           Greetings Woober |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+          _____    ___    _____  ___   ____   ___    ___   __ __
+         |  ___) _|   |_ |  ___)|   |_|_   \ (___) _|   |_|  Y  )
+         |   _) (__   __)|   _) |       |_  \|   |(__   __)  |  \
+         |  | \  /     \ |  | \ |   |   ||   \   | /     \|      \
+         |  |  \/       \|  |  \|   `---'|    \  |/       `--|    \
+         |      \        \      \     |  |     \ |         \ |     \
+         |       \_       \_     \_   |  |      \_          \_  [©L]\_
+         `--------'--------'------'---'--^-------'-----------'-------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [23(of)27]    _½__\\__\/__//__½_   Running ?                  |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Techno House_½½ ____) _  (____ ½½_           Greetings Wizler |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+                   ___    _____  ____  ___     ____    _____
+                 _|   |_ |  ___)|  __)|   |   |    \  |     |
+                (__   __)|   _) |  |\ |   |_  |  _  \ |  _  |
+                 /     \ |  | \ |  | \|   _ \ |  |   \|  |  |
+                /       \|  |  \|  |  \   |  \|  |    \  |  |
+               /         \      \      \  |   \  |     \ |  |
+             _/           \_     \_     \_|    \_|  [©L]\_  |
+             `-------------'------'------'^-----'^-------'--'
+                    ___   _____ __ _   _____   _____
+                   |   | |     |  Y \ |   __) |  ___)
+                   |   |_|  _  |  |  \|     \ |   _)
+                   |   _ \  |  |  |   \____  \|  | \
+                   |   |  \ |  |  |    \  |   \  |  \
+                   |   |   \|  |  `     \ |    \     \
+                   |   |    \_ |         \_     \_    \_
+                   `---^-----'-'----------'------'-----'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [24(of)27]    _½__\\__\/__//__½_   Running Sigma-express.     |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Lost Legend _½½ ____) _  (____ ½½_             Greetings Junk |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+                      ____      ____ _____    ___
+                     |    |   _(__  |   __) _|   |_
+                     |   _|_ |   _  |     \(__   __)
+                     |  |   \|   |  |____  \/     \
+                     |  |    \   |  |   |   \      \
+                     |        \  |  |   |    \      \
+                     |         \_   |         \_ [©L]\_
+                     `----------'---'----------'------'
+                 ____   _____  ____  _____  ____         __
+                |    | |  ___)|  __)|  ___)|    \       |  |
+                |   _|_|   _) | (_ \|   _) |  _  \  ____|  |
+                |  |   \  | \ |  |  \  | \ |  |   \|    _  |
+                |  |    \ |  \|  |   \ |  \|  |    \    |  |
+                |        \    \       \    \  |     \   |  |
+                |         \_   \_      \_   \_|      \_    |
+                `----------'----'-------'----'^-------'----'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [25(of)27]    _½__\\__\/__//__½_   Running Sigma express.     |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Access      _½½ ____) _  (____ ½½_             Greetings Siro |
+|             Denied      ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+                 ____ ____  ____  _____  _____   _____
+               _(__  |  __)|  __)|  ___)|   __) |   __)
+              |   _  |  |\ |  |\ |   _) |     \ |     \
+              |   |  |  | \|  | \|  | \ |____  \|____  \
+              |   |  |  |  \  |  \  |  \|   |   \   |   \
+              |   |  |      \     \     \   |    \  |    \
+              |      |       \_    \_    \_       \_  [©L]\_
+              `------'--------'-----'-----'--------'-------'
+                     __ _____  ____    ___ _____       __
+                    |  |  ___)|    \  (___)  ___)     |  |
+                ____|  |   _) |  _  \ |   |   _)  ____|  |
+               |    _  |  | \ |  |   \|   |  | \ |    _  |
+               |    |  |  |  \|  |    \   |  |  \|    |  |
+               |    |  |      \  |     \  |      \    |  |
+               |       |       \_|      \_|       \_     |
+               `-------'--------'^-------'---------'-----'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [26(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Boondocks   _½½ ____) _  (____ ½½_          Greetings Sal-one |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+     __    _____ _____ ____          __ _____ ____  ___ ____ _____
+    |  |  |     |     |    \        |  |     |  __)|   Y   /|   __)
+    |  |_ |  _  |  _  |  _  \   ____|  |  _  |  |\ |   | _/ |     \
+    |  _ \|  |  |  |  |  |   \ |    _  |  |  |  | \|      \ |____  \
+    |  |  \  |  |  |  |  |    \|    |  |  |  |  |  \   _   \|   |   \
+    |  |   \ |  |  |  |  |     \    |  |  |  |      \  |    \   |    \
+    |       \_  |     |  |      \_     |     |       \_|     \_   [©L]\_
+    `--------'--'-----'--^-------'-----'-----'--------'^------'--------'
+
+
+.-] lUmiNatuS [-================-.'''```.-========-] tHe yeAr of dArkneSs [-.
+|                           ½_   |      |   _½                              |
+|    The first Chapter      ½½   |      |   ½½   Artist's Comments:         |
+|                            ½  _|__--__|_  ½                               |
+| ascii no. : [27(of)27]    _½__\\__\/__//__½_   Running Ami-express.       |
+| ascii type: BOARD LOGO   _%½½½ \ (__) / ½½½%_                             |
+| ascii says: Dial Hard   _½½ ____) _  (____ ½½_             Greetings Fury |
+|                         ½½¼/~¯  \  ' /  ¯~\¼½½                            |
+|__________________________ /      \__/ ©sTZ \ _____________________________|
+`--------------------------`------------------'-----------------------------'
+
+
+              __ ___   ____ ____         ___      ____ ___        __
+             |  (___)_(__  |    |       |   |   _(__  |   |___   |  |
+         ____|  |   |   _  |   _|_      |   |_ |   _  |       |__|  |
+        |    _  |   |   |  |  |   \     |   _ \|   |  |   |   |  _  |
+        |    |  |   |   |  |  |    \    |   |  \   |  |   `---'  |  |
+        |    |  |   |   |  |        \   |   |   \  |  |     |    |  |
+        |       |   |      |         \_ |   |    \_   | [©L]|       |
+        `-------'---'------'----------' `---^-----'---'-----'-------'
+
+
+
+
+                                        .....
+           ____     _______  _______  __|   :____   _______.____
+         _/   _|__.____   /./  __  /./  _   |____)_/  _    | __/_
+         \    \   |  _/  / |  ____/ |   \   |     \_  \____|__   \_
+       uMn\_______|__\_____|________|_______|______/____|_________/aC!
+ .-----                                                              ------.
+ :::.  Contents Logo: sTZ/sE  Index Logo:bY!/sE  Credits Logo: uMn/aC!  .:::
+ :::::.                                                               .:::::
+   ::.    File_ID.Diz: nup/dCS Respect Logo: ÷e÷  Info Logo: vtr/vDL   .::
+   ::|                                                                 |::
+   ::|     Message Logo: t/lp!  All other artwork by: Chill^Faction   |::
+   ::|                                                           ______|
+     |________ .......... _\_______¾¾¾¾¾¾¾¾¾. _____.  :::::::::::     |_
+___.___\_    /:   ......:   \     / ¾¾¾¾ ¾¾¾¾     _|__:·        :      /___
+   :   _/   /_:   ...::..____\    \ ¾¾¾¾¾¾¾¾·   _|    /   :::::::     |
+   |___\      /   `:    \    |\    \¾¾¾¾    \_________\    ::::::_____| :::
+    ... \    /:........./__________¾¾¾¾¾¾ ÷e÷         :.        :       :::
+    :::  \  /                        \                :::::::::::       :::
+          \/
+  zoltrix sal-one shadower pcp gunda mark-ryder exon ghandy candyman numen
+vulture ice-d carnifex_ lazzer ecs boone Mixer wade exie zinko axl datastream
+fungus etrigan highlander wraith radavi franky digiman apu^hlm fate muad 'dib
+the_welder taxi gdm son_doobie tryac talon steel wizkid amon  dansken epsilon
+lucas  d-vize ramonster evil_haka cruise snuskis storm mario whirlwind dentist
+vampire b_dcs rage doc_us [sonik] crusader GK^OTL Zaner Trivial Hellraiser &
+nes rebel^qtx pahn^trsi tulsadoom case & all the guys from channel #amielite
+...so many!
+
+......                     ::                                                 :
+     :                    ::::                                              :
+     .                    ....                                              :
+     :                    ::::................                              :
+     :. ..................::::           :::: .... I n f o r m a t i o n ...:
+          ::::            ::::         ..::::.
+ __.____. :: ______ ______ ______ ___  ___ : _____  .__     __.______ ____.
+.) |)   |___.) _  (_) ._ /.) ._ (_)  \/  /.__\_  (__| (__  .) |) ._ /.)   |__
+|    ._ |  (|  /___.  |/  | _|/ _/   \/   |)   _.  \_  _/__|     |/  | ._ | (.
+|    |/ :       _/ |  /   : \    |_ _/    |    \|      |  (|     /     |/ :  |
+|____/__________|  |_________\____/_\__________________________________/_____|
+- -- ------------------------------------::::--------------------:vtr^vDL- --
+                                       ..::::.....::::::         ::::
+Asc²ist ..Chill^fTN                    ::::       ::::::         ::::
+Machine ../\miga 12oo
+Program ..CygnusEd 4·2 Pro  Origlength ..o1o25 lines  Filename ..FTN-TYOD.TXT
+Support ..Caffeine,Hashish    Origsize .o6264o bytes  Released ....[31/10/99]
+         .
+         .        _______________________              .          ::
+         .       /|                      |             .          ::
+        .. . . ./ |                      | . . . . . . ...........::...
+         .    ./__|   H i s t o r Y      |             .              .
+         .    |                          | _ __        .              .
+         .    |            o f       ._____.  //_______._______________
+      .____.  |     ___.    ____    _|     |_ ______   _______ _____  //___ _
+      |    |____.__(___|__./ __(____\_     _/   _   \._\___   \\    \_____
+      |   _     |         |_____     |     |    /    |   _/  _/.\    \   /
+      |___/     |_____________(/     |_____|_________|___\     |        /
+   = ====/______|=============/______|============tF!/u'R!\____|_______/=== =
+         .    .                          .             .
+         .    |   c.H.I.L.L ^ f.T.N _____|_            .
+        .. . .| \                  (.---- _) . . . . . ..
+         .    | \\                   ¯¯¯¯|             .
+.-------------`----------------.---------'-----.-------------.--------------.
+|[No.#] Collection Title:      | Release Date: | Origsize:   |  Filename:   |
+`------------------------------.---------------.-------------.--------------'
+|[#oo1].Laughing.On.The.Inside.|...o1/12/1998..|.4oooo.bytes.:.FTN-LOTI.TXT.|
+|[#oo2].Big A Little A.........:...11/12/1998..|1o359o.bytes.|.FTN-BALA.TXT.|
+|[#oo3].The Word Of Power......:...21/01/1999..|.8o4oo.bytes.|.FTN-TWOP.TXT.|
+|[#oo4].Death Of A Farmer......:...24/02/1999..|.4755o.bytes.|.FTN-DOAF.TXT.|
+|[#oo5].Luminatus Chapter I....:...31/10/1999..|.6264o.bytes.|.FTN-TYOD.TXT.|
+`------------------------------'---------.-----'-------------:--------------'
+     :::::                               |Total:33518o bytes.|:::::::::::
+     :::::                               `-------------------'         ::
+--------------------------------------------------------------------- - ---\\:
+  __  ____  ___       ______   ______ _____  ___t^lp!___     ______          .
+./ _\/ . /.(  /_ _____\_  _/___\_  _// _  /./ _/____(  /_ ___\_  _/          :
+|  \   |  |   _/  \   _/  \    _/  \/  /   |  \_  /.   _/ \  _/  \ ·messages·|
+|___\__|__:________\  |\   \   |\   \__\___:___/___|______/  |\   \          |
+--------- - -----/__________\________\---------------- -/__________\------- -:
+                                                                             |
+ evil_haka: Well M you were true to your word
+            you'll hear from me soon.Brøøøøøl  zoltrix: modern technology now|
+            You lamuh packey m0nkey.           I bet it broke your heart to
+                                               delete all those files.When r |
+ REbEL^QtX: Good to have another uK BBS back  we gonna install myth^backup?!?|
+            on the scene.Just like old times
+            Your /X conference is the best!!  hraiser: Put that 16 year old  :
+                                              down and do summit.hahahahhah  :
+ Zaner: Great BBS man..I love your Linux conf Lets hopethe webpage goes on as:
+        and very nice design also.Love the ol it looks very promising........
+        ascii gazette as  well.You & the team                                :
+        do a  great job.Looking forward to my                                |
+        review... =p                          A big hi to all Faction membas |
+                                                                             |
+------------------------ ---------------------------------------------- ---\\:
+
+
+  World Premire of this collection   _ _                        _ _
+     ..... ....                     .)\\-[ spaced out bbs U.K ]-//(.
+          :......                   :                              :
+        ________:                   |                              |_____
+        \     _/   ________       __|_              _____     _____\__ _ |
+      ___\__  \ :__\_     / ______\_  \  ____    __(   _/___ /      _/// |
+     /   __/   \|   /    /./     __/   \/  _/____\_ _      // _     \    |
+    /    |\     \   \_____|      \|     \  \      /./_____/  _\__________:
+   /_____________\    \  /_______________\ /       |___________\   |
+                l______\   t^/lp!   : /____________|               |
+                                    |                 .____.       |
+     node.1 - united kingdom        |            _____|    |______ :
+     node.2 - united kingdom        |    _______/     /    _\    /_|
+     node.3 - telnet dynamic        |   /      ·\    /|   _\      /|
+     node.4 - telnet dynamic        |  /        \\________\/      \|
+                                    | /___________\       /________\
+        This collection was         |                              |
+                                    |                              :
+   First released On Faction WHQ    |_
+                                    |/·   Master Of Ceremonies    _:
+    Spaced Out - The Fine Line      |                            ·\|
+    . .  .  .  .  .  .  .  .  .     |      Z  O  L  T  R  I  X     |
+                                    |                              |
+   [==-=========-==========-===]    : _                        _ _ |
+                                    |///------------------------\\\:
+
+           F A C T i O N                      World Headquarters
+           L o W  P r O F i L E               World Headquarters
+           F A i R L i G H T          United Kingdom Headquarter
+           R O Y A L                  United Kingdom Headquarter
+           R A M  J A M               United Kingdom Headquarter
+           L i g h t f o r c e        United Kingdom Headquarter
+           L o o k e r   H o u s e    United Kingdom Headquarter
+           X!-T r e K                 United Kingdom Headquarter
+           O u t l a w s              United Kingdom Headquarter
+           DiGiTAL CoRRUPTiON         United Kingdom Headquarter
+           F A i T H                  United Kingdom Headquarter
+           Save Our Souls             United Kingdom Headquarter
+           Tristar & Red Sector Inc   United Kingdom Headquarter
+
+@BEGIN_FILE_ID.DIZ                     ___
+_ ___________  _____/  /_ ___________
+ \\\  ______ \/  ___   _  /  ______  \
+nup/  _/ _   /  /  /  /  /  /  /  /  /- ----
+  /  //__/  /\____/  /__/\____/__/  /Faction
+./__/   \  /     \  /           /___\-- ---.
+|        \/       \/                       |
+|          Chill^Faction presents          |
+|                                          |
+|Luminatus·Chapter One·The year of Darkness|
+`-[txt/doc]--------------------[31.10.99]--'
+@END_FILE_ID.DIZ
+
+- ------------------------------------------------------------------------- -
+  ×××××××××××××××××××× ·evil·to·he·who·evil·thinks· ×××××××××××××××××××××××
+- ------------------------------------------------------------------------- -
+   __________   ______________________  _____________________  _\_________
+   \    ____/___\________   \______   \/     _______  ___   /__ _\____    \
+   /\_______     /   ________/   _/    \    |      /  \____/   \_     |    \
+  /_____________/______/   \_____|      \_________/_____________/__________/
+         :                       :_______/-cRZ                      .
+         |                       :                                  |
+         !                                                          :
+         !             -(· sPACED oUT ·)-(· 1oo % aMiGA ·)-         !
+         |                                                          |
+         :                         ___________                      !
+         |             ____________\_____  __/____________          |
+         :            /   __    \__     /  \____   ______/          :
+         `-----------/     /    _/     /    _/       \_-------------·
+                     \__________\___________\_________/
+----------------------------------------------------------------------------:
+ wHEN iT cOMES tO sUPPORTiNG tHE aMiGA, tHIS iS a 100% oNLY AMiGA bOARD!    |
+----------------------------------------------------------------------------:
+            ___________    ____                                             |
+     ______/   \__//   \__/____\      tHE tIME       05:01:37               |
+   _/   \_/  :           //____\\     tHE dATE      10-31-1999              |
+  /|      :  :  ..      /        \    tHE nODE          01                  |
+ | |     ::     ::      \        /    tHE dEWD      chill                   |
+ | |     :|     ||     \ \______/                                           |
+ | |  _  ||     ||  __  |\  /  |      FiNE LiNE bBS aCCEPTS nO SHiT!        |
+  \|     ||     ||      |   / | \                                           |
+   | ___ || ___ || ____ |  / /_\ \    LEAVE tHE AMiNET oN dA fUCKiNG NET!   |
+   |  _  ||  _  ||  __  | /  /    \                                         |
+    \___/  \___/ |      |/__/      \  BACK oNLiNE oNCE aGAiN! cALL uS sOON! |
+                 _\____/    \      /                                        |
+ WE WANT YOU !  /____             /   100% pURE AMiGA fILEZ nOTHiNG eLSE !! |
+ FIND US !     /     \           /                                          |
+ CALL US !     \______\_________/     hOME tO gALAHAD^FLT aGa FiXES         |
+                                                                            |
+<<<<<<<<<<<<<<<<<<<<--------------------------------------------------------'
+
+
+
+ 
+           1921921978rehhdhadse
+                                     ·
+                                     :         
+                               __ _/\¦/\_ __    
+               __/\__ _ _  __ _/(_)  |  (_)\_ __  _ _ __/\__  iF U sOFT
+aMIGA          \    /   ( /_/\\_     |     _//\_\ )   \    /  gET lOST!
+ tERROR        /_  _\     \_\/_/   @ | @   \_\/_/     /_  _\
+  wORLDWIDE      \/           \__   _|_   __/           \/   sHARP aS a kNIFE
+          _ ___ _____/\_ ___/\__/\__).(__/\__/\___ _/\_____ ___ _
+          \\\__\\_____ (_) __ ___  (_¦_)  ___ __ (_) _____//__/// dAS fLEISCH
+fICKEN   _          \___  /  \/| _ _ _ _ _ |\/  \  ___/          _ GEWORDENE
+uND     /(___ _/\_____ / /_ _ _| | | | | | |_ _ _\ \ _____/\_ ___)\  bOESE
+tOETEN /    (_)  \_    \/    \\_ |_|_|_|_| _//    \/    _/  (_)    \ 
+      /          _/      _  _ _| | | | | | |_ _  _      \_          \
+      \                  ( (_)\_ | | | | | _/(_) )                  /  
+    /\ \   WE W¿LL NEVER      _/ ¯ ¯ ¯ ¯ ¯ \_       WE W¿LL NEVER  / /\
+    \/ /     SURRENDER  _ __/\\__ _\   /_ __//\__ _  COMPROMISE!   \ \/
+      /                 \\\__/  \/  \_/  \/  \__///                 \
+      \                  ¯  __/\           /\__  ¯                  /
+       \  __________________\__/           \__/__________________  /
+i HATe  \(                    __/\       /\__                    )/ 
+PC ANd I ¯                    \__/  ___  \__/                    ¯
+WONt STOp                       __/\\_//\__
+              ONL¿NE UNTIL BUST \__/ _ \__/ ONL¿NE B¿S ZUM KNAST
+                                  __/ \__
+                   ;)             \_____/   WE WOULD DiE FOR COMMODoRE
+
+                   ^ ^ ^ SPONSORED BY FRAUENKOERPER ^ ^ ^ 
+
+
+
+
+
+                                     :
+                         /___________ø_ (- THE YARD BBS -)
+     ._________________///   ________:                          ____
+  ___|_______ ____.    /  ___\_      |___   ___\      _____  __/_   \
+  \     _   //   _|__  __/_    \     |   \ /    \  __/_    \/   /    \
+   \___/    ø   /    \/   /    /     |_   /      \/   /   _/   /      \
+     _/     :  /_     \_ /____/¯\_____/  /       /   /_    \__________/
+     \______|    \_____/_________/ /____/        \_____\_____//
+         \_______|                     /____________\©nUP
+
+          tHE yARD tEAM: zANEr ÷ diPSWiTCH ÷ hAsH ÷ NINjA ÷ mOOL
+
+   ÷ AEROHOLiCS WHQ ÷ ARCADE WHQ ÷ AEROSOL WHQ ÷ DiSCiPLES OF AGEEMA WHQ ÷
+   ÷ THE ASCii CHARTS WHQ ÷ LiGHTFORCE GHQ ÷ BAD KARMA GHQ ÷ TEQUiLA GHQ ÷
+     ÷ SiCK OF iT ALL GHQ ÷ UP ROUGH GHQ ÷ LOW PROFiLE GHQ ÷ PHUNK GHQ ÷
+  ÷ SODiUM GHQ ÷ PUNGAS GHQ ÷ OMEN GHQ ÷ 1OO% GHQ ÷ VORTEX GHQ ÷ MVP GHQ ÷
+          ÷ DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS/BETA-SiTE ÷
+
+  ÷ 2 nODES wITH 33k6 - 2 nODES wITH iSDN - 4 nODES tELNET wITH sTATIC iP ÷
+ ÷ cONSOLES/aMIGA/gRAFFITI/aSCII/mP3/mOD/dRUGS/cLASSICgAMES/dAYdREAM/lINUX ÷
+

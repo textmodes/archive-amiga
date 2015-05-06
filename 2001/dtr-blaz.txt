@@ -1,0 +1,3504 @@
+-[BOF]------------------------------------------------[ 5th September 2OO1 ]-
+_____________________________________________________________________________
+                                                                             
+    w    w    .    t    h    u    g    l    i    f    e    .    o    r    g  
+             ,  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,                             
+       . __________;;;;_____________________;;;;____  t·H·U·G·L·I·F·E        
+    _ _|_)                                          \ _______________        
+    ___|      ___   _______  ______   ____        ___\\   ____  ____/_       
+_ __\ (|_ ____\ (___\__   /__\_  _(___\_ (._______\_(_\\__\ _(_ \   _/_____  
+\\\_   _//  _/  _    _/  /   _/  \_   _/  |    _/      _/ _    \   _\    _// 
+   /__ \    \___/    \___    \___     \___     \___    \  )_____\___     \   
+<====/____ __\=/___ __\=/__ __\=/___ __\=/___ __\=/__ __\___\    /=/___ __\==
+       | / \      / \     / \      / \      / \     / \   \\    /     / \    
+    _ _|___________________________________________________\\  /             
+_______|           ;;;;,,,,,,, ,,,   ,      ;;;;             \/ bne&&spf-----
+                                            ``````````` ``  `                
+    w    w    .    t    h    u    g    l    i    f    e    .    o    r    g  
+_____________________________________________________________________________
+            This file passed The Ascii Archive at THUGLIFE.ORG.              
+        Home to over 148 +/- ascii groups, and even more releases.           
+     Interviews & Reviews. Always the latest in Ascii News/Releases.         
+-[EOF]-----------------------------------------------------------------------
+
+  ...         _ _                                          _ _     ...
+ ::::          \\\ sTAGE 1 cOMPLEtED <> pAsSED tHRoUGH TY ///      ::::
+ :::_   .___.    \                                        /        _:::
+ :://-- |   |-----\  24h Static Telnet on 768/128k ADSL  /--------// ::
+ |. .___.  _:____ _  ___                                             _:
+ _ _|   |_ \_   // //  /____   __ _  Amiga/Ascii/Hand Helds/Console  \:
+ \\\_   _/__/  /___  _     /__||///  Mp3/Chiptunes/=C64/+More ____    |
+    |_  \_\        \ /____/   _      _____ _      _____     ./  _/    .
+ .   /_    \________\________\\    ._)  _ \\______\__  \____|   \_ _ _: _
+ :     \______\\t^/lp!        ____ |   _/     /     /   \  _|   _////__\\
+                             /   /___  \      \ __ \\  _/__\|   \     :/
+  thE hOttESt sCENE sPOt! _ /   / __//__\______\\_\ /_____/ \    \    :
+ :     _                  //_____\\:     \      /___|   \_________\  _.
+-.----\\-----------------------|   |----- .-----------||-------- ----/:
+ | tHE iDEA oF sTYLE iS tHE kEYl___|tO aLL fORMs oF rOCKiNG - tY 2005 |_
+-@----------------------------._____.---------------------------------@
+
+                                    .
+                                    .
+                                    |
+                                    |
+                                   ·.·
+                                    |
+                                    |
+                                  .   .
+                                    .
+                                    |
+                                    |
+                                    |
+                                 .     .
+                                .       .
+                                 .     .
+                                    ·
+                                    |
+                                    |
+                                    |
+                                .       .
+
+                              .           .
+
+                                .       .
+                                    .
+                                    |
+                                    |
+                                    |
+                                    |
+                                ·       ·
+                             .              .
+
+                           ·                  ·
+                          .                    .
+
+                           ·                  ·
+                             .              .
+
+                                ·   .   ·
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                              . ....|.... .
+                              ..:   |   :..
+                              ::    |    ::
+                              ::    |    ::
+                              ::    |    ::
+                              ::    |    ::
+                              ::    |    ::
+                              ::    :    ::
+                              ::    .    ::
+                              ::         ::
+                              ::    .    ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                             .::         ::.
+                 ............: .         . :............
+                 :                                     :
+                 :                               .     :
+       ..........:.........                      .     .
+       :         :        :___.cRb/e^d.. .  .  ..:... .  .
+       :          ________|__ |__________________:   ___________  _______ _  _
+.______._ _  _ .  \      _._/ ._  __    /  __    |___\___     _ \/ _
+|                  \     \|   |   _/   /__ \.____|    _./     \    /
+|              .    \     |   |   \         |/        \|       \  /_____ _  _
+|   ____.      .    :\________|____\_____________.______________\/
+|  _\   |__.   :  __|_____:_______.   _______\   |__.    _________________.
+|  .    ___|___|  \_._      __    |___\___  .    ___|_____  __    / __    |
+|  |    \      ___  |/      \.____|    _./  |    \     __ _ _/   /_ \.____|_ _
+|__|    |\       \  |        |/        \|   |    |\         \        |/
+   |________________|_______________________|________________\_____________ _
+       .         .        : ..... .... ... .. .   .    .
+       .         .        : :   : :  : : : :: :   :    .
+       :.........:........: :...: :..: :.: :: :   :    :     :     .
+                 :                                     :
+                 :  d r e a m  t e a t r e             :
+                 :                                     :
+                 :           s t r i k e s  a g a i n  :
+                 :                                     :
+                 :............ .         . ............:
+                             :..         ..:
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                        W  I  ::         ::  T  H
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                             .::         ::.
+                 ............: .         . :............
+                 :                                     :
+                 :              ¡ _______              :
+                 :             ¡|'    _  ¡             :
+                 :             |!      ¬ | drn\lp!     :
+                 :        _____!__     __!_____________
+                  ________\_     /     \     _.       /
+           _______\        /    //     \\    \!      /________
+ _ _ __ __(       _\      /    ·/_     _\·    \     /_        )__ __ _ _
+  \\\\_\\_     _  /_____      _._\     /_.__   )_____\   _     _//_////
+         /____ ¾ _ __,  `----' |.       .|  `----' ,__ _ ¾ ____\
+               ¾ ¾             |:       :| __.         ¾ ¾ _______.
+ _____.        ________.       |:       :|_) l___   _______\ __   l_______
+ \   _|________\      _|_______!_        !\  .__/___\  ._   \ /  ._      /
+_ )____.              /!\       _       _    !/        !/____(   !/     /_
+/____ /!    ____     / .      _.\       /.___/     ___  \   _____/     __\
+     /-----'    `-----/!-----' |         |   `----'   `----'     `----'
+                 ¾             |         |             ¾
+                _¾__________ _ | ._     ¡| _ __________¾_
+                 ¾             !_______,|!             ¾
+                 .                       !             .
+                 :                                     :
+                 :      d  i  p  s  w  i  t  c  h      :
+                 :                                     :
+                 :............ .         . ............:
+                             :..         ..:
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::    .    ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::    .    ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::    .    ::
+                              ::         ::
+                              ::         ::
+                              ::         ::
+                              ::    .    ::
+                              ::         ::
+                              ::         ::
+                              ::    .    ::
+                              ::         ::
+                              ::    .    ::
+                              ::    .    ::
+                             .::    :    ::.
+             .  . ...........: .    :    . :........ .  .   .
+         :                       .  :                              :
+         :                     ,_!___________                      :
+         :   ________,.  drn!    ;_         / - ------------------ : ----
+    _________\        |     _____ /_       // _.  _________ _ _ _________
+    \    _  /_\ _    _!_____\_   / /       /__\!__\ _  ._   \ /   ._    /
+    _\   /_    \(   \\:      _    //      /        \(  !/    \    !/   /_
+    /__   (  ___      _____  )  / /      _ /       ____/     _____/  ___\
+       `----'   `----'     `---//   :..  //.------'    `----'  ,_____\
+ << ---- : ------------ - ---- /___________!_,                     .
+         :                          .      ;                       :
+         :                          :                              :
+         ¯                                                         ;
+            b l a z i n g   d i   f i y a h
+                                    .
+                                    :  p o n   d i   h e a t h e n
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                  . :
+                                    :
+                                   .:  .
+                                    :
+                                    :.
+                                   .:
+                                    : .
+                                  .:::.
+                                 . ::: .
+                 -   -  - ------ . ::: . ------ -  -   -
+                                  ·:::·
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+            Walk wid your children yuh fi come to di fire camp
+                 Come inna di fire suit fi fire education
+            Mi teachin di fire woman and mi teachin di fire man
+               Give dem di fire foot, give dem di fire hand
+                 When baby a move weh mi give dem fi nyam
+                   And a mi give dem di fire meditation
+                    Go bun babylon!!!...bun Scotland!!!
+                     Bun Pentagon!!!...bun Vatican!!!
+                   Bun confusion!!!...bun disillusion!!!
+                  Bun temptation!!!...bun distraction!!!
+                   Bun pollution!!!...bun malfunction!!!
+                  Bun temptation!!!...bun disillusion!!!
+                Bun corruption!!!...The Queen Of England!!!
+                 Bun Scotland!!!...John Paul The Second!!!
+              Bun everyting weh wrong!!! and bun dem clan!!!
+                     Bun confusion!!!...bun tension!!!
+                And mi seh bun b#@$%man!!!...bun l%&*ian!!!
+            Then who agree wid mi unno push up unno hand, yo!!!
+                                    :
+                       ( Capleton - "Cooya Cooya" )
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+                                    :
+       .____.                       :
+ ______|    |_______.  ______     ______.     _______  ___  _______ ______.
+ \     /    |      _|_/_    /____/     _|____/       \    \/      /      _|___
+ /    /\    |    _|    /   /    /     |     /        \\     /    /     _|    /
+/___  /\____|__________\________\___________\_________/   \/_____\___________\
+    \/                                             _ ______\÷e÷
+
+    g      r      e      e      t       i       n       g       s       !
+
+
+    it's  been a long  time since  i  released  something.  i  was on irc
+    constaltly  (perhaps too much)  and  taking  requests and drawing and
+    stuff,  but  i  was just sometimes too lazy and sometimes too busy to
+    put a design together.  i  have  quite busy months behind me, finally
+    finished school  and starting my study  at the  university of cologne
+    in october.  till then  i  have  plenty time, so you can expecty much
+    releasing    activity    from    me   in    the    next   months...=)
+
+    what's  about  todays  ascii  scene ?   on  the  one hand, i see many
+    quality  collies  coming  up.  on  the  other  hand, there was a very
+    unpleasant story about  a  pc  ascii  lamer  ripping  mortimer twangs
+    ascii art in a very  nasty way. anyway, it's time for a new TAC again
+    and  as  soon  i'll finish this colly i'll start working on this one.
+    expect  the  whole  program !  reviews, articles, guest artist charts
+    and                   the              whole                 stuff...
+
+    now coming to  something  really  sad.  the scene had a very big loss
+    last month.  ramone, ascii artist in HOS and LP and musician in MONO,
+    passed away  of a sudden heart weakness.   he was a great asciian who
+    brought  me  to  astonishment  with his  stylish logos, a magnificent
+    musician whose  great jungle  and hiphop  tunes motivated me to track
+    myself and a very pleasant  companion  on irc. unfortunately, i never
+    managed to meet him  personally, although he lived just like 50k from
+    my hometown.  now  i  won't  get  a  chance.  may you REST IN PIECE !
+    i           will           always             remember           you.
+
+    now   something   concerning  dtr internal things. we decided to drop
+    gravedancer.  since he joined  dtr,  he  didnt  even  show up on irc.
+    gravedancer, if you read  this and are really willing to team up with
+    us again, you are welcome, but only if you are willing to comtribute.
+    same things goes to  spermwhale who joined up with us early this year
+    and still didnt show  up.  he's still remainig on our memberlist, but
+    spermwhale, if you  won't  show  up and contribute in the next month,
+    you'll part the faith of gravedancer.  anyway, i would really like to
+    see    you    both    contributing    some     quality     styles   !
+
+    now over to the logos...                                dipswitch/dtr
+
+
+                          _____
+ -  --------|-  NaS   ___| |___|                                -|--------  -
+          __|_______ |   `____________ _______           ________|___
+ ____    /         //_   |            _\   _ /__________ \          //____
+_\   \  /_           /   |            /____//         _//          /     /_
+/____\\//____________\   |             | _//          \/___________\  ____\
+      \/    |        |___|             | \_\  _________\         |  \/
+ __  _______|__ _   _    |_____________|    \/           _   _ __|_______  __
+|  ||       |                                                    |       ||  |
+|__||_______|____________________________________________________|_______||__|
+            |                                                    |
+            |                                                    |
+            | logo                                          for  |
+            | ----- -                                    - ----  |
+            . black maiden file_id                      bm crew  .
+              black market                                raver
+              bohema rec. infofile                         evan
+              bosporos                                 bosporos
+              cardiac arrest                                ...
+              daeron                                     daeron
+              dcs infofile                                shape
+              drastic.net                                pandur
+              drg fild_id                                  case
+              droid factory                                 d0n
+              druckkammer                            lord chaos
+              drunken infofile                     drunken crew
+              die saat der gewalt                        mother
+              eternal damnation                      ed siteops
+              europorn.org                                 nike
+              fading twilight                          mc laser
+              fdr file_id                               cleaner
+              flashlow                                    zaner
+              frozen                                      hakon
+              game freaks                                lowang
+              gate to zion                                 faxe
+              geniuz                                     geniuz
+              goro                                         goro
+              just for fun                              cleaner
+              mongo cool                                    ljb
+              mailscan                                    z-boy
+              nbcg file_id                                 cali
+              new age                                      pahn
+              open bsd                                   rezine
+              pdazone file_id                            galaxy
+              phantasy file_id                            raver
+              phantasy                                    raver
+              pogue                                       pogue
+              potiron                                 darkveggy
+              raketenbrot                             potzkoten
+              ride like lightning crash like...           skope
+              salva mea                                   d-fox
+              scenet                                     ghandy
+              slacker bitch                          spermwhale
+              spiral                                          ?
+              sup file_id                                fenriz
+              the daedalus encounter                tde siteops
+              the colly                                   pogue
+              the power                                       ?
+              thuglife.org                                pogue
+              the mind explosion                     lord chaos
+              under vinyl sky                            noches
+              venom file_id                          venom crew
+              welcome                                     z-boy
+              yardmp3 infofile                             kade
+              - --------------------------------------------- -
+
+
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: BM file_id
+              ½½______½   to: BM crew
+
+
+ ·    _                             _    .
+-:----\-( bLACKMAiDEN hi-Fi 2oo1! )-/----:-
+ |                                       |
+ | "under  a  cherry  tree"  by zippy/bm |
+ |  ____          _ _                    |
+ |_/_  //_____  __  /_    mp3/xxMB/D'N'B |
+_)   \_      /_\\_\/_/__                 |
+\     /     /     \/   (_     17.o5.2oo1 |
+/___ /______\     ||    /                |
+-|----diP-_ ______||____\---------(#001)-:-
+ ·                                       .
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Black Market
+              ½½______½   to: Raver/DCS
+
+
+
+                                         _._ _
+                                       _/ |
+                                       |  |
+                                       |  |
+      ____                 _____       |  |      ___
+    _\\_ /_____ ___  _ ___\\_   \_    _|__|____ /  (_
+   _)   \_    //  /_____    /    /__ __|__.   _/    /
+   \     /   // _//    /   _    /  _/     |   \     \_
+   /___ /____\  \     /____\____\  \      |____\_____/
+ - -diP---_ _____\____\-------_ ____\_____|--------- -
+                                       |  |
+                             b L A C K |  | m A R K E T
+                  __  __               |__|               __
+                _\\_\/_//_    _____ __\\_ /___      ___ _/ //_____. ____
+               _)   \/   (_ _\\_   \_  _/    /____ /  (_   _/     |/   //_
+               \    ||    /    /    /  \     \_  _/    /   \      |     _/
+               /____||____\   _    /____\_____/  \     \_ __\_____|     \
+               - -------_ ____\____\---|--|_ _____\_____/-dTR---_ _______\- -
+                                       |  |
+                                       |  |
+                                      -:--:-
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Bohema infofile
+              ½½______½   to: Evan/DCS
+
+
+
+
+                               . .. .
+                               ..::..
+                         ....  :    :  ....
+                    ...  :  :  :    :  :  :  ...
+                 .  : :  :  :  :    :  :  :  : :  .
+    _   _ _      :  : :  :  :  :    :  :  :  : : _ _
+          /___   :  _ _  :  :  .____. _ _ :  :  _\  __     _ _   _
+       _ /_  //____ \ ____ ____|    | _ /  _ __\\_\/_/__   \ ____
+      _)   \_     /_\\_   \_   |    |/ //_____.   \/   (_ _\\_   \_
+      \     /    /    /    /   _    |  _/     |   ||    /    /    /
+      /___ /_____\        /____\____|  \   _ _|___||____\   _    / diP/dTR
+    - --- / -- _ _________\ _  _  _ ____\_____| --- _ ______\____\ _-- -
+                           \/  .    .                             \/
+                               :    :
+               b 0  h E   M  a :    : r  E c  O   R D  s
+       .:.. .  .   .    .      :....:
+        :                      . :: .
+       .:..:.
+        ·  :          m u s i c   l a b e l   d e d i c a t e d   t o
+.:.........:.         a l l   m i n i m a l ,  d r u m   n  ` b a s s
+ :         :          j u n g l e  ,  b r e a k b e a t , t r a n c e
+ :         :          g o a   &   p s y c h e d e l i c   t e c h n o
+ :         :          a c i d  ,  d o w n t e m p o  ,  t r i p h o p
+ :   .:... :....:.    h o u s e  ,  n u   d i s k o   l o v e r s . .
+.:.........:.   :     m a i n l y    b a s e d     o n    p o l i s h
+ ·    .    ·    :     a m i g a s c e n e   m u s i c i a n s   b u t
+      :         :     n o t  o n l y   o f   c o u r s e  . . . . . .
+.:... : ...:.   :
+ :   .:.........:. .  . ......:.
+ :    ·    .    ·             :  re l  e  a  s   e    i  n   s h o rt
+ :         :                 .:......... .  .   .
+ :   .:... :....:.            ·
+.:.........:.   :
+ ·    .    ·    :     t  i  t  l  e ------------- nocturnal voyage ep
+      :         :     a r  t i  s t ----------------------- DIPSWITCH
+.:... : ...:.   :     size / format ---------------------- 2500kb /xm
+ :   .:.........:.    d u ra ti o n --------------------------- xx'xx
+ :    ·    .    ·     release  date ------------ xx - december - 2000
+ :         :          n u  m b  e r ----------------------------- 10x
+ :   .:... :....:.    s  t  y  l  e --------------------- 808'dnb'hop
+.:.........:.   :
+ ·    .    ·    :
+      :         :     blahbhalhhabblahhbabalhalhaabalahahabalahahabab
+.:... : ...:.   :     this is the space for release blahblah ........
+ :   .:.........:.    ...............................................
+ :    ·    .    ·     ...............................................
+ :         :          ...............................................
+ :   .:... :....:.    ...............................................
+.:.........:.   :     ...............................................
+ ·    .    ·    :     ...............................................
+      :         :     ...............................................
+.:... : ...:.   :     ...............................................
+ :   .:.........:.    ...............................................
+ :    ·    .    ·     .........i think 12 lines are enough ?.........
+ :         :
+ :         :                                      .:...............:.........:
+.:.........:...............:.                      :               :         :
+ ·         ·              .:......... .  . ........:.         .    :         :
+                           ·                       ·               :         :
+    _ _  _            _ _     m  e  m b  e   r  s            .:....: ...:.   :
+   _\  __           __  /_             __              __     :   .:.........:.
+_ _\_\/_//_  __  _ _\_\/_//_   ___   _/ //___.  ____  / //___ : _  ·    .    ·
+     \/   (_/ //___.  \/   (_ /_ //____ _/   |_\\_ /__\__     : /       :
+     ||    /  _/   |  ||    /   \_    / \    |  _/   /  /     :   .:... : ...:.
+_ ___||____\  \    |__||____\    /   /___\___|  \    \_ ____ .:.........:.   :
+- ----- _ _____\___| --- _ ____ /____\ --- _ ____\____/ -diP- · -  .    ·    :
+                                                                   :         :
+                                                             .:....: ...:.   :
+DIPSWITCH -- dipswitch@kaoz.org ------------------- musique   :   .:.........:.
+EFFRON ----- afro@amiga.scene.hu ------------------ musique   :    ·    .    ·
+PROTAS ----- protas@irc.pl ------------------------ musique   :         :
+OTTON ------ no@e-mail.now ------------------------ musique   :   .:... : ...:.
+SPEKTRA ---- no@e-mail.now ------------------------ musique  .:.........:.   :
+TEO -------- teo@scene.hu ------------------------- musique   ·    .    ·    :
+TZX -------- tzx@go2.pl --------------------------- musique        :         :
+XBALL ------ llabx@kki.net.pl --------------------- musique  .:....: ...:.   :
+                                                              :   .:.........:.
+AZZARO ----- azzaro@kermit.softbook.com.pl - staff, artwork   :    ·    .    ·
+EVAN ------- evan@dc-s.com ------ staff chief, supa spreada   :         :
+PESTi ------ pesti@marijuana.ms ------------ staff, homeboy   :   .:... : ...:.
+                                                             .:.........:.   :
+                                                              ·    .    ·    :
+                                                                   :         :
+.:.........:...............:.                                      :         :
+ :         :               :                      .:...............:.........:.
+ :         :    .         .:........ .  . .........:.              ·         ·
+ :         :               ·                       ·
+ :   .:... :....:. ___       s i  t  e  s   _____               ___
+.:.........:.   : /  //__________   _   _ _/    //_  __        /  //__________
+ ·    .    ·    : \___          /__\\/__         _/// //______.\___          /
+      :         :    /         /       (_        \    _/      |   /         /
+.:... : ...:. _ :_ ____________\        /_________\   \       |_ ___________\
+ :   .:.........:. - ------- _ _________\ ---- _ ______\______| --------diP- -
+ :    ·    .    ·
+ :         :
+ :   .:... :....:.         the most  convenient  way  of  gettin' our releases
+.:.........:.   :                                       is subscription to our
+ ·    .    ·    :               mailing list.  there are two kinds, choose one
+      :         :                                     that will suit you best:
+.:... : ...:.   :
+ :   .:.........:.
+ :    ·    .    ·                     BINARIES LIST ----- send blank e-mail to
+ :         :                                bohema-files-subscribe@egroups.com
+ :   .:... :....:.                and you'll get new releases (up to 1,0mb) as
+.:.........:.   :                                      e-mail attachment (zip)
+ ·    .    ·    :
+      :         :
+.:... : ...:.   :                        ANNOUNCE LIST -- send blank e-mail to
+ :   .:.........:.                       bohema-announce-subscribe@egroups.com
+ :    ·    .    ·                                and you'll get text file with
+ :         :                                          release description only
+ :   .:... :....:.
+.:.........:.   :
+ ·    .    ·    :               you can also easily subscribe by fillin' small
+      :         :                                         form on our webpage:
+.:... : ...:.   :                              HTTP://WWW.BOHEMA.SILESIANET.PL
+ :   .:.........:.
+ :    ·    .    ·
+ :         :              or get bOhema releases from the following ftp sites:
+ :   .:... :....:.
+.:.........:.   :
+ ·    .    ·    :                 ftp://ftp.scene.org/pub/music/groups/bohema/
+      :         :         ftp://acid2.lion-access.net/pub/music/groups/bohema/
+.:... : ...:.   :           ftp://ftp.dti.ad.jp/pub/scene/music/groups/bohema/
+ :   .:.........:.   ftp://ftp.labyrinth.net.au/pub/scene/music/groups/bohema/
+ :    ·    .    ·
+ :         :
+ :         :                                      .:...............:.........:
+.:.........:...............:.                      :               :         :
+ ·         ·              .:......... .  . ........:.         .    :         :
+            c o  nt a c  t ·                       ·               :         :
+                    _____            _____            _____  .:....: ...:.   :
+_ _ ____.  _____ __\\_   \_ ____  __\\_   \_     _ __/    //_ :   .:.........:.
+  _/    |_\\_   \_   /    //   //_    /    /__ ____.       _//:/   ·    .    ·
+  \     |   /    /  /     \     _/   _    /  _/    |       \  :         :
+_ _\____|       /___\______\    \ ___\____\  \     |________\ :   .:... : ...:.
+- -- _ _________\ ---- _ ________\ ---- _ ____\____| -diP- - .:.........:.   :
+                                                              ·    .    ·    :
+                                                                   :         :
+                                                             .:....: ...:.   :
+ all feedback, suggestions, fucks, guest releases             :   .:.........:.
+ or joining offers should be dropped here:                    :    ·    .    ·
+                                                              :         :
+ bohema@poczta.fm                                             :   .:... : ...:.
+                                                             .:.........:.   :
+                                                              ·    .    ·    :
+ or using snailmail:                                               :         :
+                                                             .:....: ...:.   :
+ evan'bOhema                                                  :   .:.........:.
+ box 23                                                       :    ·    .    ·
+ pl-37450 stalowa wola 7                                      :         :
+ poland                                                       :   .:... : ...:.
+                                                             .:.........:.   :
+                                                              ·    .    ·    :
+                                                                   :         :
+.:.........:...............:.                                      :         :
+ :         :               :                      .:...............:.........:.
+ :         :    .         .:........ .  . .........:.              ·         ·
+ :         :               ·                       ·
+ :   .:... :....:.           r e  l   e  a  s  e s
+.:.........:.   : ____            __             ____          __
+ ·    .    ·   _:\\_ /__ __      / /____ __  _ _\\_  \_ __   _/ //___. __
+      :       _): _/   // //___./_//   // //___.  /   // //____ _/   |/ //____
+.:... : ...:. \ : \    \_ _/   | \    /   _/   | _   / \__    / \    |\__    /
+ :   .:.........:__\____/ \    |__\___\   \    |_\___\   /   /___\___|  /   /
+ :    ·    . - -·diP- _ ___\___| --- _ ____\___| -- _ _______\ --- _ _______\
+ :         :
+ ·         .
+ .
+
+  NO. TiTLE ------------------- ARTiST -------- GENRE --------  DUR. - FORMAT
+
+  space for releases....
+
+                     G      U    E      S      T         S
+
+
+    - hash [poland] - silvija [poland] - teo [hungary] - goaman [poland] -
+      - dziadek palwrotki [poland] - teis [germany] - effron [hungary] -
+     - lcr [poland] - timer  [poland] - dave [poland] - revisq [poland] -
+        - noisy abdul [poland] - substance [finland] - zayka [poland] -
+ - xhale [finland] - grogon [poland] - genetix [england] - superfml [poland] -
+    - noches [poland] - towerx [hungary] - hash [poland] - nick [poland] -
+ .
+
+ :         ·
+ .         :
+ :         .                                      .:...............:.........:.
+.:.........:...............:.                      :               :         :
+ ·         ·              .:......... .  . ........:.         .    :         :
+          g  r ee t  s     ·                       ·               :         :
+     ___                __                  _____            .:....: ...:.   :
+   _/ _//_____  ____  _/ //_____. __    _ _/    //_ ___       :   .:.........:.
+  _)  \_     /_\\_ /___  _/     |/ //_____.      _//  //_____ : _  ·    .    ·
+  \    /    /   _/    /  \      |  _/     |      \ \___       : /       :
+  /_________\   \     \_ _\_____|  \      |_______\   /       :   .:... : ...:.
+- -diP-- _ ______\_____/ -- _ ______\_____| ---- _ _________ .:.........:.   :
+                                                              · -  .    ·    :
+                                                                   :         :
+                                                             .:....: ...:.   :
+           monar -- most valuable playaz -- fridge            :   .:.........:.
+      tokyo dawn records -- supraphone -- deus records        :    ·    .    ·
+             pic saint loup -- theralite - attic              :         :
+        voodoo -- black sista -- mono211 -- monotonik         :   .:... : ...:.
+   rno - fukk my face -- milk -- phase'd -- five musicians   .:.........:.   :
+         da jormas - bmp-rohformat -- sunlikamelo-d           ·    .    ·    :
+             rebound -- level-d -- total eclipse                   :    ·    :
+     disciples of ageema -- miasmah -- mute -- up'rough            :    :    :
+                                                                  .:.........:.
+                                                                   ·    .    ·
+                                                                        :
+                                                                        :
+                                                     . .. .             :
+   .  . ....................................... .    ..::..           ..:
+                                              :..    :    :...........: .
+  design & logos (c) dipswitch/dcs^dtr^bohema   :    :
+                                                :....: (c) bohema rec. 2001
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Bosporos
+              ½½______½   to: Bosporos
+
+
+
+                   ___.                              ,___
+                 _/   |                              |   \_
+                 |    |    b  O  S  P  O  R  O  S    |    |
+             diP |    |                              |    | dTR
+    ____         |    | ___                  _____   |    |    _____
+ _ /_  //____   _____  /  //____    ______ _\\_   \_  ____ ___\\_   \_ ___
+_)   \_     /__\\_   \_\__     /_ _/     /    /    /_\\_ /___   /    //  //____
+\     /    /     /    /  /    /   \     /         /   _/    /       / \__     /
+/_____\____\         /________\    \___/ _________\   \     \_ _____\   /    /
+<--------_ _________ \----_ ________ \---------_ ______\_____/----_ _________\-
+                 .    .                              .    .
+                 |    |                              |    |
+                 |_   |  tHE mOST eL337E gAMEL/\MER! |   _|
+                   \__|                              |__/
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Cardiac Arrest
+              ½½______½   to: anonymous
+
+
+
+                           .                            .
+                           .  _ __ ___   _    ___ __ _  .
+                        - -:-///_//__/---\/---\__\\_\\\-:- -
+                           |                            |
+                           |     tHiS fiLE pASSED...    |
+                           |    _ _               _ _   |
+             _      _ _    |  ___ /  _   _ _        /   | _ _         _
+        ____ /___.  \ ____ |_\\_ /__ /   \ ____ _\\/__  | \ ____ ____ /___.
+       _)  _/    | _\\_   \_  _/    /____\\  _/_     (_ |_\\_   \_  _/    |
+       \   \     |/   /    /  \     \_     _/  (_     /_    /    /  \     |
+  _ _  /____\____|   _    /____\_____/     \    /_____\/   _    /____\____|
+     \/   _   _ _____\____\ _       \  _____\ __\   _ _____\____\ _
+                           \/        \/      \          .        \/
+                           .                            |
+                           |       cARDiAC aRREST       |
+              _ _          |       _ _            _ _   |
+              \ ____   _ _ |     ___ /   _ _      _ /   |      _ _
+           ___\\_   \_ \ __| _ _\\_ /___ _ /     / //___|___ ___ /
+          _)    /    /_\\_ /___  _/    // //_____\____     //   //_
+          \    _    /   _/    /  \     \_ _/     | _ /_   /      _// /
+     _ _  /____\____\   \     \_ _\_____/ \      |_\/_____\      \
+        \/     _  _ _____\_____/    _ _____\_____|     _._________\  _ _
+                           .                            |          \/
+                           |                            |
+                           |                            |
+                           |                            |
+                           |                            |
+                        diP|                            |dTR
+                        - -:----------------------------:- -
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Daeron
+              ½½______½   to: Daeron/LP!
+
+
+
+                  _.___._
+               \ \\| _ |/
+                   | X |
+           _ _     | X |dTR                       _ _
+           \ ____  | _ _      __           _ _    \ _____   _ _
+      _ ___\\  _/_ | \ _____ / //_____.  ___ /_ __\\_    \_ \ _____
+      \      _/  (_·_\\_    \_ _/     |_\\_ /___    /     /_\\_    \_
+     _ \     \    /    /     / \      |  _/    /         /    /     / _
+  _ _\//______\ __\   _     /___\_____|  \     \_  ______\ _ /      \ \/ __ _
+<--- \/ ----- _ ______\_____\  _ _ _ _____\_____// --- _ _\/_\_______\  / ---->
+                   . _ .     \/                                       \/
+                diP| X |
+                   | X |
+                  _| X |_
+                  \|___|// /
+                   ·   ·
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: DCS infofile
+              ½½______½   to: Shape/DCS
+
+
+
+                          .
+                                                  ·
+                       . .: ..................... :. .
+                          ..: .. .         . .. :..
+                          : ..:               :.. :
+                          : :                   : :
+       _____              ____                  : :          __
+  ____\\  _/_   _______ _\\_  \_ ___       ___ ___.  ____ __/ //___. ______
+  \     _/  (_ _\_    //   /   //  /_____ _) _/   |_\\_ /__   _/   |_\__  /
+   \    \    //  /   /    _   // _//    / \  \    |  _/   /   \    |   /  \
+   /_____\ __\      /_____\___\  \     /  /___\___|  \    \_ __\___|  /\   \
+<-diP----- _ _______\ ----- _ _________\ ----- _ _____\____/ --- _ ___/\___/ ->
+                          : .                   . .
+                          : :     /\  N  D      : :
+          ___             :  _                 _  :          ___
+         /  //_____  .____. _\/_    _____    _\/_ :  _____ _/ _/______
+         \___     /__|    |/   (_ _\\_   \_ /   (_ _\\_   \_  \_     /
+           _/    /   |    |     /    /    //     /    /    /   /    /
+           \_____\   _    |_____\   /     \ _____\   /     \ _______\
+      <------ _ _____\____| - _ ____\______\ -- _ ___\______\ -------dTR->
+                          . .                   . .
+                          : :                   : :
+                          : .                   . :
+                          :                       :
+                          : .                   . :
+                          :                       :
+                          :                       :
+                          :   r E L E /\ S E D!   :
+                          :                       :
+                          : .                   . :
+                          :                       :
+                          : .                   . :
+                          : .                   . :
+                          : :                   : :
+                          : :                   : :
+    _____              ________           _____ : :              ___
+  _/    //_   _____ ___\_     / ____  _ _\\_  /______  ________ /  //______
+  \      _/__\\_   \_   /    /_\\_ /___     \_      /__\_     / \___      /
+   \     \     /    /  /    /   _/    /      /     /    /    /     /     /
+    \_____\        /________\   \     \_ ___/______\   /    /____________\
+ - ---- _ _________\ --- _ ______\_____/ -------- _ ________\ -----diP/dTR- -
+                          . .                   . .
+                          : :                   : :
+                          : :                   : :
+                          : .                   . :
+                          :                       :
+                          : .   t O U R B U S   . :
+                          :                       :
+                          :           -           :
+                          :                       :
+                          :      a 40k |ntr0      :
+                          :                       :
+                          :  1st place at tRSAC!  :
+                          :                       :
+                          :                       :
+                          :                       :
+                        ..:                       :..
+                  ......: . .                   . . :......
+                  :       .                       .       :
+                  :                                       :
+                  :   sh/\pe.......................c0de   :
+                  :                                  _    :
+                  :   b0nz/\|...................objec|s   :
+                  :                                       :
+                  :   muffl3r.....................mus|c   :
+                  :                                       :
+                  :   r  e  q  i  e  r  e  s    f  p  u   :
+                  :                                       :
+                  :   n o f p u    f i x    c o m i n g   :
+                  :                                       :
+                  :...... .                       . ......:
+                        :..                       ..:
+                          : .                   . :
+                          :                       :
+                          : .                   . :
+                          : .                   . :
+                          : :                   : :
+                          : :                   : :
+                          : :                   : :
+                          : :                   : :
+                          : :                   : :
+                          : :                   : :
+                          : : dUALcR3W-sH|N|NG! : :
+                          : : - ------------- - : :
+                          : : |f y0u  fuck w|th : :
+                          : : th3  b3st, b3tt3r : :
+                          : :  g3t a hiv t3st!  : :
+                  -  - -- : : ----------------- : : -- -  -
+                          : :                   : :
+                          : :..               ..: :
+                          :   :...............:   :
+                          :..                   ..:
+                      . ... :......... .........: ... .
+                          :          : :          :
+                          .          :.:          .
+                                      :
+                          ·           .           ·
+                          .                       .
+                          .           .           .
+                          :                       :
+              -   -  - logos & design by Dipswitch/DCS -  -   -
+                          :                       :
+                          :.. .  .         .  . ..:
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Drastic.net
+              ½½______½   to: Pandur/BM
+
+
+
+                               _  _._ _              _ _._  _
+                                   |///--------------\\\|
+                                   |                    |
+                                   |   www.drastic.net  |
+         _____                _____|              ____  |
+   _____\\  _/_    ____ _ ___\\_   \_ __         /   //_| __  _____ _____.
+   \      _/  (_ _\\_ /___     /    // //______ /     _/|(_//_    _/     |
+    \     \    /   _/    /    _    / \__      //      \      (_   \      |
+    /______\ __\   \     \_ __\____\   /     /_________\      /____\_____|
+- -----------_ _____\_____/------_ __________\-------_ _______\----------- -
+                   _____           |  ____              |
+                __\\_   \_ __   diP| /   //_            |
+               _)   /    // //_____|/     _/            |
+               \   /     \  _/     |      \             |
+               /___\______\ \      |_______\            |
+           - ----------_ ____\_____|-------- -          |
+                                   |                    |dTR
+                                _ _|_ _              _ _|_ _
+                                   :///--------------\\\:
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: DRG file_id
+              ½½______½   to: Case/FTH
+
+
+
+        _____     ____         ___
+_______\\  _/_ __\\_ /_______ / _//_________
+\        _/  (_   _/        /   \_         /
+ \       \    /   \         \_   /        /
+ /________\ __\ ___\_________/____________\
+<-diP----------------------------------dTR->
+            · dERANGERS pRESENT ·
+ blahblahblhah cracked xx.xx bebfibeafibeif
+<-(xx.xx.2001)----------------------------->
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Droid Factory
+              ½½______½   to: D0n/1oo%
+
+
+
+                _____                _____             _____
+          _____\\  _/_    ____ _____\\_   \_  _  _____\\  _/_
+          \      _/  (_ _\\_ /___     /    /__\/_\      _/  (_
+           \     \    /   _/    /         /      (_     \    /
+           /______\ _/    \     \_ _______\       /______\ __\
+         <-diP-----_ ______\_____/-----_ _________\------------>
+           ______                             _____              ________
+       _ _/     /  _____ ___ ____. _____  ___\\_   \_  ____ _ __\\_     /
+      _) \    _/__\\_   \_ _/    |/    //_     /    /_\\_ /___    /    /
+      \   \___\     /    / \     |      _/         /   _/    /   /    /
+      /______\     _    /___\____|      \ _________\   \     \_    __/
+    <------_ ______\____\------_ ________\-------_ _____\_____/-\__\-dTR-
+
+
+
+
+                                       .
+
+                                       .
+                                       .
+                                       :
+                                       :
+                                       :
+                                      .:.
+                                      :::
+                                     .:::.
+                                   ·  :::  ·
+                                :::::::::::::::
+                                   .  :::  .
+                                     ·:::.
+                                      :::
+                                      :::
+                                      :::
+                                      :::
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+      ah jah city jah jah town dem waan fi turn it inna cow bwoy town now
+             And I say I and I fi promote to the heighest of level
+                               (You better know)
+So we does burn this evil concept cause we ah seh that is a distruction to the
+                             umanity so we ah seh
+                               (You better know)
+                            Wunna watch out now now
+                                      Oy
+                                Check this jah
+     Jah jah city jah jah town dem waan fi turn it inna cow bwoy town now
+                            Well unno look here now
+     Jah jah city jah jah town dem waan fi turn it inna dead man town now
+                            Well unno look here now
+                     Mr. John crow draw coffin John Brown
+                      we nuh want no more dead in a town
+                    Mr. happy go so lucky trigger happy yow
+                         We no want no more dead body
+                            Well Mr. Joe kill quick
+                            We no want no more hit
+              We no want no more grave we no want no more casket
+                  Well life we promote which is righteousness
+                               Sodom get a lick
+                              Unno look here now
+     Jah jah city jah jah town dem waan fi turn it inna cow bwoy town now
+                              Unno look here now
+         Bloody city, bloody town waan turn it into rude bwoy town now
+                              Unno look here now
+                          Dem a tell me how dem cold
+                 Big forty-five fi shoot out dem brother mold
+                  Nuffa ah seh dem cold like up a north pole
+                 So dem shoot down de young, shoot down de old
+                 Shoot down de puss and all de dog and de foul
+                     Every weekend dem tek a next payroll
+                   Out of man pocket dem shoot out billfold
+                   Dis Marcus Garvey nuff head a fi go roll
+                                 Look here now
+     Jah jah city jah jah town dem waan fi turn it inna cow bwoy town now
+                              Unno look here now
+     Jah jah city jah jah town dem waan fi turn it inna dead man town now
+                     Dem ah think dem reach de ultimate yo
+                       But dem nah reach no where yet oy
+                         Dem get caught in a internet
+                     And society a tell me dem a intellect
+                           Dem promote to much death
+                              Unno look here now
+        Jah jah city jah jah town dem ah turn it inna bad man town now
+                              Unno look here now
+     Jah jah city jah jah town dem waan fi turn it inna cow bwoy town now
+                               Marcus Garvey seh
+                          Ten miles outta de city oy
+                             It a go get too shity
+                    Warn Mr. John and we go warn Mrs. Mitty
+                Warn all de shotta and me go warn all the hitty
+                     Nuff ah seh dem kill man without pity
+                Wrong kind of sip me all ah ketch dem ah sippy
+                        True dem licky licky dem sicky
+                      Ratafari judgement will slew all yo
+        Jah jah city jah jah town dem ah turn it inna cow bwoy town now
+                              Unno look here now
+          bloody city, bloody town turn it into rude bwoy town now eh
+                       Seh me go trod down inna de east
+                           Tell dem fi hold de peace
+             We no waan no more coffin we don't waan no more reef
+             Well life we ah promote fi mek de ghetto youth see't
+                                       :
+                         ( Capleton - "Jah Jah City" )
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                      .:.
+                                      :::
+                                     .:::.
+                                   ·  :::  ·
+                                :::::::::::::::
+                                   .  :::  .
+                                     ·:::.
+                                      :::
+                                      :::
+                                      :::
+                                      :::
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       .
+
+                                       .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Druckkammer
+              ½½______½   to: Lord Chaos/DTR
+
+
+
+                     _._ _
+                      |//_)-- -  -
+                      |         .
+             dRUCK... |         |
+              _____   |         |  _______             _____
+        _____\\  _/_  | ____ _ _|_\\_    /  _ _______ /    /
+        \      _/  (_ |\\_ /___     /   /__ _____.  _/    /
+         \     \    /   _/    /    /   /  _/     |  \     \_
+         /______\ __\   \     \_ ______\  \      |___\_____/
+                  _ _____\_____/|   _ _____\_____|
+                      |         |
+          _____    diP|  __     |    _ __   __
+     ___ /    /  _____|__\_\  __|   __  /_ / //_____.  ____
+    _) _/    /__\\_   \_   \\/__/_ _\_\/_/_  _/     |_\\_ /___
+    \  \     \_   /    /    \/   /    \/  (_ \      |  _/    /
+    /___\_____/  _    /_____||___\    ||   /__\_____|  \     \_
+           _ ____\____\        _|_____||___\      _ ____\_____/
+                      |         |
+                      |         | ...kAMMER!
+                             __ |
+                     -  - --(_//|_
+                                :
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Drunken infofile
+              ½½______½   to: Drunken Crew
+
+
+
+                                      .
+                              .               .
+                                      .
+                          .  .: ..... . ..... :.  .
+                              ..:   : . :   :..
+                              : ....: : :.... :
+                              : :     :     : :
+                              : .     :     . :
+                              :       :       :
+                    .  . .... : ............. : .... .  .
+                              :       .       :
+                              :       :       :
+       _____                ________  :       :  ___              _____
+  ____\\  _/_    ____ _ ___\\_     / _____ _ __ /  (_  __   _ ___\\_   \_
+  \     _/  (_ _\\_ /___     /    /_\\_   \_  _/    /_/ //_____.   /    /
+   \    \    /   _/    /    /    /    /    /  \     \_  _/     |  /     \
+   /_____\ __\   \     \_ _______\   /     \ __\_____/  \      |__\______\
+ <-diP--- _ ______\_____/ --- _ _____\______\ --- _ _____\_____| ------dTR->
+                              .               :
+. ........................... : ............. : ............................ .
+..:                           .               .                            :..
+:                                                                            :
+:          d R U N K E N  d A Y D R E A M  d O O R S  p R E S E N T          :
+:                                                                            :
+:                                                                            :
+:                    Blahblah v1.0 for DD/Linux by Cleaner                   :
+:                                                                            :
+:                                                                            :
+:                                                                            :
+:                                                                            :
+:     blahblah here you can write stuff about the door... just extend the    :
+:                     dots lines further to the bottom..                     :
+:                                                                            :
+:                                                                            :
+:                                                                            :
+:                                                                            :
+:                                                                            :
+:                         ...................................................:
+:........................ : .........................
+                          :                         :
+. ....................... : ... ............... ... : ..................... .
+..:                       .                         .                     :..
+:                                                                           :
+:                               m E M B E R S                               :
+:                            - --------------- -                            :
+:                                                                           :
+:   Rezine         Founder, DD Coder, Sysop       rezine@criminology.com    :
+:   Cleaner        DD Coder, Sysop                   cleaner@ifrance.com    :
+:   Zaner          Sysop                            zaner@lightforce.net    :
+:                                                                           :
+:                                                                           :
+:                                b O A R D S                                :
+:                             - ------------- -                             :
+:                                                                           :
+:   Third World         Rezine          World HQ         XX nodes telnet    :
+:                                                                           :
+:   Prophecy            Cleaner         French HQ        XX nodes telnet    :
+:                                                        XX nodes dialup    :
+:                                                                           :
+:   The Yard            Zaner           German HQ         4 nodes telnet    :
+:                                                         2 nodes dialup    :
+:                                                                           :
+:                             .               .                             :
+:                             .       .       .                             :
+:                             :       .       :                             :
+:..                           :       :       :                           ..:
+. :.......................................................................: .
+                              .       .       .
+  dESiGN bY diPSWiTCH/dCS^dTR :       :       : lAST uPDATED (xx.xx.2k)
+                              :       :       :
+                    .  . .... : ............. : .... .  .
+                              :       .       :
+                              : .     :     . :
+                              : .     :     . :
+                              : :.... : ....: :
+                              :..   : . :   ..:
+                              . :...: . :...: .
+                                      .
+
+                                      .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Die Saat Der Gewalt
+              ½½______½   to: Mother/BM
+
+
+
+                            _ _._ _     _      _ _._ _
+                               |//_)- - \/ - -(_\\|
+                               |                  |
+         _____          __     |               ___|_            ____
+    ____\\  _/_   _   _/ //____:   __    _ ___\\_   \_  _____ _/   //_
+    \     _/  (_ _\//_   _/    |  / //______    /    /_\\_   \_     _/
+     \    \    //    (_  \     |  \__      /   _    /    /    /     \
+     /_____\ __\      /___\____|   _/     /____\____\   _    /_______\
+                \_____\        |   \______\    _ _|_____\____\
+                               |                  |
+        _____             ____ |                  |
+   ____\\  _/_  __   _ __\\_ /_|_" d i E  s A A T |
+   \     _/  (_/ //____.  _/    /                 |
+    \    \    /  _/    |  \     \_                | d E R  g E W A L T "
+    /_____\ __\  \     |___\_____/                |
+           _ _____\____|       |                  |
+                               |                  |
+                    ___        |        _______   |        ___
+                  _/ _//_____ _|   _ ___\__   /   |____   /  /______ ____
+                 _)  \_     // //____.    /   \ _\\_   \_/ _//     //   //_
+                 \    /    /   _/    |   /\    \   /    /  \      //     _/
+                 /_________\   \     |___/\____/  _    /____\_____\      \
+                         _ _____\____|      _ ____\____\        _ ________\
+                               |                  |
+                            diP|                  |dTR
+                               |                  |
+                            - -+------------------+- -
+                               .                  .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Eternal Damnation
+              ½½______½   to: ED siteops
+
+
+
+             _ _._ _                                   _ _._ _
+                |//_)- -  -  eTERNAL dAMNATiON  -  - -(_\\|
+                |                                         |
+        __      |        __                  _____        |     ___
+      _/ //_____: ____  / //_____.  ____ _ _\\_   \_   ___|_   /  /______
+     _)  _/     |/   //_  _/     |_\\_ /___   /    /__\\_   \_/ _//     /
+     \   \      |     _/  \      |  _/    /  /     \    /    /  \      /
+  diP/____\_____|     \ ___\_____|  \     \_ \______\  _    /____\_____\dTR
+              _ _______\      _ _____\_____/      _ ___\____\
+     _____      |   __  __             _____          _   |          _____
+____\\  _/_  ___|_ _\_\/_//_  _____ __\\_   \_ ____  _\/_ |  _____ _\\_   \_
+\     _/  (_\\_   \_  \/   (_\\_   \_   /    //   //_   (_|_\\_   \_  /    /
+ \    \    /  /    /  ||    /  /    /  _    //     _/    /    /    / /     \
+ /_____\ __\ _    /___||____\ /     \ _\____\      \ ____\        /__\______\
+         _ __\____\      _ ___\______\    _ ________\   _ ________\
+                |                                         |
+                |                                         |
+                |   put your affils in here...            |
+                |                                         |
+                |                                         |
+                |                                         |
+             _ _|_ _                                   _ _|_ _
+                ://_)---------------------------------(_\\:
+                .                                         .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Europorn.Org
+              ½½______½   to: Nike/HOS
+
+
+
+                       _ _._              _._
+                          |/--------------\|
+                          |                |
+                          |        www.    |
+                      _  _|_   europorn   _|_  _
+                          |/   .org       \|
+   __                    _|__              |  ______         ____
+ _/ //_____.   ________ \\_ /___   _____ __|_/     / _____ _\\_ /___   _____
+_)  _/     | __\_     /  _/    /__\\_   \_  \     /_\\_   \_ _/    /__\\_   \_
+\   \      |/   /    /   \     \_   /    /   \___/    /    / \     \_   /    /
+/____\_____|   /    /_____\_____/       /______\          /___\_____/  /     \
+- -------_ _________\-----|--_ _________\--|--_ __________\-----_ _____\______\
+                          |                |
+                        __|__              |__
+                     __\\_   \_  ____ _ __/ _//_____
+                    _)   /    /_\\_ /___    \_     /
+                diP \        /   _/    /     /    / dTR
+                    /________\   \     \_ ________\
+                  - ---_ _|_______\_____/--|-------- -
+                          |                |
+                          |  _          _  |
+                       - -:-///-/----\-\\\-:- -
+                          ·                ·
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Fading Twilight
+              ½½______½   to: MC Laser/TSSC
+
+
+
+                       _._ __ ____     _    ___ ___ _._
+                        |/(__\\___)   \/   (___\\__)\|
+                        |                            |
+              ______    |       _____           _____|
+          _ _/     / ___|_ ____\\  _/_    __ __\\_   \_ ____
+         _) \    _/_\\_   \\     _/  (_ _\\_)_   /    //  _//_____
+         \   \___\    /    /     \    /      (_ /     \   \_     /
+         /_____\     _    /_______\ __\       /_\______\   /    /
+             _ ______\____\          _ _______\     _|__________\
+                        |                            |
+                        |    · fADiNG tWiLiGHT! ·    |
+      ____              |_              __           |     .____.
+    _/   //_  _______ _\\_)_   ___  _ _\\_)_  ____  _|_____|    | ____
+   _)     _/__\__   /      (_ /  /_____    (_/  _//__|__   |    |/   //_
+   \      \     /   \       // _//    /     /   \_     /   _    |     _/
+   /_______\   /\    \ _____\  \     /______\    /    /____\____|     \
+        _ _____/\____/  | _ ____\____\   _ ___________\       _ _______\
+                        |                            |
+                    diP |                            | dTR
+                     _ _|____________________________|_ _
+                        :                            :
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: FDR file_id
+              ½½______½   to: Cleaner/AHS
+
+
+
+      ______             ____
+ __ _/     /    _____ __\\_ /____
+_)  \    _/____\\  _/_   _/     /
+\    \___\       _/  (_  \      \_  fDR'2001
+/______\\        \    /___\______/
+- --diP-/_________\ __\-dTR--------------- -
+loiehjoifwehfoihfiohweiofhiewhfihefoihiohefi
+iiehwihfoihweihfoihefoiiwehfiohefhiohefiohie
+- ---------------------------------------- -
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Flashlow
+              ½½______½   to: Zaner/LFC
+
+
+
+      _____ _        _____    ___       .____. ___        _____     ______
+  _ _/    / /_____ _\\_   \_ /  //____ _|    |/  /_____ _\\_   \_ __\__   \
+ _) \   _/_//    /    /    //___     /  |    | _//    /    /    /     /    \_
+ \   \__\ \     /    _    /    /    /   _    | \     /         /     /\     /
+ /_____\ __\____\ ___\____\ ________\ __\____|__\____\ ________\ ____/\_____\
+<-diP--------------------------------------------------------------------dTR->
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Frozen
+              ½½______½   to: Hakon/WPZ
+
+
+
+
+                        __ ___________ _  _   _
+                  _  _ _\//                         .
+                       |\/   ! KCA.p NEZOR.f ·
+           _____       |    _____             __    :
+       _ _/    (_  ____|_ _\\_   \_    _____ / //_____.  _____
+      _) \     _/_\\_ /___   /    /___\\_   \  _/     |_\\_   \_
+      \   \____\   _/    /       /       ___/  \      |   /    /
+      /______\     \     \_ _____\       \_ _ __\_____|  /     \
+    <------ _ ______\_____/ --- _ ________/// ---- _:____\______\ -->
+                       :                            |
+                       .                            | diP/dTR
+                             · f.ROZEN p.ACK !      |
+                                                  /\|
+                            _    _  _ ___________//\
+                                                  ¯¯
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Game Freaks
+              ½½______½   to: Lowang/STATiC
+
+
+
+                                .
+                                .
+                             - -:------------------ -  -
+                                |
+                     _  _ __    |
+    ___                __  /_   |
+  _/ _//_____  _____ __\_\/_//_ | __
+ _)  \_     /_\\_   \_   \/   (_ / //____.
+ \    /    /    /    /   ||    /   _/    |     blah blah hier kommen die
+ /_________\   _    /____||____\   \     |     infos rein...
+<------- _ ____\____\ ------- _ ____\____|->
+                                .
+                     _____      |     __                     ___
+                 _ _/    (_  ____ _ _/ //____.   _____ _ __ /  (_  __
+                _) \     _/_\\_ /___   _/    |__\\_   \_  _/    / / //_____
+                \   \____\   _/    /   \     |    /    /  \     \_\__     /
+                /_____\      \     \_ __\____|   _    /____\_____/ _/    /
+              <------- _ _____\_____/ ---- _ ____\____\ ----- _ _________\-->
+                                .
+                            diP | dCS
+                                :
+                                .
+
+                                .
+
+
+
+
+                                       .
+
+                                       .
+                                       .
+                                       :
+                                       :
+                                       :
+                                      .:.
+                                      :::
+                                     .:::.
+                                   ·  :::  ·
+                                :::::::::::::::
+                                   .  :::  .
+                                     ·:::.
+                                      :::
+                                      :::
+                                      :::
+                                      :::
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                      Who dem ah couldah wha dat dem a try
+                 Dem go dis King Sellasie watch all a dem die yo
+                       Who dem me go see dem wit dem spell
+                    Dem dis Emmanuel and dem soul gone a hell
+                       Who dem a coulda who dem waan cuss
+                 Dem dis Marcus and now dem all bite de dust ya
+                      Who dem and me go tell dem fi splurt
+                       Tell dem them can't dis mama earth
+                                       :
+                            Yo no see a dead man dem
+                                 a duppy man dem
+                             we inna nuttin wid dem
+                              de fire haffi bun dem
+                                dem done condemn
+                               a pure dead man dem
+                               dem done no like me
+                         a mi done no like dem tell dem
+                       say me nah keep no funny man friend
+                   tell me say me nah keep no sodomite friend
+                   nah go stoop low me trod di rocky road dem
+                          da fire ya it redder dan red
+                                       :
+                          So me bun out dem dutty heart
+                    dem evil heart and dem corrupted thought
+                                nyam too much ass
+                                snake under grass
+                                 bow to the boss
+                                  move too fast
+                            me tell dem bout dem rass
+                who go tell dem to provoke de youths dem to wrath
+now de youth dem seh dem nah trust no shadow after dark nah tek no check nor no
+                                 fool fool talk
+dem know who and who ah come straight from dem heart know who a hypocrite from
+                               he way how dem talk
+                  dis de emperor and watch de whole a dem loss
+                   can't even find food to put inna dem troft
+                     not even bicycle much less donkey cart
+                       can't even creep much less fi walk
+                         dem can't even smile nor laugh
+                                 da one yah name
+                                       :
+                  Sense did a gi weh like dem never get a pence
+                  seems like dem gone school and go warm bench
+                       dem nah have no faith no confidence
+                    nah hold no faith nah block no reverence
+                       find out say nuff a dem disobedient
+                    so me find out dem no have no conscience
+                dem no have a clean heart nor a clear conscience
+                     dis king Selassie I it never mek sense
+                   dis Emmanuel and dem get kick of a de bench
+               dis Marcus Garvey ah weh the case dem get drenched
+                               who dem who dem yo
+                                       :
+                            ( Capleton - "Who Dem" )
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                      .:.
+                                      :::
+                                     .:::.
+                                   ·  :::  ·
+                                :::::::::::::::
+                                   .  :::  .
+                                     ·:::.
+                                      :::
+                                      :::
+                                      :::
+                                      :::
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       .
+
+                                       .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Gate To Zion
+              ½½______½   to: Faxe/BM
+
+
+
+                    _._ _                  _ _._
+                     |//_)----------------(_\\|
+                     |                        |
+                     |    · gATE tO ziON ·    |
+                     |                        |
+       ____          |      _____             |    ____
+     _/  _//_____   _|___ _/    //_ ___       |  _/   //_   _____
+    _)   \_     /__\\_   \_      _//  //______: _)     _/__\\_   \_
+    \     /    /     /    /      \    _/      | \      \     /    /
+    /__________\    _    /________\   \       | /_______\        /
+             _ _____\____\      _ _____\______|       _ _________\
+                     |                        |
+                     |   bLACK mAiDEN fTPHQ!  |
+                     |                        |
+                  ___|_    ____       ______  |  _______
+         ________\\_   \ _\\___)_ ___\\_    \_|_\\_     \_
+         \          ___/        (_     /     /    /      /
+          \         \            /          /    /      /
+           \         \_         /          /    /       \
+           /__________/_________\__________\ ___\________\
+                     |                        |
+                     |                        |
+                 dTR |      +oP dR.fAXE       | dTR
+                  _ _|________________________|_ _
+                     :                        :
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Geniuz
+              ½½______½   to: Geniuz/MVP
+
+
+
+                    __   __ _      _       _ __   __
+                _ _.)/--/_////-----\/-----\\\\_\--\(._ _
+                   |                                |
+                   | for high quality swapping...   |
+          ___      |          _____             ____|___
+        _/ _//_____|__   _ __\\_   \_     _ _ __\_     /     ____
+       _)  \_     // //_____.  /    /  _\\/_     /    /_____\\_  \
+       \    /    /   _/     | /     \ /    (_        /        ___/
+       /_________\   \      |_\______\      /________\        \_
+    <-diP/dTR-_ ______\_____|------_ _______\------_|__________//---->
+                   |                                |
+                   |         ... g3niuz/mo'playaz ! |
+                  _|_                               |
+                  \|         Marek Blahlbhab       _|_
+                   |        Blahblah Str. 666       |/
+                   |      D-12345 Groovehausen      |
+                   |             Germany            |
+                   |                                |
+                _ _|__  __ _        _       _ __  __|_ _
+                   · (--\_\\\\-----\/-----//// /--) ·
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Goro
+              ½½______½   to: Goro/DLM
+
+
+
+               _._ _                             _ _._
+                |//_)  g O R O / d E L i R U M  (_\\|
+        ______  |                          ____     |
+      _/   __//_|_______       ______ ____\\_ /_____|___        ______
+     _)    \_          /______\\_    \_    _/          /_______\\_    \_
+     \      /         /         /     /    \           \_        /     /
+     /________________\              /______\___________/             /
+             _ _|____________________\           _ _|_________________\
+             diP|                                   |dTR
+                |                                   |
+                |   is back in snailswap biznezzz   |
+                |   da hot scene stuff - only cds   |
+                |                                   |
+                |            goro/delirium          |
+                |         wojtek niewiadomski       |
+                |         ul.  turkusowa 9/12       |
+                |          97-4oo  belchatow        |
+                :      poland -  goro@poland.com    :
+                .                                   .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Just For Fun
+              ½½______½   to: Cleaner/DKN
+
+
+
+       ___                                                         ___
+       | _\_ _  _                                           _  _ _/_ |
+       | X |                                                     | X |
+       | X |     j  u  s  t   f  o  r   f  u  n   2  o  o  o     | X |
+       | X |                                                     | X |
+   __  |___|__ __     ___      _____ ____   ____        _____ ___|___|____
+  _\_)_|\_   // /____/  /_  __/    /_\_  \__\_ /___  __/    /_\_    /|\_  \_
+ _)   /  /  / \__   /   _/ _)\   _/   /   / _/    / _)\   _/   /   /   /   /
+ \   /     /    /  /    \  \  \__\       /  \     \_\  \__\       /   /    \
+ /  /______\ ______\_____\ /____\ _______\ __\_____//____\ _______\ __\_____\
+/__/-diP------------------------------------------------------------------dTR-
+       . X |                                                     | X |
+       | X |                                                     | X |
+       | x .                                                     . x |
+       . _                                                         _ .
+           .                                                     .
+       .                                                             .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Mongo Cool
+              ½½______½   to: Ljb/CCC
+
+
+
+
+                     _ _:__ _    __    _ __:_ _
+                        | ///----\/----\\\ |
+            _ _         |                  |
+          __  /_    diP |      _____       | dTR   _____
+        _\\_\/_/__    _____ __\\_   \_ ___ | _ ___\\_   \_
+       _)   \/   (_ _\\_   \_   /    // _//_____    /    /
+       \    ||    /    /    /  /     \  \_     /        /
+       /____||____\        /___\______\  /    /_________\
+    <--------- _ __________\ ----- _ _________\ ----------->
+                        .                  .
+                        |  m0Ng0 k3WL !!!  |
+                        |            _____ |
+                ___ ____.  _____ ___\\_   \_ ___
+               _) _/    |_\\_   \_    /    //  /____
+               \  \     |   /    /        // _//   (_
+               /___\____|       /_________\  \      /
+            <------- _ _________\ ---- _ _____\_____\ -->
+                        .                  .
+                        |  _ _   .    _ _  |
+                     - -|-/_)\\--:-- //(_\-|- -
+                                 .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Mailscan
+              ½½______½   to: Z-Boy
+
+
+
+    __  __     _____    __    ___       __                  _____     _____
+  _\\_\/_//_ _\\_   \_ (_//_ /  /_____ / //_____ __ ____.__\\_   \_ _\\_   \_
+ _)   \/   (_   /    //    (_ _//    / \__     /  _/    |    /    /    /    /
+ \    ||    /  _    /       / \     /   _/    /   \     |   _    /    /     \
+ /____||____\ _\____\ ______\ _\____\ ________\ ___\____|___\____\ ___\______\
+<-diP---------------------------------------------------------------------dTR-
+
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: NBCG file_id
+              ½½______½   to: Cali/NBCG
+
+
+
+   ______     ____                ____
+ _\\_    \_ //_  /______ _ _____./  _//_____
+_)  /     /    \_      / _/     |   \_     /
+\  /      \     /     /  \      |    /    /
+/__\_______\ ___\____/____\_____|_________\
+<-diP----------------------------------dTR->
+         + nOiSY bOYS cREW gERMANY +
+         - ----------------------- -
+         Dreamcharts Vol.3 by Luigi!
+<-(DC/TXT)----------------------(xx/xx/2k)->
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Newage
+              ½½______½   to: Pahn/BK
+
+
+
+                              ...
+                              : : ...
+                              : : : : ...
+                         .... : : : : : :. .  .   .    .      .
+                         :  : : : : :.:
+                         :  : : :.:
+                         :  :.:
+                         :
+         _____    __     :   _______    _____    ___       __
+       _\\_   \_ / /_____.___\__   /___\\_   \_ / _//____ / //_____.
+      _)  /    /  _/     |)    /   \     /    /   \_    /   _/     |
+      \  /     \  \      |    /\    \   _    /     /   /    \      |
+      /__\______\ _\_____|____/\_____\ _\____\ ________\ ____\_____|
+    <-diP----------------.---------------------------------------dTR->
+                         :
+                   ...   :  · n.E.W.A.G.E.!
+               ... : :   :
+           ... : : : :   :
+ .   .  .. : : : : : :...:
+         :.: : : : :
+             :.: : :
+                 :.:
+
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Open BSD
+              ½½______½   to: Rezine/DKN
+
+
+
+
+                      _ __._  _          _  _.__ _
+                          |/ // openBSD! \\ \|
+                          |                  |
+                          |                  |
+                  _____   |          __      |
+               __\\_   \_ |  ______ / //_____.   _____
+              _)   /    /_|_/     /   _/     |__\\_   \_
+              \        /   \     /    \      |    /    /
+              /________\    \___/______\_____|   /     \
+           - -------_ ________\----------_ ______\______\-- -
+                          |                  |
+                          |                  |
+             ...........  | .....           .............
+             .... .:::::    ::::.........   ....  ::::::::
+             ::::  ::::::::       ::::::::  ::::  ::::::::
+             ::::..::::::::     ..::::::::  ::::..::::::::
+                          .                  .
+                          |                  |
+                          |                  |
+                      diP |                  | dTR
+                       _ _|_ _            _ _|_ _
+                          :///- -  --  - -\\\:
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: PDAZone file_id
+              ½½______½   to: Galaxy
+
+
+
+
+[xx.xx.2k] Blahblahblagh *CRACKPATCH*
+   ___   ____   ___   ___ ___   ___    __
+._/  (_ _\ _/_ _\_ \__\_ \\_ \__\_ \_ / /__.
+|\    /  _/  (_  /  /  __/ /  /  /  /  _/  |
+| \__/   \    / _  /   \_    /  /   \  \   |
+|___\ \___\ __\ \__\ ___/____\ _\____\ _\__|
+<-diP----------------------------------dTR->
+       + pDAZONE 2k - tHE pALM fORCE +
+
+
+
+
+                                       .
+                                       .
+                                       :
+                                       :
+                                       :
+                                      .:.
+                                      :::
+                                     .:::.
+                                   ·  :::  ·
+                                :::::::::::::::
+                                   .  :::  .
+                                     ·:::.
+                                      :::
+                                      :::
+                                      :::
+                                      :::
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                               Positively clear
+              The people inna di world keep forgetting them past
+                              so dem gone astray
+                            So mi bun dem everyday
+             Dat dem nuh love, conspiracers a talk and never fail
+                               Positively clear,
+                Di people inna di world a lust fi dem top class
+                         Think yuh are actually there
+                     Yuh toe yuh guh buck skate inna grass
+                                       :
+                         Mi an di yutes a tro one away
+                                Melchesedek way
+          So if yuh see mi an di yutes dem trodding through the earth
+                 Wi haffi trod it King Selassie way, yeah yeah
+                  Trodding this one away, haffi trod one away
+                           Dem sen 50, 60, 70 pagan
+                      Mi slew dem off in space a one day.
+                                       :
+                                 Well you see
+                            The people inna di west
+                           Di whole a dem gone crazy
+               Love fi big up dem chest yet dem dey inna slavery
+                   Dem caan nyam nuh food without nuh money
+                             So foolish is the man
+                   Eat food in fruitful Zion yet him hungry
+                                 A tell yuh fi
+                      Cleanse yuh ways, clean up yuh path
+                          Ghetto yutes nuh badda gaze
+                           Mi say unno fus fi staat
+                         Babylon a seek soul an heart
+                    Dem dun get dem peace and want our half
+                                   Dats why
+                                       :
+                 Yuh see the Prime Minister know what a galong
+                A dem sell out di yutes to the queen a England
+                Di whole a dem haffi bow when dem see mi turban
+                     Mi drop every authority fi Babywrong
+                       Melchisedek order never yet wrong
+               How mi chant mi niabinghi fi di black redemption
+              Unno careful a di words an di food whey yuh a nyam
+                From the yutes grow dem good, dats organization
+                   So Bobo hill better pull fi organisation
+                       Emperor Selassie is an Ethiopian
+                   Reign in the heart and flesh from Mt Zion
+                   Mi come fi every Israelite out a Babylon
+                 Show mi who will step forth for repartriation
+                            Nuh cut nuh more throat
+                        Nuh badda kill nuh younger one
+             So rise an tek yuh stan, Yuh better know whey fi walk
+            Selassie I is the almighty one, confuse not your heart
+                   Dem sight mi turban, conspiracers a talk
+                 Emanuel, so watch out because him a guh wrath
+                                       :
+                            ( Sizzla - "One Away" )
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                      .:.
+                                      :::
+                                     .:::.
+                                   ·  :::  ·
+                                :::::::::::::::
+                                   .  :::  .
+                                     ·:::.
+                                      :::
+                                      :::
+                                      :::
+                                      :::
+                                       :
+                                       :
+                                       :
+                                       :
+                                       .
+
+                                       .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Phantasy
+              ½½______½   to: Raver/DCS
+
+
+
+                      __ ____________________________ __
+                 _ _._\//                            \\/_._ _
+                    | \/                              \/ |
+                    |      .xX(·p.H.A.N.T.A.S.Y·)Xx.     |
+                    |                                    |
+       ______       |   _____            _____           | __
+   _ _/     / ._____. _\\_   \_  _____ _/    /_    _____ |/ //______   _______
+  _) \     /__|     |/   /    /_\\_   \_     _//__\\_   \_\___     /__\\_    /
+  \   \___/   |     |   _    /    /    /     \      /    /  _/    /     /   /
+  /______\    _     |___\____\   /     \ _____\    _    /_________\         \
+<----- _ _____\_____| ---- _ ____\______\ -- _ ____\____\ ------ _ ___    __/-
+                    .                                    .            \___\
+                    |                                    |
+                    |                                    |
+                diP |                  .                 | dTR
+                 _ _|_  ______________ . ____________  __|_ _
+                    : )/______________):(____________\(  :  -
+                    .                  .                 .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Phantasy file_id
+              ½½______½   to: Raver/DCS
+
+
+
+     ______  ._____. _____
+ _ _/     /__|     |/    //_ - ----------.
+_) \     /   |     |      _//            |
+\   \___/    _     |      \   pHANTASY!  |
+/_____\ _____\_____|_______\             |
+.--------------------------------diP/dTR-+
+| sdwewcawecergtretgrztrrbrtbrzrtrwtrvvt |
+| rewvwervwevewvwevwevwevwervwevwervwvrr |
+| sfefewfewrgeggegggegeegregereegegegegr |
+`-(xx.xx.2k)-----------------------------'
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Pogue
+              ½½______½   to: Pogue/iMP
+
+
+
+
+                          ____.
+                       ._/ __ |
+                       | __XX |
+                       | XXXX |
+              ______   | X  ___   · pOGUE!         __
+          _ _/     / _____ / _//______   ________ / //_____.
+         _) \     /_\\_   \_ \_      /__\\_     /   _/     |
+         \   \___/    /    /  /     /     /    /    \      |
+         /_____\          /_________\    /    /______\_____|
+             _ ___________\ _ .   _ __________\
+                       . ___X |
+                   diP | XXXX | dTR
+                       | XX  _|
+                       |____/ ·
+                       ·
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Potiron
+              ½½______½   to: Darkveggy
+
+
+
+                   .                .
+                _ _._ __   _    __ _._ _
+                   |//__)  \/  (__\\|
+                   |                |
+         ______    |    ____        | ____               _____
+     _ _/     / ___|_ _/   //_  __ _|\\_ /___   _____ __\\_   \_
+    _) \     /_\\_   \_     _/_\\_)_  _/    /__\\_   \_   /    /
+    \   \___/    /    /     \      (_ \     \_   /    /  /     \
+    /_____\          /_______\      /__\_____/       /___\______\
+ - -----_ ___________\----_ ________\-----_ _________\-diP/dTR---- -
+                   |                |
+                   |                |
+                   | p O T i R O N! |
+                _ _|________________|_ _
+                   :                :
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Raketenbrot
+              ½½______½   to: Potzkoten/BM
+
+
+
+                         __.                    .__
+                       _/  |                    |  \_
+                       | X |                    | X |
+       ____            | X | ___            ____    |        _____
+     _\\_ /___   _____ ____ /  (_  __   _ _/   //_ __   _ __\\_   \_
+    _) _/    /__\\_   \_  _/    /_/ //____.     _// //____.   /    /
+    \  \     \_   /    /  \     \_  _/    |     \   _/    |  /     \
+    /___\_____/  _    /____\_____/  \     |______\  \     |__\______\
+          _ _____\____\  _ .  _ _____\____|   _ _____\____|
+                       . X |                    . _ .
+                       | X |                    | X |
+                       | X | WWW.RAKETENBROT.DE | X |
+                       | X |                    | X |
+                      ____                _____   X |
+                   _ /_  //____  ____ ___\\_   \_ ____
+                  _)   \_     /_\\_ /___   /    //   //_
+                  \     /    /   _/    /       /      _/
+                  /___ /_____\   \     \_ _____\      \
+                       . _ _ _____\_____/    _ ________\
+                       | X .                    . _ .
+                   diP | X |                    | X | dTR
+                       |  _|                    |_  |
+                       |_/                        \_|
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Ride Like Lightning Crash Like Thunder
+              ½½______½   to: Skope/DS!
+
+
+
+                                __._ _
+                            _._/  |
+                             |    |
+                             |    |
+                             |    |
+                             |    |
+      ____             _____ |    |          ___               ___
+    _\\_ /___  _ _____\\  _/_|  _ |        _/  /_____  _  ___ /  (_ __
+   _) _/    /_\\)_      _/  (| / //_____. _) _//    /_(//_  _/    // //_____.
+   \  \     \_   (_     \    /   _/     | \  \     //    (_ \     \_ _/     |
+   /___\_____/    /______\ __\   \      | /___\____\      /__\_____/ \      |
+ <-------_ _______\--------_ _____\_____|-------_ ________\-----_ ____\_____|->
+                             |    |
+   ___            ___        |    | ____               _              ___
+ _/  /_____  _  _/ _/______  :____:/   //_   _____   _\\)_    _____ _/ _/______
+_) _//    /_(//_   \_     /__|    |     _/__\\_   \_/    (_ _\\_   \_  \_     /
+\  \     //    (_   /    /   |    |     \     /    /      /    /    /   /    /
+/___\____\      /________\   _    |______\   /     \ _____\   /     \ _______\
+<------_ _______\------_ ____\____|---_ _____\______\-_ ______\______\-------->
+                             :    |
+                             |    |  _____                .____.
+              ___ _____.  ___| _ _|_\\_   \_ ___    _ ____|    |
+             _) _/     |_\\_ /___     /    //  //______   |    |
+             \  \      |  _/    /    _    / \___      /   _    |
+             /___\_____|  \     \_ __\____\    /     /____\____|
+           <--------_ _____\_____/|------_ __________\----------->
+                             |    |
+                         ___ |    |        ___
+                       _/  /_|___ |_  ___ /  (_ __
+                      _) _//    /_(//_  _/    // //_____.
+                      \  \     //    (_ \     \_ _/     |
+                      /___\____\      /__\_____/ \      |
+                    <-------_|________\-----_ ____\_____|->
+                             |    |
+            ____             | ___|____          __
+          _/   //_   .____.__|_\_     /  _____ _/ //_____.  ____
+         _)     _/___|    |     /    /__\\_   \_  _/     |_\\_ /___
+         \      \    |    |    /    /     /    /  \      |  _/    /
+         /_______\   _    |_________\    /     \ __\_____|  \     \_
+      <-------_ _____\____|--|    |_ ____\______\----_ ______\_____/-->
+                             |    |
+                             |    |
+                             |    |
+                          diP|    |dTR
+                             |    |
+                            _|_   |
+                             · \__|_ _
+                                  ·
+
+sorry man, i forgot the "d" in thunder... :P
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Salva Mea
+              ½½______½   to: D-Fox
+
+
+
+  __                 __                  _____               __
+ / //_____  _____   / /______  _______ _\\_   \_    __   _ _/ //_____.  _____
+ \__     /_\\_   \_/_//     /__\_    /    /    /  _\\_\  __   _/     |_\\_   \
+  _/    /    /    / \      /    /   /    _    /  _)   \\/_//_ \      |   /
+  \_____\   _    /___\_____\   /   /_____\____\  \     \/   /__\_____|  _    /
+- ----_ ____\____\------_ ________/-diP/dTR------/_____||___\-----_ ____\____\
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Scenet
+              ½½______½   to: Ghandy/DKG (Keep up the good work man!)
+
+
+
+                     _ _:___
+                        |   \_:_
+                    diP |     |
+                       _|_ _  |  w W W . s C E N E T . d E
+                       \|     |
+             ___        |     | __                  __
+            /  //_____  |  _ _|/ //_____.   _____ _/ //_____. _____
+            \__      /__|_____:  _/     |__\\_   \_  _/     |/    //_
+             _/     /  _/     |  \      |    /    /  \      |      _/
+             \______\  \      |___\_____|   /     \ __\_____|      \
+          <-------_ ____\_____|------_ _____\______\------_ ________\---->
+                        |     |
+                        |  _ _|_
+                        |     |/
+                       _|_    | dTR
+                        · \___|_ _
+                              ·
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Slacker Bitch
+              ½½______½   to: Spermwhale/DTR? (get your ass up man!)
+
+
+
+                             __ _  _
+                        - -:-)///-//--/- -    _  _ __
+                           |             - \--\\-\\\(-:- -
+       _ _                _|_   s L A C               |          _ _
+      __ /                \|____      K E R    ___    |        ___ /
+     /  //_____ ___  _ ___\\_   \_   _ ______ /  (_ __|   _ __\\_ /___
+     \__      //  /_____    /    /_ _____.  _/    // //_____.  _/    /
+    _ _/     // _//    /   _    / _/     |  \     \_ _/     |  \     \_ _
+  \ \\\______\  \     /____\____\ \      |___\_____/ \      |___\_____/// /
+<-------- _ _____\____\ ---|- _ ___\_____| ----- _ ___\_____| --------------->
+                           |                          |
+                           |                          |
+                _ _        |        _ _  b i T C H !  |
+                \ ____     |      ___ /               ._____.
+               _\\_  /_____|  _ _/   //_      _ ______|     |
+              _)   \_     /|\\/_      _/___ _____.    |     |
+              \     /    //    (_     \   _/     |    _     |
+              /___ /_____\      /______\  \      |____\_____|
+           <----------- _ ______\ -- _ ____\_____| ---|--------->
+                           |                          |
+                           |     _ · diP/dTR! · _     |
+                          -:-----\)|   _  _   |(/-----:-
+                                   |-///--\\\-|
+                                   ·          ·
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Spiral
+              ½½______½   to: forgot...
+
+
+
+                             _ _:_ _               _ _:_ _
+                                |////-/---------\-\\\\|
+                                |                     |
+                                |                     |
+         __                 _   |             _____   |
+        / //_____    ______(//_ |  ____ _ ___\\_   \_ |__
+        \__     /_ _/     /   (_|_\\_ /___     /    //  /_____
+         _/    /   \     /     /   _/    /    _    // _//    /
+         \_____\    \___/ \____\   \     \_ __\____\  \     /diP^dTR
+     - -----_ ________\------_ _____\_____/------_ ____\____\------ -
+                                |                     |
+                                |    sPIRAL 2001!     |
+                                |    - -------- -     |
+                                |                     |
+                               _|_ __             __ _|_
+                                ://_/-------------\_\\:
+
+
+
+                                       .
+                                       .
+                                       :
+                                       :
+                                       :
+                                      .:.
+                                      :::
+                                     .:::.
+                                   ·  :::  ·
+                                :::::::::::::::
+                                   .  :::  .
+                                     ·:::.
+                                      :::
+                                      :::
+                                      :::
+                                      :::
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                       From yuh si dem yuh will know dem
+                       then yuh woulda know a who chosen
+                      from yuh hear dem yuh will know dem
+                        listen to di way how dem spoken
+                       from yuh si dem yuh will know dem
+                       then yuh woulda know a who chosen
+                    oh, from yuh hear dem yuh will know dem
+                           by di way how dem spoken
+                                Listen me again
+                                       :
+                           Yuh nuh se a b#@$+man dem
+                                A Sodomite dem
+                               A Heathen dem boy
+                          True mi lotion di woman dem
+                      Dem nuh like me and mi nuh like dem
+                              Unu listen me again
+                          Yuh nuh see a dead man dem
+                                A duppy man dem
+                                A demon dem boy
+                            That's why wi naaaaaah,
+                            Guh ina nutten wid dem
+                                       :
+                               Well Bulby a seh
+                           Weh mi guh caught dem all
+                  Which part wi caught dem? Inna di dancehall
+                  None a dem can't escape this judgement ball
+                       From mi found dem guilty after all
+               Bulby have the eye weh all a see tru all di wall
+               Wi nuh si nuh eye water but wi si seh nuff a bawl
+                 Nuff dumbstruck but still wi hear dem a call
+                 Nuff seh dem a Moses but mi si seh dem a Saul
+                 Nuff seh dem a David but mi si seh dem a Saul
+                     Weh dem aguh do all ina di roll call
+                 Judgement gwaan tek dem ina di Judgement ball
+                     Never send dem guh mix up with RuPaul
+                   Never send dem guh work fi John Pope Paul
+                   Never tell dem fi male with Frankie Paul
+                   Dis di Prophet dem head a roll like.....
+             Raasclaute tek dem inna di Judgement baaaaaaaaaaaall
+                                       :
+                           Yuh nuh se a b#*@"man dem
+                                A Sodomite dem
+                               A Heathen dem boy
+                          True mi lotion di woman dem
+                      Dem nuh like me and mi nuh like dem
+                              Unu listen me again
+                          Yuh nuh see a dead man dem
+                                A duppy man dem
+                                A demon dem boy
+                          That's why wi naaaaaaaaaah,
+                            Guh ina nutten wid dem
+                                       :
+                             Well bigga Judgement
+                It betta dem nuh talk it mek sense dem shut up
+          Every minute dem open dem mouth dem owna words shut dem up
+                Mi si di whole a dem when me a drive ina di bus
+                Ketch di whole a dem a drink outta di same cup
+               And mi find out seh dat di whole a dem guh touch
+                And mi find out seh dat di whole a dem a kruff
+                  Hey missa man deh coulda who dat you a f#@k
+                  Hey missa man deh coulda wah dat you a suck
+                 Hey missa man deh coulda wah dat you a touch
+                      Oh..a who got di keys to yuh truck?
+                    Nuh man nuh mek love to fella inna rush
+                  Dis di Emperor yuh know yuh head gwaan bus
+                                       :
+                           Yuh nuh se a b@&$#man dem
+                                A Sodomite dem
+                               A Heathen dem boy
+                          True mi lotion di woman dem
+                      Dem nuh like me and mi nuh like dem
+                              Unu listen me again
+                          Yuh nuh see a dead man dem
+                                A Duppy man dem
+                                A Demon dem boy
+                            That's why wi naaaaaah,
+                            Guh ina nutten wid dem
+                                       :
+                              Well Bulby ask dem
+                              Why yuh aguh dweet?
+                 Who dat yuh deh all a kiss yuh pon yuh cheek?
+                Inna di King size yuh have another man a sleep
+                  sight Anne Marie and yuh nuh want her meat
+                   sight Jackilyn and yuh nuh want her meat
+                 everday dem come yah with dem b*#$"man speech
+                       Haile King Selassi Rastafari seek
+           Yuh nuh want nuh gal yuh **** * **** *** ** streeeeeeeet
+                                       :
+                           Yuh nuh se a b#*@&man dem
+                                A Sodomite dem
+                               A Heathen dem boy
+                          True mi lotion di woman dem
+                      Dem nuh like me and mi nuh like dem
+                              Unu listen me again
+                          Yuh nuh see a dead man dem
+                                A Duppy man dem
+                                A Demon dem boy
+                            That's why wi naaaaaah,
+                            Guh ina nutten wid dem
+                                       :
+                          ( Capleton - "Pare Sodom" )
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                      .:.
+                                      :::
+                                     .:::.
+                                   ·  :::  ·
+                                :::::::::::::::
+                                   .  :::  .
+                                     ·:::.
+                                      :::
+                                      :::
+                                      :::
+                                      :::
+                                       :
+                                       :
+                                       :
+                                       :
+                                       .
+
+                                       .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: SUP file_id
+              ½½______½   to: Fenriz/SUP
+
+
+
+  __                       ______
+ / //______   ________ _ _/     /
+ \__      /__\\_     /   \     /
+  _/     /     /    /     \___/ sUPREMACY'2k
+  \______\    /    /________\   - -------- -
+<-diP-_ ___________\----------------------->
+
+
+<------------------------------------------>
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: The Daedalus Encounter
+              ½½______½   to: TDE siteops
+
+
+
+
+         :.         .
+      . .:::....  .::
+         ::: :::: ::: .....
+         :::  ... ::: ::::..       dBZ wHQ (*) oS uSHQ
+.  . ... ::: ::::.::: :::: .... .  .   .  . . .............. .
+         ::: :::: ::: :::: :::                             :..
+         '::      '::    '-'     tHE dEADALUS eNCOUNTER!     :
+     _____ '        '   _____                _____             _______
+____\\  _/_   __   _ __\\_   \_    _____ ___\\_   \_ ___  _ __\\_    /__
+\     _/  (_ / //____.   /    /___\\  _/_     /    //  /____    /   // //_____
+ \    \    /   _/    |  _    /      _/  (_   _    // _//   /   /   / \__     /
+ /_____\ __\   \     |__\____\\     \    /___\____\  \    /________\  _/    /
+        _ ______\____|        /______\ __\      _ ________\  .   _ _________\
+                                                             :
+    __                                _______        ___     :      ____
+  _/ //____.  ____ ___ ____.  ____ __\\_    / ____ _/  //_ __   _ _\\_ /___
+ _)  _/    |_\\_  \_ _/    |_\\_  \_   /   /_\\_  \_    _// //____. _/    /
+ \   \     |   /   / \     |   /   /  /   /    /   /    \   _/    | \     \_
+ /____\____|  /    \ _\____|      /_______\   /    \ ____\  \     | _\_____/
+        _ ____\_____\    _ _______\     _ ____\_____\   _ ___\____|
+                                                             .
+                                                         diP : dTR
+                                                             .
+
+                                                             .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: The Colly
+              ½½______½   to: Pogue/iMP
+
+
+
+                      _ _._
+                         | \_ _
+                   t H E |  |
+                         |  |
+  ____           __      |  |           _____            ___
+_/   //_  .____./ //_____.  |      _ __\\_   \_ ___  _ _/  /____    ________
+\     _/__|    |  _/     |  ___ _____.   /    //  /____  _//   (_ _\\_     /
+ \    \   |    |  \      | _) _/     |       // _//   (_ \      //   /    /
+  \____\  _    |___\_____| \  \      |_______\  \      /__\_____\   /    /
+<-- _ ____\____| -diP----- /___\_____| --- _ ____\_____\ -dTR- /__   ___/ -->
+                         |  .                                     \__\
+                         |  | c O L L™Y
+                         |  |
+                      _ _|__|_ _
+                         ·  ·
+                         ·  .
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: The Power
+              ½½______½   to: forgot...
+
+
+
+            . ......                                     ...... .
+            ..:    :                                     :    :..
+            ::     :                                     :     ::
+            ::  ...:.....................................:...  ::
+            ::..::.:                                     :.::..::
+                ::                                         ::
+                ::                                         ::
+   ___     .____::__            ______  _____    _______ __::      ____
+ _/  //_ __|    |/ //____.  _ _/     /_\\_   \_ _\__   // //:___._\\_ /___
+_)    _/   |    |  _/    | _) \     /    /    /    /   \  _/    |  _/    /
+\     \    _    |  \     | \   \___/         /    /\    \ \     |  \     \_
+/______\ __\____|___\____| /_____\ _ ________\____/\____/__\____|___\_____/
+<-diP-----------::-----------------------------------------::---------dTR->
+                ::                                         ::
+            ....::...                                   ...::....
+            ::  ::..:...................................:..::  ::
+          :::::.....:                                   :.....:::::
+          :::::                                               :::::
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Thuglife.Org
+              ½½______½   to: Pogue/iMP
+
+
+
+                             _ _._  _._ _
+                                |/  \|
+                                |    |
+                            diP |    | dTR
+     ____             _______   |    |  ___             _____
+   _/   //_  .____. __\_    /___   _ __/  /_____ _  _ _/    /__
+   \     _/__|    |/   /   // _//_____  _//    /_\/_  \   _// //____.
+    \    \   |    |   /   /   \_     /  \     //   (_  \__\   _/    |
+    /_____\  _    |_______\    /    /____\____\     /____\    \     |
+        _ ___\____|    _ ___________\      _ _______\   _ _____\____|
+                                .    .
+                                |    |
+                         _____  |    |   ___
+                      __\\_   \_ ___  _// _/______
+                     _)   /    //_ //__   \_     /
+                     \        / _/    /    /    /
+                     /________\ \     \_ _______\
+                           _ ____\_____/
+                                .    .
+                                |    |   wWW.tHUGLiFE.oRG
+                                |    |
+                                `----'
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: The Mind Explosion
+              ½½______½   to: Lord Chaos/DTR
+
+
+
+                                             _._
+                          t  H  E             | \_._ _
+                    ___                       |   |
+               __  /  /         ____          |   |
+              _\_\/__/_   _  __\\_  \_      __|__ |
+             _)  \/   (_ _\/_    /   /______\  _//|
+             \   ||    //   (_  /    \\      _/   (_
+             /___||____\     /__\_____\      \     /
+           - --------_-______\-----_-_________\ ___\-- -
+                                              |   |
+                             m  i  N  D       |   |
+               ____                           |   |
+   _      __  /   / _____ __       ____    ___|   |  _     ____   _____
+ _///____.\ \/   /_/    // /_____ _\_  \_ /  //___| _\/_ __\_  \_\\_   \_
+_) _/    |      / \    //_//    /   /   / \__     //   (_   /   /  /    /
+\  \     |     /   \__/  \     /       /    /    /      /      /  /     \
+/___\____|_   _\ ____\ ___\____\ ______\ ________\ _____\ _____\ _\______\
+<-diP-----/__/--------------------------------|---|------------------dTR->
+                                              |   |
+               e  X  P  L  O  S  i  O  N      |   |
+                                           _ _|_  |
+                                              · \_|_
+                                                  ·
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Under Vinyl Sky
+              ½½______½   to: Noches/L124
+
+
+
+                  . _              _ .
+               - -:-\\\----------///-:- -
+                  |                  |
+         ________ |           _____  | diP/dTR    ____
+      __\\_     / |____ _____\\  _/_ | __    _ __\\_ /____
+     _)   /    /_\\_   \_      _/  (_|/ //_____.  _/     /
+     \   /    /    /    /      \    /   _/     |  \      \_
+     /________\   /     \ ______\ __\   \      |___\______/
+            _ ____\______\       _ ______\_____|
+                  |       ________   |  _____               ___
+        u N D E R |   ____\_     /_  |_\\_   \_   ________ /  /_____
+                  |   \    /    /_\/_    /    /__\\_     // _//    (_
+        v i N Y L |   /   /    /    (_  /     \    /    /   \       /
+                  |  /________/      /__\______\  /    /_____\______\
+            s K Y |        _ ________\       _ __    __\
+               ___|                  |________   \___\
+              /  //______    ____ ___\\_     /
+              \___      /__ /   (_     /    /
+                _/     /  _/     /    /    /
+                \______\  \      \_ _    __\
+                  |  _ ____\______/  \___\
+                  |                  |
+                  |  _            _  |
+               - -:-///----------\\\-:- -
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Venom file_id
+              ½½______½   to: Venom crew
+
+
+
+    _______ __     ____    ____    __  __
+  __\_    // /___._\_  \_ _\_  \_ _\_\/_//_
+ _)  /   /  _/   |  /   /   /   /    \/   (_
+ \  /   /   \    | /    \      /     ||    /
+ /______\ ___\___|_\_____\ ____\ ____||____\
++- -diP------------------------------dTR- -+
+|        (+) v E N O M  2 o o 1 (+)        |
+|                                          |
+|       Bike DX Active! (c) Nintendo       |
+|                                          |
++-[GBA/USA/64MBIT]--------------[XX/XX/01]-+
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Welcome
+              ½½______½   to: Z-Boy
+
+
+
+                                                     _  _ _
+        _______            ___                _____       /   __
+     ___\__   /  __   _ __/  /_____      _ __\\_   \_ _  /_ _/ //____.
+    _)    /   \ / //____.  _//    /___ ____.   /    /__\/_/__  _/    |
+    \    /\    \  _/    |  \     /   _/    |       /   \/   (_ \     |
+    /____/\____/  \     |___\____\   \     |_______\   ||    /__\____|
+  <-diP-------_ ___\____|-------_ ____\____|----_ _____||____\------dTR->
+
+                   (*) wELCOME oN tERROR tEMPLE bBS (*)
+
+  <--------------------------------------------------------------------->
+
+
+
+                 ______
+              __\\    ½     _
+              ½½      ½     \ _______ /\
+          _   ½½  __  ½  ___ \\_    //__\  ____     ___
+_ ____  _/ |___ _/  |  ___, \_ /   /_____ _\_. \_ _/ _/__ _____
+//____//_   . /__   |-/  .   //   //    //_  |  /__ ( . /_  __//_
+        \_  |  _\_  |    | __/     _ _____\__|    \__ |  _\
+          `----'  `--- -\ -'/_______\\       |      `----'
+       - ----------------------------_\ ---- |   ----------- -
+              ½½    B L A Z I N G . .        !    n7v\aSL
+    - ------- ½½ ----------------------------------------- -
+              ½½      , logo: Yard Mp3 nfo-file
+              ½½______½   to: Kade/YARD
+
+
+
+                            .                   .
+
+                      _  _ _:_ _             _ _:_ _  _
+                            |/// /         \ \\\|
+                            |                   |
+                            |                   |
+                            |                   |
+                            | (+) yARD mP3! (+) |
+                            |                   |
+                     _  _ __|_                 _|__ _  _
+                            |//               \\|
+                            |                   |
+                            |  r E G G A E ' S  |
+                            |                   |
+                            |    n R . o N E    |
+                            |                   |
+                            |                   |
+            ____________    |           ______  |
+      _____\\_         /  _ | _ _______\\_   /__|___
+     _)      /        /    _|______     _/         /          ________
+     \      /        /____\\_      \_   \          \ ________\\     _/___
+     /              /       /       /    \          \_            _/    (_
+    /____     _____/       /       /______\__________/            \      /
+         \____\           _       /             |   \              \    /
+ <-diP------- _ __________\_______\ -dTR--------|-- /______________/____\ ----
+                            |                   |
+                            |                   |
+                            |                   |
+                            |   p R E S E N T   |
+                            |                   |
+                            |       y O U       |
+   .                        |                   |                        .
+   .                        |                   |                        .
+- -+------------------------+- -  -       -  - -+------------------------+- -
+   :                                                                     :
+  _:_                                                                   _:_
+   |// /              Artist: Gentleman feat Terry Linen             \ \\|
+   :                   Title: Jah Jah Never Fail                         :
+   |                   Label: Four Music                                 |
+   |                   Genre: Reggae                                     |
+   |                    Year: 1999                                       |
+   |             Street Date: 00/00/1999                                 |
+   |            Release Date: 08/06/2001                                 |
+   |                                                                     |
+   |                  Ripper: Mr.Switcher                                |
+   |                 Quality: 192k 44,1                                  |
+   |                  Tracks: 4                                          |
+   |                  Length: ??:??                                      |
+   |                                                                     |
+   |                                _ _                                  |
+  _|   ____     _____ ____   ____  _\  __    ____    ___    _    ____   _|__
+ _\/__\\_  \_ _/    /_\_  \_\\_ /__\_\/_/_ _\\_  \_ /  //_ _\/_ _\_  \_\\_  \_
+_)   /  /   / \   _/   /   / _/   /  \/  (_   /   //    _/    (_  /   /  /   /
+\   /  /    \  \__\       /  \    \_ ||   /  _   /      \      /     /  /    \
+/__/___\_____\ __\ _______\ __\____/_||___\ _\___\ ______\ ____\ ____\ _\_____\
+- -|---------------------------------------------------------------------|---
+   |                                                                     |
+  _|_       i n f o r m a t i o n  a b o u t  t h e  r e l e a s e      _|_
+   |//   - -------------------------------------------------------- -  \\|
+   :                                                                     :
+   .                                                                     .
+       blahb lahblahblahblahbalh here come the release info
+
+
+   :                                                                     :
+   |       ____     ____       _____                ___   ___            |
+ __|__ _ _/   //_ _\\_ /___ __\\_   \_ _ _____.___ /  (_ /  //_____ _ ___|__
+_)      _)     _/   _/    /     /    / _/     |  _/    / \___     /        (_
+\       \      \    \     \_   _    /  \      |  \     \_   /    /          /
+/____ _ /_______\ ___\_____/___\____\ __\_____|___\_____/________\ _ _______\
+   |                                                                     |
+  _|_               r e l e a s e ' s  t r a c k l i s t                _|_
+   |//           - -------------------------------------- -            \\|
+   :   nO tRACK                                                 lENGTH   :
+   .                                                                     .
+       01 blahblahbalhbalhablahlahbabalhlahabalh                ??:??
+       ...
+
+
+   :                                                                     :
+   |                                                                     |
+   |_      ____     ____    _______  _____   ____    _        _____    __|
+ _/_//____\\_ /__ _\\_  \_ _\_    /_/    / _\\_  \_ ///____.__\__  \_ / //_____
+_) \_    / _/   /    /   /   /   / \    / _)  /   /  _/    |    /   (_\__     /
+\   /   /  \    \_      /   /   /   \__/  \  /    \  \     |   /\    /  /    /
+/_______\ __\____/______\ ______\ ____\   /__\_____\ _\____|_________\ ______\
+- -|---------------------------------------------------------------------|-- -
+  _|_         g r o u p  n e w s  a n d  i n f o r m a t i o n          _|_
+   |//     - -------------------------------------------------- -      \\|
+   |                                                                     |
+   |                                                                     |
+   |            Yard is dedicated to bringin you the freshest            |
+   |                   reggae and dancehall releases.                    |
+   |                                                                     |
+   |             ATTN:       Pre-releasers/Tuesdays Rippers              |
+   |           Owners, T3 (40GIG+) Siteops, Hardware Suppliers           |
+   |     If you are interested then contact an op in #YARD on EFnet      |
+   |       Or simply email yardmp3@hotmail.com for an application        |
+   |                                                                     |
+   |                        IRC   : #YARD [EFNET]                        |
+   |                   WWW   : http://yard.allhere.com                   |
+   |                     Email : yardmp3@hotmail.com                     |
+   |                                                                     |
+   |                        .                   .                        |
+   |                                                                     |
+   |                        :                   :                        |
+   |                        |                   |                        |
+- -+------------------------+- -  -       -  - -+------------------------+- -
+                            |                   |
+                            | (C)diPSWiTCH/dTR! |
+                            |  _             _  |
+                         - -:-//-/---------\-\\-:- -
+                            .                   .
+                                       .
+
+                                       .
+                                       .
+                                       :
+                                       :
+                                       :
+                                       :
+                                    ...:...
+                                    :.....:
+                                       :
+                                    :::::::
+                                    :     :
+                            ... ....:     :.... ...
+                            : : ::           :: : :
+                            : : ::           :: : :
+                            : : ::           :: : :
+                            :.: ::...     ...:: :.:
+                                    :     :
+                                    :     :
+                                    :::::::
+                                       :
+                                    ...:...
+                                    :.....:
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                        ...............:.......
+          ............. :                     :
+ ______   :  _______  : : ____        ____    ______     _____ ______ ave'dtr
+ \    |___:__\_     \_:_:_\_  \_______\_ /____|____/____ |    \\   _/_______
+.-\   -       /_     \_   -    \_      _/   _/     _/  _\|     \_  \_       \
+:  \___________\______/_________/___________\___ __\____\_______/___/________\
+:       : :           : .                     .
+:.......: :           : : i   n   f    o    s :
+          :...........: :                     :
+                        :.....................:
+
+          release date.................o4.o9.o1
+
+          guests...............................
+           dream theatre 1......chrombacher/e^d
+           dipswitch.................daeron/lp!
+           blazing 1.................daeron/lp!
+           welcome...................exocet/al!
+           menu......................nasone/mmc
+           blazing 2.................native/asl
+           blazing 3................avenger/dtr
+           greets.....................zaner/dtr
+           released art...............2fast/ac!
+           dream theatre 1.......lord chaos/dtr
+           blazing 4..................zaner/dtr
+           file_id....................threaz/-t
+
+          contact............dipswitch@kaoz.org
+
+          computer...................p200/a1200
+
+          music............................much
+
+          yes................................no
+
+           ______             ______     _________/_ ______
+          _/  __/   ________  /  __/ _____\      /  _/  __/
+         /   /_______|_  _ /./  /_   /  __/\_   _\  \   \
+  __ _ ./   /_     ___/ /_  \\_ _/----./_  /   /_ ___\   \
+  \_\\\\____  \\   \ |  | \  \/_\_  _/ _/----.  /.  /_\   \_ _ __
+            \_______\___| _\   /____\_ \_   _/____\________////_/zNr/dTR
+ <<---- - ---------- \ - /_________\  \     \ ---------------------- ---->>
+                                       \_____\_
+                                              \
+
+      2mad/bm . 4tune . 4play/rse . abductee . abhorrence/-t . acorn/a!
+      acryl/hjb . adam/dcs . adon/oma . amok/hjb . anti-g/1oo . apu/hlm
+       arancia/sqz . arlequin/pvm . avenger/dtr . azzaro/l124 . b/dcs
+   badpeon/ue . blackjack/mmc . boheme/se . b0s/rpg . bud/1oo . cali/nbcg
+  carnifex/dms . chavez/fth . chrombacher/e^d . cleaner/dkn . copeater/cnc
+  cp!/omen . cqbs/os . credo/scs*trc . cru/sac . crusader/hf . cyberkid/kts
+      cybergod/e^d . cyclone/hjb . cynic/hjb . daeron/lp! . dalezy/tql
+ darkus/hjb . dartagnan/-t . desert/lfc . deskline . deviate/bm . devil/1oo
+digiman/trsi . dino/ds! . d0n/pht . droid/hjb . e605/sdi . ego_uk . eidis/kt
+      epoz/omen . escuma/1oo . evan/dcs . eviljoker/ahs . evrimsson/nce
+    exile/ih . exon/fth . extasy/fth . fatal/e^d . faxe/bm . fazwonga/os
+     fenriz/sup . fierman . folar/se . galaxy/rse . geniuz/mvp . gdm/lkr
+    ghandy/fth . gilligan/dcs . gomorrha/bm . goro/dlm . groenteboer/pht
+  grouchman/vod . h0lo/yard . h7/trsi . hakon/wpz . hash/ahs . harlekin/cpl
+hawkwind/1oo . hellfire/hjb . iron_lung/glz . jazz/hjb . junk/bm . kade/yard
+  kane/atm . kayozz/mmc . keldon/hf! . kempy/dcs . kernal/fth . kritix/tdr
+     lahve/rsn . leia/sqz . legend/pdx . linus/mvp . ljb/ccc . looza/tdr
+    lord chaos/dtr . lowang/static . m-plant/hf . marodeur/fth . matt/hjb
+    mc_laser/tssc . melkor/hjb . melwyn/hjb . menace/yard . mindflower/fs
+  miracle/1oo . mool/bm . mongol/glz . mortimer/dcs . mother/bm . mute/asl
+     mystic/fth . nasone/asl . native/asl . neurodancer/1oo . ninja/pdx
+ noches/l124 . noize/kolor . nosfe/mfx . outstah/dcs . pahn/trsi . pandur/bm
+ peachy/hjb . phreak klass . phantomas/yard . pogue/imp . positive pain/cmg
+poskgubbe/kts . poti/bm . potzkoten/bm . prymer/tdr . ps/cdx . pyromaniac/p5
+   ramone/hos R.I.P. . ramses/rmd . raver/dcs . repe/se . rezine/dkn . rik
+      rkr/lfc . rotox/cpl . rza/mnc . saint/dcs . sarlac/bm . scaz/lfc
+      shallow/sdm . shaolin/dtr . shape/dcs . shiva/kolor . siegel/trsi
+  sirius/kolor . skope/up! . soing . spermwhale/dtr . spot/up! . sqlim/sea
+    steve/qsr . stratos/c! . stylez/c! . supah/bypass . surfing/rj . symb
+   taxi/fcn . tcb/bk . thallium/dcs . the hooligan/dcs . the mighty sci/ue
+ the risk/s8 . threaz/dms . thung/k0 . tommy/dcs . trivial/lp! . trooper/h!
+       virne/mfx . vodka/dcs . volatile/lp! . vouck/phd . warhawk/cnc
+ waynekerr/cpl . wise-k/ja! . wizler/s8 . woober/a! . xball/sea . xenon/park
+    xhale/dcs . xtec . xxx/hjb . z-boy . zaner/lfc . zippy/bm . zito/dkg
+                    zinko/trsi . zoltrix/trsi . zorro/dg!
+
+
+
+                                ___ ____ |____  __  _  ____  _|_   __ ___ _|_
+--- 2F ----- - - +------- - - ->\  '\__/,|\__/,(__\`--.\__/,(__/  (__\\  '\__,
+                                         |         /__|
+
+o1.  DKB_SPAW.TXT  MAY^98   SPRING AWAKENING            (C) DIE KRANKEN BOMBER
+o2.  DKB-LILA.TXT  AUG^98   LIVE IN LATVIJA             (C) DIE KRANKEN BOMBER
+o3.  1OO-REBI.TXT  OCT^98   1OO% - THE REBIRTH           (C) 1OO% ASCII DESIGN
+o4.  DKB-NADR.TXT  NOV^98   NATTY DREAD                 (C) DIE KRANKEN BOMBER
+o5.  PPH-BS.TXT    DEC^98   BLACK SUNDAY (WITH ZANER)            (C) PURE PHUN
+o6.  DKB-RTTF.TXT  JAN^99   RESPECT TO THE FULLEST      (C) DIE KRANKEN BOMBER
+o7.  A!-DIZ1.TXT   FEB^99   GET A DIZZIE VOL.1                 (C) ARCADE INC.
+o8.  A!-SSR.TXT    FEB^99   SOME SHITTY REQUESTS               (C) ARCADE INC.
+o9.  A!-JALIS.TXT  FEB^99   JUST A LIFESIGN                    (C) ARCADE INC.
+1o.  A!-DIZ2.TXT   MAR^99   GET A DIZZIE VOL.2                 (C) ARCADE INC.
+11.  A!-GERMA.TXT  MAY^99   GERMAN BOARDS                      (C) ARCADE INC.
+12.  A!-RBEIT.TXT  MAY^99   HOW TO DESIGN A COLLY              (C) ARCADE INC.
+13.  1OO-JFF!.TXT  JUN^99   JUST FOR FRIENDS             (C) 1OO% ASCII DESIGN
+14.  A!-FUCKD.TXT  JUL^99   FUCK DOUBLESPACE                   (C) ARCADE INC.
+15.  A!-STRUP.TXT  AUG^99   STRAIGHT UP                        (C) ARCADE INC.
+16.  A&BM-E99.TXT  SEP^99   LIVE AT EVOKE`99 (WITH AVE & LO!)      (C) A! & BM
+17.  A!-GVIL.TXT   OCT^99   GLOBAL VILLAGE                     (C) ARCADE INC.
+18.  1OO-MIAB.TXT  DEC^99   MESSAGE IN A BOTTLE          (C) 1OO% ASCII DESIGN
+19.  DTR-GLV2.TXT  FEB^00   GLOBAL VILLAGE 2                 (C) DREAM THEATRE
+20.  DTR-WAFM.TXT  JUN^00   WE ARE FAMILY (MEKKA^SYMP'2k)    (C) DREAM THEATRE
+21.  DTR-TITS.TXT  AUG^00   TITBITS                          (C) DREAM THEATRE
+22.  DTR-EV2K.TXT  AUG^00  LIVE AT EVOKE'2K (/W AVE/LO!/ZNR) (C) DREAM THEATRE
+23.  1OO-SKA.TXT   AUG^01   EL ULTIMO SKA (WITH D0N)     (C) 1OO% ASCII DESIGN
+24.  DTR-BLAZ.TXT  AUG^01   BLAZING                          (C) DREAM THEATRE
+- -------------------------------------------------------------------------- -
+
+
+
+
+
+
+    * Dream Theatre *          ______    ____      _____    ____     .____
+  ._____________________/\   __\_    \__/_   \  __/_    \__/_   \__/\|    \
+  |                    _ _\_/   /    /   /   /_/   /____/   /    \_  \/    \_
+  |                        \________/____\_____\______\____/|_____/__|\_____/
+  |            .______     ____    _____    ____  .______    ____      _____
+  |            |_     \___/    \__/_    \__/_   \ |_     \__/_   \  __/_    \
+  | (lo!\dtr)   /    _/  /_    /   /____/   /    \_/     /   /   /_/   /____/
+  |         _ _/_____\____/____\______\____/|_____/_____/____\_____\______\
+  |_________  /
+            \/   * Avenger - Dipswitch - Lord Chaos - Sperm Whale - Zaner *
+
+    - ----------------------------------------------------------------- -
+                  «·2k·»  t W O  t H O U S A N D  «·2k·»
+    - ----------------------------------------------------------------- -
+      DTR-INFO.TXT  JAN^00  DREAM THEATRE ANNOUNCEMENT       DTR CLIQUE
+      DTR-GLV2.TXT  FEB^00  GLOBAL VILLAGE 2 - MIGGY INVASION DIPSWITCH
+      DTR-SG!.TXT   MAR^00  STYLES GALORE                       AVENGER
+      DTR-JOY.TXT   MAY^00  JOY TO THE WORLD                    SHAOLIN
+      DTR-WAFM.TXT  JUN^00  WE ARE FAMILY - M_S'2k PARTYCOLLY DIPSWITCH
+      DTR-TITS.TXT  AUG^00  TITBITS                           DIPSWITCH
+      DTR-EV2K.TXT  AUG^00  LIVE AT EVOKE'2K               DTR ALLSTARS
+    - ----------------------------------------------------------------- -
+             «·2k1·»  t W O  t H O U S A N D  o N E  «·2k1·»
+    - ----------------------------------------------------------------- -
+      DTR-BLAZ.TXT  AUG^01  BLAZING                           DIPSWITCH
+      more to come !
+    - ----------------------------------------------------------------- -
+
+                   « oUR gREAT bULLETiN bOARD sYSTEMS »
+
+                tHE yARD  -   wHQ  -  5 nODES  -  oP: zANER
+                diAL hARD  -  cHHQ  -  x nODES  -  oP: fURY
+            bUSTiN lOOSE  -  uKHQ  -  x nODES  -  oP: tRiViAL
+
+                              wE nEED mORE !
+
+                                       .
+                                       .
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+    ______                             :       _____
+     \_   \   _____      __________------.      \  /         ______
+       \   \   \   \      \__     /\_   /      __\/__/____  _/  __/
+        \   \___\   \.  _____/   /  /  /_-------\   /    /____ /___________ _
+   ___ _.\   _ /_\   /__/__ _/  /._/  /_\  ____/   /_  _    _//_       ___///
+  /__////________\  /__\   \_____\\________\   /     \l/   /.__ \\     \   .
+            .   /___________\_                /_______\_____\  \________\_ l
+            l                \ zNr/dTR                                   \ |
+           _|                                                             _|
+       -- -\\->> ====================================[ bLAziNG ]===== <<-//- -
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+                                       :
+       "Is not really a physical fire. Is really a spiritual fire, and a
+     wordical fire, and a musical fire. But is people get it on the wrong
+     term. So when a man say "more fire" him think that mean say you fi go
+         light the cane field or go light the church. Fire is for the
+     purification of earth, anyhow you check it. This earth itself have to
+    even emerge from the literal fire also, which is the volcanic activity,
+    we a talk bout lava. The herb heal, but it's still the fire fi burn the
+      herb so the herb coulda heal we also. Everything is fire. Even human
+  being species there is no life without fire. If you no have certain amount
+    of fire body temperature wise, then you can¹t live. So there is nowhere
+    people should get confuse with the fire. Caw even when you go inna the
+    car and turn on your engine, a peer fire that. You see the meditation.
+                          Fire make everything move."
+                                       :
+                      ( Clifton G. Bailey aka Capleton )
+                                       :
+                                       :
+                                       .
+
+                                       .
+
+
+
+
+@BEGIN_FILE_ID.DIZ  _____   ____   ____  ________  ___
+._\__  \__\_  \__\_  \_\__ /_  \/   \------+
+|   /   \ _/ _/_  /  /_  _  /  \/   /dREAM |
+|  /    / \    / /__/ /  / /   /   /tHEATRE|
+|______/__/____\_____/_____\___\___\-------+
+:                                          |
+| DIPSWITCH       PRESENTS       "BLAZING" |
+| THE          LONG-AWAITED            ONE |
+|.___.__.     ____  ________.  ____   ____ |
+_|   |_ |_____\_  \_\__ /_  |__\_  \__\_  \|
+\_   _/ _   /  /  /_  _  /  _/ _/ _/_  /  /_
+||tR!|  /  /  /__/ /  / /   |  \    / /__/ /
++|___|_/___\______/_____\___|__/____\_____/+@END_FILE_ID.DIZ
+
+                                              ¡    fOR pLEASURE sINCE 1996
+>> ¡ -------------------------------------- - |. - ----------------------- -
+  .|  w  o  r  l  d    h e a d q u a t e r s  ||
+  ||      aEROHOLICS/mO' pLAYAZ/dTR/aSL       !| _
+  |!     bAD kARMA/aGEEMA bLUES/uP rOUGH       | ;
+  |      dIVINE sTYLERS/pHANTASY/tEQUILA       |   _
+  |                                            |   ;
+  7   g e r m a n  &  e u r o p e a n  h q's   |
+  :    lIGHTfORCE/lOW pROFILE/sICK oF iT aLL   |
+  ¡         rOYAL/dRUNKEN/pUNGAS/100%          |
+_ |                                            | "...dON't pLAY uS cHEAP!"
+; |   aMIGA/aSCII/gRAFFITI/dRUGS/n64/gAMEBOY   !
+  |   gAMEBOY aDVANCE/wSC/nGPOCKET/sNES/cGB+    ___.     ______.    drn\lp!
+  |   pSX/pS2/dC/e-bEATS & hIPhOP/cHIP tUNES   \\  !___  \     !__ _ _ ________
+  |   =c64/aTARI8/mODULES/dANCEhALL/dAYDREAM   \\  .__/--\\   ._   \ / ._     /
+  |                                            _\  ;/     \   !/    \  !/____/_
+  |   rUNNING oN a pRIVATE sYSTEM w\ 8 nODES   /___/     _____/     __ /    __\
+ _!   aVAILABLE oN 24/7 sTATIC tELNET @ ADSL       `----'     `----'  `----' 
+\\;     . ______   ___ _ _ _________   _______                            ¡
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   y A R d _______,|
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\ ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\ !
+     ,_____\     `----'  `----\      `----'

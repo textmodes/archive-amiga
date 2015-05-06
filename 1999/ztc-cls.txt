@@ -1,0 +1,1858 @@
+
+
+                             ·this file passed·
+                        _ _____        ___   ______
+                               )_  __ _| (___) _  )_
+                              __/__) (_    |   |___/
+                       _ ___  |   |___|    |__
+                         c!|______|MSS|____| |______ _
+                     ____       ____      _____      ____
+                  ___\  (_   ___\  (_   __\_  (_   __\  (_
+                 _) _/   /___)  _   /___) _/   /___)   _ /__
+                /   \      /    \_    /   \      /     /   /
+                \___       \_____/    \____\     \___  \   \
+                  \ ________\   /______\    \ ____\ \_______\
+                   \/      <(·tHE YARd·)>    \/ lOCATED iN gERMANY!
+ [·aMiGA·cONSOLES·gRAFFiTi·aSCii·liNUX·hiPhOP/mP3·cLASSiC gAMES·dRUGS·tUNES·]
+         [· rUNNiNG oN 8 niCE nODES · 2*iSDN/2*aNALOGUE/4*tELNET ·]
+      [· nON-24h tELNET wiTH sTATiC iP: theyard.ddns.org - pORT: 23 ·]
+           [· sTAFF < zANEr · diPSWiTCH · hAsH · cRAZY > sTAFF ·]
+     [· aHS wHQ · bGiRL wHQ · aRCADE wHQ · dKB wHQ · wX wHQ · sRZ wHQ ·]
+     [· lP! gHQ · pNK gHQ · sOiA gHQ · oMEN gHQ · mCE gHQ · 1oo% diST ·]
+                       [· hOME oF tHE aSCii cHARTS! ·]
+
+
+@BEGIN_FILE_ID.DIZ
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts. 3rd colly cItYlIgHts.
+cItYlIgHts.  by zito  cItYlIgHts.
+cItYlIgHts.   under   cItYlIgHts.
+cItYlIgHts.   zetec   cItYlIgHts.
+cItYlIgHts.cItYlIgHts.[01-03-99].
+@END_FILE_ID.DIZ
+
+
+
+
+-=[ start of file ]=-.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItY
+lIgHts            __________ _________ ___________ ____ ______
+cItY             /         /          )          /     /     /[zZ]
+lIgHts .--------/                                           /---------»
+cItY   :        \_________\|__________|\________//_________\
+lIgHts :        «------------------- city -------------------»
+cItY   :
+lIgHts :     _________ ________øøø _____ _____ ___________ _________
+cItY   :    /        /(       øøø       |     \          /         /
+lights ·---/                 øøø øøø                               \---»
+cItY       \__________/_______øøø øøø___|_____/\________/__________/
+lIgHts     «------------------ øøøøø ----------- lights -----------»
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.           cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.           cItYlIgHts.                      cItYlIgHts.
+cItYlIgHts.           cItYlIgHts.  presented by zetec  cItYlIgHts.
+cItYlIgHts.           cItYlIgHts.                      cItYlIgHts.
+cItYlIgHts.           cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.          .cItY   the 3rd collection   lIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItY
+lIgHts        someone was walking through the streets
+cItY        far away the city lights
+lIgHts        was it a man?
+cItY        was it an old man?
+lIgHts        he had no knife
+cItY        no gun, no arm
+lIgHts        just his hands
+cItY        but these were no hands...
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItY
+lIgHts        he didn`t walk
+cItY        he crawled
+lIgHts        it crawled
+cItY        strange noises filled the air
+lIgHts        the darkness hid
+cItY        the body of the unknown
+lIgHts        living shades in grey
+cItY        the creature was among us...
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItY
+lIgHts      _________ _____ ______ _________ _________ __________
+cIty       (         )     \     /         /          \          \[zZ]
+lIgHts .---|                                                     /---.
+cItY   :   |_________|_____\_____\________/__________\__________/    :
+lIgHts :   «----------------------- intro -----------------------»   :
+cItY   :                                                             :
+lIgHts :              ( a u t o b a h n a b f a h r t )              :
+cItY   :                                                             :
+lIgHts :                                                             :
+cItY   :                                             hello and wellcome!
+lIgHts :                                                             :
+cItY   :          as always i will bore you a bit with indroducing words
+lIgHts :                                                       at first.
+cItY   :          you see i am very active at the moment that i produced
+lIgHts :                     already the third colly in only two months.
+cItY   :           okay, the first collections was put together in about
+lIgHts :              four months or so, but that time i swapped as hard
+cItY   :                 as never before, and the fourth one is still in
+lIgHts :                                                     progress!!!
+cItY   :             this is because i wanna use the rest time i have in
+lIgHts :                 february as a man out of work until i start the
+cItY   :                     community service in march in the emercency
+lIgHts :                                       room of a local hospital.
+cItY   :                                                             :
+lIgHts :         but as you maybe noticed is this the first colly with a
+cItY   :       special des!gn which was absent in both appeared further.
+lIgHts :                 i think this one has a good outlook, not only a
+cItY   :                         compilation of logos I made, don`t you?
+lIgHts :           also a bit experimental, inspired by a friend of mine
+cItY   :                            you surely know: blaze/sative mea...
+lIgHts :                                                             :
+cItY   :                          and that made a topic come to my mind:
+lIgHts :                                             the new azkee crew!
+cItY   :                                                             :
+lIgHts :             in december in the last letter i got from blaze, he
+cItY   :          told me about his idea to found a new group for azkeez
+lIgHts :                               only after azzaro closed link124.
+cItY   :              i wanted to take this chance and asked him to join
+lIgHts :               and he pretends to make things clear with azzaro.
+cItY   :          after he didn`t answer me as fast as before I tried to
+lIgHts :            write him an e-mail, but when this failed because of
+cItY   :          his server, i wrote azzaro one and he answered that he
+lIgHts :         would send me a snail mail if the group has been found.
+cItY   :            until today nothing has happened: neighter blaze nor
+lIgHts :                                     azzaro answered in any way.
+cItY   :         blaze` e-mail still doesn`t work and i already send him
+lIgHts :            another letter to ask what`s up because of his delay
+cItY   :          and after i will have written another e-mail to azzaro
+lIgHts :            next time i will give up joining this group although
+cItY   :             i could read my name as member with `?` and several
+lIgHts :           times in the polish text of a current colly by azzaro
+cItY   :        and i will release my future collections under the zetec
+lIgHts :                                                  label again...
+cItY   :                                                             :
+lIgHts :                                           zito/zetec on 19.2.98
+cItY   :                                                             :
+lIgHts :              p.s. maybe this text sounds too bad and aggressiv,
+cItY   :          therefore i want to add that i am not angry with blaze
+lIgHts :            because he was a fast contact and i would understood
+cItY   :              if he had much to do for speed and his azkee crew!
+lIgHts :                 i was just a bit sad about the current state...
+cItY   :                                                             :
+lIgHts :                                                             :
+cIt __________ ____ ____  __________ ________ ________ _________ ____:_____
+lI /          \    |    \/         /        /         )         \    \    /
+c /     /                                                                 \
+l \__________/___________/________\________/__________|________/_____\_____\
+c «-------------------------------- duction -------------------------------»
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.           cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.           cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.           cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItY
+lIgHts        the street lights faded
+cItY        its legs appeared
+lIgHts        with feet like claws
+cItY        as long as trees are high
+lIgHts        as fat as trees are wide
+cItY        four ones in order
+lIgHts        and bright yellow eyes
+cItY        looked upon me...
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItY
+lIgHts        i was not scared
+cItY        i just couldn`t move
+lIgHts        `away!` my brain shouted
+cItY        my legs didn`t listen to
+lIgHts        my eyes stared
+cItY        my ears could hear
+lIgHts        noises like driveling
+cItY        i couldn`t believe it staying here...
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.         ______ ______ __________ _____ ______ ___ ____
+cItYlIgHts.        /      \      \     _    |     \     /    |    \
+cItYlIgHts. .-----/                                                \-----.
+cItYlIgHts. :     \_______\_______/________|/_____\_____\__________/[zZ] :
+cItYlIgHts. :     «--------------------- menu ---------------------»     :
+cItYlIgHts. :                                                            :
+cItYlIgHts. :                ( s c h e i n w e r f e r )                 :
+cItYlIgHts. :                                                            :
+cItYlIgHts. :                                                            :
+cItYlIgHts. :    °1    honoo           gift for black dragon    #102     :
+cItYlIgHts. :    °2    apathy                       punisher    #103     :
+cItYlIgHts. :    °3    dreams                       punisher    #104     :
+cItYlIgHts. :    °4    mantra                       punisher    #105     :
+cItYlIgHts. :    °5    mantra          angeldust/mta^rno^ztc    #105b    :
+cItYlIgHts. :    °6    norsktoppen (ad)             punisher    #106     :
+cItYlIgHts. :    °7    darkage                      punisher    #107     :
+cItYlIgHts. :    °8    darkage                      punisher    #110     :
+cItYlIgHts. :    °9    point                        punisher    #108     :
+cItYlIgHts. :    ¹0    absurd                       punisher    #109     :
+cItYlIgHts. :    ¹1    iris                gift for darkhawk    #111     :
+cItYlIgHts. :    ¹2    punisher                     punisher    #112b    :
+cItYlIgHts. :    ¹3    void                         214/void    #113     :
+cItYlIgHts. :    ¹4    214/void (ad)                214/void    #114     :
+cItYlIgHts. :    ¹5    angeldust       angeldust/mta^rno^ztc    #115     :
+cItYlIgHts. :    ¹6    mega-news                     privacy    #116     :
+cItYlIgHts. :    ¹7    tiger           gift for tiger/strobe    #117     :
+cItYlIgHts. :    ¹8    roi trépas                 king/death    #119     :
+cItYlIgHts. :    ¹9    r.n.o.          angeldust/mta^rno^ztc    #120     :
+cItYlIgHts. :    ²0    implant                      punisher    #124     :
+cItYlIgHts. :    ²1    total chaos                  punisher    #126     :
+cItYlIgHts. :    ²2    starbyte                     punisher    #128     :
+cItYlIgHts. :    ²3    zetec (diz)                   privacy    #129     :
+cItYlIgHts. :    ²4    intro                         privacy    #131     :
+cItYlIgHts. :    ²5    depth (diz)        gift for curt cool    #132     :
+cItYlIgHts. :    ²6    zetec (ad)                    privacy    #133     :
+cItYlIgHts. :    ²7    rave network overscan logo   punisher    #141     :
+cItYlIgHts. :    ²8    rave network overscan ad     punisher    #142     :
+cItYlIgHts. :    ²9    aztec        gift for aztec/absurd^s7    #143     :
+cItYlIgHts. :    ³0    bloo jobs                   phun/joke    #145     :
+cItYlIgHts. :                                                            :
+cItYlIgHts. ·--- no. ------ lOgO ------------ requester ------ id no. ---·
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItY
+lIgHts        standing in the dark
+cItY        face to face
+lIgHts        with a creature unbelieved
+cItY        with trembling wet hands
+lIgHts        silence around me
+cItY        no help next to me
+lIgHts        even if anyone could
+cItY        the creature opened its mouth...
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.                                                                                        hey, curt cool! this is for you!!!
+cItYlIgHts.
+cItY                                                                                                           __________ __________ ____ _____
+lIgHts        frozen for a second                                                                             /          \          \    |     \[zZ]
+cItY        terrified by its large tooth                                                                 .---/      /                           \---. 
+lIgHts        i stood watching                                                                           :   \__________/__________|_____|______/   : 
+cItY        the slaver falling to earth                                                                  :   «-------------- depth -------------»   : 
+lIgHts        the creature lifted its hands                                                              :                                          : 
+cItY        life came back to me                                                                         : brings you today: `????????????????????` : 
+lIgHts        blood flew through my vains                                                                :                                          : 
+cItY        suddenly i started to run...                                                                 ··[ ??.??.???? ]···················[ ?/? ]·· 
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.                                        a little fixed version in the hidden part!
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.                                          watch out! there`s maybe another one...
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItY         ______ ______  _________  _________ _____ _____
+lIgHts      /      \      \/         \(         )\    \    /[zZ]
+cItY   .---/                                               \-----»
+lIgHts :   \_______\_______/____|_____/_________|_____\_____\
+cItY   :   «--------------------- main ---------------------»
+lIgHts :                      __________ _________ __________ __________
+cItY   :                     /          \         \          \        _/
+lIgHts ·---------------------\                                        \----»
+cItY                          \________|_____|_____/________\\________/
+lIgHts                       «----------------- part ------------------»
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.               ( a t t r a k t i o n e n )
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   °1   `honoo`         gift for black dragon   #102   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY      _______ ________ _________ _____ _____ _________ __________
+lIgHts    \      \       /          \\    \    /          \          \
+cItY      /                                                          /
+lIgHts    \______\_______/_________/ \____\____/_________/__________/[zZ]
+cItY      «-------------------------- honoo -------------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   °2  `apathy`                       punisher  #103   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY _________ _________  _________ ___________ ______ ______ _____ ______
+lIg /         \         \/         \\          /      \      \     /     /
+cI /                                                                    /
+lI \_____|_____/_______|\_____|_____//________\\______\______//________\[zZ]
+cI «------------------------------ apathy -------------------------------»
+lIg
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   °3  `dreams`                       punisher  #104   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY __________ _________ __________  _________ ______ ______  __________
+lIg /          \         \         _|/         \      \      \/        _/
+cI /     /                         _                                   \
+lI \__________/_________\|__________|_____|_____/_____\_______/________/[zZ]
+cI «------------------------------ dreams ------------------------------»
+lIg
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   °4  `mantra`                       punisher  #105   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cIt ______ ______  _________ ______ __________________________  _________
+lI /      \      \/         \\     \     /          /         \/         \
+c /                                                                       \
+l \_______\_______/____|_____/_____\_____//________\/_________\_____|_____/
+c «-------------------------------- mantra --------------------------» [zZ]
+lI
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   °5  `mantra`                     angeldust  #105b   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cIt ______ ______  _________ ______ ______ __________ _________  _________
+lI /      \      \/         \\     \     /          /          \/         \
+c /                                                                        \
+l \_______\_______/____|_____/_____\_____/\________/__________\\_____|_____/
+c «-------------------------------- mantra ---------------------------» [zZ]
+lI
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   °6  `norkstoppen` (ad)             punisher  #106   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+c ______ ______ _________ _________  ______________  _____
+l \     \     /          \         \/         /    |/    /[zZ]
+c /                                                      \--------------.
+l \_____\_____/_________/_________\/_________/_____|_____/              :
+c «----------------------- norsk -----------------------»               :
+lIgH :                                                                  :
+cItY :         instinct presents you today:        issue #?             :
+lIgH :                                                                  :
+cItY :    _____________________ _________ _________ __________ ______ ______
+lIgHt:    \_         /         \         \         \         _|\     \     /
+cItY ·-----/                                                 _             \
+lIgHts [zZ]\________\_________/_________|_________||__________|\_____\_____/
+cItY      «----------------------------- toppen ---------------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   °7  `darkage`                      punisher  #107   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cIt __________ _________ ________ _____  _____ _________ ________ _________
+lI /          \         \        \     |/    /          \    _   \      ___|
+c /     /                                                               _|_
+l \__________/_____|_____/__|___\______|_____/_____|_____/       /_________|
+c «----------------------- darkage ----------------------\______/[zZ]------»
+lI
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   °8  `darkage`                      punisher  #110   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY  __________ _________ _________ _____  _____ _________øøøø_______
+lIgH /          \         \         \     |/    /         øøø     _   |
+cIt /     /                                              øøø øøø   ___|
+lIg \__________/_____|_____/_______\______|_____/_____|__ øøø øøø____|[zZ]
+cIt «-------------------------- darkage ------------------ øøøøø -----»
+lIgH
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   °9  `point`                        punisher  #108   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY        _________ _________ ________ ______ _________________
+lIgHts     /    _    \         \        )\     \     \         _/[zZ]
+cItY      /                                                    \
+lIgHts    \_________|_________/|________|\_____\_____//________/
+cItY      «----------------------- point -----------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹0  `absurd`                       punisher  #109   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY     _________ _________  ______________ ____ _________ _________
+lIgHts  /         \    _    \/         /    |    \         \         \
+cItY   /                _                                       /    /
+lIgHts \_____|_____/________/_________/___________/_______\_________/[zZ]
+cItY   «-------------------------- absurd ---------------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹1  `iris`                gift for darkhawk  #111   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY                    ________ _________ ________ __________
+lIgHts                 (        )         \        )        _/
+cItY                   |                                    \
+lIgHts                 |________|________\_________|________/[zZ]
+cItY                   «--------------- iris ----------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹2  `punisher`                     punisher  #112b  cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cIt ________ ___ ___ _____ _____ _____ _________ ____ _____ _______ ________
+lI /   _    \   |   \\    \    /      )        /     \     \   _   |     __/
+c /                                                             ___      \                  little fixed version for my nearly best friend in scene...
+l \________|_________/____\____/______|________/_____\_____/______|_______\
+c «------------------------------- punisher --------------------------» [zZ]
+lI
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹3  `void`                              214  #113   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY            _____ _____ __________ _________ __________
+lIgHts         /     |     \          \         )          \[zZ]
+cItY           \                                      /    /
+lIgHts          \_________/__________/__________|_________/
+cItY           «------------------ void -------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹4  `214/void` (ad)                     214  #114   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY                __________ __________ __________
+lIgHts              \         \          /          |_
+cItY           .----/                                /----.
+lIgHts         :    \__________\_________|__________|     :
+cItY           :    «-------------- 214 -------------»    :
+lIgHts         :                                          :
+cItY           :                214 / void                :
+lIgHts         :           address dates line 1           :
+cItY           :           address dates line 2           :
+lIgHts         :           address dates line 3           :
+cItY           :           address dates line 4           :
+lIgHts         :           address dates line 5           :
+cItY           :                                          :
+lIgHts         :      » void - the friendship crew «      :
+cItY           :_____ _____ __________ ________ __________:
+lIgHts         /     |     \          \        )          \
+cItY           \                                     /    /
+lIgHts          \_________/__________/_________|_________/[zZ]
+cIty           «------------------ void ------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹5  `angeldust` (ad)              angeldust  #115   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cIt _________ ______ _____ øøøø_________ ________
+lI /         \\     \     øøø      _    |       /___[zZ]
+c /                      øøø øøø                   / ------------------.
+l \_____|_____/_____\_____øøø øøø______|__________/                    :
+c «--------- angel ------- øøøøø ------------------»                   :
+lIgH :                                                                 :
+cItY :         for funny & friendly zip swap - try to contact:         :
+lIgH :                                                                 :
+cItY :         angeldust of mantra & r.n.o. - c/o markus nimtz         :
+lIgH :          noellestrasse 22 - 29646 bispingen - germany!          :
+cItY :                                                                 :
+lIgH :                           __________ ____ ____ ___________ __________
+cItY :                          /          \    |    \          /         _/
+lIgH ·------------------------ /     /                                    \
+cItY                       [zZ]\__________/___________/________/__________/
+lIgHts                         «------------------- dust ------------------»
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItY
+lIgHts        i ran and ran and ran
+cItY        searching for a place to hide
+lIgHts        every step its breath in my back
+cItY        praying for the next
+lIgHts        setting feet before feet
+cItY        always on the edge to give up
+lIgHts        just to pause for a minute
+cItY        but can`t stop, mustn`t...
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItY
+lIgHts        fear can make one doing
+cItY        things one never thought to do
+lIgHts        things out of range
+cItY        one grows with fear
+lIgHts        adrenalin is the ultimate trip
+cItY        makes you laugh about death
+lIgHts        i thought i could run around earth
+cItY        but i decided not to continue...
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹6  `mega-news` (ad)                privacy  #116   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cIt ______ ______ __________øøøøø________
+lI /      \      \     _   øøø /         \[zZ]
+c /                       øøø  øøø        \--------------------------.
+l \_______\_______/________øøø  øøø_|_____/                          :
+c «--------- mega --------- øøøøøø -------»     rELeAsE 19990129b    :
+lIgH :                                                               :
+cItY :                   zEtEc bRIn9S y0U t0dAy...                   :
+lIgH :                                                               :
+cItY :    mAdE bY zIto!    ______ ______ _________ _______ _______ _________
+lIgH :                     \     \     /     _    |       \       \       _/
+cItY ·---------------------/                                              \
+lIgHts                 [zZ]\_____\_____\_________|\_______\______/________/
+cItY                       «--------------------- news --------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹7  `tiger`                  gift for tiger  #117   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY          ____________ ________  øøøø________ _________
+lIgHts        \_         /         )øøø     _    |      __/[zZ]
+cItY           /                   øøø øøø              \
+lIgHts         \________/__________|øøø øøø_____|________\
+cItY          «------- tiger ------- øøøøø ---------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹8  `roi trépas`                       king  #119   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY                  ___________ __________ _________
+lIgHts               /           \          \         )
+c .------------------\                                |------------------.
+l :                   \_________\__________/__________|                  :
+c : [%] king death    «------------- roi -------------»    könig tod [%] :
+l :                                                                      :
+c :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla :
+l : bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla  :
+c :  bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla :
+l :                                                                      :
+c :  ____________ _________ ____/_____ __________ _________ ___________  :
+l :  \_         /          \          |          \         \          /  :
+c ·-- /                                                               \--·
+lIgHt \________/__________\__________|__________|_____|_____/_________/[zZ]
+cItY «---------------------------- trépas ----------------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ¹9  `r.n.o.`                      angeldust  #120   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY               ___________ ______ _______ __________
+lIgHts            /           \      \      /           \[zZ]
+cItY              \                                     /
+lIgHts             \_________\/______\______\__________/
+cItY              «-------------- r.n.o. ---------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²0  `implant`                      punisher  #124   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+c ______  ______ ______ _________ _________ _________ ______ ______ ________
+ (      )/      \      \         \        //         \\     \     /       _/
+ |                                                                        \
+ | [zZ] |_______\_______/_______|_________/_____|_____/_____\_____\_______/
+ |______| «--------------------------- implant ---------------------------»
+l
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²1  `total chaos`                  punisher  #126   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY       ____________ _________ __________ _________ _________
+lIgHts     \_         /          \         //         \        /___
+cItY    .---/                                                     /---.
+lIgHts  :   \________/__________/\________/\_____|_____/_________/    :
+cItY    :  «------------------------ total -----------------------»   :
+lIgHts  :     ______________ _____  _________ __________ __________   :
+cItY    :    /         /    |     \/         \          \         /   :
+lIgHts  ·---/                                                     \---·
+cItY        \_________\_____|_____/_____|_____/________/__________/[zZ]
+lIgHts      «----------------------- chaos -----------------------»
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²2  `start byte`                   punisher  #128   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY              __________ __________ _________ ___________
+lIgHts           /         /          //         \         _/[zZ]
+cItY         .---\                                         \---.
+lIgHts       :   /_________/\________/\_____|_____/_________\  :
+cItY         :   «------------------ star ------------------»  :
+lIgHts       :     _________ _____ _____ _________ ________    :
+cItY         :    /    _    \     |    /         /     _   |   :
+lIgHts       ·---/      _                               ___|---·
+cItY             \__________//________\\________/_________|
+lIgHts           «----------------- byte ------------------»
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²3  `zetec` (diz)                   privacy  #129   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY                   __________ ___________________
+lIgHts                 \         \         /        /
+cItY               .---/                            \---.
+lIgHts             :   \_________\________/__________\  :
+cItY               :   «----------- zetec -----------»  :
+lIgHts             :                                    :
+cItY               :            `?????????????????????` :
+lIgHts             : ??.??.????                         :
+cItY               ·----------------------------[ ?/? ]-·
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²4  `intro`                         privacy  #131   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY         _______
+lIgHts      (       )_____ ______ _________ _________ __________
+cItY        |       |     \     /         /          \          \[zZ]
+lIgHts      |                                                   /
+cItY        |       |_____\_____\________/__________\__________/
+lIgHts      |_______|«----------------- intro ------------------»
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²5  `depth` (diz)        gift for curt cool  #132   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY                   __________ __________ ____ ______
+lIgHts                /          \          \    |      \[zZ]
+cItY             .---/     /                            /---.
+lIgHts           :   \__________/__________|_____|_____/    :
+cItY             :   «-------------- depth -------------»   :
+lIgHts           :                                          :
+cItY             : brings you today: `????????????????????` :
+lIgHts           :                                          :
+cItY             ··[ ??.??.???? ]···················[ ?/? ]··
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²6  `zetec` (ad)                    privacy  #133   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY         __________ _________ __________ ________ __________
+lIgHts       \         \    _    |         /    _    |         /[zZ]
+cItY     .---/                                                /-----.
+lIgHts   :   \_________/________|\________/_________|_________\     :
+cItY     :   «--------------------- zetec ---------------------»    :
+lIgHts   :                                                          :
+cItY     : contact two of the fastest swappers in scene these days! :
+lIgHts   : for friendship, long letters and traditional mailtrading :
+cItY     :                                                          :
+lIgHts   :  angeldust/mantra^r.n.o.^zetec           zito/zetec      :
+cItY     :        c/o  markus nimtz              postfach  100522   :
+lIgHts   :         noellestraße 22                04005 leipzig     :
+cItY     :         29646 bispingen                   germany        :
+lIgHts   :            germany                                       :
+cItY     :                                                          :
+lIgHts   : + also for zip swap + 100% reply! + for joining and hd + :
+cItY     :                                                          :
+lIgHts   ·------------------ you won`t regret it! ------------------·
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²7  `rave network overscan logo`   punisher  #141   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY           __________  _________  _____ _____ _________
+lIgH          /          \/         \/     |     \    _    |[zZ]
+cI .----------\                                         ___|----------.
+lI :           \________\\_____|_____/__________/_________|           :
+cI :           «------------------- rave -------------------»         :
+lI :                                                                  :
+c _____ _____ _________ __________ ____ _____ _________ _________ ____:_____
+l \    \    /     _    |         /     \     \         \         \    |    /
+c /                                                                        \
+ /_____\_____\________|\________/___________/_________/_________\_____|____/
+ «-------------------------------- network ---------------------------» [zZ]
+l  :                                                                  :
+cI :            __________ _____ _____ _________ _________            :
+lI :       [zZ]/          \     |     \    _    |       __\   ___     :
+cI :          /                                         \    /___/    :
+lI :          \__________/\__________/_________|_________\            :
+cI :          «------------------ scan -------------------»           :
+lI :                                                                  :
+cI :            __________ __________ ________ _____ _____            :
+lI :           /         /          /         \     \    /            :
+cI ·-----------\                                         \------------·
+lIg            /_________/_________\_____|_____/____\_____\[zZ]
+cItY           «------------------ scan ------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²8  `rave network overscan ad`     punisher  #142   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts         __________  _________  _____ _____ _________
+cItY          /          \/         \/     |     \    _    |[zZ]
+lI .----------\                                         ___|----------.
+cI :           \________\\_____|_____/__________/_________|           :
+lI :           «------------------- rave -------------------»         :
+cI :                                                                  :
+l _____ _____ _________ __________ ____ _____ _________ _________ ____:_____
+c \    \    /     _    |         /     \     \         \         \    |    /
+l /                                                                        \
+ /_____\_____\________|\________/___________/_________/_________\_____|____/
+ «-------------------------------- network ---------------------------» [zZ]
+c  :                                                                  :
+lI :                                                                  :
+cI :   text text text text text text text text text text text text    :
+lI :  text text text text text text text text text text text text     :
+cI :   text text text text text text text text text text text text    :
+lI :  text text text text text text text text text text text text     :
+cI :   text text text text text text text text text text text text    :
+lI :                                                                  :
+cI :     :      __________ _____ _____ _________ _________            :
+lI :     :     /          \     |     \    _    |       __\   ___     :
+cI ·-----:----/                                         \----/___/----·
+lIg      :    \__________/\__________/_________|_________\     :
+cItY     :    «------------------ scan -------------------»    :
+lIgHts   :      __________ __________ ________ _____ _____     :
+cItY     :     /         /          /         \     \    /     :
+lIgHts   ·-----\                                         \-----·
+cItY           /_________/_________\_____|_____/____\_____\
+lIgHts         «------------------ scan ------------------»
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ²9  `aztec`                  gift for aztec  #143   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY         _________ __________ ___________ ________ __________
+lIgHts      /         \\         \          /    _    |         /
+cItY       /                                                   /
+lIgHts     \_____|_____/_________/\________/_________|_________\[zZ]
+cItY       «----------------------- aztec ----------------------»
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.   ³0  `bloo jobs`                        phun  #145   cItYlIgHts
+cItYlIgHts.                                                       cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts
+cItYlIgHts.
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItY            __________ ___________ __________ __________
+lIgHts         /    _     \          /           \          \[zZ]
+cItY      .---/      _                                      /---.
+lIgHts    :   \___________/__________/__________/__________/    :
+cItY      :   «-------------------- bloo -------------------»   :
+lIgHts    :      _________ __________ __________ ___________    :
+cItY      :   ___\        \          \    _     \          /    :
+lIgHts    ·---\                            _               \----·
+cItY           \__________/_________/___________/__________/[zZ]
+lIgHts        «------------------- jobs -------------------»
+cItY
+lIgHts
+cItY
+lIgHts
+cItY
+lIgHts
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.                                                                                        [30m oh, look! it`s a cloak...[0m
+cItY                                                                                               [30m      __________ __________ _________[0m
+lIgHts        legs like pudding                                                                    [30m      \         \         /         /[zZ][0m
+cItY        but happy about not running anymore                                                    [30m.-----/                            /-----.[0m
+lIgHts        breathing as fast as a train                                                         [30m:     \_________\________/_________\     :[0m
+cItY        i saw the lights of the city                                                           [30m:     «----------- zetec -----------»    :[0m
+lIgHts        through my tears                                                                     [30m:                                        :[0m
+cItY        they seem not that far at this moment                                                  [30m: brings you today: `??????????????????` :[0m
+lIgHts        `damned` I said                                                                      [30m:                                        :[0m
+cItY        then i turned around...                                                                [30m·---[ ??.??.???? ]-------------[ ?/? ]---·[0m
+lIgHts
+cItYlIgHts.                                                                                        [30m you didn`t thought that there is a 2nd...[0m
+cItYlIgHts.cItYlIgHts.                                                                             [30m also a small fix. just for fun...[0m
+cItYlIgHts.
+cItY
+lIgHts        the creature started to laugh
+cItY        thought I would have laughed too
+lIgHts        i said goodbye to all the loves I had
+cItY        and my life, a chattered existence
+lIgHts        before it set on and jumped upon me
+cItY        and the city lights
+lIgHts        far away from me
+cItY        began to disappear...
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cIt __________ _________ _________ _________ _________ __________ _________
+lI /         /          \    _    |         \         )         /         /
+c /                                                                       \
+l \_________\__________\_________|_________/__________|\_______/__________/
+c «------------------------------- credits ---------------------------» [zZ]
+lIgHts    :                                                       :
+cItY      :              ( a r c h i t e k t u r )                :
+lIgHts    :                                                       :
+cItY      :                     city lights logo by zito/zetec (#134)
+lIgHts    :                     introduction box by zito/zetec (#135)
+cItY      :                            menu logo by zito/zetec (#136)
+lIgHts    :                       main part logo by zito/zetec (#137)
+cItY      :                         credits logo by zito/zetec (#130)
+lIgHts    :                           music logo by zito/zetec (#138)
+cItY      :                          hellos logo by zito/zetec (#140)
+lIgHts    :                         the end logo by zito/zetec (#139)
+cItY      :                                                       :
+lIgHts    :            the story is © 1999 copyrighted by marc oberst
+cItY      :                  language help by ed/zetec^red tiger inc.
+lIgHts    :                                                       :
+cItY      ·---------- again every sign set by myself... ----------·
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItY           .-------- my ascii productions so far... --------.
+lIgHts         :                                                :
+cItY    filename    size / +bonus   collection name    label   release
+lIgH           :                                                :
+cIt   ...ztc-toc....91500 / 98638....`touch of god`....zetec....7.1.99...
+lIg   ...ztc-pl1....66095 / 67477....`pipi-logi #1`....zetec...12.2.99...
+cIt   ...ztc-cls....77777 / 96780....`city lights`.....zetec....1.3.99...
+lIgH           :                                                :
+cItY           :                                                :
+lIgHts         :                             ...to be continued :
+cItYlIgHts.    :                                                :
+cItYlIgHts.    ·------------------------------------------------·
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.   ______ ______ ____ ____ __________ _________ ___________
+cItYlIgHts.  /      \      \    |    \         /          )          /[zZ]
+cItYlIgHts. /                                                       /
+cItYlIgHts. \_______\_______/_________/________/__________|_________\
+cItYlIgHts. «------------------------- music ------------------------»
+cItYlIgHts.      :                                              :
+cItYlIgHts.      :    ( 4   s t a d t m u s i k a n t e n )     :
+cItYlIgHts.      :                                              :
+cItYlIgHts.      :                                              :
+cItYlIgHts.      :            `the four seasons` by antonio vivaldi
+cItYlIgHts.      :        `breakfast at tiffany`s` by henry mancini
+cItYlIgHts.      :                       `blade runner` by vangelis
+cItYlIgHts.      :              `aimée und jaguar` by a.p.kaczmarek
+cItYlIgHts.      :                       `hand on the torch` by us3
+cItYlIgHts.      :     `not without my daughter` by jerry goldsmith
+cItYlIgHts.      :                                           and...
+cItYlIgHts.      :         curt cool, jogeir liljedahl, clawz/bomb,
+cItYlIgHts.      :          jerry/rebels, pink/abyss, heatbeat/cncd
+cItYlIgHts.      : and some others who composed cool thx..ehm..ahx!
+cItYlIgHts.      :                                              :
+cItYlIgHts.      ·----------------------------------------------·
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItY  _____ _____ __________ __________ __________ __________ __________
+lIgH /     |     \     _    |         //         //          \         /[zZ]
+cIt /                                                                  \
+lIg \______|______/________|__________/__________/__________/__________/
+cIt «----------------------------- hellos -----------------------------»
+lIgHts :                                                            :
+cItY   :           ( g r ü ß e   a u s   l e i p z i g )            :
+lIgHts :                                                            :
+cItY   :                                                            :
+lIgHts : angeldust (the fastest`n`funniest i know in swapping business)
+cItY   :             punisher (the friendliest - greetings to kristel!)
+lIgHts :                                   samael (crazy god or coder?)
+cItY   :                              curt cool (it is going deeper...)
+lIgHts :                                       darkhawk (booze or die!)
+cItY   :                           black dragon (óu est mon résponse??)
+lIgHts :                                        214 (the reborn voider)
+cItY   :                             aztec (sf-freak and coming friend)
+lIgHts :                                 sante (the new one in my list)
+cItY   :                                     ghandy (nice mailing, eh!)
+lIgHts :                                      wiseguy (new code rulez!)
+cItY   :                                         pnx (why no answer???)
+lIgHts :                  all my other contacts i forgot to name here!!
+cItY   :                                                            :
+lIgHts :   and at last but not at least blaze & azzaro of sative mea...
+cItY   :                                                            :
+lIgHts ·------------------------------------------------------------·
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItY
+lIgHts
+c ____________ ____ _____ __________   ___________ ____ _____ __________
+l \_         /     |     \     _    | /     _     |    \    /           \
+cI /                             ___| \                           /     /
+lI \________/______|______/________|   \_________|_____\_____\_________/[zZ]
+c «------------------------------ the end ------------------------------»
+lIgHts   :                                                         :
+cItY     :          ( a u t o b a h n a u f f a h r t )            :
+lIgHts   :                                                         :
+cItY     :                                                         :
+lIgHts   :                                        i like the result!!!
+cItY     :                                                         :
+lIgHts   :       after some weeks of work i finished my third colly...
+cItY     :     many things happened since i began to compile this one.
+lIgHts   :  i proofed my style and made some changes you maybe noticed
+cItY     :    from time to time as for example with the `s` or the `h`
+lIgHts   :                            and now i am a man with work and
+cItY     :   also something sad happened as i read in an e-mail today:
+lIgHts   :                        black dragon/honoo stopped swapping!
+cItY     :                                                         :
+lIgHts   :                        for the future i have one wish only:
+cItY     : azkee artists - support me for my blade runner collection!!
+lIgHts   :                                                         :
+cItY     :         zito/zetec (maybe soon sative mea) says `good bye!`
+lIgHts   :                                                         :
+cItY     :   p.s. it`s a short end text, i know, and it`s also a small
+lIgHts   :       collection, if you count this by the number of logos,
+cItY     :             but you should not want quantity but quality!!!
+lIgHts   :                                       always remember, hmh!
+cItY     :                                                         :
+lIgHts   : now, i will stop writing on the post scriptum, i only wrote
+cItY     :      to make this file longer thereby it becomes this sweet
+lIgHts   :                                  lenght which it now has...
+cItY     :                                                         :
+lIgHts   :                                                         :
+cItY     :                                       Leipzig, den 1.3.1999
+lIgHts   :                                                         :
+cItY     ·---------------------------------------------------------·
+lIgHts
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.     .dARk   zetec`99 - the modern life   nEsS.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.       
+cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.cItYlIgHts.-[ the end of file ]-
+                                        .
+        .                    _____: . O  o                               O
+   _____|_____.      _____  .)    |____o [ t . H . E  - y . A . R . d ]_o .
+ _|      /   .|_____/_   /_ : _   |                                       :
+ \      /    |/      /   _//  \   ahs . bgirl . arcade . srz . tac . dkb  |
+  |____/|____/      /__________\  wx . lp! . soia . pnk . omn . mce . 1oo |
+            /______/     _ _:   _____          ______  __________ ________:
+                         \\\.  /    /__________\_   /_/  _      //  ._   /.
+  consoles.amiga.graffiti   ! /    /|    /   _      \    /     /    |/    |
+  ascii.hiphop.mp3.drugs    |/_____     /____\_______\___\________________|
+  classic games.linux/dd    :_  t^/____/   _.  zANEr/diPSWiTCH/hAsH/cRAZY |
+                             (_____________)| ___________ _______ _ ______:
+  one of the finest in +49             _ _ ___)         (_)               :
+  non-24h static telnet ip    #1 33k6.  #2 28k8.  #3 64k isdn #4 64k isdn
+    - theyard.ddns.org -      #5 telnet #6 telnet #7 telnet   #8 telnet
+                         
+

@@ -1,0 +1,2370 @@
+                                  .........
+                                  :       :
+           [node0: +48-91-4879493] [node1: telnet] [node2: telnet]
+   ___       ___        _______   :____   :  _______   ____     ___
+  _| _|_ __ |   |___  _|   __  | _| ___|__:_|   __  |_| ___|_  _| _|_ __
+  |    _| |_|  __   |_|     |  | |_______        |           |_|    _| |_
+  |__      ____||    __  ______| |_   |_| __  _________       ____      |
+     |_____|    |____| |____|     :|______| |____|    |_______|   |_____|
+                                  :       :                     az0!/l124
+          [powered by amiga1240T/603e/240mhz/quantum 1.3gb/cdrom]
+          [nonstop supporters: jacobs - prefix.appendix - ziutek]
+                     [master: madbart.appendix+teklords]
+                                  :       :
+                      !still third place in the world!
+                                  :       :
+    [appendix/whq] [anadune/whq] [teklords/phq] [floppy/phq] [link124/phq]
+ [dinx project/phq] [jormas/phq] [mawi/phq] [doggystyle/phq] [venus art/phq]
+                         [psl/phq] [ozone free/phq]
+   ___       ___        _______   :____   :  _______   ____     ___
+  _| _|_ __ |   |___  _|   __  | _| ___|__:_|   __  |_| ___|_  _| _|_ __
+  |    _| |_|  __   |_|     |  | |_______        |           |_|    _| |_
+  |__      ____||    __  ______| |_   |_| __  _________       ____      |
+     |_____|    |____| |____|     :|______| |____|    |_______|   |_____|
+                                  :       :                     az0!/l124
+           [node0: +48-91-4879493] [node1: telnet] [node2: telnet]
+                                  :.......:
+                                  .........
+                                  :       :
+                               +48-58-216-107
+              _______   _______   :     __:     ____      _____
+             |   __  |_|  ___  |__:____|  |____|    |____| __ |
+             |   ||_____ |___|         __      |____|      || |
+             |__ |     |___|   ____     |_______    __   _____|
+               |_|         |___|  |_____| :    |____||___|
+                                  :       :
+            [ascii] [demos] [games] [porn] [utilities] [hotwarez]
+                                  :       :
+             powered by amiga 1240/40 - sysop is cerber/appendix
+                                  :       :
+                        [appendix phq] [link124 whq]
+         _______    ____     ___  :       :____       __    _______
+        |  ___  |__| ___|_  _| _|_:__ ____|    | ___ |  |__|   __  |
+        | |___|           |_|    _| |_|   |____|_|  ||          |  |
+        |___|   ____       ____      ______    __   ¯¯   __  ______|
+            |___|  |_______|   |_____|    |____||________| |____|
+                                  :       :                 az0!/l124
+                               +48-58-216-107
+                                  :.......:
+
+
+@BEGIN_FILE_ID.DIZ
+                             . bD!/L124
+   l  i  n  k    1  2  4     |___
+_______   _____________ ___  |   |
+\     /___\__   .___  /_\  |_|   |
+_\   /   /  /   |  / /   ____    |
+/________\ /____| /______\  /____|
+                             |
+                             |
+  "klub voltaire" by azzaro. |
+       59th link124 release. |
+        adults only, please. |
+                             |
+                             ·
+@END_FILE_ID.DIZ
+
+                 ,..................,   ,..................,
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;    _____      ____   ____          ____ ;
+                 ;   |  __/_____(____)_/  _/_________/   / ;
+                 ;   |   |               ____       /   /  ;
+                 ;   |       link124!      |/       \   \  ;
+                 luk!|_____________________/_________\___\la!
+                 ;                  ;   ;                  ;
+                 ; 347456375  34345754874844  253462  474723
+                 ;    674535  458484; 446884  458478  595856
+                 ;    453536        ; 585656  857456  262356
+                 ;    124424  43374364484888  26425432574736
+                 ;    255355  484884;   ;             434546
+                 ;    606577  996995; 252555          845345
+                 ;    353567  153555; 567547          943567
+                 ;    256262  96543536484848          256786
+                 ;                  ;   ;                  ;
+             i lost those fire which flames in me from the start
+             now i`m really bored in doin` those ascii bussiness
+    two really asskicking makers left the group and i lost the motivation
+         what to say? this probably will be my last ascii collection
+      done for the scene. i see no sense to makin` ascii, because there
+       are so less ppl who wants and use them. bbs-based ascii dies...
+         after those 47 collections i`m empty. no ideas, no design.
+              too much pressure from others. i`m dead for now.
+           hope to see any tribute for me in the future collection
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+               /\;                  ;   ; /\               ;
+              /  \   ____      ____ ;   ;/  \    _____     ;___
+            _/    \__\__ \_ ___\__ \_ __/    \___\__  \____/ _ \_
+          ///      \   ___// |   ___// /      \   |/  _|  /  \  \\\
+           /        \__\`----|___\`---/        \\-|___\---\_____/--.
+          ·                          ·          \·     [®ev¿/l124] |
+         - --------------------------------------------------------'
+                 ;                  ;   ;         _________;
+                 ;                  ;   ;         \       /;
+             Bd! ;_____.         .__;_  ;   _____  \ ___ /.; L¹24
+                 .\    |_____.___|___ \_.___\    \.\\\ /  |;
+                 |     l     |    __(   |   /\    |  \/   |;
+             ____|____\/_____|____\|____|_________|       |____
+                 ;                  ;   ;         |_______|;
+                 ;                  ;   ;                  ;
+                 ;           doin` this at last            ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 This  Collection  contains content that may
+                 be  offensive  to some viewers.  To protect
+                 our  users  from  viewing  adult - oriented
+                 material  without  their  consent, Just Sex
+                 Asciis  requires  you  to read and agree to
+                 the following statements before continuing.
+                 ;                  ;   ;                  ;
+                 ;       Adult Consent Verification:       ;
+                 ;       ---------------------------       ;
+                 ;                  ;   ;                  ;
+                 This  collection contains sexually explicit
+                 material,  which  may  be offensive to some
+                 audiences.    By  entering  this  site  you
+                 declare, under penalty of perjury, that you
+                 are at least 18 years old (to do ciebie Krs
+                 =),   and  are  not  offended  by  sexually
+                 explicit  material  and are legally able to
+                 download  such  items according to the laws
+                 ;                by which you are governed.
+                 ;                  ;   ;                  ;
+                 Under  the  penalty of perjury, by pressing
+                 ;                  ; the ENTER button below:
+                 ;                  ;   ;                  ;
+                 1.I am an adult, 18 years of age or older.
+                 ;                  ;   ;                  ;
+                 2.I   am   requesting  and  agree  to  view
+                 sexually  explicit material for my personal
+                 ;         use in my private home or office.
+                 ;                  ;   ;                  ;
+                 3.I  personally  and  without coercion will
+                 make  selections of such material and these
+                 images  and  products without violating the
+                 community  standards of the area in which I
+                 ;                  ;   ;              live.
+                 ;                  ;   ;                  ;
+                 4.I will not exhibit these images to minors
+                 or  anyone  else  who  might be offended by
+                 ;                  ;   ;               them.
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ,__________________,   ,__________________,
+                 |                  |   |                  |
+                 |  ENTER           |   |           LEAVE  |
+                 |__________________|   |__________________|
+                 .                  .   .                  .
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;      __          ;   ;                  ;
+                 ;____/\\/__________;___;__________________;__¦_
+              _:_\      \/                                  (_|
+               |    _____      _____      _____ ___. ____     |
+      _._______|__ _\   /______\___/______\._ /_\  |/   (__ __|_______._
+      \|           \  _/      _     _      |/  _  _/   _/ /           |/
+      ¯|__________ /__\_______\_____\______/___\__\_______\ __________|¯
+          -nM$!|                                              |
+         . .. .|. ....  .......:.  :::...:.   ::: ..:.  .... .|. .. .
+         : :: ::: ::::   :::::::   ......:    :::.:::   :::: ::: :: :
+     . : : :: ::: ::::  .:::::::. .:::....:. .....:::.  :::: ::: :: : : .
+               |_                                           __|_
+              _|_)________________________________/\  ______\ :
+               ¦ ;                  ;   ;         /\\/     ;
+                 ;                  ;   ;         ¯¯       ;
+                 ;       ___   _   _;__ ;_ _  _            ;
+                 ;____  |   | |_| |                        ;       .
+           ___  |     | |___|                              ; .\----|
+      _   |   | |     |             ;   ;                  ; |     |
+     |_|  |___| |_____|  ________   ;   ;           _______; |     |
+     __________  ;       \      /___;___;__\-------/      _/_|___  |
+     \        /__;_______/                 ·\·    /      ·\     /__|______
+     /       __         /\.     \           /\___________//            ___\
+    /     __   \_______/ ·\______\---------/              \·    \        //
+ «=/-------/_______________\=========================»     \_____\-------/
+             az0!/l124              ;___;____          ____;_|     |______ __
+                 ;   _______________;\      /__________\                 // /
+               __;___\ ___           /                  \______   ______//_//
+   \----------/       \\        _  ·/\·     \           /  ; |     |
+    \               ·/ \________\--/; \______\---------/   ; |     |
+     \______________/    ____    «===========================|     |===»
+                 ;_____  \   )/   klubvoltaire.linkonetwofour|     |`98
+      ______________  /.\-\  /      ;   ;   ______________ ; |    :|
+      \ ___           \|   \/|______;___;___\  ____      / ; |    :|
+       \\       _     ·\·    \             ·/\·\/    ___/---/|...::|
+        \-------/_______\   ·|\·      \____/  \____________/ |::   |
+                 ;     |     | \       \;       ___   _  . ; |:   _|
+                 ;     |    _|  \-------\   _  |   | |_|   ; |----\
+                 ;     |----\       ;   ;. |_| |___|       ;
+                 ;                  ;   ;                  ;
+                 "klub voltaire"- an ascii collection by old
+               dreamer with broken wings. no more dreaming...
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;    ____    ______;  _;____. .____       ;_____
+          Bd!  __;_._/   _)_._\  _  /_.\   __l_|    \___. _;|   ·| L¹24
+          ____ |·; |       _|_   |    |    ____|_  \    | |      |
+          |  ·|| ; |_______\|/___|____|______| |/_______| |    __|_
+          ||__|| ;                  ;   ;                 |____|  ·|
+          |____| ;                  ;   ;                  ;   |___|
+                 ;                  ;   ;                  ;
+          teens sex and porn porno ass are what  xxx is presented on
+          this  file.   teen teens and sex love pussy porno and teen
+          porn xxx do little to replace porn teens and sex and pussy
+          will  be seen on this the teen day of sex ass and porn xxx
+          on  the  net  to  nude  teens sex will ass xxx make you go
+          blind  and teen pussy will sex and porn porno xxx ass teen
+          pussy  and  tight little girls and pretty teen porno girls
+          and  teens will do it all for me because ass and teens are
+          the  best  since sex and pussy xxx and porno teens sex and
+             porn porno ass are what  xxx is presented on this file.
+                 ;                  ;   ;                  ;
+          what  can  i  say  more?  i piss the introduction.  nobody
+          read  it.   just go and see those logos i prepare for you.
+          i`m totally bored in this bussiness...  my glasses are too
+                 ;                  ;   ;                  ;     hot.
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+  pesimism l optimism - pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism i optimism - pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism n optimism - pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism k optimism - pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism 1 optimism - pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism 2 optimism - pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism 4 optimism - pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism l pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism i pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism n pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism k pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism 1 pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism 2 pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism 4 pesimism - optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism l optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism i optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism n optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism k optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism 1 optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism 2 optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism 4 optimism - pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism l pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism i pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism n pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism k pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism 1 pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism 2 pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism 4 pesimism - optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism l optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism i optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism n optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism k optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism 1 optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism 2 optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism 4 optimism - pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism - optimism l pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism - optimism i pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism - optimism n pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism - optimism k pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism - optimism 1 pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism - optimism 2 pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism - optimism 4 pesimism
+  optimism - pesimism - optimism - pesimism - optimism - pesimism - optimism
+  pesimism - optimism - pesimism - optimism - pesimism - optimism - pesimism
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;           negative vibes around me
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ; ____.      ____. ;   ; ___.      __ _.  ;
+                 ;_)   l_    _)  _l_;_  ;(_  l_    _) U l_ ;
+                 /¬ _ _ ¬\  /¬  _____/ /¬  |  ¬\  /¬  !  ¬\;
+                T:.  Y  .:TT:.     .:TT:.T |  .:TT:.     .:T
+                `----^----'`---------'`--^------'`----mf!--'
+                 ;                  ;   ;                  ;
+                 ;           01.drowned offshore           ;
+                 ;                 02.krs                  ;
+                 ;                03.potion                ;
+                 ;                04.phaser                ;
+                 ;                 05.rebb                 ;
+                 ;                 06.mawi                 ;
+                 ;                07.mantra                ;
+                 ;                08.smajk                 ;
+                 ;                09.rebel                 ;
+                 ;               10.venture                ;
+                 ;                 11.mcr                  ;
+                 ;                 12.jim                  ;
+                 ;                13.kessel                ;
+                 ;                14.belos                 ;
+                 ;                15.beret                 ;
+                 ;          16.different conditio          ;
+                 ;              17.venus art               ;
+                 ;                18.locash                ;
+                 ;               19.appendix               ;
+                 ;             20.appendix-diz             ;
+                 ;               21.madbart                ;
+                 ;                22.zoltan                ;
+                 ;              23.pestilence              ;
+                 ;               24.icetray                ;
+                 ;                25.tomeq                 ;
+                 ;                26.decree                ;
+                 ;    27.dreams top ten swappers charts    ;
+                 ;             28.dreams pack              ;
+                 ;              29.innerloop               ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;     Przemykasz po ulicach jak cieï,     ;
+                 ;           Wtapiasz sië w tîum           ;
+                 ;  Nikt nie rozpoznaje Cië na zdjëciach   ;
+                 ;       Niewidzialny choê widziany.       ;
+                 ;     I tak ûyjesz powoli, po cichu,      ;
+                 ;   Idziesz, nikt nie woîa, nie pîacze    ;
+         Pojawiasz sië - bâdú juû Upadasz - sam musisz sië podnieôê.
+                 ;   Boisz sië ludzi, choê nie czîowieka   ;
+                 ;         Masz mocny gîos tylko,          ;
+                 Bez dúwiëku specjalnego spadaê, nie musisz.
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+             A teraz odlatujë za siódmâ górë i za siódmâ rzekë.
+                 ;    Nie obchodzi mnie wasza reakcja.     ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ drowned offshore   /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 0 \\\             \ my own           exclusively produced by azzaro with  /]
+[=\ 1 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+______________________________________
+                                      |
+  .  .  .  .  .  .  .  .  .  .  .  .  |
+                                      |
+  [f e e l   t h e   t r a n c e]  .  |                   [o p e n -
+  .  .  .  .______  .  .  . __________|_____      __________   - y o u r -
+ ___________\   _/__________\ ___          /      \          /       - e y e s]
+/____       /   \·      _   ·\\       _   /________\       _/_________________
+\\/       _   ·/ \      \---/ \_______\--/\        /\      \        _        /
+ \________\----\==\      \=================\              / \       /      _/
+ _______________   \______\          _____  \______/_____/   \-----/       \
+ \  ____       / .  .  .  .  ______.|     |  ___         ««=======/_______/===»
+  \ \/    ____/---/__________\    / |     | |   |  _              az0!/l124
+  .\_____________/____       /   / .|_____| |___| |_| |__ _
+                 \\/       _   ·/    ___  _________________
+  ««==============\________\----\===|   |=\ ___          _/______________ _
+                                    |___|  \\        _   \               //
+  .  .  .  .  .  .  .  .  .  .  .  . _      \________\--/ \    \_________/
+[see the clouds across the sky] __| |_|        ««==========\    _____/
+  .________________ ________ .  .  .                        \----\====»»=»»
+   \               // _____/________ _|______       _________________
+  . \    \_________/    _            \    __/_______\ ___           /
+     \    _____/   \-----\           /               \\        _   /
+ ««===\----\=============/__________/      \          \________\--/
+                           ___   _ /--------\__________\=============»»
+  .  .  .  .  .  .     _  |   | |_|.  \·      _   ·/_____________
+                _ __| |_| |___|        \      \---\  ____       /
+  .  .  .  .  .                 .  .  «=\      \===\ \/    ____/---/
+ [f e e l   t h e   t r a n c e . . .]|  \______\   \_____________/====»»
+ -------------------------------------o-------------------------- --- - -
+                                      |        drowned offshore the demo.
+  .  .  .  .  .  .  .  .  .  .  .  .  |                        salva mea.
+______________________________________|venuswizards.98
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ k r s              /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 0 \\\             \ krs.linear       exclusively produced by azzaro with  /]
+[=\ 2 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                     _ ___       ______   ___   _
+               ___________|  _  |      | |   | |_|
+         __________         |_| |      | |___|   _________
+         \        /__________   |______|         \  _____/__________
+         /       __         /____________________/    _             \
+        /     __   \_______/ ·\                ·/------\           ·/
+      [/-------/_______________\·        \_____/=======/___________/=]
+      [=========================\         \===============az0!/l124==]
+                                 \---------\   ______   ___   _   ___
+                                         ___  |      | |   | |_| |
+                                     _  |   | |      | |___|
+                         _ __ ____| |_| |___| |______|
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ p o t i o n        /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 0 \\\             \ idaho.potion     exclusively produced by azzaro with  /]
+[=\ 3 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                   ______  ____ __
+               __  \    /  \  / \/
+               \/   \  /    \/    ________
+___________________  \/           \   ___/____    __________
+\            _____/_______________/    ______/---/_________/---/
+ \·            \/\·___           /·  _          ·\            ·\
+[=\    _________/=\\        _  ·/----/____________\--------/____\======]
+[==\-----\=========\________\--/=======] _________________==az0!/l124==]
+                     __                  \·___          _/__________________
+                     \/            ______ \\        _  ·\        _        ·/
+                         __  ____  \    /  \________\--/ \·      /       _/
+                         \/  \  /   \  /  [===============\-----/        \=]
+                              \/     \/                        /________/
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \  p h a s e r       /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 0 \\\             \ phaser.mawi      exclusively produced by azzaro with  /]
+[=\ 4 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                                        _____   ___
+                                       |     | |   |  _
+                                  ___  |     | |___| |_|
+                              _  |   | |_____|
+                   ________  |_| |___|
+                   \    __/________             _____
+___________________/               \______________  /   _______
+\            ____·/      \         ·\·___           \  / _____/__________
+ \·            \//--------\__________\\       _     ·\/·   _            /
+  \    _________/«===================»\-------/_______\-----\         ·/
+ _ \-----\                                                  /_________/
+|_| ___   _____   _    _______________  ____________________    az0!/l124
+   |   | |     | |_|   \  ____      ·/  \·        _        / ......:  _|
+   |___| |     |  ___   \·\/    ____/---/\        \      ·/ .:  ___   _
+         |_____| |   |   \_____________/  \        \-----/  _  |   | |_|
+                 |___| |_                  \________\      |_| |___|
+
+
+
+
+
+
+                 ,..................,   ,..................,
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;          Zachowaj mnie proszë           ;
+                 ;            od takiej miîoôci            ;
+                 ;           co wypala wnëtrze;            ;
+                 ;          nie buduje lecz burzy          ;
+                 ;     chce mieê wszystko dla siebie;      ;
+                 ;              naduûywa siîy              ;
+                 ;          nie zwaûa na innych;           ;
+                 ;           I naucz mnie proszë           ;
+                 ;           miîoôci niewinnej.            ;
+                 ;        Ôpiâcy mur ludzkich uczuê        ;
+                 ;             woîam do Ciebie             ;
+                 ;            Ogrzej moje serca            ;
+                 ;   tak oziëbîe na mrozie obojëtnoôci.    ;
+                 ;            Ulecz mâ duszë z             ;
+                 ;        bezwraûliwoôci na piëkno         ;
+                 ;     i na okrucieïstwo tego ôwiata.      ;
+                 ;          Wlej proszë odrobinë           ;
+                 ;             swej Miîoôci w              ;
+                 ;            serce me chîodne,            ;
+                 ;         które ûyje jak roôlina          ;
+                 ;        zwiëdîa z braku ôwiatîa.         ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;..................;   ;..................;
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \  r e b b           /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 0 \\\             \ rebb.mantra      exclusively produced by azzaro with  /]
+[=\ 5 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                       _______________  ________
+  _____________________\_ ____      ·/  \      /_________ _______
+  \                    ·/ \/    ____/---/             ___\      /___________
+   \·            \-----/ \_____________/\·     \        //             ___·/
+    \             \======================\______\-------/\·     \        //
+     \____         \                               [======\______\-------/==]
+ [=======/__________\                                             az0!/l124
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ m a w i            /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 0 \\\             \ mcr.mawi         exclusively produced by azzaro with  /]
+[=\ 6 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+ az0!/l124                   _ __ __   _   _____   ___   _    _______
+ _ __ ___ __________________________| |_| |     | |   | |_|   \     //
+____________  ____________          _____ |     | |___|        \   ·/
+\·          \/          _/____________  / |_____| __________ _  \  /
+ \                     ·\·___           \         \         //--\\/|
+  \        _  _        / \\       _     ·\_________\        /      |
+[==\--------\/        /===\-------/_______\·       /\     ·/|·    :|
+  ____ __ _ /________/       «=============\              /=|    ::|.
+ |_______________ ___       _ __   _   ___  \______/_____/==|...:::|=]
+ _ _ _ _ _ _ _ _ _\ /           | |_| |   |  _    [=========|     _|=]
+ m a d w i z a r d \ ` 9 8            |___| |_| |__ _       |-----\
+                   ¯
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ m a n t r a        /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 0 \\\             \ rebb.mantra      exclusively produced by azzaro with  /]
+[=\ 7 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+  ______
+ |      |  ___                                      .\-----|
+ |      | |   |  _                                  |      |
+ |______| |___| |_| |_______________________________|_    _|_____________ __ _
+_________  _________          _____ __________________    ______________//_///
+\·       \/       _/____________  /                 |      |
+ \               ·\·___           \_________________|_     |__________________
+[=\     _  _     / \\       _     ·\        _       ·/     \·       _        /
+[==\-----\/_____/===\-------/_______\·      /      _/     _|\       \      ·/
+                                  [==\-----/       \------\==\       \-----/==]
+                              [===========/________/==========\_______\___====]
+                              _ ___   _   ___   ______   ______________  /
+                                   | |_| |   | |      |  \·___           \
+                                         |___| |      |   \\       _     ·\
+                                               |______|    \-------/_______\
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ s m a j k          /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 0 \\\             \ smajk.venture    exclusively produced by azzaro with  /]
+[=\ 8 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+   _______       _________  _________          _____           _______
+  / _____/_______\·       \/       _/____________  /_______________  /
+ /    _           \               ·\·___           \                 \
+ \-----\         ·/\     _  _     / \\       _     ·\·      _        ·\
+[======/_________/==\-----\/_____/===\-------/_______\------/__________\=====]
+   az0!/l124                 ______   ___   _       \        /__________
+                       ___  |      | |   | |_|      /·      __        ·/_
+                   _  |   | |      | |___|         /     __   \_______/ ·\
+                  |_| |___| |______|           [==/-------/_______________\==]
+
+
+
+
+
+
+                 ,..................,   ,..................,
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;        Chcë usîyszeê jak mrówka         ;
+                 ;          rozmawia z biedronkâ,          ;
+                 ;     chcë poczuê w strugach deszczu      ;
+                 ;        jak przygrzewa sîoneczko,        ;
+                 ;          chcë zobaczyê wiosnë           ;
+                 ;          gdy przychodzi bosa,           ;
+                 ;       chcë przekonaê sië rankiem,       ;
+                 ;        jak pachnie srebrna rosa.        ;
+                 ;         Czekam na ônieg bielszy         ;
+                 ;          nad jaôniejsze sîoïce          ;
+                 ;           nad gorëtszy ogieï            ;
+                 ;          morze bardziej mokre;          ;
+                 ;          Pragnë tak niewiele,           ;
+                 ;          ûe ciâgle chcë wiëcej          ;
+                 ;          by zimâ byîo mroúniej          ;
+                 ;            a latem gorëcej.             ;
+                 ;           Pragnë tak niewiele           ;
+                 ;           bo tylko czîowieka            ;
+                 ;        co jest bardziej ludzki;         ;
+                 ;           i na miîoôê czekam.           ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;..................;   ;..................;
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ r e b e l          /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 0 \\\             \ rebel.ind        exclusively produced by azzaro with  /]
+[=\ 9 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                                                   ____  __ ___ _
+               ______________  _______          __ \  /  \/ \
+_______________\_ ____     ·/  \     /________  \/  \/        _______
+\               / \/    ___/---/           ___\_____________  \     /_________
+ \       \-----/ \____________/\     \       /\  ____      /  /               \
+[=\__     \=====================\_____\-------/\ \/    ___/---\     \         /
+    /______\                          [=========\____________/=\_____\-------/=]
+                                                                     az0!/l124
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ v e n t u r e      /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ smajk.venture    exclusively produced by azzaro with  /]
+[=\ 0 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+      ____
+      \  /                                          __          ____
+   __  \/  [ w w w . v e n t u r e . a r t . p l ]  \/ .\----|  \  / __
+   \/              ______________  ____________________|     |   \/  \/ .
+             ______\· ____      /  \        _        ·/|     |
+ \----------/       \ \/    ___/---/\·      /       _/_|_   _|__________
+[=\·              ·/=\____________/==\-----/       \\·                ·//
+[==\______________/====az0!/l124==========/________/\\__    __________//==]
+           __                                ________  |     |   ____ __
+     ____  \/               _________________\   ___/__|_    |   \  / \/
+  __ \  /  __________       \                /    ______/---/| __ \/
+  \/  \/   \         \-------/        _    ·/·  _          ·\| \/
+    __      \·             ·/ \·      \----/----/____________\
+    \/    [==\_________\---/===\_______\===============|    _|==]
+                                                       |----\·
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ m c r              /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ mcr.mawi         exclusively produced by azzaro with  /]
+[=\ 1 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                                ________________________________________
+                                \ .  .  .  .  .  .  .  .  .  .  .  . . /
+                                 \  .  .  .  . ___________________  . /
+          _________  _________    \   .  .  .  \·       _        / . /
+          \·       \/       _/_____\___________ \       \       /   /
+           \               ·\·      __________/__\       \-----/    ¯
+            \     _  _     / \                   /\_______\az0!/l124
+         [===\-----\/_____/===\                 /===================]
+        _ .  .  .  .  .  .  .  \____________/--/
+        /_______________________________\
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ j i m              /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ jim.mawi         exclusively produced by azzaro with  /]
+[=\ 2 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                  _________________________________________
+                  \ _                                    _/
+                  |\/  _______ ______________ _________  _|_______
+           _______|________  /-\·           /-\        \/       _/__
+         __\_                \· \__________/   \·              ·\  /__
+       __\  /·      _        ·\                ·\     _  _     / \/ \/.
+      .\/ \/ \------/__________\-----/___\-------\-----\/_____/ az0!/l124
+      [===============================================================]
+                  |                                       |
+                  |__                                   __|
+                  · /___________________________________\ ·
+
+
+
+
+
+
+                 ,..................,   ,..................,
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;  Pîyniemy przez bezkresne mórz krainy   ;
+                 ;  Mijamy wysepki, wyspy, lâdów podwoiny  ;
+             Czasami schodzimy na lâd by chwilë na nim pozostaê.
+             Wtedy w dali jak za mgîâ widzë smukîâ Twâ postaê...
+                 ;    Biegnë co tchu, goniâc sennâ marë    ;
+                 ;       Ale czy zdâûë, dogonië Jâ?        ;
+                 ;   Czy Ja tu przypadkiem nie zostanë?    ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;..................;   ;..................;
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ k e s s e l        /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ kessel.ind       exclusively produced by azzaro with  /]
+[=\ 3 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+          _ ___   _   ___   _______
+               | |_| |   | |       |  _____   ___
+                     |___| |       | |     | |   |  _
+     __________            |       | |     | |___| |_| |_____ _
+     \        /__________  |_______| |_____| _______
+     /       __         /_______________    / _____/________
+    /·    __   \_______/ ·\· ____      /   /·   _           \_______
+   /-------/_______________\ \/    ___/---/------\         ·/ _____/________
+  [=========================\____________/=======/_________/·   _           \
+  _ ___   _   ___   _____   _______                  [=====\-----\         ·/]
+       | |_| |   | |     | |       |  ______________  ________   /_________/=]
+             |___| |     | |       |  \· ____      /  \      /_____________
+                   |_____| |       |   \ \/    ___/---/                   /
+                           |_______|    \____________/\·     \          ·/
+                                       [===============\______\---------/====]
+                                                                     az0!/l124
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ b e l o s          /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ belos.mawi       exclusively produced by azzaro with  /]
+[=\ 4 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+             ____ __
+________\ __ \  / \/          ___________    ______________________
+_______   \/  \/    /_________\ _______ /____\ _________________  /______
+\     /_______________________  \     /________\ ___           /______  /______
+/            ___\  ____      /  /               \\        _   / _____/_________
+\     \        //\ \/    ___/---\     \         /\________\--/    _           /
+[\_____\-------/==\____________/=\_____\-------/=============\-----\         /]
+_______________________________________________________________    /________/
+                                                 az0!/l124    /_______________\
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ b e r e t # 3      /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ norman.anadune   exclusively produced by azzaro with  /]
+[=\ 5 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                _______   _____
+               |       | |     |  ___   _
+      _   ___  |       | |     | |   | |_| maîe, pîaskie, okrâgîe .\-----|
+     |_| |   | |       | |_____| |___|     nakrycie gîowy........ |      |
+_______  |___| |_______|      ____________________            ____|_    _|____
+\     /_______________________\         _       _/____________\              /
+/            ___\  ____      / \_       \       \  ____      / \____  ______/
+\     \        //\ \/    ___/---/        \-----/ \ \/    ___/---/ |      |
+[\_____\-------/==\____________/=\________\=======\____________/==|      |===]
+[============================]  _______   _____   ___   _         |     _|
+ |___         [         _____  |       | |     | |   | |_|        |-----\·
+ |__/ e r e t ]   ___  |     | |       | |     | |___|
+              _  |   | |     | |       | |_____|       iss uen umb ert hre e..
+             |_| |___| |_____| |_______|         , ||| ||| ||| ||| ||| ||| |||
+                                                                     az0!/l124
+
+
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ different condition/]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ yaneq.linear     exclusively produced by azzaro with  /]
+[=\ 6 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                                                              ______
+       ___   _   ___ __ _                          .\------| |      |  ___
+   _  |   | |_| |                                  | . . . | |      | |   |  _
+  |_| |___|  ______             ________________ _ | . . . | |______| |___| |_|
+  ___________\    /__________   \              _//_|_______|___ _=============]
+ /____       /   /\_________/---/\·   \________\               //
+ \\/       _   ·/·             ·\ \    _____/   \·   \_________/___________
+[=\________\----\-----------/____\ \----\========\    _____/\  ____       /
+    ______________         ..different condition..\----\   | \·\/    ____/---/
+    \       _   ·/_____________  __________________| . . . |==\_____________/=]
+     \·     \---\  ____      ·/  \        _        / . . . |         az0!/l124
+      \      \   \ \/    ____/---/\·      /      _/|_  . __|_____________ __ _
+       \______\   \_____________/  \-----/      ·\   . . .              // ///
+[][=====================================/_______/=\___ . ______________//_////.
+                ________________                   | . . ._|____
+_______________ \ ___         ·/               ____|______\    /__________
+\·   _________/__\\       _  _/_______________/____       /   /\_________/---/
+ \               /\_______\--\        _       \\/       _   ·/·             ·\
+  \            ·/][===========\·      /      _/\________\----\-----------/____\
+[==\________/--/===][].        \-----/      ·\=====| . . ._|_____________ __ _
+                                    /_______/      | . . .              // ///
+  _ ___ _______________________________________________________________//_////.
+  \\\  \\                                            . . . |_____________
+ .\\\\__\\______________________________________ ___ __ _  \____________/---/
+           d i f f e r e n t     c o n d i t i o n | . . . |               ·\
+                             __________________    | . . . |------------/____\
+                             \·___           ·/    | . . . |
+                              \\         _  _/_____|_______|___
+                           [===\_________\--\        _        /
+                                             \·      /      _/
+                                              \-----/      ·\[linear-1998]
+                                    [][============/_______/==== === == =]
+                                                   |      _|
+                                                   |------\·
+
+
+
+
+
+
+                 ,..................,   ,..................,
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;Nie zdoîam sië uwolniê od Twojej miîoôci.;
+                 ;  Pozostaje mi tylko Tobie pozazdroôciê  ;
+                 uczucia tak wielkiego, ûe aû nie znam miary
+                 ;by je okreôliê - przyjmujë wiëc z wiary. ;
+                Nie lubië sië sprzeciwiê Twej nieznanej woli,
+                 ;  nie wiem co uczyniê by Cië zadowoliê.  ;
+                 ;Wskaû mi wiëc kierunek ûyciowej wëdrówki,;
+                nie pozwól sië zagubiê poôród dróg krzyûówki.
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;..................;   ;..................;
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ v e n u s   a r t  /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ bj.sebo/venus    exclusively produced by azzaro with  /]
+[=\ 7 \\\ m a d e  4  \            art   some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+   /\    /\  /\
+  /  \  /  \ ¯¯ /\  . _________            |-------/.  /_________
+ /    \ ¯¯¯ ¯  _¯¯__________  /__________\ |        |       _   /__________
+ ¯¯¯¯¯¯  ______\¯¯__       / ______________|_________\------/  ________   /_____
+\-------/       \·\/   ___/--\        _       ·/      \     \ /  _____/_________
+[\·           ·/=\___________/\·      /      _/·            ·\·    _           /
+[=\___________/================\-----/       \________________\-----\        ·/]
+ az0!/l124                  [=======/_______/       |===============/________/=]
+                   _____  ___  ____________|_______ |_______  ______  ___
+       ______________  /_|___||___________          |       ||      ||   | _
+       \·___           \                 /_| _______________||______||___||_|
+        \\       _     ·\·       \     ·/  |        | ______          __ .
+      [==\-------/_______\        \----/===|·       | \    / ____  __ \/
+      [===================\________\=======|        |  \  /  \  /  \/
+                                           |_      ·|   \/    \/
+      [ v  e  n  u  s   a  r  t  `  9  8 ] ·/-------|_
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ l c s              /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ locash.potion    exclusively produced by azzaro with  /]
+[=\ 8 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+          ________          __________          _______
+          \      /__________\    ____/_________/ _____/___________
+          /                  \·               /·   _             /
+          \·     \          ·/\             ·/\-----\          ·/
+        [==\______\---------/==\---/________/=======/__________/==]
+                                                       az0!/l124
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ a p p e n d i x    /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 1 \\\             \ madbart.apx      exclusively produced by azzaro with  /]
+[=\ 9 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                          _   ___   ______   ___
+                       . |_| |   | |      | |   |  _
+           _____             |___| |      | |___| |_| .
+_____________  /________________   |______|   ________
+\ ___          \         ____ _/______________\   ___/___
+ \\      _     ·\·         \/ \_        ____ _/    _____/---/__________________
+[=\------/_______\  _________/=/·         \/ \·  _         ·\        _        /
+[=================\_   \========\  _________/----/___________\·      /      _/
+         _         /----\    [===\_   \=======================\-----/      ·\==]
+   ___  |_| ·        ______       /----\     az0!/l124    [========/_______/===]
+  |   |   ___________\   _/__________    ___________               ___   _   __
+  |___|  /____       /   \__________/--\ \_______  /------/       |   | |_| |
+   _     \\/       _   ·/              ·\ /          ____/ \      |___|  ___|
+  |_|  [==\________\----\-----------/____/·       /        ·\      _   _|
+     ·                        [=========/--------/___________\==] |_| |
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ appendix.diz file  /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ madbart.apx      exclusively produced by azzaro with  /]
+[=\ 0 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                         _____            __________
+               ____________  /____________\______  /-----/
+               \ ___         \       ____  /         ___/\
+                \\     _     ·\·       \/·/·      /      ·\
+                 \-----/_______\  _______/-------/_________\
+                [az0!/l124=======\_  \======================]
+                |................./---\.a.p.p.e.n.d.i.x.9.8.|
+                |                                           |
+                |                                           |
+                |                                           |
+                |                                           |
+                |_                                         _|
+                ·/-----------)__________[dd/mmm/year]______\·
+
+
+
+
+
+
+                 ,..................,   ,..................,
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;         Naucz mnie kochaê ludzi         ;
+                 ;               jak poezjë                ;
+                 ;        jak ptak, który sië budzi        ;
+                 ;                o ôwicie.                ;
+                 ;         Naucz mnie kochaê ûycie         ;
+                 ;           jak wschody sîoïca            ;
+                 ;            jak polarne zorze            ;
+                 ;               naucz mnie                ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;..................;   ;..................;
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ m a d b a r t .    /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ madbart.apx      exclusively produced by azzaro with  /]
+[=\ 1 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                                                    ________
+_________  _________          _____            _____\      /___________
+\·       \/       _/____________  / ___________\    /             ___·/
+[\               ·\·___           \/____       /   /\·     \        //===]
+[=\     _  _     /=\\       _     ·\\/       _   ·/==\______\-------/====]
+[==\-----\/_____/===\-------/_______\________\----\=======] ________ az0!/l124
+_   ___   _____   _______   ______________  /_______________\_  ___/____
+_| |   | |     | |       |  \·___           \              \_ _________/---/
+_  |___| |     | |       | [=\\       _     ·\·      \     /·  _          ·\==]
+     __  |_____| |       | [==\-------/_______\       \---/ ---/____________\=]
+            ___  |_______| [===================\_______\======================]
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ z o l t a n        /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ zoltan.mawi+     exclusively produced by azzaro with  /]
+[=\ 2 \\\ m a d e  4  \ amnesty          some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                     ______   ___   _
+                 _  |      | |   | |_|
+                |_| |      | |___|                  |------/.
+        ________    |______|   ________          ___|_  . __|____ ____ _
+   _____\____  /_______________\      /__________\    . . .     //   //
+[=/     ______/\·___           /                  \____ . _____//___//_
+[/·            ·\\        _  ·/\·     \          ·/=| . . . |=]
+/________\-------\________\--/==\______\---------/==| . . . |=]
+                                              _____ | . . . |
+        _   ___   _____           ______________  /_|_._._._|_________
+     · |_| |   | |     |  ___     \·___           \·       _         /
+           |___| |     | |   |  _  \\       _     ·\       /       _/=]
+                 |_____| |___| |_| [\-------/_______\-----/       ·\==]
+                                   [================| . ./________/===]
+                                                    |_. . . | az0!/l124
+                                                    ·/------|
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ p e s t i l e n c e/]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ pestilence.      exclusively produced by azzaro with  /]
+[=\ 3 \\\ m a d e  4  \ mawi+apathy      some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+             _____________________
+_____________\  _______________  /__________  ______________
+________________\  ____      ·/   _______  /__\  ________  /___________________
+\           ____ \·\/    ____/---/ _____/_______ \   ___/____  ___________
+[\·           \//=\_____________/·   _          \/    ______/--\_________/---/
+[=\   _________/================\-----\        ·/·  _          ·\           ·\
+   \----\                             /________/----/____________\-------/____\
+________        _______________  ____________________       _______________
+\      /________\· ____      ·/  \        _       __/____   \· ____      ·/
+/                \ \/    ____/---/\·      /       \   __/____\ \/    ____/---/
+\·     \        ·/\_____________/  \-----/       ·/           \_____________/
+[\______\-------/  __________________   /_________            ·\   ___________
+___________________\                /_________   /______________\  \ az0!/l124
+                                             /______________________\
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ i c e t r a y      /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ icetray.reali    exclusively produced by azzaro with  /]
+[=\ 4 \\\ m a d e  4  \            ty    some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+             ______ ____ __                                  ____
+        ____ \    / \  / \/ .                                \  /
+   . __ \  /  \  /   \/                       |-------|       \/    __
+     \/  \/    \/          _______________ ___|__   __|_____        \/   .
+\___________     _______   \· ____      ·/ \·              /______________
+ \_________/---/_\  ___/____\ \/    ____/---\____   ______/              /
+[=\           ·\            ·\_____________/==|       |=\        \     ·/===]
+[==\-------/____\·            \===============|      ·|==\·       \----/====]
+    \           /______________\ az0!/l124    |_      |   \        \
+                                               /------|    \ ______ \ ____
+                     ______ ____                 _____/_____\       / \  /
+                ____ \    / \  / __  ______________  /       \     /   \/
+             __ \  /  \  /   \/  \/  \·___           \·   _      ·/      __
+           . \/  \/    \/          [==\\       _     ·\---/      /===]   \/
+                                   [===\-------/_______\=/______/====]
+                                                        \
+
+
+
+
+
+
+                 ,..................,   ,..................,
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;      Chciaîem zmieniê tylko ôwiat,      ;
+                 ;    Chciaîem, by pokochaî brata brat,    ;
+                 ;        Sobie w biedzie pomagali         ;
+                 Chciaîem, by Bóg dzieciom dawaî szczëôcie,;
+                 ;     Chciaîem myôleê, ûe tak bëdzie.     ;
+                 ;   Chciaîem, chciaîem, tylko chciaîem.   ;
+                 ;    Lecz czym chëê jest? To za maîo!     ;
+                 ;     Za maîo, by ludzie sië kochali,     ;
+                 ;       Za maîo, by sobie pomagali,       ;
+                 ;  Za maîo, by dzieciom sië szczëœciîo,   ;
+                 ;   Za maîo, by tylko dobre sië ôniîo,    ;
+                 ;       Za maîo, by zmieniê œwiat.        ;
+                 ;   Chcieê, a móc - dwie sprzecznoôci,    ;
+                 ;    Wiëc, jak dojôê do tego mamy my,     ;
+                 ;             ludzie proôci?              ;
+                 ;        Moûe jednak by spróbowaê,        ;
+                 ;          nasze ûycie uratowaê.          ;
+                 ;    Bo jeôli bardzo czegoô pragniesz,    ;
+                 Osiâgniesz sukces, choê nie raz upadniesz.;
+                 Lecz jeôli powiesz, ûe to jest niemoûliwe,;
+                 ;To nigdy nie speîniâ sië Twoja marzenia, ;
+                 ;Wiëc do dzieîa, choê ûycie jest burzliwe ;
+                 ;  i przysporzyê moûe wiele cierpienia.   ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;..................;   ;..................;
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ t o m e q          /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ tomeq.avd        exclusively produced by azzaro with  /]
+[=\ 5 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                _         ___   _
+     |-----|   |_|  ___  |   | |_|  _
+  ___|__  _|_____  |   | |___|     |_| |______ ___ __ _
+  \             /  |___| _________  _________            _________________
+   \____  _____/         \·       \/       _/____________\ ___           /
+     |    _|______________\               ·\  ____      / \\      ______/====]
+     |    \ ___           /\     _  _     /=\ \/    ___/---\______\     \====]
+ [===|_    \\        _   /==\-----\/_____/===\____________/========\_____\===]
+ [====/----|\________\--/ _ ____   _   ___                          az0!/l124
+                                | |_| |   |  _
+                                      |___| |_| |____ ___ __ _
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ d e c r e e        /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ ash.decree       exclusively produced by azzaro with  /]
+[=\ 6 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+          _____________        _____________________________________
+ _________\  ______   /________\   _______    ___________________  / _
+  ___________\   _/_____________ __\  ___/____\                 / /  \
+ /____       /   \  ____      ·/ \             \        \      / /====\
+ \\/       _   ·/ \ \/    ____/---\             \        \----/  ¯¯¯¯¯¯
+  \________\----\  \_____________//______________\        \=======]
+ _____________________________________     [======\________\======]az0!/l124
+ [====================================\  _______________ _______________
+                                /\     \ \  ____      ·/ \  ____      ·/
+ [ d  e  c  r  e  e ]       /\  ¯¯   /\ \ \ \/    ____/---\ \/    ____/---/
+                   .    /\  ¯¯      /  \ \ \_____________/ \_____________/  _
+                        ¯¯          ¯¯¯¯  \_________________________________\
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ dreams charts      /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ evan.apathy      exclusively produced by azzaro with  /]
+[=\ 7 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+       ____  _________________________________________________  ____
+      |    | \ _                                           _ / |    |
+      |____| |\/                 You and I.                \/| |____|
+       ____  |   Find the place where we can hide the wind.  |  ____
+      |    | |                 In our DREAMS.                | _____|
+      |____| |    ______           _______________ __________|___  /|
+       ______|____\   _/___________\· ____      ·/ \·___           \
+      /____       /   \             \ \/    ____/---\\       _     ·\
+   [==\\/       _   ·/=\·     \   ·/ \_____________/ \-------/_______\==]
+      |\________\----\  \      \--/_________  _______________|  ____
+      |____| | [=========\______\==\·       \/        / _____/_|____|__
+       ____  |    _   ___   _____   \               ·/    _           /
+      |    | |   |_| |   | |     |   \     _  _     /\-----\        ·/
+      |____| |       |___| |     | [==\-----\/_____/=======/________/===]
+       ____  |             |_____|                           | _____
+      |      |                                               |      |
+      | [ d r e a m s  t o p  t e n  s w a p p e r s  c h a r t s ] |
+      _______|_______________________________________________|_______
+     |                                                               |
+     |  rules: please don`t vote for yourself and your group member. |
+     |    vote for whole world amiga scene swappers. be objective.   |
+     |_______________________________________________________________|
+       ____  |                                               |  ____
+      |    | | 01 [.....................................] 01 | |    |
+      |____| | 02 [.....................................] 02 | |____|
+       ____  | 03 [.....................................] 03 |  ____
+      |    | | 04 [.....................................] 04 | |    |
+      |____| | 05 [.....................................] 05 | |____|
+       ____  | 06 [.....................................] 06 |  ____
+      |    | | 07 [.....................................] 07 | |    |
+      |____| | 08 [.....................................] 08 | |____|
+       ____  | 09 [.....................................] 09 |  ____
+      |    | | 10 [.....................................] 10 | |    |
+      |____| |                                               | |____|
+      _______|  [ s e n d   f i l l e d   v o t e s   t o ]  |_______
+     |                                                               |
+     |                                                               |
+     |                                                               |
+     |                                                               |
+     |                                                               |
+     |                                                               |
+     |                                                               |
+     |                                                               |
+     |                                                               |
+     |_______                                                 _______|
+       ____  |                                               |  ____
+      |    | | [ c o p y r i g h t   a p a t h y   1 9 9 9   | |    |
+      |____| |_______________________________________________| |____|
+             [==========votesheet=by=azzaro/link124==========]
+             [============minimal=service=company============]
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ d r e a m s        /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ evan.apathy      exclusively produced by azzaro with  /]
+[=\ 8 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+                                                               _____
+                  ______           _______________ ______________  /
+       ___________\   _/___________\· ____      ·/ \·___           \
+      /____       /   \             \ \/    ____/---\\       _     ·\
+   [==\\/       _   ·/=\·     \   ·/ \_____________/ \-------/_______\==]
+       \________\----\  \      \--/_________  ________________  az0!/l124
+               [=========\______\==\·       \/        / _____/_________
+                                    \               ·/    _           /
+                  _   ___   _____    \     _  _     /\-----\        ·/
+                 |_| |   | |     | [==\-----\/_____/=======/________/===]
+                     |___| |     |  _
+                           |_____| |_| dreams pack issue #020. apathy`99.
+
+
+
+
+
+
+                |-------------------------------------------|
+                | i n d u s t r i a l t e r r o r s q u a d |__________________
+\--------------------------------------/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯                 /
+[\ klub voltaire - 59th ascii collect                   \ i n n e r l o o p  /]
+[=\ ion presented to you by link124.    e n t i t l e d  \                  /=]
+[==\--------------------------------/______________________________________/==]
+____\ ____________|_________________                      |           az0!/l124
+\   \\\                             \-----------------------------------------/
+[\ 2 \\\             \ my own           exclusively produced by azzaro with  /]
+[=\ 9 \\\ m a d e  4  \                  some help of other ascii painters  /=]
+[==\___\\\_____________________________\-----------------------------------/==]
+                | i n d u s t r i a l t e r r o r s q u a d |
+                |-------------------------------------------|
+
+
+
+
+
+
+ ----------------------------------------------------------------------------
+ |¯| kindadifferent. puredesikkn.  ______  theinnerloop  ___   _  ex--sdv |¯|
+ _¯ _  _  _  _  _  _  _  _  _  _  |      |  ___         |   | |_|          ¯
+ m  a  d  w  i  z  a  r  d  s |_| |      | |   |  _     |___|             |¯|
+_________/\  ____________________ |______| |___| |_| _  _  _  _  _  _  _  _¯ _
+\  ________\-\        _       __/_________________   i  n  n  e  r  l  o  o  p
+ \/          ·\·      /       \        _       __/___________ _______________
+/---------/____\-----/       ·/\·      /       \  ____     ·/ \_            /
+[===================/________/==\-----/       ·/\ \/    ___/---/·    \    ·/=]
+ artistikk megaforce now. [==========/________/==\____________/ \     \---/==]
+  _  ________          _________________  fast hot fresh now. [==\_____\]  _
+ |_| \      /__________\·___          _/_______________                   |_|
+  _  /                  \\           ·\·___          _/_________________   _
+ |_| \·     \          ·/\________\--/ \\           ·\            ____·/  |_|
+  _   \______\---------/  ______        \________\--/ \·            \//    _
+ |_| _ ______   _   ___  |      |  ___                 \    _________/    |_|
+  _         _| |_| |   | |      | |   |  _   _          \-----\ az0!/l124  _
+ |_|               |___| |______| |___| |_| |_________ _                  |_|
+  _                                                                        _
+ |_| [adverts=messages=news=charts=editorial=megaforce=azzaro=madwizards] |_|
+ ----------------------------------------------------------------------------
+
+
+
+
+
+
+                 ,..................,   ,..................,
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;       Taize - miejsce pojednania        ;
+                 ;                  ;   ;                  ;
+Nie  zamartwiaj  sië,  jeôli  nie  masz  wiele do zaofiarowania:  maîâ wiarë,
+skromne  dobra.   Gdy  sië  dzielisz tâ odrobinâ, którâ masz, Bóg daje Ci nie
+wyczerpujâcâ  sië przeobfitoôê serca.  Ûyj z prostotâ, aby ûyê intensywnie, a
+bëdziesz  odkrywaî  smak  ûycia.   Pomysîowoôê i wyobraûnia wystarczâ ci, aby
+stworzyê piëkno wokóî siebie, nawet przy pomocy bardzo skromnych ôrodków."
+                 ;                  ;   ;                  ;
+Powyûsze sîowa to fragment ksiâûki napisanej przez Brata Rogera - zaîoûyciela
+wspólnoty  z  Taizé, skierowanej do braci z tej wspólnoty.  Od 56 lat w maîej
+wiosce  we  Francji  ûyjâ  bracia,  którzy  swoje  ûycie  poôwiëcili  sprawie
+pojednania.   Ich  historia  zaczyna  sië  od bardzo mîodego czîowieka, który
+upatrujâc  przyczynë  wojen i innych tragedii spadajâcych na ludzi w rozbiciu
+chrzeôcijan, postanawia zgromadziê grupë osób, które oddaîyby swoje ûycie tej
+wîaônie  sprawie.   Przyjeûdûa  wiëc  do Taizé - maleïkiej wioski na poîudniu
+Francji,  by  tam  spëdziê  samotnie  dwa  lata, a nastëpnie zgromadziê wokóî
+siebie  grupë  osób,  dla których sprawa pojednania byîaby równie waûna.  Tym
+mîodym  czîowiekiem jest Brat Roger.  Z biegiem lat, wspólnota sië powiëksza.
+Na poczâtku naleûâ do niej bracia pochodzenia ewangelickiego.  Potem mogâ sië
+teû   przyîâczyê   bracia  katolicy.   Obecnie  wspólnota  skupia  braci  ok.
+dwudziestu  narodowoôci  i  róûnych  wyznaï.   Dwaj  bracia z Taizé w dniu 16
+kwietnia  spotkali  sië  ze wspólnotâ katechetycznâ Link124.  Jeden z nich to
+brat Paolo – Anglik, który juû bardzo dobrze mówi po polsku i drugi:  Marek -
+Polak,  który:   "wciâû  jeszcze  mówi  dobrze  po polsku".  Spotkanie z nami
+rozpoczëli  od  krótkiego  przedstawienia  swojej wspólnoty i jej historii, a
+nastëpnie  odpowiadali  na nasze pytania.  To o czym mówili i czym sië z nami
+dzielili  chciaîbym  teraz  krótko streôciê.  Warunki ûycia w Taizé sâ bardzo
+proste.   Brat  Roger zdaje sobie sprawë z tego, ûe nic nie wyjdzie z tego co
+îatwe   i   dlatego  wybiera  miejsce  najtrudniejsze.   Wie,  ûe  to  bëdzie
+mobilizowaê  do czegoô bardziej twórczego.  Przy zakîadaniu wspólnoty czerpaî
+ze  úródeî  ûycia  zakonnego,  monastycznego.  Bracia wstëpujâcy do wspólnoty
+skîadajâ  ôluby:   posîuszeïstwa, czystoôci i ubóstwa.  To co ich jednoczy to
+wspólna   modlitwa   trzy   razy   dziennie,  praca  i  wraûliwoôê  na  ludzi
+potrzebujâcych,  ale  sensem powoîania wspólnoty jest pojednanie chrzeôcijan.
+Nie przyjmujâ dla siebie ûadnych darów, ûadnych prezentów, a nawet osobistych
+spadków.  Zarabiajâ na ûycie wyîâcznie swojâ pracâ i dziëki niej mogâ dzieliê
+sië  z  innymi.  Kiedy do Taizé zaczynajâ przyjeûdûaê mîodzi ludzie rodzâ sië
+pierwsze  obawy  o  to  czy  entuzjazm  i emocje mîodych nie bëdâ kolidowaê z
+surowym  ûyciem zakonnym.  Udaje sië jednak wîâczyê tych mîodych ludzi w rytm
+ûycia  wspólnotowego i zaangaûowaê ich w troskë o pojednanie.  Przez caîy rok
+w  Taizé  kaûdego  tygodnia, moûna uczestniczyê w spotkaniach gromadzâcych od
+niedzieli  do  niedzieli  mîodych  z  Europy,  a  takûe z innych kontynentów.
+Najwaûniejsze  podczas tygodniowego pobytu w Taizé jest to, by mîodzi odkryli
+úródîa  swojej  wiary  i odnaleúli sens swojego ûycia.  Ten tydzieï to krótki
+czas na twórczâ refleksjë aby po powrocie do wîasnych ôrodowisk podzieliê sië
+z  innymi  zdobytymi  tu doôwiadczeniami.  Moûna go spëdziê w grupie pracy, w
+grupie  ciszy  lub w grupie biblijnej.  Pod koniec kaûdego roku kilkadziesiât
+tysiëcy  mîodych  gromadzi sië na trwajâcym szeôê dni Spotkaniu Europejskim w
+jednym  z  wielkich  miast  Europy.   Mîodzi  sâ  przyjmowani  przez parafie.
+"Pielgrzymka  zaufania  przez Ziemië" nie skupia mîodych w ruchu wokóî Taizé,
+ale zachëca ich do tego by stawali sië twórcami pokoju tam, gdzie ûyjâ.
+                 ;                  ;   ;                  ;
+                 ;           ks.  prorok Azzaro            ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;      ____        ;   ;                  ;
+                 ;     | _  |_______;   ;                  ;
+                 ;     |  | |  ___   |  ;                  ;
+                 ;     |__| | |______|  ;                  ;
+                 ;          |       ;   ;                  ;
+                 ;  ________|       ;   ;                  ;
+       _______   ; |        |  _____;   ; ______   ____    ; ________
+      |   ____|__;_|        |_|   ___|  ;|   ___| |    |__ ;|   _____|___
+      |  |___    |    _          __|___|    __|___|    ___|;| ____       |
+      |__            ||_____|___        ___        __   |    |  |        |
+         |           |          |______|;  |______|  |_______|  |        |
+         |_______|   |              ;   ;                  ;    | greets |
+                 |___|              ;   ;                yQ.la! |________|
+                 ;                  ;   ;                  ;
+               best wishes and regards from azzaro/link124 to:
+                 ;                  ;   ;                  ;
+  ace.phase truce ÷ acid.kore.  ÷ adamsoft.pic_saint_loup ÷ adonis.absurd ÷
+    aln!.appendix+mawi ÷ andy.anadune ÷ antibyte.scoopex ÷ ash!.decree ÷
+ azazel.the_black_lotus ÷ bay-tek.taski ÷ belos.mawi ÷ benton.chaos_split ÷
+bj_sebo.venus_art ÷ blackfire.independent ÷ blaze.floppy+nah-kolor+link124 ÷
+   bojler.x-lib ÷ bta.absurd ÷ budgie.absurd+mantra+linear ÷ bump.pride ÷
+caro.phase_truce+nah-kolor+mystic ÷ carp.apathy ÷ caustic.the_interceptors ÷
+  cerber.appendix ÷ chosen.rave_network_overscan+link124 ÷ clever.veezya ÷
+    c0manche.amnesty ÷ covenant.link124 ÷ cure.spawn ÷ curt_cool.depth ÷
+ darkus.network ÷ dave.haujobb ÷ def.floppy ÷ deixas.embora ÷ digger.iris ÷
+          dj_hash.mawi ÷ dr_chiry.agravedict ÷ dr_oczkins.whelpz ÷
+  dr_szach.dinx_project ÷ drf.luzik_dizajn ÷ dzordan.anadune+moons+mystic ÷
+            enter.mawi ÷ estrogen.garbage ÷ evan.sector5+apathy ÷
+     firestarter.mantra+phase_truce ÷ flapjack.independent ÷ fly.depth ÷
+  garion.dev666 ÷ ghenesis.the_grid ÷ grass.mawi+hypnotize ÷ grogon.picco ÷
+      guffaw.giants ÷ guma.nah-kolor ÷ icetray.reality ÷ idaho.potion ÷
+    informer.nah-kolor ÷ insert.amnesty ÷ itb.independent ÷ jacko.mawi ÷
+    jesus.monar ÷ jim.mawi+hocus_pocus ÷ kazik.anadune ÷ kempy.twilight ÷
+  kessel.independent ÷ kk.taski ÷ ko$mi.dinx_project ÷ krs.embora+linear ÷
+      locash.potion+moons ÷ lovelace.mawi ÷ madbart.appendix+teklords ÷
+ madel.rave_network_overscan ÷ magic.nah-kolor ÷ maq.floppy ÷ mavey.potion ÷
+  mcr.mawi ÷ melon.independent ÷ metal designer.nah-kolor ÷ morino.defect ÷
+ mr_acryl.independent ÷ muffin.taski ÷ neuroup.agravedict ÷ norman.anadune ÷
+  noster.venture ÷ noxis.pride ÷ opi.plastic ÷ otton.high_voltage+veezya ÷
+  paplo.taski ÷ peer.phase_truce ÷ pepson.taski ÷ pestilence.mawi+apathy ÷
+      phaser.mawi ÷ pickpoke.floppy ÷ pinguin.independent ÷ pnx.void ÷
+    popcorn.absurd ÷ protas.nah-kolor+mawi ÷ proton.sadist ÷ psion.mawi ÷
+punisher.apathy+darkage+absurd+mantra ÷ pzyhall.nemesis_ng ÷ qba.nah-kolor ÷
+     qix.nah-kolor ÷ raptor.sector5 ÷ rebb.mantra ÷ rebel.independent ÷
+        revi.whelpz+link124+dope ÷ revisq.floppy+anadune+nah-kolor ÷
+        riddler.nah-kolor ÷ sante.absurd ÷ sharp.anadune+neon_bros ÷
+           shepherd.interceptors ÷ skope.uprough ÷ smajk.venture ÷
+     speedo.haujobb+dual_crew-shining ÷ starlight.mawi ÷ strife.apathy ÷
+substance.dual_crew-shining+mono ÷ superfml.pic_saint_loup ÷ tft.rno+mantra ÷
+   thorr.whelpz ÷ thung.agravedict+linear ÷ timer.mawi ÷ timowl.haujobb ÷
+      tomeq.agravedict ÷ toxik.nemesis_ng ÷ uhu.funzine ÷ vagon.mawi ÷
+ visual.floppy+nah-kolor ÷ voicer.phase truce ÷ wierza.venture ÷ wild.phase
+  truce ÷ yaneq.rave_network_overscan+linear ÷ yoyo.twilight ÷ zig.floppy ÷
+                 ;          zoltan.mawi+amnesty ÷          ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;_____   ___   _   ___ _
+                 ;__________        ;   |     | |   | |_| |
+  l i n k 1 2 4  ;\_  _ _  /       ___  |     | |___|
+  ________       ; /  \//_/    _  |   | |_____|
+  \      /__________\ \/ \--| |_| |___|           __________
+  /                  \  /  _|_____________________\        /__________
+  \      \           /\/   \           __         /       __         /_
+   \______\---------/|      \           /        /     __   \_______/  \
+       _             |     _|\         /        /-------/_______________\
+      |_| ___        |-----\· \-------/________/           az0!/l124
+         |   |  _   ________   _   ___     ___.______   _________     ______
+         |___| |_| |        | |_| |   |       |     /   ________/ \__|     /
+     _ _ __ _____  |        |     |___|  _    |     |  |     |       |     |
+                 | |        | |         |_|   |_____|  |_____|__     |_____|
+                 | |________| |__| M i n i m a L S e r v i c E C o m p a n y
+
+                     [ o f f i c i a l   r e l e a s e s   t i l l   n - o w ]
+------------------------------------------------------------------------------
+  [ number / filename / original collection title / author / lenght in bytes ]
+------------------------------------------------------------------------------
+ ONE-NINE-NINE-SIX]. .[06 releases
+------------------------------------------------------------------------------
+ o1 [l124-stz.txt]  [stylez retrospection]       [azzaro]    [173.060 bytes]
+  2 [l124-dst.txt]  [amphetamine dust]        [seti][azzaro] [189.506 bytes]
+  3 [l124-pai.txt]  [pain and heartbeat pumping] [azzaro]    [365.030 bytes]
+  4 [l124-hop.txt]  [hand on my pussy]           [azzaro]    [141.010 bytes]
+ o5 [l124-liv.txt]  [life is a long way]         [seti]      [064.366 bytes]
+  6 [l124-nmm.txt]  [no ma`am]                   [chosen]    [087.055 bytes]
+------------------------------------------------------------------------------
+ ONE-NINE-NINE-SEVEN]. .[28 releases
+------------------------------------------------------------------------------
+  7 [l124-abs.txt]  [aurora borealis]            [azzaro]    [210.150 bytes]
+  8 [l124-pzi.txt]  [paparazzi                   [azzaro]    [161.000 bytes]
+  9 [l124-mtr.txt]  [misterium]                  [covenant]  [125.000 bytes]
+ 1o [l124-cmt.txt]  [crematory]                  [covenant]  [176.500 bytes]
+  1 [l124-pol.txt]  [poetry of love]             [azzaro]    [463.000 bytes]
+  2 [l124-tb2.txt]  [turbo 2]              [azzaro][zorka19] [173,000 bytes]
+  3 [l124-msd.txt]  [scandal 1: morsedome]       [azzaro]    [036,000 bytes]
+  4 [l124-maa.txt]  [malaria]                    [chosen]    [195,344 bytes]
+ 15 [l124-goa.txt]  [pol 2: plunge into goa]     [azzaro]    [186,000 bytes]
+  6 [l124-e2i.txt]  [eclipse travel to india]    [azzaro]    [140,000 bytes]
+  7 [l124-lk.txt]   [lemon killers]              [nemes!s]   [108,139 bytes]
+  8 [l124-jkr.txt]  [the joker]                  [covenant]  [301,000 bytes]
+  9 [l124-awa.txt]  [ambient waster]             [azzaro]    [197,000 bytes]
+ 2o [l124-sea.txt]  [to the sea]                 [azzaro]    [178,352 bytes]
+  1 [l124-b&g.txt]  [bryniol & gazior]           [chosen]    [049,578 bytes]
+  2 [l124-any.txt]  [odyssey to anyoona]         [azzaro]    [096,762 bytes]
+  3 [l124-ksk.txt]  [lost in kaleidoscope skies] [azzaro]    [194,029 bytes]
+  4 [l124-det.txt]  [detroit]                    [azzaro]    [132,004 bytes]
+ 25 [l124-eth.txt]  [expert hand]                [revi]      [136,188 bytes]
+  6 [l124-ksz.txt]  [king styles]                [chosen]    [160.000 bytes]
+  7 [l124-id.txt]   [delphinus i-dentity]        [azzaro]    [180,185 bytes]
+  8.[l124-ght.txt]  [go to the hell]             [budgie]    [068,394 bytes]
+  9 [l124-vol.txt]  [violence]                   [budgie]    [087,962 bytes]
+ 3o [l124-gde.txt]  [garden of eden]             [azzaro]    [120,000 bytes]
+  1 [l124-spy.txt]  [2 spys in the house of love][azzaro]    [182,284 bytes]
+  2 [l124-cww.txt]  [call it what you want]      [revi]      [206.518 bytes]
+  3 [l124-mvi.txt]  [my vision]                  [budgie]    [110,899 bytes]
+  4 [l124-pho.txt]  [phoebus apollo]             [azzaro]    [125,734 bytes]
+------------------------------------------------------------------------------
+ ONE-NINE-NINE-EIGHT]. .[25 releases till now
+------------------------------------------------------------------------------
+ 35 [l124-sen.txt]  [sen wezyra]                 [azzaro]    [066,312 bytes]
+  6 [l124-sod.txt]  [skate or die]               [revi]      [152.269 bytes]
+  7 [l124-cou.txt]  [course]                     [budgie]    [133.874 bytes]
+  8 [l124-m98.txt]  [minimalistik`98]            [acid]      [140.000 bytes]
+  9 [l124-smo.txt]  [psilocobe 1: sukia monotone][azzaro]    [181.000 bytes]
+ 4o [l124-ehn.txt]  [psilocobe 2: event horizon] [azzaro]    [182.000 bytes]
+  1 [l124-tdm.txt]  [psilocibe 3: dream machine] [azzaro]    [200.000 bytes]
+  2 [l124-hom.txt]  [homework]                   [azzaro]    [110.000 bytes]
+  3 [l124-338.txt]  [rebirth of stylism]         [azzaro]    [219.338 bytes]
+  4 [l124-san.txt]  [santa claus on the party]   [budgie]    [078.262 bytes]
+ 45 [l124-ays.txt]  [abyss]                      [budgie]    [123.141 bytes]
+  6 [l124-wow.txt]  [wow!]                       [budgie]    [101.007 bytes]
+  7 [l124-caf.txt]  [children against frustration] [revi]    [155.474 bytes]
+  8 [l124-iso.txt]  [in search of sparks]        [azzaro]    [210.000 bytes]
+  9 [l124-mld.txt]  [magic land]                 [revi]      [109.258 bytes]
+ 5o [l124-aiw.txt]  [alice in wonderland]        [revi]      [143.383 bytes]
+  1 [l124-oxi.txt]  [oxidize]                    [budgie]    [104.586 bytes]
+  2 [l124-9so.txt]  [94.7% smoked out]           [azzaro]    [087.298 bytes]
+  3 [l124-cre.txt]  [co robi edgar?]             [revi]      [107.925 bytes]
+  4 [l124-val.txt]  [valis]                      [yaneq]     [115.000 bytes]
+ 55 [l124-nlw.txt]  [no law]                     [budgie]    [057.004 bytes]
+  6 [l124-edg.txt]  [conceptions 1: edgecrusher] [blaze]     [091.968 bytes]
+  7 [l124-des.txt]  [conceptions 2: descent]     [blaze]     [038.351 bytes]
+  8 [l124-exe.txt]  [experiment encore]          [azzaro]    [373.648 bytes]
+  9 [l124-klv.txt]  [klub voltaire]              [azzaro]    [136.000 bytes]
+------------------------------------------------------------------------------
+  [59] ascii collections spanked by [11] makers  [total]   [8.937.147 bytes]
+------------------------------------------------------------------------------
+                                                      [ s t a t i s t i c - s]
+------------------------------------------------------------------------------
+                        actual members productivity:
+     - azzaro    - 30 ascii collections; 28 own made; 02 co-operations;
+     - blaze     - 02 ascii collections; 02 own made; 00 co-operations;
+     - chosen    - 04 ascii collections; 04 own made; 00 co-operations;
+     - covenant  - 03 ascii collections; 03 own made; 00 co-operations;
+     - revi      - 07 ascii collections; 07 own made; 00 co-operations;
+
+                          ex-members productivity:
+     - acid      - 01 ascii collection; 02 own made; 00 co-operations;
+     - budgie    - 09 ascii collections; 09 own made; 00 co-operations;
+     - darkus    - 01 ascii collection; 02 own made; 00 co-operations;
+     - seti      - 02 ascii collections; 01 own made; 01 co-operations;
+     - yaneq     - 01 ascii collection; 01 own made; 00 co-operations;
+
+                            guests productivity:
+     - zorka19   - 01 co-operation collection;
+------------------------------------------------------------------------------
+                                                     [ s t a y   t - u n e d ]
+------------------------------------------------------------------------------
+      Azzaro [hq] - Tommy Wisniewski · Szeroka 35/8 · 75-814 Koszalin · POLAND
+              Blaze - Patryk Kalinowski · Polna 63/5 · 21-200 Parczew · POLAND
+    Chosen - Sebastian Wojaczek · Vogelpothsweg 24 · 44-149 Dortmund · GERMANY
+            Covenant - Darek Kawalec · Szeroka 25/1 · 75-814 Koszalin · POLAND
+               Revi - Slawek Ostruszka · Moniuszki 4 · 43-400 Cieszyn · POLAND
+------------------------------------------------------------------------------
+                                                           [ c o n t a c - t ]
+------------------------------------------------------------------------------
+      - e-mail: zorka19@puma.tu.koszalin.pl; - member: azzaro [whq]
+      - e-mail: kharma@kki.net.pl            - member: blaze
+      - e-mail: bogus@puma.tu.koszalin.pl    - member: covenant
+      - e-mail: revi@mailcity.com            - member: revi
+-----------------------------------------------------------------[az0!/l124]--
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+         ___________________        ;   ;                  ;
+        _)                 (_       ;   ;                  ;
+        |    ·AZZ/\RO`S·    |       ;   ;                  ;
+       .|_____              |  _____;_  ;                  ;       _______
+   ____|     /_____  _____  |  )    |___;     ______     ______  __\     (
+  _\   |_   /_\___/__)   /__|__\   ____/______\_   /_____\_   /__)  \    /_
+  \    _/    /     / \____    /    \|    /     /    /    _/  / / \____    /
+  /____|_____\_____\____|/____\_____\____\__________\____\_____\____|/____\
+  «-dKS!|      .   _        |---------------------------------------------»
+        |    ·H|ST(_)RY·    |       ;   ;                  ;
+        |                   |       ;   ;                  ;
+        ¯)_________________(¯       ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;    there are my ascii logos placed!     ;
+                 ;                  ;   ;                  ;
+ 01 [aug/28] OZONE FRIENDLY                    [25O.936B] [AMF-OZFR.TXT] 95
+ 02 [oct/3O] WATERWORLD                        [O81.OOOB] [AMF-WTW.TXT]  95
+ 03 [dec/12] E=ASC²                            [153.944B] [AMF-ASC².TXT] 95
+ 04 [dec/16] 93° FAHRENHEIT                    [O69.55OB] [AMF-93°F.TXT] 95
+ 05 [dec/2O] VIBROBETON                        [222.OOOB] [DRF_VBET.TXT] 95
+ 06 [jan/1O] BRING ME NOISE                    [O81.O2OB] [AMF-BMN.TXT]  96
+ 07 [feb/O7] BACK ON PLASTIC                   [O55.OOOB] [AMF-BACK.TXT] 96
+ 08 [feb/12] SAYONARA FUCKHEAD                 [191.2OOB] [AMF-SAYO.TXT] 96
+ 09 [jun/O7] RAME                              [O41.5OOB] [AMF-RAME.TXT] 96
+ 10 [jun/1O] FIRESTARTER                       [O8O.OOOB] [AMF-FIRE.TXT] 96
+ 11 [jun/22] TURBO                             [2OO.OOOB] [AMF-TURB.TXT] 96
+ 12 [jun/22] PHUN FAKTORY                      [193.1OOB] [AMF-PF.TXT]   96
+ 13 [aug/3O] DREAMLAND 1: HEXAGONAL HERETIC    [247.OOOB] [AMF-DRE1.TXT] 96
+ 14 [aug/3O] DREAMLAND 2: JERICHO              [178.227B] [AMF-DRE2.TXT] 96
+ 15 [aug/3O] DREAMLAND 3: FANTASIA             [229.16OB] [AMF-DRE3.TXT] 96
+ 16 [aug/3O] RADIATION IN ZOO                  [121.OOOB] [AMF-RZOO.TXT] 96
+ 17 [oct/O5] DREAMLAND 4: EXIT FANTASY         [115.OO7B] [AMF-EXIT.TXT] 96
+ 18 [oct/1O] 3ER4 MILLENIO                     [253.5OOB] [AMF-3ER4.TXT] 96
+ 19 [nov/O1] STYLEZ RETROSPECTION              [173.16OB] [L124-STZ.TXT] 96
+ 20 [nov/1O] PAIN AND HEARTBEAT PUMPING        [365.O3OB] [L124-PAI.TXT] 96
+ 21 [nov/11] AMPHETAMINE DUST                  [189.5O6B] [L124-DST.TXT] 96
+ 22 [dec/12] HAND ON MY PUSSY                  [141.O1OB] [L124-HOP.TXT] 96
+ 23 [jan/2O] AURORA BOREALIS                   [21O.15OB] [L124-ABS.TXT] 97
+ 24 [feb/O1] PAPARAZZI                         [161.OOOB] [L124-PZI.TXT] 97
+ 25 [feb/17] POETRY OF LOVE                    [463.OOOB] [L124-POL.TXT] 97
+ 26 [feb/22] TURBO 2                           [173.OOOB] [L124-TB2.TXT] 97
+ 27 [mar/O5] MORSEDOME                         [O36.OOOB] [L124-MSD.TXT] 97
+ 28 [mar/2O] PLUNGE INTO GOA: POETRY OF LOVE2  [186.OOOB] [L124-GOA.TXT] 97
+ 29 [apr/16] ECLIPSE TRAVEL TO INDIA           [14O.OOOB] [L124-E2I.TXT] 97
+ 30 [may/2O] AMBIENT WASTER                    [197.OOOB] [L124-AWA.TXT] 97
+ 31 [jun/15] TO THE SEA                        [178.352B] [L124-SEA.TXT] 97
+ 32 [jul/11] INDUSTRIAL 1: ODYSSEY TO ANYOONA  [O96.762B] [L124-ANY.TXT] 97
+ 33 [jul/12] INDUSTRIAL 2: KALEIDOSCOPE SKIES  [194.O29B] [L124-KSK.TXT] 97
+ 34 [jul/13] INDUSTRIAL 3: DETROIT EXPERIMENT  [132.OO4B] [L124-DET.TXT] 97
+ 35 [aug/3O] DELPHINUS I-DENTITY               [18O.185B] [L124-ID.TXT]  97
+ 36 [oct/15] GARDEN OF EDEN                    [12O.OOOB] [L124-GDE.TXT] 97
+ 37 [oct/29] TWO SPYS IN THE HOUSE OF LOVE     [182.284B] [L124-SPY.TXT] 97
+ 38 [dec/15] PHOEBUS APOLLO                    [125.734B] [L124-PHO.TXT] 97
+ 39 [jan/2O] SEN WEZYRA                        [O66.312B] [L124-SEN.TXT] 98
+ 40 [mar/15] PSILOCIBE 1: SUKIA MONOTONE       [181.OOOB] [L124-SMO.TXT] 98
+ 41 [mar/17] PSILOCIBE 2: EVENT HORIZON        [182.OOOB] [L124-EHN.TXT] 98
+ 42 [mar/20] PSILOCIBE 3: THE DREAM MACHINE    [2OO.OOOB] [L124-TDM.TXT] 98
+ 43 [apr/24] HOMEWORK                          [11O.OOOB] [L124-HOM.TXT] 98
+ 44 [apr/24] REBIRTH OF STYLISM                [219.338B] [L124-338.TXT] 98
+ 45 [jul/O2] IN SEARCH OF SPARKS               [21O.OOOB] [L124-ISO.TXT] 98
+ 46 [aug/25] 94,7% SMOKED OUT                  [O87.298B] [L124-9SO.TXT] 98
+ 47 [oct/02] EXPERIMENT ENCORE                 [373.648B] [L124-EXE.TXT] 98
+ 48 [oct/24] KLUB VOLTAIRE                     [136.OOOB] [L124-KLV.TXT] 98
+                 ;                  ;   ;                  ;
+              [TOTAL: 8.272.648 BYTES IN O48 ASCII COLLECTIONS]
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                  _____             ;   ;                  ;
+                 | __  |____________    ;                  ;
+                 |___| |  ____      |   ;         _____    ;
+                       | |__________|   ;        |     |   ;
+  _______      ________|  ______        ; ____   |     |  ____      _______
+ |   ____|____|        |_|   ___|   _____|    |__|     |_|    |__  |   ____|__
+ |  |_|          _          __|____| __          |_____|      ___|_| ___      |
+ |__            ||_________          |     |__            __   |    | |       |
+    |_______|___|          |               |  |__________|  |_______| |_______|
+                           | c r e d i t s |
+.________________|| yQ.la! |_______________| ||________________________________.
+|                                                                              |
+|                                                                              |
+design conception and hardwork by.................................azzaro/link124
+--------------------------------------------------------------------------------
+file.id.diz logo by................................................budgie/linear
+link124 logo 1 by.....................................................luk/linear
+azzaro logo by......................................................revi/link124
+mawi logo by.......................................................budgie/linear
+link124 logo 2 by..............................................darkus/ex-aerosol
+info logo by.......................................................budgie/linear
+menu logo by.....................................................melfis/fabiness
+greets logo by......................................................yaneq/linear
+history logo by................................................darkus/ex-aerosol
+credits logo by.....................................................yaneq/linear
+|                                                                              |
+--------------------------------------------------------------------------------
+|                                                                              |
+respects goes to......acid, blaze, budgie, chosen, darkus, kempy, krs, luk, revi
+..........................................................sundance, thung, yaneq
+............................................................aerosol kore. linear
+|                                                                              |
+--------------------------------------------------------------------------------
+|                                                                              |
+inspirated sounds by..........dune, falcon, revisq, trigger, maf, a-move, chevaz
+.....................................................madonna - "ray of light" cd
+.........................................................fsol - "dead cities" cd
+.........................................................fsol - "accelerator" cd
+..................................................autechre - "chiastic slide" cd
+|                                                                              |
+--------------------------------------------------------------------------------
+|                                                                              |
+fragmenty wierszy duszpasterstwa akademickiego politechniki koszaliïskiej.......
+naprawdë mocna rzecz............................................................
+|                                                                              |
+--------------------------------------------------------------------------------
+|                                                                              |
+last retouches at.......................................Fri Oct 23 01:08:39 1998
+|                                                                              |
+--------------------------------------------------------------------------------
+|                          link124 official product                            |
+|                                                                              |
+|______________________________________________________________________________|
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;                  ;   ;                  ;
+                 ;..................;   ;..................;
+
+[another one bites the dust]
+[totally eof...]
+[or not?]
+
+@BEGIN_FILE_ID.DIZ
+                             . bD!/L124
+   l  i  n  k    1  2  4     |___
+_______   _____________ ___  |   |
+\     /___\__   .___  /_\  |_|   |
+_\   /   /  /   |  / /   ____    |
+/________\ /____| /______\  /____|
+                             |
+                             |
+  "klub voltaire" by azzaro. |
+       59th link124 release. |
+        adults only, please. |
+                             |
+                             ·
+@END_FILE_ID.DIZ
+
+                                  .........
+                                  :       :
+           [node0: +48-91-4879493] [node1: telnet] [node2: telnet]
+   ___       ___        _______   :____   :  _______   ____     ___
+  _| _|_ __ |   |___  _|   __  | _| ___|__:_|   __  |_| ___|_  _| _|_ __
+  |    _| |_|  __   |_|     |  | |_______        |           |_|    _| |_
+  |__      ____||    __  ______| |_   |_| __  _________       ____      |
+     |_____|    |____| |____|     :|______| |____|    |_______|   |_____|
+                                  :       :                     az0!/l124
+          [powered by amiga1240T/603e/240mhz/quantum 1.3gb/cdrom]
+          [nonstop supporters: jacobs - prefix.appendix - ziutek]
+                     [master: madbart.appendix+teklords]
+                                  :       :
+                      !still third place in the world!
+                                  :       :
+    [appendix/whq] [anadune/whq] [teklords/phq] [floppy/phq] [link124/phq]
+ [dinx project/phq] [jormas/phq] [mawi/phq] [doggystyle/phq] [venus art/phq]
+                         [psl/phq] [ozone free/phq]
+   ___       ___        _______   :____   :  _______   ____     ___
+  _| _|_ __ |   |___  _|   __  | _| ___|__:_|   __  |_| ___|_  _| _|_ __
+  |    _| |_|  __   |_|     |  | |_______        |           |_|    _| |_
+  |__      ____||    __  ______| |_   |_| __  _________       ____      |
+     |_____|    |____| |____|     :|______| |____|    |_______|   |_____|
+                                  :       :                     az0!/l124
+           [node0: +48-91-4879493] [node1: telnet] [node2: telnet]
+                                  :.......:
+                                  .........
+                                  :       :
+                               +48-58-216-107
+              _______   _______   :     __:     ____      _____
+             |   __  |_|  ___  |__:____|  |____|    |____| __ |
+             |   ||_____ |___|         __      |____|      || |
+             |__ |     |___|   ____     |_______    __   _____|
+               |_|         |___|  |_____| :    |____||___|
+                                  :       :
+            [ascii] [demos] [games] [porn] [utilities] [hotwarez]
+                                  :       :
+             powered by amiga 1240/40 - sysop is cerber/appendix
+                                  :       :
+                        [appendix phq] [link124 whq]
+         _______    ____     ___  :       :____       __    _______
+        |  ___  |__| ___|_  _| _|_:__ ____|    | ___ |  |__|   __  |
+        | |___|           |_|    _| |_|   |____|_|  ||          |  |
+        |___|   ____       ____      ______    __   ¯¯   __  ______|
+            |___|  |_______|   |_____|    |____||________| |____|
+                                  :       :                 az0!/l124
+                               +48-58-216-107
+                                  :.......:
+

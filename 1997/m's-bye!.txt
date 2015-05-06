@@ -1,0 +1,1368 @@
+ 
+  ...         _ _                                          _ _     ...
+ ::::          \\\ sTAGE 1 cOMPLEtED <> pAsSED tHRoUGH TY ///      ::::
+ :::_   .___.    \                                        /        _:::
+ :://-- |   |-----\  24h Static Telnet on broadband ADSL /--------// ::
+ |. .___.  _:____ _  ___                                             _:
+ _ _|   |_ \_   // //  /____   __ _  cONSOLES/aSCII/aMIGA/gRAFF/=C64 \:
+ \\\_   _/__/  /___  _     /__||///  mACINTOSH/mUSIC/sAMPLES  ____    |
+    |_  \_\        \ /____/   _      _____ _      _____     ./  _/    .
+ .   /_    \________\________\\    ._)  _ \\______\__  \____|   \_ _ _: _
+ :     \______\\t^/lp!        ____ |   _/     /     /   \  _|   _////__\\
+                             /   /___  \      \ __ \\  _/__\|   \     :/
+  > theyard@graffiti.ag < _ /   / __//__\______\\_\ /_____/ \    \    :
+ :     _                  //_____\\:     \      /___|   \_________\  _.
+-.----\\-----------------------|   |----- .-----------||-------- ----/:
+ | tHE iDEA oF sTYLE iS tHE kEYl___|tO aLL fORMs oF rOCKiNG - TY 9603 |_
+-@----------------------------._____.---------------------------------@
+
+
+ 
+ 
+ 
+          .________________________________________________________.
+  __      |                                                        |
+ /_/\  ___|__¦______ ______________¦_______________________  _ _/\_|______
+ \_\/  \·    |     /_\______  /·   |    \_______   _ /    /_________    o/
+  +:    \\   |    /    ______//          \     /   //    /    /    /   //
+  :o     \_______/______|   /______|______\________/________ /________ /
+  .·      |                        ¦                       \/      | \/
+          |                                                        |
+  .       | U   P   H   O   L   D        T   H   E       L   A   W |
+          |                                                        |
+ ______/\_|_______¦____    __________     _____     _____   _____ /\ _____
+ \ _ o     _ /    |   ·\  /  ___    /    /    /____/o   /___\ _  /  \    /
+  \//      \/          \\/    _____/    /    /    //   /\    \\ /    \  /
+  /_________\_____|______\_______ /    /________ /____________\___/\___/
+          |       ¦             \/             \/                  |Sk¡n 
+          |________________________________________________________|
+
+                         dA uLTiMaTe dEMo BBS for:
+
+        aMiGa · pC · cONSoLe · aScII  ( c64, aTaRi & aRCHiMEdEs sOOn )
+
+
+      ReMeDy wHQ (Amiga)  ·  x-FiLEs nEWs sTaTiOn  ·  U.D.O. wHQ (Amiga)
+
+        aRtWoRk gHQ (Amiga & PC)  ·  aNAdUNe dIStRiBuTiON SiTe (Amiga)
+
+                  sUPeRiOr aRt cReATiONs dIStRiBuTiON SiTe (PC)
+
+   aLieNDeSiGN gHQ (Amiga-Tools)  ·  tRSi rECoRDz dIStRiBuTiON SiTe (Audio)
+
+
+      sEArCHiNg fOr mORe gRoUPs!   eSpEziAllY c64, aTaRi aNd aRChiMeDEs!
+
+                                dA sYSOPs aRe:
+             Node 1 & 2 :                            Node 3 & 4 :
+            USR V34+ Modem          rAMSeS            Euro  ISDN 
+          +49-(0)30-47411057          &&          +49-(0)30-47411058
+                                     pASo
+
+        sTiLL uNDeR cONsTRuCTiOn! sOon aLL dEMoS eVEr rELeASeD oNLiNe!
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+      Crew: Mogue!÷Deskline÷Tolpan÷The Assassin÷Goldman÷Hico÷Slime÷Exocet
+     ---------------------------------------------------------------------
+  2* Us Robotics 33k6 «÷» 2* Euro Isdn x.75 «÷» 4* Telnet (On Isdn 24 Hours)
+
+   ___________ ___  _____ ____:_______ _______ ______ _____      ______ ____
+                ____\   //    |_     //   _   \\_____))  _/_____|     //    |_
+    ·cDr/m's·   \   _\        _/    /    ./              \_    _|           _/
+               /______________|__________|_____________________\.     ______|
+          ______ _______ _____:________                         |_____|     .
+    _____|     //   _   \\    |_      /____                                 |
+    \   _|         ./         ./_____/    /    Ami \ Mac \ C64 \ Con \ Asc _|
+   /____\.     ____|__________|____________\\·___ _________________________\
+         |_____|                             \\
+
+     «÷»       Sunflex Inc And Looker House German Headquarter       «÷»
+     «÷»  Arclite European Headquarter And Oma Unique Meeting Place  «÷»
+     «÷»      Type o'Negative And Desaster 64 World Headquarter      «÷»
+
+  Running FAME On A2ooo Tower - 68o4o/4oMhz/38Mb - 2 Gig (All Nodes On Isdn)
+ ----------------------------------------------------------------------------
+ Large Commodore 64 Conference And On Of Worlds Fastest In Ansi\Ascii Business
+    (Try This One To Meet The REAL Ascii Scene - All Nodes Running On Isdn)
+
+
+
+
+
+
+
+ [32m#########################################################################
+#                                  [31m_____                               [32m####
+# [33mcALL  tHIS  bOARD aND hAVE fUN   [31m|   |          [36mÄÍÍ x-tASY HQ ÍÍÄ     [32m###
+#[35m----------------------------------[31m|___|[35m----- [36mcHAOS-cREW ÄÄÍÍ WHQ ÍÍÄÄ   [32m##
+#   [34m0-4 daY-wAERZ                               [36mÄÄÍÍ pHACE HQ ÍÍÄÄ        [32m#
+#     [31m________ ____     ______   ________ ____ ___ ____ ___ ________      [32m#
+#  [31m___\_  _  ¬\\_  ¡____\_  _¬\__\_  _   \\_  Y  ¬\\_  Y  ¬\\_  _  ¬\___  [32m#
+# [31m¡    /  Y __/ /  |___  /  Y ·\  /  Y___/ /  ! __/ /  !  _/ /  Y___/   ¡ [32m#
+# [31m| · //  _  ¬\//  |  ¬\/   _  \\//  |  ¬\//  _  ¬\//   _/  _\__   ¬\ · | [32m#
+# [31m!__/·   Y   /·   !   /    Y   /·   !   /·   Y   /·   ¡___/·  ¬\    \__! [32m#
+#    [31m\_  _____\_  _____\_  _!___\_  _____\_  _!___\_  _!   \_  ______/    [32m#
+#      [31m\/       \/       \/       \/       \/       \/       \/           [32m#
+# [33mrUnnIng wIth a2øøø/ø4ø 8.0 gIg hDsPACE  aND  [35m/T\eMpesT 3.xx reGisterEd  [32m#
+#                                                                         #
+#     [34mtHE bARkEPPER is bLACKY                    2*ISDN                   [32m#
+#   [34mtHE wAITER is [RaDiANT RaBBiT! & Gremlin     1*28k8 vFC 1*33k6 v34+   [32m#
+#           [31m____ ___ ______   ________ ____ ________ ________             [32m#
+# [33maMIga  [31m___\_  Y  ¬\\_  _¬\__\_  _  ¬\\_  ¡\_  _  ¬\\_  _  ¬\___ [33mcOnsOle [32m#
+# [33mpEEcEE[31m¡    /  ! __/ /  Y ·\  /  Y___/ /  | /  Y  _/ /  Y___/   ¡        [32m#
+# [33mx-Rat [31m| · //  _  ¬\/   |  \\//  __/__//  |//   _/  //  __/__ · | [33m/T\    [32m#
+#       [31m!__/·   Y   /    |   /·   Y   /·   /·   ¡___/·   Y   ¬\__! [33mtOOls  [32m#
+#           [31m\_  _!___\_  _!___\_  _____\_  _\_  _!   \_  ______/   [33mc64    [32m#
+##            [31m\/       \/       \/       \/   \/       \/·$·              [32m#
+###                  [35maSK fOR nUMBERS sYSpW and NUP                        [32m#
+####                                                                      #
+ #########################################################################
+[31m[-DATE-] [-TIME-] @@ [-HANDLE--------]                    [-LOCATION------]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ+--- -- -  -  -  [MO'SOUL!]  -  -  - -- ---+
+__  ______  __.  ______     _ __ ____ ___
+  \/     /__\ | _\    /____    /    /   /
+    /   /   \\|  |\   \    \ _/|   /   /____
+  \/___/    \\ _______/    \\______\  /|   /
+___\-\_______/------\_______/÷e÷-\_________\
+|                                          |
+|    MO'SOUL IS DEAD - READ INSIDE WHY!    |
+|      MARK RYDER "GOING ON VECATION"      |
+|                                          |
++------------------------------------------+
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          " it's strange...the love inside, you take it with you. "
+                  _
+ ______  ___. ____\ ___________ _. ____
+ \     \/   | ___  \\______   /__|/   /      ____ this is the end my friends
+  \   \  /  | \___  \/ \  ___/ \  ___/_______\___\  ____           ___________
+_ _\   \/   |   /    \  \   \_  \   \_\______   / \/   / .___._____\______   /
+ \\\\___\___|__/______\ _\___/___\___/ / \  ___/   ___/__|___|  ____/ \  ___/
+                       \              /   \   \_\_ \   _____/| ___/___ \   \
+                                   dZG\____\___//   \   \|   | /_    /__\   \_
+                                                \  / \   \   |______/    \___/
+ written by mark ryder of mo'soul                \/   \______|
+
+ date: norway, 17th of may 1997.
+
+ IS THIS THE END?
+ ----------------
+ NO, it's not. I WILL BE BACK, but it might take a while before I return.  I
+ have plans to buy a PC, but since I can't afford one right now,  and  since
+ my economy ain't too great these days, I do not know when that will be. but
+ take note, I WILL BE BACK! this is not a final good-bye --- I'm just taking
+ a vecation from the scene.
+
+ WHAT ABOUT MO'SOUL?
+ -------------------
+ MO'SOUL IS DEAD. *NO ONE* can say they are a member of MO'SOUL. the MO'SOUL
+ name and M'S tag is (c)opyright MARK RYDER. I am very very sure B, CRUSADER
+ DESOTO, MANTA or VINZI won't have problems finding some other   ascii group
+ to join if they want to. it's been fun guys, you really made Mo'Soul rock!!
+                                  - sunday the 18th 1997 mo'soul closes down
+
+ HISTORY
+ -------
+ I've been a member of: BALANCE, LEGEND, VISION, MAJIC 12,  EON,  THE PORNOS,
+ EPSILON DESIGN, CHAOS A.D/RAM-JAM, LINGO, INHUMANS and MO'SOUL. my functions
+ has been SWAPPER, LEADER/ORGANIZER, SYSOP, MUSICIAN and ascii artist.
+
+ a module, "mod.urban chaos v2", was used by BALANCE in a 40kB intro released
+ at THE PARTY III.
+
+ I managed to get 4 articles into UPSTREAM (issue#8/entertainment section)
+
+ CU AMIGA has a review of UPSTREAM issue #o8 in their JUNE 1994 issue:
+
+ "This is a mag for anyone who is seriously into the demo scene -- not just
+  the demos themselves, but all the gossip and bitching that goes on between
+  the various coding teams. It's a bit like "Coronation Street" for hackers
+  really -- Whiplash has renamed himself Fizban, Stranger has been thrown
+  out of DCS, and TERMINAL SILENCE recieved a phone bill for $1422!
+  Exciting, isn't it?"
+
+ (I've used "terminal silence" as a handle before..)
+
+ now, wasn't that boring & pathetic? :-)
+
+ KEEP IN TOUCH!
+ --------------
+ those who want to keep in touch with me, get a pen and some paper and write
+    me a letter. guess it's now time to see who's a friend and who's not!
+
+                          my address is as follows:
+
+                                marius aasheim
+                                 nordbyvn 209
+                                2013 skjetten
+                                    norway
+
+  those with a minidisc recorder & a good taste in music should also write!
+                                   (hehe!)
+
+ MESSAGES
+ --------
+ here are some messages for various people. don't feel too bad if you're not
+          included - it's only me and my goldfish memory's fault :)
+
+                SOMEONE get an ASCII directory up on AMINET!!
+
+
+
+                        U - M A N   /   A R C L I T E
+
+   oh man oh man, we've had some great times! we've had major times. we've
+  been through the hi's and low's.  damn, it's sad I can't catch you online
+   anymore -- but I do hope you're going to write to me. after all, we got
+   to do that MINIDISC trading! and, some time, when my bank account grows
+              mysteriously large, I have to come for a visit :)
+
+   anyways, it's sad to sell off the amiga. guess I'll have to find myself
+    some sort of hobby now. damn. after all, the amiga never was a hobby:
+                            it was a way of life.
+
+    sad about FREESTATE thou, would have LOVED to do that co-op with you!
+   but, life ain't easy and never will be..write to me anders, just do it!
+
+             ( meet you in our next life, as whores I'm sure :))
+
+
+
+                     C R U S A D E R   /   M O ' S O U L
+
+    sad it has to end so suddenly, but there's nothing I can do about it.
+  you, like Anders, has been one of the guys I can really call a friend. we
+  have traded some major letters through the time and it's been fun. I hope
+  I will come back some day, and that day I hope to be able to go online on
+               IRC and /MSG CRUSADER HI! ..and get a reply! :)
+
+greet candyman too! he's cool. you're both cool :) finnish power all the way!
+                          ykksi kakksi and rock on!
+
+      (we'll get together and cum on the spicegirl's faces some time ;)
+
+
+
+                R E D   D E M O N   /   L O W   P R O F I L E
+
+   havn't "known" you for too long, and we havn't chatted that many times,
+ but the few chat's we've had have been all good. stay cool, and hope Canada
+  will be nice.  if the Gods feels like smiling some day, we'll meet on IRC
+                         again :) stay great, peace!
+
+                           ( make bongs, not war )
+
+
+
+                          T A N G O   /   S T Y L E
+
+   nice having "known" you, and thanks for the fab art bomb interview! :-)
+ I feel no pity for you, you live in the land of many many nice music stores
+and you've got a kicking toys'r'us store up in new castle -- and even argos!!
+the u.k rocks! cheap cars too..hope I can /WHOIS TANGO sometime in the future
+
+               ( leave flozzie alone, the sheep needs a rest )
+
+
+
+                            B   /   M O ' S O U L
+
+     got some rumours today that you were re-opening PRO-ARTS with zeus?
+   picked a mighty fine time to do it too :) we really havn't chatted that
+  much, but it's been nice to have you in mo'soul. always liked your style!
+
+     ( slap your sister around 'sum, she's a bloody pain in the arse! :)
+
+
+
+                        V I N Z I   /   M O ' S O U L
+
+  you joined, after a year you had a preview, now the group is dead :) hehe
+ no one can accuse me of driving people too hard in mo'soul atleast :) it is
+      a shame you havn't release more 'cause your style is well wicked!
+                              nice www page btw
+
+               ( grow some hair on your head for gawds sake :)
+                            ( and a goat beard! )
+                                  ( hehe! )
+
+
+
+                        O C T O P L E X   /   O N Y X
+
+ WWW.HAUGAN.COM -- rocks! :) sorry I couldn't do you a ONYX ascii, just dont
+ have the time to do it before I sell off the amiga.  if I visit some doodle
+     with internet and a computer I'll draw one and DCC it to some one..
+                    we had some fun times on middle east!
+
+               ( cosworth sucks, old-ass american cars roxx :)
+
+
+
+                        M A N T A   /   M O ' S O U L
+
+ never really got to "talk" to you that much,  but I can say that you picked
+ a nice time to come back to the scene! I'd been looking for you for a while
+ when you came back 'cause I saw some of your pieces.  love your style, keep
+               it going and hope to "see" you some time again!
+
+  ( sorry about the www page...re-name it and give it to some one else? :))
+
+
+
+             S H A N E   /   C R U X ^ B A D   K A R M A   I N C
+
+    'oy, shane! one of the people I met once I got on IRC. nice chatting,
+          always been a friendly bloke. hope you'll stay that way!!
+
+                    ( thank you for all the nice cracks )
+
+
+
+                                K I N G P I N
+
+ kill my account on CHECKPOINT. a *GREAT* board btw! love it!!  it's the one
+    board I've called most in my whole life.  close the HORD conf, ok? :)
+
+     (sorry about all the leeching, but you've got some nice ascii's? :)
+
+
+
+                       D E S O T O   /   M O ' S O U L
+
+   desoto...boobie. you've been splendid, and I hope you won't quit making
+   your brilliant styles! M'S-CRM!.TXT rocked so hard, I can't describe it
+                     EVERYONE should view it RIGHT AWAY!
+
+        anyways, I hope to come back to the scene and find you there!
+      you can always write me something, would be nice to keep in touch
+
+                           ( do your homework! ;))
+
+
+
+               S I E G E L   /   T R S I   I N N O V A T I O N
+
+   thanks for the art bomb support. nice that some one cared.  hope to see
+        some TRSI INNOVATION tools on FTP/WWW sites when I return :-)
+
+                 ( trsi innovation - beyond the minds eye! )
+
+
+
+          G R A V E D A N C E R   /   T Y P E - O - N E G A T I V E
+
+      MAJOR THANKS for the support and all the nice friendly mails. you
+      have been a great person to "talk" to - maybe we'll "meet" again?
+
+                          ( sorry about the porn! )
+
+
+
+                           F L A K E   /   T R S I
+
+       I will take this opportunity to say that you're a big arsehole.
+    yes, that is correct - you SUCK DONKEY DICKS! VIRUS WORKSHOP *DIDN'T*
+  kill the EBOLA LINK VIRUS!  people have come to me on IRC and told me how
+  they had the same problem. I truly HATE people like you who think they're
+  so damn important just 'cause they've got to join a nice group like TRSI.
+  you never could give me a propper reply to my textfiles,  you just fed me
+  bullshit and arrogant nonsense. if you ever cought AIDS I bet you'd claim
+            virus workshop could kill that too. arrogant pissant.
+
+
+
+                    S T R I D E R   /   F A I R L I G H T
+
+    never got to write you that mail I promised I'm afraid. seeing as I'm
+leaving I guess it won't really matter that much.  keep the WWW.FAIRLIGHT.ORG
+  page going -- it's GREAT! love it! get AGA fixes of the FAIRLIGHT intros,
+                           that would rock insane!
+
+ (thanks for many many hours of fun with cracks! fairlight is a true legend)
+
+
+
+                                Z O L T R I X
+
+finally you can send me e-mail's, and what do I do? yeee, that's right - sell
+ my amiga. sheesus...well,  I'll be thinking of you the next time I read MAX
+  POWER atleast ;) you're a well sorted bloke, no "I'm in a cool group so I
+                can treat everyone like SHIT" flake-additude.
+
+    ( factory notice: Granada's tend to fall apart when they hit 40mph! )
+
+
+
+                 F A T A L   /   E P S I L O N   D E S I G N
+
+  what can I say that hasn't been said? :) except "FLASHBACK" was e^d's all
+               time best release :) hehe. amaze me, write me!!
+
+                      ( damn, you smoke & idle much! :)
+
+
+
+            N E C R O M A N C E R   /   R E M O R S E ! A S C I I
+
+    we've had some GREAT verbal wars :) but in the end it turned out OK..
+       hope to catch that horny G0AT on us-efnet #ascii when I return.
+
+            ( I give in to the dark side .. the Bill Gates Side )
+
+
+
+                W H O D I N I   /   R E M O R S E ! A S C I I
+
+    you almost out-ranked xcluziwe/sos when I was war'ing, great show! :)
+   if remorse's been around since 1987, then you can stay alive a few more
+           years so I can torture you with more silly /MSG's later
+
+             ( slap a $1 bill in her face, bee-atches love it! )
+
+
+
+                                   F U R Y
+
+  another friendly guy! havn't talked to you much lately though. hope to be
+        able to dial hard when I return in the future! see you Chris!
+
+ ( harder baby..oooh..yeee..show daddy how you dial! work that modem baby! )
+
+
+
+                                   E N Z O
+
+   thanks for the cd's, but we never got around to trading that last one..
+        also - many many thanks for USING my SKY TOWER logo!! rocked!
+
+  ( legoland sucks! I'd rather visit a danish gasstation. porno & booze! :)
+
+
+
+                               C E S S P O O L
+
+  hope you get that job you talked about! keep the afro up and keep rocking
+                     to those wicked dope polka beats :)
+
+                ( thanks for killing off Sargon inn #ascii :)
+
+
+
+                                 G R Y Z O R
+
+    I remember reading some textfiles written by you, and many about you.
+ when I got online on IRC for the first time and saw you online in #amielite
+   I thought you'd fill my amiga with virus and hack my account -- but you
+    didn't :) you're one of those persons who really surprised me..thanks
+     a million for all the help, answering me all those stupid questions
+                         about IRC in the beginning!
+
+
+
+                                  2 F A S T
+
+         too bad no SOUL EDGE PAL :-( but nice chatting! keep it on!
+
+                          ( superman will return? )
+
+
+
+                                   J A V A
+
+          now you'll have to find someone else to try and flood :))
+
+                               ( /PING JAVA_ )
+                        ( /DCC JAVA_ RAM:EMPTY1.TXT )
+                           ( /CTCP JAVA_ SOD_OFF )
+                               ( /PING JAVA_ )
+                        ( /DCC JAVA_ RAM:EMPTY2.TXT )
+                           ( /CTCP JAVA_ SOD_OFF )
+                               ( /PING JAVA_ )
+                        ( /DCC JAVA_ RAM:EMPTY3.TXT )
+                           ( /CTCP JAVA_ SOD_OFF )
+                               ( /PING JAVA_ )
+                        ( /DCC JAVA_ RAM:EMPTY4.TXT )
+                                   ( etc )
+                                  ( hehe! )
+
+
+
+                               C Y B E R G O D
+
+      hm. I was going to write you something clever, but then I forgot.
+
+                           ( duuuh...uuuh...mmmh )
+
+
+
+                       D A N Z I G   /   A R C L I T E
+
+    love your work, love it. you truly inspired me to start makin' ascii!
+                 much respect! also, nice e-mail's & chat's!
+
+                             ( the king, truly )
+
+
+
+                       E X O C E T   /   A R C L I T E
+
+    nice "talking" to you. hope to see ARCLITE alive when I return! maybe
+           you and me could do a co-op then? would be fun fun fun!
+
+ ( arclite - sex murder drugs rock'n'roll'n'drum'n'base and then some art ;)
+
+
+
+                                 F U N G U S
+
+                      thanks for all the nice ideas ;-)
+
+                  ( lsd? you're on it? oh, you're inn it! )
+
+
+
+                        K A R M A   /   A R C L I T E
+
+            love your style, fab! you're also a very nice person!
+
+                              ( stay the same )
+
+
+
+                         T O M M Y   /   A L T E R N
+
+    nice e-mail's and chat's! will altern still be around when I return??
+
+                       ( forgot the THX mods, fawk.. )
+
+
+
+                          Z E U S   /   M Y S T I C
+
+                       here' your TRADEWARS 2002 logo!
+                                                             :_
+   _ ___  ___/\ ____ ___/\ ____ ___/\ ____ ___/\ ____ ___/\ _| \_  ___ _
+        \\\__  \__  \\__  \__  \\__  \__  \\__  \___ \\__  \_|__///
+           /     /   \/     /   \/   __|_  \/      /  \/  _____)__
+         _/    _/     \   _/     \   \___   \_   _/    \_\\       \_
+        /     \\______/  \\______//\   |      \ \\___    \ \_       \m'S
+       /          \_        |       \  |       \          \ /        \
+       \           |        |       /  |       /          //_        /
+     mR!\__________|________|_______\__|______/__________/__________/ :
+                                           ._             .     .     |
+   ___/\ _:   ___/\ ____ ___/\ ____ ___/\ _| \_      .....|.....|.....|.....
+ \\\__  \ |___\__  \__  \\__  \__  \\__  \_|__/     ::: ::|:: ::|:: ::|:: :::
+    /     |   \/   __|_  \/     /   \/________ \\\  ....::|:: ::|:: ::|...:::
+  _/      |    \_  \___   \_  _/     \       // \_ ::::   |:: ::|:: ::|::
+ /        |      \   |      \\\______//\   _/     \:::: ::|:: ::|:: ::|:: :::
+/         |       \  |       \  |       \  \       \::: ::|:: ::|:: ::|:: :::
+\                 /  |       /  |       /   \_     /::: ::|:: ::|:: ::|:: :::
+ \________T______/___|______/___|_______\_________/::::.::|::.::|::.::|::.:::
+          :          "          :                         |     |     |
+          T   R   A   D   E       W   A   R   S       2   O   O : 2   :
+          .                                               :
+
+                           ( finally made it! :) )
+
+
+
+                                S A L - O N E
+
+    I can remember calling up BOONDOCKS when I was a "Fresh" ascii maker,
+ asking to join G-STYLE ('cause G^S kicked those days with 911, GODHEAD etc)
+     and you refused. still, I've always thought you vere a nice chap :)
+
+               ( what ever happened to that colly of yours?? )
+
+
+
+                              S P E E D E V I L
+
+                  get a girlfriend! that's all I can say :)
+
+     ( 4.Boot:> utilities/multiview hd1:pictures/cumshots/facial67.jpg )
+                                   (hehe!)
+
+
+
+                     D E V I S T A T O R   /   A B Y S S
+
+                  'oy, nice chatting! nothing moe I can say
+
+                             ( u.k STILL rocks )
+
+
+
+                                 R E L I E F
+
+             try the vacuum cleaner on reverse -- major bong! :)
+
+      ( this is the police, we are here to take away your hoover sir! )
+
+
+
+                          H 2 O   /   A R C L I T E
+
+          good luck with ASCII ATTACK. btw. why is the site called:
+                        members.aol.com/ANSIattack ??
+                 why not ASCIIattack? would sound better :))
+
+                     ( raveland? marusha? whatthehell? )
+
+
+
+                       and that's all I can remember..
+
+                        hope I havn't forgot anyone!!
+
+
+                    ·· UN-RELEASED STUFF COMING UP!!!! ··
+
+[BLACK SUN logo]=============================================================
+
+                         ø-------------------------ø
+                         |                     __  |
+                         |                   //_/\ |
+                         |                    \_\/ |
+    ............ ....... |       ........... ......!......  ...... ::::::
+    :::::: :::::: :::::: !..... :::::: :::::: :::::: :::::: :::::: ::::::
+       ....:::::. :::::: :::::: :::::: :::::: :::::: ...... ::::::.:::::.
+    ...... :::::: :::::: :::::: :::::: :::::: :::::: :::::: :::::: ::::::
+    :::::: :::::: :::::: :::::: ::::::.:::::: :::::: :::::: :::::: ::::::
+    :::::: :::::: :::::: :::::: :::::: :::::: :::::: :::::: :::::: ::::::
+   .::::::.:::::: ::::::.::::::.:::::: ::::::.::::::.::::::.:::::: ::::::.
+                       mR!                         m'S             ::::::
+       ................. |             ..........  |.................
+      ::::::::::.........!  .......... :::::::::: .!........ ::::::::::
+      .......... :::::::::: :::::::::: :::::::::: :::::::::: ::::::::::
+      :::::::::: :::::::::: :::::::::: :::::::::: :::::::::: ::::::::::
+ . ...::::::::::.:::::::::: `:::::::::.:::::::::' :::::::::: ::::::::::... .
+                 :::::::::                         |          :::::::::
+                 ::::::::|  · B L A C K   S U N ·  |           ::::::::
+                 ::::::: |                         |            :::::::
+                 ::::::  |                         |             ::::::
+                 :::::   |                         |              :::::
+                 ::::    |                         |               ::::
+                 :::     |                         |                :::
+                 ::      |                         |                 ::
+                 :       |  __                     |                  :
+                         | /\_\\                   |
+                         | \/_/                    |
+                         |                         |
+                         ø-------------------------ø
+
+[CANDY STORE logo]===========================================================
+
+          ___/\ ____ ___/\ ____ ___  /\ __ ___/\ ____       :___
+ ø------\\\__  \___ \\__  \__  \\__\/  \\ \\__  \___ \  ____|   \----------ø
+ |         /    __/___/   __|_  \/     |\\ \/      /  \/    |    \         |
+ |       _/     \     \_  \___   \_    | \  \_   _/    \_   |     \_       |
+ |      /        \      \   |      \   |      \ \\___    \  |       \     .|
+ |     /      _ __\      \  |       \  |       \          \__ _      \    ||
+ |     \_                /  |       /  |       /          /|        _/    ||
+ |   mR!/_______________/___|______/___|______/__________/ |________\     :|
+ |                :_                                       ::_            .|
+ |.        ___/\ _| \____/\ ______/\ ____ ___/\ ____ ___/\ _| \_           |
+ ||        \__  \_|__/\__  \__  __  \___ \\__  \___ \\__  \_|__///         |
+ ||        _/________ \/     /   \    |/  \/     |/  \/   ____)__          |
+ |:       _\        /  \_  _/     \   /    \_   _____//\ \\      \_        |
+ |.      /         /     \ \_______\ /|_     \   |      \  \       \       |
+ |      /         /__ _   \   |       :       \  |       \ _\       \      |
+ |      \_                /   |               /  |       /         _/m'S   |
+ ø-------/_______________/____|______________/___|_______\_________\-------ø
+
+[DESOTO logo (not finnished)]================================================
+
+                       :_         :_
+     ___/\ ____ ___/\ _| \____/\ _| \____/\ ____ ___/\ _______/\ ____
+  mR!\__  \___ \\__  \_|__/\__  \_|__/\__  \___ \\__  \__  ___  \___ \m'S
+      /      /  \/  _____)__/________ \/     |/  \/     /   \     |/  \
+    _/     _/    \_\\       \_      // \_    /    \_  _/     \_   /    \_
+   /      \\___    \ \        \    /     \  /|_     \\\_______/  /|_     \
+  /                 \ \_       \ _/       \  :       \  |         :       \
+  \                 / _//      / \___     /          /  |                 /
+ \\\_______________/__________/__________/__________/___|________________///
+                  _                                     : _
+                  (   D E S o T o   o F   M o ' S o U L   )
+
+=====[MY SUGGESTION FOR THE INTRO OF U-MAN AND MINE'S SUPPOSED TO BE RELEASED
+CO-OPERATION PRODUCTION "FREESTATE"]=========================================
+
+
+
+
+            let the evil spread like locust, see the heavens burn
+
+     your horned god has returned - the silver blade is for jesus christ
+
+                              murder death kill
+
+                     diablo shall rise again - sixSIXsix
+
+                                      _
+                                   ___|___
+                           _ __  __) (|) (__  __ _
+                               \\\    |    ///
+                                  \/  :  \/
+                                   |     |
+                                   |.    |
+                                   ||    |
+                                   |:    |
+                                   |.    :
+                                _  |     _
+    ..........   .....   .....  )\ :    /(  .....  ###  .....  ###  .....
+   :::  ... ::: ... ::: ... ::: | \    / | :::...  ### ::: ::: ### ... :::
+  .:::. ::: ::: ::: ::: ::: :::_!  \__/  !_... ::: ### ::: ::: ### ::: :::
+   :::  ::: ::: ::: ::: ::: :::)\   \/   /(::: ::: ### ::: ::: ### ::: :::
+   :::  ::: ::: :::..   :::.. (  _  ¡¡  _  ):: ::: ### ::: ::: ### :::..
+   :::  ::: ::: ::: ... ::: ...)/_\//\\/_\(::: ::: ### ::: ::: ### ::: ...
+   :::  ::: ::: ::: ::: ::: ::: _)      (_ ::: ::#######:: ::#######:: :::
+   :::  :::.::  ::: ::: ::: ::: | /\/\/\ | ::: ::: ### :::.::: ### ::: :::
+ mR!::  ::: ::: :::.:::.:::.:::.)/ .    \(.:::.::: ### ::: ::: ### :::.::m'S
+            :::     :::     ::: :  |     :     :::                     :::
+            ::      ::      ::     |     |      ::                     ::
+            :       :       :      |     |       :                     :
+                                   |     |
+ ·    F       R       E       E    |  S  |    T       A       T       E    ·
+                                   |    .|
+                                   |    ||
+                                   |    ||
+                                   |    :|
+                                   |    .|
+                                   |     |
+                            _ ___ /\  \  /\ ___ _
+                                //___/:\___\\
+                                   : ::: :
+                                   : ::: :
+                               . ..:.....:.. .
+                                   :     :
+                                   :     .
+                                   :
+                                   .
+
+
+
+
+
+
+                      W I T N E S S   T H E   P O W E R
+
+
+
+
+
+               A R C L I T E   ( t m )   p r o d u c t i o n s
+
+                                    a n d
+
+    M O ' S O U L   ( t m )   w o r l d   w i d e   a s c i i   w o r k s
+
+
+
+
+
+                             [ P R E S E N T S ]
+
+
+
+
+                  "   f   r   e   e   s   t   a   t   e   "
+
+              U-MAN appears curtesy of arclite (tm) productions
+      MARK RYDER appears curtesy of mo'soul (tm) world wide ascii works
+
+                                     :::
+                                      :::
+                                     :::
+                                    :::
+                                   :::
+                                    :::
+                                     ::
+                                      :
+
+                     t h e   j o u r n e y   b e g i n s
+
+[SOME LOGOS I MADE UNDER THE FAKE NAME "HIT MAN PALMER"]=====================
+
+                        LOGO#o1: HIT MAN PALMER (hMp)
+
+          _____.    :    . _______   ______     _________ ___ _____
+          )   _|____|    |_|     |__ )  _ L ____)  ___  (_)  \\   (_
+ _)-------|   \__   (    \         /-|  (_ _)  |    |    |    \\   |------(_
+ |        |     /   |    |\/     \/  |    T    |    |    |    |\   |       |
+ |        |   _/    |    | |     |   |    |    |    |    |    |    |       |
+ |        |__\\_____|    | |_____|hMp|    |____|____|____|____|____|       |
+ :                  :            :   |    |         :         :            |
+ .           ________ _____ ______   |    |     ________     ________      |
+ .       ___\\__    /___  (_)    /___|  _ L ____)  ____//___\\__    /      |
+ :       )   _)/   /  |    |    /    |  (_ _)  | ____/___)   _)/   /       |
+ |       |  \\__  /   |    |  _/     |    T    | \\_     |  \\__  /_       |
+ |       |    | \/    |    | \\__    |    |    |   /     :    | \/ (       |
+ `-------|____|--|____|____|_________|____|____|__/______|____|_____\------'
+              :       :                                  :
+
+           H   I   T       M   /\   N       P   /\   L   M   E   R
+
+                            LOGO#o2: BROTHERHOOD!
+
+   _____.        ________ __:____  _______ _____.     ________     ________
+   )   _|_______\\__    /   |   /__|     |_)   _|_____)  ____//___\\__    /
+   |   \__   )   _)/   /   _|_   \         /   \__   | ____/___)   _)/   /
+   |    |/   |  \\__  /_   )_(   |\/     \/|    |/   | \\_     |  \\__  /_
+   |   _/    |    | \/ (_   |   _| |     | |   _/    |   /     |    | \/ (
+   |__\\_____|____|____|/___|___\  |_____| |__\\_____|__/______|____|____|
+   :                        :                                            :
+   :              _____.     ____:____ ____:____     ._____              :
+   :              )   _|_____\   |   /_\   |   /_____|_   (              |
+   :....          |   \__   |   _|_   |   _|_   |   __/   |          ....:
+   ... :          |     /   |   )_(   |   )_(   |  \\|    |          : ...
+   ::: |          |   _/    |_   |   _|_   |   _|    \_   |      hMp : :::
+   ::: :....... . |__\\_____|/___|___\ /___|___\|_____//__| . .......: :::
+                                 :         :
+
+                  B   R   O   T   H   E   R   H   O   O   D
+
+[RED DEMON logo]=============================================================
+
+                                       :_
+              _ ___  ___/\ ____ ___/\ _| \____/\ ____  ___ _
+                   \\\__  \__  \\__  \_|__/\__  \___ \\\
+                      /     /   \/   ____)__/      /  \
+                    _/    _/     \  \\      \_   _/    \_
+                   /     \\_:__  //\  \_      \ \\___    \
+                  /         |  \/   \  /       \          \
+                  \         |       / /___ _   /          /
+                   \________|_______\_________/__________/m'S
+                            :_
+          ___/\ ____ ___/\ _| \____/\ _:   ___/\ ____ ___  /\ __
+       mR!\__  \___ \\__  \_|__/\__  \ |___\__  \___ \\__\/  \\ \
+           /      /  \/   ____)__/     |   \/     |/  \/     |\\ \
+         _/     _/    \_ \\      \_  \_¯_/  \_    /    \_    | \  \_
+        /      \\___    \  \_      \   T      \  /|_     \   |      \
+       /                 \  /       \  |       \  :       \  |       \
+       \                 / /___ _   /  |       /          /  |       /
+  _ __\\\_______________/__________/___|______/__________/___|______///__ _
+                                       :
+         - *   R E D   D E M o N   o F   L o W   P R o F I L E   * -
+_ _________________________________________________________________________ _
+
+[RELIEF logo]================================================================
+
+                                       __/\_  _/\__
+                                     \\\   (--)   ///
+                          :_            \/  \/  \/     :_
+        ___/\ ____ ___/\ _| \____/\ ___  |      |__/\ _| \____/\ ____  ____ _
+     mR!\__  \__  \\__  \_|__/\__  \  /__|      \__  \_|__/\__  \__  \\\
+         /     /   \/  _____)__/     /   \      |/  _____)__/     /   \_
+       _/    _/     \ \\       \_  _/     \_   _/  \\       \_  //_____/
+      /     \\_:__  //\ \_       \ \        \ /      \_       \   |
+     /         |  \/   \ /        \ \        \        /        \  |
+     \         |       //___      /  \___    /       /___      /  |
+_ __\\\________|_______\_________/__________/ \_______________/___|m'S
+               :                         |      |                 :
+                                         |.     |
+                                         ||     |
+                                         |:     |
+                                         |.     |
+                                         |      :
+                                         :
+                                         .
+
+                                         .
+
+[TANGO logo]=================================================================
+
+                                                  .
+                                                  |
+                                                  :_
+          ___/\ ____ ___/\ ____ ___  /\ __ ___/\ _| \____/\ ____
+          \__  \__  \\__  \__  \\__\/  \\ \\__ _\_|__/\__  \___ \
+           /     /   \/   __|_  \/     |\\ \/  \ __   \/      /  \
+         _/    _/     \_  \___   \_    | \  \_  \/|    \_   _/    \_
+        /     \\_______/    |      \   |      \   |      \ \\___    \
+       /         |          |       \  |       \  |       \          \
+       \         |m'S       |       /  |       /  |       /          /
+ _ ___\\\______mR!\_________|______/___|______/___|______/__________///___ _
+                 :                                :
+                       [  T A N G o   /   S T Y L E  ]
+                                                  |
+                                                  :
+                                                  .
+
+                                                  .
+
+[TRISTAR RED SECTOR logo]====================================================
+
+                             :
+                             |_
+                             \//
+                             |
+                      :      | T R I S T A R
+ .______:    _________|_     |_________   .______:     :#:       __________|_
+_|      |_ _\\____     /     |  _____ //__|      |_ :::###:::___\\____     /
+\        /     _// ___/      |______\/__ \        /:: ##### :::    _// ___/
+ \/    \/      |      \_     |        _// \/    \/:: ### ### :::   |      \_
+ |      |      |       /     |        \   |    # ############### # |       /
+ |______|______|_______\   mR!_________\__|______| ###     ###_____|_______\
+ :             :             |m'S         :       ### ::::: ###    :
+   __                        |        _        //\##/\\
+  /\_\                _______|___ ____)\     : / (  ) \
+  \/_/              _\\____     / ___   \ ___|/   \/   \:
+                        _// ___/   \\___/  _/|)___¡¡___(|
+                 R      |      \_   \ _    \(  _ _/\_ _  )  D
+                        |       /    \/     \\// )/\( \\/               __
+                 _ _____|_______\ ___________\ |      |                /_/\
+                        :    |                 |      :                \_\/
+            :_         :_    |                 :      .
+     ___/\ _| \____/\ _| \___|/\ ____ ___/\ ___.___/\ ____ ___/\ ____
+     \__  \_|__/\__  \_|__/\__  \___ \\__  \__  ___  \___ \\__  \__  \\\
+     _/________ \/  _____)__/     |____/     /   \     |/  \/     /   \
+    _\        /  \_\\       \_    |    \_  _/     \    /    \_  _/     \
+   /        _/     \ \_       \   |      \\\______/   /|_     \\\______//\
+  /        \\       \ //       \  :       \   |        :       \  |       \
+  \         _\      //_        /          /   |                /  |       /
+ \\\_______________/__________/__________/____|_______________/___|_______\
+                             |
+                             | S E C 7 O R
+                             |
+                             |                    - TRISTAR & RED SECTOR INC
+                             :                        "" the sleeping gods ""
+                             .
+
+[(old) U-MAN logo]===========================================================
+
+                __________:_____   ______     ______ _____ ______
+            ____\_             (_:_)    / ____\_   (      \\    (_:
+            )    /     _______   |  _   \ )    /    \      \\     |
+           /    /_\    \ /    )_____(    /    /_\    \     |\     |
+          /     \\      \        |      /     \\      \    |      |
+     = ===\______\\_____/ _______|      \______\\_____/____|      |=== =
+                                 |      _/                 |      m'S
+                               mR!______\                  |______|
+                                 :                         :
+
+=============================================================================
+
+      and that's all I got time for before I go to bed for some sleep..
+
+  as I said, I'll be back some time, just donno when.  don't expect me back
+               in 1997 atleast. WRITE TO ME! everyone welcome!
+
+                          my address is as follows:
+
+                                marius aasheim
+                                 nordbyvn 209
+                                2013 skjetten
+                                    norway
+
+                    that's it - I hate long goodbye's :-)
+
+
+                                    _   _
+                                 ___)\ø/(___
+                                \\__  /  __//
+                                  |       |
+     _ __ _________ _   _   M · O · S · O · U · L
+        //(  ___ _                |       |      _   _ _________ ___ __ _
+        /  \/(       ____ _       |       |       _ ____       )\  )\\
+       / / /  \__ _ /(          mR!       m'S          )\ _ __/  \/  \
+      /  \    /    /  \           |       |       _ __/  \    \   \   \
+    _/   /\/ /    /  \ \       ___!_     _:___    _ __\   \    \   \   \_
+    )   /   /    /   /\ \__ _ /(          ·  )\       )\   \    \   \   (
+    \  /   /    /   /   /    /  \           /  \ _ __/  \   \    \   \  /
+     \/   /   _/   /   /    /\ \ \__ _     / /  \    \   \   \_   \    /
+     /   /    )  \/   /    /  \ \/__ _  __/ /\   \    \   \   (    \  /
+     \  /     \   \  /    /   /  \__ _    \   \   \    \      / _ __)/
+      \(__ _   \    /   _/   /T  /         \   \   \_   \    /
+                \  /    )  _//  /           \   \/  (    \  /
+                 \(__ _ \  \/  /  ·          \  /   / _ __)/
+                         \    /   :       ¡   \    /
+                      __  \  /    |       |    \  /  __
+                     /\_\\ \(__ _ |      ¡| _ __)/ //_/\
+                _ __\\/_/         |      .|         \_\//__ _
+                                  |_     _|
+                                  |)\\ //(|
+                                  /  \X/  \
+                               _ _)__¡_¡__(_ _
+                             _/( )__  X  __( )\_
+                           :_)    |/.:.:.\|    (_:
+                           |      |\(``')/|      |
+                           |_     | ¯ ¡ ¯ |     _|
+                     · ··· `( THE EVIL SERVANTS )' ··· ·
+                            |     |       |     |
+                            |     |   B   |     |
+                            |     |       |     |
+                            |  C R|U S A D|E R  |
+                            |     |       |     |
+                            :    D|E S O T|O    |
+                            .     |       |     |
+                                  M A N T A     :
+                            .     |       |     .
+                                  V I N Z I
+                                  |       |     ·
+                             M A R|K   R Y|D E R
+                                  |       |
+                                  |       |
+                              _ __|_  .  _|__ _
+                                  |/ _|_ \|
+                                  /__\|/__\
+                                      /
+                                      :
+                                                          :________
+   _____  _____  ____________ __________   _______________|_      /____
+  /     \/     \|    _      //_(\      /__|_   _      /    /     /   _/______
+_/        /     \_   \     /   __\_        /   \     /    /     /    \      /
+\_______\/       /________/ uMn)__________/_________/__________/___________/|
+- ----- /_______/ --------------------------------------------------------- -
+:                    · M O ' S O U L   R E L E A S E S ·                    :
++----------------+-------------------------------------------+--------------+
+|  NOVEMBER 1995 |              SIGN OF RESPECT              |       DESOTO |
+|   m's-sign.TXT |         ( /\ tribute collection )         |      179.439 |
++----------------+-------------------------------------------+--------------+
+|  DECEMBER 1995 |           WELCOME YOUR BAD SELF           |   MARK RYDER |
+|   m's-your.TXT |         ( chill out zone part#2 )         |      24o.ooo |
++----------------+-------------------------------------------+--------------+
+|   FEBUARY 1996 |                   ANGEL                   |   MARK RYDER |
+|   m's-ange.txt |  ( 9 new logos featured, nothing else! )  |       45.ooo |
++----------------+-------------------------------------------+--------------+
+|       MAY 1996 |      BACK IN TIME - ARMY OF DARKNESS      |U-MAN/ARCLITE |
+|                |                                           |   MARK RYDER |
+|   a&m-back.txt |    ( arclite & mo'soul co-operation! )    |      176.ooo |
++----------------+-------------------------------------------+--------------+
+|       MAY 1996 |             MANHATTAN PROJECT             |            B |
+|   m's-map1.txt |       ( first m'S release by nup! )       |      153.524 |
++----------------+-------------------------------------------+--------------+
+|      JUNE 1996 |      REBEL BASE - MURDER BY ILLUSION      |   MARK RYDER |
+|   m's-rebe.txt |     ( released in a hurry! rotten!! )     |       88.ooo |
++----------------+-------------------------------------------+--------------+
+|    AUGUST 1996 |         A N D   T H E   O D D S ?         |       DESOTO |
+|   m's-odds.lha |          (desoto is back again!)          |       29.818 |
++----------------+-------------------------------------------+--------------+
+|    AUGUST 1996 |            ROCK A COCK PART #1            |            B |
+|   m's-rac1.txt |      (tribute collection from nup!.)      |       79.895 |
++----------------+-------------------------------------------+--------------+
+|    AUGUST 1996 |    E V I L   G R A N D   C E N T R A L    |   MARK RYDER |
+|   m's-evil.txt |  (a quite 'standar' collection w/req's!)  |       69.ooo |
++----------------+-------------------------------------------+--------------+
+|    AUGUST 1996 |          S O U L S Q U E E Z E R          |     CRUSADER |
+|   m's-soul.txt | (crusaders first for mo'soul! 150 req's!) |      238.8o3 |
++----------------+-------------------------------------------+--------------+
+|   OCTOBER 1996 |                   CREAM                   |       DESOTO |
+|   m's-crm!.txt |   (desoto on an original trip, fonkee!)   |       33.313 |
++----------------+-------------------------------------------+--------------+
+|  NOVEMBER 1996 |            KNOCK OUT POSITION!            |   MARK RYDER |
+|   m's-knok.txt |     (funny 'jeopardy' cartoon!! hehe)     |      12o.ooo |
++----------------+-------------------------------------------+--------------+
+|  NOVEMBER 1996 |      MO'SOUL ONE YEAR BIRTHDAY PACK!      |   MARK RYDER |
+|   m's-yeah.lha | (all the m's works so far incl.my K.O.P!) |      262.441 |
++----------------+-------------------------------------------+--------------+
+|   JANUARY 1997 |                 COMEBACK                  |        MANTA |
+|   m's-come.txt | (comeback into the ascii sceene w/req's)  |       48.759 |
++----------------+-------------------------------------------+--------------+
+|   JANUARY 1997 | INTERNAL AFFAIR - THE LOST AND THE DAMNED |     CRUSADER |
+|   m's-lost.txt | (another hitting one - requests galore..) |       76.097 |
++----------------+-------------------------------------------+--------------+
+|   JANUARY 1997 |          ART BOMB PREMIERE ISSUE          |   MARK RYDER |
+|   m's-001a.txt |         (the art bomb is dropped)         |      157.000 |
++----------------+-------------------------------------------+--------------+
+|   FEBUARY 1997 |   ANGEL PART II -- TALES FROM THE CRYPT   |   MARK RYDER |
+|   m's-tale.txt | (bringin'da rockuz 2 all'ya motherfuckuz) |       64.000 |
++----------------+-------------------------------------------+--------------+
+|       MAY 1997 |            NEWS FROM THE FRONT            |     CRUSADER |
+|   m's-news.txt |   ( c r u s a d e r   i s   b a c k ! )   |      120.087 |
++----------------+-------------------------------------------+--------------+
+|                :            T O T A L   S I Z E            :    2.181.176 |
+|                |        AVERAGE SIZE OF COLLECTIONS        |      121.176 |
+|                |          TOTAL NUMBER-O-RELEASES          |           18 |
++----------------+-------------------------------------------+--------------+
+|       CRUSADER |      M O ' S O U L   R E L E A S E S      |            3 |
+|         DESOTO |      M O ' S O U L   R E L E A S E S      |            3 |
+|          MANTA |      M O ' S O U L   R E L E A S E S      |            1 |
+|              B |      M O ' S O U L   R E L E A S E S      |            2 |
+|          VINZI |      M O ' S O U L   R E L E A S E S      |            o |
+|     MARK RYDER |      M O ' S O U L   R E L E A S E S      |            9 |
++----------------+-------------------------------------------+--------------+
+|     MO'SOUL - THE RELEASES - THE SIGN OF QUALITY - THE EVIL SERVANTS!     |
+`---------------------------------------------------------------------------'
+
+                      · ··· just go get them all! ··· ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         .
+                                    .____:
+                                mR! |   ¬| m'S
+                                    |:   |
+                                    :    ·
+                                 . /(    )\ .
+                              .    | \  / |    .
+                            .      |  \/  |      .
+        _ __                     _/\__)(__/\_                     __ _
+           (  t h e   e v i l   \\    /\    //   s e r v a n t s  )
+                            .     \//  . \\/     .
+                             . mR!  )!|||(  m'S .
+                               .    : :|:|    .
+                                  . .  . : .
+                                    |    .
+                                  __|    |__
+                                 \\        //
+                                   \/    \/
+                                    |____|
+                                    :
+                                    .
+
+
+
+                         I   S H A L L   R E T U R N
+
+
+
+                                        - M/\RK RYDER oF Mo'SoUL (oRG/\NIZER)
+
+                                                 [ norway, 18th of may 1997 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 ._____
+                 |     \  _______________________
+       ..........|     _\/_       /     _       /........
+       :         |      \/       /      /      /        :
+       :...      |______/       /      /      /    .....:
+          :            /_______/_____________/     :
+    ......:                                        :..............
+    :              ___________________       _ __________        :
+    :    _________|__.       _       / ._________      _/_______ :
+    :  ._\    _______|___    /      /__|        /      |       / :
+    :..|  \_______      /   /      /   |       /       |      /..:
+      :|        _/     /__________/    |      /______________/ :
+      :|______________/    -mNt|_____________/m's              :
+      :                                                        :
+      :             B  -  CRUSADER  -  DESOTO                  :
+      :             MANTA  -  VINZI  - MARK RYDER              :
+      :::...........................................           :
+
+
+                          R E S T   I N   P E A C E
+
+
+
+
+
+
+
+
+
+
+- the end, 18th of may 1997.
+
+    [ t·H·I·S  f·I·L·E  p·A·S·S·E·D  o·N·E  o·F  o·U·R  h·Q·S ]
+
+                    ._______.                  ._______.
+              ._____| ___   |                  |       |
+              |         /   |__________________|___    |______
+      ________|        /  __|___       /  __      /       `96/
+      \               /        /      /   T¯ /\  /     _    /
+       \             /     _  /   _  /    l_/  \/      T\  /\
+       /             \      \/     \/           \_     | \/  \_
+      /       ._______\     |______|___________  /     |____  /
+   <-/________|[t||]|-  --  |- -  -  -- ---[x!]\/      |-- -\/->
+                    l_______|                  l_______|
+
+
+   [ t·H·I·S  f·I·L·E  p·A·S·S·E·D   t·H·E  Blacky's Kneipe    ]
+
+    ->     sYSOP:Blacky, cOsYOP:   Gremlin, RoiDanton        <-
+
+   [              tRY tO gET dA nUMBA / nUP / sPW              ]
+
+
+                                                          [-AquaAdder v1.0-]
+
+
+
+
+
+
+
+
+   Running FAME On A2ooo Tower - 68o4o/4oMhz With 38Mb Ram And 2 Gig Storage
+  ---------------------------------------------------------------------------
+ 2 Times Euro Isdn x.75 - 2 Times Usr 33k6 - 4 Times Telnet (On Isdn 24 Hours)
+                                  ____           .___.
+   _ ____  _______. ________ ____ \  /______ ____| _ |________
+   //   /__   __  | ____   /___  \ \/ _____/_\__  \\ |  __   /
+  __\____  \__/   | \  ___/ \___  \   \____  \/  _/_ |   \__/
+  \    _\   \/    |  \   \    |    \    _/   /  ___/ |    \ _
+   \_________\____|___\   \_ _|_____\ ______/____|   |____//   ·Straight Hate·
+                       \___/                     |___|
+                                                 .___.
+      Ami / Mac / C64 / Con / Ascii        _ ____|   | ____\ ______ _________
+     -------------------------------      \\\\__  \  | ___  \   __  \_  ____/
+                                              /  _/_ | \___  \__/   |  ___/_.
+                                             /  ___/ |   |    \/    |  /_   |
+    Mogue! ÷ Deskline ÷ Tolpan ÷ Assassin    \___|   |_ _|_____\ ___| ______|
+       Hico ÷ Slime ÷ Exocet ÷ Goldman           |___|dZG       \
+
+  Type o'Negative & Desaster 64! World Headquarter - Oma Unique Meeting Place
+    ----------------------------------------------------------------------
+  Sunflex Inc & Looker House German Headquarter - Arclite European Headquarter
+
+ Large Commodore 64 Conference And On Of Worlds Fastest In Ansi\Ascii Business
+    (Try This One To Meet The REAL Ascii Scene - All Nodes Running On Isdn)
+
+
+
+
+
+
+
+
+ 
+ 
+ .------------------------------------------------------------------\\---.
+ |                                                                   \\  |
+ |     :____.              .____.              .____.                 \\ |
+ |     |    |____  _______ |    |     ________ |    |      _______     \\|
+ |__ _ |    |    |_\__.   \|   _|___  \___.   \|    |    ._\__.   \_ _ _\\
+ |     |    |    |    |    |   \_   \_    |    |    |   _|    |    |     \
+ |     |    |    |    |    |    |    |    |    |    |__/ |    |    |     |
+ |     |    |    |    :    |    |    |    |    |    | /  |    |    |     |
+ |     |    :    |    .___/|    |    |    :    |    :    |    :    |     |
+ |     |         |    |    |    |    |         |         |         |     |
+ |__ _ |         |    |    |    |    |         |         |         | _ __|
+ |     ¯\_______/|____|    |____|    |\_______/¯\_______/|________/¯     |
+ |                              |____|                                   |
+ |                              :    :                                   |
+ |           .____.                  .____.              .____.          |
+ |   ________|    |      _________   |    |      _______ |    |  .____.  |
+ | _/        |   _|___ ._\  _____/   |    |    ._\__    \_    |  |    |  |
+ | |    .    |   \_   \|    __)__    |    |   _|    |    |    |  |    |  |
+ | |____|    |    |    |    |    |   |    |__/ |    .    |    |  |    |  |
+ |      |    |    |    |    |    |   |    | /  |    |    |    |  |    |  |
+ |      |    |    |    |    :    |   |    :    |    |    |    |/\|    |  |
+ |      |    |    |    |         |   |         |    |    |    :  :    |  |
+ |      |    |    |    |         |   |         |    |    |            |  |
+ |      |____|____|    |\_______/¯   ¯\_______/|____|    |\____/\____/¯  |
+ |                |____|                            |____|·AbN·          |
+ |                :    :                            :    :               |
+ |                       dA uLTiMaTe dEMo BBS for:                       |
+ |                                                                       |
+ |    aMiGa · pC · cONSoLe · aScII   ( c64, aTaRi & aRCHiMEdEs sOOn )    |
+ \                                                                       |
+ \\            Node 1 & 2 :                     Node 3 & 4 :             |
+ |\\          USR V34+ Modem                     Euro  ISDN              |
+ | \\       +49-(0)30-47411057               +49-(0)30-47411058          |
+ |  \\                                                                   |
+ `---\\------------------------------------------------------------------'
+ 
+ 
+                                             [mULTI-cHECK v1.5 by SieGeL/tRSi]
+
+                                              ¡    fOR pLEASURE sINCE 1996
+>> ¡ -------------------------------------- - |. - ----------------------- -
+  .|  w  o  r  l  d    h e a d q u a t e r s  ||
+  ||     bad karma - phantasy - up rough      !| _
+  |!   divine stylers - dtr - ageema blues     | ;
+  |      aeroholics - black maiden - mvp       |   _
+  |                                            |   ;
+  7   g e r m a n  +  e u r o p e a n  h q's   |
+  :    lightforce - oldskool - rising sun      |
+  ¡   supplex - royal - soia - low profile     |
+_ |    drunken - 1oo% - true school - asl      | "...dON't pLAY uS cHEAP!"
+; |                                            !
+  |   amiga/ascii/graffiti/handheld consoles    ___.     ______.    drn\lp!
+  |    n64/snes/gb/gba/ngp/wsc archive/ngc     \\  !___  \     !__ _ _ ________
+  |    apple macintosh/pc audio-gfx apps/dd    \\  .__/--\\   ._   \ / ._     /
+  |     =c64/atari/speccy/sample soundbank     _\  ;/     \   !/    \  !/____/_
+  |                                            /___/     _____/     __ /    __\
+ _!   daydreaming on 5 telnet nodes. 24h/day.      `----'     `----'  `----' 
+\\;     . ______   ___ _ _ _________   _______                            ¡
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   y A R d _______,|
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\ ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\ !
+     ,_____\     `----'  `----\      `----'     theyard@graffiti.ag

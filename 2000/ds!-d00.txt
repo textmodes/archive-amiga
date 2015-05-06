@@ -1,0 +1,1235 @@
+ 
+  ...         _ _                                          _ _     ...
+ ::::          \\\ sTAGE 1 cOMPLEtED <> pAsSED tHRoUGH TY ///      ::::
+ :::_   .___.    \                                        /        _:::
+ :://-- |   |-----\  24h Static Telnet on broadband ADSL /--------// ::
+ |. .___.  _:____ _  ___                                             _:
+ _ _|   |_ \_   // //  /____   __ _  cONSOLES/aSCII/aMIGA/gRAFF/=C64 \:
+ \\\_   _/__/  /___  _     /__||///  mACINTOSH/mUSIC/sAMPLES  ____    |
+    |_  \_\        \ /____/   _      _____ _      _____     ./  _/    .
+ .   /_    \________\________\\    ._)  _ \\______\__  \____|   \_ _ _: _
+ :     \______\\t^/lp!        ____ |   _/     /     /   \  _|   _////__\\
+                             /   /___  \      \ __ \\  _/__\|   \     :/
+  > theyard@graffiti.ag < _ /   / __//__\______\\_\ /_____/ \    \    :
+ :     _                  //_____\\:     \      /___|   \_________\  _.
+-.----\\-----------------------|   |----- .-----------||-------- ----/:
+ | tHE iDEA oF sTYLE iS tHE kEYl___|tO aLL fORMs oF rOCKiNG - TY 9603 |_
+-@----------------------------._____.---------------------------------@
+
+
+ 
+ 
+ 
+          .________________________________________________________.
+  __      |                                                        |
+ /_/\  ___|__І______ ______________І_______________________  _ _/\_|______
+ \_\/  \З    |     /_\______  /З   |    \_______   _ /    /_________    o/
+  +:    \\   |    /    ______//          \     /   //    /    /    /   //
+  :o     \_______/______|   /______|______\________/________ /________ /
+  .З      |                        І                       \/      | \/
+          |                                                        |
+  .       | U   P   H   O   L   D        T   H   E       L   A   W |
+          |                                                        |
+ ______/\_|_______І____    __________     _____     _____   _____ /\ _____
+ \ _ o     _ /    |   З\  /  ___    /    /    /____/o   /___\ _  /  \    /
+  \//      \/          \\/    _____/    /    /    //   /\    \\ /    \  /
+  /_________\_____|______\_______ /    /________ /____________\___/\___/
+          |       І             \/             \/                  |SkЁn 
+          |________________________________________________________|
+
+                         dA uLTiMaTe dEMo BBS for:
+
+    aMiGa З pC З mAC З aRCHiMEdEs З cONSoLe З aScII  ( c64 & aTaRi sOOn )
+
+
+      ReMeDy wHQ (Amiga)  З  x-FiLEs nEWs sTaTiOn  З  U.D.O. wHQ (Amiga)
+
+                eNDzEiT wHQ (Amiga)  З  dARkSidE wHQ (Amiga)
+
+    aNAdUNe dIStRiBuTiON SiTe (Amiga)  З  nUAnCe dIStRiBuTiON SiTe (Amiga)
+
+                sUPeRiOr aRt cReATiONs dIStRiBuTiON SiTe (PC)
+
+   aLieNDeSiGN wHQ (Amiga-Tools)  З  tRSi rECoRDz dIStRiBuTiON SiTe (Audio)
+
+
+      sEArCHiNg fOr mORe gRoUPs!   eSpEziAllY c64, aTaRi aNd aRChiMeDEs!
+
+                                dA sYSOPs aRe:
+               Node 1 :                              Node 2 & 3 :
+           USR V.90 I-Modem                           Euro  ISDN 
+          +49-(0)30-44730311        rAMSeS        +49-(0)30-44730312
+                                      &&
+             Node 4,5,6 :            pASo
+              24h Telnet                          -- nO RaTiOs !!! --
+            remedy.yi.org
+ 
+ 
+
+                          /\_____________________/\ .
+                        ._)                       (_:_ _
+                        |                           |
+                        |   t  h  e    y  a  r  d   |_ _
+                        | - --------------------- - \///_ _
+                        |                           |
+                        | Amiga/Ascii/Graffiti/N64  |
+                        | Gameboy/NeoGeoPocket/Snes |
+                        | Psx/Ps2/Dc/Smd/Oldies/Mp3 |
+                        | Unix/Drugs/Chiptunes/Mods |
+                        |                           |
+     __________    _____|      ________             |
+ _ __\_ ____   \_ _\_   |__ _ _\_____  \_           |
+        /  \    /      ___/       _/    /_ __ _     |
+   _ __/   \\__/        |         \____/            |
+      /      \_         |______                     |
+        _ ___ /_________|    /___  _____ _ __ _     :
+            \/          |        /\                 .
+                   _____|       /  \   _______    _______
+                _ _\_   |      /   .\ _\_____ \_ _\_____ \_ __ _
+                     \____    /     \\    _/  _/__    /
+                        |/   /       \\   \    _ /   /
+                            /          \   \   //
+               _ ___________\__________/____\  /_________ __ _
+                        .                    \/     .
+                        : AHS/DTR/AGEEMA!/ROYAL/PHT :
+                     _ _| AEROSOL/LiGHTFORCE/MANGOO |
+                     \\\/ LOW PROFiLE/BAD KARMA/UP! |
+                        | SOiA/MOPLAYAZ/TQL/PVM/100 |
+                        | H E A D   Q U A R T E R S |
+                        |                           |
+                        | the  idea  of  s t y l e  |
+                        |                           |
+                        |     is  the   k  e  y     |
+                        |                           |
+                        |   to  all  f o r m s  of  |
+                        |                           |
+                        | r   o   c   k   i   n   g |
+                        |_          __             _|H2o!
+                          )_______ /\_\ __ _______(
+                          \/       \/_//_/\      \/
+                                     __\_\/
+                                     \/
+@BEGIN_ARTFILE
+@BEGIN_ARTFILE
+@BEGIN_ARTFILE
+@BEGIN_ARTFILE
+@BEGIN_ARTFILE
+@BEGIN_ARTFILE
+@BEGIN_ARTFILE
+@BEGIN_ARTFILE
+
+
+
+
+                   I did this collection on my fathers pc/msdos editor,
+                         maybe the computer elite (AMIGA) have to strip
+                                    this file from lame PC ascii codes.
+
+                                   I hope that someone does it, thanks!
+
+                                                                   diNO
+
+
+
+
+
+
+
+
+              ,gmm.   Copyright (c) Divine Stylers inc. 2000 - 2001
+           ,_g@f~~
+           V@A*@@mms_    all rights of the owner and of the work represented
+          ,Wf    ~~V*@m_  herein reserved. public performance, commersial use,
+         gA`          ~*@s  hiring or rental of this collection is prohibited!
+       ,Wf               V@s  Our intention in divine stylers is not to ripp
+      ,Wf                  VW.  styles or to start any quarrels and wars!
+     gA`           iW       'Ms  Any simularities to other artist's previous
+    dA             ]@        'Ms  released work * are fully coincidental *
+   gA`        ,____.@[         Mb  There are so many packs released these days
+  i@`      ,gWA****M@!         '@i  that the chance that you have a style that
+  @[      gAf`                  !@. is 100% different from all the others is
+ ]@      dA                      Mb  none. It is also a FACT that artists DO
+ @[      @[                      '@i  get influenced by others whether they
+i@`      ]@                       YW  want it or not. If you realize that, you
+]@        MW_    ,__gmm@@-        '@i  can tell the difference between
+ @[        ~*@@@@A**f~~            Mb  influenced work and rippoff. Check out
+ !@.                               ]@  if your 'own' style is so fucking
+  VW.                              @@  extraordinary. Please remember that
+   !@.                             ]@  before you start talking bullshit!
+    'MW_                           ]@  If you find the style that dino (dNo)
+      '*@m_.                       WP  represent too much lookalike yours;
+         ~*MWm__                  dA  contact him instead of writing bullshit
+            '~**@@mms__      ,__gWA  in your own collections that he probably
+                  ~~V**@@@@@A-vC!  dont ever get the chance to view.
+
+           feel free to use diNO's asciiwork in your own collections, 
+      at your board or whatever as long as the tag remains intact.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .                                                                     .
+     .                                                                 .
+       .             _______.__________ ___________ ._________       .
+         ....../-----\      | ------__/|    __     \|        /......
+         :     `------------я----------я------------я-------/      :   
+         :  00    __________ __________ _.----._ __________   dNo  :    
+         :.......-\--- __   |  ----- _/|      _/|____-----.........: 
+        .       `-----------я----я-----я--------я---------я         .
+      .                                                               .
+    .     j       e       d       i        a       r      t       s     .
+
+
+
+
+
+
+
+
+
+
+
+                                                   and...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              t
+                              h
+                              e
+                              .
+                              .
+                              .
+
+
+
+
+
+
+
+
+
+
+
+
+                  old...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   З
+    . ...:................... ... .. .  .                    . ....:. .
+         :                                                         :
+         :                         _________ЕЕЕ_______             :
+         :                        ЖPЖPАА"""""___"""ААЖ#ma_         :
+         :                       ___ЕЕц**4ЖPАА""""ААА*w_ ЖK        .
+         :                 __ЕЕm@PА""___ЕЕЕццциииииццЕ_иЕи&ЕцwwwwwwЕ__
+         :           ___Еw@ЖА"__ЕццииииииииииииииииииииииииицmЕ__   ЌА@m_
+         З      __Еј*P"___Ецбииииииииииииииииииииииииииииииииииии#w_    ЌЖЕ
+         З  ___Е#PА___ЕЦиииииииииииииииииииииииииииииииииииииииииииииb_    Жk
+       __цmPАЏ_ЕцбииииииииииииииииииииииииииииииииииииииииииииииииииииK    иL
+   __Е@А _Ецииииииииииииииииииииииииииииииииииииииииииииииииииииииииии_   и#
+__Е@А" _цииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииии#  ИиL
+""  ИцЦииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииииии#  Ц#
+   циииииииииииииииииииииииииииииииииииииииииииииииииббббббииииииииииииP J#
+  Цииииииииииииииииииииииииииииииииииииииииииб@А"Џ          Ќиииииииии# ц@
+  ииииииииииииииииииииииииииииииииииииииЎMMZЕцЕцццццЕЕ_      иииииииии~Ц@
+  ииииииииииииииииииииииииииииииибЎMЎWцииииииииииииииии#Е   _иииииии#"иА
+  Жииииииииииииииииииииииб@PА"ЎЕциииии#ЏЏЏ     ЏЏАЖииииии  циииииииPцK
+   Абииииииииииииб@PPА"___ЕЦб@PАиииии#             иииии#_Цииииии#______
+     ЌиибZ"ЏЏЏ     __цј#PАЏ     Жииии   ___        ииииCциииии#@ЖАА""""А#
+      Жииииm__ __ци@P"           Жиииициии"      _ЦииибиииK__Еwm*@@@- _Ц#
+       ЌЖио"АбW@P"                ЌЖбии@А      _ЕиииPАЖии#@P"       _ц@"
+         ио                                    А"Џ     ЖА        _ЕбP"
+         Ќ#_  _                                       _       _цP~ -ЉMt/dS!
+         .ЌЖm_АЖбцm,                                _Е@   _aј@"Џ   З
+             А*ЕЕa_                              _aи@бw_Ец@А       :
+         З     Жи "Жmw_                       _Еј@"   Ќ"           З
+         З      Ќ#_   Ќ                  __цј*А"                   :
+         :        ЌЖmw____      ___.јЕЕw#@А                        З
+         :            Џ"ААЖЖЖЖЖЖЖАА"ЏЏ                             :
+         З  ____. _____                 ______                     З
+     ____:__\   |(____/______  ________(_____/    ________-:----___:___
+   ./     ___,  |     \      \/       |      \|---\        І   ________|
+   `------------l______\______\______/l_______\----\_______|----------'
+          --,       /                  _ __ _____   _______________
+ .---_______|__    /________    __________ _____/___\__    ____ .---__________
+(________     l___/        l____|       /  ___________/-----`  (________     l
+ `------------'  `-----------   |      /-------------' ЉMt      `------------'
+                         -------l_____/
+          - d - Ё - v - Ё - n - e -   - s - t - y - l - e - r - s -
+
+             .-----/----.----.-----/.-----._______.---/_ .-----/.
+        dNo  | -__/  |--| -__|__----|  -__| __   /|  __/-|__----| dNo
+             `--я `--я  `----я------я-----|---'---я------я------я
+                   p r          e   s           en t      s
+
+
+
+
+
+             dino
+                                                 dino
+                         dino                                      dino
+
+ dino                                     dino
+                         dino
+                                                          dino
+             dino
+                               dino                                 dino
+       .---------------------------------------------------.
+       |              ____.______           .--------------я----------.
+       |  _  .--------\   |-----/-----------|-------------.           |
+       |  \\ |   ____     |    /   ___      |    ____    |яdNo^dS!^jA!|
+       |     `------------'----`------'-----|------------я            |
+       |                                    `--------------.----------я
+       `---------------------------------------------------я
+                                            dino
+
+         dino                                         dino
+
+                dino                    dino
+                           dino
+                                                                 dino
+                                             dino
+       dino                      dino               dino
+
+                                 dino
+                dino                                      dino
+
+                                                 dino
+                                  dino                               dino
+
+
+
+
+
+                    i n
+
+
+
+
+
+
+
+
+
+
+
+                                                   h e ' s 
+
+
+
+
+
+
+
+
+
+
+
+
+                                          _____
+                         ____.-----/._____\____)____.
+   .------------------.----  |__----|  ___|    /----|---------------------.
+   | dS! jA!          `------'------я-----я---/-----я                 dNo |
+   |  .-----_____. _____.------/|----/   .---|---. _____.______|----/     |
+   `--|    _/    |---- /|__-----|   /----|   | --|----  |   ___|   /--__  |
+      `----|-----я------я-------я---'----я---|---я------я-----я`--/\___/--я
+         a s       c i   i       f l         as      h  b a         ck
+
+
+
+
+
+
+
+
+
+
+
+
+     called...
+
+
+
+
+
+
+
+
+
+                              
+                       .-----------------------------.
+                 iS    : 1995                        :
+         ______________ ___________________________________________    
+         \_            | ________     / ________     /_____ ---------.
+          `------------я----------.__/-----------.__/------------.__/ (c)
+                       |                            |
+            _______        .___________.____________ ___________
+           |      /--------|   -----__/|   ------__/|   -----__/-.
+           `-----/\--------я-----------я-----/\-----я------------я
+                       :                      here? :
+                       `----------------------------я
+
+
+
+
+                                                 is 1995 here?
+
+
+
+
+
+
+
+
+
+
+
+
+             _______
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-dNo-dS!-jA!-xmas-2000----.
+   |  `--------Д---/------Д------Д-------------Д                          |
+   |  Hello again.. feels like this was yesterday, for some I was known   |
+   |  by releasing tons of ascii collections on the ami scene in the      |
+   |  mid 90's... nowadays i'm a graffiti artist, and living the good     |
+   |  life, without any kind of activity in the so called ami scene..     |
+   |  ... but.. I want to find out what's goin' on, and I guess that's    |
+   |  why I'm sitting here, on x-mas eve 2000, writing this pathetic      |
+   |  text, I kinda' miss the old scene life. it striked me today when    |
+   |  I turned on my fathers computer (I am at their house, to spend      |
+   |  the xmas together with my family.) that I have spend looots of time |
+   |  in this house pressing down the classic asc2art keys. calling       |
+   |  boards.. talked to ppl and have had much good laughts infront of    |
+   |  this screen wich nowadays belongs to my dear father.                |
+   |  It feels kinda cool that I'we finaly did a new collection,          |
+   |  and I hope I'll get in touch with some sceners at #amielite on efnet|
+   |  wich I havn't been on since.. like.. ehm.. 3 years, I don't know    |
+   |  if the channel exists, but I'll find out soon... and if you read    |
+   |  this.. I guess it did exist..                                       |
+   |                                                                      |
+   |  enought with the bullshit..                                         |
+   |                                                                      |
+   |                                   peace, dino@stadskonst.com         |
+   |                                                              _       |
+   `-------------------------------------------------------------//-------Д
+
+
+
+
+
+original dS! file_id.diz as we remember it:
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ   .--[asc2]-- aЕццј -[ dЁViNE sTYLERs ]-.
+   |           Ќииииј   ________.        |
+   І  Еци*биибцЕииии#ј иииииE      ЉMt   І
+   Зgиии#   ЌЖиииииииF АЄиби#ццЕЕ____    :
+   јииииL     Аиииии# ИЕцЕццЏЌАЖбииииицwЗЗ
+ mиииииr     ___иииииWиииииF      ЌЖиииии#w
+јииббии--'АЌ"ЏЏ  Ќ""ЦиииииK________.и#би#ииј
+   |-------------------------------------|
+   | divine stylers & jedi arts presents І
+   | dinos xmas presents - is 1995 here? |
+   `--------------------------[00/12/24]-'
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+                 some logos coming up...
+
+
+
+
+
+
+
+
+
+                                                 _______
+                                               _(   . . )_
+                                              (___________)
+                                                       +
+                                                +   +
+                  _______                     +       +
+                _( . .   )_                       +
+               (___________)                   +
+                 +      +                  +
+                +   +
+                  +    +                     for requests, write a
+              +                              nice and soulful email to
+                   +                         dino@stadskonst.com, or call
+                                             me if you got my number..
+                +
+                                o
+
+                              o
+                                     O
+                                             I Hope Mortimer tee will be
+                                             our santa this year, I heard
+                                  o          that he got an ok deal on xmas
+                                             presents....
+
+                                    O
+                                             I just have to wait and see..
+
+                                      o
+
+                                  O
+
+                                    o
+
+                                    O        
+                                             
+                                  o
+
+
+
+   Splitscreen logo ----------.
+                              |
+              .---------------я
+              |               
+              |                   .--------------- Two crew's that I luv!
+              |                   |
+             _______ divine stylers - jedi artz
+.- dNo.------\______)____________.-------------.
+|  .--|    \  \|    / ____.      |    _____    |-------------------------.
+|  |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+|  `-------------------------------------------|                         |
+|                                              `----------------[      ]-я
+|                                                                  |
+`----- My tag. Don't remove from any logo please.                  |
+                                                                   |
+                                     requested ascii logotype -----я
+
+
+
+
+
+
+                                                   Now you know how the
+                                                 splitscreen logo works.
+
+                                                 everytime you see's it,
+                                             you know that it's the next
+                                             logo, all just so you don't
+                                                  think that 2 logos are
+                                                together, wich isn't. :)
+
+
+
+
+
+
+   
+             _______ divine stylers - jedi artz
+   dNo.------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `----------------[ food ]-я
+
+.-------__  food . food  .--------\
+|       _/-------.-------|     \   \-.         food, the kings of system/x
+|-------'--------|-------'-----------|         and desire doors for the pc
+|                                    |
+|                                    |         personaly I'm an amiga kid,
+|                                    |         but for pc sysops who likes 
+`--------------------------------dNo-'       ami/x look, they run food shit!
+
+
+   
+             _______ divine stylers - jedi artz
+   dNo.------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `-------------[ mo' tee ]-я
+                  _
+.--------.---\---.\\ ___.______.______      mo'tee, mortimer tee... the old 
+|-\/-----'----\--я -|   |  ---_|  ---_|     skool king of clean and stylish
+| mo'tee - presents `---я------я------|     ascii art, I miss him,  like he
+|                                     |     was my own brother..
+`---------------------------------dNo-'
+                                             "brother from another mother"
+                                                fits perfectly in here!
+
+
+
+
+             _______ divine stylers - jedi artz
+   dNo.------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `-----[ call my friends ]-я
+
+         .-------.____----.----.-----.       .----\____.____/---.
+         |     __|  __    |    |     |___.   |     \   |___/    | dNo^dS!
+    (c)  `-------я--------я----я---------я   `-----\/--я--------я  __
+           .----__.______ __ .----___.-------.----\ .----_____.   _\/_
+           |    __|    _/----|    __/|  __   |     \|______   |   \/\/
+           `----я `----я`----я-------я---я---я------я-----/---я
+       board      node        number/ip address    groups       system
+    .-------------------------------------------------------------------.
+    | Euphoria    #1          +46-ask.the.elite    dS! jA! mX!  Ami/X   |
+    | Euphoria    #2          +46-ask.the.elite    dS! jA! mX!  Ami/X   |
+    | Atlantic    #1          +46-ask.the.elite    S E C R E T  Ami/X   |
+    | Atlantic    #2          +46-ask.the.elite    S E C R E T  Ami/X   |
+    | Atlantic    #3          +46-ask.the.elite    S E C R E T  Ami/X   |
+    | The Yard    #1          xxx.xxx.xxx.245      lp! soia ahs Ami/X   |
+    | The Yard    #2          xxx.xxx.xxx.245      lp! soia ahs Ami/X   |
+    | The Yard    #3          xxx.xxx.xxx.245      lp! soia ahs Ami/X   |
+    | The Yard    #4          xxx.xxx.xxx.245      lp! soia ahs Ami/X   |
+    `-------------------------------------------------------------------я
+
+             _______ divine stylers - jedi artz
+   dNo.------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `---------------[ jucke ]-я
+                                               _
+ .------.___.___.-------._____.------/-------///     first class h/p!
+_|      |   |   |     __|     |  ___/   ---_/dNo
+`-------'-------я-------`-----'-----я--------я     keep on goin' on the 
+ g  e  n  e  s  i  s  *  p  r  o  j  e  c  t       c64 master machine!!
+
+
+
+             _______ divine stylers - jedi artz
+   dNo.------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `------------[ mixorama ]-я
+
+
+  .----------------------------------------------------------------------.
+  |           __               mixorama - mx!                        dNo |
+  |-----/___._\_\_.----.----.________.__________-----.-----/___.____-----|
+  |         |     |----|----| __     |    _/  __    /|         |  __    /|
+  `----\/---я-----я----я----я--------я----я----------я----\/---я---------я
+
+
+
+             _______ divine stylers - jedi artz
+   dNo.------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `-------------[ sw crew ]-я
+
+
+  __   _______ ______________.______.____________.______________.
+ _\/_ |___----|    /\        |   __/|   __/  --__|    /\        | -----.
+ \/\/ `-------'----/---------я------я---я`-------'----/-----dNo-я      |
+      s  k  y  w  a  l  k  e r  s  *  s  k  y  w  a  l  k  e  r  s     |
+    - - --- -----------------------------------------------------------я
+
+                                               sw crew, the graffiti crew
+                                               that I'm an member of, and
+                                               daily shows the society who
+                                               me and my friends are.
+
+             _______ divine stylers - jedi artz
+   dNo.------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `---------------[ lamer ]-я
+
+
+.------.  _____.           .---------/._________  lamer, just an logo for
+|      |----- /|-----------|   ---__/ |    .___/  you who likes to insult
+`------`-------'----\/-----я----------я----яdNo   new users on your bbs!!
+
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `---------------[ break ]-я
+
+
+
+
+
+
+
+
+
+
+
+.-----/--.--------/.-------/.___\---.----/  _
+|    /---|    -- /-|   --_/-|  __   |   /--//---.   dNo^dS!^jA!^fOOD (c)
+|---/----'----'----'--------я-------я--/\-------'--------------------------.
+|                                                                          |
+| Time for a break, I'we done all artwork above nonestop, and I think that |
+| it's time for a smaller break! One thing about the asc2 collections that |
+| is very nice is all storys, all that nice writing that the artist's puts |
+| their energy in 2.I guess that I'm one of the  worsed intro-text writers |
+| around... bad spellings and such.. but, fuck that let's do next logotype |
+|                                                                          |
+| If you like to see some other artwork my me and my friends check out     |
+| this url: http://concrete.cetus.net Graffiti art from the south sweden   |
+| and denmark..                                                            |
+`--------------------------------------------------------------------------'
+
+
+
+
+
+                                            _______
+                         marry xmas! -    _( . .   )_
+                                         (___________)  
+                                             +    +
+                                          +   + +
+                                         +  +
+
+
+
+
+
+
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `--------------[ ikaros ]-я
+
+                                                           _
+   .---\------/ _ dNo^sw _____.--------/  _______.-------///-------------.
+   |    \    /-//---.------- /|    --_/--|  __   |___ --/--.    NG - TD  |
+   `-----\--/\------я---------я----я-----я-------я---------я \\----------я
+                                       for my friend ikaros, Norlands guld
+                                Top dogs / Stocktown! Keep on writing man!
+
+
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `--------------[ arcade ]-я
+
+
+  .---------.___\----.--------/ ._______.___\----.-----\  .-------/--------.
+  | dS!^jA! |   __  /|   -- _/--|   ____|   __  /|   \  \-|   --_/|  dNo!  |
+  `---------`--------я---я------я-------я--------я--------я-------я--------я
+                                                          logo for dip^bk!
+                                                  I hope you are satisfied
+                                                             with my work! 
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `--------------[ arcade ]-я
+
+.__\---.-----/____.__\---.---\ .----/     1        arcade file_id.diz logo
+|  __ /| --_/|  __|  __ /| \  \| -_/|     2             for dip^bad carma!
+|------я-я---я----я------я-----я----|     3
+|    a    r    c    a    d    e     |     4
+|                                   |     5
+|         proudly presents          |     6               
+|                                   |     7        
+|                                   |     8              
+`-[dNo]-------------------[dS!^jA!]-я     9
+
+
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `--------------[ arcade ]-я
+
+
+   ___          dNo  ___       _____      1                 another arcade
+.----/ ___ ____   .----/ ____\ \___/.     2             logo for dipswitch
+`----\ \   `----- `----\ `----\ `---|     3
+|-----------------------------------|     4
+| arcade ----------------- presents |     5                 maybe he needs 
+|                                   |     6             some difrent logos
+|                                   |     7           for all the releases
+|                                   |     8
+`-----------------------------------я     9
+
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `------------[ the yard ]-я
+
+               _.--._.-----/   .--------/__. _
+        .------\_  _/|    /----|   --__/   | \\------------------dNo--.
+        |       `----я---/-----я-----------я t h e   y a r d          |
+        |                       ______/  ___\---.-------/.-----\      |
+        |  - EIGHT NODES -  .--|     /--|  __  /|   --_/-|   \  \-.---я
+        | 2 isdn/2 analouge |  `----/-__|-------я---\----я--------я
+        | 4 telnet's online |   - aSH wHQ - b-GIRL wHQ - aRCADE wHQ -
+        |                   | - sRZ wHQ - lP! gHQ - pNK gHQ - sOIA gHQ -    
+        |  many nice confs  |      - oMEN gHQ - mCE gHQ - pPH eHQ - 
+        `-------------------я      [ - home of the ascii charts - ]
+
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `-----------[ dipswitch ]-я
+
+
+                    .--------------------.
+         ________   |                    |  _______  dNo^dS!^jA!
+    .----\_______)__|_____ _________.____|  \______)---._ .-----/-----/
+    |   \ \|     /  .____ |____----я|    /\---|    /   _/-|  __/|    /-----.
+    `------я----/___|-----я---------я----|----я---/`------я-----я---/\-----я
+                    |                    |  .--\ \ .----. /\ \----. \--.-
+     dipswitch ^ bk |                    |  `---` \ \---я    я----я я   \
+                    `--------------------я
+
+                                                        for you my friend!
+                                                           don't forget to
+                                                        make me some logos
+                                                   in your next production
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `-----------[ bad carma ]-я
+
+
+  .-----/--._____---.------\ ._______._____---.-------/   dNo^jA!  _____---.
+  |    /---|  __   /|    \  \|  ____/|  __   /|  -- _/-|----------|  __   /|
+  `---/----я--------я--------я-------я--------я---/----я----\/----я--------я
+
+                                                            YO! bad^carma!
+                                                       dipswitch requedted
+                                                                 this one!
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `---------------[ zANEr ]-я
+
+          _     .______  ____---.__________ .-------/.--------/   _
+          \\ .----____/-| ___  /|   __    /-|  --__/-|   --__/-. //
+        .----`----------я-------я----/------я--------я---\-----яdNo-.
+        `-[ zANEr iS hERE ]-----------------------------------------я
+
+                                                        request for sysop 
+                                                        zaner, see you at
+                                                          the yard man :) 
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `---------------[ zANEr ]-я
+
+            ______    ______                               _
+        .----    /.------  /-----_____.--------.--------/ //-----------------.
+ dNo^dS |  _____/ |  __    |   __     |  --___/|     __/                     |
+        `---------Д--------Д----Д-----Д--------Д-----Д                       |
+                                                                zaner.       |
+ ----------------------------------------------------------------------------Д
+
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `-------------[ writers ]-я
+
+-----.---/\---. .-----.-- .---. -.-----.- .----__   .-----.-- .----___.-dNo--
+     `--------я `-----я   `---я  `-----я  `------я- `-----я   `----___)
+
+
+
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `------------[ graffiti ]-я
+
+     .-----------------------------------------------------------------.
+     |    .----___  .---.-- .------. .----_ .----_ .--. -.---.- .--.   |
+     |    `----\--я `---я   `------; `---я  `---я  `--я  `---я  `--я   |
+     `--sw--------------------------------------------------------dNo--я
+
+                                                            graffiti logo
+                                                      for zaner & trivial
+                                                 no request, xmas present
+                                                                  
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `--------[jucke file_id ]-я
+dNo____       ______.____  _ .______
+.--\   |--.--|  ___/|   /-//-| -___/.
+|------я-----я------я--я-----я------|
+|                                   |
+|                                   |
+|                                   |
+|                                   |
+|                                   |
+|                                   |
+`-------[ the mad tracker ]---------я
+
+             _______ divine stylers - jedi artz
+      .------\______)____________.-------------.
+   .--|    \  \|    / ____.      |    _____    |-------------------------.
+   |  `--------я---/------я------я-------------| l o    go    t y    pe  |
+   `-------------------------------------------|                         |
+                                               `------------[ dS!crew ]--я
+
+        .____________________.________._______________.____
+    .---|    __,  \___ ------|     __/|     _/  --___/|   /\---------.
+    |dNo`----------я---------я--------я----я----------я---/    dS!   |
+    `----------divine stylers old team! 2000-2001--------/-----------я
+
+                                                                     |
+                                                                     |
+                                                                     |
+
+                                                                     |
+                                                                     |
+                                                                     |
+                                                                     |
+                    .------------------------------------------------я
+                    |
+
+                    |
+                    |           collection.end
+                    
+                    |
+
+                    |
+                    |
+                    |
+                    |
+ .------------------Д
+ |
+  
+ |
+
+
+
+ |
+ |
+ |
+
+
+
+ |
+ |
+ |
+ |                                                   __Ецциицm__
+ `-- --- -------------------------- --- -- -  -  - ,цииииииииии#И
+                        _____                     Jиииииииииииии#  _цииииmmm..
+          ,aaaa.__   цАЏ_____"А*w_                иииииииииииииииоЦиииииииииии----------.
+         _,w*ЕЕЕЕё#mЦцбииииииииб__АmИ             иииииииииииииииJииииииииииии          |
+      ,/"_цЦииииииииииииииииииииииииmч            ЌЖиииииииииии# Jииииииииииии          |
+      F_/Ўииииииииииииииииииииииииииииm_            ииииииииии@  Jииииииииииии          |
+      JДЦииииииииииииииииииииииииииииииQ ,Ециии#ww_JиииииииииP    ииииииииииии          |
+      fJииииииииииииииииииииииииииииииииWиииииииии#JииииииииP   gиииииииииииии          |
+     Jо0иииииЖ"ЏЏЏ"""АААААЖЖЖЖбииииииииииииииииииииJиииииииP   aииииииииии@MЖА          |
+     ЌPЌииииNиMАP*      __ЕЕЕЕ Жиииииииииииииииии@ JииииииP   циииииииии@"              |
+      0 ииииЦиmw__И    J#АЏЏЏ , ЖииииииfА#иииииииQ ииииииQ__ЕЦиииииии@"                 |
+      0 ииииLЖиии@     ЌиибиццP  иииии# /   Ќ#иииииииииииииииииииииА                    |
+      Ц иииииLЌА        иииии@  ,ииии# З     Цииииииииииииииииии#Џ       _ЕцmЕ          |
+     JДaииииииИ    ^*   ЌЖ@А   _ииииP       _ииииииииииииииииии#    _Ециииииии          |
+   _цДциииииии#w_ циm        _цииии"   __Ецбиииииииииииииииииииb__циииииииииии          |
+  "  ббби#"aиДЌЌ"*_АА_____ЕцЦиииииоaцЦииииииииииииииииииииииииииииииииииииииии          |
+        #, ЖQ      ЏЏЏЌ3ЦиииииАЏ   цииииииииииииииииииииииииииииииииииииииииии          |
+       JцД            циииии#     Jииииииииииииииииииииииииииииииб@MPААААЖ#иии          |
+       Ц#           Ђ4@@биии     __иииииибб@@@биииииииииииииииии&          ЏЏЏ          |
+      ЦMо                ЌЖо  pЄ"""ЏЌЏЏ           ЏАЖ#ииииииииииибw_                    |
+    gи#Ц              ЉMt.   /                           Џ"Жииииииииицw_ЕЕЕ_            |
+  _ции~ЖL_                   ў                               Жиииииииииииииии           |
+иииии    Ќ"#иPА^ _           F          High five:              ииииииииииииии           |
+ииб@иM     #     Ќ\_        /                                   Jиииииииииииии          |
+:    Џ    Jиw_     ]ио-w w-^  Mortimer tee, Ranx, Trivial, Zaner Jиииииииииииии         |
+|          ииииMицци         Heor, Ikaros, Hools, Fizle, Show,   Ќиииииииииииии         |
+|       aЦиииииии@      Dj Gizmo, Jucke^Genesis, Poison, Lando  Ќ#иииииииииии-----------Д
+|          Џ ЖиЏЏ      Orlingo, vietcong, fatal, Tango, 2Fast,     ЌЖ#иииPЄАЌ
+| Krusty, Scarface, Slurry, Citruz, Radavi, Satans fire, Cluster,
+| Danzig, Nup!, Karma, Crusader, Relief, RedSkin, Ramon, H2o, Shock G,
+| zync, 243, Tommy, Sal-1, Rickz, Juan, all writers and all on the scene.
+|
+| I respect all who respect others.. 
+| my requests for all ascii artists: 
+| dino, skywalkers, divine stylers, mixorama, mx! ja! jedi arts
+|
+| - it's you who desides how active I have to be in the ascii scene,
+| send me request via email, phone or irl. 
+|
+|   ______             .   ____      .        ________
+|  / .   /sc      ___ _|_ _\_  \___ _|_ ______\     _/__
+|_/  |__/_ ______/ _   |    /   \    |_     __/\_      /   'tHE cREDiTS'
+|______ _  _   /  _)__:_ ______/    |/     |/_________/
+`----.  /  /  /________ _   .-\_____/      |------------------------------->
+     `-/   \__}-------------'   .---\______|-------------------------------.
+      /____|                    | artist                              diNO |
+                                | groups                 mX! dS! jA! food! |
+                                | release date                  2000/12/24 |
+                                | release time                       18.00 |
+                                | guest artists               shapechanger |
+     _______                    |                             mortimer tee |
+   _(    . .)_                  |                                 vietcong |
+  (___________)  -  yo!         | music       street soul / jazzmatazz III |
+      +    +                    | original filename            dS!-d00.txt |
+   +  +                         | collection size (bytes)           45 402 |
+    +    +                      | collection size (lines)             1037 |
+  +    +                        | drink                      corona, coffe |
+    +                           | food                vegiterian xmas food |
+         +                      | my email             dino@stadskonst.com |
+  +     +                       `------------------------------------------я
+
+
+
+                        .:::::.                                 ..::.
+                       .::::::::.                             .::::::.
+                       ::::::::::              .....          ::::::::
+                       Р:::::::::             :::::::         :::::::::
+                        :::::::::             Р:::::::        :::::::::
+                        :::::::::        ....:::::::::         :::::::::
+  d   i   v   i   n   e :::::::::    .:::::::::::::::::         ::::::::
+                        Р:::::::: .::::::::::::::::::::         ::::::::
+s   t   y   l   e   r   s::::::::Р:::::::::::::РРР::::::         :::::::
+                         :::::::::::::::Р         Р::::Р         :::::::
+2   0   0   0      .... Р::::::::::::::             Р            :::::::
+                 .:::::::.:::::::Р::::::::::.....                 :::::::
+               .::::::::::::::::: :::::::::::::::::::::...         ::::::
+             .:::::::::::::::::::  Р::::::::::::::::::::::::..     ::::::
+           .::::::::РРРР:::::::::           РРР:::::::::::::::::.  ::::::
+          ::::::::Р       Р::::::                РР::::::::::::::: ::::::
+        .::::::::          Р:::::       ...            Р:::::::::::::::::.
+       ::::::::Р            :::::    .::::::.            :::::::::::::::::
+     .::::::::Р             :::::  .:::::::::.            ::::::::::::::::
+    .::::::::               Р:::: .:::::::::::            ::::::::::::::Р
+   .::::::::                 ::::Р:::::::::::Р             ::::::::::::
+  .::::::::Р                 :::::::::::::::Р              Р:::::::::::
+ .::::::::Р           ......:::::::::::::::Р               :::::::::::
+.:::::::::  ......:::::::::::::::Р::::::::::             .::::::::::: ::.
+:::::::::::::::::::::::::::::::::  Р::::::::.          .:::::::::::: ::::.
+::::::::::::::::::::::::::::::РР     Р:::::::....  ...:::::::::::::  :::::.
+ :::::::::::РРРР                      Р:::::::::::::::::::::::::Р    ::::::
+  РРРРРРРР                              Р:::::::::::::::::::::Р      Р::::Р
+                                           Р::::::::::::::::Р  vC!/dS! РР
+                                               РРР:::::::Р
+
+
+
+                               .---------------.
+                               | (JEDI ^ ARTS) |                           
+                               |               |
+                ___            |___       _____|_              ____
+           ____/ Ќ/\  __.,____/  Ќ/\      \_   Ќ/\__,.__ _____/Ќ  /\   
+      ____/   /  /_/ _\__    /___/_/   ____/   /_\_   Ќ/_\_   /___ЏЏЏЏ/\
+  ___/Ќ _/  _/    /\/Ќ _/  _/     /\ _/Ќ _   _/ __/  _/  _/  /  _/   /_/_____ 
+ |Ќ     \   \   _/_\___\   \    _/_/ \   \   \  \    \   \   Џ\ \           Ќ| 
+ |       \   \  \    _/ \   \   \ \   \   \   \  \_   \   \____\ \           | 
+ |        ____\___   \_______\   \ \   \    ___\___\   \___\/ \____          | 
+ |_________\/Џ~   \___\/    Џ~\ __\/    \___\/ | Џ~Y\___\/2o!      \_____   _| 
+ .                   ~Y        | Џ~        Џ~  |   .   Џ~                `Y'
+                      .        |   So my 9mm   |                          .
+                               | goes baanngg! |
+                          .-^-.`-------------- ` .-^^-.
+                         ( . + )         _____,  \O  s)
+                     ,__.-\ oЗЗ З _, ЗЗ =\____,\_(-_ /_
+                    (_\__  ЏY~  __/_)       (\_\____) |
+                      ` | ЗToYЗ | Y          ЏЏ  |jA! |
+                        |___ ___| .              |____|
+                        (_ _I___)                (____)
+                          Y
+                          .
+
+
+@DS!OVER&OUT!
+@END.ARTFILE
+@END.ARTFILE
+@END.ARTFILE
+@END.ARTFILE
+@END.ARTFILE
+@END.ARTFILE
+@END.ARTFILE
+@END.ARTFILE
+@END.ARTFILE
+
+@Begin.bbs_adds
+                                              Ё "bEYONd thE EdGE Of REAlitY..."
+>> Ё -------------------------------------- - |.
+  .|                                          ||
+  ||  AEROhOliCS / MO'PlAYAZ / dREAM thEAtRE  !| _
+  |!  MANGOO / AEROSOl / diSCiPlES OF AGEEMA   | ;
+  |                   bAd kARMA / ARCAdE WHQ   |   _
+  |                                            |   ;
+  7    liGHtfORCE / ROYAl lOW PROfilE / SOiA   |
+  :          UP ROUGh / PUNGAS / 1OO PERCENt   |
+  Ё       tEQUilA / PhUNk GHQ / PhANtASY EHQ   |
+_ |                                            | "...dON't PlAY US ChEAP!"
+; |   AMiGA/ASCii/GRAffiti/dRUGS/N64/GAMEbOY   !
+  |   GAMEbOY COlOR/NEOGEOPOCkEt/SNES/OldiES    ___.     ______.      drn\lp!
+  |   PSX/PS2/dC/SEGA/MP-ThREE/ChiPtUNES/MOd   \\  !___  \     !__ _ _ ________
+  |   =C64/SPECCtRUM/AtARi-8/cPc/liNUX/*NiX!   \\  .__/--\\   ._   \ / ._     /
+  |                                            _\  ;/     \   !/    \  !/____/_
+  |   PRiVAtE SYStEM With thREE diAlUP NOdES   /___/     _____/     __ /    __\
+ _!   fiVE BlAStiNG 24h tElNEt NOdES ON ADSL      `----'     `----'  `----' 
+\\;     . ______   ___ _ _ _________   _______                              Ё
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   Y A R d   _______,| 
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\   ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\   !
+     ,_____\     `----'  `----\      `----'
+
+ 
+ 
+ .------------------------------------------------------------------\\---.
+ |                                                                   \\  |
+ |     :____.              .____.              .____.                 \\ |
+ |     |    |____  _______ |    |     ________ |    |      _______     \\|
+ |__ _ |    |    |_\__.   \|   _|___  \___.   \|    |    ._\__.   \_ _ _\\
+ |     |    |    |    |    |   \_   \_    |    |    |   _|    |    |     \
+ |     |    |    |    |    |    |    |    |    |    |__/ |    |    |     |
+ |     |    |    |    :    |    |    |    |    |    | /  |    |    |     |
+ |     |    :    |    .___/|    |    |    :    |    :    |    :    |     |
+ |     |         |    |    |    |    |         |         |         |     |
+ |__ _ |         |    |    |    |    |         |         |         | _ __|
+ |     Џ\_______/|____|    |____|    |\_______/Џ\_______/|________/Џ     |
+ |                              |____|                                   |
+ |                              :    :                                   |
+ |           .____.                  .____.              .____.          |
+ |   ________|    |      _________   |    |      _______ |    |  .____.  |
+ | _/        |   _|___ ._\  _____/   |    |    ._\__    \_    |  |    |  |
+ | |    .    |   \_   \|    __)__    |    |   _|    |    |    |  |    |  |
+ | |____|    |    |    |    |    |   |    |__/ |    .    |    |  |    |  |
+ |      |    |    |    |    |    |   |    | /  |    |    |    |  |    |  |
+ |      |    |    |    |    :    |   |    :    |    |    |    |/\|    |  |
+ |      |    |    |    |         |   |         |    |    |    :  :    |  |
+ |      |    |    |    |         |   |         |    |    |            |  |
+ |      |____|____|    |\_______/Џ   Џ\_______/|____|    |\____/\____/Џ  |
+ |                |____|                            |____|ЗAbNЗ          |
+ |                :    :                            :    :               |
+ |                       dA uLTiMaTe dEMo BBS for:                       |
+ |                                                                       |
+ | aMiGa З pC З mAC З aRCHiMEdEs З cONSoLe З aScII  ( c64 & aTaRi sOOn ) |
+ \                                                                       |
+ \\          Node 1 :             Node 2 & 3 :         Node 4,5,6 :      |
+ |\\     USR V.90 I-Modem          Euro  ISDN           24h Telnet       |
+ | \\   +49-(0)30-44730311     +49-(0)30-44730312     remedy.yi.org      |
+ |  \\                                                                   |
+ `---\\------------------------------------------------------------------'
+ 
+ 
+                                             [mULTI-cHECK v1.5 by SieGeL/tRSi]
+
+                                              Ё    fOR pLEASURE sINCE 1996
+>> Ё -------------------------------------- - |. - ----------------------- -
+  .|  w  o  r  l  d    h e a d q u a t e r s  ||
+  ||     bad karma - phantasy - up rough      !| _
+  |!   divine stylers - dtr - ageema blues     | ;
+  |      aeroholics - black maiden - mvp       |   _
+  |                                            |   ;
+  7   g e r m a n  +  e u r o p e a n  h q's   |
+  :    lightforce - oldskool - rising sun      |
+  Ё   supplex - royal - soia - low profile     |
+_ |    drunken - 1oo% - true school - asl      | "...dON't pLAY uS cHEAP!"
+; |                                            !
+  |   amiga/ascii/graffiti/handheld consoles    ___.     ______.    drn\lp!
+  |    n64/snes/gb/gba/ngp/wsc archive/ngc     \\  !___  \     !__ _ _ ________
+  |    apple macintosh/pc audio-gfx apps/dd    \\  .__/--\\   ._   \ / ._     /
+  |     =c64/atari/speccy/sample soundbank     _\  ;/     \   !/    \  !/____/_
+  |                                            /___/     _____/     __ /    __\
+ _!   daydreaming on 5 telnet nodes. 24h/day.      `----'     `----'  `----' 
+\\;     . ______   ___ _ _ _________   _______                            Ё
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   y A R d _______,|
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\ ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\ !
+     ,_____\     `----'  `----\      `----'     theyard@graffiti.ag

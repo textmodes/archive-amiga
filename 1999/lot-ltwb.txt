@@ -1,0 +1,1044 @@
+
+ " THiS FiLE FOUND THE WAY THROUGH ONE OF THE FiNEST BULLETiN BOARD SYSTEMS "
+                        _ _____        ___   ______
+                               )_  __ _| (___) _  )_
+                              __/__) (_    |   |___/
+                       _ ___  |   |___|    |__
+    · _____________ _    c!|______|mSS|____| |______ _  _ _____________ ·
+ _ _:_\              ____       ____      _____      ____             /_:_ _
+    |             ___\  (_   ___\  (_   __\_  (_   __\  (_              |
+    |            _) _/   /___)  _   /___) _/   /___)   _ /__            |
+    |           /   \      /    \_    /   \      /     /   /            |
+    |           \___       \_____/    \____\     \__   \   \            |
+    |             \  _______\   /______\    \  ___\ \_______\           |
+    |              \/                        \/                         |
+    |                                                                   |
+    |             ÷  THE YARD BULLETiN BOARD SYSTEM 2k! ÷               |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                       WORLD HEADQUARTERS OF                       |
+    |                                                                   |
+    |         AEROHOLiCS (GRAFFiTi) ÷ DiSCiPLES OF AGEEMA (MUSiC)       |
+    |      ARCADE (ASCii) ÷ AEROSOL (ASCii) ÷ DREAM THEATRE (ASCii)     |
+    |          SOUL SURViVORZ (MP3) ÷ THE ASCii CHARTS (ASCii)          |
+    |                                                                   |
+    |                      GERMAN HEADQUARTERS OF                       |
+    |                                                                   |
+    |  LiGHTFORCE (AMiGA/CONSOLE) ÷ BAD KARMA (AMiGA) ÷ SODiUM (AMiGA)  |
+    |       LOW PROFiLE (ASCii) ÷ SiCK OF iT ALL (GRAFFiTi/DRUGS)       |
+    |  HOTSTUFFERS (AMiGA) ÷ PHUNK (ASCii) ÷ 1OO PERCENT (AMiGA/ASCii)  |
+    |  VORTEX (AMiGA) ÷ MOST VALUABLE PLAYAZ (MUSiC) ÷ UP ROUGH (MUSiC) |
+    |       OMEN (GRAFFiTi) ÷ TEQUiLA (MUSiC) ÷ PUNGAS (DAYDREAM)       |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                CONSOLES/AMiGA/ASCii/LiNUX/DAYDREAM                |
+    |             GRAFFiTi/DRUGS/CLASSiCS/MP3/MOD/CHiPTUNES             |
+    |                                                                   |
+    |           2 NODES 33k6 / 2 NODES iSDN / 4 NODES TELNET            |
+    |                                                                   |
+    |                      [ THEYARD.DARKTECH.ORG ]                     |
+    |                                                                   |
+    |                      [ 49-ASKTHERiGHTPEOPLE ]                     |
+    |                                                                   |
+    |           DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS!            |
+    |                                                                   |
+    |   ZANER/LiGHTFORCE^BAD KARMA^AHS ÷ DiPSWiTCH/BAD KARMA^1OO%^AHS   |
+    |       HASH/AHS^PZK^SOiA ÷ NiNJA/PARADOX^EURASiA ÷ MOOL/AHS        |
+    |                                                                   |
+ _ _|__   " THE iDEA OF STYLE iS THE KEY TO ALL FORMS OF ROCKiNG "    __|_ _
+    · /_______________________________________________________________\ ·
+
+===============[ In The First Moment Of The Beginning We Start To Die... ]===
+
+
+
+ Little Introduction
+
+ Without a reason I had the idea to visit a czech party I read about on a
+ nice private amigasite I found somewhere while I was sitting in my bureau
+ without some interesting work going through the !nternet instead of doing
+ things my boss wanted me to do...
+ The week-end after I called Angeldust and we had a long and cool
+ `Plauderstunde` where we decided to travel together to the party and
+ release a picture by Angeldust, a chiptune by me and maybe an intro by
+ Apathy...
+ Than I made a phonecall to Punisher and he was surprised and told me to
+ send a disk with a new 4k-intro by Zeeball. Well, it seemed that after I
+ was walking in the scene some years I would come to an foreign party
+ although I am not that kind of party freak who is boozing all the time...
+ So I send a little e-mail to Lahve and called him the same evening to make
+ all things (food, place etc.) clear and he was happy because he got only
+ four reservations until this day, monday five days before the start...
+ But what seemed so bright turned out into darkness! Angeldust called me on
+ thursday to tell that the german train company has to high prices for the
+ way from Hamburg to Leipzig. In a sad mood I prepared everything to go
+ on saturday alone, but maybe because of some function problems deep in my
+ sick brain I slept until 13 o`clock although I had to stand up at 6 to
+ arrive 10 o`clock in czech party place. If I had stand up the right time
+ I would have visited but I didn`t really want to come alone and at last
+ not too late. So I spend the week-end in front of my tv-set and watched
+ some cool videotapes...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       This Time We Do It Not Live Again, So C`Mon And...
+
+
+                                                ______
+                               __              |      |
+                               ºØm_            |      |
+                                 ¶Øm       ¸Æ# |      |
+   _______     _____________ _____¬##_    ,ØP__|______|_
+  /    __/____/__  ____    /_\  ____  \  _ØF   ____    /z!o
+  \    \____    /  \______/   \____/   \ Æ#    \______/
+   \___________/________/ \____________/JØ´_________/ |    LEAVE
+                                      ØLØK     |      |
+                                      ¶ØØ      |      |
+                                       Ø#      |      |
+                                             __|   ___|____   _____________
+                                             \    /   ____/__/__  ____    /
+                                              \\  \   \_____   /  \______/
+                                        THE    \\\ \_____|____/________/z!o
+  ¶Øm                                           \\    |
+   ¬##                                          \\    |___
+    ¬##   _ØF                                   |\\      /
+     ¬ØL  Æ#ØL    xØF__________ __________ _____|_     // __________
+      ¶# JØ´¬##   ØØ_________  \  ___    /     __/___///__\_____   /
+       ØLØK  ¬## JØ \_______/  /_____|   \     \____   /  _____/  /
+       ¶ØØ    ¬ØLØK___________/   |_______\___________/__________/   WORLD
+        Ø#     ¶ØØ                           z!o| ///
+                Ø#                              | //
+                     BEHIND                     |//
+                                                |/
+  __________  _____________ _____  ______________ ____  _____  __________
+  \   _____/_/_   ____    / ____/__\____________/     \/    /__\_____   /
+   \  \_____   \  \______/  \_____   /          \    \ \    \  _____/  /
+    \__________/_______/ \_____|____/___________/____/\______\________/
+      \_____________________________________________________________/z!o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Together With Your Friends Of...
+
+
+                             ______
+      _______        _______/_    /_____ ___________ _____    ______
+     /    __/________\   ___  \   \___  \ ________  \    /___|_     |_
+     \    \____    /  \____/   \____    / \______/  /    \___  \     /
+      \___________/____________/ \_____/\__________/\__________/    |
+         \__________________________________________________________|z!o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Who Didn`t Show Up Live At...
+
+
+                          _æææw_
+                         µØM"¬¶ØK
+                        jØ"    ¬#K
+                        ØF      ]Ø_
+    _________  ________JØ___    _ØK______    _________
+  __\   ___  \/     ___    /   / 0#__   /____\   ___  \   _____
+ /   \____/   \     \_____/   /  Ø#____/   \  \____/   \ \_____\
+ \____________/\_______/ØÞ z!o\__ØF________/___________/
+                        0Q      áØ 
+    , __   __           ¬#K    µØ"
+     |  | |  |           ¬#ÑwæÆØ"        APOCALYPSE `99
+     |__| |__|             ¬°°"______
+        |    |      _______   /     /_____ ____________ ______  ____________
+      __|  __|     /    __/___\__   \___  \    ___    /  ____/_/_  ____    /
+                   \    \_____  /_____    /    \_____/____      /  \______/
+                    \__________/   \_____/\_______/\___________/\_______/z!o
+
+
+ Held In Brandys Nad Labem/Czech Republic From 4th to 5th Of September`999.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  _____    _____ ___________ __  _____ _____
+  \   _\__/_   /   ____    /   \/    /     /_____ _________________________
+   \  \ \/ /  /    \______/   \ \    \     \___  \ _______________ ____   /
+   /___\  /___\ ________/_____/\______\__________/z!o              \_____/ 
+        \/                                                          ____   
+                                                                   /   /   
+   darklight requested by kempy/kore.   empire requested by kempy /   /    
+   /kore.   darkhawk requested by darkhawk/iris   delora request /   /  __                                                                 Well, this time the hidden part will not consist of extra      
+   ed by delora/whelpz   whelpz requested by delora/whelpz   ha /   /  /  |                                                                logos or special stuff! Just of ID-Nºs of the colly-logos...   
+   rvester requested by juen/harvester   8bits requested by ju /   /  /   |
+   en/harvester   juen requested by juen/harvester   harveste /   /  /    |                                                                #348 leave the world behind
+   r.diz requested by juen/harvester   dissident requested b /   /  /     |                                                                #349 layout
+   y dissident/apathy   gone requested by gone/void   void  /   /  /      |                                                                #351 apocalypse
+   requested by gone/void   and a gift for whizz/apathy!!  /   /  /       |                                                                #344 menu
+    ________                                              /   /  /        |                                                                #350 lot.diz
+   /    ___/_____________________________________________/   /  /         |
+   \________________________________________________________/   \_________|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                              Windows 98 is a buggy browser
+                                       running on top of a 32-bit extension
+                                     and graphical shell for a 16-bit patch
+                                               to an 8-bit operating system
+                               originally coded for a 4-bit microprocessor,
+                                                 written by a 2-bit company
+                                that can`t understand 1 bit of competition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            .---------------.
+  __________________________| P R E F A C E |______________________________
+  \  ___ ___________________|_______________|_________________________    /
+   \___/                                                             /   /
+     _____  As always did I planed too much. Since 1st of august my /   /
+    /    / next colly `lot-!mot.txt` should have been release but  /   /
+    \   / because it has a very special design and I had a lot of /   /
+     \  \ work I haven`t finished it yet and this 2nd - but not  /   /
+      \  \ really planed - under Layout will see the light of   /   /
+       \  \ the day earlier. I am afraid but I heard nothing   /   /
+        \  \ from Aztec since a couple of weeks. Neighter via /   /
+         \  \ snail-mail nor did he answer my e-mails. I     /   /
+          \  \ also tried to make a phone-call but there    /   /
+           \  \ were no one who wanted to talk with me! ;) /   /
+            \  \ I guess he is on vacations so I don`t    /   /
+             \  \ know the current state of this ascii-  /   /
+              \  \ and friendship-oriented group...     /   /
+               \  \                           _________/___/
+                \  \_________________________/             \
+                 \__________________________/ ! Zito `99 ! /
+                                            \_____________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Then let`s start this crap therefor it ends as quickly as it gets...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\           kempy/kore. //   \__/  |_ 356__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+
+               __________ _________ ____________ _______
+            ___\_____   /_\   ___  \    ___    /    ___/_____
+           /    ____/  /   \____/   \______|   \    \_____  /
+           \__________/\____________/   |_______\_____|     \
+                                                      |  __  \
+           this is darklight/veezya...                | |  \  \
+           reach me at the following address          | |   \  \
+           for gfx, swap,...                          | |___/   \
+                                                      |          \
+           ??????????? ?/? ??-??? ????????            |     ____  \
+           in poland of course!                       |____| __/  /
+                                                         __|__   /
+          _______   ____________ _______   ________   __|___, |_/
+         /    __/___\__ _______/  _____/__/_  ____/__|__      |_
+         \    \____   /        \  \____    /  \_____   /       /
+          \__________/_________/__________/\_____|____/_______|z!o
+
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\           kempy/kore. //   \__/  |_ 358__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+
+  _____________ __    _____ ___________ ____________ ___________ ___________
+ /    ____    /  _\__/_   /     ___    \___________/    ___    /   ____    /
+ \    \______/\  \ \/ /  /\     \______/           \_______|   \   \______/
+  \________/  /___\  /___\ \_______/  \____________/    |_______\_______/z!o
+                   \/
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\         darkhawk/iris //   \__/  |_ 337__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+
+               __________ _________ ____________ _______
+            ___\_____   /_\   ___  \    ___    /    ___/_____
+           /    ____/  /   \____/   \______|   \    \_____  /
+           \__________/\____________/   |_______\_____|     \
+                                                      |      \
+             ========>>> dARKHAWK OF iRIS <<<======== |       \
+                                                      |     |\ \
+              the address for best traditional swap!  |     | \ \
+                                                      |     |  \ \
+             Hviid - Læssøegade 78, 1 - 5230 Odense M |     |   \ \
+                                           in Denmark |     |   / /
+                                 ¬##                  |     |__/ /
+              ________       ______##_  _ØF        ___|_        /
+             /   ____/_______\   ___  \ Æ#ØL    xØF ___/_____  /
+             \   \_____   /   \____/   \Ø´¬##   ØØ  \_____  / /
+              \_____|____/\____________/K  ¬## JØ\____|     \/
+                                     ¶ØØ    ¬ØLØK  z!o|______\
+                                             ¶ØØ      |____/
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\         delora/whelpz //   \__/  |_ 359__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+                                        _æææw_
+                                       µØM"¬¶ØK
+                                      jØ"    ¬#K
+                                      ØF      ]Ø_
+          __________ __________ ____ JØ     ___ØK_________ _________
+       ___\_____   /  ____    /  __/_áØ____ \  0# ___    /_\   ___  \
+      /    ____/  /   \______/   \____    /  \_Ø#____|   \  \____/   \
+      \__________/\________/ \___________/     ØF |_______\__________/z!o
+                                      0Q      áØ
+                                      ¬#K    µØ"
+                                       ¬#ÑwæÆØ"
+                                         ¬°°"
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\         delora/whelpz //   \__/  |_ 360__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+ ¶Øm
+  ¬##
+   ¬##   _ØF
+    ¬ØL  Æ#ØL    xØF______   _____________ ____    ___________ __________
+     ¶# JØ´¬##   ØØ  ____/__/__  ____    /  __/___/__   ___   \\____    /_
+      ØLØK  ¬## JØ   \_____   /  \______/   \____   /   \_____/   _____/ /
+      ¶ØØ    ¬ØLØK\_____|____/________/ \__________/_______/ \__________/z!o
+       Ø#     ¶ØØ
+               Ø#
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\        juen/harvester //   \__/  |_ 361__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+                                __
+  ________      _________ ______ºØm___
+ /   ____/______\   ___  \    ___    /     ¸Æ#
+ \   \_____   /  \____/   \______|   \    ,ØP  HARVESTER - KICKs iN `999
+  \_____|____/____________/   |_______\  _ØF    -----------------------
+                                    ¬ØL  Æ#
+                                     ¶# JØ´     tHE AMiGA MUSiC MAKERs!
+    juen (code, swap)                 ØLØK
+  e-mail: juen@tl.krakow.pl    _______¶ØØ___ _______  ______
+                              /    ____Ø#  /   ____/_|_     |_
+    x-type (leader, swap)     \    \______/\_____     /      /
+  e-mail: xtype@alpha.pl       \________/ \__________/      |
+                                                     |      |
+    arnee (gfx)                                      |      |
+  e-mail: arnee@friko.onet.pl                        |      |
+                                                    _|______|____ _________
+    agaslayer (organization)                       /    ____    /  ___    /
+  e-mail: boleslav.kristen.fs@vsb.cz               \    \______/______|   \
+                                                    \________/     |_______\
+  ...we are still searching for talented members...  |______|z!o
+
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\        juen/harvester //   \__/  |_ 362__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+        _______
+       /______ \       __________ _____________ _______  _________
+      //  ___/  \ _____\   _____/_\___________/        |_\   ____/___
+      \\________//_____\\  \_____   \         \         / \_____    /
+      / ________\        \__________/_________/________|\__________/z!o
+      \ \  ___ //
+       \ \___///
+        \____//
+
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\        juen/harvester //   \__/  |_ 363__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+
+                    ________ _____   _____________ ___  _____
+               ____|____    \    /__/__  ____    /    \/    /
+              /     ____|   /    \___  \ \______/    \ \    \
+              \____________/\__________/______/______/\______\z!o
+
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\        juen/harvester //   \__/  |_ 364__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+
+
+                 |  -- the amiga music maker --
+                 |_  _  _    _  __ ___ _  _
+                 | |(-)|-)\/(-´(_   | (-´|-)
+                 ________________) gives you...
+                 \ \
+                  \ \  `production name here...`
+                   \ \
+                    \ \  released at `party place`
+                     \ \
+                      \ \  on ?? / ?? / ??       ______
+                       \ \_______________________\___  \
+                        \______________________________/z!o
+
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\      dissident/apathy //   \__/  |_ 365__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+
+                                                            _______
+           __________ ____________ ________ ___________ ___|_______|___
+        ___\_____   /____________/    ____/_\_    ____/_\_____________/
+       /    ____/  /             \_____      /_____      /            \
+       \__________/\_____________/__________/___________/_____________/
+                                                           |       |
+           dissident of apathy crossed this board...       |       |
+                              __________ __________ __  ___|_      |
+                           ___\_____   /  ____    /   \/    /      |_
+                          /    ____/  /   \______/   \ \    \       /
+                          \__________/\________/______\______\_____|z!o
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\             gone/void //   \__/  |_ 366__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+
+            __________   ______________ _____  _____ ____________
+           /    _____/__/_ __________  \     \/    /    ____    /
+           \    \____    / \________/  /    \ \    \    \______/
+            \___________/\____________/_____/\______\________/z!o
+
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // requested by...       \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\             gone/void //   \__/  |_ 367__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+         __
+         ºØm_
+          ¶Øm       ¸Æ#
+           ¬##     ,ØP_____________ ______________ _____________
+            ¬##   _ØF ___________  \_____________/  __________  \
+             ¬ØL  Æ#  \_________/  /             \  \_________\  \
+              ¶# JØ´\_____________/\_____________/_______________/z!o
+               ØLØK
+               ¶ØØ
+                Ø#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ And here comes now a gift for Whizz who never made an ascii-request,
+ but need some (in my opinion)! Even if it is one made by me!!!
+ He is a good newcomer but have you ever
+ seen his adverts??? Then you will know what I mean!
+ So my friend this is for you! Use it wise, hehe ;-) ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+           .
+        . /                                            ____
+   ____/ /_________________________________           / __ \
+  / __/ /_________________________________ \_________/ /__\_\___ __ _  _
+  \ \/ / _                     ___   / __/ /_________\ \_______ ___ __ _  _
+   \ \/ // gift for...           \\  \ \/ /  __    _  \ \/ /
+   /\ \ \\          whizz/apathy //   \__/  |_ 368__|  \/ /
+  / \\ \ \\                     //                     / /\
+  \____/ _¯¯¯ _  _  __ _ __ ____¯_____________________/ /\ \z!o
+    _   _  _ _ __ ___ ____ _______ ____________________/  · \
+                                                           · ·
+                                                              ·
+
+
+   ¶Øm
+    ¬##
+     ¬##   _ØF
+      ¬ØL  Æ#ØL    xØF_______   ______________ ___________  ___________
+       ¶# JØ´¬##   ØØ   ____/___\____________/_\____     /__\____     /_
+        ØLØK  ¬## JØ    \_____    /          \     _____/ /     _____/ /
+        ¶ØØ    ¬ØLØK\______|_____/___________/___________/\___________/z!o
+         Ø#     ¶ØØ
+                 Ø#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Well, at this point you should have found some special requested
+          logos for partyguests and tributes, but because I haven`t visited
+                      the party in the year of apocalypse there are none...
+        Also some philosophical texts between were in my mind. Now they are
+                                  lost in the deep space of my brain, hehe.
+                   I thought about live interviews with party visitors too!
+       But one thing I have to tell you about the newest EuroChart, because
+         I made some (four) cliparts after I read Curt Cool words about too
+        less support for the most respected charts in the scene since ages.
+         But although my cliparts were not very good, they were the most of
+                           all in this issue! But I was not named for them!
+        Another thing is that it`s `Zito in Paris` at the galery! Not Rome!
+                                          Just therefor everybody knows it!
+        Hey, Curt Cool! I am not angry even if the lines above look like...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Time for the file_id.diz, don`t you think?!
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ
+  ________      ______________ ________
+ /     __/_____/__ __________ \        |_
+ \     \____     /__________/ /         /
+  \_____________/____________/|        |
+                              |        |
+  layout - the fashion crew   |        |
+  presents its 2nd colly      |        |
+  made by zito and called...  |        |
+  `leave the world behind`    |        |
+  ____________________________|        |
+  \____________________________________|z!o
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hmh, I thought about some things...
+ Maybe I should stop making asciis! I thought because I know that I am
+ not very good, but at the other hand are there still a few guys out who
+ don`t know anything of ascii but do it since years. And at the end is
+ there also a need of bad artists as me therefor you can see what is good
+ by deviding between me and the others. You always need the opposite to
+ define a thing...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  But let`s see how the `file_id.diz` had
+                  looked if I released it at the party...
+
+
+
+
+
+
+
+at __  __  __  __  __         __  __ _
+  (--)|__)(__)(__ (--)(__`--)|__)(_ (-
+      |                      |   __) ¯ `99
+  the czech party in y2k-1...    \
+      |                           \
+  `layout` presents an ascii-colly \
+      |                             \
+  called `leave the world behind`    \
+      |__________________________z!o_/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  Another thing I want to add is about Dipswitch`s "TAC"...
+        No! I don`t want to slag him down as some other artists like me do,
+      although I still don`t like the words he uses to describe his meaning
+     about polish collies! I also hate this way to behave of polish sceners
+          always writing in a language only 20% of the scene understands!!!
+                      But what I generally wanted to talk about was my tag:
+      I have never seen the zZ, also I don`t own a colly made by Gozz, so I
+          couldn`t have known about this!!! At least I didn`t find this tag
+  in the asciigazette! A wonder?!? NO!! Because my one was not zZ but [zZ]!
+                  Anyway, as you maybe already noticed have I changed it to
+   z!o and by the way Green Tooth also uses `zZ!` which is similar to Zin`s
+                                `Z!` and Kayozz used `zz/?`... Think about!
+           Also I guess it is not a critic about an ascii-colly to say only
+         something about the artist`s grammalogue, but I am not angry about
+                                                         Dipswitch anymore!
+                    [ Du schuldest mir übrigens noch `ne Antwort, gelle?! ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       Ehrm... Now some Group infos...
+
+
+
+
+
+
+
+ Aztec founded Layout in march of `999
+ Punisher joined from Apathy, Darkage, Mawi...
+ Zito joined as doublemember from Apathy
+ Nemecheck from Whelpz joined as doublemember
+ Dissident joined from Phase IV
+ Juen joined as doublemember from Harvester
+ Muck joined as doublemember from Venison
+ ascii-colly #1 by Zito still in progress
+ ascii-colly #2 by Zito released
+ ascii-colly #3 by Juen released
+ ascii-colly #4 by Juen released
+
+
+
+
+
+
+
+                And the releases??? 1st Layout. 2nd mine...
+
+
+
+ [ 01--`lot-!mot.txt`--??????--`L.E.Mot`-----------------not released yet! ]
+ [ 02--`lot-ltwb.txt`--033001--`Leave The World Behind`--22.10.99--by Zito ]
+ [ 03--`lot-nnew.txt`--040000--`Nothing New V0.8`--------??.??.99--by Juen ]
+ [ 04--`lot-arlz.txt`--051020--`Acid Rulez`--------------01.10.99--by Juen ]
+
+
+
+  [ 01----`ztc-tog.ans`-----091500----`the touch of god`---------07.10.99 ]
+  [ 02----`ztc-pl1.txt`-----066095----`Pipi-Logic #1`------------12.02.99 ]
+  [ 03----`ztc-cls.txt`-----077777----`city lights`--------------01.03.99 ]
+  [ 04----`owo-er!.txt`-----033136----`emergency room`-----------23.05.99 ]
+  [ 05----`owo-eil.txt`-----151232----`Error in Line`99`---------25.04.99 ]
+  [ 06----`owo-vis.txt`-----042392----`Visitors`-----------------22.07.99 ]
+  [ 07----`lot-!mot.txt`----??????----`L.E.Mot`---------not released yet! ]
+  [ 08----`lot-ltwb.txt`----033001----`Leave The World Behind`---22.10.99 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Anything I can make a resumée about...
+      At the end also this colly has been released later as thought on 22nd
+       october 1999! Aztec wrote back and Juen sent me his both new collies
+                                     under Layout. Seems we get it going...
+    I made this lousy collection of characters inspired by the crumb movies
+        `fritz, the cat` and `high traffic` but also after watching another
+     queel french piece of art called `...und jeder sucht sein kätzchen`!!!
+                                      [ forgot the original title, sorry! ]
+           Musics from Foo Fighters, Cultured Pearls, Blur, Counting Crows,
+      Kristen Barry, Skunk Anansie, Craig Armstrong feat. Elizabeth Fraser,
+    The Verve and Placebo were playing in background while I set sign after
+                                                                    sign...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Good bye! This is the end...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=====================[ I Hope You Will Still Know Me When I am Gone! ;-) ]===
+                                     :
+                         /___________ø_ [%* tHE YARd BBS 2k! *%]
+     ._________________///   ________:                          ____
+  ___|_______ ____.    /  ___\_      |___   ___\      _____  __/_   \
+  \     _   //   _|__  __/_    \     |   \ /    \  __/_    \/   /    \
+   \___/    ø   /    \/   /    /     |_   /      \/   /   _/   /      \
+     _/     :  /_     \_ /____/¯\_____/  /       /   /_    \__________/
+     \______|    \_____/_________/ /____/        \_____\_____//
+         \_______|                     /____________\©nUP
+
+        zANEr^LFC ÷ diPSWiTCH^BK ÷ hAsH^AHS ÷ NINjA^PDX ÷ mOOL^AHS
+
+   ÷ AEROHOLiCS WHQ ÷ ARCADE WHQ ÷ AEROSOL WHQ ÷ DiSCiPLES OF AGEEMA WHQ ÷
+   ÷ THE ASCii CHARTS WHQ ÷ LiGHTFORCE GHQ ÷ BAD KARMA GHQ ÷ TEQUiLA GHQ ÷
+     ÷ SiCK OF iT ALL GHQ ÷ UP ROUGH GHQ ÷ LOW PROFiLE GHQ ÷ PHUNK GHQ ÷
+  ÷ SODiUM GHQ ÷ PUNGAS GHQ ÷ OMEN GHQ ÷ 1OO% GHQ ÷ VORTEX GHQ ÷ MVP GHQ ÷
+          ÷ DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS/BETA-SiTE ÷
+
+  ÷ 2 nODES wITH 33k6 - 2 nODES wITH iSDN - 4 nODES tELNET wITH sTATIC iP ÷
+ ÷ cONSOLES/aMIGA/gRAFFITI/aSCII/mP3/mOD/dRUGS/cLASSICgAMES/dAYdREAM/lINUX ÷
+

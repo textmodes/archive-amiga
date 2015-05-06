@@ -1,0 +1,1712 @@
+
+     |
+   --+--------
+     |
+       
+
+                                       _______________
+                                      |      _____    |
+      ____         ____   ___       __|__    \   /  __|__ ____
+      \  /_________\  /__ \  \  ____\   / ____\ /___\   /_\   \_______
+      \   ____       /__ \/  \\/  ¬//__/\/`-----___/  ___     \\     /
+      /  ---'/__ \_  --'__    \_/  / `--  _        _  `--'\    \   _/
+     /_____\/ `-- ¬\__/  ¬\____\ °. __/   ¬\ _/  °.¬\______\____\  ¬\
+           /__/   °.\/_____\  /_____\/    °.\/_______\ |     fAr/  °.\
+             /_______\              /________\         |       /______\
+       f·a·r·m·a·z·o·n                |________________|
+
+    
+    
+
+
+               .                                         .
+
+
+         .                              .                         .
+
+.                          .                                          .
+
+              +                                           +
+                                .                                 .
+                    .                          .            
+                                           ..                 .
+      .                                 . .
+                                      .   .
+                                    .   .
+                .               .                   .                  .
+
+   .                            .  ::
+             + .             :.        :.               +
+                          .....       
+                          :   :   ::  .           
+      .                .  :...:                                    .
+                                              .
+                      ::       .....  ::
+     +            . .......    :   :               .
+                    :     :    :...:                             +
+          .     ::  :     :  .       ::
+               .    :.....:      .                        .
+                                       :
+             ::       ::       ::::::: .
+      .         .....     .    :    ::  :     .          +
+              . :   :   .      :    ::   .                         .
+                :...:      .   :....::      .
+   .         :          ::               .                .           .
+                ::    ......   .   .  ::   . :: .
+                  .   :    :      .........    .... .
+                  :.  :    :  ::  :::::::::  . :  :  .       .        +
+                    . ::::::      :     :::    ::::  :..
+  .   +       .       .      ::   :     ::: :.     ::    ..
+                           .....  :.....:::      ........   :...        .
+                      : :. :   :   ...    ...... :     ::   ..   ::
+    .       +      .       :...:   :      :::::: :     ::   :    ..  .
+                         ::  ..    .....  :::  : :     ::     ::   .....
+                           .... :: :  ::  :::..: ::::::::  ::   .  :   :  .
+ +      .             . :: :  :  . :..::  .      . ..       ...... :...: .  .
+                 ::  : :.. ::::  .............   :::::::::  :    :     .....
+              ......   : :     . :        :::: : :       :  :    :   . ::  :
+ .         :: :   ::   :::  ::   :        :::: : :       :  :::::: ::: ::..:
+         .    :   :: ::    . ... :        :::: : :::::::::  ...  ...... 
+          ::  ::::::    ::       :        ::::   :::::::::  :.:  ::::::  ::
+    +   .    ...  ....  .   :::  :::::::::::::   ...   .   ..... ::::::  ....
+ .           :.:  :  :  :.. :::    .  .      .   :.:  :::  :   : :....:  :  :
+      ::  ::       .   .  ............  ....   ::   .....  :..::      :: :..:
+    .........   ::   .... :         _____________ ____  :
+    :      :: .    . :  : :        _\___/\_   __/_\  |..:   :::::::   ::   .
+    :      ::    :   :..: :       ___   |     \ / \  |   .: :    :: .     ::
+    :      :: ..:::..     :         |___.__\   \_____|      :....::    :.   .
+    :::::::::    :     .  ::::::::::::     /____\iNdePendEd:..      ::    .  .
+ ::                              .      ::                     ::::     .....
+ .  +  :.    ::  . ::::::::  ::   .....      ::::::    ....... ::::  :. :   :
+   .      :: ..... ::     : .  :: :   :  ::  :   ::  . :     :   ..     :::::
+ ::  . ......  ::: ::     :  .... :...: .... :...:: .  :     :   ::  :.  ....
+  .... :   ::  ::: ::.....:  :  :  .  . :  :  ........ ::::::: ::  .  ..::  :
+. :  : :   ::  :::    .    . ::::  :..  ::::  ::::::::  .   ......:   :::::::
+  :..: ::::::  .   ::   ::  ................. :::::::: . :: :     : ::   .  .
+..   .    ......  .   ::    :::::           : :::::::: .... :     : .  ::::::
+ ::::: :: ::   :  ...... .  :::::           : .   ...  :  : ::::::: ::..   .
+ ::  :  . ::   :  :   :: :..:::::           : :.. :.:  :..:   .   .  .......
+ ::..: .: ::...:  :   :: :  :::::           : :   .   .......  ::    :     :
+  ....    ...     ::::::    :::::           :   ::  . :    ::     :: :     :
+ .:  : :: :.:  .......... . :::::           : :: .... :    :: ::::   :::::::
+  ::::   .   . :::      :   ::::::::::::::::: .  :  : ::::::: :..: .  . ....
+..  .  :: .... :::      : : ::::::::::::::::: :..:::: ....   .  ...: :: :  :
+: : :.  . :  : :::      : :  .....   ........  .  ... : :: ..:. :  :  : ::::
+::: : :   :::: :::......: :: :  ::   :::::::: ::: :.: ::::   :  ::::  .     .
+ .  .  ::  ...........    .  ::::: ....................    .    ......  :: 
+  ::  .... ::::::::::: ...:..    . ::::::::::::::::::::  ..:..  :   :: .  .
+:   . : :: :::       : :: :   ::   ::::::::::::::::::::    :  . :   ::  .  ::
+ ::::::::: :::       : :::: .   :: :            :::::::  .   .: :::::: ......
+ :    :::: :::       : .  ..: :.   :            :::::::   ::   .    .  ::::::
+ :    :::: :::.......: :..  .   :: :            :::::::  .   ::  ::    : ::::
+ : ... ______                                _______     _____      : ::::::
+   :  |__ \__\_____ _____________ __________/_______\ __ \___/_____    .
+   :::|  \______ _//_\__/\__/ __|/_\__/ \   \ /   \/ \\_\/  //_\__/    :..
+ :.   |___\ |__|_. \\___\ |__/__\\\___\(_\   \_____\____   __\\___\
+ ________________________________________/____\     .. /___\fAr      ::   .
+ pRezEntUje...  .      ::....:      ..   :....::                 ::
+             :    ::   .        ::   .....   .   ::::::   .....      ......
+             :..........sWój...      :   :   :.. :   ::   :   :      :   ::
+                     ____     :.....piErwSzy...  :...::   :::::   :. :...::
+OOOOOOoooo          (____)                    :  .      ::     .    .    
+OOOOOOOOOOOOOOooooooo)OO(                     :......azkEe-pa[k....       ::
+OOOOOOOOOOOOOOOOOOOOOOOOOOOoooo                                     :
+OOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOooooo                            :
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOooooo                    :
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoo               :..p.t.:
+OOOOOO'_.------._`OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOooooo
+OOO'.-'          `-.`OOOOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOooo
+OOO |              | OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoo
+OOO.`-._        _.-'.OOOOOOOOOOOOOOOOOOOOO'.------.`OOOOOOOOOOOOOOoo
+OOOOOo. `------' .oOOOOOOOOOOOOOOOOOOOOOO (        ) OOOOOOOOOOOOOOOOOoo
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.`------'.OOOOOOOOOOOOOOOOOOOOOOoo
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOooooooooOOOOOOOOOOOOOOoOOOOOOOOOOOo
+OOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOO'_`OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOO (_) OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOOOOOO
+OOOOOOOOOO. .OOOOOOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO'_`OOOOOOOOO
+OOOOOOOOOOOOOOoOOOOOOOOOOOOOO'.------.`OOOOOOOOOOOOOOOOoOOOOOOOOO (_) OOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOO (        ) OOOOOOOOOOOOOOOOOOOOOOOOOO. .OOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOO.`------'.OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOO'.----.`OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOO (      ) OOOOOOOOOOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOO.`----'.OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO'_.----------._`OOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO'.-'              `-.`OOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO |                  | OOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.`-._            _.-'.OOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo. `----------' .oOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOO'_`OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOoOOOOOOOOOOOOOO (_) OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOO. .OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOoOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO'.------.`OOOOOOOOOOOOOOOOOOOOOOOOOoOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO (        ) OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.`------'.OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOO'_`OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOOOO
+OOOOOOOOO (_) OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOO. .OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+O . OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOO
+O |    OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+O |FAr.____  ___________    __ . ___________________________  OOOOOOOOOOOOOOOO
+O |.  |   //   ..:|    \  /:.\|/        /       /:       ._/  OOOOOOOOOOOOOOOO
+O |:  | _/_  .   :|.   \\/    |:...    /       /:|____|  :|  OOOOOOOOOOOOOOOOO
+O |:. .   |  |    |:   |\/    |:  ____/|_   __/.:|    .  :| OOOOOOOOOOOOOOOOOO
+O |_  \___|  |  __|:.._| \____|__  _/__|_   /  __|__  |  _| OOOOOOOOOOOOoOOOOO
+  /_______\/_____\/____\ /____\/_______\/________\/_______\  OOOOOOOOOOOOOOOOO
+O                                                             OOOOOOOOOOOOOOOO
+O   " kOmEta "  oOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OOoooooooooooooOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO'
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOoOOOOOOOOOOOOOOOOOOOOOOOOOOO'
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO~~
+OOOOOOOoOOOOOOOOOOOOOOOOOOO'_`OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO~~
+OOOOOOOOOOOOOOOOOOOOOOOOOO (_) OOOOOOOOOOOOOOOOOOOOOOoOOOOOO~~
+OOOOOOOOOOOOOOOoOOOOOOOOOOO. .OOOOOOOOOOOOOOOOOOOOOO~~
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO~~
+OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO~~~~~                               .
+OOOOOOOOOOOOOOOOOOOOO~~~~~~~~
+OOOOOOOOOO~~~~~~                   
+~~~~~~~                       .                        +
+
+
+        .            +                 .               .                 .
+
+
+
+  +             .               .                       .              +
+
+              .                             .                     
+
+     .                      .                                      .
+
+
+                +                                         |
+                                         .              --+--         .
+          .                                               |
+
+
+    +                             .                +                +
+
+
+                      |                                .
+                    --+--                    +
+        .             |                                               .
+
+                                    .                            .
+           .
+                                   
+                          .                            .
+     .
+
+                     
+                     .            +                              .
+
+                                             .
+        .
+
+
+                        .                                   .
+
+
+
+
+              .                               .                        .
+
+          +
+
+
+
+
+
+
+                             .                               .
+
+           .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ____________ 
+     \__________//
+     |:          |
+     |::         |
+     |:::.       |                                          _ _ _
+     |:::        |________.oOo.____________________________//////______
+     |::         |                                                    |
+    _|:          |  Yo PlaYaz!!!                                      |
+    ||___________|                                                    |
+    |:. \________    Witam  w  moim pierwszym azkee-packu którego     |
+    |::. \      //   udaîo mi  sië  ukoïczyê po  prawie  tygodniu     |
+    |:::.      //    ciëûkiej pracy. Zapewne  niejednemu  z  Was,     |
+    |:        //     którzy to  czytacie, moja ksywa nic nie mówi     |
+    |:   |   //___   ale nie powinno to przeszkadzaê w obejrzeniu     |
+    |    |     .:|   mojego  "dzieîa" któremu  poôwiëciîem  wiele     |
+    |____|   .:::|   wyôiîku. Jestem  w miarë poczâtkujâcym ascii     |
+   ______|      :|__ makerem zatem  proszë o  wyrozumiaîoôê jeôli    __ 
+  \\     |_______| / popeîniîem jakieô  raûâce bîëdy... Niestety,   _\/_
+   \\             /  jedyne azkee-packi  jakie widziaîem i mam to   \/\/
+    \\           /   "Noc stwarza okazje"  Revi'ego i "Desperado"      
+     \\.     ___/    by Fighter for Future i na nich sië  oparîem     |
+      |::.    |      /wzorowaîem (nic absolutnie nie   rippowaîem     |
+      |:  ____|      ani ôciâgaîem!!!).   Wiele nocek  sië urwaîo     |
+      |:   .:|       mi przy tej robocie wiëc wydaje mi  sië,  ûe     |
+    __|______|___    jest co oglâdaê  (bynajmniej nie   z  powodu     |
+   \\           /    nocek:). Jeôli podobajâ Ci sië moje  logoski     |
+    \\         /___  (lub nie) to skrobnij do mnie na   adres  co     |
+    |\\       /  .|  masz na koïcu packa. Bëdë wdziëczny za kaûdâ     |
+    |     ___/  .:|  opinië...  Chëtnie poswappië wiëc pisz letta     |
+    |     |   .:::|  i  ôlij.  Miîego  (mam nadziejë)  oglâdania.     |
+    |     | .:::::|  Szacunek  dla  azkee-makerów,  graffmanów i      |
+    |     |   ::::|  grassmanów... POzdrowienia...                    |
+    |         :::_|                                                   |
+    |____________\\                             fAr (fArMaz0n//iNd    |
+          fAr|                                                        |
+             |   Chëtnie przystâpië do jakiejô grupki jako ascii      |
+             |                   maker/ swapper...                    |
+             |        Proszë o kontakt innych azkee-makerów...        |
+             |    Aha, staîa zasada - uszanuj mojâ robotë i nie       |
+             |        wypiepszaj mojego taga z logosów (to ten        |
+             |  znaczek "fAr" przy kaûdym logosie ;) ale tego chyba   |
+             |              nie musiaîem pisaê, nie :)                |
+             |__                                            _ _ _     |
+              /____________________________________________//////_____|
+
+
+
+
+
+
+
+  
+
+
+
+
+
+                                  .oOo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ::::::::::::::::::::::
+.::::::                 ::::::::::::............
+   :::::                         ::::::::::::::::::::.....  ...
+     ::::......................::::::::                 .oOOOOOOOo. 
+                                                       oOOOOOOOOOOOo
+                               ..........::::::::::::::::::::.OOOOOOO
+                   ..:::::::::::::::::::::::                :::::::::.....
+     ..........:::::::::::::::                                  ::::::::
+          :::::::::::::::                                          ::::
+                  :::::::::....                                 ..:::
+                      :::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
+
+
+
+            /
+           /
+          /\
+         /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           .....................
+                  ....:::::::::::::::::::::::::::::::::...
+              ..::::::::::::                    :::::::::::::..
+          ..::::::::                                     :::::::::...
+       .::::::::                                               ::::::::.
+     .::::        "... Armageddon - kosmiczna zagîada,              ::::.
+    :::::.      Kto wpada nie wychodzi - taka jest zasada.           :::::
+   :::    :                                                    :    ..··:::
+   ::      .       Bogaty, biedny, zdrowy czy chory            ::       :::
+   :::.   : :        razem po kolei do gazowej komory..."    ..·       .:::
+     :::::  ::   .                                         .      :.  .::                  
+      :::::: :..:                       MoLeSta            ::       ::::
+       ::::::::....                                     ·..·  ....:::::
+         :::::::::::::::.....                   .....::::::::::::::::
+              :::::::::::::::::::           ::::::::::::::::::::
+                     ::::::::::::::       :::::::::::::::
+                             :::::::     :::::::
+                              ::::::.  .:::::::
+                             .:::::       :::::.
+                           .:::::           :::::.
+                           :::::             :::::
+                            :::::           :::::
+                             ::::::       ::::::            ....····.....
+                              ::::::     ::::::           .:             :.
+                               ::::::.  .:::::           :                 :.
+ ...···.....                  :::::       :::::         :                    :
+:           :.             .:::::           :::::.       :.
+  ...         ·.          .::::               ::::.        :         .··..
+ :             :          ::::                 ::::         :.            :
+::            :            ::::               ::::            :           ::
+ ·.           :             :::::           :::::             :         .·
+.·             :.              ::::.     .::::              .:
+:                :.           .::::·     ·::::.           .:
+ ·.                :..     ..::::           ::::..     ..:                   .
+                      :...::::                 ::::...:                    .:·
+:.                                                            .          .:· 
+ ·:....          ...:                                    :...:·:.      .:· 
+    fAr·........·                                                ······
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    .oOo.
+
+
+
+
+
+
+
+
+
+
+            ___________________________________________________
+            \                  _________           _____      ¬\
+             \ ° .  _____      \    ___/ __________\   ¬\  _____\
+   ___________\     \   ¬\  ___/_  __\__ \__      _/\    \ \   / \
+   \    ______\\    /     \/    /      ¬\ /¬      \ /     \/  /   \
+    \ °.\    / \\  /      \/    \___/    \         \          \    \
+     \   \  /   \\/_______/      \ /______\__\      \__________\    \
+     _____\/___  \O   fAr/________\       o  /       \          .    \_____ 
+     \    /\  /   o\                      ° /_________\  .mEnU.   °   \   /_
+  ___ \  /  \/    .\\__________________________________________________\   |
+ _\    \/  _________\                                                      |
+ |                          .oOo. stRefa xYw .oOo.                         |
+ |_________________________________________________________________________| 
+
+   ::::::::::::::::.
+     :::::::::::::::.  mAÎa uWaga: zrobiîem logosy takûe dla tych z którymi
+       :::::::::::::::.  sië nie znam...(i jest to wiëkszoôê =)
+        ::::::::::::::::.
+         ::::::::::::::::   nr. ..logos name...................requester.. 
+       .::::::::::::::::    °O.
+     .::::::::::::::::      °1. Acid.......................Acid/Doggystyle
+   .::::::::::::::::        °2. Ash............................Ash/Apt^Dcr
+  :::::::::::::::::         °3. Blaze....................Blaze/Ptn^Nah^Flp
+   :::::::::::::::::.       °4. Ctp...........................Ctp!/Link124
+     :::::::::::::::::.     °5. FighterForFuture..............-fFf-/Whelpz
+       :::::::::::::::::.   °6. Gift..............................Gift/???
+        ::::::::::::::::::  °7. Luk.........................Luk/Pht^Linear
+       ::::::::::::::::::   °8. Mavey.(#1)....................Mavey/Potion
+     .:::::::::::::::::     °9. Mavey.(#2.....................Mavey/Potion
+   .:::::::::::::::::       1°. Nelson.......................Nelson/Potion
+  ::::::::::::::::::        11. Revi...................Revi/Whelpz^Link124
+   ::::::::::::::::::.      12. Skip..........................Skip/Victims
+     ::::::::::::::::::.    13. Thorr.........................Thorr/Whelpz
+       ::::::::::::::::::.  14. Trylobit......................Trylobit/???
+         :::::::::::::::::: 15. Tzx..............Tzx/Victims^Sector5^Qualm
+   _ _ _________________________________________________________________
+ __\\\\\     \  /                                                      /___
+ |         ___\/_           .oOo. stRefa gRup .oOo.                       |
+ |_________\  /\/_________________________________________________________|
+            \/
+         .::::::::::::::::: nr. ..logos name...................requester..
+       .:::::::::::::::::·  °O.
+     .:::::::::::::::::·    16. Link 124.......................All members
+   .:::::::::::::::::·      °O.
+ .:::::::::::::::::.        17. Potion (#1)....................All members
+  ·::::::::::::::::::.                                  (especially Mavey)
+    ·::::::::::::::::::.    18. Potion (#2)....................All members
+      ·::::::::::::::::::.                              (especially Mavey)
+        ·:::::::::::::::::: 19. Whelpz.........................All members
+       .:::::::::::::::::·                   (especially -fFf-,Revi,Thorr)
+     .:::::::::::::::::·    20. Ind.......................All independents
+  ______________________________________________________________________ _
+ _\     .                                                              ///_
+ |_      °o                 .oOo. stRefa sPecjAli .oOo.                   |
+  /_______________________________________________________________________\
+
+     ::::::::::::::::::::::
+     :::::::::::::::::::::: nr. ..logos name...................requester..
+     :::::::::::::::::::::: °0.
+     :::::::::::::::::::::: 21. Sea............................Revi/Whelpz
+     :::::::::::::::::::::: 22. FrozenPack....................Thorr/Whelpz
+     :::::::::::::::::::::: 23. Introduction..................Thorr/Whelpz
+     :::::::::::::::::::::: 24. Adverts.......................Thorr/Whelpz
+     :::::::::::::::::::::: 25. News..........................Thorr/Whelpz
+     :::::::::::::::::::::: 26. Results.......................Thorr/Whelpz
+     :::::::::::::::::::::: 27. Messages......................Thorr/Whelpz
+     :::::::::::::::::::::: 28. Stuff.........................Thorr/Whelpz
+     :::::::::::::::::::::: 29. List..............................everyone
+     ::::::::::::::::::::::
+  _____________________________ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _____
+ _\                           ////////////////////////////////////////    /
+ |     .oO nic wiëcej Oo.                                                /_
+ |                            \-------------------------------------------'
+ |_____________________________\
+
+
+
+
+
+                                  .oOo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        _____                   ________________
+            _________ __\   /___________________|________      |
+            \__-----'\`--/  --'\ ____\   ___/  ___/ ___ /      |
+            /____/    \ /    \ / `--' \ --' \ ---'/`--' \      |
+                /______\______\___/   \__/   \__\/___/   \     |
+                                 /_____\/_____\ |fAr/_____\    |
+             ·X · Y · W ·                       |______________|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 .oOo.
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Acid              ///
+          ///          °1     __ \\                            _///
+         ///__________________\/__\\  fOr: Acid/Doggystyle  .° \ ¬
+         ¬  fAr              \/\/   \___________________________\                                             
+
+
+
+
+
+
+                                °._______
+                                  \    ¬/         
+                      _ __   _ ___/_ ___\__      ______ _
+                     ///  \ ///    / \_ __/      \    ///
+                    /  /\  \_   __/__/ \\ \_______\    /
+                   /    ¬   ¬       ¬      ¬    __ \  /
+                  /____/    °. __/     ____     \/   /_
+                      /________\/______\  /    °.\_____\
+                             / ·a·c·i·d· /________\fAr
+                             \________________/
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Ash               ///
+          ///          °2     __ \\                            _///
+         ///__________________\/__\\  fOr: Ash/Apt^Dcr      .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                       ______          ______
+                       \    /_  ____ __\    /______
+                        \  / ¬\_\  /_|__\  /____ ¬|
+                        /\ ___ \___---'¬\      ¬\ |
+                       /___`--'¬\___/    \__/    \|
+                           /.°   \ /______\/   °. \
+                          /_______\  | fAr/________\
+                                     |____________|
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Blaze             ///
+          ///          °3     __ \\                            _///
+         ///__________________\/__\\  fOr: Blaze/Potion^Nah .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+                                     __
+                            _________\/_________
+             _ _____   _ ___|__     \/\/  _ ___|__
+             \\\  ¬/   \\\    /  o  __ _  \\\    /_____ ______
+              \   /_____\    / .°  /  \\\__\    /    ¬/\\____/
+               \ / __  ¬ \  /___  /  /\  \_ \_______ /  ___\__
+               _\  \/      /   ¬\/    ¬/  ¬       __/\     _ ¬\
+              /____/     \__/     ____/      _____    \___/    \
+               fAr/_______\/      \  /_______\ | /_____\ /      \
+                          /________\___________|        /________\
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Ctp               ///
+          ///          °4     __ \\                            _///
+         ///__________________\/__\\  fOr: Ctp!/Link124     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+                                           _____
+                           _______  _____  \   /_
+                           \     /__\   /__/   . \
+                      _____/  __/__--/  --'____ ° \_____
+                      `---/   `--'¬\/    \ `--'___/----'
+                         /___/    °.\_____\    ¬\    
+                         fAr/________\  /________\
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: FighterForFuture  ///
+          ///          °5     __ \\                            _///
+         ///__________________\/__\\  fOr: -fFf-/Whelpz     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                                          ____________ 
+           ____         ____    ____     |      ____  | ____
+           \  /_________\  /___ \  /___  |______\  /__|_\  /__
+           \   ____---'   .---'\/     ¬\_\  ____   _____  /__ \
+           /   --'/   \_   \        \   \-  \--'/  --'\/  --'__\
+          /_____\/     ¬\________\___\__     \ /_______\___/   \
+                /________\             /______\       |   /_____\
+                          · f · o · r ·  |            |
+          _ ________       ___ _         | ___ _ _ ___|____
+          \\\  ____/ ______\ ///_____ ___|_\ ///_\\\  ____/
+           \  ___\  \\  \___    __/  \\   //    _ \  __\__
+           / °.\/    \\ /  /    \/    \\ //   _//  \      \
+          /_____\__/  ¬ \ /    °.\__/  ¬ \____/    \ /   °.\
+                  /______\________\/______\  /______\_______\
+                                         |____________|fAr
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Gift              ///
+          ///          °6     __ \\                            _///
+         ///__________________\/__\\  fOr: Mavey/Potion     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                              ____ ____________
+                              |   \\         ¬|
+                        _ ____|_ __\\__  _ ___|____ _
+                       ///     / \_ __/ /// ____/ ///___
+                   _ _/    \__/__/ \\ \/   ______    __/__ _
+                  ///    /_/    ¬          ¬\ |/     ¬   ///
+                 ///_______   °.   __________\/.°      _///
+                 ¬       /_________\    \\fAr/_________\ ¬
+                              |__________\\___|
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Luk               ///
+          ///          °7     __ \\                            _///
+         ///__________________\/__\\  fOr: Luk/PhT^Linear   .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                      _____ _               ___ _
+                      \   ///    ____       \ ///_____
+                       \   /  __ \  / ____ _/  /\    /
+                       /  `---'¬\/ /  \  ///  `--'__/
+                      /      __  \`----'  /    /   ¬\
+                     /______/     \__/    \___/    °.\
+                           /     °.\/      \ /________\
+                          /_________\_______\fAr
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Mavey (#1)        ///
+          ///          °8     __ \\                            _///
+         ///__________________\/__\\  fOr: Mavey/Potion     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                                                   .-'
+                                 .-'.#'         .-'/      .-'
+                  `-.     ___  .-' |&$      __.-' /__   .-'/
+                   \`-.  / ¬|.-'   |@  `#. /  ___/  ¬\.-' /
+                   /   \/   |   __ |&   1@/  __\_ \  /   /
+                  /    \/   |   \¬ |#   #%      ¬\ \    /
+                 /_____/    |____\ |@. .#'_____   \/   /
+                      /_____| /____|`&,#' fAr/_____\   \
+                                     `V'         /______\
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Mavey (#2)        ///
+          ///          °9     __ \\                            _///
+         ///__________________\/__\\  fOr: Mavey/Potion     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+
+                            ______          _____
+                   ___      \    /          \   /____      ____
+                   \  \  ____\  / \___     //\  ____/     /   /
+              _____/\ \\/   //\___ \  \   //   ---'\ __  /   /
+              |   /    \/  /\  `--' \  `-'/\___/    \\`-'   /
+              |  `-----/   °.\__/   ¬\   /\   /    °.\\/   /
+              |       /_______\/      \ /  \ /________\   /\
+              |               /________\____\     fAr/______\
+              |__________________|
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Nelson            ///
+          ///          1°     __ \\                            _///
+         ///__________________\/__\\  fOr: Mavey/Potion     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+
+              ___      _____   __________    _____  ___
+         _  __\ ¬\____ \   /__ \   ¬/\  /___ \   /__\ ¬\_______  _
+         / /  /  \\  ¬\/  ___/ /   / \__---'\/ ___¬//  \\  ¬\  \ \
+       _/ /__/____\    \ --'¬\/   /___/¬     \`--' \____\    \__\ \_
+                   \____\_____\-------'_______\_____\fAr \____\
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Revi              ///
+          ///          11     __ \\                            _///
+         ///__________________\/__\\  fOr: Revi/Whlpz^Lnk124 °.\ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                ______ __
+                \    // /           _______ _
+                 \     /___    _ ___\__   ///______ _
+            _ ____\   /   ¬\  /// ____/   //  /\__///
+            \\\   /\   __   \/   __\_ \   /  / /  \\\______ _
+             \\\_       ¬____\    _ ¬\_\    /_/ ___  \    ///
+              ¬ /_____/     ¬\___/    ¬\   / ¬\   ¬\   __///
+                     / °.     \ /_______\   .° \    \__\  ¬
+                    /__________\        /_______\____\fAr
+
+
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Skip              ///
+          ///          12     __ \\                            _///
+         ///__________________\/__\\  fOr: Mavey/Potion     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                              °               .
+
+                              |_______________|
+                               _______________
+                       ____   |____    ______¬|____
+                       \  /___|\  /___ `----' |\  /___
+                       \__ --'\/  _--'\/    \_/  /--'¬\
+                        /¬     \  ¬\   \     ¬\   _____\
+                       /________\___\___\______\____\fAr
+                              |_______________|
+                               _______________ 
+                              |              ¬|
+                              .                
+                                              °
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Thorr             ///
+          ///          13     __ \\                            _///
+         ///__________________\/__\\  fOr: Thorr/Whelpz     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+
+                       _____ _          _____ _ _____ _
+                 ___ _ \   ///   _ ___  \   /// \   ///
+               __\ ///__\   /___/ \\  \  \   /___\   /___
+     _ __ ____ \__   _____  _  ¬    _  \_/  /   ¬\  /   ¬\___ __ _
+         \\   \__/   ¬\  /  |      //   ¬    _  __   _  __   \\
+          \\    _      \/__/    \ _/      \  ¬   \   ¬   \\   \\
+       _ __\\___/_______\ /      \/________\_/    \__/    \\___\\__ _
+                         /________\         /______\/______\fAr
+
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Trylobit          ///
+          ///          14     __ \\                            _///
+         ///__________________\/__\\  fOr: Mavey/Potion     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+
+              ________________________________
+       _____  ____   ____ |     ______ _____| ____    _____  _____
+      _\   /__\  /___\  / |_____\   ¬/ \   /|_\  /___ `---' _\   /__
+      `-/  --'  /___¬\ /\_/   ¬//   /_ / ___¬/  /___ \/   \_`-/  --'
+       /    \    --'__\`--/   //     /___`--'\   --'_/     ¬\/    \
+      /______\___\____\  /   / `--------'_____\______)_______\_____\
+                        /___/fAr     __     |
+                          |__________\/_____|________________
+                                    \/\/
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Tzx               ///
+          ///          15     __ \\                            _///
+         ///__________________\/__\\  fOr: Mavey/Potion     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                            ___ _        ________
+                         ___\ ///________\      /_
+                     _ __\__   ________ / \    / /
+                     \\\   ¬    \     _/___\_   /___ _
+                      \\\_     °.\        ¬\/ /   ¬ \\\
+                       ¬ /________\___/      /.°    _\\\
+                                  fAr/_______\______\  ¬
+
+
+
+
+
+
+
+
+                                   .oOo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        _____                   ________________
+            _________ __\   /___________________|________      |
+            \__-----'\`--/  --'\ ____\   ___/  ___/ ___ /      |
+            /____/    \ /    \ / `--' \ --' \ ---'/`--' \      |
+                /______\______\___/   \__/   \__\/___/   \     |
+                                 /_____\/_____\ |fAr/_____\    |
+           · G · R · U · P ·                    |______________|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 .oOo.
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Link 124          ///
+          ///          16     __ \\                            _///
+         ///__________________\/__\\  fOr: All Members      .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+
+
+  _ ______                          ________
+  \\\    /   _____ _ _ ___      _ __\      /    :::::__________::::
+   \    /    \___/// \\\ ¬\ ____\\\ /\    /   .:::::\    __   /:::
+    \  /___  /     \  \    \\   /    _  _/ ::::::::::\___\/  /:::  :::::::
+    / /   ¬\/       \_/     \\ /     /  ¬\    ::::::: ___/  /_::::::::::::
+   /___/     _____________/     \___/     \   :::::::/     /  \    :::::::
+      /    °.\fAr        /       \ /     °.\  ::::::/__________\   :::::::
+     /________\         /_________\_________\
+
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Potion (#1)       ///
+          ///          17     __ \\                            _///
+         ///__________________\/__\\  fOr: All Members      .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+
+
+              ·.                  .                      .
+               `-.       .      .-'    .         .     .-'_
+               | _`-.   .-'_   .-' |___ `-.     .-'_  .-'   \___
+               | \   \.-'  /___|   _   \| `-. .-'  /__\    /\   \
+               |  \   \   /\   \   |\___\    |    /\   \  / /   /
+               |  /___/___\/   /   |  \ |    |\___\/   /__\/___/
+               |____|     /___/|_______\|____|    /___/fAr
+                         // p · o · t · i · o · n \\
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Potion            ///
+          ///          18     __ \\                            _///
+         ///__________________\/__\\  fOr: All Members      .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                       ________________
+             _____    _|___        __|__ _____  ____
+             \  ¬/___ \   /___ ____`---' \   /__\   \______
+             \  _____\/ ___ ¬__\  /__  \_/ ___ ¬    \\    /
+             /  `-----  `--' `--  --'   ¬  `--'      \  _/
+            /______\ /  °.\___/     ______  °.\__/    \ ¬\
+                    /______\ /______\|fAr/_____\/______\°.\
+                       _|____________|_             /______\
+
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Whelpz            ///
+          ///          19     __ \\                            _///
+         ///__________________\/__\\  fOr: All Members      .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                                                   .---------.
+                   ________               _________|         |
+        _____  ____\__    /    ____      /  \     /|_       _|__
+        \   ¬\ \     /   /_____\  /_____/  / \   /___\______\  /__
+               /\    __  _  ¬      _____  /__   /---' ¬_`-----____ 
+              //\___/ /  |  _____  ---'\__  ¬\   _____/¬
+           /   \     /__/   ¬\  /       \/____\___\| /     \______ 
+          /_____\      /      \/_________\fAr      |/_______\|
+                      /________\                   |         |
+                                                   `---------'
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: iNd               ///
+          ///          2°     __ \\                            _///
+         ///__________________\/__\\  fOr: all Independents .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                                              _____ _
+                                _ _           \   ///
+                         ____ _/// \    _______\   /
+                         \__///     \___\_   __   /
+                         /    \_    \\   ¬\  \¬  /_
+                        /      ¬\____\     \_/     \
+                       /_________\fAr/______\       \
+                                           /_________\
+
+
+
+
+
+
+
+
+                                 .oOo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        _____                   ________________
+            _________ __\   /___________________|________      |
+            \__-----'\`--/  --'\ ____\   ___/  ___/ ___ /      |
+            /____/    \ /    \ / `--' \ --' \ ---'/`--' \      |
+                /______\______\___/   \__/   \__\/___/   \     |
+                                 /_____\/_____\ |fAr/_____\    |
+          ·S·P·E·C·J·A·L·I·                     |______________|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 .oOo.
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Sea               ///
+          ///          21     __ \\                            _///
+         ///__________________\/__\\  fOr: ®ev¿/Whelpz      .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+                                              _________
+                                              |       /
+                    _________ ______    ______|      /
+                     ______ | \ .  /____\    /|     /
+                     \    /_|__\ ° ____/ \  /\|    /
+                      \__-----'/ -----'\/ \___\___/
+                      /___/ °. \___/    \ `--' \___
+                         /______\ /______\_/  °.\_/
+                  __________|fAr          /______\
+ 
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Frozen Pack       ///
+          ///          22     __ \\                            _///
+         ///__________________\/__\\  fOr: Thorr/Whelpz     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+                                                 __________
+              ____   ____    ____     _____  ___|   _____  |
+              \  /___\  /____\  /_____\   /__\  /___\   /  |
+              \   ___  /__ \ ____ ¬`----___/_   ____/   \__|_
+              /  ---'  `-'__ `--'  /        ¬  ---' _   \\  ¬\
+             /_____\/___/  ¬\_____/    \_____\__/   ¬ ___\    \
+                       /_____\   /______\      /______\  /_____\
+               _____    _____ _____     ______  |          |
+               \   /___ \   / \   /  ___\    / ·f·r·o·z·e·n·
+               \  _____\/ ___\/  / __\  /   / · p · a · c · k ·
+               /  `----  `--'    `-'  \ _--'\   |          |
+              /______\/___/    \__/    \/    \  | issue XX |
+                      fAr/______\/______\_____\ |          |
+                                                |__________|
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Introduction      ///
+          ///          23     __ \\                            _///
+         ///__________________\/__\\  fOr: Thorr/Whelpz     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+                     ____  ____
+      _________    __\  /__\  /_ _______
+      `----'   \___`--  --' ____\  ___ /
+      /    \_  \\  \/    \  `---'\ `--'\
+     /_______\__\___\_____\__\___\______\ i n t r o d u c t i o n
+                  _____               ____           ___
+             _____\   /__  __________ \  /___________\  \_____
+             \ ____  /\ `--'/  ___/`---  --'---' ___ /   \   /
+              \`--' /_/     \  `--.  /    \/    \`--'\   \\  \
+            fAr\_____/_______\_____\/______\_____\____\___\___\
+
+
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Adverts           ///
+          ///          24     __ \\                            _///
+         ///__________________\/__\\  fOr: Thorr/Whelpz     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+          _____      _____         ______       ____      ____
+          \   /______\   /__  _____\    /_______\  /______\  /
+           \____\ ____  /  `--' /  ____/ ____\--/  --'__-----'
+           /`--' \`--' /_\     /  ----'\ `--' \/     \       \
+          /__/    \_____/ \   / \__/    \__/  \_______\_/     \
+            /______\       \_/    /______\/____\    fAr/_______\
+                 · a · d · v · e · r · t · s ·
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: News              ///
+          ///          25     __ \\                            _///
+         ///__________________\/__\\  fOr: Thorr/Whelpz     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                      ___         ______          _____
+                      \  \________\    /__________\   /
+                      /   \   /   ____/    /  \___----'
+                     /    \\  \  ----'\   /\   \       \
+                    /______\   \__/    \__/\\   \__/    \
+                      fAr/______\/______\  /_____\/______\
+                   ·    n    ·    e    ·    w    ·    s    ·
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Messages          ///
+          ///          26     __ \\                            _///
+         ///__________________\/__\\  fOr: Thorr/Whelpz     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+
+
+         _____  _____   _____   _____ ____     ____     _____  ____
+      __ \   /__\   /___\   /___\   /_\  /_____\  /_____\   /__\  /
+     /  \/   \ ____/___-----'__-----'  \___\  ___/__   ____/__----'\
+    /___\/    ----'\        \        \ `--' \ `---' \ ----'\___/    \
+        /______/    \__/     \__/     \_/    \__/    \_/    \ /______\
+           fAr/______\/_______\/_______\______\/______\______\
+                              · m · e · s · s · a · g · e · s ·        
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Results           ///
+          ///          27     __ \\                            _///
+         ///__________________\/__\\  fOr: Thorr/Whelpz     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+            ____       ____    ____      ____      ____      ____
+            \  /_______\  /____\  /___  _\  /   ___\  /______\  /
+            \ ____\  ____/___-----'  `--'/ / ___`---  \-'__-----'
+            / `---'\----'\        \      \ `-'  \ /    \         \
+           /___/   \_/    \__/     \______\-/    \______\___/     \
+              /_____\______\/_______\      /______\     fAr/_______\
+                                  · r · e · s · u · l · t · s
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: Stuff             ///
+          ///          28     __ \\                            _///
+         ///__________________\/__\\  fOr: Thorr/Whelpz     .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+
+                      ____   ____               ____    ____
+                 _____\  /___\  /_____  ________\  /____\  /
+                 \__-----'`--/  --'  `--' /   ____/  _____/
+                 /       \  /    \        \  ---' /  ---'
+                /____/    \/______\________\___\ /     \fAr
+                    /______\                    /_______\
+                           · s · t · u · f · f ·
+
+
+
+
+
+
+
+
+                  ____________ 
+                 /           ¬\ ____________________________
+                /  lOgo nr.    \\                          ¬\_____ _
+           _ __/                \\  LOgo name: List              ///
+          ///          29     __ \\                            _///
+         ///__________________\/__\\  fOr: everyone!        .° \ ¬
+         ¬  fAr              \/\/   \___________________________\
+
+
+
+
+
+                                         _______________
+                                          |           ¬|
+                _______    ______ ____    |  ____      |
+                \     /    `----'_\  /____|__\  /___   |
+                 \   /  ___/   \_\___----'\`--  \--'   |
+                 /  `---' ¬\    ¬\  ¬      \/    \     |
+                /_____/     \_____\________/      \    |
+                     /_______\         fAr/________\   |
+                                          |            |
+                  od:                     |            |
+                  data:                   |        °.  |
+                __________________________|____________|
+
+
+
+
+
+
+
+
+
+
+
+
+ eNd  .  eNd  .  eNd  .  eNd  .  eNd  .  eNd  .  eNd  .  eNd  .  eNd  .  eNd
+                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                                   .....
+                              ----------------- .·       ·.
+                          -------------------- :           :
+                  ---------------------------- :           : 
+         ------------------------------------- :           :
+              --------------------------------- ·.       .·
+                   -----------------------------   ·····
+
+
+  ".  . . P o    p i e r w s z e   n i e   d l a   s î a w y ,
+
+       p o   d r u g i e   n i e    d l a   p i e n i ë d z y.
+
+         D o b r z e   r a p o w a ê    m o û n a 
+
+                       û y j â c    n a w e t    w    n ë d z y . . ."
+
+
+                                         MoLeSta teraz Ewenement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              _____                 ______        _____
+    _______   \   /_  ____          \ .  /____ ___\   /___ ____
+    \     /   /   . \_\  /___________\ °/----' `--/  ----'_\  /_____
+    /  __/__ /____ ° \    ____/ ____   /     \_  /     \___  ------'\
+   /   `--'¬\ `--'___/   ---'_  `--'  /___/   ¬\/     °.\            \
+  /___/    °.\__/   ¬\__/    ¬\__/   /_  /______\________\_____/    °.\
+  fAr/________\/      \/_______\/______\                      /________\
+              /________\           |   c · r · e · d · i · t · s   |
+                                   |                               |
+                                   |                               |
+                                   |                               |
+      Caîa oprawa ascii i logosy...............fAr (fArMaz0n/iNd)  |
+                                                                   |
+                                   |                               |
+                                   |                               |
+      Dezajn...................................fAr (fArMaz0n/iNd)  |
+                                                                   |
+                                   |                               |
+                                                                   |
+      Hardware.....................Amiga12oo, 4Mb Fast, Hdd 170MB  |
+                                                                   |
+                                   |                               |
+                                   |                               |
+      Software.................(tylko).CygnusEd Professional 2.12  |
+                                                                   |
+                                   |                               |
+                                   |                               |
+      Data ukoïczenia................................02.08.1999r.  |
+                                                                   |
+                                   |                               |
+      Rozmiar pliku..................................60333 bajtów  |
+                                                                   |
+                                   |_______________________________|
+
+
+
+
+
+
+
+
+
+
+
+                           .oOoOoOoOoOoOoOoOoOo.
+
+
+
+
+
+
+
+
+
+                                             ____
+                _____________________________\  /__________
+         ______/  ____/  ___\   ___/   ___/---  ---`---___/______
+         \___ /   `-'¬\ `--'_\ --'¬\  --'¬\ /    \       ¬\  ___/
+           \_/___/     \_/  ¬\_/    \_/    \______\__/     \__/
+                /_______\_____\______\______\fAr    /_______\
+               · g · r · e · e · t · s ·      · t · o :
+
+
+
+            Ash/Apathy, Bojler/LMF^X-Liberty, Katalizator/Veezya,
+            Mavey/Potion, Narvik, Tomash/BlaBla, Thorr/Whelpz i...
+
+                             ...wszystkich czîonków grupy Potion,
+
+            oraz Beret Squadu!
+
+
+
+
+
+
+
+
+                           .oOoOoOoOoOoOoOoOoOo.
+
+
+
+
+
+
+
+
+
+
+
+      .---------------------------------------------------------------.
+      |           ________      _____           _    _______    ____  |
+      |  _________`----__/ _____\  _/______ ___/ \___\  ___/___/   /  |
+      |  \__-----'\__    \/ ___\___`-' \  `-' /  \\  / ---'\  |  _/   |
+      |  /___/     \/_____\_`--'\  /____\_/   \___\  \--/___\ __  \   |
+      |     /_______\fAr   /_____\       /_____\   \__\    `--'/___\  |
+ .----'    ___________________________________________________________|
+ |                   |
+ |  s z a c u n e k  |
+ |             dla:  |
+ `-------------------'
+                            Acid/Doggystyle, Blaze/Potion^Nah...,
+                            Ctp!/Link124, FighterForFuture/Whelpz,
+                            Mavey/Potion, Revi/Whelpz, Thorr/Whelpz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           .oOoOoOoOoOoOoOoOoOo.
+
+
+
+
+
+
+
+
+        ____________ ______        _______       _______________
+        \__        /_\_    \ ______\     /______/      /   \   /
+       :::\_    __/   /  _  \  :   /  | /\      \  ___/\     _/:::: 
+    .::::::|   _|  | /\      )     \      )____  \_ :   )     |::::::.
+           :    :      ) \   \      \ :   :|   ___/    /  \   :
+           :    :  :   :  .   :^     .     :     ...   :   .  .
+        }---=fAr=------------------------------------------------{
+          iF ya lOokiNg 4 nEw cTx, azki-maker or friend, wRiTe 2:
+                               fArMaz0n/iNd
+           Answer iz        Tomasz Stefaïski       hIp-hopers
+               sure !!!     ul. Szopena 48/5          are
+                            41-400 Mysîowice        wELCome !
+        }--------------------------------------------------------{
+
+
+            No a jeôli jesteô dobrym i w porzo azkee-makerem to
+            zrób mi proszë fajnâ advertkë  oczywiôcie  na  mojâ
+            ksywë. A najlepiej by byîo  jakbyô do  mnie napisaî
+            tak po prostu ûeby  poswappiê.  Lubisz  hip-hop (np
+            Molesta, Trzyha, Wzgórze Ya-Pa-3, Kaliber  44, DMX,
+            Tupac) to tym bardziej wal  ômiaîo...  Sto  procent
+            odpowiedzi co by jak nie byîo... Na ra...
+
+        }---------------------------------------------------------{
+
+
+
+
+

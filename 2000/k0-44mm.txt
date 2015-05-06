@@ -1,0 +1,2700 @@
+
+ -|--------------------------------------|-
+  | the sect - 2nd in the world - tsp'01 | . _____    ___. __    . ______
+ -|--------------------------------------| |/    T    T  |/ T    |/     T
+  |                                   -\ __|     |__ _|  |  |__ _|   __ |___
+  | node0: +48-91-4879493             --\T          Y   __     Y   _____|  T
+  | node1: telnet                      --\     _____|    |     _   |       |
+  | node2: telnet      ___________a(id/k0.\______|--]----|____/]__________/|
+  |                    \     . ______    . ______    ______ .    ______ .
+  | master:            -\    |/     T    |/     T    T.    \|    T     \|
+  | madbart/appendix    -\ __| _____|__ _|   __ |__ _|      |__ _|      |___
+  |                      -\T_______    Y   _____|  Y   _____|  Y           |
+  | hardware:             -\      |    _   |       _   |       _      _____|
+  | a1240t/603e/240mhz/5gb -\_________/]__________/]__________/]________|
+  |
+  | appendix - anadune - teklords - floppy - dinx project - venus art
+  | jormas - mawi - pic saint loup - old bulls - kore. - linear - sative mea
+  |
+ -|-------------------------------------------|---------------------------|-
+                                              | supporters: ufok + prefix |
+                                             -|---------------------------|-
+
+
+   »»  ladies and gentlemen, move your arses and call this mysterious  ««
+
+      .---._____ .---/______,----------.    _.__                  __._
+  ._ _l        /-l  /       l    ....  l_   _: /                  \ :_
+  :_\\_  _____/  _ _        _    ||||  _/   \://  T H E  S E C T  \\:/
+      |_   '    _|_|        | 7________|     |·                    ·|
+       `--------'  `--------`-----'          :                      :
+                            .____,-----.----------.-----/    .---._____
+  node_0: +48-91-48794393  _l    ,_____|    ....  l T¯¯¯¯¯¯¯¯|        /-._ _.
+  node_1: -------- telnet  \______     _    ||||  _ |        _  _____/  _//_:
+  node_2: -------- telnet   |_   '    _| 7________|__        |_   '    _|
+                             `--------'`-----'      `--------'`--------'
+
+  [ tech info: usr·33kb / 2400-33600 bps . based on a1240t/603/240mhz/5gb ]
+
+  main_control¦ MADBART'APPENDIX . immortal 24h/d supporters¦ UFOK + PREFIX
+
+  call now!     to get hot polish demoscene stuff and more...     call now!
+
+        »»»  APX.PSL.JRM.FLP.MNS.K0.LA!.OLB.TKL.HTR.DXP.SEA.NAH  «««
+
+
+@BEGIN_FILE_ID.DIZ
+      ____: ____ _____ _____ _______
+      \   |/   //  _  \\_   \\_    /__
+    _/   _/   /    /   _/   / /___/   \_
+  _\\____\____\________\_______________//_
+<---------------------------------cDr/m's-->
+
+  f i l m f i l m f i l m f i l m f i l m
+
+    "film" the 34th ascii collection by
+                 acid/kore.
+
+  f i l m f i l m f i l m f i l m f i l m
+
+<------------------------------[20|05|2k]-->
+@END_FILE_ID.DIZ
+
+t h e   b e g i n n i n g
+
+j.
+a.
+z.
+a.
+c.
+z.
+y.
+n.
+a.
+m.
+o.
+t.
+o.
+m.
+o.
+j.
+a.
+k.
+a.
+b.
+i.
+n.
+a.
+t.
+u.
+s.                                     $$
+i.
+e.
+w.
+c.
+h.
+o.
+d.
+z.
+i.
+n.
+a.
+c.
+i.
+s.
+k.
+a.
+o.
+g.
+l.
+a.                                     $$
+d.
+a.
+s.
+i.
+e.
+z.
+b.
+l.
+i.
+s.
+k.
+a.
+d.
+z.
+i.
+s.                                     $$
+w.
+s.
+z.
+y.
+s.
+t.
+k.
+o.
+c.                                     $$
+o.
+d.
+a.
+l.                                     $$
+e.
+k.
+o.                                     $$
+i.
+b.
+l.                                     $$
+i.
+s.                                     $$
+k.                                     $$
+o.
+j.                                     $$
+o.                                     $$
+k.                                     $$
+a.                                     $$
+f.                                     $$$$$
+o.                                        $$
+k.                                 $$$$$$$$$
+a.                                 $$
+s.                                 $$$$$$$$$$$$$
+r.                                            $$
+o.                             $$$$$$$$$$$$$$$$$
+o.                             $$
+o.                             $$$$$$$$$$$$$$$$$$$$$
+k.                                                $$
+a.                         $$$$$$$$$$$$$$$$$$$$$$$$$
+o.                         $$
+k.                         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+a.                                                    $$
+n.                     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+i.                     $$
+e.                     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+w.                                                        $$
+a.                $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+z.                $$
+n.                $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+e.                                                            $$
+k.            $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+a.            $$
+z.            $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+d.                                                                $$
+y.        $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+t.        $$
+u.        $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+m.                                                                    $$
+a.    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+j.    $$
+a.    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+z.                                                                         $$
+d.$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+e.$$
+n.$$$$$$$$$$$$$
+i.           $$
+e.           $$
+c.           $$   $$$$$$$$$
+h.           $$   $$     $$
+z.           $$$$$$$$$$$$$$
+g.                $$
+a.                $$$$$$$$$$$$$$$$$$$$$
+d.                                   $$
+n.                                   $$
+e.                                   $$
+k.  . . . w i e c   o t w i e r a m  $$  . . . s o   i   o p e n
+t.                  k o l e k c j e  $$  a   c o l l e c t i o n
+o.                  p o p r o s z e  $$  i   a s k   f o r
+s.            o   p r o j e k c j e  $$  p r o j e c t i o n
+t.            c z u j c i e   s i e  $$  m a k e   y o u r s e l v e s
+u.              j a k   w   d o m u  $$  a t   h o m e
+j.                k o m u   g i n u  $$  f o r   w h o   s o m e   g i n
+e.              k o m u   d y m u ?  $$  f o r   w h o   s o m e   s m o k e ?
+s.                                   $$
+t.                                   $$$$$$
+m.                          $$$$$$       $$
+a.                          $$  $$       $$
+g.                          $$$$$$$$$$$$$$$
+i.                              $$
+e.                              $$
+m.                              $$$$$$$
+n.                                   $$
+a.                                   $$
+p.                                   $$
+r.                                   $$
+a.                                   $$
+w.                                   $$
+d.                                   $$
+e.          ____        ____         $$ ____             _         _
+d. ____ ____)__(________) _/____________) _/____________//________//____ ______
+a.(____\\_____/     \________    __/______\__    __/_________/_________//______)
+l.           /_______\  (_______/           /___/
+e.                                   $$
+j.                             azki  $$  ascii
+p.                             azki  $$  ascii
+o.                             azki  $$  ascii
+l.                             azki  $$  ascii
+e.                             azki  $$  ascii
+w.                             azki  $$  ascii
+e.                             azki  $$  ascii
+j.          ____        ____         $$ ____             _         _
+r. ____ ____)__(________) _/____________) _/____________//________//____ ______
+e.(____\\_____/     \________    __/______\__    __/_________/_________//______)
+c.           /_______\  (_______/           /___/
+e.
+c.                beeing an ascii maker is like beeing in love.
+u.                       no one can tell you're in love.
+d.                              you just know it.
+o.
+w.                                     :)
+w.
+i.           o h ,   g u s h ,   w h a t t a   n o n s e n s e . . .
+e.
+c.                              a n y w a y . . .
+e.
+j.                                   $$
+p.                                   $$
+e.                                   $$
+d.                                   $$
+z.                                   $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+e.                                                                 $$
+i.                          _           _____________ kore.[·]     $$
+z.                         |_| _______ | __                        $$
+a.    k®s!/la! _ /______               |   _ /_____                $$
+r.     ________\/      / __________________\/     /-----/____\ ___ $$
+a.     \          _   /__\        ____         _           ___\  /______
+z.      \         \      _      _    /         \------|        \/      / ___
+s.  -«--/---------/      \------/_______________\     |_______        / |   |
+i.               /________\    /                             /--------\ |___|
+e.                                                                 $$
+z.                                     $$$$$$                      $$
+a.    k o r e .                        $$  $$                   $$$$$
+k.                                         $$                   $$
+r.    f o l l o w   t h e   l e a d e r !  $$$$$$$$$$$$$$$$$$$$$$$
+e.
+c.                                     $$
+e.                                     $$
+p.                                     $$
+e.                                     $$
+d.        ___   __   __   __   __  ___         __        __  ___   __
+z.        |  \_|  \_|  \_|__  |  \_|  \_|__    __||__  ||  \_|  \_|  \_
+e.        |___||___||___|   \_|___||   ||  _ _/  ||  __|| : ||   ||___|
+t.        |    |  \ |___ |___||___ |   ||__\||___||__\|||___||   ||___
+a.
+m.                       p u r e   a s c i i    c z a d
+t.
+e.                               :¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼:
+r.                               |   _       _   |
+a.                             ·(|  /         \  |)·
+z.                               | __a__   __a__ |
+k.                          _   _| .___________. |_   _
+a.                      _ __\`--\|    |  |  |    |/--'/__ _
+z. km!      ___________/ \   \   |    |__|__|    |   /   / \___________     .k0
+d. ________:  |  |  |  :_/____\__l_______________l__/____\_:  |  |  |  :_______
+y.|        |  |  |  |  |                                   |  |  |  |  |       |
+z.| (Z)    |[]|[]|[]|[]|     «   A   S   C   I   I   »     |[]|[]|[]|[]|   (Z) |
+w.|        `--^--^--^--'                                   `--^--^--^--'       |
+a.|         \---.    ____.-----.   .-----/         _.------.      _.------.    |
+s.| _|¯¯¯¯¯¯¯\_ |_ _l    ______|_ _l T¯¯¯¯¯¯¯¯|_ _l |      |¯l_ _l |      |¯l_ |
+m.| \_ ....     _/ \______     _/ \_ |        _/ \_ `------' _/ \_ `------' _/ |
+o.|  | ||||    _|   |_        _|   |__        |   |_        _|   |_        _|  |
+z.|  `---------'  °  `--------'  °   `--------' °  `--------'  °  `--------'  °|
+e.|                                                                            |
+j.| (Z>                      «   A   S   C   I   I   »                     (Z) |
+u.|____________________________________________________________________________|
+z.
+w.                                     $$
+y.                                     $$
+b.                                     $$
+i.
+e.                  performed by   a c i d ' s   capabilities
+r.
+a.                                   .MMMM.
+c.                       .           l    l           .
+k.                       .  ...:. .  | -- |  . .:...  .
+t.                     ..:..   :     | o0 |     :   ..:..
+o.                     : : :   .     |    |     .   : : :
+n.                ___  . : .  ___    |  ' ` ___     . : .     ___
+i.              _(   )__ : __(   )_  |   __(___)_     :    __(  /__
+e.         _____\___   (___)  ____/______)      /__________\      /_
+c.      \\ \_      __    /    )       /_   rIV!    /_      __    __/ //
+h.          /______\|    \_____________/____________/______\|    \
+c.          --------|_____\---------------------------------|_____\
+e.                       .         __|    |__         :
+z.               .. . ...:...   ___\_.    ._/___   ...:... . ..
+w.                       : .. //x____l____l____x\\ .. :
+i.                       .  :                      :  .
+e.                          .          $$          .
+d.                                     $$
+z.                                     $$
+a.                                     $$
+c.                     __  ___                   __
+p.                    |  \_|  \_|__  ||__  |    |  \_  __|
+r.                    |___||   ||  _ ||  __|  _ |___|_/  |
+o.                    |___ |   ||__\|||__\||__\||___ |___|
+s.
+z.                                     $$
+e.                                     $$
+c.                                     $$
+z.
+e.                               ##########
+k.                              ##       ##
+a.                             ##  ||||  ##
+c.                            ##  |||||  ########
+p.                           ##  ||||||        ##
+o.                          ##  |||||||  ||||  ##
+l.                         ##  ||||||||  ||||  ##
+e.                        ##  |||| ||||  ||||  #########
+g.                       ##  ||||  ||||  ||||         ##
+a.                      ##  ||||||||||||||||||||||||  ##
+c.      _______________ ##  ||||||||||||||||||||||||  ## _______________
+n.    \\\               ##         ||||  ||||  ||||  ##                ////
+a.       \  .  .  .  .  #########  ||||  |||| ||||  ## .  .  .  .  .  /
+m.        \                    ##  ||||  ||||||||  ##                /
+n.         \  .                ##        |||||||  ##             .  /
+i.          \                  ########  ||||||  ##                /
+e.           \  .                    ##  ||||   ##             .  /
+w.            \                      ##        ##                /
+a.             \  .                  ###########             .  /
+r.              \          __  ___   __   ___       __         /
+t.               \  .    _(  \/  /_ _\/_ _\  |     _\/_    .  /
+o.                \     |  _ __ _  | /\ |    |____| /\ |     /
+w.                 \  . |   \\//   |    |    |    |    | .  /
+a.                  \   |----\/____|____|----|____|____|   /
+r.          __  ___  \  _____   ___         _____    _____/    ____
+t.        _(  \/  /_ _\/ ___/_ _\  |__   __/ ___/_ _/  _ /____/ __/___
+o.       |  _ __ _  |  \__/   |   ___/__|   __/   |    |____________  |
+p.       |   \\//   |   \|    |    |    |   \|    |    |    |    |/   |
+r.       |----\/____|----\____|----|____|----\____|___/|    `----|____|
+o.                        \                          /
+s.                        \\\  44 milim e t e r s  ///
+z.
+e.                                     $$
+b.                                     $$
+a.                                     $$
+r.                                     $$
+d.                        a   j a k ?  $$  s o   h o w ?
+z.                                     $$
+o.                a   m o z e   t a k  $$  p e r h a p s   y e s
+z.                a   m o z e   n i e  $$  p e r h a p s   n o
+a.            m o z e   z a   t r z y  $$  p e r h a p s   i n   t h r e e
+m.m i n u t y   l u b   z a   d w i e  $$  m i n u t e s   o r   i n   t w o
+n.              z a c z y n a   s i e  $$  s h o w   b e g i n s
+a.        p r z e d s t a w i e n i e  $$  t h a t   w i l l   b e
+t.                  c o   b e d z i e  $$  o n   t h e   s t a g e
+u.                  n a   a r e n i e  $$
+s.                                     $$
+i.                                     $$
+e.                                     $$
+w.                               $$$$$$$$$$$$$$
+c.                               $$    $$    $$
+h.                     ___._     $$    $$$$$$$$
+o.                     \__|      $$
+d.                   ._____      $$    ____
+z.                   |     \      _____\  _|_  ___________    Bd!/La!
+i.                   |      \_____   ___   _/__\_____    /________
+p.                   |______   _  \  \     |     ___/  _/      ___)_____
+o.morning! :)             /_____\     \__________\        _    \ |     |
+r.                               \_____\ .------. \_______/____ \|   __|
+u.nice  to  meet  you mates! :)          |. . . |             /______\
+s.it's time to type some "first  $$      |______|___
+z.words",  isn't  it?  so, what  $$      |  __      |
+a.should  i write about? rather  $$      |_|  |-.__,|  nice to see you,
+c.don't   know...   firstly   a  $$      _||_.|.|      guys
+i.message  to azzaro and others  $$   ___\,   J |___   i'll be your
+s.who expected to meet me        $$  /    | |___|   \  guide.
+z.at  apocalypse party in  $$$$$$$$ /     |,,,|      \ follow me!
+a.czech         republic.  $$              `%'
+d.unfortunately      some  $$  recently  i've  got  so  many  little, stupid
+u.unexpected     problems  $$  problems,  that they  made me  mad as hell...
+s.appeared just before my  $$  firstly,  about  two  weeks  ago,  i  deleted
+z.setting     out    from  $$  almost  ready collection by mistake! i had to
+a.rybnik... and finally i  $$                    format  my  hdd, copied all
+s.haven't     gone     to  $$$$$$$$$$$$$$$$$$$$  my  stuff  onto my friend's
+i.brandys.  :( i had some                    $$  hdd and cleaned up my disk.
+e.ascii  business  to do there and i didn't  $$  after   that   operation  i
+s.do   that.   this   collection  shall  be  $$  copied  everything back and
+m.released  later  after another one that i  $$  deleted  my  files  from my
+i.cannot   make   due   to  my  absence  at  $$  friend's  hdd. by mistake i
+e.apocalypse.  so  i'll  do it later. well,  $$  also  selected  my  dearest
+j.good, we've  met in raciborz. at last! ->  $$  directory called 'ascii' on
+e.                                           $$  my  hdd and... yep, deleted
+h.are   you  reading  $$$$$$$$$$$$$$$$$$$$$$$$$  everything from ascii logos
+a.this text? i think  $$                         to    recent   letters.   i
+h.it became boring a  $$  noticed  that  fact three or four days later, when
+a.bit,     surely...  $$  my  hdd was full again. :( fortunately i have some
+j.when  it  comes to  $$  backups,  but  the   last  collection   was  lost.
+o.the  style, it's a  $$  lastly,  after  easter i went to krakow, because i
+k.bit       enhanced  $$  have  my  comp  there, to make the collection once
+a.version   of   the  $$  again.  i arrived home, unpackaged my luggage, had
+f.style i used in my  $$  some  fast  food,  trank some tee... sit down on a
+o.previous    colle-  $$  chair,  launched  my  computer, was about do lauch
+k.ctions.  the same?  $$  winuae  (amiga  emulator),  wanted to start making
+a.oh,   don't    say  $$  ascii  with  my  beloved  ced  and... there was no
+f.that.  i  love it,  $$  winuae! i've forgotten to copy it back!!! i was so
+o.and  in my opinion  $$  angry  that  i  shouted  loudly  bad  polish word:
+k.it   reflects   my  $$  "kurwa!".  that's  why  i'm  typing this text with
+a.sense           of  $$  wordpad. :( blah. shit. <-
+o.ascii-esthetics     $$
+k.very well. i don't  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$  at the end i wanted to
+a.want   to   say  i                              $$  greet  my friends from
+n.won't develop a new one in the future... yeah,  $$  poland  and abroad and
+i.when  i'm  boring with this one. :) i'm making  $$  thank   newcomers  for
+e.this  collecton  in  hurry, so it may be a bit  $$  keeping  polish  ascii
+w.worse  than  others,  but  who knows... at the  $$  scene  alive.  special
+a.moment  i'm  completelty  out of ideas for the  $$  greets  to  far/sative
+z.design.  :(  but  the  disign  will  oscillate  $$  mea.  i  would  say  i
+n.around  the  hip-hop  lyrics by 'kaliber 44' -  $$  dedicate          this
+e.the  polish hip-hop band. well, i don't listen  $$  collection    to   you
+k.such  music  usually,  but when i heard a song  $$  mate, u're hip-hopper,
+a.called 'film' it killed me... i've never heard  $$  hehehe... :)
+z.so  crazy  text. it tells about everything and  $$
+d.nothing.  just a smoked text. :) unfortunately  $$  that's  all. have nice
+y.it's  almost  impossible  to translate it into  $$  watching. bye! cu!
+t.polish,  so  there  will be the polish text in  $$
+u.the  collection you won't understand. but they  $$
+m.have to be. ->                                  $$  a c i d / k o r e .
+a.                                                $$
+j.                                                $$
+a.                                     $$$$$$$$$$$$$
+z.                                     $$
+d.                                     $$
+e.                                     $$
+j.        p o s l u c h a j ,   c z y  $$  l i s t e n   u p ,  d o    y o u
+a.      s l y s z y s z   j a k i e s  $$  h e a r   a n y   r e c o r d
+z.d z w i e k i   g r a m o f o n u ?  $$  p l a y e r ' s   s o u n d s ?
+a.    t o   z   m a g n e t o f o n u  $$  i t ' s   f r o m   a   t a p e
+w.        m o z e ,   a   m o z e   z  $$  r e c o r d e r   p e r h a p s
+s.     c d - r o m u  m o z e   t a k  $$  o r   p e r h a p s   f r o m   a
+z.                a   m o z e   n i e  $$  c d - r o m , p e r h a p s   y e s
+e.  p r r r ,   k t o   t o   w i e ?  $$  p e r h a p s   n o ,   p r r r
+r.                                     $$  w h o   k n o w s ?
+a.                                     $$
+z.                                     $$
+e.                                     $$
+m.                                     $$
+z.                                     $$
+m.                                     $$
+o.                                     $$
+i.                                     $$
+m.                                     $$
+p.                                     $$
+o.                                     $$
+j.                                     $$
+a.                                     $$
+z.                                     $$
+d.                                     $$
+e.                                  .------.
+m.                                  |. . . |
+i.                                  |______|___
+j.                                  |  __      |
+a.                                  |_|  |-.__,|
+w.                           hmm... _||_.|.|
+i.                                __\,   j |___
+e.                               /   | ____|   \
+m.                              /    |,,,|      \
+z.                             /  _/  `%'        \
+e.                             \   \          T  /
+l.                              \   \   .a(id | /
+e.                         .     \_ _\_       |/
+m.                         ||----|_|_|_|-------------|
+l.                         |     `-'-'-'             |
+e.                         |       a p a t h y       |
+m.                         |                         |
+j.                         |     f o r   z i t o     |
+e.                         |                         |
+s.                         |-[ o1 ]-----------------||
+t.
+f.
+a.
+n.
+t.
+a.
+s.          _____     _____                        ___.      ___.
+t.        __\___ \_ __\___ \_   _____    ___.     _\  |____ _\  |____
+a.       |   ____  Y    |/   |__\___ \_ _\  |__  |   __    Y    |    |
+p.       |   \|    |    /____|   ____  Y   ___/__|    |    |____| ___|
+i.       |____\----|____|    |   \|    |    |    |----|____|k0/___\a(id
+s.  ]] ===================== |____\----|----|____| ==================== [[
+z.
+e.
+z.
+e.
+p.
+r.
+z.
+y.
+b.
+y.
+s.                                   .-----
+z.                          oh, gush |     |
+e.                       my appendix | _ _ | hurts
+s.                                   | - - |_ as hell...
+a.                                ___|  L  ,/__
+z.                               /   ( ___ /   \
+i.                              /     \_,_/     \
+e.                             (   / _ `%'   \_  \
+l.                              \  \//__     /   /
+o.                               \_/  _/    /   /
+n.                         .      |\__/   _/_ _/ a(id
+i.                         ||------------|_|_|_|-----|
+j.                         |             `-^-^-'     |
+a.                         |     a p p e n d i x     |
+k.                         |                         |
+c.                         |   f o r   l o t h a r   |
+i.                         |                         |
+a.                         |-[ o2 ]-----------------||
+s.
+t.
+o.
+k.
+i.
+w.
+i.
+d.                                                                         __
+l.                                                                  __    / //
+a.    _____     _____     _____      _____   ___          .___   __\\ \  /  /
+m.  __\___ \_ __\___ \_ __\___ \_ __/ ___/_ _\  \____ ____|  /_ _\/_\  \/  /
+n. |   ____  Y    |/   Y    |/   Y   __/   Y  _  \_  Y   ____  Y /\ |\_/ _/
+i. |   \|    |    /____|    /____|   \|    |   \     |   \|    |    |/ \  \
+e. |____\----|____|    |____|    |----\____|----\____|____\----|____|  /\  \
+o. a(id/kore.                                                      /  /  \_\\
+b.                                                                //_/
+r.
+z.
+y.
+d.
+l.
+i.
+w.
+i.
+z.
+b.
+y.                                   .-----.
+t.                                   | __  |
+w.                                   ||  |-|
+y.                                  _||_.|.|
+r.                                __\,   j |___
+a.                               /   |_o  _|   \
+z.                              /     (_._)     \
+n.                             /  _/   `%'       \
+i.                             \   \          T  /
+h.                              \   \   .a(id | /
+a.                         .     \_ _\_       |/
+l.                         ||----|_|_|_|-------------|
+a.                         |     `-'-'-'             |
+s.                         |       b o h e m a       |
+l.                         |                         |
+i.                         |     f o r   e v a n     |
+w.                         |                         |
+i.                         |-[ o3 ]-----------------||
+w.
+i.
+d.
+z.
+e.
+i.
+c.
+h.
+z.                         ____________:
+b.                        \\           |____________
+y.      ..  b  .  o  .  h  \   ___.    |           //
+t.                   _____  \ _\  |____|   _____   /  e  .  m  .  a  ..
+j.         ___.     _\    \__\   __    |__/ ___/_ / __  ___
+a.        _\  |____|   ___   |\   |    |   __/   /_(  \/  /_   _____
+s.       |   ___   |   \|    |-\--|____|   \|   /|  _ __ _  |__\___ \_
+n.       |    |/   |____\----'  \      |----\__/_|   \\//   |   ____  |
+o.       |----/____|a(id         \     |      /  `----\/____|   \|    |
+i.                                \    |     /            k0|____\----|
+c.      ..   b   ..   o   ..   h   \   |    /
+i.                                  \  |   /   e   ..   m   ..   a   ..
+a.                                   \ |  /
+s.                                    \| /
+n.                                     |/
+o.
+k.
+i.
+e.
+d.
+y.
+b.
+e.
+d.
+e.
+c.
+h.                                       ,
+c.                                      %'
+i.                                   .-`%%-.
+a.                                   | __ _|
+l.                                   || o|o|
+z.                                  _||__|_|
+g.                                __\, _ j |__ (\__
+a.                               /   | |___|  \ \\\\
+s.                              /    |__,|     \ \__\
+n.                             /  _/   `%'      \/  /
+a.                             \   \          T    /
+t.                              \   \   .a(id |\__/
+o.                         .     \_ _\_       |
+m.                         ||----|_|_|_|-------------|
+o.                         |     `-'-'-'             |
+j.                         |         d c s 1         |
+a.                         |                         |
+k.                         |     f o r   e v a n     |
+a.                         |                         |
+b.                         |-[ o4 ]-----------------||
+i.
+n.
+a.
+t.
+o.
+m.
+o.
+j.
+a.
+m.                          .___   _____      ____
+a.                      ____|  /_ _\    \____/ __/___
+c.                   ==|   ____  Y   ___/  ________  |a(
+h.                   ==|   \|    |   \|    |    |/   |id
+i.                   ==|____\----|----\____|----|____|k0
+n.
+a.
+t.
+o.
+m.
+o.
+j.
+a.
+d.
+z.
+i.
+e.
+d.                                    __ __
+z.                                   |  X  |
+i.                               ____|_____|___
+n.                               |_____________|
+a.                                   |.|._||_
+z.                                ___| L  _,/__
+a.                               /   |___/_|   \
+c.                              /     |_,_|     \
+z.                             /  _/   `%'__/\__ \
+y.                             \   \      \sher/ /
+n.                              \   \     /_if_\/
+a.                         .     \_ _\_   __\/_/ a(id
+j.                         ||----|_|_|_|-|_|_|_|-----|
+z.                         |     `-'-'-' `-^-^-'     |
+a.                         |         d c s 2         |
+c.                         |                         |
+z.                         |     f o r   e v a n     |
+y.                         |                         |
+n.                         |-[ o5 ]-----------------||
+a.
+j.
+o.
+t.
+o.
+m.
+a.
+w.
+y.
+c.
+i.
+e.              ....... .___   ___ ___    _____    ___.
+c.          ... :   ____|  /_ _\  Y  /_ __\___ \_ _\  |        ...    ...
+z.    ..... : :.:  |   ____  Y    |    Y   ____  Y    |____    : :    :.:
+k.    :.. :.:      |   \|    |    |    |   \|    |    |    |...: :  ....
+a. ...  :    ...   |____\----|_________|____\----|----|____|     :..:  :
+e. :.:  :... :.:     _____      ______     _____   ____              ..:
+n.         :        _\    \__ _/  _  /____/ ___/_ _\  /\___   ... ...:    ...
+p.   ..... :   ... |   ___/  Y    |_____   __/   Y  _/  \  \_ :.: :...... :.:
+e.   :.. :.:   :.: |   \|    |    |    |   \|    |    _  \_ |         ..:
+d.     :..         |----\____|____|    `----\____|-----\____| a(id/k0 :. ....
+o.  .....:  ____     ___.      __   ___       __   ___        _____    :.:  ;
+w.  :..   _/ __/___ _\  |____ _\/_ _\  \____ _\/_ _\  \____ _/ ___/__       :
+e.    :  |_______  Y   __    Y /\ Y  _  \_  Y /\ Y  _  \_  Y   \__   |... ..:
+w.    :..|    |/   |    |    |    |   \     |    |   \     |    |/   |  :.:
+n.       |----|____|----|____|____|----\____|____|----\____|----//___|
+a.
+t.
+r.                                                 $$
+z.                                                 $$
+p.                                                 $$
+u.                                                 $$
+d.                                                 $$
+l.                                                 $$
+e.                                                 $$
+c.                                                 $$
+z.                                                 $$
+k.                                                 $$
+a.                                                 $$
+z.                                                 $$
+a.                                                 $$
+g.                                 $$$$$$$$$$$$$$$$$$
+l.                                 $$
+e.                                 $$
+b.                                 $$
+i.                                 $$
+a.                                 $$
+m.      h m ,   p o z y c z   m i  $$  h m ,   l e n d   m e
+s.z e t o n u ,   m u s z e ,   e  $$  a   t o k e n
+i.            s k o r z y s t a c  $$  i   m u s t   e
+e.            z   t e l e f o n u  $$  u s e   a   p h o n e
+w.                                 $$
+s.                                 $$
+t.                                 $$
+r.                                 $$
+u.                                 $$$$$$
+k.                                     $$
+t.                                     $$
+u.                                     $$
+r.                                     $$
+y.                                     $$
+b.                                     $$
+u.                                     $$
+d.                                     $$
+o.                                     $$
+w.                                     $$
+l.                                     $$
+i.                                     $$
+z.                                     $$
+t.                                     $$
+e.                                    _____
+k.                                   |k0   |
+t.                                 __|_____|__
+u.                                   |__ __|
+r.                                   (_.|._)
+y.                                ___(  L  )____
+w.                               /  / \ _ / \   \
+t.                              /   \_(___)_/    \
+e.                             /  T  / /.\ \ _ T  \
+m.                             \  | / /...\ \-||  /
+k.                              \ | \ \ . / /_|| /
+o.                         .     \|  \ \_/ /   |/
+n.                         ||------------------------|
+t.                         |                         |
+e.                         |      e m b a s s y      |
+m.                         |                         |
+p.                         |   f o r   a z z a r o   |
+l.                         |                         |
+a.                         |-[ o6 ]-----------------||
+c.
+j.
+i.
+m.
+e.
+j.
+p.
+r.      _____    __  ___   ___.       _____     ____      ____     ___.
+o.   __/ ___/_ _(  \/  /_ _\  |____ __\___ \___/ __/_____/ __/___ _\  |____
+c.  |   __/   Y  _ __ _  Y   ___   Y   ___   ________  ________  Y    |    |
+e.  |   \|    |   \\//   |    |/   |   \|    |    |/   |    |/   |____| ___|
+s.  |----\____|----\/____|----/____|____\----|----|____|----|____|k0/___\a(id
+y.
+z.
+a.
+k.
+l.
+o.
+c.
+a.
+j.
+a.
+z.
+e.                                  .------.
+w.                                  |. . . |
+n.                                  |______|___
+e.                                  |  __      |
+t.                                  |_|  |-.__,|
+r.                                  _||_.|.|
+z.                                __\,   j |___
+n.                               /   (_____|   \
+e.                              /    |,,,|      \
+e.                             /  _/  `%'        \
+k.                             \   \          T  /
+s.                              \   \   .a(id | /
+c.                         .     \_ _\_       |/
+e.                         ||----|_|_|_|-------------|
+s.                         |     `-'-'-'             |
+y.                         |         e v a n         |
+p.                         |                         |
+o.                         |     f o r   e v a n     |
+j.                         |                         |
+a.                         |-[ o7 ]-----------------||
+z.
+d.
+e.
+m.
+k.
+t.
+o.
+r.
+y.
+z.
+a.                     _____  ____.       _____    ___ a(id/k0
+w.                 ___/ ___/_\\   |____.__\___ \_ _\  \_____
+r.                \\   __/   |\   |   _|   ____  Y  _  \_  //
+a.                //   \|    |-\  |  /-|   \|    |   \     \\
+c.                /-----\____|--\___/--|____\----|----\_____\
+a.
+k.
+o.
+l.
+o.
+g.
+l.
+o.
+w.
+y.
+j.
+e.                                    _  _
+g.                                   .-\/--.
+o.                                   \_    |
+k.                                   | |__/|
+o.                                   |.|._||_
+l.                                ___| L   ,/__
+o.                               /   | ___ |   \
+r.                              /    (/_,_\)    \
+o.                             /  _/   `%'   \_  \
+w.                             \   \         /   /
+y.                              \   \ a(id. /   /
+t.                         .     \_ _\_   _/_ _/
+o.                         ||----|_|_|_|-|_|_|_|-----|
+m.                         |     `-'-'-' `-^-^-'     |
+o.                         |          f a r          |
+j.                         |                         |
+g.                         |      f o r   f a r      |
+l.                         |                         |
+o.                         |-[ o8 ]-----------------||
+w.
+y.
+a.
+g.
+l.
+o.
+w.
+y.                           ______             ______
+m.                        __/ ____/__ _____  ._/  _  /__
+o.                   .---|   _______/_\___ \_|    |____/---.
+j.                   |   |    |a(id|   ____  |    |kore.   |
+t.                   `---|____|----|   \|    |____|--------'
+o.                                 |____\----'
+k.
+o.
+l.
+o.
+r.
+o.
+w.
+y.
+j.
+e.
+g.
+o.
+g.                       jestem w ciazy. zaraz wracam....
+l.                         .
+o.                         ||------------------------|
+w.                         |                         |
+y.                         |    h a r v e s t e r    |
+k.                         |                         |
+o.                         |      f o r   f a r      |
+l.                         |                         |
+o.                         |-[ o9 ]-----------------||
+z.
+a.
+w.
+r.
+a.
+c.
+a.
+s.
+t.
+o.
+j.
+d.               ___.
+a.     _        _\  |____   _____
+j.    |_|  ___ |   __    |__\___ \_   ______
+s.      __|    |    |    |   ____  |_/  _  /_ ____.
+p.     |   .   |----|____|   \|    |    |____\\   |____.   _____
+o.     |__ ..            |____\----|    |     \   |   _|__/ ___/_        _
+k.     _  |______________   ____   |____|    .-\  |  /-|   __/   | ___  |_|
+o.    |_|                 _/ __/___  ___.    `--\___/--|   \|    |  ..|__
+j.                       |_______  |_\  |__      _____ |----\____|   .   |
+m.                       |    |/   |   ___/__ __/ ___/_   ______       __|
+y.                       |----|____|    |    |   __/   |_/  _  /__ ___|  _
+s.                                 `----|____|   \|    |    |____/      |_|
+l.                                           `----\____|    |
+e.                                                     |____| a(id/kore.
+n.
+i.
+a.
+t.
+o.
+k.
+u.
+n.
+i.
+e.
+p.
+r.                                    _  _
+o.                                   .-\/--.
+w.                        trulululu! |_ __ | trilililili!
+o.                                  |  |  ||_    tralala!
+k.                        _         |_.|._|,/        __
+u.                    ___('(________.| L   |.________)`)___
+j.                    \_   |       .·)____ (·.       |   _/
+j.                     \___|_____.· (_ \_)'_) ·._____|___/
+e.                             .· \_  \___/  _/ ·.
+d.                           .·    |         |    ·.
+e.                         .·      |  kore.  |      ·.
+n.                         o       |         |       o
+m.                         ||------------------------|
+o.                         |                         |
+m.                         |     i d - g u i d e     |
+e.                         |                         |
+n.                         |     f o r   z i t o     |
+t.                         |                         |
+g.                         |-[ 10 ]-----------------||
+l.
+u.
+p.
+i.
+a.
+c.
+h.
+w.
+i.
+l.     ..        ..
+a.     ||        ||          _____    ___ ___   __      .___     _____
+c.         _____ ||  ___   _/ ___/__ _\  Y  /_ _\/_ ____|  /_ __/ ___/_
+o.     || ||   |||| |___| |   \__   Y    |    Y /\ Y   ____  Y   __/   |
+s.     || ||   ||||       |    |/   |    |    |    |   \|    |   \|    |
+m.     || ||_____||   a(id|k0--//___|_________|____|____\----|----\____|
+n.
+i.                                       $$
+e.                                       $$
+t.                                       $$
+u.                                       $$
+k.                                       $$
+i.                                       $$
+l.                                       $$
+a.                                       $$
+i.                                       $$
+l.                                       $$
+a.                                       $$
+s.                                       $$
+k.                                       $$
+o.                                       $$
+c.                                       $$
+z.                                       $$
+e.                                       $$
+o.                    t r u l u l u l u  $$  t r u l u l u l u
+t.                        t r i l i l i  $$  t r i l i l i
+o.                        t r a l a l a  $$  t r a l a l a
+m.  t o   t w o j a   d z i e d z i n a  $$  t h a t ' s   m y   d o m a i n
+a.              t o   m o j a   m i n a  $$  t h a t ' s   m y   l o o k
+w.w y g i n a   s i e   w   r o g a l a  $$  b e n d s   i n t o
+y.          s z t u c z n e   k o l c e  $$  a   c r o i s s a n t
+c.        p u s z c z a m   z   d a l a  $$  a r t i f i c i a l   s p i n e s
+i.            s l i c z n y c h   j a k  $$  i ' m   t h r o w i n g
+e.      t a   l a l a   g r o z n y c h  $$  f r o m   d i s t a n c e
+c.            j a k   t r a d z i k   i  $$  l o v e l y   l i k e
+z.                m i s i e   k o a l a  $$  t h a t   b a b e
+k.                                       $$  d a n g e r o u s   l i k e
+a.                                       $$  a c n e   a n d   c o a l a s
+d.                                       $$
+o.                                       $$
+w.                                       $$
+e.                                       $$
+s.                                       $$
+o.                                       $$
+l.                                       $$
+e.                                       $$
+g.                                       $$
+o.                                       $$
+m.                                       $$
+i.                                       $$
+a.                                       $$
+s.                                       $$
+t.                                       $$
+e.                                       $$
+c.                                       $$
+z.
+k.                                   .:::::.
+a.                                  _|_. _ |
+z.                                   | |___|_
+a.                                   |.|._||_
+r.                                ___| L   ,/__
+o.                               /   |____ |   \
+g.                              /      |,__|    \
+i.                             /  _/   `%'   \_  \
+e.                             \   \         /   /
+m.                              \   \ .a(id /   /
+c.                         .     \_ _\_   _/_ _/
+z.                         ||----|_|_|_|-|_|_|_|-----|
+e.                         |     `-'-'-' `-^-^-'     |
+k.                         |      i n s t a n t      |
+a.                         |                         |
+n.                         |   f o r   l o t h a r   |
+a.                         |                         |
+m.                         |-[ 11 ]-----------------||
+n.
+i.
+e.
+s.
+m.
+i.
+e.
+c.
+h.
+u.     ____
+b.----|   /__-----------------------------------------------------------------
+e.-   |  //  | ___        ____     ___.       _____    ___       ___.        -
+c.--  |  /.  |_\  \______/ __/___ _\  |__   __\___ \_ _\  \____ _\  |__     --
+z. -- | .\ . |  _  \_  ________  Y   ___/__|   ____  Y  _  \_  Y   ___/__  --
+k. -- |  .\  |   \     |    |/   |    |    |   \|    |   \     |    |    | --
+a.--  |   /  |----\____|----|____|----|____|____\----|----\____|----|____|  --
+h.-   |__//  |                                                               -
+a.-------/___|-[ acid/kore. ]-------------------------------------------------
+h.
+a.
+c.
+i.
+a.
+s.
+t.
+e.
+c.
+z.
+k.
+a.
+s.                                   .-----.
+a.                                   | _   |
+t.                                   |__\/_|
+u.                          what... _||_.|.| shoes?
+t.                                __\,   j |___
+a.                               /   |   __|   \
+k.                              /    |__,\)/    \
+d.                             /  _/   `%'       \
+o.                             \   \          T  /
+b.                              \   \   .a(id | /
+r.                         .     \_ _\_       |/
+e.                         ||----|_|_|_|-------------|
+j.                         |     `-'-'-'             |
+a.                         |          j i m          |
+k.                         |                         |
+n.                         |     f o r   e v a n     |
+i.                         |                         |
+g.                         |-[ 12 ]-----------------||
+d.                            ______|    |    |______
+z.                           /    \\|____|____|//    \
+i.                          //___________\___________\\
+e.
+i.
+n.
+d.
+z.
+i.
+e.
+j.
+a.
+n.
+a.                                     __
+m.                                   __\ |  __  ___
+i.                             .___ |    |_(  \/  /_
+e.                             |  /_| .. |  _ __ _  |
+j.                         ____|    | .. |   \\//   |
+s.                        |    |    |    |----\/____|
+c.                        |____|----|  __|a(id/kore.
+u.                                  |__\
+p.
+o.
+d.
+e.
+l.
+e.
+c.
+z.
+k.
+a.
+w.
+t.                                    _ _ _
+e.                                   __\_/__
+m.                                   \_____/
+z.                                  _|_.___|_
+i.                                  \__|__/,/
+m.                               ____| L   |____
+p.                             \\\   |_ _ _|   ///
+e.                              /     /_,_\     \
+t.                             /  _/   `%'   \_  \
+e.                             \   \         /   /
+m.                         a(id \   \   ?   /   /
+u.                         .     \___\    _/_ _/
+n.                         ||------------|_|_|_|-----|
+o.                         |             `-^-^-'     |
+s.                         |          k r s          |
+i.                         |                         |
+p.                         |   f o r   a z z a r o   |
+o.                         |                         |
+r.                         |-[ 13 ]-----------------||
+y.
+w.
+a.
+d.
+i.
+a.
+b.
+e.                                   ______
+l.                        ___.     _/  _  /__  ____
+s.                       _\  |___ |    |____/_/ __/___
+k.                      |   _/ _/_| _  |   /________  |
+i.                      |    \    |__\_|  / |    |/   |
+m.                      |____|\___|   \  /  `----|____|
+l.                                     \/ a(id/kore.
+y.
+n.
+c.
+o.
+p.
+r.
+z.
+e.
+d.
+e.
+m.
+n.                                   .----_.
+a.                                   | __\ \ ___
+o.                                   |(_    |   \
+d.                                  _|(_____|__  \
+k.                                __\,   J |_)    )
+r.                               /   |_ _  |     /
+y.                              /      \_,/     / eee...
+w.                             /  _/    `%'    / who has
+a.                             \   \          T switched off
+o.                              \   \   .a(id | the light?
+b.                         .     \_ _\_       |
+r.                         ||----|_|_|_|-------------|
+a.                         |     `-'-'-'             |
+z.                         |       l a y o u t       |
+y.                         |                         |
+c.                         |     f o r   z i t o     |
+z.                         |                         |
+y.                         |-[ 14 ]-----------------||
+d.
+z.
+w.
+i.
+e.
+k.
+i.
+k.
+o.
+n.                                     .____
+t.                                     | _  |
+r.                                     || | |
+a.         ___.       _____    ___.    ||   |
+s.        _\  |     __\___ \_ _\  |____||___| kore.
+t.       |    |____|   ____  Y    |   .| _____     ___ ___   ___.
+u.       |    |    |   \|    |____| __.|_\    \__ _\  Y  /_ _\  |__
+r.       |----|____|____\----|  /___\  |   ___   Y    |    Y   ___/__
+a.                                .___ |.  \|    |    |    |    |    |
+z.                           a(id |   ||.___\----|_________|----|____|
+y.                                | . ||
+d.                                | |_||
+o.                                |____|
+p.
+o.
+t.
+e.
+g.
+i.
+s.
+z.
+o.
+s.
+t.                                 ________
+y.                              _________  |
+z.                            _ _______   _|
+m.                                ____ __| |
+y.                                  _||_.|.|
+s.                                __\,   J |___
+l.                               /   (_ _ _)   \
+d.                              /     |.,.|     \ a(
+z.                             /       `%'       \id
+i.                         ||------------------------|
+a.                         |_                       _|
+l.                        (__)      l e t t a      (__)
+a.                        (___)                   (___)
+d.                        (_)     f o r   f a r     (_)
+l.                         |                         |
+a.                         |-[ 15 ]-----------------||
+u.
+m.
+y.
+s.
+l.
+u.
+i.
+c.
+i.
+a.                                                          /\
+l.                                                         //\\           from:
+a.  ___.        _____   ___.      ___.       _____        / \/ \ pizdowice wlk.
+t. _\  |     __/ ___/_ _\  |__   _\  |__   __\___ \_    //    / \______________
+o.|    |____|   __/   Y   ___/__|   ___/__|   ____  |   /    // /
+b.|    |    |   \|    |    |    |    |    |   \|    |  //   // / d8: 32.XV.2455
+o.|----|____|----\____|----|____|----|____|____\----|_///   / /
+s.                                               a(id \      /
+k.                                                kore.\    /
+i.                                                      \  //
+e.                                                       \/
+o.                                           $$
+l.                                           $$
+i.                                           $$
+m.                                           $$
+p.                                           $$
+u.                                           $$
+r.                                           $$
+o.                                           $$
+z.                                           $$
+k.                                           $$
+o.                                           $$
+s.                                           $$
+z.                                           $$
+e.                                           $$
+l.                              $$$$$$$$$$   $$
+a.                              $$      $$   $$
+k.                              $$      $$   $$
+o.                              $$$$$$$$$$$$$$$
+c.                                      $$
+i.                     h i h i h a h a  $$  h i h i h a h a
+e.       t o   m o j a   t a k t y k a  $$  t h a t ' s   m y   t a c t i c s
+l.             t a k   b r z m i   m a  $$  t h a t ' s   m y   a n s w e r
+a.                   o d p o w e i d z  $$  f o r   f r y d e r y k - a w a r d
+d.   n a   p a n a   f r y d e r y k a  $$  i   d o   n o t   s w a l l o w
+n.                   n i e   l y k a m  $$  i   d o   n o t   t o u c h
+e.               n i e   d o t y k a m  $$  i   d o   n o t   r e g a r d
+i.                 n i e   u z n a j e  $$  i   d o   n o t   w a n t
+p.                     n i e   c h c e  $$  i   d o   n o t   l i k e
+r.                   n i e   l u b i e  $$  b e a c a u s e   i ' l l
+o.                   b o   z g u b i e  $$  l o s e   i t
+s.                                      $$
+z.                                      $$
+e.                                      $$
+g.                                      $$
+d.                                      $$
+y.                                      $$
+b.                                      $$
+r.                                      $$
+a.                                      $$
+k.                                      $$
+n.                                      $$
+i.                                      $$
+e.                                      $$
+t.                                      $$
+a.                                      $$
+k.
+b.                               ,-,-,-.  ,-,-,-.
+y.                         ||----|_|_|_|--|_|_|_|----|
+w.                         |     `-'-'-'  `-^-^-'    |
+a.                         |       l i n k 1 2 4     |
+w.                         |                         |
+t.                         |   f o r   a z z a r o   |
+e.                         |          .----.         |
+m.                         |-[ 16 ]---|__. |--------||
+z.                                |  _|  |_|_  |
+i.                           a(id |  \|_.|.|/  |
+m.                                |   \  L /   |
+p.                                |   _\ _/_   :
+e.                                |    (__)    :
+t.                                |            :
+e.                                :            .
+m.                                :   hangin'
+t.                                .            .
+u.
+p.
+o.
+r.
+y.
+w.
+a.
+d.
+i.
+a.
+b.
+e.                      ___.      __   ___       ___.
+l.                     _\  |     _\/_ _\  \____ _\  |___
+s.                    |    |____| /\ Y  _  \_  Y   _/ _/_
+k.                    |    |    |    |   \     |    \    | a(id/kore.
+i.          ----------|----|____|____|----\____|____|\___+-----------
+m.
+l.                   r  a  z     d  w  a    c  z  t  e  r  y
+y.
+n.          ---------------------------------------------------------
+c.
+o.
+w.
+s.
+z.
+y.
+s.
+t.
+k.
+o.
+o.
+d.                                   .-----.
+k.                           ________|._._.|________
+r.                           \_____________________/
+y.                                  _||.|.||
+w.                                __\,_ L _,7_
+a.                               /   \ \_/ /  \
+o.                              /     \_, /    \
+t.                             /  _/   `%'      \
+o.                             \   \          T  \
+m.                              \   \   .a(id |  /
+a.                         .     \_ _\_       | /
+w.                         ||----|_|_|_|-------------|
+y.                         |     `-'-'-'             |
+c.                         |       l o t h a r       |
+i.                         |                         |
+e.                         |   f o r   l o t h a r   |
+c.                         |                         |
+z.                         |-[ 17 ]-----------------||
+k.
+a.
+g.
+d.
+y.
+w.
+y.
+p.
+e.
+l.
+n.
+i.                                     ___
+a.                               __   |   |   __
+k.                              |  |  |   |  |  |
+a.     _    ___.      _____     ___   |   ___.  |    _____     ______    _
+r.  _ | |  _\  |     _\    \__ _\  |__|  _\  |____ __\___ \_ _/  _  /__ | | _
+t. | || | |    |____|   ___   Y   ___/__|   __    Y   ____  Y    |____/ | || |
+e. |_|| | |    |    |   \|    |    |    |    |    |   \|    |    |      | ||_|
+c.    |_| |----|____|____\----|----|____|----|____|____\----|____|      |_|
+z.                              |  .  |   |  .  .
+k.                         a(id |__|  |   |  |__| kore.
+a.                                    |___|
+c.
+z.
+y.
+s.
+t.
+a.
+j.
+a.
+k.
+l.
+z.
+a.                                  - ( o ) -
+w.                                      |
+d.                                   .--|-.
+n.                                  _|_  _|_
+i.                                 | . || . |
+u.                                 |__ ||___|
+n.                                ___| || |____
+a.                               /   ( || )    \
+r.                              / a(  \__/      \
+o.                            _/  id             \_
+d.                            \.-.-.-.-. .-.-.-.-./
+z.                         ||--|_|_|_|_|-|_|_|_|_|---|
+i.                         |   `-`-'-'-' `-^-^-^-'   |
+n.                         |          l u k          |
+c.                         |                         |
+z.                         |    f o r   a z z a r o  |
+l.                         |                         |
+o.                         |-[ 18 ]-----------------||
+w.
+i.
+e.
+c.
+z.
+k.
+a.
+w.
+e.
+d.                        ___.      ___ ___   ___.
+l.                       _\  |a(id _\  Y  /_ _\  |___
+u.                 ___  |    |__k0|    |    Y   _/ _/_   ___
+g.             ( ((___) |    |    |    |    |    \    | (___)) )
+j.                      |----|____|_________|____|\___|
+o.
+h.
+n.
+a.
+l.
+o.
+c.
+k.
+a.
+p.
+r.                                   _    _
+y.                                  (o\  /o)
+s.                                  __\\//__
+k.                            a(id \\  ..  //
+a.                                ___\ .. /___
+p.                            ____\  ______  /_____
+o.                          //    /____  ____\     \\
+w.                          /         \__/          \
+l.                         / .-.-.-.-.-. .-.-.-.-.-. \
+o.                        /|-| | | | | |-| | | | | |-|\
+k.                       / |_`-^-^-^-^-' `-^-^-'-^-'_| \
+a.                      / (__)       m a w i       (__) \
+a.                      \ (__)                     (__) /
+n.                       \(__) f o r   a z z a r o (__)/
+a.                        (__)                     (__)
+m.                         |-[ 19 ]-----------------||
+i.
+e.
+s.
+c.
+u.
+w.                                     :)
+e.
+s.
+o.
+l.
+e.
+g.
+o.                                      .
+m.                    __  ___    _____  : a(id/kore.
+i.                  _(  \/  /_ __\___ \_| ____       __
+a.                 |  _ __ _  Y   ____  |_\  /\___  _\/_
+s.            - ---|   \\//   |   \|    |  _/  \  \| /\ |--- -
+t.                 |----\/____|____\----|    _  \_ |    |
+e.            - ------------------------|-----\____|____|--- -
+c.                                      :
+z.                                      .
+k.
+a.
+s.
+t.
+o.
+j.
+a.
+o.
+t.
+w.
+o.                                   __   __
+r.                                  ---\V/---
+e.                                  _|__ __|_
+m.                                  \[_.Y._]/
+p.                                ___(  J  )____
+o.                               /  \ ) . ( /   \
+d.                              /    \|___|/     \
+w.                             /      \/T\/       \
+o.                             \  T     |.     T  /
+j.                              \ |a(   |.     | /
+e.                         .     \|id   |.     |/
+g.                         ||------------------------|
+d.                         |                         |
+z.                         |        m o o n s        |
+i.                         |                         |
+e.                         |   f o r   l o t h a r   |
+p.                         |                         |
+y.                         |-[ 20 ]-----------------||
+t.
+a.
+j.
+n.
+i.
+k.
+o.
+w.
+r.
+o.
+j.
+e.
+t.          ________________     o _________________________________
+r.         | .  .  .  .  .   o  / .  .  .  . .  .  .  .  .  .  .  . |
+o.         |              ____\/_____                               |
+j.         | .   __  ___ |.---------.|_______  ___        ____    . |
+e.         |   _(  \/  /_|| ..moons ||.-----.|_\  \______/ __/___   |
+p.         |_ |  _ __ _  || moons.. |||     ||  _  \_  ________  | _|
+r.        a(id|   \\//   ||_________|||_____||   \     |    |/   |
+z.          k0|----\/____| ....    o |_______|----\____|----|____|
+e.                       `-----------'
+k.                                               $$
+r.                                               $$
+o.                                               $$
+j.                                               $$
+e.                                               $$
+i.                                               $$
+p.                                               $$
+a.                                               $$
+d.                                               $$
+a.                                               $$
+m.                                               $$
+n.                                               $$
+i.                                               $$
+e.                                               $$
+u.                                               $$
+j.                                         $$$$$$$$
+a.                                         $$
+r.                                         $$
+z.      t u   m i e d z y m i a s t o w a  $$  h e r e   i s
+m.r o z m o w a   b l y s k a w i c z n a  $$  l o n g - d i s t a n c e
+i.                                  . . .  $$  c a l l . i n s t a n t
+o.      p r o s z e   r o z m a w i a c !  $$  c o n v e r s a t i o n
+n.                                         $$  . . .
+a.                                         $$  s p e a k ,   p l e a s e !
+m.                                         $$
+o.                                         $$
+c.                                         $$
+a.                                         $$
+p.                                         $$
+o.                                         $$
+z.                                         $$
+n.                                         $$
+a.                                         $$
+n.                                         $$
+i.                                         $$
+a.                                         $$
+w.                                         $$
+l.
+a.                                   .
+d.                                   |-----.
+a.                                   |     |
+m.                                   | __ _|
+h.                                   ||  | |
+e.                                  _||_.|.|
+u.                                __\, _ J |___
+r.                              _/   |_ L _|   \_
+e.                           __ |     |___|  a( | __
+k.                          | _||            id ||_ |
+a.                         ||___|---------------|___||
+!.                         |                         |
+u.                         |     n a h - k o l o r   |
+n.                         |                         |
+o.                         |      f o r   e v a n    |
+s.                         |                         |
+i.                         |-[ 15 ]-----------------||
+s.
+i.
+e.
+k.
+o.
+l.
+e.
+j.
+n.                                   _____
+a.                        ___   .  __\___ \_  ___.  .
+p.                .      _\  \____|   ____  |_\  |____      .
+o.           .          |  _  \_  |   \|    |   __    |          .
+w.        .           a(|   \     |____\----|    |    |ko           .
+i.      .       ___.  id|----\____|  _____  `----|____|re______       .
+e.   . .       _\  |___   _____     (_____)   _____    _/  _  /__      . .
+k.      .     |   _/ _/_ _\    \__  ___.     _\    \__|    |____/     .
+a.        .   |    \    Y   ___   |_\  |    |   ___   |    |        .
+c.           .|____|\___|   \|    |    |____|   \|    |____|     .
+o.                .     |____\----|    |    |____\----|     .
+c.                        .     . |----|____| .     .
+i.
+a.
+z.
+y.
+p.
+o.
+g.
+r.
+a.
+z.
+y.
+c.                            _     _________       _
+z.                           _|\  _/         \_    _|\
+k.                          (_)   |  ,-----7  |   (_)
+b.                              o |  | __  |  |   _    .
+o.                             .  |_/||  |-|\_|  _|\  o
+z.                                `|-||_.|.|-|' (_)
+a.                                _`\|   j |/'_    .
+p.                               /    \\___|   \
+o.                              /      \,/      \
+z.                             /  _/    $        \
+n.                             \   \          T  /
+o.                              \   \   .a(id | /
+z.                         .     \_ _\_       |/
+o.                         ||----|_|_|_|-------------|
+b.                         |     `-'-'-'             |
+a.                         |     o f f - w o r l d   |
+c.                         |                         |
+z.                         |     f o r   z i t o     |
+y.                         |                         |
+t.                         |-[ 22 ]-----------------||
+o.
+c.
+o.
+w.
+i.
+d.
+z.
+e.
+j.
+a.                                                 _____       ______    ______
+o.                                                _\    \__ __/ ____/___/ ____/_
+t.= = = = = = = = = = = = = = = = = = = = = = = =|   ___   Y   _______   ______/
+o.                                               |   \|    |    |    |    |a(id
+m.                                               |____\----|____|    |____|kore.
+a.                            ____       _____      ______   ___.         .___
+w.                           _\  /\___  _\    \__ _/  _  /_ _\  |     ____|  /_
+y.                          |  _/  \  \|   ___   Y    |____Y    |____|   ____  |
+c.                          |    _  \_ |   \|    |    |    |    |    |   \|    |
+i.= = = = = = = = = = = = = |-----\____|____\----|____|    `----|____|____\----|
+e.
+c.
+z.
+k.
+a.
+d.
+o.
+k.
+o.
+n.                                   _______
+c.                                   \  -  /
+o.                                   ( .   )
+w.                                ___|_|___|__
+e.                                \____|_____/
+c.                                ___| L   ( __
+z.                               /   (____ /   \
+k.                              /      /,_/     \
+i.                             /  _/   `%'   \_  \
+k.                             \   \         /   /
+a.                              \   \ .a(id /   /
+w.                         .     \_ _\_   _/_ _/
+a.                         ||----|_|_|_|-|_|_|_|-----|
+l.                         |     `-'-'-' `-^-^-'     |
+e.                         |     o v e r t i m e     |
+c.                         |                         |
+z.                         |   f o r   l o t h a r   |
+k.                         |                         |
+a.                         |-[ 23 ]-----------------||
+o.
+m.
+i.
+e.
+j.
+s.
+c.
+u.
+k.
+t.
+o.                                        __________
+r.                                       /         //
+e.       _____    ____.        _____    /_____     /
+t.      _\    \__\\   |____ __/ ___/_ _/  _  /__  /
+o.     |   ___   |\   |   _Y   __/   \/   |____/ /
+n.     |   \|    |-\  |  /-|   \|    /    |     /
+i.     |____\-------\___/-------\___/|____|    /
+e.                                 /   ___.   /  __    __  ___     _____
+b.                                /   _\  |__/  _\/_ _(  \/  /_ __/ ___/_
+a.                               /   |   ___/__| /\ Y  _ __ _  Y   __/   |
+j.                              /    |    |    |    |   \\//   |   \|    |
+e.                             /     `---/|____|____|----\/____|----\____|
+c.                            //________/ a(id/kore.
+z.
+k.
+a.
+b.
+o.
+w.
+i.
+e.
+m.                                            .
+i.
+s.                                  .         .
+t.                                  .         :
+n.                                  :         |
+i.                                  :    .    |
+e.                                  |    :    |
+j.                                  |    |    |
+e.                                  |    |    | a(id
+k.                         ||------------------------|
+r.                         |                         |
+a.                         |     p u n i s h e r     |
+i.                         |                         |
+n.                         |     f o r   e v a n     |
+a.                         |                         |
+g.                         |-[ 24 ]-----------------||
+d.                            ______|    |    |______
+z.                           /    \\|____|____|//    \
+i.                          //___________\___________\\
+e.
+w.                                     :)
+s.
+z.                            jordan's son or sth?
+y.
+s.
+t.
+k.
+o.
+j.
+e.
+s.
+t.
+n.
+a.   _____    ___ ___   ___       __    ____     ___.        _____    ______
+j. __\___ \_ _\  Y  /_ _\  \____ _\/___/ __/___ _\  |____ __/ ___/_ _/  _  /__
+t.|    |/   Y    |    Y  _  \_  Y\/\/________  Y   __    Y   __/   Y    |____/
+y.|    /____|    |    |   \     |    |    |/   |    |    |   \|    |    |a(id
+z.|____|    |_________|----\____|____|----|____|----|____|----\____|____|kore.
+a.
+c.
+z.
+y.
+n.
+a.
+j.
+a.
+c.
+h.
+w.
+i.
+d.                                   . . . .
+z.                                   |     |
+e.                                   | ..  |_
+z.                               ____|  L  ,/____
+l.                             _/    |   . |     \_
+o.                             |     |_____|      |
+t.                             |  __          __  |
+y.                             |   |          |   |
+b.                             |___|    .a(id |___|
+r.                         ||------------------------|
+z.                         |                         |
+e.                         |         r e v i         |
+g.                         |                         |
+u.                         |     f o r   r e v i     |
+p.                         |   _,-,_         _,-,_   |
+i.                         |--| | | |-[ 25 ]| | | |-||
+a.                            `-^-^-'       `-^-^-'
+c.
+h.
+i.
+m.
+i.
+j.
+a.
+j.                       ______     _____  ____.     · _
+a.                     _/  _  /_ __/ ___/_\\   |____ _\/_
+c.                  a(|    |____Y   __/   Y\   |   /| /\ |
+i.                  id|    |    |   \|    |-\  |  /-|·   |k0
+s.                 .--|____|----+----\____|--\___/--|____|--.
+c.                 `----------------------------------------'
+i.
+l.                                                   $$
+i.                                                   $$
+s.                                                   $$
+c.                                                   $$
+z.                                                   $$
+a.                                                   $$
+p.                                                   $$
+u.                                                   $$
+s.                                                   $$
+z.                                                   $$
+a.                                                   $$
+m.                                                   $$
+s.                                                   $$
+i.                                                   $$
+e.                                  $$$$$$$$$$$$$$$$$$$
+d.                                  $$
+o.                                  $$
+i.                                  $$
+s.r a z ,   d w a ,   t o  j e s t  $$  o n e ,   t w o ,   t h i s   i s
+c.   p r o b a   m i k r o f o n u  $$  a   m i c r o p h o n e
+i. w i e m   p o   c o   m o w i e  $$  p r o b e   i   k n o w   w h a t
+e.           c z e m u   m o w i e  $$  i ' m   s a y i n g   f o r
+t.               c o   i   k o m u  $$  w h y   i ' m   s a y i n g
+a. z n a m   t o   c o   r o b i e  $$  w h a t   a n d   t o   w h o
+j.         t a k   j a k   z n a m  $$  i   k n o w   w h a t   i ' m
+e.       d r o g e   d o   d o m u  $$  d o i n g   a s   i   k n o w
+m.                                  $$  t h e   w a y   t o   h o m e
+n.                                  $$
+e.                                  $$
+g.                                  $$
+o.                                  $$
+s.                                  $$
+w.                                  $$
+i.                                  $$
+a.                                  $$
+t.                                  $$
+a.                                  $$
+m.                                  $$
+a.                                  $$
+m.                                  $$
+z.
+e.
+s.                                      _
+o.                                   __\/ __
+b.                                   | \/  |
+a.                                   |_.___|_
+s.                                 __|_|__/,/_
+w.                                  _| L   |_  a(id
+e.                         . .-.-.-.|   ___ |.-.-.-.
+g.                         |-|_|_|_||_______||_|_|_|-|
+o.                         | `-^-^-'         `-^-^-' |
+b.                         |        s o b o l        |
+r.                         |                         |
+a.                         |    f o r   s o b o l    |
+t.                         |                         |
+a.                         |-[ 26 ]-----------------||
+w.
+l.
+i.
+c.
+z.
+b.
+i.
+e.
+d.
+w.                                  ___    /\\
+a.                        _____    _\  |__/_ \_____
+p.               ____    _\    \__|   ___·  |_\    \__  ___.
+l.             _/ __/___|   ___   |    |/  .|   ___   |_\  |
+u.            |_______  |   \|    |----/____|.  \|    |    |____
+s.            |    |/   |____\----'   ·     |____\----|    |    |
+j.            |----|____|            /            \   `----|a(id|k0
+e.        = ======================= /  sobol/apx   \ ============== =
+d.                                 //______________\\
+e.
+n.
+j.
+e.
+s.
+t.
+e.
+m.                                      _
+p.                                   __\/___
+e.                                  \\ _   /
+w.                              _____\..  /,____
+i.                             \\     \ _/     //
+e.                               \ \   \/   / /
+n.                                \ \      / / a(id
+z.                         ||------\--------/--------|
+e.                         |                         |
+g.                         |         s p e e d       |
+o.                         |                         |
+z.                         |     f o r   e v a n     |
+n.                         |                         |
+a.                         |-[ 27 ]-----------------||
+c.
+i.
+e.
+k.
+t.
+o.
+j.
+e.
+s.   _____     _______     ______ _     _______ _        ______ __ _  _
+t. _/ __/___ __\___ \__ __/ ___/_ __ __/ ___/_ __ _ ____|  /_ __ __ __
+w.|_______  Y    |/    Y   __/      Y   __/        Y   ____
+r.|    |/   |    /_____|   \|       |   \|     a(id|   \|    speed - issue #xx
+o.|----|____|____|     |----\____ __|----\____ __k0|____\---- -- -- - -
+g.
+a.
+k.
+t.
+o.
+p.
+r.
+z.                                   .     .
+y.                                   .     .
+j.                                - -|-----|- -
+a.                                  _|___ _|
+c.                                   ||  |  |       .
+i.                               .   ||_.|._|_     _|_
+e.                            _ _|___|   | |________| |_____
+l.                               |   | ____|  .     .  _____|_ _
+n.                               |   |___|    +-----|___|   |
+i.                               |  .         |             .
+e.                               |  |         |
+p.                               |  |   .a(id |
+o.                         .     |  |         |
+s.                         ||------------------------|
+i.                         |                         |
+a.                         |   s u p r a p h o n e   |
+d.                         |                         |
+z.                         |     f o r   r e v i     |
+e.                         |                         |
+n.                         |-[ 28 ]-----------------||
+a.
+t.
+y.
+m.
+l.
+a.
+d.
+z.
+i.
+e.
+t.
+a.   ____     ___ ___    _____     ______    _____  . . . . . . . . .
+k. _/ __/___ _\  Y  /_ __\___ \_ _/  _  /_ __\___ \_                .
+i.|_______  Y    |    Y    |/   Y    |____Y   ____  | @@@@@@@@@@@@@ .
+e.|    |/   |    |    |    /____|    |    |   \|    |            @@ .
+j.|----|____|_________|____|    |____|    |____\----|            @@ .
+w.                             _____    ___       _____     ___  @@ .   _____
+i.          . @@ a(id/kore.  __\___ \_ _\  |____ _\    \__ _\  \____ __/ ___/_
+e.          . @@            |    |/   Y   __    Y   ___   Y  _  \_  Y  ___/   |
+d.          . @@@@@@@@@@@@@ |    /____|    |    |   \|    |   \     |   \|    |
+z.          . . . . . . . . |____|    |----|____|____\----|----\____|----\____|
+y.
+b.
+o.
+n.
+i.
+e.
+z.
+n.
+a.
+n.                                         .
+e.                                   . :   |
+k.                                   | | . |
+a.                                   |-| |-|
+t.                                   |_ ___|_
+e.                                  (__Y__),/
+g.                                __ / L   \ __
+o.                               /  \\_ . _//  \
+r.                              /      \ /      \
+i.                             /  _/   `%'   \_  \
+e.                             \   \         /   /
+t.                              \   \ .a(id /   /
+o.                         .     \_ _\_   _/_ _/
+w.                         ||----|_|_|_|-|_|_|_|-----|
+i.                         |     `-'-'-' `-^-^-'     |
+e.                         |   w a r p   z e e r o   |
+c.                         |                         |
+o.                         |     f o r   r e v i     |
+t.                         |                         |
+w.                         |-[ 29 ]-----------------||
+i.
+e.
+r.
+a.
+m.
+k.
+o.
+l.
+e.                                    ____        _____     ______    _____
+k.                                   _\  /\___  __\___ \_ _/  _  /_ __\___ \_
+c.                            ______|  _/  \  \|   ___   Y    |____Y    |/   Y
+j.                           \\     |    _  \_ |   \|    |    |    |    |____|
+e.                            \     |-----\____|____\----|____|    |____|
+p.     ____       _____     ___\_    ______ / _____                .
+o.   __\__ \__ __/ ___/_ __/ ___X_ _/  _  // _\    \__             .
+p.  |  _______Y   __/   Y   __/  \Y    |__/_Y   ____  |   r  .  e  .  k  .  k
+r.  |   \|    |   \|    |   \|    \    | /  |   \|    |            .
+o.  |____|----^----\____|----\____|\___|/   |____\----|   o  .  r  .  d  .  z
+s.  a(id/kore.                      \  /                           .
+z.                                   \/                            .
+e.
+o.
+p.
+r.
+o.
+j.
+e.
+k.
+c.
+j.                                    /\//\
+e.                                   //\\/\\
+c.                                  //__ __\\
+z.                                 //(_o)o_)\\
+u.                                //\(. J .)/\\
+j.                               /////\   /\_\\\
+c.                               //    \o/     \
+i.                               / _    ~     _ \
+e.                              /  /          \  \
+s.                              \ /  _   \  _  \ / a(id
+i.                               \\ (o)  / (o) //
+e.                         ||------\____/\____/------|
+j.                         |                         |
+a.                         |         z i t o         |
+k.                         |                         |
+w.                         |     f o r   z i t o     |
+d.                         |                         |
+o.                         |-[ 30 ]-----------------||
+m.
+u.
+k.
+o.
+m.
+u.
+g.
+i.
+n.
+u.                        ____    __   ___.      _____   ___
+k.              .      ___\__ \___\/_ _\  |__   _\    \_|   |
+o.                 _  |  ________\/\/|   ___/__|   ___  |___|_
+m.                |_|_|_  \|    |    |    |    |   \|    |  |_|
+u.                  |   |__|----|____|----|____|____\----|     .
+d.                  |___|a(id/kore.
+y.
+m.
+u.
+?.                                     $$
+k.                                     $$
+i.                                     $$
+e.                                     $$
+d.                                     $$
+y.                                     $$
+c.                                     $$
+z.                                     $$
+a.                                     $$
+s.                                     $$
+n.                                     $$
+a.                                     $$
+s.                                     $$
+p.                                     $$
+a.                                     $$$$$$$$$$$$$$
+n.                                                 $$
+i.                                                 $$
+e.                              $$$$$$$$$$$$$$$$$$$$$
+u.                              $$
+s.                              $$
+l.                              $$$$$$$$$$$$$$$$$
+y.                                             $$
+s.                                             $$
+z.                                     $$$$$$$$$$
+e.                                     $$
+:.                                     $$
+p.                                     $$
+u.                                     $$
+k.                                     $$
+a.                                     $$
+n.                                     $$
+i.                                     $$
+e.
+w.
+b.                           . . . b o   m a g i k
+a.
+n.
+i.                 p i e r w s z y   c z a r n e j   m a g i i
+e.
+i.
+p.                      u z y w a l   d o   z u p y . . .
+r.
+z.
+y.
+p.                                     $$
+l.                                     $$
+y.                                     $$
+n.                                     $$
+i.                                     $$
+e.                                     $$
+w.                                     $$
+m.                                     $$
+i.                                     $$
+n.                                     $$
+i.                                     $$
+e.                                     $$
+u.                                     $$
+k.                                     $$
+o.                                     $$
+j.                                     $$
+e.                                     $$
+n.                                     $$
+i.                                     $$
+e.                                     $$
+w.
+m.
+o.
+i.                      [ [ k0re. manufaktories in 2k ] ]
+m.      ___                                                           ___
+f.   _ |.  | ___                                              . ____ |  .| _
+i.  |_||___||.  \|         __                      __         |/   .||___||_|
+l.          |    |___. ___|. |. ______ __ . ______| .|______ .|     |
+m.          |____||  |/ .T|__||/    .T|__||/    .T|__|T.    \||_____|
+i.              __|  /   |____|      |____| ___  |____|   __ |___
+e.a(id      .__ T      __| .T.   ____   T    [/__|  T   _____| .T __
+a.k0re.     | _||   __      |      \]   |   __      |   |       ||_ |
+t.--------[ |___|----]______|___________|----]______|___________|___| ]-------
+o.
+c.NEWS:
+o.
+j.@ whoooa... after few months of unactivity acid has released his new colly!
+a.
+k.@ kempy fights against whole world....
+t.
+o.@ the rest? phukkin' lazyness... we'll have to do sth! B-(
+p.
+r.@ fitzroy... kicked out!
+z.
+e.MEMBERS .................. acid, kempy, passenger, thung
+c.
+i.CONTACT .................. a: arkadiusz kajzerek       k: przemek kowalczyk
+e.                   :          patriotow 32b/1             kopernika 13/14
+z.                   :          pl-44253 rybnik             pl-34100 wadowice
+b.                   :          032 4215195                 033 8235834
+y.                   :          012 6580730
+l.                   :
+o.                   :       p: tomasz piatek            t: piotr klimek
+t.                   :          gwizd 5a                    zabia 8/3
+o.                   :          pl-78111 ustronie mors.     pl-91457 lodz
+t.                   :          094 3515364                 042 6551451
+a.                   :
+k.                   :
+d.                   :....... e-mail: acid_kore@poczta.fm
+a.                                    kajzerea@wizard.ae.krakow.pl - acid
+w.                                    kempy666@kki.net.pl          - kempy
+n.                                    thung@polbox.com             - thung
+o.
+t.
+e.                                 (  (><)  )
+n.
+s.
+w.PR0DS ....... 01. "maximalistik98"                k0-max98.txt, acid
+i.         :                                        024 apr 1998, 040kb
+a.         :
+t.         :... 02. "kwiaty"                        k0-kwiat.txt, acid+fitzroy
+k.         :                                        030 sep 1998, 060kb
+t.         :
+o.         :... 03. "experiment 25"                 k0-exp25.txt, acid
+r.         :                                        001 oct 1998, 026kb
+y.         :
+o.         :... 04. "forgotten in space"            k0-forgt.txt, kempy
+t.         :                                        018 feb 1999, 090kb
+a.         :                     _
+c.         :... 05. "strajk pajacow"                k0-pajac.txt, kempy
+z.         :                                        022 feb 1999, 87kb
+a.         :
+l.         :... 06. "the poetry of two colours"     k0-2kolo.txt, acid
+m.         :                                        028 feb 1999, 050kb
+n.         :
+i.         :... 07. "rhythm of life"                k0-rofli.txt, cnr+twister
+e.         :                                        ??? mar 1999, 070kb
+b.         :
+a.         :... 08. "na cztery linie"               k0-na4li.txt, acid
+n.         :                                        010 apr 1999, 070kb
+k.         :
+a.         :... 09. "klubbhead loop 89"             sea+kore.txt, acid+azzaro+
+k.         :                                        (kooperation) kempy+zabora
+o.         :                                        017 apr 1999, 400kb
+l.         :
+o.         :... 10. "invitation"                    k0-invte.txt, kempy
+r.         :                                        001 may 1999, 054kb
+o.         :
+w.         :... 11. "nuclear radiator"              k0-nucle.txt, kempy
+a.         :                                        029 may 1999, 105kb
+n.         :
+k.         :... 12. "spin1"                         k0-spin1.txt, cnr
+a.         :                                        008 jun 1999, 146kb
+w.         :
+i.         :... 13. "cyberkartoon"                  k0-cyber.txt, acid
+d.         :                                        015 jun 1999, 080kb
+z.         :
+e.         :... 14. "narkotyki"                     k0-narko.txt, kempy
+t.         :                                        010 jul 1999, 080kb
+o.         :
+w.         :... 15. "small gift"                    k0-small.txt, thung
+y.         :                                        010 jul 1999, 053kb
+r.         :
+a.         :... 16. "state of the world address"    k0-st8wa.txt, acid
+z.         :                                        012 jul 1999, 120kb
+n.         :
+i.         :... 17. "phantasma"                     k0-phant.txt, kempy
+e.         :                                        004 aug 1999, 115kb
+t.         :
+r.         :... 18. "lokomotywa"                    k0-motyw.txt, acid
+o.         :                                        009 sep 1999, 070kb
+j.         :
+k.         :... 19. "8mm long hair"                 k0-8mm.txt,   acid
+a.         :                                        012 sep 1999, 080kb
+t.         :
+p.         :... 20. "2 multiply 3"                  k0-2x3.txt,   acid
+r.         :                                        030 sep 1999, 070kb
+a.         :
+w.         :... 21. "hopeless"                      k0-hples.txt, kempy
+d.         :                                        001 oct 1999, 085kb
+y.         :
+m.         :... 22. "death on ice station zebra"    k0-dtisz.txt, psr
+o.         :                                        012 nov 1999, 064kb
+w.         :
+i.         :... 23. "phoenix illusion"              k0-phoen.txt, psr
+s.         :                                        012 nov 1999, 074kb
+t.         :
+a.         :... 24. "kameleo magikk"                k0-kmleo.txt, kempy
+r.         :                                        015 dec 1999, 210kb
+t.         :
+j.         :... 25. "ancient art of ninja training" k0-ninja.txt, kempy
+e.         :                                        030 jan 2000, 110kb
+g.         :
+o.         :... 26. "sexy evil art"                 k0-!sea!.txt, kempy
+j.         :                                        002 feb 2000, 105kb
+a.         :
+z.         :... 27. "44 milimeters"                 k0-44mm.txt,  acid
+d.                                                  020 may 2000, 110kb
+a.
+g.
+a.
+s.
+n.                                 (  (><)  )
+i.
+e.
+n.
+i.
+e.                   productions released under KORE. label:
+n.
+a.                        acid - 12 collections - 02 k0operations
+z.                     fitzroy - 01 collection  - 01 k0operation
+a.                       kempy - 11 collections - 01 k0operation
+w.                         psr - 02 collections
+s.                       thung - 01 collection
+z.
+e.                           ---[ past members ]---
+p.
+o.             cnr/independent - 02 collections - 01 k0operation
+t.
+e.                          ---[ guest artisits ]---
+m.
+w.          twister/sative mea - 01 collection  - 01 k0operation
+z.    azzaro+zabora/sative mea - 01 collection  - 01 k0operation
+l.
+o.
+t.                      [ [ k0re. manufaktories in k+k ] ]
+e.
+m.
+b.
+l.
+e.
+d.                                 (  (><)  )
+e.
+m.
+z.
+a.
+p.
+e.                  t e c h n i c a l   i n f o r m a t i o n
+d.
+e.                                     nAMe
+m.                             -------------------
+p.                              " 44 milimeters "
+s.
+i.                                   aCRONYm
+m.                             -------------------
+s.                                 k0-44mm.txt
+w.
+e.                                     sIZe
+d.                             -------------------
+e.                                110'000 bytes
+m.
+p.                                    aUTHOr
+r.                             -------------------
+z.                                  acid/kore.
+e.
+z.                                gUESt aRTISTs
+s.                             -------------------
+z.                               darkus/aerosol
+u.                                 kempy/kore.
+f.                                   krash/tma
+l.                                 krs/link124
+a.                               riven/the loop
+d.
+e.                                   sOFTWARe
+p.                             -------------------
+e.                            ced v3.5 + wordpad :)
+l.
+n.                                   hARDWARe
+a.                             -------------------
+m.                           amiga1220/10mb/hdd 50mb
+a.             amdk6 400mhz/32mb/hdd 1.7gb/s3 virge/sound maker :)
+r.
+i.
+i.                             sUPPORt+iNSPIRATIOn
+r.                             -------------------
+a.                      polish hip-hop band - kaliber 44
+p.
+o.
+w.                                 rELEASe dATe
+e.                            --------------------
+k.                                 20 may 1999
+a.
+t.
+h.
+a.
+r.
+s.                                 (  (><)  )
+i.
+s.
+o.
+c.
+z.
+y.
+s.       c o l l e c t i o n s   o f   m i n e   m a d e   s o   f a r :
+z. .-----.-----------------------------.--------------.-------------.-------.
+c. | nO. | fULL nAME                   | aCRONYM      | rELEASE d8  | sIZE  |
+z. |-----+-----------------------------+--------------+-------------+-------|
+o. | oo1 | ascii                       | Ac!D-asc.txt | 001.001.996 | 057kb |
+n. | oo2 | azki network                | Ac!D-azn.txt | 001.003.996 | 092kb |
+a. | oo3 | faces                       | Ac!D-fcs.txt | 007.004.996 | 150kb |
+s. | oo4 | aquarium                    | Ac!D-aqu.txt | 010.006.996 | 190kb |
+t. | oo5 | deep forest                 | dGs-deep.txt | 030.008.996 | 290kb |
+r. | oo6 | i love us!                  | dGs-!us!.txt | 016.009.996 | 065kb |
+o. | oo7 | independence day            | dGs-indd.txt | 009.011.996 | 160kb |
+n. | oo8 | broken wiatrak              | dGs-brwi.txt | 015.012.996 | 120kb |
+a. | oo9 | striking mismatch           | dGs-strk.txt | 020.012.996 | 080kb |
+b. | o1o | retrospection               | dGs-retr.txt | 031.012.996 | 160kb |
+a. |-----+-----------------------------+--------------+-------------+-------|
+r. | o11 | take a deep breath          | dGs-take.txt | 001.002.997 | 170kb |
+w. | o12 | krash'd wiatrak             | dGs-krwi.txt | 022.002.997 | 110kb |
+y. | o13 | plecaki kulfoniaki          | dGs-kulf.txt | 022.002.997 | 110kb |
+t. | o14 | 14 x love                   | dGs-14xl.txt | 022.002.997 | 050kb |
+e. | o15 | graffiti!                   | dGs-gfti.txt | 030.005.997 | 110kb |
+j. | o16 | still alive                 | dGs-live.txt | 012.007.997 | 120kb |
+k. | o17 | sundance! where are you?    | dGs-sun!.txt | 030.008.997 | 060kb |
+a. | o18 | journey                     | dGs-jour.txt | 015.009.997 | 100kb |
+m. | o19 | minimalistik97              | dGs-mm97.txt | 001.010.997 | 030kb |
+e. | o2o | magyari wiatrak             | dGs-mawi.txt | 012.012.997 | 090kb |
+l. | o21 | *all logos in one archive*  | dGs-all!.txt | 031.012.997 | xxxkb |
+e. |-----+-----------------------------+--------------+-------------+-------|
+o. | o22 | minimalistik98              | L124-m98.txt | 002.002.998 | 140kb |
+n. | o23 | maximalistik98              | k0-max98.txt | 024.004.998 | 040kb |
+a. | o24 | kwiaty                      | k0-kwiat.txt | 030.009.998 | 060kb |
+c. | o25 | experiment 25               | k0-exp25.txt | 001.010.998 | 026kb |
+o. |-----+-----------------------------+--------------+-------------+-------|
+r. | o26 | the poetry of two colours   | k0-2kolo.txt | 028.002.999 | 050kb |
+a. | o27 | na cztery linie             | k0-na4li.txt | 010.004.999 | 070kb |
+z. | o28 | klubbhead loop 89           | sea+kore.txt | 017.004.999 | 400kb |
+d. | o29 | cyberkartoon                | k0-cyber.txt | 015.006.999 | 080kb |
+a. | o3o | state of the world address  | k0-st8wa.txt | 012.007.999 | 120kb |
+l. | o31 | lokomotywa                  | k0-motyw.txt | 009.009.999 | 070kb |
+e. | o32 | 8mm long hair               | k0-8mm.txt   | 012.009.999 | 080kb |
+j. | o33 | 2 multiply 3                | k0-2x3.txt   | 030.009.999 | 070kb |
+s. |-----+-----------------------------+--------------+-------------+-------|
+t. | o34 | 44 milimeters               | k0-44mm.txt  | 020.005.000 | 110kb |
+a. |-----^-----------------------------^--------------^-------------^-------|
+l. |   [3'630] kbytes in [34] files during [4 years 5 months and 20 days]   |
+e. `------------------------------------------------------------------------'
+i.
+w.
+s.
+p.
+a.
+n.
+i.                                 (  (><)  )
+a.
+l.
+e.
+u.
+s.
+l.
+y.                                    _ _ _
+s.                                   __\_/__
+z.                                   \_____/
+a.                                  _|_.___|_
+l.                                  \__|__/,/
+e.                               ____| L   |____
+m.                             \\\   |_ _ _|   ///
+s.                              /     /_,_\     \
+w.                             /  _/   `%'   \_  \ a(id
+o.                             \   \         /   /
+j.                              \   \       /   /
+e.                          \    \___\     /___/    /
+z.                          \\---------------------//
+a.                          _\                     /_
+l.                         |                         |     _____
+e.      _____  _____    ___|    _________ _____   ___|_    )   |__   ____
+a.  ____\_  /__\ __/____) _/____\ _     /_\ __/___\  _/____\  ___/___) _/____
+l.  \   _/ / _ __/    _ \___   _  \____/  __/    _   \    _   \|   _ \___   /
+e. /____\____\_\|_____\___|/___\____\ ____\|_____\________\____\___\___|/____\
+c. «-dKS!------------------|                         |-----------------------»
+h.                         |  respektz are flyin' 2  |
+y.                         |                         |
+b.                         |         azzaro          |
+a.                         |         budgie          |
+b.                         |           cnr           |
+y.                         |         darkus          |
+l.                         |        dipswitch        |
+o.                         |           far           |
+w.                         |   fighter_for_future    |
+r.                         |         filozof         |
+t.                         |         fitzroy         |
+o.                         |        garfield         |
+w.                         |          kempy          |
+i.                         |           krs           |
+e.                         |           luk           |
+c.                         |       neurodancer       |
+l.                         |        passenger        |
+e.                         |         renton          |
+p.                         |          revi           |
+i.                         |          riven          |
+e.                         |          sharp          |
+j.                         |       simon_king        |
+s.                         |          thung          |
+p.                         |         twister         |
+a.                         |          xball          |
+l.                         |          yaneq          |
+t.                         |         zabora          |
+o.                         |__                     __|
+t.                           //___________________\\
+a.
+s.                                 (  (><)  )
+m.
+a.                                     $$
+s.                                     $$
+i.                                     $$
+e.                                     $$
+k.                                     $$
+r.                                     $$
+e.                                     $$
+c.                                     $$
+i.                                     $$
+s.                                     $$
+l.                                     $$
+y.                                     $$
+s.                                     $$
+z.                                     $$
+e.                                     $$
+n.                                     $$
+a.                                     $$
+s.                                     $$
+z.                                     $$
+e.                                     $$
+c.                                     $$
+h.                                     $$
+e.                                     $$
+c.                                     $$
+i.                                     $$
+w.                                     $$
+p.                                     $$
+a.                                     $$
+m.
+i.                       haaaaaaayyyyyyyyyyiiiiiiiiaaaa!
+e.
+c.                                whoooaaaa....
+i.
+w.                                     $$
+i.                                     $$
+e.                                     $$
+r.                                     $$
+c.                                     $$
+i.                                     $$
+d.                                     $$
+z.                                     $$
+i.                                     $$
+u.                                     $$
+r.                                     $$
+k.                                     $$
+i.                                     $$
+o.                                     $$
+d.                                     $$
+t.                                     $$
+e.                                     $$
+j.                                     $$
+r.                                     $$
+u.                                     $$
+r.                                     $$
+k.                                     $$
+i.                                (\   $$
+i.                                 \\  $$
+k.                                  \\  $
+r.                                   \\
+a.                                    \X)
+c.                                    (  )_
+h.                                    / (  )
+g.                                   /  X  \
+d.                                  /  /_\_ \
+z.                                  \  /   \ \
+i.                                   \ \(\// /
+e.                                    \  ~  /
+j.                                    /    /
+e.                                   /    /
+s.                                  /    X
+t.                                 /  /\  \
+z.                                /  / /  /
+l.                                \  \/  /
+o.                                 \ /  Z
+t.                             km! (/____\ .k0
+e.
+a.                        my sie tak latwo nie poddamy!
+g.
+d.                                     $$
+z.                                     $$
+i.                                     $$
+e.                                     $$
+p.                                     $$
+i.                                     $$
+a.                                     $$
+c.                                     $$
+h.                                     $$
+j.                                     $$
+a.                                     $$
+k.                                     $$
+n.                                     $$
+a.                                     $$
+t.                                     $$
+e.                                     $$
+r.                                     $$
+a.                                     $$
+z.                                     $$
+o.                                     $$
+d.                                     $$
+p.                                     $$
+o.                                     $$
+w.                                     $$
+i.                         $$$$$$$$$$$$$$
+e.                         $$
+d.                         $$
+z.                         $$$$$$$$$$$$$$$$$$$$$$$$$$
+j.                                                 $$
+e.                                                 $$
+s.                              $$$$$$$$$$$$$$$$$$$$$
+t.                              $$
+w.                              $$
+s.                              $$$$$$$$$$$$$$$$$
+z.                                             $$
+e.                                             $$
+s.                                  $$$$$$$$$$$$$
+c.                                  $$
+i.                                  $$
+u.                                  $$$$$                                 .
+l.                                     $$
+i.                                     $$  last note!                     .
+t.                                     $$                             
+e.                                     $$  gedappa!                       .
+r.                                     $$
+a.                                     $$  the   collection   has  been  just
+c.                                     $$  finished!  yeah.  hope you'll like
+h.                                     $$  it. i do. :)
+p.                                     $$
+o.                                     $$  while  making this file i was lack
+b.                                     $$  of  ideas  for panel, this way the
+a.                                     $$  collection   includes   30   ascii
+j.                                     $$  pictures   above  the  pure  ascii
+e.                                     $$  logos. they are not very original,
+r.                                     $$  beceause they're variations of the
+a.                                     $$  first   picture,  but  look  nice,
+c.                                     $$  don't they? :)
+h.                                     $$                                 .
+c.                                     $$$$$$$$$$$$$$
+i.                                                 $$                     .
+a.                                                 $$
+z.                              $$$$$$$$$$$$$$$$$$$$$                     .
+y.                              $$
+k.                              $$                                        .
+r.                              $$$$$$$$$$$$$$$$$
+a.                                             $$                         .
+z.                                             $$
+y.                                     $$$$$$$$$$                         .
+i.                                     $$
+g.                                     $$  watch   out  for  the  next  kore.
+l.                                     $$  collections.  when it comes to me,
+a.                                     $$  well,  guys, do not expect a colly
+w.                                     $$  of   mine   unless  i  finish  the
+o.                                     $$  education  at the second year. the
+k.                                     $$  examines are coming up and it will
+o.                                     $$  be  a  horror  for me. 8 exams are
+l.                                     $$  real  crap.  :S i hope i'll manage
+r.                                     $$  it quite well.
+o.                                     $$
+w.                                     $$  so, that's all for today. thanks a
+k.                                     $$  lot   for   watching   this  file,
+a.                                     $$  requesting   logos  and  for  many
+a.                                     $$  other things...
+z.                                     $$                                 .
+s.                                     $$  your faithfully
+k.                                     $$                                 .
+l.                                     $$  acid/kore.
+a.                                     $$                                 .
+d.                                     $$
+s.                                     $$$$$$$$$$$$$$                     .
+i.                                                 $$   k o r e .
+e.                                                 $$                     .
+w.                              $$$$$$$$$$$$$$$$$$$$$   o n l y
+r.                              $$                                        .
+e.                              $$                      o n e
+s.                              $$$$$$$$$$$$$$$$$                         .
+z.                                             $$       s t e p
+c.                                             $$                         .
+i.                                     $$$$$$$$$$       t o
+e.                                     $$                                 .
+n.                                     $$               e t e r n i t y
+a.                                     $$                                 .
+m.                                     $$
+y.                                     $$
+s.                                     $$
+l.                                     $$
+i.                                     $$
+t.                                     $$
+o.                                     $$
+h.                                     $$
+a.                                     $$
+i.                                     $$
+p.                                     $$ last changes:
+e.                                     $$ Sat May 13 10:12:15 2000
+m.                                     $$
+y.
+s.
+l.                                     $$
+n.
+i.
+k.
+h.
+a.
+o.                                     $$
+p.
+e.
+k.
+r.
+o.
+p.
+k.                                     $$
+a.
+t h e   e n d
+
+@BEGIN_FILE_ID.DIZ
+      ____: ____ _____ _____ _______
+      \   |/   //  _  \\_   \\_    /__
+    _/   _/   /    /   _/   / /___/   \_
+  _\\____\____\________\_______________//_
+<---------------------------------cDr/m's-->
+ 
+  f i l m f i l m f i l m f i l m f i l m 
+
+    "film" the 34th ascii collection by
+                 acid/kore.
+
+  f i l m f i l m f i l m f i l m f i l m
+
+<------------------------------[20|05|2k]-->
+@END_FILE_ID.DIZ
+
+
+   »»  ladies and gentlemen, move your arses and call this mysterious  ««
+
+      .---._____ .---/______,----------.    _.__                  __._
+  ._ _l        /-l  /       l    ....  l_   _: /                  \ :_
+  :_\\_  _____/  _ _        _    ||||  _/   \://  T H E  S E C T  \\:/
+      |_   '    _|_|        | 7________|     |·                    ·|
+       `--------'  `--------`-----'          :                      :
+                            .____,-----.----------.-----/    .---._____
+  node_0: +48-91-48794393  _l    ,_____|    ....  l T¯¯¯¯¯¯¯¯|        /-._ _.
+  node_1: -------- telnet  \______     _    ||||  _ |        _  _____/  _//_:
+  node_2: -------- telnet   |_   '    _| 7________|__        |_   '    _|
+                             `--------'`-----'      `--------'`--------'
+
+  [ tech info: usr·33kb / 2400-33600 bps . based on a1240t/603/240mhz/5gb ]
+
+  main_control¦ MADBART'APPENDIX . immortal 24h/d supporters¦ UFOK + PREFIX
+
+  call now!     to get hot polish demoscene stuff and more...     call now!
+
+        »»»  APX.PSL.JRM.FLP.MNS.K0.LA!.OLB.TKL.HTR.DXP.SEA.NAH  «««
+
+ -|--------------------------------------|-
+  | the sect - 2nd in the world - tsp'01 | . _____    ___. __    . ______
+ -|--------------------------------------| |/    T    T  |/ T    |/     T
+  |                                   -\ __|     |__ _|  |  |__ _|   __ |___
+  | node0: +48-91-4879493             --\T          Y   __     Y   _____|  T
+  | node1: telnet                      --\     _____|    |     _   |       |
+  | node2: telnet      ___________a(id/k0.\______|--]----|____/]__________/|
+  |                    \     . ______    . ______    ______ .    ______ .
+  | master:            -\    |/     T    |/     T    T.    \|    T     \|
+  | madbart/appendix    -\ __| _____|__ _|   __ |__ _|      |__ _|      |___
+  |                      -\T_______    Y   _____|  Y   _____|  Y           |
+  | hardware:             -\      |    _   |       _   |       _      _____|
+  | a1240t/603e/240mhz/5gb -\_________/]__________/]__________/]________|
+  |
+  | appendix - anadune - teklords - floppy - dinx project - venus art
+  | jormas - mawi - pic saint loup - old bulls - kore. - linear - sative mea
+  |
+ -|-------------------------------------------|---------------------------|-
+                                              | supporters: ufok + prefix |
+                                             -|---------------------------|-

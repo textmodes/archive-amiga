@@ -1,0 +1,3138 @@
+
+  ...         _ _                                          _ _     ...
+ ::::          \\\ sTAGE 1 cOMPLEtED <> pAsSED tHRoUGH TY ///      ::::
+ :::_   .___.    \                                        /        _:::
+ :://-- |   |-----\  24h Static Telnet on broadband ADSL /--------// ::
+ |. .___.  _:____ _  ___                                             _:
+ _ _|   |_ \_   // //  /____   __ _  cONSOLES/aSCII/aMIGA/gRAFF/=C64 \:
+ \\\_   _/__/  /___  _     /__||///  mACINTOSH/mUSIC/sAMPLES  ____    |
+    |_  \_\        \ /____/   _      _____ _      _____     ./  _/    .
+ .   /_    \________\________\\    ._)  _ \\______\__  \____|   \_ _ _: _
+ :     \______\\t^/lp!        ____ |   _/     /     /   \  _|   _////__\\
+                             /   /___  \      \ __ \\  _/__\|   \     :/
+  > theyard@graffiti.ag < _ /   / __//__\______\\_\ /_____/ \    \    :
+ :     _                  //_____\\:     \      /___|   \_________\  _.
+-.----\\-----------------------|   |----- .-----------||-------- ----/:
+ | tHE iDEA oF sTYLE iS tHE kEYl___|tO aLL fORMs oF rOCKiNG - TY 9603 |_
+-@----------------------------._____.---------------------------------@
+
+
+
+
+
+          .________________________________________________________.
+  __      |                                                        |
+ /_/\  ___|__¦______ ______________¦_______________________  _ _/\_|______
+ \_\/  \·    |     /_\______  /·   |    \_______   _ /    /_________    o/
+  +:    \\   |    /    ______//          \     /   //    /    /    /   //
+  :o     \_______/______|   /______|______\________/________ /________ /
+  .·      |                        ¦                       \/      | \/
+          |                                                        |
+  .       | U   P   H   O   L   D        T   H   E       L   A   W |
+          |                                                        |
+ ______/\_|_______¦____    __________     _____     _____   _____ /\ _____
+ \ _ o     _ /    |   ·\  /  ___    /    /    /____/o   /___\ _  /  \    /
+  \//      \/          \\/    _____/    /    /    //   /\    \\ /    \  /
+  /_________\_____|______\_______ /    /________ /____________\___/\___/
+          |       ¦             \/             \/                  |Sk¡n
+          |________________________________________________________|
+
+                         dA uLTiMaTe dEMo BBS for:
+
+    aMiGa · pC · mAC · aRCHiMEdEs · cONSoLe · aScII  ( c64 & aTaRi sOOn )
+
+
+      ReMeDy wHQ (Amiga)  ·  x-FiLEs nEWs sTaTiOn  ·  U.D.O. wHQ (Amiga)
+
+                eNDzEiT wHQ (Amiga)  ·  dARkSidE wHQ (Amiga)
+
+    aNAdUNe dIStRiBuTiON SiTe (Amiga)  ·  nUAnCe dIStRiBuTiON SiTe (Amiga)
+
+                sUPeRiOr aRt cReATiONs dIStRiBuTiON SiTe (PC)
+
+   aLieNDeSiGN wHQ (Amiga-Tools)  ·  tRSi rECoRDz dIStRiBuTiON SiTe (Audio)
+
+
+      sEArCHiNg fOr mORe gRoUPs!   eSpEziAllY c64, aTaRi aNd aRChiMeDEs!
+
+                                dA sYSOPs aRe:
+               Node 1 :                              Node 2 & 3 :
+           USR V.90 I-Modem                           Euro  ISDN
+          +49-(0)30-44730311        rAMSeS        +49-(0)30-44730312
+                                      &&
+             Node 4,5,6 :            pASo
+              24h Telnet                          -- nO RaTiOs !!! --
+            remedy.yi.org
+
+
+
+                          /\_____________________/\ .
+                        ._)       2  0  0  1      (_:_ _
+                        |                           |
+                        |   T  H  E    Y  A  R  D   |_ _
+                        | - --------------------- - \///_ _
+                        |                           |
+                        | Amiga/Ascii/Graffiti/N64  |
+                        | Gameboy/NeoGeoPocket/Snes |
+                        | Psx/Ps2/Dc/Smd/Oldies/Mp3 |
+                        | Unix/Drugs/Chiptunes/Mods |
+                        |                           |
+     __________    _____|      ________             |
+ _ __\_ ____   \_ _\_   |__ _ _\_____  \_           |
+        /  \    /      ___/       _/    /_ __ _     |
+   _ __/   \\__/        |         \____/            |
+      /      \_         |______                     |
+        _ ___ /_________|    /___  _____ _ __ _     :
+            \/          |        /\                 .
+                   _____|       /  \   _______    _______
+                _ _\_   |      /   .\ _\_____ \_ _\_____ \_ __ _
+                     \____    /     \\    _/  _/__    /
+                        |/   /       \\   \    _ /   /
+                            /          \   \   //
+               _ ___________\__________/____\  /_________ __ _
+                        .                    \/     .
+                        : AHS/DTR/AGEEMA!/ROYAL/PHT :
+                     _ _| AEROSOL/LiGHTFORCE/MANGOO |
+                     \\\/ LP!/BAD KARMA/UP ROUGH/DS |
+                        | SOiA/MOPLAYAZ/TQL/PVM/100 |
+                        | H E A D   Q U A R T E R S |
+                        |                           |
+                        | the  idea  of  s t y l e  |
+                        |                           |
+                        |     is  the   k  e  y     |
+                        |                           |
+                        |   to  all  f o r m s  of  |
+                        |                           |
+                        | r   o   c   k   i   n   g |
+                        |_          __             _|H2o!
+                          )_______ /\_\ __ _______(
+                          \/       \/_//_/\      \/
+                                     __\_\/
+                                     \/
+
+[99$/payway:amex_blue/bank_of_switzerland/984.645.341-5:divine_stylers.ru]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  D I S C L A I M E R
+
+                        - - - -------  -- ---------------------------
+
+                                            it is forbidden by law to
+                               scroll this text without paying for it
+
+                                              please be sure to write
+                                                your name and address
+                                                on the transfer check
+
+                                         and you will get the correct
+                                   registered version of this artfile
+
+                                       bank name: bank of switzerland
+                                     account name:  divine_stylers.ru
+                                   account number:      984.645.341-5
+
+                                                           Thank you!
+
+                        - - - -------  -- ---------------------------
+
+                                copyright (c) divine stylers inc 2oo1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ please enter the registrationcode below.
+ (All cracking/illigal copying are strictly forbidden by law)
+
+ [ xxx.xxx.xxx.xxx.xxx.xxx.xxx ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[begin.lowbit_art.file]
+[begin_scroll.down]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        hello, iïm the ugly low quality dino.
+             ._/\_.   /
+            (o    o)
+            |      |_._._._._._._._.
+            `O----O`               |._._._
+             `\/-\/-------\/\/------------`
+
+
+
+
+
+
+[Pause_scroll.down]
+[Pause=5seconds]
+[Begin_scroll.down]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           I will show you some of my latest
+                           thuesday night art, hope you like it.
+                           however, I will find out if you did in
+                           the next ascii charts.
+
+                                             \
+                                                     ._/\_.
+                                                    (o    o)
+                                    ._._._._._._._._|      |
+                              _._._.|               `O----Oï
+                             `-----------\/\/---------\/\/ï
+
+
+
+
+
+[Pause_scroll.down]
+[Pause=5seconds]
+[begin_scroll.down]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         h e l l o
+
+
+
+
+                                                          u p r o u g h !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             me                       trivial            mortimer
+              ________              _______       _________
+              \..   //              \______\__  _/________/__
+              (+o____)  orlingo      \ oO  \\   \__/   O</               .
+  spot         |    |    ______     _(_o____) ___\______o)__ /__       .
+     __,__    `|    |   .\____/__  `-.      ) \_    \/   __//_/           .
+    (____/     |    | .-(_ïoï__)--.  |      )__/--------/               o
+    (.o  |_____|    | | %      .--ï  |           ____  /   thumbs up!  o
+  __/-              |_(        |_____|               \/____________.,oO
+ o   _____     ________         ________      ________       _________
+O  ./____/__ ./       /_____  ./       /_   ./       /___  ./        /__
+ o |       / |      ___       |        _/   |     __ --_/  |     /_     |
+   `---------ï--------ï-------`-------------ï------ï-------ï------------ï
+O                                              i      n    t   r o . t xt
+
+
+   1 0 1          1 1 0 0                 1 0 0 0 1 1 1 0 0 0101011001010
+
+   t h e          d a m n                               l ow quality dino
+   i s            b a c k                    w ith another crappy release
+
+   0 1 1          0 0 0 1                 0 0 0 1 1 0 1 0 0 0 1 001010111
+
+   g u e s s      w h a t ?                I a g ree with the things said
+   i n            t h e                     a s cii charts (tac-0101.txt)
+   m y            l a s t                    c o l l ection was kinda bad
+
+   0 0 0          0 1 0 1                 0 1 1 1 1 1 0 0 1 0 0 010110001
+
+   b u t          w h a t                            c an I say about it?
+   t h e          p u r p o s e        w i th that release might not been
+   t o            s h o w                      a n y o ne anything, maybe
+   I              j u s t                  f e lt exciting about the vibe
+   a n d          f o r g o t               t o t a ke the time, and make
+   i t            r e a l l y                 s p e c i al, for those who
+   l i k e        w h a t                      I u se to do, feel free to
+   r e q u e s t  a n y                         a s c i i logo @ the yard
+
+   1 1 0          0 1 1 1                 0 0 1 1 1 0 0 1 0 0 01010101100
+
+   n e w s        a b o u t                       d i v i n e stylers are
+   t h a t        w e                    h a v e merged with our brothers
+   i n            t h e                  n o t o u r i o u s crew uprough
+   d i v i n e    s t y l e r s           a r e still the asc2 kings, and
+   u p r o u g h  a r e                      e v e r y t h i n g else. :)
+
+   1 1 0          1 1 0 0                 0 1 1 0 0 1 0 1 1 1 1 010101100
+
+   I              h o p e                 t h a t all the requested logos
+   a r e          l i s t e d              b e l o w, if not please email
+   m e            o n                 t h i s adress: dino@stadskonst.com
+   o r            d r o p                     a message on divine stylers
+   w o r l d      h e a d q u a t e r s        i p - a d d theyard.yi.org
+   a s k          t h e                            e l i t e for the nup!
+
+   0 1 1          0 0 1 0                 0 1 0 0 0 0 1 1 1 0010101110011
+
+   s m o k e      e m ï                                   i f you got em'
+
+   1 0 0          0 1 0 0                 1 1 1 1 1 0 0 0 1 0 1 001010111 o
+ o                                                        0
+                                                                       o O
+   O o   * d i v i n e - s t y l e r s - u p r o u g h - 2 o o 1 *   o
+       o
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .      o r i g i n a l . t e a m . t e e ' s        .
+
+      ____________     ____________     ____________     ____________
+    ./   \\  //   \. ./   \\  //   \. ./   \\  //   \. ./   \\  //   \.
+    | _/  \\//  \_ | | _/  \\//  \_ | | _/  \\//  \_ | | _/  \\//  \_ |
+    `-|    \/ t^ |-' `-|    \/ dNo|-' `-|    \/ Mt |-' `-|    \/ oRL|-'
+      |          |     |          |     |          |     |          |
+      |          |     |          |     |          |     |          |
+      |          |     |          |     |          |     |          |
+      |          |     |          |     |          |     |          |
+      |__________|     |__________|     |__________|     |__________|
+
+      ____________     ____________     ____________     ____________
+    ./   \\  //   \. ./   \\  //   \. ./   \\  //   \. ./   \\  //   \.
+    | _/  \\//  \_ | | _/  \\//  \_ | | _/  \\//  \_ | | _/  \\//  \_ |
+    `-|    \/sPOt|-' `-|    \/ zNR|-' `-|    \/ ?? |-' `-|    \/    |-'
+      |          |     |          |     |          |     |          |
+      |          |     |          |     |          |     | fOR rENT |
+      |          |     |          |     |          |     |          |
+      |          |     |          |     |          |     |          |
+      |__________|     |__________|     |__________|     |__________|
+
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+    l o k k - u u h t ! - b a d - s t a i i l e - k o m m i n g - a p p
+
+    l o k k - u u h t ! - b a d - s t a i i l e - k o m m i n g - a p p
+
+    l o k k - u u h t ! - b a d - s t a i i l e - k o m m i n g - a p p
+
+    l o k k - u u h t ! - b a d - s t a i i l e - k o m m i n g - a p p
+
+    l o k k - u u h t ! - b a d - s t a i i l e - k o m m i n g - a p p
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                   _______
+  dNo:\\  - - ----- - ----      ___\_____/----------------------------.
+                                  \ oo  /                             |
+                                 .-\_-__\-. l o g o t y p e s . t x t |
+                                 `-. __ .-ï                           |
+- http:\\ - --- -  --- ----------- `-ï`-ï-----------------------------ï
+
+                              oooo1   c o m p o resaults [*] king stick
+                              oooo2   d s ! trainstation [*] 4 trivial
+                              oooo3   k e y board skills [*] 4 you!
+                              oooo4   u p r o u gh + boy [*] spot^uP&dS!
+                              oooo5        a e r o s o l [*] h7/tRSi
+                              oooo6          v i r t u e [*] h7/tRSi ?
+                              oooo7         d d s fileid [*] h7/tRSi ?
+                              oooo8                d d s [*] h7/tRSi ?
+                              oooo9   D e a d Drunken S* [*] h7/tRSi ?
+                              oooo9          r e d demon [*] rD!/WEED!
+                              ooo1o    m o r t i mer tee [*] Mt/dS^uP
+                              ooo11    m a c - c l assic [*] Mt/dS^uP
+                              ooo12         t r i v i al [*] t^/dS!
+                              ooo13        s p o t + boy [*] spot/uP&dS!
+                              ooo14      p u n i s h e r [*] punisher
+                              ooo15        d a r k a g e [*] punisher
+                              ooo16      n a h - k o lor [*] punisher
+                              ooo17        s p e c t e r [*] punisher
+                              ooo18     s p e c t er diz [*] punisher
+                              ooo19              v o i d [*] punisher
+                              ooo2o          v o i d diz [*] punisher
+                              ooo21      u n i v e r s e [*] poshkii
+                              ooo22            m e t r o [*] dedc
+                              ooo23      m i d n i g h t [*] db3st
+                              ooo24          d a e r o n [*] 4 daeron
+                              ooo25        t h e y a r d [*] zaner
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                        c o m p o - r e s a u l t s }-------ï
+             .                                                .
+
+
+                    .
+
+                                         .
+
+                                                               .
+                                         .
+                      .
+
+
+
+
+
+                                                           .
+                       .                 .
+           .
+            .
+
+                                   .
+
+                .                        .
+                         .
+
+
+
+                   .        .     .               .
+                          .
+                    .     .             .             .
+.-dNo----------------------------------------------------------.  ________
+| ______     ______    ______         ________     _________   |  \______/___
+|/     /__ ./     /_ ./     /_______./       /__ ./        /__ |  ( =_o  \
+|   _____/ |   /_    |     \/       |       --_/ |    /_     / |  _`------ï_
+`----------ï---------ï-----/_____/--|______/-----ï-------------ï `-| ____ |-ï
+                                                 r e s a u l t s   `-`  `-ï
+                .               .   .
+                                            .
+                                           .
+                        .
+                       .
+                                    .
+                                .               .
+
+
+                 .
+                                         .
+                         .
+
+
+                          .                               .
+
+
+
+
+             .                                 .
+
+
+
+                                                           .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                    d s ! t r a i n - s t a t i o n }-------ï
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+
+                                 .      .
+                         .                      .                    dS!
+                   .                                .
+                .      d i v i n e - s t y l e r s     .
+    ________ .  __________      ___________      ____    ._____
+  _/       /_ ./         /___ ./    __    /___ ./___/__ ./    /__________.
+  \_       _/ |        --- _/ |     __       / |      / |      __        |
+   `----------ï-----ï---------ï------ï---------ï--------ï-------ï--------`__
+         .                                                    .          _\/_
+   _____      ______    _______     ______    ____     ______     ____   \/\/
+ _/  __/___ _/     /_ ./  __  /__ _/     /_ ./___/__ ./     /__ ./   /_______
+.\______  / \_     _/ |   __    / \_     _/ |      / |  /_    / |     __     |
+`------------ï--------ï----ï-------ï--------ï--------ï----------ï------ï-----ï
+               .                                         .
+                 .                                     .
+       dNo          .                               .
+                         .                      .
+                                 .      .
+
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                     m e s s a g e  }-------ï
+    .
+                                                      .
+        .                      .
+                                                               .
+    .                .              .
+                                               .
+            .                                                .
+                        .
+  .                                                                       .
+                                         .              .
+
+      .             .             .         .
+                                                                    .
+               .
+                                                   .
+                                             .
+                .
+                                                              .         .
+       .                      .
+
+                           .
+                                                       .           .
+                  .
+     .                                  .
+
+                                                                         .
+                                                      .
+                       .                                             .
+             .                the character in the split-logo is
+                              holding a lolliepop for you.. en, joy!
+
+    .             .                          \
+                                                     ._/\_.    .       .
+                             .                      (o    o)
+                                    ._._._._._._._._|      |
+         .            .       _._._.|               `O----Oï
+                             `-----------\/\/---------\/\/ï
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+                                                       .
+                    .                   .                      .          .
+           .
+
+     .                                          .
+                             .                                        .
+                                     .                         .
+          .             .
+   _________                           .
+ __\_______/_
+   (_ Oo   _/  O                                       .                  .
+  .-`--o---ï--.|.           .           .
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                        k e y b o a r d - s k i l s }-------ï
+
+
+
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+                       .                    .              .
+      .         .......          .........
+                :     :          :   ....:..........................
+        .       :.....:       .  :...:...:             .           :   .
+.         .....                      :                       .     :
+          :...:           .       .  :                .            :      .
+  ____  .  ____     ____     _____   : _____     _____     ____    : ______
+./   /___./ __/__ ./   /__ ./  _ /__ :/    /__ ./ __ /__ ./   /___ :/  _  /__
+|  _    _|    __/ |___/  / |   __  / |  /_   / |  __   / |  __ -_/ |   /    /
+`--\____\ï--------ï--------ï---------ï---------ï---ï-----ï---ï-----ï-------.
+                      _______  .  _______     ____     _____    _______ dNo|
+  k   e  y  b oard  .(    __/__ .(      /___.(___/__ .(    /  .(    __/__  |
+         s  k  ils  |______   / |    _     _|      / |    /   |______   /  |
+      :             `-----------:----\_____\ï--------ï--------ï------------ï
+.     :   .          .          :             .   .....          .
+      :     .               ....:....   .         :...:                  .
+   .  :.....................:...:   ;          .            .
+     .                      :.......:                               .
+                                                       .
+                                .
+
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                              u p r o u g h + b o y }-------ï
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+                               o
+                            o o  o
+    dNo^dS!    ______      o O  O o
+              _\_____\__    O o   o
+              \ o.O  /     O o  O o
+             _/_-___/_       / o O    u p r o u g h  -  u p r o u g h
+     _________/_--_/________//_________________________________________
+    | _____    _____     _____     _____    _____    _____    _____    |
+    |/    /_ ./    /__ ./    /__ ./    /_ ./    /_ ./  __/_ ./    /___ |
+    |    / / |    --_/ |  __--_/ |  /_  / |    / / |  /_  / |   __   / |
+    `--------|___/-----'---'-----'--------'--------'--------'-----'----'
+
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                     a e r o s o l  }-------ï
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              .               .
+                    .                                 .
+              .                 a e r o s o l               .
+        .                                                       .
+  _____     ____     _____     _____     _____     _____     ____     ____
+./ __ /__ ,/ __/__ ./    /__ ./    /__ ./  __/__ ./    /__ ./   /__ ./   /
+|  __   / |  ____/ |  __--_/ |  /_   / |_____  / |  /_   / |   /  / |   /_  |
+`---'-----'--------'---'-----'---------'---------'---------'--------'-------'
+        .                                                       .     dNo
+              .                                             .
+                    .                                 .
+                              .               .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                        v i r t u e }-------ï
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+                                             _____
+                                            (____/__
+                                            |oO [_
+                                        __o_(^___/_      _ __    __
+                                   (c)  \_|-.'   _/- \///  / /_//_--
+                                  .---------'---`------------------.
+       ____       ____    _____   | _____    ______     _______ dNo|
+      .\   \___ ./___/_ ./    /__ ./    /_ ./     /__ ./  ____/__  |
+      |     \   |     / |  __--_/ |     _/ |     /  / |  _______/  |
+      `---------'-------'---'-----'--------'----------'------------'
+      |                           |  *   v   i   r   t   u   e   *
+      `---------------------------'
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                     d d s - fileid }-------ï
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+.----[ * Dead Drunken Spaniards * ]--------.   1
+|                                          |   2
+|                                          |   3
+|                                          |   4
+|                                          |   5
+:                                          |   6
+.________     ________     __________      |   7
+.\  ___  \__ .\  ___  \__ .\   _____/__    |   8
+|    _/    / |    _/    / |_\______   / dNo|   9
+`------------'------------'----------/-----'  1o
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                              d d s }-------ï
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+.-dNo-----------------------------------------------------------------//---.
+.________     ________     __________                                      |
+.\  ___  \__ .\  ___  \__ .\   _____/__                                    |
+|    _/    / |    _/    / |_\______   /                                    |
+`------------'------------'----------/-- - - Dead Drunken Spaniers (C) - - |
+                                    /______________________________________|
+
+
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                D e a d - D r u n k e n - spaniards }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+
+            ______     ______    _______     ______
+           .\  __ \__ .\  __/__ .\  __  \__ .\  __ \__
+           |   _/   / |  _____/ |   __    / |   _/   /
+  dNo^dS!  `----------'---------'----'------'-----------. S P A N I A R D S *
+ ______     ______     _______     ______     _____     |______    _____
+.\  __ \__ .\     \__ .\     /___ .\     \__ .\    \__  |\  __/__ .\    \__ .
+|   _/   / |   __--_/ |     /   / |   __   / |   __  -'-|  _____/ |  __   / |
+`----------|----'-----'-----------'-----'----'----'-----:---------'----'----'
+           |                                            |
+           `--------------------------------------------'
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+
+
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                    R E D d e m o n }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+  _______ dNo _______     _______
+./      /__ ./   ___/__ ./   __  \__ .------------------------------------.
+|    __--_/ |  _______/ |   __/    / |                                    |
+`-----'-----'-----------'------------'    b a n a n a  -  t r a i n s     |
+                                                                          |
+                                            c o f f e  -  s h o p s       |
+      _      _______      _______     ______       _______     _______    |
+     //    ./    __ \__ ./   ___/__ ./     /____ ./      /__ ./      /__  |
+           |    __/   / |  _______/ |     \/   / |   _/    / |    __   /  |
+           `------------'-----------'-----/______|-----------'-----'------'
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                M o r t i m e r tee }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+
+             =  d i v i n e  s t y l a z z  =  u p r o u g h  =
+   _____     _____     _____     ____    ___     _____     ____     _____
+ ./    /__ ./    /__ ./    /__ ./   /_ ./__/__ ./    /__ ./ __/__ ./    /__
+ |    /  / |  /_   / |  __--_/ |    _/ |     / |    /  / |  ____/ |  __--_/ |
+ |---\/    |---------'---'-----'-------`-------'---\/    |--------'---|-----'
+ |   /_____|      _______________                  /_____|            |
+ |                \__         ___\____________                 dNo^dS |
+   BlockBusta'     \/        /      _________/\______________         |
+  TEE is Back! ----/________/      _________/     __________/\        |
+                   \       /_______________/     __________/\ \-------'
+                    \______\              /_______________/\ \/
+                            \_____________\               \ \/
+                                           \_______________\/
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                              M a c - C l a s s i c }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+  ______ (C)  ________    _________      m o r t i m a ' m a c l o v v a h
+./     /___ ./  __   /_ ./        /__ .-------------------------------------.
+|     /   / |   __    / |   ________/ |                                     |
+`----\/     |----'------'-------------'                                     |
+     /______|                            m A C - c L A S S i C - e L i T E  |
+                                                                            |
+      _____     ______    ________    ______     ______     ____    _____   |
+    ./    /__ ./     /  ./  __   /_ ./  ___/__ ./  ___/__ ./___/_ ./    /__ |
+ dNo|   ____/ |     /_  |   __    / |______  / |______  / |     / |  _____/ |
+    `---------'---------'----'------'----------'----------'-------'---------'
+
+
+                                            * here's your mac classic maan! *
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                      T r i v i a l }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+                                                                   _____
+            .------------------------------------------------.    (____/__
+            |                                                |    _Oo /_
+      (C)   *  o r i g i n a l   d i v i n e  s t y l a z z  *  --\.___|_
+      ______.   _______     ____    ____     ____    ______  . ____    .-'
+    ./     /_ ./      /__ ./___/_ ./   /__ ./___/_ ./  __ /_ |/   /  % |
+    |     __/ |    __--_/ |     / |   /  / |     / |   __  / |   /_    |
+    `---------'-----'-----'-------'--------'-------'----'----'---------'
+            |    f l o w p e n s   n'  s p r a y c a n s     |
+            |                                                |  dNo^dS!
+            `------------------------------------------------'
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                            S p o t }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+    _________
+  __\_______/_
+    (_ Oo   _/     s     p      o  t     -    - ------------------------.
+   .-`--o---ï--.O_                                                      |
+   |dNo     .--|_/                                                      |
+   | _______     _______     _________     ______________               |
+   |/   ___/__ ./      /__ ./        /__ ./             /_    dS!  uP!  |
+   |______   / |      --_/ |    /_     / |              __/             |
+   `-----------'-------/---'-------------'------------------------------'
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                    p u n i s h e r }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+
+_ dNo_____________________________________________________________________ _
+|                                                                          |
+|           p      u      n      i      s      h      e     r              |
+| _____     ____     ______     __    _____     _____     ____     _____   _
+_/    /__ _/   /__ _/     /__ _/_/_ _/  __/__ _/    /__ _/  _/__ _/    /__ |
+|    --_/ |   /  / |  ___   / |   / |____   / |  __   / |  ____/ |  __--_/ |
+`-----/---'--------'----'-----'-----'---------'---/_____|--------'---'-----'
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                      d a r k a g e }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+  _____ dNo ______     ______     _____     ______     _______     ______
+_/ __  \_ _/ __  /__ _/     /__ _/    /__ _/ __  /__ _/    __/__ _/   __/_-.
+|  _/   / |  __    / |  __ --_/ |   _  _/ |  __    / |    /_   / |  _____/ |
+`---------'---'------'---'------'---/_____|---'------'-----------'---------'
+                                          d a r   k      a       g         e
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                  n a h - k o l o r }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+             ________       _________       ________        ________
+       _   _/       /__   _/   __   /__   _/       /___    |        |
+     .-\\--|    ___   /   |    __     /   |   ___     /    |        |
+     |     `------'-------'-----'---------'-----/__________|        |
+     |                                                              |
+     |           n a h . k o l o r . n o . c o l o r s              |
+     |    _____     _______     _____   _______     ________        |
+     |  _/    /__ _/      /__ _/    / _/      /__ _/       /__      |
+     `--|  __  _/ |  /__    / |    /  |  /__    / |   __  --_/ dNo  |
+        `---/_____|-----------'---/---'-----------'----/____________|
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                      s p e c t e r }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+
+
+                            _________                                 .
+                           _\_______/
+                             oO----//
+                           _|”_____/-.  s    p    e    c    t    e    r
+                          `-|        |
+   - - - - -----------------'--------'------------------------------------.
+     ____     _____     _____     ____     ______    _____     _____     |
+   _/ __/__ _/    /__ _/    /__ _/   /__ _/     /_ _/    /__ _/    /__   |
+   |____  / |    --_/ |    --_/ |   ___/ \      _/ |    --_/ |  __--_/dNo|
+   `--------'-----/---'---------'--------'---------'---------'---/_______|
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                  s p e c t e r diz }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+
+  ___   ___   ___   ___   __   ___dNo___        1
+_/ _/__/  /__/  /__/  /__/ /__/  /__/  /_  _    2
+|___ /|  -_/|  -_/|  __/\  _/|  -_/| _-_/  |    3
+|-----'--/--'-----'-----'----'-----'-'-----|    4
+| s     p     e     c     t     e    r     |    5
+|                                          |    6
+| presents                                 |    7
+|                                          |    8
+|                                          |    9
+`------------------------------[o1/o5/2o]--'   1o
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                            v o i d }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+  dNo _______       ____________      ___________    ____________
+    _/      /___  _/           /__  _/__________/_ _/      __    \__  .--.
+  .-|      /   /  |  /__         /  |            / |     ___/      /  |  |
+  | `-------------'-----------------'--------------'------------------'  |
+  |                                                                      |
+  |  put any info here here here here here here here here here here      |
+  |                                                                      |
+  `----------------------------------------------------------------------'
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                        v o i d diz }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+dNo  ____     _____     ____    _____         1
+   _/   /__ _/    /__ _/___/_ _/  _  \__ _    2
+.--|   /  / |  /_   / |     / |  _/    ///    3
+|  `--------'---------'-------'-------/----.  4
+|       v o i d . p r e s e n t s          |  5
+|                                          |  6
+|                                          |  7
+|                                          |  8
+|                                          |  9
+`--[o1/o1]---------------------[o1/o4/23]--' 1o
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                    u n i v e r s e }-------ï
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              .               .
+                    .                                 .
+              .                                             .
+        .                      u n i v e r s e                  .
+   ____    _____     ___    ____     _____     ______     _____     _____
+.--\   \ _/    /__ _/__/_ _/   /__ _/    /__ _/     /__ _/  __/__ _/    /__
+|   \    |  __   / |    / |   /  / |    --_/ |  __ --_/ |____   / |    --_/ |
+`--------'---'-----'------'--------'---------'---/______|---------'---------'
+        .                                                       .     dNo
+              .                                             .
+                    .                                 .
+                              .               .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                          m e t r o }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+  dNo         .---------------------------------    m e t r o p o l i s
+    ______    | ______     ________    ________      _______________    _
+  _/     /___ _/     /__ _/       /_ _/       /__  _/              /__ //
+  |     \/  / |     --_/ \_      __/ |    __ --_/  |   /_____        /  |
+  `-----/_____|-----------'----------'-----/_______|--------------------|
+                                                                        |
+              `---------------------------------------------------------'
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                    m i d n i g h t }-------ï
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+         ::::::::
+         ::: ::::   ::::    :::::::   ::::::::        ;;;;;;;
+   :::::: :::::::::: :::::::::: :::   ::: :::::::::::::; ;:::::::::
+ dNo  :::::::: :::::::::::: ::::::::::::::::::::::::::::::: ::::::::::::::
+  _____  :: ____    _____ ::: ______ ::  ____::: ______::;:_____ ::  _____
+_/    /__:_/___/_ _/  _  \_:_/     /__:_/___/_:_/  ___/_:_/    /__:_/    /_
+|    \/ / |     / |  _/   / |   __   / |     / |  /_   / |  ___  / |     _/ |
+`----/____|-------'---------'----'-----'-------'---------'----/____|--------'
+         ::::::::::: ::::::::::::::::::::::::::::::::::::: :::::::::::::
+       :::::: :::::::::::::::::::;;;;;; ;;;;;;    ;;;;;;;;m i d n i g h t
+          :::::::: :::::            ::::::::::             :::::::::
+
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                        d a e r o n }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+                               ______
+                               \_____\___
+                                \ =O  (
+                             _o_(_o___/_
+                            [_/-.      /  daeron
+                         .------'    _/----------.
+  _______      _______   | ______     ________   | _______     ________
+_/       \__ _/  __  /__ _/     /__ _/       /__ _/      /__ _/       /__dNo
+|    _/    / |   __    / |     --_/ |   __  --_/ |  /__    / |   ___    / |
+`------------'----'------|----------'----/_______|-----------'-----'------'
+                         |                       |
+                         |   1oo logos for you   |
+                         `-----------------------'
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+   _________
+ __\_______/_
+   (_ Oo   _/  O
+  .-`--o---ï--.|.
+  |(c)     .--ï-`
+.-ï--------ï----------------------------------------------------------------.
+[oOo] - din o - n   o . s  t  yle - [oOo] - divi n e  s   t  y l ers  - [oOo]
+`---------------------------------------------------------------------------:
+                                                      t h e y a r d }-------ï
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+
+
+   ______    _______     ________       _/\_                            dNo
+ _/     /_ _/      /__ _/       /__ .---\__/--------------------------------.
+ |      _/ |  __     / |       --_/ |                                       |
+ `---------'---/_______|------------'   divine stylers whq - uprough whq    |
+                       ________      ________     _________     ________    |
+   t  h  e           _/       /___ _/  ___  /__ _/        /__ _/   ___  \__ |
+         y  a  r  d  |_______/   / |   ___    / |     __ --_/ |     _/    / |
+                     `------/___/--'-----'------'------/______|----------/--'
+                                                                +45askZaner
+                                                                +45askZaner
+                                                                +45askZaner
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+
+                               " I . m i g h t . b e . o l d s c h o o l "
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+                                " b u t . I ' m . n o . o l d . f o o l "
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+        i s n ' t . t h a t . c u t e ? . 3 d e e ' b l o c k a s c i i
+
+
+     ___________________________________________  __   ______  ____________
+    /  __/ _   /  /  / _  /  __/  _/__/ _   /   \/ /  /__/   \/ /  _/ _   /
+   /    /     /  /  /  __/    /  //  /     /      /  /  /      /  _/     /
+  /\___/\____/\_/\_/\___/\___/\_//\_/\____/\_/\__/  /\_/\_/\__/\_/ \____/
+ / /  / /   / // // /  / /  / /// // /   / // / /  / // // / / //  /   /
+ \/__/\/___/\//\//\/__/\/__/\// \//\/___/\//\/_/dNo\//\//\/_/\// \/___/
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+     [ ha . ha ]
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                           - d a t t . w a s s . r a r e
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+
+ a l l . i   n     f        o            o                   o
+ ------------------------ - -
+ aka nonsence.
+
+
+ soft w   a    r     e  :\\ a   m   i  e dit 4 dos 3.o
+ earc a   n    d     y  :\\ d   e   l  a soul . a.o.i:mosaic thump (album)
+                            b   o   b  m arley . exodus (album)
+                            g   u   r  u s jazzmatazz . streetsoul (album)
+                            l   u   k  e n ieuwalker . lovetheme_from_me.mp3
+                            c   o   v  e n ant . tour the force . cosmo mix
+                            k   r   a  f t werk . computer_love.mp3
+                            k   r   a  f t werk . more_fun_to_compute.mp3
+                            k   r   a  f t werk . pocket_calculator.mp3
+                            B   j   ”  r k . all_is_full_of_love(strings).mp3
+                            a   p   o  p t ygma berzerk . kathys_song.mp3
+                            b   e   e  n i e man . every_falls_in_love.mp3
+                            b   e   e  n i e man . who_am_i.mp3
+                            a   n   t  h o ny B . Universial_Struggle.mp3
+ tv sh   o    w      s  :\\ j   e   n  n y jones, in the background.
+                            r   i   c  k y lake, also in background.
+                            v   a   r  i ous crappy mtv shit, bground aswell.
+ org. b y t e  s        :\\ 1   1   1  , 500
+ log  o s               :\\ 2   5
+ pap  e   r   s         :\\ o   r   i  ginal kingsize rizla
+ smo  k   e             :\\ 5   0   -  5 0 tobbacco . orange haze.
+ hel  l   o   o      o  :\\ m   o   r  t imer twang
+                            t   r   i  v ial
+                            o   r   l  i ngo
+                            d   i   p  s witch
+                            d   a   e  r on
+                            j   u   c  k e
+                            t   a   p  e r
+                            s   k   y  h awk
+                            b   o   o  g er
+                            s   p   o  t
+                            e   m   a  n uel servo
+                            l   o   r  d chaos
+                            m   a   r  t inone
+                            m   a   r  t inez
+                            z   a   n  e r
+                            m   a   l  e ek
+                            c   a   s  e
+                            r   e   d  d emon
+                            r   a   n  x
+                            g   o   t  o 80
+                            p   o   i  s on
+                            m   u   r  d er
+                            a   l   l  w riters I know.
+                            a   l   l  o thers.
+ gro u  p        s      :\\ d   i   v  i ne stylers
+                            j   e   d  i arts
+                            u   p   r  o ugh
+                            m   i   x  o rama
+ lov    e               :\\ g   i   r  l friend: ame one
+                            a   n   i  m als
+                            h   u   m  a ns
+                            s   p   a  c e people
+                            c   u   l  t ure
+                            v   a   n  d alizm art
+ fav o r  i   t   e http:\\ k   l   u  s ter.org
+                            s   t   a  d skonst.com [soon.online]
+                            s   o   u  l tools.ibox.de
+                            u   p   r  o ugh.com
+                            c   o   n  c rete.cetus.net
+                            h   i   p  h op.just.nu
+                            a   k   a  y ism.com
+                            s   t   i  c kernation.net
+                            u   n   d  e rground-productions.se
+                            b   o   m  b er.nl
+ end.
+
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+o r i g i n a l . f i l e i d . d i z
+t h e . s i g n . f o r . q u a l i t y . f u n !
+
+
+                                       .
+@BEGIN_FILE_ID.DIZ   .--[asc2]-- aµææø -[ d¡ViNE sTYLERs ]-.
+   |           ¬ØØØØø   ________.        |
+   ¦  µæØ*ÑØØÑæµØØØØ#ø ØØØØØE      ©Mt   ¦
+   ·gØØØ#   ¬¶ØØØØØØØF °¤ØÑØ#ææµµ____    :
+   øØØØØL     °ØØØØØ# ¸µæµææ¯¬°¶ÑØØØØØæw··
+ mØØØØØr     ___ØØØØØWØØØØØF      ¬¶ØØØØØ#w
+øØØÑÑØØ--'°¬"¯¯  ¬""ÆØØØØØK________.Ø#ÑØ#ØØø
+   |-------------------------------------|
+   |     divine stylers aka uprough      ¦
+   |    d i n o  - n o . s t y l e !     |
+   `-------------------------------[1/2]-'
+@END_FILE_ID.DIZ
+
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+    nothing is as bad as the end...
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .                         .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+                                                                      .
+      .                  .                      .
+                     .                  .
+                                            .
+
+            .
+
+                                                              .
+                                                                      .
+      .                  .                      .
+                                      .                         .
+                        .
+    .                                  .
+         .                                      .                      .
+
+                             .
+
+             .                                                   .
+
+                                                                     .
+                     .                  .
+                                            .
+
+            .
+                                       .
+                                                              .
+                                                                      .
+      .                  .                      .
+    _______
+   (______/_
+dNo|   =0 |
+ o-'___^o_| - end! EEEEEEENDDDDDDDDDDDDDDD!!!!!!!! EEEEENNNNNNNDDDDDDDDD!
+ `-.   `` |
+   |------|
+-- `-'  `-' -----------------------------------------------------------eof-.
+start://stylish.bbs.adds
+
+                                              ¡ "bEYONd thE EdGE Of REAlitY..."
+>> ¡ -------------------------------------- - |.
+  .|                                          ||
+  ||  AEROhOliCS / MO'PlAYAZ / dREAM thEAtRE  !| _
+  |!  MANGOO / AEROSOl / diSCiPlES OF AGEEMA   | ;
+  |                   bAd kARMA / ARCAdE WHQ   |   _
+  |                                            |   ;
+  7    liGHtfORCE / ROYAl lOW PROfilE / SOiA   |
+  :          UP ROUGh / PUNGAS / 1OO PERCENt   |
+  ¡       tEQUilA / PhUNk GHQ / PhANtASY EHQ   |
+_ |                                            | "...dON't PlAY US ChEAP!"
+; |   AMiGA/ASCii/GRAffiti/dRUGS/N64/GAMEbOY   !
+  |   GAMEbOY COlOR/NEOGEOPOCkEt/SNES/OldiES    ___.     ______.      drn\lp!
+  |   PSX/PS2/dC/SEGA/MP-ThREE/ChiPtUNES/MOd   \\  !___  \     !__ _ _ ________
+  |   =C64/SPECCtRUM/AtARi-8/cPc/liNUX/*NiX!   \\  .__/--\\   ._   \ / ._     /
+  |                                            _\  ;/     \   !/    \  !/____/_
+  |   PRiVAtE SYStEM With thREE diAlUP NOdES   /___/     _____/     __ /    __\
+ _!   fiVE BlAStiNG 24h tElNEt NOdES ON ADSL       `----'     `----'  `----'
+\\;     . ______   ___ _ _ _________   _______                              ¡
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   Y A R d   _______,|
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\   ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\   !
+     ,_____\     `----'  `----\      `----'
+
+
+
+ .------------------------------------------------------------------\\---.
+ |                                                                   \\  |
+ |     :____.              .____.              .____.                 \\ |
+ |     |    |____  _______ |    |     ________ |    |      _______     \\|
+ |__ _ |    |    |_\__.   \|   _|___  \___.   \|    |    ._\__.   \_ _ _\\
+ |     |    |    |    |    |   \_   \_    |    |    |   _|    |    |     \
+ |     |    |    |    |    |    |    |    |    |    |__/ |    |    |     |
+ |     |    |    |    :    |    |    |    |    |    | /  |    |    |     |
+ |     |    :    |    .___/|    |    |    :    |    :    |    :    |     |
+ |     |         |    |    |    |    |         |         |         |     |
+ |__ _ |         |    |    |    |    |         |         |         | _ __|
+ |     ¯\_______/|____|    |____|    |\_______/¯\_______/|________/¯     |
+ |                              |____|                                   |
+ |                              :    :                                   |
+ |           .____.                  .____.              .____.          |
+ |   ________|    |      _________   |    |      _______ |    |  .____.  |
+ | _/        |   _|___ ._\  _____/   |    |    ._\__    \_    |  |    |  |
+ | |    .    |   \_   \|    __)__    |    |   _|    |    |    |  |    |  |
+ | |____|    |    |    |    |    |   |    |__/ |    .    |    |  |    |  |
+ |      |    |    |    |    |    |   |    | /  |    |    |    |  |    |  |
+ |      |    |    |    |    :    |   |    :    |    |    |    |/\|    |  |
+ |      |    |    |    |         |   |         |    |    |    :  :    |  |
+ |      |    |    |    |         |   |         |    |    |            |  |
+ |      |____|____|    |\_______/¯   ¯\_______/|____|    |\____/\____/¯  |
+ |                |____|                            |____|·AbN·          |
+ |                :    :                            :    :               |
+ |                       dA uLTiMaTe dEMo BBS for:                       |
+ |                                                                       |
+ | aMiGa · pC · mAC · aRCHiMEdEs · cONSoLe · aScII  ( c64 & aTaRi sOOn ) |
+ \                                                                       |
+ \\          Node 1 :             Node 2 & 3 :         Node 4,5,6 :      |
+ |\\     USR V.90 I-Modem          Euro  ISDN           24h Telnet       |
+ | \\   +49-(0)30-44730311     +49-(0)30-44730312     remedy.yi.org      |
+ |  \\                                                                   |
+ `---\\------------------------------------------------------------------'
+
+
+                                             [mULTI-cHECK v1.5 by SieGeL/tRSi]
+
+                                              ¡    fOR pLEASURE sINCE 1996
+>> ¡ -------------------------------------- - |. - ----------------------- -
+  .|  w  o  r  l  d    h e a d q u a t e r s  ||
+  ||     bad karma - phantasy - up rough      !| _
+  |!   divine stylers - dtr - ageema blues     | ;
+  |      aeroholics - black maiden - mvp       |   _
+  |                                            |   ;
+  7   g e r m a n  +  e u r o p e a n  h q's   |
+  :    lightforce - oldskool - rising sun      |
+  ¡   supplex - royal - soia - low profile     |
+_ |    drunken - 1oo% - true school - asl      | "...dON't pLAY uS cHEAP!"
+; |                                            !
+  |   amiga/ascii/graffiti/handheld consoles    ___.     ______.    drn\lp!
+  |    n64/snes/gb/gba/ngp/wsc archive/ngc     \\  !___  \     !__ _ _ ________
+  |    apple macintosh/pc audio-gfx apps/dd    \\  .__/--\\   ._   \ / ._     /
+  |     =c64/atari/speccy/sample soundbank     _\  ;/     \   !/    \  !/____/_
+  |                                            /___/     _____/     __ /    __\
+ _!   daydreaming on 5 telnet nodes. 24h/day.      `----'     `----'  `----'
+\\;     . ______   ___ _ _ _________   _______                            ¡
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   y A R d _______,|
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\ ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\ !
+     ,_____\     `----'  `----\      `----'     theyard@graffiti.ag

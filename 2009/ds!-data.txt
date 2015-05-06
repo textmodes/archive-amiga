@@ -1,0 +1,763 @@
+                     .                                   .
+
+               _ __. :____ _ _______ __ ____: ___ _______.__ _
+                 _\|\|   \ _/   __  \ _/    |_   _/   __ |/_
+            __ _/  : \    \\_   |/   \\_   __/___\_   |/ :  \_ __
+            \_\\__  __   _/|    /   _/|     |  _/|    /    __//_/
+           _:__ /   \|     _    |     _     |    _    |     \ __:_ _
+         __ |  /     \     \_   |     \_    :    \_   |      \  | __
+        /_/\|/\\___________//___|     //_________//___|______//\|/\_\
+        \_\//__\_ _          _ _|____/©d                  _ _/__\\/_/
+        _ __:______ _ ____: ____:________ __ ________ _ ____  __:__ _
+          _\| _   \ _/    |_   _/        \ _/   __   \ _/   \/  |/_
+     __ _/  : |____\\_   __/___\_   __    \\_   |/    \\_       :  \_ __
+     \_\\_______    |     |  _/|    |/   _/|    /    _/|    \_/   __//_/
+         /    |/    _     |    _    /      _    \      _     |     \
+        /     /     \_    :    \_          \_    \     \_    |      \
+      /\\     ._____//_________//__________//____|\____//____|      //\
+      \_\\____|______                                  ______|_____//_/
+              :     /_ [ d A T A s T O R m  2 o 1 o ] _\     :
+              .                                              .
+
+ DATASTORM 2010 - THE ULTIMATE WINTER BATTLE - FEB 5-7 2010 GOTHENBURG/SWEDEN
+    .                                                          . .
+  .   .       .           THE OFFICIAL INVITATION            .     .
+   .:.                                                        . : .
+_ __:____ __ ______ __ ______ __ _____ __ _____ __ _____ __ ____:_ _____ ___
+©d_\|__  \ _/  __  \ _/  __  \ _/  __/_ _/  __ \ _/  _  \ _/  __|/_ ÷   \\ (_.
+_/  :|/   \\_  |/   \\_  |/   \\_      \\_  |/  \\_  |___\\_  |/:  \_    ¯   |
+\__  /_______  /   _/_   /____/_   _______  /  _/_   |    _   /_____/ PrEfAcE|
+÷/      \--/   \     \_        \_    \--/   |    \_  :    \_       \ _   ÷  _|
+_\______//\\___|\____//________//____//\\___|____//_______//_______///     ( :
+:  °        . .:. .  ÷                .  .  :  .  .                   ¯¯¯¯¯¯ |
+|              :              °           . : . ÷                         °  |
+|_ Sweden has since 1998 been blessed with the world's greatest summer   ÷   |
+_/ party - Little Computer People - delivering hot data action for the       |
+|÷ oldskool crowd year after year. While we are grateful to the Hack'n'Trade |
+|  posse for having us boozing, computing, and socializing each year, we     :
+|  curse them for the hardcore one year data-abstinence they inflict upon    |
+|  us inbetween each party...    ÷                                       °   |
+|                                          °           ÷                     |
+|  Since we obviously can't get rid of the addiction, we have now decided    |
+|  to accept it and even take it to the next level by doubling the dose! ÷  _|
+|  The wintertime withdrawal syndromes have finally come to an end for all  \_
+:  you oldskool fanatics: The absolute swedish elite has gathered to bring   |
+|  you the best fucking fix of Amiga/C64/Console axxion ever! ÷              |
+|                        °                                        ÷          |
+|  Up Rough Soundsystem, Genesis Project, Divine Stylers and SceneSat Radio  |
+|  hereby invite you to DATASTORM 2010! The ultimate winter party for people |
+|÷ operating on machines  with S-O-U-L going down the 5-7 February 2010!     |
+|                        ÷                  °                             ÷  |
+|  The party location is the city of Gothenburg at the swedish bestcoast -   |
+|  the stronghold of the swedish amigascene. The city is easy to reach       |
+|_ through two international airports, ferry and train.  ÷                   |
+_//             °                                                            |
+|. The entrance fee is set to 200 SEK (~20E). This includes dinner on        :
+|. Saturday and breakfast on Saturday and Sunday.                            |
+:|_           .    ÷                  .                                      |
+|_ )     ÷     .                 ° . . .            °        .              _|
+· )¯¯ ¯       .:.                    .                   /\ .:.     °      (°·
+÷ ¯¯¯¯¯¯¯¯¯¯¯¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯...¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ÷¯ :¯¯¯¯¯¯¯¯¯¯¯¯¯¯÷
+  _ __._÷ __ __:_____ __°_____ __ ___: ___ _____ __ ____.__ _:__ ___ __ ____°
+°   _\| \/  \ _/  __ \ _/  _  \ _/   |_ ÷_/  __ \ _/  __|/_©d.\_\___/_/    (_.
+_ _/  :      \\_  |/  \\_  |___\\__ __/__\_  |/  \\_  |/:  \_ _((   \ ÷  ___ |
+\\\__  \_/  _/_   /  _/______   _    |   _   /___/_   /  ___/// \\ !!  _(   )|
+:_ /    |     \_  |    \_  |/   \_   :   \_       \   \    \ ___((__-)_\_)_/ |
+|\ \____|_____//__|____//_______//_______//_______/___|\___/ \ __    _(_//   |
+| ¯     ·         · _ __.____ __ __. ___ _____÷__ __ .__.__ _ \\_)   (--' ÷  |
+: ÷              ÷    _\|__  \ _/  |÷  _/  __ \ _/  \|  |/_  ( \ \  .  ©Mt   |
+|_ [ mAsTeRpLaN ] _ _/  :|/   \\_  |___\_  |/  \\    \  :  \_`---'____) ÷    :
+_/                \\\__  /_______  |   _   /  _/_   \ \   __///_(( _))___    |
+|_    ÷   _   ÷    _ /      \--/   :   \_  |    \_   \     \ _(__ /______)_ _|
+| )       \\       \ \______//\\_______//__|____//___|\____/ /____________\\\_
+| ¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯ ¯  ÷                   ·         :      ¯         _ __   |
+|                                                   ···  ÷           ___ (_  |
+| ÷   /\                - Friday 5th Februrary -    °·              /\__\  | |
+|_ _ /  \                                          · · ·            \/__/  · |
+_/// ¯¯¯¯          °    17.00 The doors open, the bashment begins.         · |
+|                       23.00 Packdisk Open                                  |
+|          ___                                        °             ÷        :
+|     ÷   /__/\         - Saturday 6th February -                       °    |
+|         \__\/                                                              |
+|                       15.00 Deadline Graphics & Ascii                      |
+:                       16.00 Deadline Music                                 |
+|                °      17.00 Deadline Intro                ÷       /\       |
+|                       18.00 Deadline Demo         °               ¯¯       |
+|                       21.00 Compo begins                                _ _|
+|             ÷                                                           \\\_
+| .   °         __      - Sunday 7th February -       ÷                      |
+| .             \/                .                            _      °      |
+| |_                    12.00 The party is over.              (_)        .   |
+|_  )     ÷                     .   .                                ÷  . . _|
+· ) ¯¯ ¯                         .:.                     /\              : ( ·
+÷ ¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯÷ ¯¯¯¯¯¯¯¯¯¯¯¯¯.:.¯ ÷
+_ __:____÷__ _____ __ _____ __÷___: ______ .__ __ ______ __ _____ __÷____:__ _
+ __\| __/_ _/  __ \ _/  __ \ _/   |_ ÷_____|  \ _/  __  \ _/  __ \ _/  _ |/__
+\\__:     \\_  |/  \\_  |/  \\__ __/__\_   \   \\_  |/   \\_  |/  \\_  |____//
+ ÷/   _______  /___/_   /  _/_    |   _   _/  _/_   /   _/_   /___/______  \÷
+._\     \©d/        \_  |    \_   :   \_  \|    \_  \     \_       \_  |/  /_.
+\\_\____//\\________//__|____//_______//________//__|\____//_______//_____/_//
+:                   .   :   .                     ° :                        :
+|_ ___ _      °        .:.                         _|_  [ f E a T u R e S ]  |
+_//  ///           .  . . .  .        °     ÷       · )                      |
+| ¯¯¯                  . .                            ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|  You know that when we do stuff, we do it right, and this time we have °   |
+|  put in extra effort to make that dreary weekend in February something     |
+|  special.                                           ÷                   _ _|
+|                          °                                              \\\_
+:  The party will be hosted at a night club in an industrial complex, close  |
+| °to the centre of Gothenburg, providing that special mix of roughness and  |
+|  cozyness that we all love. In addition to the tables on which to put      |
+|  your real hardware on, although we allow laptops for cross-dev purposes,  |
+|  we have lounge areas with cozy sofas and arm chairs where you can         :
+|  comfortably sit around and talk about that new cruncherroutine you've     |
+|_ been working on for the last decade or whatever...   °                    |
+_//          ÷                                     ÷                      ÷  |
+|  Having the party at a nightclub is something special. The greatest        |
+|  difference from other small parties is that DATASTORM will feature a      |
+|  proper bar with service-minded personnel that works as long as people     |
+|  are awake and will serve thirsty party freax with an endless supply of    |
+: ÷beer, wine, and softdrinks.                                           __ _|
+|        °                    °                          ÷              \\_\\_
+|  But a party is not just about drinking right? We also hired some cooks    |
+|  that will deliver vegetarian and non-vegeterarian breakfast, dinner, and  |
+|  supper on announced times. When the special meals are not served, barfood |
+|  like pizza, hummousrolls, falafel and kebab can be ordered as long as the |
+|  bar is open. Everything to a price that even the scener on a budget can   |
+|  afford! Ofcourse you can also buy snacks, candy and tobacco at all times. |
+|  And the coffee is free, so you don't fall asleep before your releases are |
+|° finished in time for the competition!                     ÷          °    |
+|                                                                            |
+|  Here is a list with all features of the party, more stuff might be added  :
+|_ in the future so stay tuned!           ÷                                  |
+_//                                                                          |
+|   * Bar open almost 24h with full assortment of cheap beer/wine/softdrinks.|
+|   * 2 Breakfasts and 1 Dinner included in entrance fee, vegeterian         |
+|  ÷  alternatives available.  ÷                                             |
+|   * A variety of cheap barfood is available anytime.                   __ _|
+|   * Snacks and tobacco available 24h.                  °              \\_\\_
+| ° * Superchill environment with cozy furniture.                  ÷         |
+|   * 6 clean toilets. No queues! Never pee your pants! Freedom!             |
+|   * Powerful nightclub soundsystem!      ÷                                 :
+| . * Cocktail data - we strive to get the perfect mix of socializing and    |
+| |   computing!            °                                 .              |
+|_ ¯)              ÷                                        .   .      °     |
+: ) ¯¯ ¯                                                 /\  .:.           (¯:
+| ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯ |
+|     _____    ______    _____    _____   _____    _____    __:       _      |
+:    _\__  \ _/  __  \ _/  __ \ _/  _  \ _\   /_ _/  __ \ _/  |      (_) __ _|
+__ _/   |___\\_  |/   \\_  |/  \\_  |___\\_\_/  \\_  |/  \\_  |___       \_\\_
+\_\\______   _   /_______  /___/_   |    _     _/_   /  _/_   |   \_ __      |
+    /   |/   \_     \--/        \_  :    \_      \_  |    \_  :  __//_/      |
+:   \________//_____//\\________//_______//______//__|____//______\©d        |
+|_ __                 _____       :__    _____    _____    __:     ______    :
+_//_/           ÷    _\__  \ _____|  \ _/  __ \ _/  _  \ _/  |_  _/  _ _/__ __
+|  [sPeCiAl --- __ _/   |___\\    \   \\_  |/  \\_  |___\\_ __/__\_  |____//_/
+|  ---- gUeStS] \_\\__  \_   _   _/  _/_   /___/______   _   |   ______  \
+| °     _    ÷      /   |/   \_  \|    \_       \_  |/   \_  :   \_  |/  /   :
+|      (_)          \________//________//_______//_______//______//_____/  ° |
+|                °                                                           |
+|                                             ÷                              |
+:° The grandfather of moduleswappers returns! Slash / Citron. is back! He °  :
+|  will bring his customized hippodecks to deliver the finest zak ever       |
+| .written in Protracker. Bring your boathorns and your guns! This is one    |
+|  show you don't wanna miss! Pull up selecta! Move Rudebwoy Move!       __ _|
+| .                   °     ÷                                   .       \\_\\_
+| |   More stuff is coming.. Stay tuned!        °         ÷                  |
+|_ ¯)       ÷                     .   .                      .  .  .   °     |
+: ) ¯¯ ¯                    °      .:.                   /\   . . .      ÷ (¯:
+| ¯¯¯¯.:.¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯.:.¯¯¯¯¯¯¯¯¯¯ |
+: _ ___: _____ _____ __ ___. ___ ___: ___ ___. __ _____ __ _____:__ ________ |
+__ _/  |____ _/  __ \ _/   |_  _/   |_  _/   |  _/  __ \ _/  _  |/_ __     (_:
+\_\\__ /__  \\_  |/  \\__ __/__\__ __/__\_   |__\_  |/  \\_  |____//_/       |
+  ©d/   |/   _   /  _/_    |   _    |   _    |  _   /___/______  \   [bAtTlEs]
+_ /\\   /    \_  |    \_   :   \_   :   \_   :  \_       \_  |/  //\   _ _   |
+\\\_\\_______//__|____//_______//_______//______//_______//_____//_/____\\_  |
+:----------------:-----------------------------------------------------------:
+|     °         ·:·                                                         °|
+|  The mighty competition is being held at Saturday evening with the winners |
+|  being presented after midnight..                           ÷          __ _|
+|                                                                  °    \\_\\_
+|  Stay tuned for the announcement of compo-prizes! °                        |
+:÷            °                                                              |
+|  The atmosphere when all competitors are present during the compo is       :
+|  unbeatable. Therefore we do not allow remote entries which means that     |
+|  atleast one of the authors of an entry must be present at the party.      |
+|  However, we do allow (and even encourage!) snail mail entries in the      |
+|_ Packdisk Open contest, see below for further details.          ÷          |
+_//                      °                                                °  |
+|  The procedure of handing in your competition entries is as follows:       |
+|                                                   °                        |
+|  * Place your entries on a physical storage media. For Amiga we accept     |
+|    3.5" floppydisks and CF-cards. For C64 we accept 5.25" floppydisks.     |
+|    For other formats we accept whatever media the particular backup unit   |
+| ÷  is designed for (Flashcart/Floppys/CD's). Floppies are kept so keep a   :
+|    backup! If you hand in expensive media (CF:s/Usb-sticks/Laserdiscs) be  |
+:    sure to mark it up with your handle in order to get it back safely.. ÷  |
+|  * Find yourself an application-form and fill it in with information  °    |
+|°   about your release, specific routines for running it, what SID-chip     |
+|    should be used etc. One paper / Entry!                         °        |
+|  * Deliver 1+2 to the compo-staff in the control-booth and only to the __ _|
+|    staff in the control-booth.      °                                 \\_\\_
+|            ÷                                                             ° |
+|  The deadline for handing in compo entries is preliminarily set between    |
+|  15.00 and 18.00, Saturday evening. The voting procedure is similar to the |
+|  one in use at LCP. In short, each entry is given a score from 1 (very bad)|
+|  to 10 (excellent). Blank votes are also allowed, and are ignored when     |
+|  calculating the average score. This means that entries that don't get     |
+|  enough votes might be biased, so if an entry gets less than 10 votes it   |
+| °will be excluded from the results (this is just to guarantee the fairness |
+|_ of the compo, in practice it has never been a problem at LCP).            :
+_//     ÷         °                                                          |
+|  Voting is made on votedisks that will be handed out after the compo. Grab |
+|  a disk and vote on your own computer, or use one of the public voting ÷   |
+|  terminals. After the voting the disks are collected and the score is      |
+|  automagically calculated. We reserve the right to reject lame attempts to |
+|  manipulate the compo in a negative way (such as voting 1 for everyone __ _|
+|  else, and 10 for yourself). °                                ÷       \\_\\_
+|          °                         ÷                 °                     |
+|  We reserve the right to merge compos if we don't get enough entries and   |
+|  split compos if we get enough entries for new categories in addition to   |
+|  those listed below.    ÷                                                  |
+:                                       ÷                               ÷    |
+|  If your platform is not listed among our compomachines YOU are  °         :
+|  responsible for making your work display properly on the bigscreen.     . |
+|  Please also let us know beforehand if you are going to bring exotic       |
+|  hardware..    .:.             °                      ....:              . |
+|                 :     ÷                                 :           °    | |
+|° ÷   :   _°____ :____ ___________ __ ___  ____ __÷______:_ _    .      (¯· |
+|     _ _ _ _/   \|   ¬\ _/   __  ¬\ _/   \/   ¬\°_/     ¬|__÷ _ _ _  ¯ ¯¯   |
+|¯¯°¯ (_) \\\__   \     \\_   |/    \\_          \\_   __ :  \_ _(_) ¯ ¯¯¯¯¯¯|
+|_    _| /\  /   __\   _/|    /_____/|    \_/   _/|    |/   __/// |_ ÷       :
+_//   \| ¯¯ /    \|      _           _     |      _    /     \  ÷ |/ °       |
+|   ÷  :  /\\ _   \      \_          \_    |      \_       _ //\  | _        |
+|      | .\_\\/__________//__________//    |______//_______\//_/. |(_)   __ _|
+|      |_         ° :          ÷  _ _/_____|_ _   °             ° |     \\_\\_
+|      _/ ° _       |\               ______.   [dEmO aNd iNtRo]__ :          |
+|    ° |   (_)   ÷  | \   °   __    /______|  °                \/ |    ÷     |
+:      |_ _______ __|  \ .____\/_ ____: ____ ________÷__ ______:_ |_         |
+|  ÷   :   \    /_ _/   \|   ¬\ _/   ¬|_   _/   __  ¬\ _/     ¬|__:  °       |
+|_ _ _°__ _/\__/¬ \\_    \     \\_   __/___\_   |/    \\_   __ :  \_ __ _ _ _|
+|    (_) \\__    _/|      \   _/|     |  _/|    /    _/|    |/   __// (_)    |
+|   ©d:___ /       _    \       _     |    _    \      _    /     \ ___:dS!  |
+|  ° //  //_       \_    \      \_    :    \_    \     \_         _\\  \\    |
+|   ÷\\__\\/_______//    |\_____//_________//    |\____//_________\//__//    |
+:------------------/_____|-----------------/_____|---------------------------:
+|  __                    :                 ______.                           |
+|  \/               ÷ .  :  .   ___       /______|    ¤        /\    °       |
+|                       ·.·    /\__\             :             ¯¯        __ _|
+|           __         ·   ·   \/__/                                    \\_\\_
+|  °        \/ Amiga Demo                                                    |
+:                                                                   _        |
+|                  * Unlimited size.                               (_)       |
+|    ÷     ¤       * Maximum runtime: 10 minutes.                            |
+|                  * No PPC.                               ÷                 |
+|   _       __                              °                                |
+|  (_)  °   \/ Amiga 64k Intro                                               |
+|                                                                            |
+|                  * Maximum executable size: 65536b.                        |
+|                  * Must quit to WB on LMB.                   __            |
+|                  * No PPC.                 _           ¤     \/            :
+:           __                              (_)                              |
+|_ __       \/ Amiga 4k Intro                                         °      |
+_//_//                                                                       |
+|                  * Maximum executable size: 4096b.                         |
+|                  * Maximum runtime: 10 minutes.                __          |
+|                  * No PPC.                                    /\_\         |
+| /\    ÷          * Must quit to WB on LMB.         /\         \/_/         |
+| ¯¯        __                                       ¯¯                      |
+|           \/ Amiga Bootblock Intro                                         |
+|                                                                            |
+|                  * Maximum executable size: 1024b.                         |
+|      _           * Submit on Amiga-formatted 3.5" Floppy or as         ÷   |
+|     (_)            diskimage.                                              |
+|                  * Maximum runtime: 10 minutes.                            |
+| ¤                * No PPC.                                                 |
+|           __                     ÷                                     __ _|
+|           \/ C64 Demo                             °           _       \\_\\_
+|   °                                                          (_)           |
+|                  * Unlimited size.                                         |
+| ÷                * Maximum runtime: 10 minutes.                            |
+:           __                                           /\                  |
+|           \/ C64 4k Intro                              ¯¯                  |
+|                                                                            |
+|    /\  °         * Maximum executable size: 4096b.                  °      |
+|    ¯¯            * Maximum runtime: 10 minutes.                            :
+|           __                                                              ÷|
+|           \/ Other Platform Demo                                           |
+|_ __                               ÷                                        |
+_//_//             * All platforms accepted except PC/Mac/Nextgen            |
+|                    Consoles..                                         ¤    |
+|        _         * If you can't find your hardware among our gear          |
+|       (_)          you have to bring it to the partyplace yourself.        |
+|                  * Maximum runtime: 10 minutes.                            |
+|                                            .          /\                   |
+|                           ÷               /|          ¯¯   °           ¤   |
+:          °                               /_|                               :
+_°________ __ ______ __ _____ __ ______ __ __. ___ ____ __ _____ __ ________ _
+_ _/   _  \ _/  __  \ _/  __ \ _/  __  \ _/  |___ _\  /_ _/  _  \ _/  _   \_ _
+\\\__  |___\\_  |/   \\_  |/  \\_  |/   \\_  __  \\_\/  \\_  |___\\_  |____///
+ ©d/   \    |   /   _/|   /  _/|   /     |   |/ _/|    _/|   |    |_____  \dS!
+  /    |\   _   \     _   |    _  /______/   /    _      _   |    _   |/   \
+/\\ _  |/   \_   \    \_  |    \_    \ _\_   |    \_     \_  :    \_  /  _ //\
+\_\\/_______//   |\___//__|____//____//_//   |____//_____//_______//_____\//_/
+- ----------/____|--------:-------------/____|------------------------------ -
+:           _____.     ÷                     :                           °   :
+|   /\     /_____|                         ·_  · -[ gRaPHiCs ]-     /\    ÷  |
+|   ¯¯        .  :  .           °     ¤    (_)                      ¯¯       |
+|           __  ·:·                                                      __ _|
+|           \/ Amiga Graphics                                           \\_\\_
+|                                                               °            |
+|     °            * Allowed formats: IFF and executables                    |
+|          ¤       * Allowed resolutions: All OCS/ECS/AGA modes        ÷     |
+| ÷                * Provide some workstages.                                |
+|                  * Iff:s will be displayed in PPaint in the compo          |
+|_ __       __                                                               |
+_//_//      \/ Amiga Ascii  °                          /\                    :
+|                                                      ¯¯             ¤      |
+|/\                * Allowed formats: TXT                                    |
+|¯¯                * Entries will be shown in CED using Mo'Soul font.        |
+|           __                                                               |
+|           \/ C64 Graphics                              ÷                   :
+|    °                                                                       |
+|      _           * All formats/modes allowed.        _                 __ _|
+|     (_)          * Provide some workstages.         (_)       °       \\_\\_
+:                  * Executable files only.               ___           /\   |
+|           __                                           /\__\          ¯¯   |
+|   ÷       \/ Other Platform Graphics                   \/__/               |
+|                                               °                            :
+|                  * All formats/modes allowed.                              |
+|_ __   /\  °      * It will be displayed in it's native format on the       |
+_//_//. ¯¯      ¤    target platform                                   .     |
+|_                         · .:. ·            .        .         °          _|
+: )___.___ _ ____  ___ __ ___ :___ __ _______ _\  ÷   /__ ________ ____.___( :
+|_ _ _ _ _ __/   \/   \ _/   \|   \ _/   _   \ _\    /_ _/   _   \_ _ _ _ _ _|
+|    (_)\\\\__         \\_    \    \\_   |____\\_\__/  \\_   |____////(_)    |
+|_ __ :     /   \_/   _/|    /|   _/|______    |      _/|    |   \     :     |
+_//_//   ©d/     |      _    \|     _    |/    _        _    |    \dS!       |
+|     .  /\\ _   |      \_    :     \_   /     \_       \_   :  _ //\  .     |
+|        \_\\/___|      //__________//_________//_______//______\//_/        |
+|<---------------|_____/---------------------------------------------------->:
+:      _         ._____  ¤           °       ÷                  °            |
+|  ÷  (_)        |____/      [ m U s I c ]    _                     /\       |
+|                :                           (_)                    ¯¯       |
+|           __  ·:·                                  ¤             ÷         |
+|           \/ Amiga Music                                             ¤     |
+|   °                                                                        |
+|                 * All Amiga-editor formats are allowed as well as      __ _|
+|  /\               executables.                                        \\_\\_
+|  ¯¯             * We reserve the right to limit the length of music        |
+|            ÷      entries to four minutes, to keep the compo time          |
+|                   reasonable.                                         _    |
+|           __                              ¤                          (_)   |
+|           \/ C64 Music         °                         /\  ÷             |
+|¤                                                         ¯¯                |
+|                 * All C64-editor formats are allowed.                      |
+| _               * New or old SID-Chip.                                     |
+|(_)              * Executable files only.        °                      °   :
+|            °    * We reserve the right to limit the length of music        |
+|                   entries to four minutes, to keep the compo time          |
+|_ __               reasonable.                            _                 |
+_//_//   ¤  __                        ¤                   (_)          ÷     |
+|           \/ Other Platform Music                                          |
+|                                                                   °        |
+| .      ÷        * We reserve the right to limit the length of music        |
+|   /\       _      entries to four minutes, to keep the compo time          |
+: . ¯¯      (_)     reasonable.                                       /\     |
+| |                                     °     ¤                       ¯¯     |
+|_ ¯)               °                                             ÷          |
+: ) ¯¯ ¯                                                 /\                (¯:
+| ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ |
+| _.___ ___.___________________________  ___________________ ___ ___________ |
+:_)° . \\.                     ÷       \/ _                 /___      _ __ (_:
+|     . . /\        °               °    (_)     °   ÷  °  (/   \_       (_. |
+|   ° .:. ¯¯   °   ÷      ° ÷          ÷     °            ./     (. °   ÷  | |
+|  _ __:_____ __ ______\ __ _______°__ ______._.:_  °  ÷  /____   /        · |
+: °  _\| _   \ _/   __  \°_/   __  \÷_/   __ |/_::. __    (_//_) /_ ©Mt °  ·_|
+__ _/  : |____\\_   |/   \\_   |/   \\_   |/ ::.\:: ¶/  °  \._/-/-/\    ___\\_
+\_\\__   \_   ¬_    /____/_    /   _/_    / ·.:__/_/__\__ _/.     !\·__/  /  |
+: _ /    |/    \_   ¬    ¬\_   |    ¬\_   \     \·\ ) /_ )__!_____· ·) \  )  |
+|_\\\__________//_________//___|_____//___|\____/ \_)__\/  \      /  \___/   :
+|_ ÷         ÷ /             ÷ ·        . : .__ ©d `-'     /     / °      /\ |
+_/      °  _    [ c O m P o -          ÷ .:. \/     °   __/_____/__      ÷¯¯ |
+|      ÷  (_)    _            g E a R ]·  · °·   ÷    ° \___/      \_ °      |
+:¯)°        °   //     °                                ÷   \_______/  /\  (¯:
+| ¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯         ¯¯  ¯¯¯ |
+|   _       __                   /\           ¤                     _ ____   |
+|  (_)      \/ Amiga      ÷      ¯¯                     _                (_  |
+|_ __                                                  (_)    °            | |
+_//_//  ¤          * A500, 68000@7.14MHZ, 1MB, KS1.3               /\      · |
+|                  * A1200, 68060@50MHz, 64MB, KS3.1               ¯¯  ÷     |
+|           __                                                ¤            · :
+|/\    ÷    \/ C64                          °                                |
+:¯¯  °                                                              ÷        |
+|                  * C64, 8580, 1541 Ultimate, AR6 rom active                |
+|       ¤          * C64, 6581, 1541 Ultimate, AR6 rom active          _     |
+|           __                                                        (_)    |
+|   _       \/ SNES                ÷                                         |
+|  (_)                                                        /\             |
+|                  * PAL/NTSC SNES with Super UFO 8.          ¯¯    °        |
+|           __                                         ¤                     |
+| °         \/ Nintendo Handhelds                                            |
+|  ÷                                                                     __ _|
+:                  * NintendoDS Slim with AceKard2i + 3 in 1 expansion. \\_\\_
+|          °       * GBA SP with flashcart or NintendoDS with AceKard        |
+|  /\                + 3 in 1.                                               |
+|  ¯¯       ¤      * GBC with Dr.Flash 64Mbit Cart and Bung GBX  ÷        ¤  |
+|                                                                            |
+|  We also have access to Dreamcast, PSX, PSP, PC-Engine, Neo Geo Pocket,    :
+|  Sega Master System and Sega Megadrive with backup units. If you plan to   |
+| .release on any of those platforms please inform us in advance! You are    |
+|  very welcome to release on other platforms than those stated above, but   |
+| .you will have to bring the hardware yourself!                             |
+| |                            . . .                _          ¤       .÷    |
+|_ ¯)     /\                   . : .  ÷            (_)              .     .  |
+: ) ¯¯ ¯  ¯¯         ¤         ..:..                     /\          °. .  (¯:
+| ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯.:.¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯.:.¯¯¯ |
+_ _______ __ _____ __ ____ __ ___: __ _____ .__ _ _____ __ _____ __ ___: ___ _
+: _\__   \ _/  __ \ _/  _ \ _/   |/  \ ____ |  \ _\   /_ _/  _  \ _/   |/  \ :
+_/  |/    \\_  |/  \\_  |__\\_  _/    \\_  \|   \\_\_/  \\_  |___\\_  _/    \_
+\__ /_______   /  _/_   |   _   _    _/_   _\  _/_       ______   _   _    __/
+:/     \--/    |    \_  :   \_   \     \_  \|    \_      \_  |/   \_   \    \:
+|\_____//\\____|____//______//___|\____//________//______//_______//___|\___/|
+|   _        . : ._ ______ __ ______ __ ______ __ __ .____ _     _     :     |
+:  (_)         .    _\_   \ _/  __  \ _/  __  \ _/  \|   \      (_) . .:. .  |
+|_ ___       .___._/   __  \\_  |/   \\_  |/   \\_   \    \_ ___       .     |
+_//__//       \__\\__  |/ _/_   /_______  /____/_   \ \  __//__/     .   .   :
+|       _        ©d/   /    \_     \--/         \_   \    \dS!         .  _  |
+|_ ____(_)_________\________//_____//\\_________//___|\___/______________(_)_|
+|               _                  ¤                .:.                °     |
+|              (_)         ÷      °                . : .            ÷    __ _|
+:      ¤                                         .       .              \\_\\_
+|                                         ÷                   ¤              |
+|  Do you consider yourself to be heavy on the data? Do you have the hottest,|
+|  rarest, or most insane warez? Can you prove it? Submit your compact disk  |
+|° to the UP ROUGH PACKDISK OPEN 2010, an event to be held by UP ROUGH at    |
+|  DATASTORM, February 2010, and fight for your spot in disktraders heaven!  |
+|                        °               ÷                                   |
+|_ 1) All entries must be submitted on ONE physical 3.5" floppy disk.        |
+_//            ÷                                                      ¤      |
+|  2) The disk must be bootable and compatible with an Amiga of your choice, :
+|     and must run on Amigas that does not have any HD attatched. Self       |
+|     contained OS is the deal here!                                         |
+|                                  ¤                                         |
+|  3) Submissions will be awarded points ranging from 1 to 10 in each of the |
+|¤    following criteria:      °               ÷                         _   |
+|                                                                       (_)  |
+|  A) Uniqueness, fun, rareness and/or cult factor of the warez.             |
+|                                                                        __ _|
+:  B) Design and creativity.                                      °      \_\\_
+|         ÷                                      ¤                           |
+|  C) Physical disk design and/or destruction.                               |
+|              °                                                             |
+|  D) Overall scene feeling.                               ÷                 |
+|                                                                      ¤     |
+|  Virus = NUKE! (Unless it's HNY'96).                                       |
+|  Unreleased prods = *3 credz.          °                                   :
+|  Trainswapped disk = *3 credz.                               _             |
+|  Tramswapped disk = *2 credz.                   ¤           (_)            |
+|  Authentic tags from known swappers = *2 credz.                            |
+|°                      ÷                                                    |
+|  Participants that are unable to be at the event may submit their disk     |
+|  via SNAILMAIL only to either Spot or Yonx. No dms/adf/wrp or              |
+|_ anything else may be emailed and submitted!                 __            |
+_//                                                          _( _)_          |
+|  Send entries to:          _                              (______)         |
+|                      °    (_)   _____                 ÷                    |
+|  Spot / Up Rough              _(_   _)_                     .   .  ¤       |
+:  Johan Samuelsson          ¤ (_________)         ___         \_/           |
+| °Ranängsgatan 12                        °      _(   )_     ·-(_)-·     __ _|
+|  416 64 Göteborg                              (_______)      / \      \\_\\_
+|  Sweden  ÷              ÷                                   ·   ·          |
+|                                   °                  ¤                     |
+|  Yonx / Up Rough                                                           |
+|  Markus Hamburger                                                          :
+| .Fiolgatan 2                  _        °                           °       |
+|  421 41 Västra Frölunda    ø /.\         ø    ¤                            |
+| .Sweden                _ °  /°  \¤  ¤ _____                                |
+| |          .   .   .  /°\  (.___°)  ø(_____)  ___¤ ø      ÷                |
+|_ ¯)          . . .°  (___)¤ ¯/ \¯.(°). / \ ¤ (___).  .    .(°). ÷ .. . . . |
+: ) ¯¯ ¯    _ . \|/  _ø (_) _ (___) \|/ (___)_ø (_)  \/_ /\  \|/._  \/_ \|/(¯:
+  ¯¯¯¯¯¯¯¯.¯ ¯ ¯¯¯.¯¯ ¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯ ¯  ¯¯¯____¯¯¯¯ ¯¯¯¯¯
+:           . : .                                         ____)___)_         :
+|           ..:..                                         \  __.___/         |
+|          .  :  .                                      .__\.\_|  |___.      |
+: ___ ___ _.__:_ .__÷__ _____¤__ ______ __ _____.__÷_ __| _ | ø|ø | _ |_____ :
+._)  \\     _\| \/ ¬\ _/  __¬\ _/  __ ¬\°_/  _ ¬|/__ __ | ( |__|__| ) |_°__(_.
+|  °  ¯__÷_/  :      \\_  |/  \\_  |/   \\_  |_____//_//|___| (_) |___|   (_.|
+|_ __¤ \_\\__  \_/  _/_   /    _   /___________   \©d   ·  /\\____/\  ·  ¤  ||
+_//_/    _ /    |     \_  |    \_     \--/   |/   /_ ÷  _°( _\_U_/_ )÷  _   ·|
+|         \\____|_____//__|____//_____//\\_______//    // /_|     |_\   \\  ·|
+:  ÷  _   ¯     ·     /   ·                  ¤  __¯°¯¯¯ ¯_\\|  Y  |//_¯¯¯ ¯¯¯|
+|_   (_)    °     ÷    [ m   A   p   S ]        \/   ÷ __\__|__|__|__/__ __°_|
+| )__   __    __     ¤   __      __°   /\  ÷__     __  \_______|_______/ \_\\_
+|_¯__¯¯¯ °¯¯¯¯  ¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯  ¯¯¯¯  ¯¯¯  ¯¯¯¯¯  ¯¯                 °    |
+_//_//                                                 ÷                     :
+|  We have two maps for your party finding pleasure:        _                |
+|                              __                          (_)        ¤      |
+|  * Big Ass Overview here:    \/         ¤                                  |
+|                                                              °   ÷         |
+| ¤  http://ftp.uprough.net/datastorm/images/storkarta.jpg                   |
+|                                                                       °    |
+|  * Zoomed In Map here:   ÷                                             __ _|
+:                                     ¤                           __    \\_\\_
+|    http://ftp.uprough.net/datastorm/images/detaljkarta.jpg      \/         |
+|÷                                                                           |
+| .Bus routes are indicated in yellow, ferry routes in blue, and car routes  |
+|  in pink.                                                            ÷     :
+| .                             _                                            |
+| |          ¤               ÷ (_)      °     ¤                              |
+|_ ¯)               °                                    °        ÷          |
+: ) ¯¯ ¯               /\                         .                        (¯:
+| ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯.  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯.¯¯¯ ¯¯¯.¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ |
+|  .___.            .   .                       . : .                        |
+:  ¡   `.            .:.                       . .:. .                       |
+_ _|    !._ _____ ____: ___ ______ __ _____ _____ :__ __ _____ __ __:_ _     :
+ ./______\    __ _/   |_  _/  __  \ _/  __ \ _____|_ \ _/  __ \ _/  |        .
+`½¾//  ¼½¼  __\_\\__ __/__\_  |/   \\_  |/  \\_    /  \\_  |/  \\_  |___
+_`(-__/¼½'__)/_   /   |   _   /   _/_   /  _/_   _/  _/_   /___/_   |   \_ __:
+)( ~ |   ) /___) /    :   \_  \     \_  |    \_  \|    \_       \_  :  __//_//
+\(   |   )_ _____\________//__|\____//__|____//________//_______//______\©d  :
+:(___!___) ©Mt      _     /   :         :    /                  /            |
+|             °    (_)    ¤   |            [  t  R  a  V  e  L  ]           _|
+|÷   _                      . :¯)                                          ( :
+:   (_)                    . .:.¯.¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ |
+|°           ¤       ÷        :         _                                   ¤|
+| __                                   (_)       ¤     _        °    ÷       |
+| \/ By Airplane                    ÷                 (_)                _   |
+|                      °                                                (_)  :
+|    Gothenburg has two airports, Landvetter Airport and Göteborg City       |
+|_ __Airport. If you're arriving at Landvetter, get on the airport bus and   |
+_//_/hop off at Kungsportsplatsen. Switch to bus 99, go across the bridge,   |
+|    and hop off at Lindholmen (see the yellow line on the map).             |
+| ¤                        °                                                 |
+|    If you're arriving at Göteborg City Airport (commonly known as Säve     |
+|  ÷ Airport), get on the airport bus and hop off at Hjalmar Brantings-      |
+|    platsen. Take bus 31 or 99 to Lindholmen (again, see the yellow line on |
+|    the map).                                                          ¤    |
+| __                    ÷                                                __ _|
+: \/ By Boat                              °                             \\_\\_
+|               ¤                                                         ÷  |
+|    If you're traveling from Denmark or Germany, you can usually get a      |
+|    good price on the ferries. Prices and schedules can be found on the     |
+|    Stena Line home page:                                                   |
+|        ¤                                             °           ¤         |
+|    http://www.stenaline.de/faehren/                                        |
+|    http://www.stenaline.dk/faerge/    °                    ÷               |
+|                                                                            |
+|    For people arriving from Denmark:                                   °   |
+:                             ÷                        ¤                     |
+|    Walk along the road right outside the terminal towards the city for     :
+|    about 10 minutes, sooner or later you'll end up where the ferry         |
+|    "Älvsnabben" stops. Take the right ferry (pick the wrong one for some   |
+|    40mins Gothenburg harbor sight-seeing) to "Lindholmen". Follow the map  |
+|    to the partyplace. (5min walk).  ÷                                      |
+|           °                                                              ÷ |
+|    If you arrive late in the evening the ferries won't be available. If    |
+|  ¤ that is the case, just walk over the bridge that is connected to the    |
+|    terminal to the other side of the big road where you will find a        |
+|    tram stop. Take line 3/9/11 to "Brunnsparken". Get on bus 16 or 99 to   |
+|_ __"Lindholmen" (marked yellow on the map).                                |
+_//_//                   ÷                       ¤                       __ _|
+|    For people arriving from Germany:                        ÷         \\_\\_
+|           °                                                                |
+:    When you come out from the terminal, take the road going to the right   |
+|    and walk down to the water. You'll spot the "Älvsnabben" ferry stop     |
+|    quite easily. Take the ferry (there is just one ferry going from this   |
+|  ÷ stop) to "Lindholmen". Follow the map to the partyplace (5min walk). If |
+|    you arrive late at night or don't like ferries for whatever reason,     |
+|    just follow the signs to "Chapmans Torg" from the terminal and take  ÷  |
+|    tram 3/9/11 to "Brunnsparken". Get on bus 16 or 99 to "Lindholmen"      |
+|    (marked yellow on the map).  ÷                                          |
+| __                                     ¤                                   :
+| \/ By Bus                                                                  |
+|                     °                    ÷                             °   |
+|_ __If you're traveling by bus, you arrive at the Nils Ericsson bus         |
+_//_/terminal. Walk over to the train station next door, and follow the      |
+|    directions from there.                                        ÷      ¤  |
+| __                                  °                                      |
+| \/ By Train                                                                |
+|                       ¤                        ÷                           |
+|    After arriving at the Centralstationen train station, take the main     |
+| °  exit west, leading down under the road, and into the Femman shopping    |
+:    center. Walk straight through, and as you exit you have a bus and tram  |
+| ÷  stop on your left, named Brunnsparken. Get on bus 16 or bus 99, and go  |
+|    to Lindholmen (marked yellow on the map).                  ¤            |
+| __                                                  °                      |
+| \/ By Car              ¤                                               ÷   |
+|¤                                                                           |
+|    If you're traveling by car, you will be arriving on the E6, either      |
+|    from the north or from the south.  °                    ÷               |
+|                                                                        __ _|
+|    By Car, E6, traveling south ¤                                      \\_\\_
+|                                                      °              ¤      |
+|    Take exit 76, towards Norra Älvstranden:  ÷                             |
+|_ __Note that it goes parallel with the E6 for a few hundred meters, inside |
+_//_/a concrete barrier. Once you're up off the E6, keep left and keep       |
+|    following signs to N Älvstranden. Then you take left to Lindholmen and  |
+|    drive downwards Karlavagnsgatan. The party is near the end of           |
+|    Karlavagnsgatan to the right, in the small yellow buildings with red    :
+|    roofs.                                                                  |
+| __            ÷                           °                           ¤    |
+| \/ By Cab                                              ÷                   |
+|               ¤                                                            |
+:    Just tell the driver to take you to "Karlavagnsgatan on Lindholmen".    |
+|    If the driver don't know where that is just say "tramstop Lindholmen"   |
+|    and walk the remaining 100 metres from there..                          |
+| __          °                                                          __ _|
+| \/ Parking      ÷                                  ¤                  \\_\\_
+|                                                                            |
+| .  There is space for around 5-10 cars to park for free right outside the  |
+|    partyplace. There is also an unlimited amount of parking nearby, just   |
+| .  look at the map.                                                        |
+| |                          ÷        . °     ¤                              |
+|_ ¯)               °               .   .                °        ÷          |
+: ) ¯¯ ¯               /\          . .:. .        .                        (¯:
+. ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ .
+. _____ __.___ __ ______ _ _____ __ __: ____ ____.__ ______  _______________ .
+._) ¤   _\|_  \ _/  __  \ _\   /_ _/  |___ _/  _ |/__ __ ¤ \/           ¤  (_.
+|   _ _/  :|___\\_  |/   \\_\_/  \\_  /   \\_  |_____\\(_ _        ¤         |
+|_¤_)\\__  |    _   /   _/_     _/_  /__ _/______   \©d ¤    [ c R i B s ]   ¦
+:_ ___¤/   :    \_  \     \_      \_  |/   \_  |/   /___ __ _ _           ¤  |
+\ \\  \\________//__|\____//______//_______//______//  // //    ¤     /\     |
+:¯¯ ¯¯¯° _      ____: ÷                             ¯¯¯ ¯¯ ¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯°¯|
+|       (_)    /____|                         ¤                  /\          |
+|_°__                        °       __                          ¯¯     ÷    |
+_//_//  ÷        ¤                   \/           ¤          °               :
+|  Pussies who can't manage to sleep datastyle can find cheap rooms at       |
+:  kvillehotell (http://www.kvillehotel.se/english.htm) which is a short     |
+| .busride from the partyplace. For the posh pussies, Hotel 11,            ¤ |
+|  (http://www.hotel11.se/index.asp/lang/1033/) provides all luxury you can  |
+|°.imagine.                                                              __ _|
+| |                         .÷          °     ¤              _          \\_\\_
+|_ ¯) ¤             °     .   .                          °  (_)  ÷           |
+: ) ¯¯ ¯÷              /\ ..:..                                            (¯:
+. ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ .
+:___ _______ _____ .__ __ __: ___ _____ __ ________ ________________________ :
+.    _\___  \ _____|  \ _/  |   _/  __ \ _/  _   /__ ___°_        +  _ ___ (_.
+__ _/   |/   \\_   \   \\_  |___\_  |/  \\_  |_____//__///  °            (_. |
+\_\\__  /   _/_   _/  _/_   |   _   /___/______   \       [ r U l E s ]    | |
+:   /   \     \_  \|    \_  :   \_       \_  |/   /   +  °              +  | |
+|   \___|\____//________//______//_______//______/                         · |
+|¯¯¯ . .:. .                                      ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯÷¯¯¯¯¯¯¯¯.¯|
+| __    :       ÷                           °                ¤               |
+| \/ Since the party is being held at a licensed nightclub you cannot bring  |
+:    your own booze due to strict swedish laws on alcohol. However, we °     |
+|_°__assure you that you will be perfectly satisfied with the in-house       :
+_//_/assortment of beverages which is served at a very reasonable price, a ¤ |
+|    glass of wine is 20SEK which is about 2 euro. Because of this you also  |
+|¤   have to be over 18 to enter the party. In order not to shut any young   |
+|   °creative minds out from the action, we might grant access to the party  |
+|    for minors on a case-to-case basis, contact us about this if you are    |
+: .  affected.                         °                ¤                 °  |
+| __                   ÷    °               .  .___                   ÷  __ _|
+| \/ Smoke outside.              /\       .    /\__\.                    \_\\_
+| |  °            .              ¯¯     °    . \/__/         _               |
+|_ ¯)    ¤     .    °.            ¤         . .:. .      °  (_)  ÷           |
+: ) ¯¯ ¯      ÷ ..:..  /\                      :     ÷                     (¯:
+. ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯:¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ .
+_ _ _ _____ __ ___: ____ ______ __ _____ __ ___: ___ _ ______________  _____ :
+.    _\__ ¬\ _/  ¬|___ _/  __ ¬\¤_/  _ ¬\ _/   |/ ¬\     ¤ _____  °  \/    (_.
+__ _/   |___\\_   __  \\_  |/   \\_  |___\\_  _/    \_ ÷  _\ \ (_____  ÷ __ _|
+\_\\__  |    _    |/ _/_   /____/_   |    _   _    __/   /__\_\_\____\  \\_\\_
+:   /   :    \_   /    \_        \_  :    \_   \    \ ° _\_\___.___/_/_      |
+|¤©d\________//___|____//________//_______//___|\___/  / __/|¬ø|o¬|\__ \   ¤ |
+|_ __ ___________ :___. __ _____ __ _____¤__ ___._ ____\_)__| _|_ |__(_/_____|
+_//_//   ÷    __ _/  ¬|   _\  ¬/_ _/  _ ¬\ _/  ¬|_       / . ¯(¯)¯. .\    ÷  :
+|     ¤   °   \_\\__  |___\_\_/  \\_  |___\\__ __/__  ÷  \. . _¯_ .. /       |
+| ÷               /   |   _     _/______   _    |   \_    \_|¯|¯|¯| /    °   |
+| [ cHeCk LiSt ] /    :   \       \_  |/   \_   :  __/  °   |_| |_|¬       ¤ |
+|    °       ÷   \________/_______//_______//_______\dS!  ÷    ¬        ÷    |
+·¯)       ¤                           ¤                /\       °          (¯·
+: ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯÷:
+|  Don't forget to bring: °       ÷   __             ¤                       |
+| ÷                                   \/                         °       __ _|
+|  [ ] Electricity multi-sockets. ¤        °                            \\_\\_
+|  [ ] Real hardware. Laptops may only be brought inside the partyhall for   |
+|°     cross development purposes.                                           |
+| .[ ] Printouts of the maps                                                 :
+|  [ ] As it looks now the bar won't manage credit/debit-cards, so bring     |
+| .¤   cash! An ATM is reachable near the partyplace..        .         .    |
+| |                     .        .                           _  .  .  .  ¤   |
+|_ ¯)    ¤          °      . : .      ¤                  °  (_)  .   .       |
+: ) ¯¯ ¯      ÷        /\  ..:..                     ÷            .:.      (¯:
+. ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯:¯¯¯¯¯¯¯¯ .
+_ ____ ______ __ _____ __ __ :___ __ ___. ___ _____ __ _____ __ ___:_
+       _\__  \ _/ ___ \ _/  \|   \ _/   |_  _/ ___ \ _/  _  \ _/   |_[cOnTaCT]
+_ __ _/   |___\\_  |/  \\_   \    \\_  __/__\_  |/  \\_  |___\\_  __/__      .
+\\\_\\__  |    _   /  _/_   \ \  _/_    |   _   /    _   |    _    |   \_ __ _
+    ©d/   :    \_       \_   \     \_   :   \_  |    \_  :    \_   :  __//_///
+_ ____\________//_______//___|\____//_______//__|____//_______//_______\____ _
+:     °   ÷                  :                 .:.                           :
+| __                   ¤                   °  . : .                  ÷       |
+| \/ WWW: Sign up for the party, ask questions in the forum, get the         |
+|         latest news/rumours and hang out at: http://datastorm.se      °    |
+| __                                                                     __ _|
+| \/ IRC: #uprough on EFNet      °            ¤                         \\_\\_
+| .                         ÷                                  ¤             |
+| |          .                                      .        _           ¤   |
+|_ ¯)    ¤ .   .    °                 ¤      ÷     . .   °  (_)              |
+: ) ¯¯ ¯    .:.        /\       ¤                  .:.                     (¯:
+. ¯¯¯¯¯¯¯¯¯¯¯:¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯:¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ .
+|_ __        :        _  ÷               _          :                        |
+_//_//   ÷_ _:___ _ _( )_  ____÷:___ _ _( )_  _ ___ :___ __ ______:_ _       :
+|        ____|   \ (_ @__) _____|   \ (_ @ _)÷_/   \|   \ _/   __ |_  ÷      |
+|    _ _/    \    \\_(_)  \\_   /    \\_(_)  \\_    \    \\_   |/ : \_ _     |
+|    \\\__   _\  _/|     _/|   /|   _/|     _/|      \  _/|    /_____///     |
+|       /    \|    :\      :\  \|     :\      :\   \      :\        \   ÷    :
+:     /\\ _   \     /     _ /   :      /     _ /    \    _ /      _ //\      |
+|  ÷  \_\\/___     /______\/_____     /______\/     |\___\/_______\//_/  __ _|
+|            \____/         ÷   \____/        \_____/÷                  \\_\\_
+|  _ _:_____ __ ___: _______ :__ __ ___: ___ ______ __ ______ __ ________÷_  |
+|    _|  _  \ _/   |_ ÷ _____|  \ _/   |   _/  __  \ _/  __  \÷_/   _   \_ _ |
+|_ _/ :  |___\\__ __/___\_   |   \\_   |___\_  |/   \\_  |/   \\_   |____/// |
+|\\\_______   |    |  _/|    /  _/|    | _/|   /____/|   /   _/|______  \dS! |
+|÷©d/    |/   :\   |    :\  /|    :\   :   :\        :\  \     :\   |/   \ ÷ |
+| /\\ _  /     /   :   _ /  \|   _ /      _ /         /   \     /   /  _ //\ :
+| \_\\/__     /________\/___ : __\/_______\/____     /____|\___/    ___\//_/ |
+|       \____/÷           /_____\              \____/   . : .  \____/        |
+|  ÷                                                     .:.           ÷     |
+|                 aNoThEr DiViNE STYLERS PrOdUcTiOn iN 2009 .      ÷         |
+:_ _____ _____ __ ______ __ _____ _____ .__ _ _____ __ ___: ___ _______ _____|
+|       _\__  \ _/  __  \ _/ __  \ _____|  \ _\   /_ _/   |_  _/  _   /__ ___|
+| ___ _/   |___\\_  |/   \\_ |/   \\_   \   \\_\_/  \\__ __/__\_  |_____//__/|
+|\\__\\__  |    _   /   _/_  /____/_   __\ _/_     _/_    |   ______   \     |
+|      /   :    \_  \     \_       \_  \|    \_      \_   :   \_  |/   /     |
+|   ÷  \________//__|\____//_______//________//______//_______//______/  ÷   :
+|_ __              .:.          [c R e D i T s ]                             |
+_//_/  ÷          . : .                              ÷                    °  |
+|                     dMG/dS!^t!s -- Ascii and design                        |
+| .  °         Mortimer Twang/dS! -- Asciimen 1, 2 & 3                 ÷     |
+|                 Yonx & Spot/UP! -- All text contents         °             |
+|        ÷                                                                   |
+|              Number of logos: 20             ÷                             |
+|         °    Number of lines: 763                              °           |
+|              Number of bytes: 59029                                        |
+|                     Filename: dS!-data.txt                                 |
+: .    ÷                                              ÷                  __ _|
+| |                                                          _          \\_\\_
+|_ ¯)    ¤          °                 ¤        °            (_)              |
+: ) ¯¯ ¯               /\                                                  (¯:
+. ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ .
+
+.                                                                            .
+@BEGIN_FILE_ID.DIZ
+  _____ _:__ __ ____ __ __: ___ ______ ___
+._)   __ |  \ _/ __ \ _/  |_  _/ __ /_   (_.
+|©d _/  \|   \\_ |/  \\_ __/__\_ |/   \_   |
+: __\__ _\  _/_  /  _/_   |   _  /   __/__ :
+|/ / /  \|    \  |    \   :   \  |    \ \ \|
+|\_\ \________/__|____/_______/__|____/ /_/|
+|_ ____ __ __:___: ____ __ ____ _: _  ___ _|
+: _\_  \ _/  |_  _/    \ _/ __ \ _/ \/ _/_ :
+_/  |___\\_ __/__\_ __  \\_ |/  \\_       \_
+\_____   _   |   _  |/ _/_  /  _/_  \_/  __/
+:/  |/   \   :   \  /    \  \    \   |    \:
+|\_______/_______/_______/__|\___/___|____/|
+|                           :        :     |
+: dATAsTORm 2010 fEb 5-7 - iNViTe aSCiiTrO :
+|--- g O T H E N b U R g // s W e D E n ---|
+|    pReSeNteD bY Up ROuGh sOuNdsYsTeM,    |
+|    gENeSIs pROjECt aNd diViNe sTYlERs    |
+·¯)______________________________________(¯·
+@END_FILE_ID.DIZ

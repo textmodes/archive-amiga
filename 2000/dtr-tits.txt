@@ -1,0 +1,993 @@
+
+ 
+ 
+ 
+          .________________________________________________________.
+  __      |                                                        |
+ /_/\  ___|__¦______ ______________¦_______________________  _ _/\_|______
+ \_\/  \·    |     /_\______  /·   |    \_______   _ /    /_________    o/
+  +:    \\   |    /    ______//          \     /   //    /    /    /   //
+  :o     \_______/______|   /______|______\________/________ /________ /
+  .·      |                        ¦                       \/      | \/
+          |                                                        |
+  .       | U   P   H   O   L   D        T   H   E       L   A   W |
+          |                                                        |
+ ______/\_|_______¦____    __________     _____     _____   _____ /\ _____
+ \ _ o     _ /    |   ·\  /  ___    /    /    /____/o   /___\ _  /  \    /
+  \//      \/          \\/    _____/    /    /    //   /\    \\ /    \  /
+  /_________\_____|______\_______ /    /________ /____________\___/\___/
+          |       ¦             \/             \/                  |Sk¡n 
+          |________________________________________________________|
+
+                         dA uLTiMaTe dEMo BBS for:
+
+    aMiGa · pC · mAC · aRCHiMEdEs · cONSoLe · aScII  ( c64 & aTaRi sOOn )
+
+
+      ReMeDy wHQ (Amiga)  ·  x-FiLEs nEWs sTaTiOn  ·  U.D.O. wHQ (Amiga)
+
+                eNDzEiT wHQ (Amiga)  ·  dARkSidE wHQ (Amiga)
+
+    aNAdUNe dIStRiBuTiON SiTe (Amiga)  ·  nUAnCe dIStRiBuTiON SiTe (Amiga)
+
+                sUPeRiOr aRt cReATiONs dIStRiBuTiON SiTe (PC)
+
+   aLieNDeSiGN wHQ (Amiga-Tools)  ·  tRSi rECoRDz dIStRiBuTiON SiTe (Audio)
+
+
+      sEArCHiNg fOr mORe gRoUPs!   eSpEziAllY c64, aTaRi aNd aRChiMeDEs!
+
+                                dA sYSOPs aRe:
+               Node 1 :                              Node 2 & 3 :
+           USR V.90 I-Modem                           Euro  ISDN 
+          +49-(0)30-44730311        rAMSeS        +49-(0)30-44730312
+                                      &&
+             Node 4,5,6 :            pASo
+              24h Telnet                          -- nO RaTiOs !!! --
+            remedy.yi.org
+ 
+ 
+
+                          /\_____________________/\ .
+                        ._)                       (_:_ _
+                        |                           |
+                        |   t  h  e    y  a  r  d   |_ _
+                        | - --------------------- - \///_ _
+                        |                           |
+                        | Amiga/Ascii/Graffiti/N64  |
+                        | Gameboy/NeoGeoPocket/Snes |
+                        | Psx/Ps2/Dc/Smd/Oldies/Mp3 |
+                        | Unix/Drugs/Chiptunes/Mods |
+                        |                           |
+     __________    _____|      ________             |
+ _ __\_ ____   \_ _\_   |__ _ _\_____  \_           |
+        /  \    /      ___/       _/    /_ __ _     |
+   _ __/   \\__/        |         \____/            |
+      /      \_         |______                     |
+        _ ___ /_________|    /___  _____ _ __ _     :
+            \/          |        /\                 .
+                   _____|       /  \   _______    _______
+                _ _\_   |      /   .\ _\_____ \_ _\_____ \_ __ _
+                     \____    /     \\    _/  _/__    /
+                        |/   /       \\   \    _ /   /
+                            /          \   \   //
+               _ ___________\__________/____\  /_________ __ _
+                        .                    \/     .
+                        : AHS/DTR/BLACK SiSTA/ROYAL :
+                     _ _| AEROSOL/LiGHTFORCE/ARCADE |
+                     \\\/ LOW PROFiLE/BAD KARMA/UP! |
+                        | SOiA/MVP/TEQUiLA/PVM/1OO% |
+                        | H  E A D   Q  U A T E R S |
+                        |                           |
+                        |   5 Nodes Telnet on ADSL  |
+                        |  3 Nodes ISDN/33k Dial-Up |
+                        |                           |
+                        | the  idea  of  s t y l e  |
+                        |                           |
+                        |     is  the   k  e  y     |
+                        |                           |
+                        |   to  all  f o r m s  of  |
+                        |                           |
+                        | r   o   c   k   i   n   g |
+                        |_          __             _|H2o!
+                          )_______ /\_\ __ _______(
+                          \/       \/_//_/\      \/
+                                     __\_\/
+                                     \/
+                      .                             .
+                  ...                                 ...
+                  :.:                                 :.:
+     ......::::::                                         ::::::......
+     ::    ::::::      [+]  rEADY fi di riDE ?  [+]       ::::::    ::
+     ::    ::::::                                         ::::::    ::
+::::::::::    :                                             :    ::::::::::
+:::  ::  :    :                                             :    :  ::  :::
+:::  ::::::::::                                             ::::::::::  :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :       m  i  S  T  A   d  E  E  S  W  i  T  C  H       :      :::
+:::      :                                                   _____      :::
+:::  ______  _\_  ______ t!  ____________      _\_ ____   ___\_   \______ :
+:: __\__   \_  \_\\__   \_ _/  _____    /__/\__  \/   /_ /__  /_____    /____
+· /    /    /  /   _/    /_\___   \/   /  /   /  /   __//  / /    /    /    /
+_/    /    / _/    \____/    /    /   /  /   /  /    /  \_/______/   __    /
+\_______/_/  \_____/   \_________/\_______/_/  /\________/      \____/    /_
+...    /____/                            /____/                  . _/______\
+:::      .                                                       :      ...
+:::      :                                                       :      :::
+:::      :        ·  sOUNDBWOY nUMBA oNE - bORN fi bUN  ·        :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::   ........                                               ........   :::
+:::   :  .   :                                               :   .  :   :::
+:::   :  : .....                                           ..... :  :   :::
+:::   :... : . :                                           : . : ...:   :::
+:::      . :..:::                                         :::..: .      :::
+:::      :    ···.                                       .···    :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :  m E M B A  f i  d E M  b U M B A C L O T  c R U ' S  :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :             _ ___.      _ ________.   _ ____          :      :::
+:::      :           ._\\\ _|____._\\\__     |___\\\_  \_.       :      :::
+:::      :           |     \     |    _/     |      /    |       :      :::
+:::      :           |      \_   |    \_     |     /     |       :      :::
+:::      :           |___________|_____|_____|___________|       :      :::
+:::      : _ __  _____ _ ________. _ _______   _ __  ____. _ ________.  :::
+:::      ._\\\ \/    /_\\\__     |_\\\_     \ _\\\ \/    |_\\\__     |  :::
+:::      |    _/   _/|    _/     |    /    _/      \/    |    _/     |  :::
+:::      |    \     \|    \_     |    \     \_______\    |    \_     |  :::
+:::   tGø|_____\_____\_____|_____|     \_____/    /______|_____|     |  :::
+:::      .                       |______|        _ __ ·              |  :::
+:::      :                                          /_:_             |  :::
+:::      :         bEE-kAY - bAAD bWOOY cREW !        |            __|  :::
+:::      :                                           _|____________\ :  :::
+:::      :                                                       .      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :    __                     __ _              ____ _    :      :::
+:::    ______/_/_____     ___________\  __    ________/ ________________ ::
+:::   _\  / / \_ \  /    / ____ \  __/\ \     \  __  / / /_  / /_  /_  / ::
+:::  /   / / /   / /    / / / / / __/ /\ \    /\ \/   / / / / / / /  \/ :::
+::· / / / / / / / /_ _ / / /  \/ / / / / / & / / / / / / / / / / / / /  :::
+:· / / / / / / / / _  / / / / / / / / / /   / / / / / / / / / / / / /   :::
+: / / / / / / / / /  / / / / / / / / / /   / / / / / / / / / / / / /    :::
+: \__/___/___/___/  /___/_/ /___/_____/   /___/_/_/_/ /_/_/_/ /___/     :::
+::.   -  -- - -----------/__\-rS!/aRt----- --   -  /__\    /__ _ .      :::
+:::      :                                                       :      :::
+:::      :          dEE-cEE-eSS - di rOOTS oF aLL tiNGS          :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::   ........                                               ........   :::
+:::   :  .   :   _\|/_  aND fi sURE diS kiLLA bWOYS  _\|/_   :   .  :   :::
+:::   :  : .....                                           ..... :  :   :::
+:::   :... : . :                                           : . : ...:   :::
+:::      . :..:::                                         :::..: .      :::
+:::      :    ···.                                       .···    :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+::   :.  :                                                       :      :::
+::  ::::.                                           . ...        :      :::
+:  ::::::::                                        .... :        :      :::
+ .::·   ·::::     __ _                   ... . ....:  : .. .  _  :      :::
+ .::       :::.  _\ _ _____       ___ . .: ....:__::  :   _ _ /  : _ __ :::
+.::: ·     __:::. __\/ ._ (_   __( _/____ _:__:_) \___:___\ //_______ /_ ::
+  ..  \ _ /   :::.     l/ _/__/   _)    //    _    / __   \\//   __ (___ _.
+ :.: _\\\/____ :::. ____\    /    `   _/·    _)  _/  ` \__ \/ __/ '    // |
+ :::    \      .:::   /______\________\  __._\___\  __.__/    \_     _//__|
+<:::- ---·----::::·--------------------\/--:------\/--:--\  ___/_____\----- ->
+ :::         .:::·                         :  ::  ::  :   \/
+ ::    aBHO .::: _ _________     dREAM . ..: .:: .:: .: .. . t H E A t R E
+ .::        ::: _\/        (____           ___ :  ::  : __
+ .:::      :::_/  _    _     / (_____    _( _/___ :: ___) \_ _______    ___
+ :::      ::: \___\    /   _/   ._  (___/  _)   /____) \_   ))  ._ (_ _( _/___
+ .::     :::·     /  _/____\    l/     /   `  _/   _    /   \   l/ _/__ _)   /
+  :::.  :::·  _/ /___\     /____/    _/____.__\   _)  _/_____\___\    / `  _/
+<--·::::::·--------------------/_____\-----:-/_.__\___\--------/______\____\->
+...      .                             . .. :..::  :.  :         .      ...
+:::      :                                :.. . :..::  : .. .    :      :::
+:::      :  aVENGER · diPSWiTCH                     :..: .       :      :::
+:::      :                                           . ..:       :      :::
+:::      :  gRAVEDANCER · lORD cHAOS · sHAOLiN                   :      :::
+:::      :                                                       :      :::
+:::      :  zANER · wHATTA bOUT yOU ?                            :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::   ........    _\|/_  pRESENTS diS kiLLA sTRiKE   _\|/_   ........   :::
+:::   :  .   :                                               :   .  :   :::
+:::   :  : .....                                           ..... :  :   :::
+:::   :... : . :                                           : . : ...:   :::
+:::      . :..:::                                         :::..: .      :::
+:::      :    ···.                                       .···    :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :  _______                     _______                  :      :::
+:::      :  \     |                     \     |                  :      :::
+:::      :  _\____|_      .______       _\____|                  :      :::
+:  _________|_    _|______|__   |_______|_    _|_______.____     :      :::
+:. \         |    |         /   -        /    \        |  _/_______     :::
+:·· \_      _|    |_      _/            /      \_     _|_         /.    :::
+: ave/______|      |______\______________\     |/_____|____________|dTR :::
+:..      .  |______|                    |______|                 .      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :   t i T B i T S  -  t i t B i T S  - t i T B i T S    :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                          _  _ __      :      :::
+:::     _______            ___                _____       /   __ ·      :::
+:::  ___\__   /  __   _ __/  /_____      _ __\\_   \_ _  /_ _/  /____.  :::
+::: _)    /   \ / //____.  _//    /___ ____.   /    /__\/_/__  _/    |  :::
+::: \    /\    \  _/    |  \     /   _/    |       /   \/   (_ \     |  :::
+::· /____/\____/  \     |___\____\   \     |_______\   ||    /__\____|  ·::
+: <-diP-------_ ___\____|-------_ ____\____|----_ _____||____\------dTR-> :
+::.      .                                                       .      .::
+:::      :                                                       :      :::
+:::      :   Beloved ASCII sceners ! (and all others of course)  :      :::
+:::      :                                                       :      :::
+:::      :   Finally there is a lifesign from me... Summer       :      :::
+:::      :   vacation is almost over, and I have been lazier     :      :::
+:::      :   than ever. You're wondering where the new TAC is ?  :      :::
+:::      :   Summer is here in Cologne, and I am enjoying the    :      :::
+:::      :   brilliant weather, hanging around with friends,     :      :::
+:::      :   chiling in parks and spliffing at day and idling on :      :::
+:::      :   IRC and doing ascii reqs now and then at night...   :      :::
+:::      :   Right now I am sitting with my comp at a friends    :      :::
+:::      :   house, around me 8 "gamelamers" playing Diablo 2,   :      :::
+:::      :   and as this brilliant game doesnt run on my "lame-  :      :::
+:::      :   ass" p200, I decided to do something senseful and   :      :::
+:::      :   doing this little colly. Weaponed with Amiga Font   :      :::
+:::      :   Simulator and a nice mp3 playlist, I am trying to   :      :::
+:::      :   concentrate on the slashes and dots while the room  :      :::
+:::      :   is full of bang-zoom-crsshh noises and shoutouts    :      :::
+:::      :   of my gamelaming mates. Now and then some of them   :      :::
+:::      :   stand up and ask me what the crazy shit I am doing, :      :::
+:::      :   and it's hopeless to explain our beautiful artform  :      :::
+:::      :   to them... =)                                       :      :::
+:::      :                                                       :      :::
+:::      :   "Hey yeah, I found a 49p mana bottle!" - "Where's   :      :::
+:::      :   your fucking golem gone?" - "Can someone pass me    :      :::
+:::      :   an energy bottle?" - "Come over here, there         :      :::
+:::      :   are some undead to kick their butts" - ...          :      :::
+:::      :                                                       :      :::
+:::      :   And I am sitting in the corner doing this antiquate :      :::
+:::      :   stuff... Btw, my mate who hostes the network        :      :::
+:::      :   session is working in a beer-brewing company, so    :      :::
+:::      :   we have lots of free booze here, hehe...            :      :::
+:::      :                                                       :      :::
+:::      :   So what, even in the time of 750Mhz homecomputers,  :      :::
+:::      :   gates, windows and penguins our artform lives on.   :      :::
+:::      :   Why it does ?  It is obvious  -  PC-blocks, True    :      :::
+:::      :   Type fonts and dollar signs come and go, but the    :      :::
+:::      :   slashes and the dots remain. I dont know any        :      :::
+:::      :   computer system where there were no slashes, lines, :      :::
+:::      :   backslashes and dots. Our art is universal, it      :      :::
+:::      :   overlives any computer system. That's the reason    :      :::
+:::      :   why PC and console groups use Crusader/M'S's art,   :      :::
+:::      :   why Paradox uses a Zaner/DTR ascii in a N64 (!!!)   :      :::
+:::      :   intro (or was it PSX?), why even in the recent      :      :::
+:::      :   days of the dying Amiga releasing scene our art     :      :::
+:::      :   is asked more than ever. FTP siteops give us leech  :      :::
+:::      :   accounts for a couple of logos, an ascii artist     :      :::
+:::      :   can't spend 15 minutes on IRC without being asked   :      :::
+:::      :   for a logo... The re-emancipation of ascii artists  :      :::
+:::      :   has begone !                                        :      :::
+:::      :                                                       :      :::
+:::      :   We must not stick to one platform concerning the    :      :::
+:::      :   slash-dot textmode art. Platforms come and go, but  :      :::
+:::      :   letters remain. We know that our artform come from  :      :::
+:::      :   the Amiga, but the recent situation is the proof that      :::
+:::      :   even without a strong Amiga scene our art is        :      :::
+:::      :   superior. Superior ?  Sure. As I told before, the   :      :::
+:::      :   /|\_.-art can be viewed on nearly every system,     :      :::
+:::      :   from Amiga OS over Winshit and Linuxes to Palmtops  :      :::
+:::      :   and the newest game consoles. And on the other hand :      :::
+:::      :   the fact that old-day veterans like h2o, Crusader   :      :::
+:::      :   or Nup are doing the same stunning kick-ass ascii   :      :::
+:::      :   on non-Amiga systems proves the immortality of the  :      :::
+:::      :   "Amiga"-ascii artform.                              :      :::
+:::      :                                                       :      :::
+:::      :   So, anyone who says ascii art is dead, shut the fuck:      :::
+:::      :   up !  As long as there will be commercial programs, :      :::
+:::      :   there will be people who will pirate them to enable :      :::
+:::      :   full program support for everyone. And if those     :      :::
+:::      :   people will not go down into moneymaking, forgetting:      :::
+:::      :   the just-for-fun motto of the scene, they will keep :      :::
+:::      :   sense for artism and will feel the desire for       :      :::
+:::      :   digital art. And as low-char textmode art fits the  :      :::
+:::      :   standarts of most computer systems, it will stay    :      :::
+:::      :   the most-wanted stuff for the scene. So what, if    :      :::
+:::      :   in some years people will run about only with       :      :::
+:::      :   Palmtops and WAP-cellphones, we'll do low-char ascii:      :::
+:::      :   for it !                                            :      :::
+:::      :                                                       :      :::
+:::      :   Take my statement or curse it. Don't tell me I dis- :      :::
+:::      :   respect the roots or the Amiga scene or something.  :      :::
+:::      :   The fact is just that this artform is more important:      :::
+:::      :   for me than every platform.                         :      :::
+:::      :                                                       :      :::
+:::      :   But now to this colly. It just includes some        :      :::
+:::      :   file_id's for asciigroups, and I hope I can do a big:      :::
+:::      :   favor for all you asciimakers. And at this point I  :      :::
+:::      :   say, as I said often enough in TAC before: Declare  :      :::
+:::      :   your colly's file_id properly and dont do it wider  :      :::
+:::      :   than 44 chars, else every sysop who will have to    :      :::
+:::      :   fight with your crippled file_id in his filelister  :      :::
+:::      :   will curse you and your asciigroup forever...       :      :::
+:::      :                                                       :      :::
+:::      :   OK, let's go !                                      :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::  ::::::::::                                             ::::::::::  :::
+:::  ::  :    :                      .                      :    :  ::  :::
+::::::::::    :                                             :    ::::::::::
+     ::    ::::::                                         ::::::    ::
+     ::....::::::                    .                    ::::::....::
+           ::::::                                         ::::::
+                  ...                .                ...
+                  :.:                .                :.:
+                      .              :              .
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     .
+                                     :
+                                     :
+                                     .
+
+                                     .
+
+                                     :
+                                     :
+                                     :
+                                     :
+                                     .
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+
+           ««  sATTA - liT uP di cHALiCE - bUN dUN di gANJA  »»
+
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     :
+                                     .
+
+                                     .
+
+
+                                     .
+
+
+
+                                     .
+
+
+
+
+                                 5    10   15   20   25   30   35    40  44
+                             ....|....|....|....|....|....|....|.....|....
+
+                                            _____
+                                         __\\_   \_   _____
+                             aFLUENCE   _)   /    /__\\  _/_       dESiGN
+                                        \   _    //    _/  (_
+                                        /___\____\     \    /
+                             <-diP----------- _ ________\ __\ ------dTR->
+
+                                     "the rebel yell" by uncle pk^
+
+                             <------------------------------------------>
+
+
+
+
+
+    5    10   15   20   25   30   35    40  44
+....|....|....|....|....|....|....|.....|....
+   ____                     _         _
+ _\\_  \_____ __ ___. __ __\/_  ___  ///___.
+_)  /   /\_ /___/   |/ /____ (_/  //_ _/   |
+\  _   / _/   /\    |_//   /  /    _/ \    |
+/__\___\ \    \_\___|\    /___\    \ __\___|
+<diP _ ___\____/  _ __\___\  _ _____\ --dTR>
+
+     h2o pRESENTS "kACKhAUS tERROR #10"
+<------------------------------------------>
+
+
+
+
+
+                                 5    10   15   20   25   30   35    40  44
+                             ....|....|....|....|....|....|....|.....|....
+                                 _____             ___
+                              __\\_   \_ ___   _ _/  /_____  aEROSOL'2k!
+                             _)   /    //  //____  _//    /
+                             \   _    / \__     /  \     / ---------diP->
+                             /___\____\   /    /____\____\
+                                    _ _________\
+
+                                  dARKUS pRES. "wE piSS oN eVERYONE"
+                             <------------------------------------------>
+
+
+
+
+    5    10   15   20   25   30   35    40  44
+....|....|....|....|....|....|....|.....|....
+           _____            ____
+     _____\\  _/_   ____  _\\_ /____
+     \      _/  (_ /   //_  _/     /
+      \     \    /      _/  \      \_
+<-diP-/______\ __\      \ ___\______/-dTR-->
+             _ __________\
+   "dAS tRAUMTHEATER" vON mEiSTER aVENGER
+<------------------------------------------>
+
+
+
+
+                                 5    10   15   20   25   30   35    40  44
+                             ....|....|....|....|....|....|....|.....|....
+                                 __   ___     .___.  ____    ___   __
+                               _\\_)_\\_ \_ _.|   |_\\_  \_ /  / _/ //__.
+                              _)    /  /  /  ||   |   /   /  _/__   _/  |
+                              \    /  /   \  ||   |  _   /   \   \  \   |
+                              /___/___\____\ ||   |__\___\ ______/___\__|
+                             «-diP------------|___|-----------------dTR-»
+                               ÷ i n h a l e  b l u n t e d  f o r c e ÷
+                               - ------------------------------------- -
+                                  aBHORRENCE pRESENTS kARHULA hUORA !
+                                       aNOTHER aSCii jOURNEY...
+                             «------------------------------------------»
+
+
+
+
+    5    10   15   20   25   30   35    40  44
+....|....|....|....|....|....|....|.....|....
+                _____
+         __ _ _\\_   \_
+      __\\_)_    /    /
+     _)     /   _    / jEDi aRT fORCES 2ooo
+     \     /____\____\ - ---------------- -
+<-diP/    /dTR----------------------------->
+    /____/
+            wiSE-k iS tHE "3l3373 h/\X0R"
+
+<------------------------------------------>
+
+
+
+
+                                 5    10   15   20   25   30   35    40  44
+                             ....|....|....|....|....|....|....|.....|....
+                                   ____     _____     ____      __
+                              ___ /   (_ __\\_   \_ _\\_ /____ / //_____.
+                             _) _/     /     /    /   _/     /   _/     |
+                             \  \      \_        /    \      \_  \      |
+                             /___\______/________\ ____\______/___\_____|
+                              - -diP------------------------------dTR- -
+                                        · tY mASZ mALY hUjEK ·
+                                   kempy gives you a kurwa massacre
+                             - ---------------------------------------- -
+
+
+
+
+    5    10   15   20   25   30   35    40  44
+....|....|....|....|....|....|....|.....|....
+       ____    ______    ____
+ ____ /   (_ _/     //_ /   //______ - ----.
+_)  _/     /         _/ \___       /       |
+\   \      \_        \    _/      / ·kTS!A |
+/____\______/ ________\ __________\        |
+.- -diP------------------------------dTR- -+
+|                                          |
+|         ÷ pOSKGUBBE kICKS wiTH ÷         |
+|           'yMPÄRiSTÖN pERKELE'           |
+|                                          |
+`------------------------------------------'
+
+
+
+                                 5    10   15   20   25   30   35    40  44
+                             ....|....|....|....|....|....|....|.....|....
+                                ___      ....   ....   .
+                              _/  /_____:: ::: :: ::: :: ..
+                             _) _//    /_: :::  : :::  :.:::
+                             \  \     ///  :::  ..:::    :::  liNK124!
+                             /__ \____\    ::: ::....    :::
+                             <-diP-------- :· --- :· --- :· --------dTR->
+                                             "I love TAC"
+                                   A tribute collection by Azzaro =)
+                             <------------------------------------------>
+
+
+
+
+    5    10   15   20   25   30   35    40  44
+....|....|....|....|....|....|....|.....|....
+   __  _    ____    __        ____   ____
+._/ /_\\)_ \\_  \_ / //___. _\\_  \_\\_ /__.
+| _/___  (_  /   /   _/   |/   /   / _/    |
+| \   (_  / /    \   \    |   _   /  \     |
+|______/__\ \_____\ __\___|___\___\ __\____|
+- -diP--------------------------------diP- -
+             (*) l i N E A R (*)
+      "Ale z niej franca" by Krs/Linear
+ - -------------------------------------- -
+
+
+
+                                 5    10   15   20   25   30   35    40  44
+                             ....|....|....|....|....|....|....|.....|....
+                                __  __         __  __
+                              _\\_\/_/_    _  _\_\/_//_    _  _ ___ ____.
+                             _)   \/  (_ _\\)_   \/   (_ _(//_    _/    |
+                             \    ||   //    (_  ||    //    (_   \     |
+                             /____||___\      /__||____\      /____\____|
+                             <-diP----_ ______\------_ _______\-----dTR->
+
+                                      m | M | C  p /\ C K  # 2 3
+
+
+
+    5    10   15   20   25   30   35    40  44
+....|....|....|....|....|....|....|.....|....
+  __ _        __
+ _\  __   ___ \/ __      ___    ______ ___
+_\_\/_/_ \\_ \_ / //___ \\_ \_ _\_   //  /
+|  \/  (_  /  / \__   /   /  /   /  /  _/__
+|  ||   /    /   _/  /      /      /   \   \
+|__||__/_____\ ______\ _____\ _____\ ______/
+«-diP----------------------------------dTR-»
+      ÷ mO'sOUL - sLEEPiNG gODS iNC. ÷
+      - ---------------------------- -
+        crusader gives you smørebrød
+      like a fire straight from hell...
+«------------------------------------------»
+
+
+
+                                 5    10   15   20   25   30   35    40  44
+                             ....|....|....|....|....|....|....|.....|....
+                                  _____ .____.  _______  ____       ___
+                              _ _/    /_|    |_\\_    /_\\_  \_ __ /  (_
+                             _) \    /  |    |   /   /    /   /  _/    /
+                             \   \__/   _    |      /    /    \  \     \_
+                             /_____\ ___\____|______\ ___\_____\ _\_____/
+                             <-diP----------------------------------dTR->
+                                     phunky invasion blahblahblha
+                             <------------------------------------------>
+
+
+
+    5    10   15   20   25   30   35    40  44
+....|....|....|....|....|....|....|.....|....
+ __         __          _____
+/ //______ / //____. __\\_   \_ ___________.
+\___     /   _/    |/    /    /            |
+_ _/    /    \     |    _    / sAtiVE mEA! |
+\\\_____\ ____\____|____\____\ ¯¯¯¯¯¯¯¯¯¯¯ |
+.-diP----------------------------------dTR-|
+|            + sATiVE mEA 2ooo +           |
+|        "Opierdol sie, szczelec..."       |
+|     x-ball gives you a masterpiece of    |
+|_              obscenity...              _|
+:/-(xx.xx.2k)-----------------------------\:
+
+
+
+                                 5    10   15   20   25   30   35    40  44
+                             ....|....|....|....|....|....|....|.....|....
+                               ___  ______    __     __   __       ____
+                             _/  //_\ _ /\)_ / //___/ //_/ //__.__\\ _/_
+                             \    _/  / \_ (_\__   /   _/  _/  |   _/  (_
+                              \   \  /\  /  /  /  /    \   \   |\  \    /
+                               \_  \_/\_/___\ ____\ ____\ __\__|/___\ __\
+                             «--/___\-diP---------------------------dTR-»
+                                  + gROOVY pEOPLE pRODUCTiONS 2ooo +
+                                tHREAz bRiNGS yOU "pÖLYNiMÜRi pUSHDOWN"
+                             «------------------------------------------»
+
+
+
+
+
+
+                      .                             .
+                  ...                                 ...
+                  :.:                                 :.:
+     ......::::::                                         ::::::......
+     ::    ::::::                                         ::::::    ::
+     ::    ::::::                                         ::::::    ::
+::::::::::    :                                             :    ::::::::::
+:::  ::  :    :                                             :    :  ::  :::
+:::  ::::::::::                                             ::::::::::  :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::     _______             _____.______                         :      :::
+_____.__\_    /____   ______\    ||    /______________ _         :      :::
+\    |   /   /.  _/___\_    -   _||___/.|        /  _///___      :      :::
+ \  _|___\____|  )     /        \_     ||_     _/\_       /.            :::
+--\____/ ---- |_________|________/_____|-|_____\___________|ave'dTr --------
+::.      :                                                       .      :::
+:::      :                                                       :      :::
+:::      :                  "Dipswitch" by Taxi                  :      :::
+:::      :                 "Bad Karma" by Tango                  :      :::
+:::      :            "Dual Crew Shining" by Redskin             :      :::
+:::      :           "Dream Theatre" #1 by Abhorrence            :      :::
+:::      :                 "Titbits" by Avenger                  :      :::
+:::      :                 "Credits" by Avenger                  :      :::
+:::      :                  "Greets" by Avenger                  :      :::
+:::      :              "Dream Theatre" #2 by Kempy              :      :::
+:::      :                DTR file_id by Crusader                :      :::
+:::      :                                                       :      :::
+:::      :            all other logos & design by me             :      :::
+:::      :                 beta-testing by Mool                  :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      _____            ___                  __                ____   :::
+:::    _\\_  /__ __      /  //_____    ______ / //____.     _ __/   //_ _ :
+:::   _) _/    // //____.\___     /_ _/     /   _/    |___ ____.     _/// :
+:::   \  \     \_ _/    |   /    /   \     /    \     |  _/    |     \  ..:
+:     /___\_____/ \     |________\    \___/______\____|  \     |______\   :
+: <-diP---- _ _____\____| -- _ _________\ -------- _ _____\____| ---dTR-> :
+:..      :                                                       :      ..:
+:::      :                                                       :      :::
+:::      :         tHiS tiME mY rESPECT gOES OUT tO tHE          :      :::
+:::      :   gREATEST fiLE_iD mASTERS iN tEXTMODE aRT hiSTORY    :      :::
+:::      :                                                       :      :::
+:::      :                  in slash-dot style:                  :      :::
+:::      :                                                       :      :::
+:::      :  Mogue 2Fast Trivial Threaz H2o LordChaos Nup Misfit  :      :::
+:::      :    Crusader Darkus Kempy Redskin Rotox Yop Danzig     :      :::
+:::      :     Taxi Tango Shaolin Daeron Desert Neurodancer      :      :::
+:::      :                                                       :      :::
+:::      :                   in PC blockstyle:                   :      :::
+:::      :                                                       :      :::
+:::      :             Roy Ferrex MFM 2Fast Arlequin             :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::  _______.     _______________   _______   ________________   :      :::
+:::  \     _|_____\_      _/   _|___\_   _|___\_         /  _/______    :::
+:::   \    \_      /      \    )     /   )     /.      _/\_        /.   :::
+::: ave\____/_______\______\__________\_________|______\____________|dTr ::
+:::      .                                                       .      .::
+:::      :            g R E E T S  f L Y  o U T  t O             :      :::
+:::                                                                     :::
+:::   2fast/se - 4play/rse^s8 - abhorrence/ih - acill/lfc - acorn/a!    :::
+:::    acryl/hjb - adon/oma - adscolent/1oo - amptor/os - anti-g/1oo    :::
+::: apu/hlm - arlequin/crc^pvm^pnk - avenger/dtr^bm - azzaro/l124^mawi  :::
+:::     bad peon/ue - batman - blackjack/mmc - blue/asl - boheme/se     :::
+:::     bud/1oo - caos/trsi - case/fth - carnifex/dms - chavez/fth      :::
+:::  chill/ftn - cockroach/wm - cqbs/evl^os - cp!/tbf - crazy/a!^trsi   :::
+:::  cru/ue^can^1oo - crusader/hf^m's - cyberkid/kts^nbc - cyclone/hjb  :::
+:::      daeron/lp! - dalezy/tql - darkus/asl^hjb^nah - deeone/ahs      :::
+:::  diablo/scx^pgs^ryl - digiman/lfc^trsi - dv8/bm - dwarf/b!^mmc^kkz  :::
+:::       e605/sdi - eddie/m8 - eddy/rse - elemental - epoz/omen        :::
+::      escuma/ahs^1oo - evan/dcs^nah - evrimsson/nuance - exile/ih      ::
+:: exon/fth^jrm - extasy/fth - fastjack/ahs^boil - faxe/bm - fazwonga/os ::
+::.   flaspha/srz - folar/se - friedbits/arf^zoro - fury - geniuz/mvp   .::
+:::   ghandy/dkg^fth^gds - gilligan/dcs^trsi - gdm/lkr - h2o/al!^pdx    :::
+:::            h7/asl^mmc^trsi - hamster/trsi - hash/ahs^pzk            :::
+:::    harald krishna/pzk^lsd - harlekin/dbz^cpl - hawkwind/ahs^1oo     :::
+:::       kane/rj - keldon/hf - kempy/k0^mns^vzy - kernal/fth^lfc       :::
+:     krash/acme^tma - lance/trsi - legend/pdx - letharic/dit^ilt^tl      :
+: lord chaos/ahs^dtr^bm^sht^mvp - lowang/lfc - m-plant/hf - marauder/food :
+:..      marodeur/fth^lsd - mess/c!^neon - miracle/1oo - mool/ahs       ..:
+:::    mortimer twang/bgirl^dcs^lp!^mono - mr.canabis/s8 - mute/asl     :::
+:::       mws/radwar - mystic/fth - native/asl - neurodancer/1oo        :::
+:::      ninja/pdx^trsi - nup/cpl^dcs^p'a - o.b./trsi - outsta/dcs      :::
+::: pahn/ahs^bk^trsi - pandur/bm^gld - phreak klass/ad - pogue/imp^woe  :::
+:     positive pain/blz^sia - poskgubbe/kts - poti/bm - potzkoten/bm     ::
+: ramses/rmd^dlm^dmx - rasterblaster - raver/dcs^pht - red demon/lp!^pdx ::
+:..     redrat/ahs - retro/neon^dcs^trsi - rezine/ahs^dkn - rkr/lfc     .::
+:::      rotox/art^cpl - rza/mnc - sack/dcs - sasq/dcs - saint/dcs      :::
+::: scaz/ahs - shadow/lfc - shallow/sdm - shaolin/dtr^lfc - siegel/trsi :::
+::: slapshot/ahs^slt - soing/flux - sonik/hf - spot/up! - speedevil/p^a :::
+::   spearfx/bm - spermwhale/tl - sprenger - steel/dc^lfc - steve/qsr   :::
+:: stylez/c! - sublett/dcs^lsd - surfing/rj^woe - taxi/fcn - tcb/bk^qtx :::
+::.       teis/mvp - the risk/ahs^mmc^s8 - thung/k0 - tleilax/ue        :::
+:::    trivial/lp!^soia - turrican/os - vladimir/dma - vodka/dcs^flt    :::
+:::    volatile/lp!^mmc^pnk - vouck/asl^bk^dft^phd - warhawk/cnc^nts    :::
+::: wayne kerr/cpl - wizler/s8 - woober/a!^dkg^rse - xtec/blz - xxx/hjb :::
+:::  zalza/tql - zaner/ahs^bk^dtr^lfc^soia^up! - zeff/dcs - zinko/trsi  :::
+:::      .        zippy/bm^crc - zito/apt^owo - zod/trsi         .      :::
+:::      :          zoltrix/dc^ftn^lfc^trsi - zorro/dg!          :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                      _ _                              :      :::
+:::      :  _____              _\  __               ___          :      :::
+:::   _  __\\_   \_  .____.  _\\_\/_/__    _______ /  //_____  _  ___ ____.
+:: ___\/__   /    /__|    | _)   \/   (_ _\\_    / \___     /__\/_  _/    |
+: _)     /  _    /   |    | \    ||    /    /   /     /    /     (_ \     |
+: \     /___\____\   _    | /____||____\   /   / __________\      /__\____|
+: /    / -diP _ _____\____| -dTR---- _ ________\ ------- _ _______\ ------->
+ /____/  :                                                       .      :::
+...      :                                                       :      :::
+:::      :          mY pERSONAL rAGGA dANCEHALL tOP tEN          :      :::
+:::      :                                                       :      :::
+:::      :      1. Lexxus & Elephant Man "Bout It Bout It"       :      :::
+:::      :              2. Baby Cham "War Forever"               :      :::
+:::      :                  3. Armana "One Way"                  :      :::
+:::      :              4. Beenie Man "Ganja Farm"               :      :::
+:::      :            5. Red Rat "Little Miss Boffet"            :      :::
+:::      :                6. Lexxus "Monkeys Out"                :      :::
+:::      :               7. Ward21 "Melody Of War"               :      :::
+:::      :         8. Delly Ranks & Rik Rok "What A Gal"         :      :::
+:::      :             9. Madd Anju "Nuh Play Chess"             :      :::
+:::      :         10. Beenie Man "Pum Pum Gone A Lead"          :      :::
+:::      :                                                       :      :::
+:::      :       all tracks powered by www.listen.to/lele,       :      :::
+:::      :  www.bounce.to/soundboy and Mool's TDSL flatrate =)   :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :      _       \ _                      _ /       _     ·      :::
+:::      : /|  :        |\\  -^  D R E /\ M  ^-  //|        :  |\       :::
+:::      : ¯·  |        ·                          ·        |  ·¯       :::
+:::      : _    ____.---._.------.--------.___\----.--------.   _       :::
+:::      : \  _l    `   l        l   ...  l    \_  l _ _    l_  /       :::
+:::         \\\_ ...    _ |      _   |||  _ ...    _ | |    _///        :::
+:::     km!  / | |||  __| |______| 7______| |||   _|_|_|    | \  .k0    :::
+:::            `------' `--'     `----'   `-------'    `----'           :::
+: _   .---.___ .---/____.--------.___\----.---.___  _.------.--------.   _
+: \  _l      /-l  /     l   ...  l    \_  l      /-l        l   ...  l_  /
+:: \\\_  ___/  _ _      _   |||  _ ...    _  ___/  _ |      _   |||  _/// .
+::: / |_  '   _|_|      | 7______| |||   _|_  '   _| |______| 7______| \ ::
+:::    `------'  `------`----'   `-------' `------'`--'     `----'      .::
+:::        _.  |        ·   _                  _   ·        |  ._       :::
+:::        \|  :_       |// (  T H E /\ T R E  ) \\|       _:  |/       :::
+:::                     / ¯                      ¯ \                    :::
+:::                                                                     :::
+:::                                                                     :::
+:::  aVENGER / diPSWiTCH / gRAVEDANCER / lORD cHAOS / sHAOLiN / zANER   :::
+:::                                                                     :::
+:::  a: avengerbm@gmx.de  d: dipswitch@dc-s.com  g: gravedancer@rc5.de  :::
+:::          l: lordchaos_@rocketmail.com  s: s.haolin@gmx.net          :::
+:::                       z: zaner@lightforce.net                       :::
+:::                                                                     :::
+:::- ----------------------------------------------------------------- -:::
+:::              «·2k·»  t W O  t H O U S A N D  «·2k·»                 :::
+:::- ----------------------------------------------------------------- -:::
+:::                                                                     :::
+:::  DTR-INFO.TXT  JAN^2k  DREAM THEATRE ANNOUNCEMENT       DTR CLIQUE  :::
+:::  DTR-GLV2.TXT  FEB^2k  GLOBAL VILLAGE 2 - MIGGY INVASION DIPSWITCH  :::
+:::  DTR-SG!.TXT   MAR^2k  STYLES GALORE                       AVENGER  :::
+:::  DTR-JOY.TXT   MAY^2k  JOY TO THE WORLD                    SHAOLIN  :::
+:::  DTR-WAFM.TXT  JUN^2k  WE ARE FAMILY - M_S'2k PARTYCOLLY DIPSWITCH  :::
+:::  DTR-TITS.TXT  AUG^2k  TITBITS                           DIPSWITCH  :::
+:::                                                                     :::
+:::  more to come !                                                     :::
+:::- ----------------------------------------------------------------- -:::
+:::                                                                     :::
+:::               «  oUR gREAT bULLETiN bOARD sYSTEMS  »                :::
+:::                                                                     :::
+:::                    tHE yARD  -  wHQ  - oP: zANER                    :::
+:::                     **sOON**  - gHQ - oP: ****                      :::
+:::      .             diAL hARD  - cHHQ  - oP: fURY             .      :::
+:::                                                                     :::
+:::                           wE nEED mORE !                            :::
+:::      .                                                       .      :::
+:::                                                                     :::
+:::      .                                                       .      :::
+:::      .                                                       .      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::      :                                                       :      :::
+:::  ::::::::::                                             ::::::::::  :::
+:::  ::  :    :                                             :    :  ::  :::
+::::::::::    :                                             :    ::::::::::
+     ::    ::::::                                         ::::::    ::
+     ::....::::::  · dREAM tHEATRE - biG tiNGS a gWAAN ·  ::::::....::
+           ::::::                                         ::::::
+                  ...                                 ...
+                  :.:                                 :.:
+                      .                             .
+
+
+
+@BEGIN_FILE_ID.DIZ:_ __   ____ ______ ___ ____ ___.:___ ___ _:
+|/    __\_  \\_   // _//    \\  ||  /     \|
+:   ./   /  / /  /  _)          ||   \.    |
+|cDr|______/__\__________/\_____\/____|m's o
+| _______:___ ___ ____ ______ ______ ___   |
+  _   _  |  // _//    \\_   _\\_   // _/_  :
+ .|   |  \    _)        |   |  /  /  _)  \.
+_||___|__|_________/\___|___|__\__________||
+- ---------------------------------------- -
+   "tiTBiTS" - a nEW diPSWiTCH pRODUCTiON
+              fULL oF fiLE_iD'S
+- ---------------(11.08.2k)--------------- -@END_FILE_ID.DIZ
+                                     :
+                         /___________ø_ [%* tHE YARd BBS 2k! *%]
+     ._________________///   ________:                          ____
+  ___|_______ ____.    /  ___\_      |___   ___\      _____  __/_   \
+  \     _   //   _|__  __/_    \     |   \ /    \  __/_    \/   /    \
+   \___/    ø   /    \/   /    /     |_   /      \/   /   _/   /      \
+     _/     :  /_     \_ /____/¯\_____/  /       /   /_    \__________/
+     \______|    \_____/_________/ /____/        \_____\_____//
+         \_______|                     /____________\©nUP
+
+  zANEr^LFC ÷ diPSWiTCH^DCS ÷ hAsH^SOiA ÷ NINjA^PDX ÷ mOOL^AHS ÷ dARkUS^HjB
+
+   ÷ AEROHOLiCS WHQ ÷ ARCADE WHQ ÷ AEROSOL WHQ ÷ DiSCiPLES OF AGEEMA WHQ ÷
+      ÷ DREAM THEATRE WHQ ÷ LiGHTFORCE GHQ ÷ BAD KARMA GHQ ÷ ROYAL GHQ ÷
+   ÷ SOiA GHQ ÷ UP ROUGH GHQ ÷ LOW PROFiLE GHQ ÷ PHUNK GHQ ÷ TEQUiLA GHQ ÷
+  ÷ SODiUM GHQ ÷ PUNGAS GHQ ÷ OMEN GHQ ÷ 1OO% GHQ ÷ VORTEX GHQ ÷ MVP GHQ ÷
+          ÷ DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS/BETA-SiTE ÷
+
+     ÷ 3 nODES dIAL-UP 33k6 aND 64k iSDN ÷ 5 nODES tELNET 24h/7 ADSL ÷
+   ÷ 0d aMiGA/aSCii/hANDhELDS/n64 - dC/pSX/sNES/mP3/cLASSiCS/liNUX/dRUGS ÷
+
+ 
+ 
+ .------------------------------------------------------------------\\---.
+ |                                                                   \\  |
+ |     :____.              .____.              .____.                 \\ |
+ |     |    |____  _______ |    |     ________ |    |      _______     \\|
+ |__ _ |    |    |_\__.   \|   _|___  \___.   \|    |    ._\__.   \_ _ _\\
+ |     |    |    |    |    |   \_   \_    |    |    |   _|    |    |     \
+ |     |    |    |    |    |    |    |    |    |    |__/ |    |    |     |
+ |     |    |    |    :    |    |    |    |    |    | /  |    |    |     |
+ |     |    :    |    .___/|    |    |    :    |    :    |    :    |     |
+ |     |         |    |    |    |    |         |         |         |     |
+ |__ _ |         |    |    |    |    |         |         |         | _ __|
+ |     ¯\_______/|____|    |____|    |\_______/¯\_______/|________/¯     |
+ |                              |____|                                   |
+ |                              :    :                                   |
+ |           .____.                  .____.              .____.          |
+ |   ________|    |      _________   |    |      _______ |    |  .____.  |
+ | _/        |   _|___ ._\  _____/   |    |    ._\__    \_    |  |    |  |
+ | |    .    |   \_   \|    __)__    |    |   _|    |    |    |  |    |  |
+ | |____|    |    |    |    |    |   |    |__/ |    .    |    |  |    |  |
+ |      |    |    |    |    |    |   |    | /  |    |    |    |  |    |  |
+ |      |    |    |    |    :    |   |    :    |    |    |    |/\|    |  |
+ |      |    |    |    |         |   |         |    |    |    :  :    |  |
+ |      |    |    |    |         |   |         |    |    |            |  |
+ |      |____|____|    |\_______/¯   ¯\_______/|____|    |\____/\____/¯  |
+ |                |____|                            |____|·AbN·          |
+ |                :    :                            :    :               |
+ |                       dA uLTiMaTe dEMo BBS for:                       |
+ |                                                                       |
+ | aMiGa · pC · mAC · aRCHiMEdEs · cONSoLe · aScII  ( c64 & aTaRi sOOn ) |
+ \                                                                       |
+ \\          Node 1 :             Node 2 & 3 :         Node 4,5,6 :      |
+ |\\     USR V.90 I-Modem          Euro  ISDN           24h Telnet       |
+ | \\   +49-(0)30-44730311     +49-(0)30-44730312     remedy.yi.org      |
+ |  \\                                                                   |
+ `---\\------------------------------------------------------------------'
+ 
+ 
+                                             [mULTI-cHECK v1.5 by SieGeL/tRSi]

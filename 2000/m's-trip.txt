@@ -1,0 +1,1689 @@
+ 
+  ...         _ _                                          _ _     ...
+ ::::          \\\ sTAGE 1 cOMPLEtED <> pAsSED tHRoUGH TY ///      ::::
+ :::_   .___.    \                                        /        _:::
+ :://-- |   |-----\  24h Static Telnet on broadband ADSL /--------// ::
+ |. .___.  _:____ _  ___                                             _:
+ _ _|   |_ \_   // //  /____   __ _  cONSOLES/aSCII/aMIGA/gRAFF/=C64 \:
+ \\\_   _/__/  /___  _     /__||///  mACINTOSH/mUSIC/sAMPLES  ____    |
+    |_  \_\        \ /____/   _      _____ _      _____     ./  _/    .
+ .   /_    \________\________\\    ._)  _ \\______\__  \____|   \_ _ _: _
+ :     \______\\t^/lp!        ____ |   _/     /     /   \  _|   _////__\\
+                             /   /___  \      \ __ \\  _/__\|   \     :/
+  > theyard@graffiti.ag < _ /   / __//__\______\\_\ /_____/ \    \    :
+ :     _                  //_____\\:     \      /___|   \_________\  _.
+-.----\\-----------------------|   |----- .-----------||-------- ----/:
+ | tHE iDEA oF sTYLE iS tHE kEYl___|tO aLL fORMs oF rOCKiNG - TY 9603 |_
+-@----------------------------._____.---------------------------------@
+
+
+ 
+ 
+ 
+          .________________________________________________________.
+  __      |                                                        |
+ /_/\  ___|__¦______ ______________¦_______________________  _ _/\_|______
+ \_\/  \·    |     /_\______  /·   |    \_______   _ /    /_________    o/
+  +:    \\   |    /    ______//          \     /   //    /    /    /   //
+  :o     \_______/______|   /______|______\________/________ /________ /
+  .·      |                        ¦                       \/      | \/
+          |                                                        |
+  .       | U   P   H   O   L   D        T   H   E       L   A   W |
+          |                                                        |
+ ______/\_|_______¦____    __________     _____     _____   _____ /\ _____
+ \ _ o     _ /    |   ·\  /  ___    /    /    /____/o   /___\ _  /  \    /
+  \//      \/          \\/    _____/    /    /    //   /\    \\ /    \  /
+  /_________\_____|______\_______ /    /________ /____________\___/\___/
+          |       ¦             \/             \/                  |Sk¡n 
+          |________________________________________________________|
+
+                         dA uLTiMaTe dEMo BBS for:
+
+    aMiGa · pC · mAC · aRCHiMEdEs · cONSoLe · aScII  ( c64 & aTaRi sOOn )
+
+
+      ReMeDy wHQ (Amiga)  ·  x-FiLEs nEWs sTaTiOn  ·  U.D.O. wHQ (Amiga)
+
+                eNDzEiT wHQ (Amiga)  ·  dARkSidE wHQ (Amiga)
+
+    aNAdUNe dIStRiBuTiON SiTe (Amiga)  ·  nUAnCe dIStRiBuTiON SiTe (Amiga)
+
+                sUPeRiOr aRt cReATiONs dIStRiBuTiON SiTe (PC)
+
+   aLieNDeSiGN wHQ (Amiga-Tools)  ·  tRSi rECoRDz dIStRiBuTiON SiTe (Audio)
+
+
+      sEArCHiNg fOr mORe gRoUPs!   eSpEziAllY c64, aTaRi aNd aRChiMeDEs!
+
+                                dA sYSOPs aRe:
+             Node 1 & 2 :                            Node 3 & 4 :
+         USR V.34+/x2 I-Modem       rAMSeS            Euro  ISDN 
+          +49-(0)30-44730311          &&          +49-(0)30-44730312
+                                     pASo
+
+           -----  nOw X2 aVAiLaBle  ------  nO RaTiOs !!!  -----
+ 
+ 
+ 
+
+
+
+ 
+ 
+                                     ·
+                                     :         
+                               __ _/\¦/\_ __    
+               __/\__ _ _  __ _/(_)  |  (_)\_ __  _ _ __/\__  iF U sOFT
+aMIGA          \    /   ( /_/\\_     |     _//\_\ )   \    /  gET lOST!
+ tERROR        /_  _\     \_\/_/   @ | @   \_\/_/     /_  _\
+  wORLDWIDE      \/           \__   _|_   __/           \/   sHARP aS a kNIFE
+          _ ___ _____/\_ ___/\__/\__).(__/\__/\___ _/\_____ ___ _
+          \\\__\\_____ (_) __ ___  (_¦_)  ___ __ (_) _____//__/// dAS fLEISCH
+fICKEN   _          \___  /  \/| _ _ _ _ _ |\/  \  ___/          _ GEWORDENE
+uND     /(___ _/\_____ / /_ _ _| | | | | | |_ _ _\ \ _____/\_ ___)\  bOESE
+tOETEN /    (_)  \_    \/    \\_ |_|_|_|_| _//    \/    _/  (_)    \ 
+      /          _/      _  _ _| | | | | | |_ _  _      \_          \
+      \                  ( (_)\_ | | | | | _/(_) )                  /  
+    /\ \   WE W¿LL NEVER      _/ ¯ ¯ ¯ ¯ ¯ \_       WE W¿LL NEVER  / /\
+    \/ /     SURRENDER  _ __/\\__ _\   /_ __//\__ _  COMPROMISE!   \ \/
+      /                 \\\__/  \/  \_/  \/  \__///                 \
+      \                  ¯  __/\           /\__  ¯                  /
+       \  __________________\__/           \__/__________________  /
+i HATe  \(                    __/\       /\__                    )/ 
+PC ANd I ¯                    \__/  ___  \__/    :)              ¯
+WONt STOp                       __/\\_//\__
+              ONL¿NE UNTIL BUST \__/ _ \__/ ONL¿NE B¿S ZUM KNAST
+                                  __/ \__
+                                  \_____/   WE WOULD DiE FOR COMMODoRE
+
+
+
+
+
+
+sof!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           ..Do you remember this logo?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  .
+                                  :::...
+                       ..:        ::::·
+                      ::::        ::·
+                      ::::        ·            ....:
+                     .::::                ..::::::::
+                     :::::             .::::·· :::::
+                    ::::::           .:::·     ::·
+                   .::::::         .:::·       ·
+                  .:::::::        .:::
+                 ::::·::::       ::::              ...................
+               .::::  ::::      :::::::::::::::::::::::::::::::::::::::::::.
+             .::::·   ::::     ..:::::::::::···········          ..:::::::··
+           .:::··     ::::   .:::::            .:             .:::::···
+        ..:::·        :::: .:::::::         .::::          .::::··
+      .:::·           ::::::· ::::::         ::::       .::::·
+. ..:::·              ::::·    :::::.        ::::     .::::·
+·::dto/m's            ::·      ::::::.    .  ::::   .::::·
+                                :::::::...::·::::  ::::·®
+                                 ··::::::·· :::::.:::·
+  - ----------------------------------------:::::::··--------------------- -
+     m     o     '     s     o     u     l  :::::·   2     0     0     0
+  - ----------------------------------------·::·-------------------------- -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        ..Yep, Longtime no see, we're back!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          __              .....                 __  :
+ _ __  ___\/_         ....:::::    .____________\/__¦_ _
+     \\\  /\/   ......:.. :::::    | _          \/  |
+    ____\/____ ..... ::  :  :      | /  __ _    /   |     the MO'SOUL junkies!
+_ __\_  \/  _/_::::: ::..:..:      |    \  ______  __ _
+       \  /    ::::: :::::     _______  _ _\____ \\\
+        \/     ::::: :::::  _ _\_ ___/____    /   \_    :          _ __
+ _ _____/      ::::: :::::_    ________   \_       /____¦_   _______  /
+       /      _::::: ::::\/    \      /    /      /_\_   /  _\_ ___/____ _
+_ __  /       \/:::: :::::      \    /    /______/      /       \
+   ///_________::::: :::::   _ __\ ______/             /|        \
+               ::::: :::::        \/         +
+               `::::.....          .  _|_         _ _ _________________ _
+                                  _|   |          / .
+                                  \/       ·     // | _
+                                   |________________| / H2o!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   ..represented by:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   _____________________  _________________________
+                  | ©nUP                _\                      _ /.
+         ____    _|___  ___.  ____ /_  /  \      ____      _____\/ | _____
+      __/_   \__/_    \/   |-/    /_  /    \  __/_   \  __/_    \ _|/_    \
+     /   /___/   /   _/    | \__    \/      \/   /    \/   /    //   /   _/
+   _/   /    \_ /_    \_   |   /     \_     ·\  /      \  /____/¯\_ /_    \_
+   \_________ /___\____/_____ /_______/     _\\________/__________/.__\ ___/
+             /    |___       / _ _/____________\_ _                |   \
+                   __ |     ·                                      |
+                  |  ||          ·  c R U S /\ d E R  ·            |
+                  |__||________________________________________m'S_|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          ..who's gonna take you to a trip!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       :
+                   ___/|           /_
+__ ____________  _|    |  _______ //( ________ /\_ ____________________ ___
+                 \_    _\\\_    /(___))_     //
+    T  R  i  P    |    |  _/   /       /____/       TRiP BACK iN TiME!
+__ _____________  |    |__\______     ___|    ___ _____________________ ___
+                  | ___|        |_____|
+                  |/
+                  :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               # FROM HEAVEN TO HELL #
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                        __
+                                                           ___________ |__|
+                                                           \ _        |__
+                                   :                       |\/           |
+               /               ___/|                       |             |
+      _______ / \ _____ ______|    |_ ___: ___ _______ ____:_ _____      |
+     .\    _/(___)\_   \\    /_    _//   |(___))_    //_    //   _/__    |
+     |    _\      _/   / \   \|    |     |_     /   /  /___/ \___    \_  |
+   _||____|__     \_______\   |____|______/    /_____\________________//_|
+ <----------|_____|------/_____\------cDr|_____|m's--------:-------------|->
+                                                           |             |
+ Hello and welcome to my last colly under MO'SOUL label!   |             |
+ Yes you heard it right, this colly was originally going   |             |
+ to be released in the last co-op collection from the whole|             |
+ MO'SOUL gang, but as it seems now most members have become|             |
+ inactive or left for other groups, so i decided to release|             |
+ this one for myself!                                      |             |
+ This is no "i leave MO'SOUL" collection, no! This is just |             |
+ my way to salute this great group that i have had the     |             |
+ opportunity to be part of for nearly 4 years!! I dont     |             |
+ really know what the deal with MO'SOUL is really, are we  |             |
+ dead are we alive? But for me there are no other options  |             |
+ to when it comes to join other groups, there are no group |             |
+ on the asciiscene that has even come close to the quality |             |
+ releases that MO'SOUL has been pulling out the past 4-5   |          /  |
+ years except the Arclite guys! (Great new colly H2o!)     |        ///  |
+ There wont be anymore collections from me released under  |       .//   |
+ MO'SOUL in the future, but still the cDr/m's tag will     |       /     |
+ remain the same and stick to all my new coming artworks   |             |
+ as i still feel like i belong to this group, eventhought  |             |
+ the releases will be pulled out under independent label!  |             |
+                                                           |             |
+ This collection is a little "remix" thing from all of my  |             |
+ collections released under MO'SOUL label, just a lookback |             |
+ on a few logos from each colly ive released during the    |             |
+ 4 years(since 96') ive been in this group, in total five  |             |
+ collections. I grabbed the two nicest logos from each     |             |
+ colly that *I* liked the best when i look at them now,    |             |
+ check em out! Maybe you like em aswell..                  |             |
+ This is also my way to show you how lazy i am doing logos,|             |
+ so instead of doing lots of new logos i grab logos from my|             |
+ old collies and recycle them! :p The first part in this   |             |
+ trip is where i take you back in time to the days when i  |             |
+ began drawing ascii's and the things that got me hooked to|             |
+ this artform! In early 94' when i began i was not part of |             |
+ the real modem/asciiscene i didnt own any modem and i was | oOo         |
+ mailswapping alot with friends from all around the world, |             |
+ some guys who i still have contact with! (Ghandy, Exon,   |             |
+ Markryder, Devistator, Opel etc..) In those days my main  |             |
+ contact with asciiscene was checking out bbs adds from    |             |
+ various boards and watching a few collies every now and   |             |
+ then. I used to collect cool looking bbs adds in a .txt   |             |
+ file and i still got em here, burned on CD along with the |             |
+ rest of the collies 2000+ that ive collected during the   |          __ |
+ years, it surely brings lots of good memories back!       |         _\/ |
+                                                           |             |
+ Lets start this colly with a bunch of logos that i have   |             |
+ gathered with a few of my favourite bbs adds ever, that   |             |
+ made *ME* intrested in the asciibiz and the logos which   |             |
+ still means alot to me! In total 9 logos from various     |             |
+ known and unknown artist, with a little comment on them   |             |
+ from me, just check em out and see what you think!        |             |
+ The second part is the stuff i released during the MO'SOUL|             |
+ years, i hope you enjoy the trip!                         |             |
+ this is my story..                                        |             |
+                                                           :             |
+          CRUSADER OF HELLFIRE & MO'SOUL 2000 (c)                      __|
+  __ _________________________________________________________________| __
+                                                                       |__|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          ...........................
+                        ..:                         :..
+                        :                             :
+           ...... ......:                             :...........
+          :::::: : ::::::                             :::::: ::::::
+    ::::: :::::: : ::::::   M O ' S O U L   2 0 0 0   ::::::......  :::::
+    ::::: :::::: : ::::::                             ...... :::::: ::::: 
+          :::::: : ::::::                             :::::: ::::::
+          ::::::   ::::::     .THE EViL SERVANTS.     ::::::.:::::'
+                     cDr:..                          .:m's
+                          :..........................:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   .
+                                                                   .
+        *  C H A P T E R   O N E  *        :                    ...:.. .
+                                       ___/|                  .:::::
+       _____ ___.:____ ______ ________|    | ________ ______.:::::::
+      /   _//   ||   //      \\_     /.    _\\_     //_    /  ::::::
+     /   /      \\             /____/ |    |  /____/ _/   /   ::::::
+   _\\__________||_______/\______| __ |    |_________\_____\  ::::::
+ <---------------------------------cDr| ___|m's---------------::::::-->
+                                      |/                     .::::::.
+  FLYiNG SPiRiTS BBS ADD by: UNKNOWN  :
+         FAR oUT BBS ADD by: DANZIG                           ::::::
+        HYSTERIA BBS ADD by: FAiTH              ____ / ____   ......
+   ELEVENTH HoUR BBS ADD by: SHAPEcHANGER       \ _//_\\  /   ::::::
+         REPULsE BBS ADD by: GOdHEAd             \\_ _ _//    ::::::
+  LUNATiC ASYLUM BBS ADD by: ELViS                \((_))/     ::::::
+    SKULLBUGGERY BBS ADD by: UNKNoWN               \   /      ::::::
+        MoRTUARY BBS ADD by: SEVEN M                          ::::::..  .
+    FiNAL iMPACT BBS ADD by: H2o       :::: ::::::::::::::::::::::
+                                                                 :
+                                                                 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: FLYING SPIRITS           -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+"This was the first time i ever saw an ascii done with an IFF2ASCII converter,
+ which was unusual in those days! A very stylish logo, which stood out from
+ the crowd when it came out, until everybody started using these proggs!"
+
+
+
+                         ..tHiS fiLE wAS LeEChED fRoM:
+             ____  ,r
+         _a*°"¯¯¬r ÆÞ
+         °a        Ø         __
+          #        #        ¤´¬                            ..a...
+         JF       JF      ¸
+         Jw*m^^   7L .   æ´  É  F  _æ         ®          ..s¡GN oF...
+        ¬Ø        áÞ ¬K  @  JF JF a"0   a*^g
+         #        0   ¶_JF  7F JFJ´ Ø ,#   Ø               .sTYLe..
+        JF        0    ¶æF  7Þ, Ø´  Q ¶La*0_a
+         ·        ¶     0   ¬*´¬´   0_ ¯  ÆP     - - - - - - - - - - - -
+                        0            "  _P#       ...2 nODEZ riNgdOWn..
+                        0              d´JÞ       nO: +41-21-aSK'rOUND!
+                        Ø             Æ  Æ       fAAASt AMIGA, SNES, UFO
+        ___             #            Æ  d        GFX, MODS, ASCiii, ...!
+     _æ^¯  Þ            Q            Q_/  ,·     - - - - - - - - - - - -
+  _æP    _/           __¬         ___¶"   #
+ æ°                   ¶ ¬         ¶ ¬     F             -------- a:--------
+ P==m*w.__       __      ,               JL,w    ___    TR¡STAR & rEDsECTOr
+         ¬^w_  a#"¬#¸ _P ¶   æ°°* _P ,æ¤°Ø¯   _æ¤"¯7    -------> hQ <------
+            3rj F   Q ÆÞ JL Æ     ÆÞ     #    ¶^=*w_
+            æ´ JF  JF ØÞ  #Ø      ØÞ    JF         ¬#
+  ,     _,-°   JF ,@  Ø   0F      Ø     JF _  L   _æF
+  °===*°¯      JL,°   °*  J       °*     #m"  ¶**°"
+               JF                                        sEE yA sOON!!??..
+                Þ    sYS: [mDJ/TRS¡]
+                L  cOSYS: hARDR¡DER, MCloUD/TRS¡
+                F  - - - - - - - - - - - - - - -
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: FAR OUT                  -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "A nice piece from DANZIG for a swedish BBS, it cached my eyes directly!"
+
+
+
+                          tHe SwEeTeST PeRfecTiOn  :
+                _______/\  ______        ______ __/¦__ _______ _ __
+                \_ __\_  \ \_ _  \       \_ _ _)\_ | _)     _////
+                /  _)/    \/ _/  /       /  |  \/  |  \\_/  |:.
+         __ _ _/   |/  /\  \ \  <_ _ __ /   l   \  l   \/   |::.
+           \\\\    |__//____\_\___\\\\  \  _____/______/____¦:::::...
+        >------\   [DzG]-----------------\/-----------------:--------<
+                \  |                                        .
+                 \ | Nøde1 -- +46-40-PRiVATE -- 16800 HST
+                  \| Nøde2 -- +46-40-PRiVATE -- 14400 HST 
+                   ¦ Nøde3 -- +46-40-PRiVATE -- 16800 DS
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: HYSTERIA BBS             -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "This logo was what got me really intrested in doing ascii's, simply a 
+   brilliant piece by some dude named FAITH, for a local bbs in 93'. I still
+   love this logo, one of the coolest logo's ive ever seen!"
+
+
+
+   /// IF YOU'RE NOT A USER OF THE FASTEST BOARD IN SWEDEN CALL NOW!\\\
+              _      _                 _      _            _
+     __      _)\_  __)\_  - 1993 - _ __)\_ ___)\___ //\   _)\      ___  _
+     )| |\  /   /_/  _ ¬\____/\____)\    ¬))   _  ¬)\\/  /___\    /\ ¬\/\
+    /_|___\//  //¬\\ ¬\______ _\_____) __//   // _/ /¬| / |_| \  // \_ \ \_
+   //_____ \\ //_  \_____¬\//Y¬ \ \\  _)_//  //_ / // |// _¬_  \ \\ /  / /
+  // ¬| |   \___¬  // \_¬ // :   \//    ¬\\ /   Y //  //  |Y|   \ \/__/\/_
+==\__ / \_ _// ¬  /\___ __\___  _/\__ ____)/====:=\___\___/:\__ /========
+     Y    Y \_ __/     Y      \/     Y          .          .   Y (-FA¿TH-)
+     :    .   Y        :             :                     .   :
+                                                                        
+                        >>>ADDONIC SHQ  MAGICK PC<<<
+    SYSOP: JAC/ADDONIC  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^     
+                        >>DIAL 46(0)21/842939!<< 16.8K DS
+CO-SYSOPS: FLASHMAN     >>DIAL 46(0)21/842940!<< 16.8K DS
+           KRONOS       >>DIAL 46(0)21/842945!<< 16.8K HST
+
+          >>1.2 GIGABYTE WITH: AMIGA,PC,CONSOLE,PORNO,MODULES,DEMOS<<
+
+                        >>20 GB IN TRADED STUFF SO FAR<<
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: ELEVENTH HOUR            -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "Plain, simple and easy readable logo from SHAPECHANGER in his early style!"
+
+
+
+      _      _|      _        |_      _       _         _    _|          
+ ____/ \____/ |___ _/ \_______| \_ __/ \_____/ \__ ____/ \ _/ |_______  _
+ \__  _____/  |:::V   _____/  |   V   _________   V   .   V   |  ___/ \/ 
+   /  __)_|   |:/¯|   __)_|   |   |   __)_|   |   |   |   | __|   \      
+  /   |   |   |¯  |   |   |   |   |   |   |   |   |   |_  | \___   \     
+s/    |   |   |   |   |   |   |   |   |   |   |   |   |:\_|   |     \s   
+c\_____   A____   A____   A_______A   ____A___|  _A_  |:::A___|  ___/c   
+~~~~~~~\_/~~~~~\_/~~~~~\_/~~~~~~~~~\_/~~~~~~~~|_/~~~\_|~~~~~~~|_/~~~~~
+            _|       _       |_       _     
+_ __  _____/ |___ __/ \__ ___| \_____/ \___  -------> 313-254-0793<--------
+    \/ \___  |   V   .   V   |  \_____  __/  AMiGA 3øøøT ø4ø...10 NøDeS!
+         / __|   |   |   |   |   |   |   \   MaCinTOSh IbM/AmiGA/cøNSolE
+        /  \___  |   |   |   |   | __| __/      Sysops> Mko! ^ RuSh!
+      s/     |   |   |   |   |   | \__   \   [ DELIRIUM GOD TRSI MEDELLIN ]
+      c\___  |___A_______A_______A___|  _/        ALL USERS WELCOME!
+      ~~~~~\_|~~~~~~~~~~~~~~~~~~~~~~~|_/~~~  ______________________________
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: REPULSE                  -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "I never really was fond of GODHEAD's ascii's unlike many others, but this
+   old bbs add for Repulse BBS is still an ace!"
+
+
+
+                               ·° °     °
+                               : °     ° °·
+                               ¦ REPULSE! :
+                               |   _____  ¦
+     GdH_______________________|__/    /__|_____    __________________g'S
+      _/   _____/   ___________  ¬\   /¬\      /___/   _____/   _____/
+     /    __  ¬\   ___)_/     /    \ /   \    /  ¬\____   ¬\   ___)__
+    /      /    \_ /    ¬\_ _______//     \_ /     \_ /     \_ /    ¬\_
+    \_____/      /__      /_/ _______      /__      /__      /__      /
+          \_____/  \_____/     |    \_____/  \_____/  \_____/  \_____/
+                               ¦          |
+                               :° °     ° ¦  + 4 6 - 2 7 0 - 1 2 1 3 8
+                               . °     ° °:
+                                          .
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: LUNATIC ASYLUM           -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "ELVIS was one of my early favourites in the asciibiz, here with a very
+   cool stylish add for the finnish LA bbs. Nice highlights in this logo!"
+
+
+
+    ·     .      _____
+_ __|____   ° o /    /    /\  _  _ ___/\__ _____/¬\______/\  ___/\________
+   _/    ¬\_   /    /¬\  /  \/ ¬\___      ¬\         /_    ¬\_         __/
+   \__     /__/    /   \/   \\   \\__ _/    \___   ___/\_____/_  |_____/
+ _ _/     /    ¬\       \_  /     \/  \      \/     \/     ||/   |    \_
+ \\\_______    _\\_      /_/       ___/       \______\_____·¦_____     /
+          \_______/_____/ /__ ______//_________/ _____     \:    \____/
+  ______/\__     ___________/ \   _____/\       /    /    /\·        o
+  \___      ¬\ _/          __  \ /   __  ¬\_   /    /¬\  /  \  /\      ° .
+. ..\__ _/    \\____\______/___ Y ___/     /__/    /   \/    \/  \  <e>
+ ..::/  \      \/   \     \_ /  ·  \/     /    ¬\       \_   \/   \_____ _
+    /___/       _____      //_______\______    _\\_      /___/      ___///
+       /_________/  \_____/               \_______/_____/   /________/
+
+ All ThunderStruck's Accounts are transfered to Lunatic Asylum BBS (SFTOP)
+ -------------------------------------------------------------------------
+   5 Nodes - 1.5 gig HD - 16.8 DS - Dam0neS WHQ - AmiXnet PN0001 @SF0002
+  Amiga - IbM - Console - C=64 - Iff/Mods/Docs - ViRus - H/P/A - 'Goodies'
+             UnderGround Techno Conference - Online since 1990
+ Cosysop : Eddie & Ice & Polarbear & Rockstar - Only Elites and Veterans !
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: SKULLBUGGERY             -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "The logo in itself is not that great looking, but i like it somehow!"
+
+
+
+___________________________________________________________________________
+|>-<>-><-<·>-<>-><-<·>-<>-><-=-<>-><-<·>-<>-><-<·>-<>-><>-><-<·>-<>-><>-><|
+|<|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|<|
+|·| Îf ¥øµ ÂRÊ CøøL, ¥øµ'RÊ ÂLRÊÂÐ¥ HÊRÊ!  ØR ¥øµ KNøW SøMÊøNÊ WHø ÎS!  |>|
+|·|                                                                     |>|
+|·|   /\__|\__ _|\_ ___/\_  /\_|\___|\_ ___/\___/\___/\______/\/\_ _    |>|
+|||°¬/    \  (/ \  Y _/  /¤/  /|    \  V _/  __/  __/  ______  \  V \¯¬°|||
+|<|::\ .\_/.    /. | |. /:/. /:|. ° /. | |. /\/. /\/. _/:|.  ° /  | .\::|·|
+|>|:/V  \\|| \  \|   | /¯¯\ /¯¯\| ° \|   | /  \ /  \  \/\|| \  \__  //::|<|
+|/|:\  __/| _|\_/___ |__  /__  / ___/___ |__  /__  / ___/| _|\_/ ___/Mat|>|
+|·|°¬\/°¤*|/¬¯¬°¤*¤°\|¬°\/¤°¬\/|/*¤°¬¯¬°\|¤°\/¬°¤\/\/¯¬°¤|/°¬¯¬\/*¤°¬¯¬°|||
+|||                                                                     |·|
+|||+×+-+×+-[]       [Ø] by MEMbER ReFErral - ONLY! -  [Ø]     []-+×+-+×+|·|
+|||+×+-+×+-[] 3* µSR HST 16.8øø DS RÎÑGÐøWN - 2* µSR HST 14.4ø[]-+×+-+×+|·|
+|||                                                                     |·|
+||| L·S·Ð WØRLÐ HÊÂÐQµÂRTÊRS __________________ L·S·Ð WØRLÐ HÊÂÐQµÂRTÊRS|·|
+|<|_________________________/-><-<·>-<>-><>-><-\________________________|<|
+|>-<>-><-<·>-<>-><-<·>-<>->< "ThE BrOtHeRhOoD!" >-<>-><-<·>-<>-><-<·>-<>kø|
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\-><>-><-<·>-<>-><>/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                             ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: MORTUARY                 -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "My first ever contact with a SEVEN-M logo, this add is one of the coolest
+   adds i ever seen, simply awesome! SEVEN-M has a very special style, none
+   even comes close to his technique, i love the arrows in his logos! Too bad
+   SEVEN-M havent been around on the scene for many years!"
+
+
+
+________                -*- THIS WARE COME FROM -*-                __________
+       |___________________________________________________________|
+             _  _    ________________________/\________________ ____
+            / \/ \  / __________   \_  _____/  /_________   \_ \\_ /
+           / /  \ \/  \|   \/ _/  _//  \/  /  / \|_ |/ _/  _/\_ \\/
+          /  \ // \\_  \  //  \_  \/   \\ /  /  __/ |  \_  \  \  \  \
+      . _/  _/\/\___/___  /__ |\_ \\__  /_  /\__||_ |_ |\_ \\_/ //__)\  .
+      | \___/       Y   \/Y  \| \___\ \/  \/    |  \| \| \_   \ /     \ |
+  ----+-------------·-----·---|---------------------|--|7M\____Y____  /-+--
+      |________________________________________________________.____)/  |
+_______|                                                           |/________
+                  >>>>   TRSI -[TRZ]- ZENITH USHQ   <<<<
+                         -*- 312-ELITE-ONLY! -*-
+
+                                                                 FAST!!!
+   Five Nodes Dual 21.6 - Running /X 3.20 - Just "Some" GigZ - Amiga/Consoles
+
+   HUNTER: BloodWolf                            CO-HUNTERS: Soultaker/IND
+         `---------->                                     | Mario/tRZ
+       ----------------------------------------------     | Seven /\/\
+   `-*-!Where A TRADER Is RESPECTED For What He Does!-*-' | -[/X\ac]-/ACTION
+       `--------------------------------------------'     | \X/arlock/IND
+                                                          | Animal/LooNs
+                                                          | ECS/tRZ
+                                                          | s/\l-1/tRZ
+                                                          | --->YOU!<---
+                                                          `----------------->
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO:                          -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "WOW! Was the first impression i got of H2O's ascii's, this is a guys who
+   really have his own way of doing ascii's! Luckily there havent been many
+   guys who tried to copy his style as its so unique!"
+
+
+
+cALL oNe oF tHe bESt :     : ···············································
+In sWEDEn! ___ >F^I< ¦     ¦ : wANNa gEt uP oN ST __ oR tEQUILa cHARt ?!   :
+          _\_ \  ____|     | :    _________      _\/_ ... FINaL IMPaCT     :
+   ___________ \_\_  \     | : _ _\_ _____/___   \/\/ ----------------     :
+_ _\____     / \\   \ \    | ______  \       /                             :
+       /____/   \\   \     |_\__   \  \     / sYS: sTAIn/CLS : Mr sPOCk/HcD:
+      ___/ _______\  |\    | ·_/    \_     /       aLFATECh/CeN : U-MaN/aC!:
+       |             |_____| :\      /____/  __bOROMIr/2kAD : eXEROn^mANIAc:
+_ _____|             |       : \    /      __\/________________            :
+              _ /\___|    _ ____\  /       \ \/  __________   /            :
+   ___       __ /\           ·   \/____     \ _ _\__      /  / aMIGa ^ eBM :
+  _\_ \  ____\//  \          :_ _\__   \  _________ \    /  / sNEs ^ aSCII :
+       \_\_  \/    \  ___________ _/    \_\___    /  \__/  /               :
+       \\   \  /    \_\____  ·  / \      /   /___/_   \  _/oRDEr : aSCII   :
+        \\   \/  __  \    /  : /   \    /   /      | __\ \/      : IFF ADDs:
+_ ________\  / __\/__ \  /____/ _ __\  /           |    /        : /X UTILs:
+      _ ____/__\/__\/__\   | ·       \/ _ _________|   /                   :
+           / \/  \/  \/ \ _| :  nUM:+46-550-181-28    / H2o! nUP: nOT nEDEd:
+          /              \   ·······················\/······················
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        *  C H A P T E R   T W O  *        :                 ...........
+                                       ___/|                .::::: ::::::
+       _____ ___.:____ ______ ________|    | ________ ______:::::: ::::::
+      /   _//   ||   //      \\_     /.    _\\_     //_    / ......:::::'
+     /   /      \\             /____/ |    |  /____/ _/   / :::::: .......
+   _\\__________||_______/\______| __ |    |_________\_____\:::::: ::::::
+ <---------------------------------cDr| ___|m's-------------:::::: ::::::-->
+                                      |/                    ':::::.:::::'
+                                      :
+ NOO d L E ASCII by: CRUSAdER/MO'SOUL from: m's-soul.txt released: 25/08 1996
+ T i M E R ASCII by: CRUSAdER/MO'SOUL from: m's-soul.txt released: 25/08 1996
+ A   R   T ASCII by: CRUSAdER/MO'SOUL from: m's-lost.txt released: 19/01 1997
+ JEDi ARTS ASCII by: CRUSAdER/MO'SOUL from: m's-lost.txt released: 19/01 1997
+ d A N ZiG ASCII by: CRUSAdER/MO'SOUL from: m's-news.txt released: 00/00 1997
+ S  K  i N ASCII by: CRUSAdER/MO'SOUL from: m's-news.txt released: 00/00 1997
+ FACTi O N ASCII by: CRUSAdER/MO'SOUL from: m's-fast.txt released: 24/09 1998
+ S CUMBAGS ASCII by: CRUSAdER/MO'SOUL from: m's-fast.txt released: 24/09 1998
+ dEZiB E L ASCII by: CRUSAdER/MO'SOUL from: m's-five.txt released: 03/10 1999
+ SAL - oNE ASCII by: CRUSAdER/MO'SOUL from: m's-five.txt released: 03/10 1999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: NOODLE                   -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-soul.txt: I had a little period when i tried doing stuff
+   with dots in it, i like this logo, eventhough it never got used.."
+
+
+
+                                                        :
+                                  ______________________|_ _
+                                 _\                     |
+             ..............     |     n  O  O  D  L  E  |
+        ____::::::  ::::::::....:.....    ______  ______:_  ________
+   _____\     /:::  :::::`    : :    _:___\_    \_      |___\_     /____
+   \    /    /::::  :::::     : :    \     /     /      |_   /____/    /
+  /____/    /:::::  :::::     : :   /___________/________/______________\
+      /_____\:::::  ::::::....:.:.....·                 .
+            ·:::::..:::::::·    :..                     |
+    cDr/m's                     :::...  100% hAUJOBBER! |
+                                  :  :                  |
+                                  :.:::              /\_|_
+                                    :::.. .  _ ___  /   :
+                                      :           \/
+                                      ·
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: TIMER                    -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-soul.txt: I kinda like the clock as it fits the name."
+
+
+
+                       .
+                      .·.
+                   ·  .:.  .·
+                     .: :.
+                   ··:. .:·· ·
+                   .__:::__.       ____:_  _________    ________  .·····.
+             ____ _|_  :  _|____  /    |___\_      /____\_     / :   .__ :
+           _|      |_     \     \/          /_____/     _/    /  :   |   :
+           \_      _/    /______\/     _________________\______\  ·.....·
+            |      |      _|-cDr/______|m's--------------------->
+            |.     |______\
+            |:.  .:|
+            |::::.:|
+            !: ·:::|
+             .    :!
+                  .
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: ART                      -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-lost.txt: I never was good in doing ascii characters, this
+   is one of those who ended up quite good!"
+
+
+
+                                     _____
+                                    |  _ //\
+                                    |/\\//  \
+                                    /  \/   /
+                                   _)__¡¡__(_
+                                  \\_  /\  _//
+                                    | .... |
+                         . ________ | |||| | ________ .
+                         |ø\        | |||| |        /ø|
+                           ____:______ _______ _______
+                          /    |    _//_     //_     _\
+                         /    /|    | _/    /  |     |
+                        /____/¯|____|_\ _______|_____|
+                          cDr.      .  \/  .      .m's
+                            _:      |      |      :_
+                            \!_ ___ | /\RT | ___ _|/
+                             \/     |      |     \/
+                                    |      |
+                                    |      |
+                                   _|      |_
+                                   \ _    _ /
+                                    \((  ))/
+                                       \/
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: JEDI ARTS                -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-lost.txt: This logo got used in several J^A productions
+   i like this logo myself"
+
+
+
+                                     _|_
+                                     \./
+                                     ¯|¯
+                                   __/T\__
+                                __(   :   )__
+                          _____|             |_____
+                         _\     · JEDI ARTS ·     /_
+       _____ ________ _______ ____       ______ _______ ________ ____
+       \    \\      //_     //____).    /      \\_    //_     _//   /____
+       _\    \    _/  /    /       |   /        _/   /  |     | \_      /
+       \______\___________/________|  /____/\___\_______|_____|________/
+                         _                         _
+                         /_____  1  9   9  7  _____\
+                            cDr|___       ___|m's
+                                  (__ , __)
+                                     \|/
+                                      T
+                                      :
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: DANZIG                   -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-news.txt: A Simple logo, but still looks stylish"
+
+
+
+                                        :
+                                _______/|
+                       _________\       |   cDr/m's
+                       )                ¦
+                _______ ________ ________ ______ _____ _____
+           _____\     //    :   \\_     /_\_   //_____))  _/_____
+           \    /    /     /|     /    /     __\          \_    /
+          /_________/_____/¯|____/    /__________________________\
+                                 \ _ /  .
+                                  \)/   |        __________\
+                                   /    | _______\
+                                        |/
+                                        :
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: SKIN                     -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-news.txt: This was supposed to be graffiti looking, but i
+   dont know really, but i like it anyways.."
+
+
+
+           ____ ___ ___  _______ ___: _____ ___ ________ ___ ______:_
+            _ _|_ _|_ ___\    _/_   |/    /(___))_     //          |
+           __|___|___|   /__    /  _/    /       /    /    SKIN!  _|
+         _ _|__|___|_|_________/___\______\     /_______ _________\
+                                      cDr|_______|m's
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: FACTION                  -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-fast.txt: I like the thing with the "t" uppside down, but
+   obviously doesnt everybody think the same, as this never got used! :("
+
+
+
+                                          :
+                                      ___/|
+               _______ _______ ______|    | ____  _____ ________
+            _ |     _//       \\   _/|   ||(____)/     \\_     /
+        __ | ||    _\    /|       /  |   ¦|         |    /    /__
+      _\\_||_||____|____/¯|__________|   :|_____________/_______//_
+    «----------------------------cDr)_    _(m's---------------------»
+                                     | ___|
+                                     |/
+                                     :
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: SCUMBAGS                 -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-fast.txt: I dont like the groupname that much, but the logo
+   ended up looking quite nice :)"
+
+
+
+                     _____                      :__
+           ______ __|_   /___ ___.:___ ____  ___|  \ ______ ____
+        __\\   _//  _/  /   //   ||   \\_  )/       \\  __//  _//__
+      _/   /___    /    \        ||     (__    /|.      \_ \___    \_
+    _\\_______________  |   _____\/___________/¯|:.   ______________//_
+  <------------------\______|----------------cDr| _____\m's------------->
+                                                |/
+                                                :
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: DEZIBEL                  -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-five.txt: This logo was done abit late as Dezibel had 
+  already changed name by the time this logo was made to Native."
+
+
+
+                              ________/_
+                 ______ ______\_     /___ ____ ________ _____
+             ____\_    \\_     /    /(___))_  ))_     //    /
+          __ \    /    / /____/    /       (__  /____/     /_ __
+        _\\//_________/_______    /_ ________________________\\//_
+      <------------------cDr/_______\m's---------------------------->
+                           /
+                                -[ nodaways called NATIVE! ]-
+
+
+
+  __ _________________________________ _________________________________ __
+                                      :
+      LOGO: SAL-ONE                  -o-  CRUSADER/MO'SOUL 1994-2000 (c)
+  __ _________________________________:_________________________________ __
+
+  "taken from m's-five.txt: I think Sal-one has got like 400 different logos
+  being made for him during the years, this was my contribution"
+
+
+
+                                              :
+                          ________\\ _________|_ _
+                         |          \\        |
+                         |           \        o
+                         | sAL-oNE i S  hERE! |
+                    ____ :                    |
+            ______ /    \ _______     _______ ________/______
+         ___\   _//      \\     /    /   _   \\_     //_    /___
+         \  /___               /_   /    /     /    /  /___/   /
+        /________          ______\  \_________/_________________\
+            cDr/_____/\_____\                /.m's
+                         .     nOw sPEAK!     |
+                         |              ______|
+                      _ _|______________\ ______
+                         |                \_____|
+                         :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         __                       __
+                        /_/\                     /\_\
+                      _\\_\/  - h I S T O R Y -  \/_//_
+                 _:                                       :_
+                 )|                                       |(
+                / ||   94-95 cRUSAdER / iNdEPENd E N T   || \
+            __ / _||_  95-96 cRUSAdER / ePSiLON dESiGN  _||_ \ __
+          _\\//__\     96-00 cRUSAdER / m O  ' S O U L     /__\\//_
+
+                           A bLAST FRoM THE PAST
+
+                    __ __________           __________ __
+                                /_         _\
+                                  \       /
+                                   \     /
+                                    \   /
+                                     \ /
+                                      /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                       :
+                                                       |\____
+                    ._____ ______ ________ _______ ___ |     | ______
+                    |  ___\\     \\_     //_     /(___).     _\\   _/__
+   C R E d i T S   /   \   _\    / /____/  /    /.     |     | _\      \_
+__ _____________ _\\_______\____________________\|     |_____|__________/
+                                              cDr|____ |m's
+                                                      \|
+                     main ARTworks:                    :     .
+             CRUSADER / HELLFiRE / MO'SOUL                   :
+                                                       .     |
+      Helping hand from these to make me look good!    :     /
+     DESOTO - H2o - B/NUP - EXOCET - DANZiG - FAiTH    :     |
+        SHAPECHANGER - GOdHEAd - ELViS - SEVEN M       :     :
+                                                       :     :
+                      ReleaseDate:                     :     .
+              5 t h   A u g u s t  2 0 0 0             .
+                                                             :
+                                                        ____/|
+           ______ ________ ______ _____ ________ _____ |     |_ ______
+       ____\     \\_     //    _//_    \\_     //   _//_     _//    _/___
+       \   _\    / /____/ \___    /____/ /____/    /   |     | \___      \
+     _/    \_________________________|_________________|     |___________//_
+   _\\______|                                       cDr|     |m's
+            2fast - amblin - b - case 78 - chrombacher |     |
+      countzero - crazy - danzig - desert - devistator |     o
+          dragon - elvis - exocet - fatal - gozz - gem |     T
+      grimlock - h2o - karma - manta - markryder - maz |     |/
+metalbasher - mogue - native - phase - rapid - redskin |    .//
+       rotox - seven m - shapechanger - shock-g - skin |   ///
+     skindiver - stezotehic - stratos - stylez - tango |   / :
+             taxi - tommy - treach - uman - yop - zeus |     |
+                        _______ ______ ______ ________ |     |_ ______
+                        \   ___\\     \\_    \\_     //_     _//    _/___
+    G R E E T S !      /    \_  _\    / /____/ /____/  |     | \___      \
+__ ________________  _\\________\______________________|     |___________//_
+                                                       |_____|
+ orson - gunda - sal one - digiman - keldon - clayman           rascal - crazy
+  fury - iggy - nexus2 - sonik - m-plant - tango - tryac - clayman - stingray 
+   dalamar - trance - sobec - candyman - tango - bountyhunter - coke - sarge
+  chelsea - markryder - uman - manta - desoto - vinzi - b - icarus - control
+wraith - kernal - ninja -etrigan - scarface - cyco - shadower - fungus - zinko
+  dartagnan - ecs - franky - crisp - shane - lucas - rkr -hemp hoodlum - jbm
+ madboy - rocketeer - progge - fearflight - baffle - numen - speedevil - folar
+ boheme - repe - ghandy - exon - enzo - vostok - cybergod - slime - schindler
+artic cat - planetmaster - snike - starkman - ramonster - cyclone - devistator
+  fatal - freymor - mogue - kaosmaster - opel - ramirez - recall - red demon
+stezotehic - taxi - tommy - xcluziwe - jameswest - boone - exie - gengis  khan
+  tcb - pcp - surfing - the mixer - la shawn - axl - micro - mendol - pepson
+ rico - mameman - the vanisher - octoplex - apfelsaft - sweed - ace - snakeman
+    joehick - whirlwind - case - lando - element - zendor - thorin - thamuz
+                     ixxy - monthy - lutka - grd - zendor
+
+ + LOTS of other guys who's name i cant recall right now! Im sure i missed some..
+
+   Special greetings go out to all guys that i know on the EFNET IRC channels:
+
+   #amielite - #u*** #telnetzone #fairlight #H*-*** #pdxconsole #E******* #hs
+
+ Catch me on all BBS that are HELLFiRE affilled with account: crusader&candyman
+
+                      or Email me at jk8@hotmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  visit my homepage:
+
+                            HTTP://hem2.passagen.se/crusse/
+
+                 or HTTP://hem2.passagen.se/crusse/ascii/ (for ascii's)
+
+                          Don't forget to sign the guestbook!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+                                                   ...
+                                                   : :
+                                               ... : :
+                                               : : : :
+                                           ... : : : :
+                                           : : : : : :
+                                       ... : : : : : :
+                                       : : : : : : : :
+                                   ... : : : : : : : :
+                                   : : : : : : : : : :
+                               ... : : : : : : : : : :
+                               : : : : : : : : : : : :
+                             : : : : : : : : : : : : :
+                             : : : : : : : : : : : : :
+                             : : : : : : : : : : : : :
+                             :.: :.: :.: :.: :.: :.: :
+                            ..........................
+                            :.........................
+                            ::::::::::::::::::::::::::
+                            ::::::::::::::::::::::::::
+                            ::::::::::::::::::::::::::
+                            ::::::::::::::::::::::::::
+                            ::::::::::::::::::::::::::
+                            ::::::::::::::::::::::::::
+                            :::::::::::::: :::::::::::
+                            ::::::::::::: |:::::::::::
+                            :::::::: ____/|:::::::::::
+                    _____ ___ ______|     |_ ______ _______  ________
+               ___.|    /(___)\   _/.     _//   _  \\_    /__\      /
+         ___  /   ||          /___  |     |     /   _/   /    \   _/___
+         \ _ /____\\         _______|     |_________\_____________\ _ /
+       <--\/-------|____|    |cDr/ms|_____|-------------------------\/-->
+                        | ___| .......................
+                        |/  ...:::::::::::::::::::::::
+                        :   ::::::::::::::::::::::::::
+                            ::::::::::::::::::::::::::
+        C R U S A D E R  -  THE TALE FROM THE DARKSIDE   1 9 9 4  -  2 0 0 0
+                            ::::::::::::::::::::::::::
+                            ::::::::::::::::::::::::::
+     .-----.----------.-----------------------------.--------------.-------.
+     | -#- | RELDATE: | COLLECTION NAME:            | FILENAME:    | SIZE: |
+     |-----|----------|-----------------------------|--------------|-------|
+     | #01 |  N / A   | No Style                    | cdr-stl.txt  | 34kb  |
+     | #02 | 94-08-12 | Seven Ways                  | 7-wayz.txt   | 86kb  |
+     | #03 | 94-10-15 | Natural Born AsciiArtists   | cdr-nba.txt  | 85kb  |
+     | #04 |  N / A   | Art Attack                  | cdr-aa!.txt  | 50kb  |
+     | #05 | 94-11-26 | Regulate                    | cdr-reg.txt  | 118kb |
+     | #06 | 95-03-03 | Tribute To My Friends #1    | cdr-tbt.txt  | 99kb  |
+     | #07 |  N / A   | Tribute To My Friends #2    | cdr-tbt2.txt | 74kb  |
+     | #08 | 95-04-12 | Tribute To My Friends #3    | cdr-tbt3.txt | 108kb |
+     | #09 | JUNE 95  | Sleeping                    | e^d-slep.txt | 156kb |
+     | #10 | 95-07-11 | Thriller                    | e^d-thri.txt | 97kb  |
+     | #11 |  N / A   | K8                          | e^d-k8.txt   | 87kb  |
+     | #12 | 95-08-27 | Big Ones                    | e^d-big1.txt | 47kb  |
+     | #13 | 95-10-21 | Army                        | e^d-army.txt | 43kb  |
+     | #14 | 95-12-27 | Livkompaniet                | e^d-liv.txt  | 215kb |
+     | #15 | 96-04-14 | The Positive Aspects Of     | e^d-posi.txt | 75kb  |
+     |     |          | Negative Thinking           |              |       |
+     | #16 | 96-08-25 | Soulsqueezer                | m's-soul.txt | 238kb |
+     | #17 | 97-01-19 | Infernal Affair -           | m's-lost.txt | 76kb  |
+     |     |          | The Lost And The Damned     |              |       |
+     | #18 |  N / A   |  News From The Front        | m's-news.txt | 120kb |
+     | #19 | 97-11-23 |  Religion - 2000 years      | cdr-t!re.txt | 86kb  |
+     |     |          |  of misery (coop with Taxi) |              |       |
+     | #20 | 98-09-24 | Creeping Death              | m's-fast.txt | 86kb  |
+     | #21 | 99-10-03 | Five Minutes Fame           | m's-five.txt | 42kb  |
+     | #22 | 00-08-05 | Trip (back in time!)        | m's-trip.txt | 52kb  |
+     '-----'----------'-----------------------------'--------------'-------'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     ..The End!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  .
+                                  :::...
+                       ..:        ::::·
+                      ::::        ::·
+                      ::::        ·            ....:
+                     .::::                ..::::::::
+                     :::::             .::::·· :::::
+                    ::::::           .:::·     ::·
+                   .::::::         .:::·       ·
+                  .:::::::        .:::
+                 ::::·::::       ::::              ...................
+               .::::  ::::      :::::::::::::::::::::::::::::::::::::::::::.
+             .::::·   ::::     ..:::::::::::···········          ..:::::::··
+           .:::··     ::::   .:::::            .:             .:::::···
+        ..:::·        :::: .:::::::         .::::          .::::··
+      .:::·           ::::::· ::::::         ::::       .::::·
+. ..:::·              ::::·    :::::.        ::::     .::::·
+·::dto/m's            ::·      ::::::.    .  ::::   .::::·
+                                :::::::...::·::::  ::::·®
+                                 ··::::::·· :::::.:::·
+  - ----------------------------------------:::::::··--------------------- -
+     m     o     '     s     o     u     l  :::::·   2     0     0     0
+  - ----------------------------------------·::·-------------------------- -
+
+
+              t  h  e    s  i  g  n    o  f    q  u  a  l  i  t  y
+
+
+
+
+
+
+
+
+
+
+
+
+eOF!
+@BEGIN_FILE_ID.DIZ+--- -- -  -  -  [MO'SOUL!]  -  -  - -- ---+
+__  ______  __.  ______     _ __ ____ ___
+  \/     /__\ | _\    /____    /    /   /
+    /   /   \\|  |\   \    \ _/|   /   /____
+  \/___/    \\ _______/    \\______\  /|   /
+___\-\_______/------\_______/÷e÷-\_________\
+       crusader / hellfire / mo'soul
+   takes you to a TRiP! a history lesson!
+           leech - read - learn
++------------------------------------------+
+@END_FILE_ID_DIZ
+
+
+
+ 
+           1921921978rehhdhadse
+                                     ·
+                                     :         
+                               __ _/\¦/\_ __    
+               __/\__ _ _  __ _/(_)  |  (_)\_ __  _ _ __/\__  iF U sOFT
+aMIGA          \    /   ( /_/\\_     |     _//\_\ )   \    /  gET lOST!
+ tERROR        /_  _\     \_\/_/   @ | @   \_\/_/     /_  _\
+  wORLDWIDE      \/           \__   _|_   __/           \/   sHARP aS a kNIFE
+          _ ___ _____/\_ ___/\__/\__).(__/\__/\___ _/\_____ ___ _
+          \\\__\\_____ (_) __ ___  (_¦_)  ___ __ (_) _____//__/// dAS fLEISCH
+fICKEN   _          \___  /  \/| _ _ _ _ _ |\/  \  ___/          _ GEWORDENE
+uND     /(___ _/\_____ / /_ _ _| | | | | | |_ _ _\ \ _____/\_ ___)\  bOESE
+tOETEN /    (_)  \_    \/    \\_ |_|_|_|_| _//    \/    _/  (_)    \ 
+      /          _/      _  _ _| | | | | | |_ _  _      \_          \
+      \                  ( (_)\_ | | | | | _/(_) )                  /  
+    /\ \   WE W¿LL NEVER      _/ ¯ ¯ ¯ ¯ ¯ \_       WE W¿LL NEVER  / /\
+    \/ /     SURRENDER  _ __/\\__ _\   /_ __//\__ _  COMPROMISE!   \ \/
+      /                 \\\__/  \/  \_/  \/  \__///                 \
+      \                  ¯  __/\           /\__  ¯                  /
+       \  __________________\__/           \__/__________________  /
+i HATe  \(                    __/\       /\__                    )/ 
+PC ANd I ¯                    \__/  ___  \__/                    ¯
+WONt STOp                       __/\\_//\__
+              ONL¿NE UNTIL BUST \__/ _ \__/ ONL¿NE B¿S ZUM KNAST
+                                  __/ \__
+                   ;)             \_____/   WE WOULD DiE FOR COMMODoRE
+
+                   ^ ^ ^ SPONSORED BY FRAUENKOERPER ^ ^ ^ 
+
+
+
+
+
+
+ 
+ 
+ .------------------------------------------------------------------\\---.
+ |                                                                   \\  |
+ |     :____.              .____.              .____.                 \\ |
+ |     |    |____  _______ |    |     ________ |    |      _______     \\|
+ |__ _ |    |    |_\__.   \|   _|___  \___.   \|    |    ._\__.   \_ _ _\\
+ |     |    |    |    |    |   \_   \_    |    |    |   _|    |    |     \
+ |     |    |    |    |    |    |    |    |    |    |__/ |    |    |     |
+ |     |    |    |    :    |    |    |    |    |    | /  |    |    |     |
+ |     |    :    |    .___/|    |    |    :    |    :    |    :    |     |
+ |     |         |    |    |    |    |         |         |         |     |
+ |__ _ |         |    |    |    |    |         |         |         | _ __|
+ |     ¯\_______/|____|    |____|    |\_______/¯\_______/|________/¯     |
+ |                              |____|                                   |
+ |                              :    :                                   |
+ |           .____.                  .____.              .____.          |
+ |   ________|    |      _________   |    |      _______ |    |  .____.  |
+ | _/        |   _|___ ._\  _____/   |    |    ._\__    \_    |  |    |  |
+ | |    .    |   \_   \|    __)__    |    |   _|    |    |    |  |    |  |
+ | |____|    |    |    |    |    |   |    |__/ |    .    |    |  |    |  |
+ |      |    |    |    |    |    |   |    | /  |    |    |    |  |    |  |
+ |      |    |    |    |    :    |   |    :    |    |    |    |/\|    |  |
+ |      |    |    |    |         |   |         |    |    |    :  :    |  |
+ |      |    |    |    |         |   |         |    |    |            |  |
+ |      |____|____|    |\_______/¯   ¯\_______/|____|    |\____/\____/¯  |
+ |                |____|                            |____|·AbN·          |
+ |                :    :                            :    :               |
+ |                       dA uLTiMaTe dEMo BBS for:                       |
+ |                                                                       |
+ | aMiGa · pC · mAC · aRCHiMEdEs · cONSoLe · aScII  ( c64 & aTaRi sOOn ) |
+ \                                                                       |
+ \\            Node 1 & 2 :                     Node 3 & 4 :             |
+ |\\          USR V34+ Modem                     Euro  ISDN              |
+ | \\       +49-(0)30-44730311               +49-(0)30-44730312          |
+ |  \\                                                                   |
+ `---\\------------------------------------------------------------------'
+ 
+ 
+                                             [mULTI-cHECK v1.5 by SieGeL/tRSi]
+
+                                              ¡    fOR pLEASURE sINCE 1996
+>> ¡ -------------------------------------- - |. - ----------------------- -
+  .|  w  o  r  l  d    h e a d q u a t e r s  ||
+  ||     bad karma - phantasy - up rough      !| _
+  |!   divine stylers - dtr - ageema blues     | ;
+  |      aeroholics - black maiden - mvp       |   _
+  |                                            |   ;
+  7   g e r m a n  +  e u r o p e a n  h q's   |
+  :    lightforce - oldskool - rising sun      |
+  ¡   supplex - royal - soia - low profile     |
+_ |    drunken - 1oo% - true school - asl      | "...dON't pLAY uS cHEAP!"
+; |                                            !
+  |   amiga/ascii/graffiti/handheld consoles    ___.     ______.    drn\lp!
+  |    n64/snes/gb/gba/ngp/wsc archive/ngc     \\  !___  \     !__ _ _ ________
+  |    apple macintosh/pc audio-gfx apps/dd    \\  .__/--\\   ._   \ / ._     /
+  |     =c64/atari/speccy/sample soundbank     _\  ;/     \   !/    \  !/____/_
+  |                                            /___/     _____/     __ /    __\
+ _!   daydreaming on 5 telnet nodes. 24h/day.      `----'     `----'  `----' 
+\\;     . ______   ___ _ _ _________   _______                            ¡
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   y A R d _______,|
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\ ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\ !
+     ,_____\     `----'  `----\      `----'     theyard@graffiti.ag

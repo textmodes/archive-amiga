@@ -1,0 +1,762 @@
+                              .
+                .___________ _|_ ______________________________.
+                |             |                                |
+                :   bOONDOCKS · oNE oF tHE fASTEST iN eUROPE   |
+  . _______ __ _|_ ____             ______           ________  :      _____
+ _|_\_    / .   |  .   \_ __  ______\_.   \  ______ _\_.    /__| ___ /  __/__
+  |  /   /  |   :  |    /   \|    /   l    \/  .   \   l___/\_ |/   /___    /
+  :  \   \______|______/     \   /_________/   |    \________/ /  _/_______/_
+ _l______/sc    :    _/    \____/         \__________/  _/     \___)         |
+|               .    \_____|                            \______|             |
+|                                                              :             |
+|hELLFiRE & lSD wHQ!·tRISTAR & rED^SECTOR iNC., sUNFLEX iNC. & lFC aMIGA eHQ!|
+|     tRiSTAR & rEDSECTOR iNC. cONSOLE aND gERMAN cONSOLE sYNDICATE wHQ!     |
+|                            sNEAKERS eUROPEAN hQ                            |
+|       tRiSTAR & rED^SECTOR iNC. /X-iNNOVATiON wORLD diSTRiBUTiON sITE      |
+|  cLASSIC^qUARTEX hQ! ·  dREAMCHARTS, dEViOUS dEZiGNS & dATA dIVISION dHQ!  |
+|            -g^sTYLE! & tWISTED wHQ! · pRO aRTS & rOADHOGZ eHQ!             |
+|                                                                            |
+|                                 mASTERS aRE:                               |
+|            -·>s/\L-oNE!·mARIO·sECTORCHARGER·cOLONEL·gAZ P·eCS<·-           |
+|                                                                            |
+|        rUNNING oN aN aMIGA 4ooo wITH a cYBERSTORM o6o/5o mHZ/22 mB!        |
+|     2 * cREDITZ fOR mAJORS! 3 * cREDITZ fOR mAJORS fROM yOUR oWN gROUP!    |
+|                                                                            |
+|   +31-(o)-548-54O-653   +31-(o)-548-521-716/521-848        +tEL-NET        |
+|     -·>16k8 dUAL<·-          -·>33k6 dUALS!<·-        23:30-06:00 gMT +1   |
+|                                                                            |
+l_________._ _                                                  _ _._________|
+ ________ |   -·>nO nEW uSER pASSWORD aND/oR sYSTEM pASSWORd!<·-   | ________
+|________||                                                        ||________|
+          :        uPLOADEd bY UFOk             oN nODE #01        :
+          .   tIME aND dATE oF tHE uPLOAD: 11:11:51 , 12-28-1996   .
+ 
+å
+
+                              .
+                .___________ _|_ ______________________________.
+                |             |                                |
+                :   bOONDOCKS · oNE oF tHE fASTEST iN eUROPE   |
+  . _______ __ _|_ ____             ______           ________  :      _____
+ _|_\_    / .   |  .   \_ __  ______\_.   \  ______ _\_.    /__| ___ /  __/__
+  |  /   /  |   :  |    /   \|    /   l    \/  .   \   l___/\_ |/   /___    /
+  :  \   \______|______/     \   /_________/   |    \________/ /  _/_______/_
+ _l______/sc    :    _/    \____/         \__________/  _/     \___)         |
+|               .    \_____|                            \______|             |
+|                                                              :             |
+|hELLFiRE & lSD wHQ!·tRISTAR & rED^SECTOR iNC., sUNFLEX iNC. & lFC aMIGA eHQ!|
+|     tRiSTAR & rEDSECTOR iNC. cONSOLE aND gERMAN cONSOLE sYNDICATE wHQ!     |
+|                            sNEAKERS eUROPEAN hQ                            |
+|       tRiSTAR & rED^SECTOR iNC. /X-iNNOVATiON wORLD diSTRiBUTiON sITE      |
+|  cLASSIC^qUARTEX hQ! ·  dREAMCHARTS, dEViOUS dEZiGNS & dATA dIVISION dHQ!  |
+|            -g^sTYLE! & tWISTED wHQ! · pRO aRTS & rOADHOGZ eHQ!             |
+|                                                                            |
+|                                 mASTERS aRE:                               |
+|            -·>s/\L-oNE!·mARIO·sECTORCHARGER·cOLONEL·gAZ P·eCS<·-           |
+|                                                                            |
+|        rUNNING oN aN aMIGA 4ooo wITH a cYBERSTORM o6o/5o mHZ/22 mB!        |
+|     2 * cREDITZ fOR mAJORS! 3 * cREDITZ fOR mAJORS fROM yOUR oWN gROUP!    |
+|                                                                            |
+|   +31-(o)-548-54O-653   +31-(o)-548-521-716/521-848        +tEL-NET        |
+|     -·>16k8 dUAL<·-          -·>33k6 dUALS!<·-        23:30-06:00 gMT +1   |
+|                                                                            |
+l_________._ _                                                  _ _._________|
+ ________ |   -·>nO nEW uSER pASSWORD aND/oR sYSTEM pASSWORd!<·-   | ________
+|________||                                                        ||________|
+          :        uPLOADEd bY [SpIdErMaN/DlT]  oN nODE #01        :
+          .   tIME aND dATE oF tHE uPLOAD: 22:49:25 , 12-19-1996   .
+ 
+å
+
+=============================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       I DID'NT DO THIS! , HONESTLY!!
+
+
+
+
+
+
+
+
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ         __ __ ___ __   ___ __ _____        
+  .:... _)|/¯/_) (_)_)__) (_)/_\___/ .....  
+  :. :. |_j\ \|_·_|_ _/|_·_|___\(_)  .: .:. 
+ ..:  :.. ¯ ¬¯ ¯¯¯ ¯¯¯  ¯¯¯      ¯ ..:.. .:.
+    96 :       [÷- kObOLt -÷]         : /  .
+   ·  /   _     _    _       _         /  / 
+  /  /    J·O·Y·C·e `^' KBT `^' RAD   /  /  
+   _ k_  n_   _i_  _r - _ k _n _a _ _ r _ _ 
+  lEt hiS blOOd flOW ! lEt ME MY ANGER ShOW 
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+    ......
+        .:..                               ........
+        :     ____                   ........:.
+        ___. /   /         _ ____.        :   _ _____     ____  
+        \__l/ __/_  ________ :· ¬|    _ ________  ·:/   __\_¬/__
+        __) __ ¬ ¬\_:· _ ¬ 7    _|_____ :· _ ¬ 7  _//\__\__  __/
+       |:·  (/     /   /   |___ \|_  ¬/_   /   |___    ¬|/:·  \-jC 
+       `----/_____/ _______|  `---/____l ______| ¬l_____|______\
+             ¬       ¬  :....            ¬      :..      ¬      
+                    .......:                .....:
+                       :.                      :.......
+       °                        [ kObOLt ]
+     .
+     _                                                           ° 
+    (_)          yeah . the name I like to present it in...    ·  .
+        ·                                                       _
+      °                                                        (_)
+       _                                                           °
+      (_)                                                        ·
+       .                          _                             _ °
+               __________________/(               .            (_)
+        _      \          ___     /______________/l
+  __    )\______\           /    /::·             /          jOYCe/KBt^RAd
+ [__]  /         \________ /____/:·    __________/___
+      /      _            /   /         _           /   hAS dUNe iT aGAiN!
+     /_______\\__________/   /_________//__________/
+              \                       /
+
+                ::::::::   [ -jC ] + benny = sant
+               ¸        ¸ 
+              I m gettin  money from - Jeans and Clothes! -
+                          
+                         ( much talk for nothing )    ::::::::
+
+
+           ___ ___ _ _ ___ ___    _  __ __ __ _____    ___ ___ __
+          _\_(_) (_\Y/_)_/_)_/_  // _)|/¯/_)_)\___/ /\ )__))_(_) \
+          |_'_|_`_|l_j|_`_|_'_| //  |_j\ \|_ _/(_)     `l_\ '_|_' \
+           ¯¯¯ ¯¯¯  ¯  ¯¯¯ ¯¯¯  ¯     ¬ ¬¯ ¯¯¯  ¬        ¯¯ ¯¯ ¯¯¯¯
+                         [  jOYCe / KBt ^ RAD  ]
+
+                                 kObOLt ^ RAPid·dESiGN
+                                                            .
+          .                                                 |
+          |                                                 |
+          |  -jC-  whoot is it thet AI haev duune uga'n?    |
+          |                                                 |
+          ·                                                 ·
+    Rakhyvelmannen(RAk) RAk- Ahh.. Yo hav given tha world anottha pieca
+          .                        of ultim8 horrar!        .
+          |                                                 |
+          |                                                 |
+          |              -jC- demn ceel wuss neaxt?         |
+          ·                                                 |
+           RAk- Thats up toyo ma child!                     |
+          .                                                 |
+          |                                                 |
+          |    -jC- thunk yuo aloa' docta' !                |
+          |                                                 |
+          |            RAk- A mig!                          |
+          |                                                 |
+          |  -jC- AI usally shajv mo ass..                  |
+          ·                                                 ·
+       RAk- Am hera toa helpa youa mya childa! , be gentle with that!
+          .
+          |                     -jC- Whutt?
+          ·
+          RAk- my Cannabis plent ofcoz!
+          .
+          · 
+         -jC- Nam num nam gaha.. nhumumumhmumhumh.. glabrbarbaa! . 
+          .
+          |  RAk- fock! youave don it ugain!! 
+          ·
+       -jC- Woll AI eva bea totally healed dokk?
+          .
+          |   Rak- naeeaa.. Na.....! .. heeeeeel no      .. 
+          |
+          |
+          |    -jC- Gooodie ! AI cän flye! wuss that over thera? 
+          ·
+       RAk- whutt? 
+          .
+          |               -jC- Thet yellaw thinigeö! 
+          |
+          |      RAk- OH! hold on four a minute .. AILL youst have toa
+          |         get huigh ass an hause first. hold.. 
+          |
+          ·
+   trippin............................................................
+          .
+          |                                           ahh.. READY? 
+          |
+          |
+          ·          Let's fly to the World of jOY-Ce ! 
+
+
+                                                           _
+               /      flupp                               /_\
+                                \                       /\(°)/\
+                                       \                \ \ / /
+                      /    \      /          \           \   /          
+                                                          °U°
+               \                       \                  |Y|
+                            /  /    flupp                 |||
+                   /                                      U U 
+
+             \                        
+                piiiiiiiiiiiiiip!
+          
+                   :::::::::::::::
+                         :::::::::  
+                            :::::::::
+                              :::::::::              Knörr!!
+                     :::::::::::::::
+                    :::::::::
+                  ::::::::
+                  ::::::::::::
+                        ::::::::::
+                               :::::::
+                              :::::              knörr!!! 
+                  :::::::::::::::
+                ::::::::
+                  :::
+                   ::::::::::::::::
+                           :::::::::::::::
+                                      :::::::::::
+                                    :::::::::::::
+                          :::::::::::::::::::
+
+                           knak! 
+                   ::::::::::::
+                          :::::::::::::::::
+     plupp!                         :::::::::::
+                            :::::::::::
+                       ::::::::
+                         Baboom!
+                              :::::::
+                               :::
+
+
+
+
+
+
+      Welcome aboard! - you're flying with mUPPEt·aCNEn airlines!
+            jump out of the window and see if I care..
+
+
+           ...:  Turn on Radio city why don't ya?
+       .....:........                       ............
+          :.....                         ........:
+
+
+
+
+
+
+
+
+                  
+                    SO MANY HORMONES FOR WHAT? - NOTHING!
+               
+                                           .
+                          ...........      |
+                   |       ¾¾¾¾¾¾¾¾¾       |
+                   |       ·¾¾¾¾¾¾¾·       ¦
+                   |        ·¾¾¾¾¾·        :        Pussy-like-drawing..
+                   ¦         ·¾¾¾·         ·
+                   :          ·¾·          ·
+                   ·           ·           .
+                               |
+                               |
+                               ¦
+       _ ________ __           :                       __ ________ _
+ _________      /_\/______ ___ ·             ___ ______\/_\      _________ 
+ \________\    /__ ______/ _  \· [ iNtRO ]  /  _ \______ __\    /________/
+ |   | | \    / /   \|  \  /   \           /   \  /  |/   \ \    / | |   |
+ l___j l__\  / /_____\ __\ _____\         /_____ /__ /_____\ \  /__j l___j
+        .  \/  ¯¯¯¯¯¯¯     ¯¯¯¯¯¯         ¯¯¯¯¯¯     ¯¯¯¯¯¯¯  \/
+        |
+        |  Far from the hood you smash into another intro.. 
+        /  not much unlike any of the other introductions in this
+        /  world.
+        |
+        \  All I really wanted to say.. was that .. 
+        \  HAVEN'T YOU NOTICED THAT "kObOLt" IS A NEW ASCEE GROUP!!?
+        |  and I know it's kickin' allready!
+        |  if you wanna join KBT just call:
+        ¦
+        :  mUPPEt·aCNEn ! and remember!! we are always looking
+        ¦  for more members! .. +46-590-15924
+        |
+        |             well.. shall we fly on maybee?
+        |     
+        ¦    Life does'nt rule if there isn't drugs involved..
+        :      _                      _
+        `------\\--------------------\/---------------------- ---- --- -- -
+                \
+
+
+
+
+                                  FETT! 
+
+
+
+
+       .      ____   ___     ________________  ______                _______
+      .¾\   __\___\_/__/_____\_______________\ \ _  /_______        |      ¬|
+     .¾¾¾\ |     ¬\ /:·        /______)    ¬\ \ \/ /      ·:|_______|       |
+   . \¾¾¾¾\|       Y                  ¬\       \  /|        `       |       |
+  .¾\ \¾¾¾¾l_______|____________________\ ______\/ l________________l_______|  
+  \¾¾\ \¾¾¾¾\     ¬    [blind?]-[menu] ¬            ¬               /_______\
+   \¾¾\ \¾¾¾¾\                                                      ¯¯¯¯¯¯¯¯¯
+
+
+                             1. Ultiom imperio
+                             2. sTORM
+                             3. X-rated
+                             4. Commodore 64
+                             5. Playstation
+                             6. bASiC iNSTiNCT
+                             7.what-should-have-been-here!
+                             8.what-should-have-been-here!
+                             9.what-should-have-been-here!
+                            10.what-should-have-been-here!
+                            11.what-should-have-been-here!
+                            12.what-should-have-been-here!
+                            13.what-should-have-been-here!
+                            14.what-should-have-been-here!
+                            15.what-should-have-been-here!
+                            16.what-should-have-been-here!
+                            17.what-should-have-been-here!
+
+
+
+       ______________________________________________________________
+       |¬                                                          ¬|
+       |                      ULTIMO IMPERIO                        |
+       |_                                                          _|
+       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+
+
+
+
+                         _
+                        [_]
+            _____
+           |    ¬| ___  _____ ____ _____ 
+    __:--. |     |_\ /__\___/_    Y   . |______          _
+   /  l   \|     |__ __/     |.   |   ¦ |   , ¬\        [_]
+  /________\ ____l/  ¬\|   ¦ |: _ `   : |_______\
+              -jC/_____\   : |¦  \ __   |        _______ _________   
+                       | . · |    Y   . |________\__   /_\_______/_______ 
+             _         | ¦   |    |   : |    ,  / /___/|   ¬|   ·:|   , ¬\ 
+            [_]        |_____|____|     |   ___/_______|____|_____|_______\
+                                  `-----'    |kBt    ¯¯            ¯¯
+                                        |____| 
+                                                      _
+                                                     [_]
+                           [ ULTiMO · iMPERiO ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ______________________________________________________________
+       |¬                                                          ¬|
+       |                            sTORM                           |
+       |_                                                          _|
+       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+
+                   _____             _______     ___ ___ 
+                __( ___/_________ ___\_ ____)__ _\__Y__/_
+             -jC\_____  ¬\__  __/  _  |  .     |    Y    |
+                /    ' ___|    |   /  |__|     |    |    |
+               /_______|  l____l______|  l_____l____|____|kBt 
+                      ¬
+
+
+
+
+
+
+       ______________________________________________________________
+       |¬                                                          ¬|
+       |                           x-RATED                          |
+       |_                                                          _|
+       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+
+            ______ ______
+            \¼¼¼¼¼|¼¼¼¼¼/                 ___        ____
+             \¼¼¼¼|¼¼¼¼/     _____    ____\ /__ _____\   \ 
+              \¼¼¼¼¼¼¼/    __\___/____\_ _   _/___   /\___\__  
+              /½½½½½½½\ -jC\    \  ,  ___|   |  /___/_______/kBt
+             /½½½½|½½½½\    \_________l  l__________________\
+            /½½½½½|½½½½½\     
+            ¯¯¯¯¯¯ ¯¯¯¯¯¯
+
+
+
+
+
+
+
+       ______________________________________________________________
+       |¬                                                          ¬|
+       |                           C64                              |
+       |_                                                          _|
+       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+
+                                 
+                   ___________          _______    ____ 
+                  |¬         /   __    /      /   |¬  7 .---. 
+                  |  _______/__ [__] _/  ____/____|   `-'  .|   
+                  |  l/      .7   ¬  )   \ _____  /____    ||
+               -jCl____      ||      \    \____/ /    |    '|kBt
+                      l_______|       \_________/     l_____| .
+
+
+
+
+
+
+       ______________________________________________________________
+       |¬                                                          ¬|
+       |                          Playstation                       |
+       |_                                                          _|
+       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+
+ ______ _____    ________.____:     ______ ___________ ____.
+_\___  \    /    7   _  ¬|    |---._) ___/__         / _   |       _____
+|.  l   \  //\___|   '__ |    `   |______   |__   __/  '__ |      _\___/_   
+|| _____/ /     ¬\_   /  |--.  (--'     `   |/     \    /  |  T   |     | ON!
+|`   | l___    _/ /__/   |  |   \ _____     |       \ _/   |            |
+l____|    l______/  /____l  l____\    l_____|________ /____l        ____| 
+        
+
+
+
+                             HAHAAAAAAA!!!!! 
+
+
+
+       ______________________________________________________________
+       |¬                                                          ¬|
+       |                        basic instinct                      |
+       |_                                                          _|
+       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+
+
+
+
+
+
+
+
+     How come? that none of my productions EVER get totally completed?
+
+       maybe because I get to fucking tired when I'm almost at the end!
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------
+          ¸
+     FOOCK  . IM tRYING tO gEt a GRiP oF a RELLy oRiGiNAl aNd nICE
+    ASCee sTYLe!! bUT .. SO fAR tHEY All LOOK pRACTiCALLy tHE sAME:
+
+                          _________________________
+                          \.                      /__________!
+               .___________|                                 |
+               !           |                         ._:__   | 
+       __/\___  _____      ____  ____          ____  |   7   ·
+       \_   _/./  __ \.   _\_ _\/_ _/_   .___ _) _/__|   |___!
+        |    \|   l/  |   \   \  /   /---l   |   `   |   '   |
+        |_____\ ______|    \___\/   /l_______l_______|____   |
+                 _.________.   /___/                    l/___|  
+                 \         |                                 .
+                      `--------------------------------------'
+
+                             TO MUCh - UN ORIGINAL
+                   _ _ _     ___ ___  _  ___  _  _    ___ ___
+                  _)Y(_)\-. _) (_)__)|¬|_)_/_|¬|_)\-._)_(_) /_
+                  |_`_|_\_| |_`_|`l_\|_||_`-/|_||_\_||_|_|_ _/ ,
+                   ¯¯¯ ¯¯¯   ¯¯¯   ¯¯ ¬  ¯¯¯  ¬  ¯¯¯  ¯¯¯ ¯¯¯
+                       _____              ____
+                     _(____/-----.-----.  \__ \
+        See?         l____ | /___| /___|   |  /
+                       `---^---' `---'     `--'   
+                                            []
+
+                             ¸
+              BAH! some day I ll find a nice style .. 
+---------------------------------------------------------------------------
+
+
+
+
+    Well . since I'm lazy and all that .. why don't we just move on
+                  and put an ending of this shit!  
+                                          
+                                          
+                                         ° 
+                    \\\\\\\\\\\\\\\\\\\    o  
+                    ///////////////////  O  
+                    \\\\\\\\\\\\\\\\\\\    .
+                    ///////////////////
+                    \\\\\\\\\\\\\\\\\\\ 
+
+                 
+
+          no greets - no respects - no nothing - I RULE THE SCENE!
+
+
+
+
+
+                ·
+             o   _ 
+                (_)
+
+              O
+                  ·
+               ° 
+             .     o
+
+                 O  
+
+                 ·   °
+
+
+              Greets:
+
+            Rapid Design members - kObOLt members - You
+
+
+
+         Respects: 
+
+                      You
+
+
+              Why:
+                                           ¸
+                   Because .... gosh! I don t know! I DON't KNOW!!
+
+  ________________________________________________________  
+  \                                                      /
+   \                                                    /
+    \__________________________________________________/                
+                        \
+                         \
+            TO ALL ASC2 artists (and none ascii artists):
+                           \
+             Make me:       \  
+                             \ 
+         happy, Muppet Acnen (ASCII), Kobolt (ASCII) and elite
+                               \
+                                \
+                                 \
+                                  \
+                                   \
+
+
+
+
+                    WANNA JOIN *MY* GROUP ? , kObOLt?
+       _________________________________________________________  
+       \                                                       /
+        \          call.mUPPEt·aCNEn.+46·590·15924.now!.      / 
+         \___________________________________________________/
+                                \ 
+                                 \
+                                  \
+                                   \
+                                    \
+                                     \
+                                      \
+                                       \
+                                        \
+                                         \ 
+                                          \ 
+                                           \
+        I'm sorry for those who thought that this would be more than
+     what it is.. but on the other hand.. does it matter in 100 years?
+
+    __________________________________________________
+    \                                                /  
+     \                                              / 
+      \____________________________________________/
+       \
+        \
+         \ 
+          \__________________
+           \________________/
+            GOODBYE! and watch out for that that you fear - ME!
+             \
+              \
+               \_________________________________________
+                \                                       /
+                 \                                     /   
+                  \___________________________________/
+
+
+
+
+            _____________________________________________ 
+            \                                           /
+             \                                         /
+              \_______________________________________/
+               \
+                \__________
+                 \________/
+                  \    
+                   \
+                    \
+               aaa.. Houston we have a problem .. CRASH!
+                      \
+                       \
+        RAk- this is definaitly tha last toime Ai tripp whitt yo!
+                         \  
+                          \
+                           \ 
+                            \
+
+
+
+
+
+
+
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+            -( [ bOONDOCKS! ] [ oNE oF tHE fASTEST iN eUROPE ] )-
+    ________________________________________________________________________
+ __/  __ __/   _ __/   _ __/   _ __/ ___ __/   _ __/   ____/   / __/   ____/
+ \_   _  \_    / \_    / \_    / \_    / \_    / \_    / \_   _  \_____  \_
+  /   / ¯¯/  _/   /  _/   /   /   /  _/   /  _/   /  _/   /   / ¯¯/  _/   /
+ /___     \__     \__     \__/    \__     \__     \__     \__/    \__     \
+ sAl1      \/______\/      \/______\/      \/______\/      \/______\/      \
+   /        \      /________\      /        \      /________\      /
+  /          \                    /          \                    /
+[·hELLFIRE&lSD wHQ!·tRISTAR aND rED^sECTOR ¡NC.·sUNFLEX iNC.&lFC aMIGA eHQ!·]
+    [·tRiSTAR & rED^SECTOR iNC. cONSOLE·&·gERMAN cONSOLE sYNDICATE wHQ!·]
+     [·tRISTAR & rED^sECTOR ¡NC! /X-iNNOVATION wORLD dISTRIBUTION sITE!·]
+[·cLASSIC^qUARTEX hQ!·]  [·dREAMCHARTS·dEVIOUS dEZIGNS·&·dATA dIVISION dHQ!·]
+          [·-g^sTYLE!·&·tWISTED wHQ!·] [·pRO ARTS·&·rOADHOGZ eHQ!·]
+ 
+         [·sYSOPS: s/\L-oNE!·mARIO·sECTORCHARGER·cOLONEL·gAZ P·eCS·]
+
+         rUNNING oN aN aMIGA 4OOO wITH a cYBERSTORM O6O/5O mHZ/22 mB
+     2 * cREDITZ fOR mAJORS! 3 * cREDITZ fOR mAJORS fROM yOUR oWN gROUP!
+                  --»> lATEST aMIEXPRESS vERSION 4.xX! <«--
+          ---»> nO nEW uSER pASSWORD aND/oR sYSTEM pASSWORD! <«---
+
+ +31-(O)-548-54O-653   +31-(O)-548-521-716/521-848          +tEL-NET
+   -[ 16k8 dUAL ]-           -[ 33k6 dUALS ]-       -[ 23:30-06:00 gMT +1 ]-
+
+         [-[[ uPLOADEd bY: [SpIdErMaN/DlT]  ]]-]--[-[[ nODE: 01 ]]-]
+     [-[[ tIME aND dATE oF tHE uPLOAD: ]]---[[ 22:49:25, 12-19-1996 ]]-]
+
+
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+            -( [ bOONDOCKS! ] [ oNE oF tHE fASTEST iN eUROPE ] )-
+    ________________________________________________________________________
+ __/  __ __/   _ __/   _ __/   _ __/ ___ __/   _ __/   ____/   / __/   ____/
+ \_   _  \_    / \_    / \_    / \_    / \_    / \_    / \_   _  \_____  \_
+  /   / ¯¯/  _/   /  _/   /   /   /  _/   /  _/   /  _/   /   / ¯¯/  _/   /
+ /___     \__     \__     \__/    \__     \__     \__     \__/    \__     \
+ sAl1      \/______\/      \/______\/      \/______\/      \/______\/      \
+   /        \      /________\      /        \      /________\      /
+  /          \                    /          \                    /
+[·hELLFIRE&lSD wHQ!·tRISTAR aND rED^sECTOR ¡NC.·sUNFLEX iNC.&lFC aMIGA eHQ!·]
+    [·tRiSTAR & rED^SECTOR iNC. cONSOLE·&·gERMAN cONSOLE sYNDICATE wHQ!·]
+     [·tRISTAR & rED^sECTOR ¡NC! /X-iNNOVATION wORLD dISTRIBUTION sITE!·]
+[·cLASSIC^qUARTEX hQ!·]  [·dREAMCHARTS·dEVIOUS dEZIGNS·&·dATA dIVISION dHQ!·]
+          [·-g^sTYLE!·&·tWISTED wHQ!·] [·pRO ARTS·&·rOADHOGZ eHQ!·]
+ 
+         [·sYSOPS: s/\L-oNE!·mARIO·sECTORCHARGER·cOLONEL·gAZ P·eCS·]
+
+         rUNNING oN aN aMIGA 4OOO wITH a cYBERSTORM O6O/5O mHZ/22 mB
+     2 * cREDITZ fOR mAJORS! 3 * cREDITZ fOR mAJORS fROM yOUR oWN gROUP!
+                  --»> lATEST aMIEXPRESS vERSION 4.xX! <«--
+          ---»> nO nEW uSER pASSWORD aND/oR sYSTEM pASSWORD! <«---
+
+ +31-(O)-548-54O-653   +31-(O)-548-521-716/521-848          +tEL-NET
+   -[ 16k8 dUAL ]-           -[ 33k6 dUALS ]-       -[ 23:30-06:00 gMT +1 ]-
+
+         [-[[ uPLOADEd bY: UFOk             ]]-]--[-[[ nODE: 01 ]]-]
+     [-[[ tIME aND dATE oF tHE uPLOAD: ]]---[[ 11:11:51, 12-28-1996 ]]-]

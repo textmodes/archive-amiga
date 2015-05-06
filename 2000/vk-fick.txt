@@ -1,0 +1,1007 @@
+                          /\_____________________/\ .
+                        ._)                       (_:_ _
+                        |                           |
+                        |   t  h  e    y  a  r  d   |_ _
+                        | - --------------------- - \///_ _
+                        |                           |
+                        | Amiga/Ascii/Graffiti/N64  |
+                        | Gameboy/NeoGeoPocket/Snes |
+                        | Psx/Ps2/Dc/Smd/Oldies/Mp3 |
+                        | Unix/Drugs/Chiptunes/Mods |
+                        |                           |
+     __________    _____|      ________             |
+ _ __\_ ____   \_ _\_   |__ _ _\_____  \_           |
+        /  \    /      ___/       _/    /_ __ _     |
+   _ __/   \\__/        |         \____/            |
+      /      \_         |______                     |
+        _ ___ /_________|    /___  _____ _ __ _     :
+            \/          |        /\                 .
+                   _____|       /  \   _______    _______
+                _ _\_   |      /   .\ _\_____ \_ _\_____ \_ __ _
+                     \____    /     \\    _/  _/__    /
+                        |/   /       \\   \    _ /   /
+                            /          \   \   //
+               _ ___________\__________/____\  /_________ __ _
+                        .                    \/     .
+                        : AHS/DTR/AGEEMA!/ROYAL/PHT :
+                     _ _| AEROSOL/LiGHTFORCE/MANGOO |
+                     \\\/ LOW PROFiLE/BAD KARMA/UP! |
+                        | SOiA/MOPLAYAZ/TQL/PVM/100 |
+                        | H E A D   Q U A R T E R S |
+                        |                           |
+                        | the  idea  of  s t y l e  |
+                        |                           |
+                        |     is  the   k  e  y     |
+                        |                           |
+                        |   to  all  f o r m s  of  |
+                        |                           |
+                        | r   o   c   k   i   n   g |
+                        |_          __             _|H2o!
+                          )_______ /\_\ __ _______(
+                          \/       \/_//_/\      \/
+                                     __\_\/
+                                     \/
+(sof)
+
+                           loadbsd -a -A netbsd.GENERIC
+
+                               # date 2000-11-19
+
+
+
+
+
+
+
+
+
+
+
+                              ____________________ _
+                              |                   \|
+                              |____________________|
+
+                            __¡___________________ .
+                              |                   \|
+                              | YOU KNOW WHO I AM! |
+                              :                    |
+                                                   |
+                              .                    |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                              .                    |
+                                                   |
+                              :                    |
+                              |       .\.          |
+                             .|.                   |
+                              |                    |
+                              :                    |
+                                                   |
+                              .                    |
+                              :                    |
+                                                   |
+                              :                    |
+                                                   |
+                              .                    |
+                                                   |
+                                                   |
+                              .                    |
+                                                   |
+                                                   |
+                                                   |
+                              .                    |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                              YOU KNOW WHAT I MEAN :
+                             _ ____________________ _
+
+                              ¡                    :
+                             .|                    |
+                              |                    :
+                              |
+                              |                    .
+                              |
+                              |
+                              !
+                              :
+
+                              .
+
+
+
+
+
+                              .
+                              :
+                             _:_
+                             (_)
+                              |
+                              |
+                              :
+                              .
+
+
+                              .
+                              :
+                              |
+                              |
+                              |
+                              |
+                              |
+                              !
+                              .
+                              .
+
+                              :
+
+                              .
+
+
+                              :
+                              :  SO I BETTER START
+                             _ ____________________ __
+
+                                                   :
+                                                   :
+
+                                                   .
+                                                  .::
+                                                   : .
+                                                   .
+
+
+
+
+
+
+
+
+
+
+
+                         :::::.  ...
+                    :    :::::::::::::::::
+                   :::   :    ::: ::::::::::
+                   :::: ::     ::    :    ::
+                  :::::::      :     :     :::::
+                  ::  :::      :     :     ::::::
+                 :::    :::   ::    ::     :   ::
+                 :::     :::  :     :      :    :
+                ,:::      ::: :     :      :    :
+                :::         :::     :      :    :
+                :::  :      :::     :      :    :
+                 ::  ::    ::::::  ::      :    ::
+                 :::  :   ::  :::  ::      :    ::
+                 :::   :  :    ::  :       :    ::
+                  ::   ::::    :::::       :   ::::
+                  ::    ::     :::::::    ::   ::::
+                  :::   :::   :::   ::::: :::  : ::
+                   ::    ::: :::       ::::::::: :::
+                   ::    ::::::          :: ::::  ::
+                   ::      :::                    :::
+                    ::       ::                   ::
+                    ::        ::                  :'
+                    ::         :::               ::
+                     ::         :::              :'
+                     ::           :             :'
+                      ::           :           ::
+                       ::          ::         ,:'
+                        ::          :         :'
+                         ::                  ::
+                          ::                ::'
+                           ::               ::
+                           ::              ::'
+                           :::            ::'
+                           :::            ::
+                           : :.          ::
+                           : ::         :::
+                           : ::         :::
+                           :  :         :::
+                           :           ::::
+                           :             ::
+                           :             :
+                           :             :
+                           :             :
+                          ::             :
+                          ::             :
+                          ::             :
+                          ::             :
+                                        ::
+                                        ::
+
+                          ANTIFASCHISTISCHE AKTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       _ ___________ _  __________ _
+                                   ((///
+
+                         +  +  + v O U C k +  + +
+                 _ ____________________________________ _
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            ______|_
+                                                           :/     |
+                                                  _________|__|_  |
+                                                 :/        |  |   |
+               __ ____|__ ___                    |        _|__|__/:
+               \//    : / __//\_   . __ ___/\_   :_/\_     |  |
+                 \    :/  \ __ /_--|/  \\__  /_--|   /        ·
+          :  _ ___\_  /  /  |   /  /   /  |___/ /___/_   .v.o.u.c.k.
+        o |  //_   \ /| /_ /|  /_ /|  /_ /|  /___|   / ____ __
+       __\|___ (____\ | /(___   (___   (___   (/ :  /_|  _//_//_
+            < ------ \_/ ---:___/ -:___/ -:___/__________\ --------- >
+                                                 .            |
+                                                 |    dz\a!   |
+                                                _|___________/:
+                                                 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       _ ___________ _  __________ _
+                                   ((///
+
+                      a k a   a G e N t  v O U C k !
+                 _ ____________________________________ _
+                                _      _
+                                /  \  /
+                                \  /\//
+                                \\/
+
+
+
+
+
+
+
+
+
+
+
+
+                        M  I  X  E  S    T  O  D  A  Y
+
+
+                 __________________________________________
+
+                    DU KANNST DICH MAL FICKEN - CLUB MIX
+                 __________________________________________
+
+
+                    |    ______
+                   _|____|   _|
+                    |    |   /|
+                    |    |    |
+                    :    :    :
+              ________________
+         _ ___\ _____________/___    ___   _________  __________
+               \        /       / ___\_/___|       /__\ ____   /_________
+                \      /       / /        /|       \\  _______/  _____  /
+      _ _________\    //_______|/        /_|________\______\|     \/   /_
+                  \  /         /__________\+vK              |______\____\
+                   \/    \    _
+                    .    |    \ F I C K E N
+                    |    |    |
+                    |____|    |
+                         |    |
+                         |____|
+
+
+
+
+
+                     dedicated to NANCY and CHRISTINE
+
+
+
+
+
+
+
+
+
+                                . .
+                               .   .
+                                  ______
+                               .  ______
+                                . |    |
+                                  |    |
+                                  !    |
+                   _ _____________     |
+                                  \    !
+                       ____________\  ________________ _
+                                   \\/
+                                    \______________
+                                  |
+                                  |    ¡
+                                  |    |
+                                  |____|
+                                  ______
+
+                  .( STYLENMÄßIG GUT BERATEN VON POLEN ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+DAS LEBEN ALS WEG,                                         DER TOD ALS ZIEL
+
+
+
+
+
+
+
+
+                                       :
+                                       _
+LEBE ICH MEIN LEBEN,              .: \(// :.               BLEIBE NIE STILL.
+
+                                      :::
+                                       .
+
+                                       .
+
+
+
+
+
+
+UMGEBEN VON SORGEN,                                    VIELE FEHLER GEMACHT,
+
+
+
+
+
+
+
+                          BEFREIT VON DEN GEIßELN,
+
+
+
+
+
+                             NUN WIRD GELACHT.
+                 _ ____________________________________ _
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                _______
+    ._____     _______           ____    ______        ______  /      /
+    |____/_____\      \ ____ ____\   |___\    /_____ __\     \/      /
+    |           \      \    /      __|      __/     \   \    /      /
+    |____________\      \  /      /_________\        \ _/    \______\
+   _       d!^dKB/______/  \______\         /________/ /______/
+ _( )_____________________________________________________________________
+
+	 			.x. I N T R O D U C T I O N
+
+				.x. P R E F A C E
+
+				.x. G - S P O T
+
+				.x. L O G O S
+
+				.x. S A D O M A S O
+
+				.x. G R E E T I N G S
+
+				.x. C R E D I T S                     _
+ ____________________________________________________________________( )__
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+
+
+
+
+          _         _
+          \    \    /
+              / \      ________________
+             /   \\    \            __/__    ___.        ____  ____.
+            /     \     \          /     \  /   |---/-__/_   \/   _|___
+          //       \     \        /       \/    |   \/   /___/   /   _/
+ - ------ /---------\ --- \      //_       \    |    \  /    \_ /_    \__ _
+         \    oO     /     \     \_________/_________/________/   \.____////
+    ------\---------/------ \___ /nUP                _ __ /________|
+  ______   \   .   /            /                      ///
+  /    |    \     /
+  |  __|_ /  \   //  \  P  R  E  F  A  C  E
+  | |   | ¯  \\ /    ¯
+  |_|   |      \
+    | __|___       HI VOUCKSTER BRINGS TODAY A COLLECTION NAMED "DU KANNST DICH
+    \_|_|  \       MAL FICKEN - CLUB MIX" ...
+      |____|
+      |   |        I REMIXED SOME OF MY OLDER DESIGNS TO AVOID ALOT OF WORK *G*
+      |   |
+      |   |        ITS IRONIC, BUT NOWADAYS ITS SEEMS POPULAR TO REFRESH SOME
+      |   |        OLD STUFF AND RE-RELEASE THEM AS NEW, SO I DID SAME.
+      |   |
+      |   |        ALOT OF TIME PASSED SINCE MY LAST COLLECTION, IT WAS A COOP
+    __|   |__      WITH ZANER I THINK. BUT WHO CARES...
+      |   |
+  ____|   |____    AS YOU MIGHT NOT EXPECTED ANYTHING FROM ME, YOU`LL BE
+     _|   |_       SURPRISED ABOUT THAT RELEASE - I THINK.
+      |   |
+      |   |        I AM OFF!
+      |   |
+      |   |        vOUCK!
+      |   |
+      |   |____       ____
+      \___|/  :|     |    |
+        |      |_____|____/_
+        |      |/           \
+     ___|      |            |
+     /  |______|____________|
+     |    |           |   \
+     |____|           /    \
+                      |____|
+
+
+
+
+
+
+
+
+
+                                .______ .
+                          _____ |     /_  .
+                          |    \|      |
+                          |     oØ     | .
+                   __ ____|____\/______|_______________________________
+  _ _______________()/
+                   \/   the yard - for zaner
+          T I T L E   _________________________ _
+ _ ________________  /    |     |______|
+                   \//    |_____|
+
+
+
+
+
+             ________ _______       ______
+           __\      / \     /_______\ ___/________
+       _    /      /_      /       /   /         /  _
+       /____________\_____________/\___________ /___\
+                         ___                   /
+       (. THE YARD .)    / \
+                 ______ /   \                   ______
+                 \    //     \ ____________ ____\    \
+     _          /    /        \      /____/    /_\    \  _
+     /_______  /    / _ _______\ ___/+vK ________________\
+            /_________\         \
+
+
+
+
+
+
+
+
+
+                                .______ .
+                          _____ |     /_  .
+                          |    \|      |
+                          |     oØ     | .
+                   __ ____|____\/______|_______________________________
+  _ _______________()/
+                   \/   dream theatere for zaner
+          T I T L E   _________________________ _
+ _ ________________  /    |     |______|
+                   \//    |_____|
+
+
+
+
+                        ____
+                   _____|  |
+                   |    |  |
+                   | oO |  |             ___
+          _______  |  . |  |  ______     / \     ____
+          \     \ _|____|__|_ / ___/___ /   \    /  \  ______
+      __   \     \      /___/   /     \      \  /    \/     \
+      /___________\____/+vK ___________\      \/_____\/      \ _
+                                     /_________\     /_________\
+                )( DREAM THEATRE )(
+       ________ ____      ______     ___   ______ ______ ___ ______
+     __\      /    /______/ ___/___ /  \ __\    \/     /(  / \ ___/__
+ _    /      /_          /   /    \     \   \    \    /___/    /    /_
+ /____________\_________/__________\     \________\__/ ___________ /_\
+                   |    |  |     /________\                       /
+                   |    |  |
+                   |____|  |
+                        |  |
+                        |__|
+
+
+
+
+
+
+
+
+                                                 __
+                                           .  .__\|  .
+                                           |\ |   | /|
+                                           | \|   |/ |
+                      __                   |  \   /  |
+_____________________ /(__________________ |  |   |  | ________________
+                    //                   / X  |   |  X \
+                    //                     |  |oO |  |
+#define s.adomaso  /_______________________|  | . |  |_________________
+_________________ /                        |__|   |__|
+                )//                           |___|
+
+
+
+
+#define Sadomaso
+
+  4. Wann ist Schmerz kein Schmerz?
+
+  Nun, denke doch einmal daran: Hattest Du irgendwann einmal
+  intensiven Sex und nachher Beissspuren an Deinem Nacken
+  festgestellt? Kannst Du Dich nicht erinnern, wie die dort
+  hingekommen sind? Was passierte war, dass Dein Partner dich
+  gebissen hat, fest, fest genug jedenfalls dass Spuren blieben,
+  und alles was Du fühltest, war angenehm für Dich. Hätte Dich
+  Dein Partner OHNE Sex gleich fest gebissen, hättest Du mit
+  Sicherheit "Au!" geschrien, weil es ziemlich weh getan hätte.
+  Wenn Du sexuell erregt bist, geht die Schmerzgrenze ziemlich
+  hinauf und Stimulationen, die Du normalerweise als schmerzvoll
+  empfinden würdest, können in diesen Situationen genussvoll
+  erlebt werden.
+
+  Eine andere Erklärung ist, dass das Gehirn Endrophine
+  produziert, natürliche Opiate, die den Schmerz kompensieren.
+  Tatsächlich kann man süchtig davon werden. Das High beim Joggen
+  kommt davon, dass man den Körper trotz Schmerzen so lange
+  vorwärts treibt, bis die Endrophine einschiessen. Das "Heiss-und
+  Kalt-Gefühl", nachdem man Chili-Pfeffer gegessen hat, kommt aus
+  der selben Quelle. Genau das ist es, was SM-Spieler geniessen,
+  wenn sie gepeitscht oder versohlt werden. Es ist kein Schmerz,
+  es ist Vergnügen! Alle Athleten, die süchtig aufs Training sind,
+  sind eindeutig Masochisten, die Ihren Körper quälen, um eine
+  chemische Antwort zu bekommen. Dein Freund, der es geniesst,
+  gepeitscht zu werden, ist wahrscheinlich weniger Masochist als
+  jeder durchschnittliche Marathonläufer!
+
+
+
+
+
+
+                                .______ .
+                          _____ |     /_  .
+                          |    \|      |
+                          |     oØ     | .
+                   __ ____|____\/______|_______________________________
+  _ _______________()/
+                   \/   bad karma for pahn
+          T I T L E   _________________________ _
+ _ ________________  /    |     |______|
+                   \//    |_____|
+
+
+
+
+
+                               ____                       .
+         |       _______       /  \      _______          |
+       __|______ \     /_____ /    \     \     \  ________|__
+         |      _ \     \    \      \_    \     \         |
+         |      /_____________\      /___________\        |
+         |                _ _________\                    |
+         |                                                |
+         :            .)(. BAD KARMA .)(.                 :
+       ____         ______   ______ ____ __           _______
+      /   /______  /  _   \ /     /(   //  \  _____   /   _  \
+     /   /       \    _    \ _   /____//    \/     \ /    __  \
+    /____\        \ __\_____\/__/     /_____\/      \ ____\____\
+         .\________\                     +vK/________\    .
+         |                                                |
+       __|________________________________________________|__
+         |                                                |
+
+
+
+
+
+                                .______ .
+                          _____ |     /_  .
+                          |    \|      |
+                          |     oØ     | .
+                   __ ____|____\/______|_______________________________
+  _ _______________()/
+                   \/   dezibel for dezibel
+          T I T L E   _________________________ _
+ _ ________________  /    |     |______|
+                   \//    |_____|
+
+
+
+
+
+
+
+         _|______  _.
+          |      \/ |
+          !         |
+       _______      !    _______    _    ______               _____
+       \     \  ______  _\      \ __\)___\    /_____  _____   /   /_____
+   __   \     \ / ___/__\        \       \     \    \/ ___/___   /     / _
+   /___________\   /     \________\       \_________/   /    \ __________\
+                \_________\+vK    /________\       /__________\
+          ¡
+         _|_       _¡_
+          |         |
+          |_______ _|
+                 ( )
+                  .
+                .
+
+
+
+
+
+                                                 __
+                                           .  .__\|  .
+                                           |\ |   | /|
+                                           | \|   |/ |
+                      __                   |  \   /  |
+_____________________ /(__________________ |  |   |  | ________________
+                    //                   / X  |   |  X \
+                    //                     |  |oO |  |
+#define g.punkt    /_______________________|  | . |  |_________________
+_________________ /                        |__|   |__|
+                )//                           |___|
+
+				G-Punkt
+
+ auch G-Spot. Nach seinem Entdecker, dem deutschen Gynäkologen Dr. Ernest
+ Graefenberg, benannter, hochempfindlicher Lustpunkt der Frau. Der G-Punkt
+ befindet sich an der Vorderwand der Scheide unmittelbar hinter dem Schambein
+ (ca. 5 cm vom Scheideneingang entfernt und 5-markstückgroß). Durch Reibung und
+ leichten Druck wird er stimuliert und kann bei der Frau einen sehr intensiven
+ Orgasmus ("Graefenberg-Orgasmus") auslösen. Die Stellung "a tergo" ist hierfür
+ besonders gut. Allerdings ist die Wahrnehmung der Frauen wohl unterschiedlich:
+ einige empfinden ihn überhaupt nicht, bei anderen läßt er sich sehr leicht mit
+ den Fingern ertasten.
+
+
+                                  __
+                               __| _|__      __
+                              |  | |  |   ___| \.
+                   _ __|______|__| |__|__ |  |  |
+                       |/        | |     \|  |  |____
+                     __|_________| |______|  |  :    \
+                       |      |  | |  |   |  |_______|_
+                              |  | |  |   |  |_______  \.
+                             _|__|_|_ :   :  |  |   |   |
+                             |___|__________ |  |   |   |
+                               | | |__|   :  :  :   |   |
+                             __| | |                |   :
+                               | | |                :___|
+                             ..|_| |                |
+                               : |_|                |
+                                                    :
+                                ________________
+
+                                 EI OO NÄKYNYT !
+                                ________________
+                              :                     :
+                              |                     |
+                              |                    /    :
+                              |                 :  |   ::.
+                              |                 |  |  ::::
+                              |                 |  | ,::::.
+                              | :             __|__| ::::::
+                              | |_________    | |    ,....
+                              |_|         \   | |   ,:::::
+                                |________: \__| |   :::::
+                        ___________| __  | _  | |    :: ,
+                       _|____________|\  | \  : |      :::.
+                        |             |  |______|    ,:::::
+                              .   .  .|  :    |     :::::::
+                               . ø. . |_______|    :::::::
+                                                    :::::
+
+
+
+
+     _ _  ____________________,---------------'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯ ¯
+                          _______     _____     ______     __  ____
+             ,----¡¯¯¯7 __\___  /_    \   /__ __\ ___/__ __\ \/   /
+            Ç     |    Y     /    |¯¯¯ \     Y    \     |    _ __/_
+            |          l_  _/     |__   \    |___       |____\     |
+            l______/¯¯¯  \______,-'  \_______|   \______|     \____| bUd!
+
+      _ _ ____________________,----[ vOUCK! ]-'¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯ ¯
+
+
+                                TURNS THE LIGHTS OFF ...
+                                            :
+                                        ____|__
+                                        |   |
+                                        \   |
+                                        |   |
+                                        |   |
+                                       /    /
+                                      \\   //
+                                       |   |
+                                       |   |
+                                       |   |
+                                      7/   \
+                                       \   /
+                                       |   |
+                                       |   |
+                                       |   |_
+                                      \\    |
+                                        \  _|
+                                        |  /|
+                                        |   |
+                                        |   |
+                                        |   |
+                                        /   |
+                                      //    /
+                                       \  _/
+                                       |   |
+                                       |   |
+                                       |   //
+                                      /     \\
+                                      \|     \
+                                       |     |
+                                       |     |
+                                      \ \____|___
+ GREETINGS TO                                |
+ _____________________________________________________________________________
+
+ BUD NEURODANCER EXILE FOLAR RAVEN LINUS B SIEGEL TANGO TOMMY JUICE PIRAT
+ BOHEME JAVIS MOGUE CYBERGOD DIPSWITCH ZANER KARLOS DARKUS TAXI TRIVIAL
+ SHAOLIN MORTIMER TWANG DEZIBEL CRAZY APU Z0D
+ _____________________________________________________________________________
+
+ MUSIC SUPPORT
+ _____________________________________________________________________________
+
+ MARIO PIU                                             COMMUNICATION EP
+ RMB                                                   SPRING - LONG EDIT
+ JOE MULLER                                            THE MOLE
+ LARS CHRISTIAN MÜLLER                                 VARIOUS
+ THOMAS P.HECKMANN                                     VARIOUS
+ THOMAS SCHUMACHER                                     VARIOUS
+ JACKASS                                               FREE
+ BRIXTON                                               VARIOUS
+ TREVOR ROCKCLIFFE                                     VARIOUS
+ CHRIS LIEBING                                         AUDIO 1
+ SCHALL                                                ELEKTROCHEMIE LK
+                                                       THOMAS SCHUMACHER EDIT
+ SCHALL                                                UNKNOWN PROMO
+ AND VARIOUS MIXES ...
+ _____________________________________________________________________________
+
+ CREDITS TO
+ _____________________________________________________________________________
+
+ DEZIBEL B BUD ... THANKS ALOT!
+ _____________________________________________________________________________
+
+
+
+
+
+
+
+
+                                     .
+                                    . .
+                                   .   .
+                                  .     .
+                                    ___
+                          _ ________) (_________ _
+
+                     ICH PACK DANN MAL ZUSAMMEN, JUNGS!
+
+
+                      FOR REQUESTS OR JOINING OFFERS
+
+                          CONTACT: VOUCKIE@GMX.NET
+
+                                   #ASCII
+
+                           MOBILE: 0179/3696676
+                     _  _____________ _____________  _
+                                    ) (
+                                  .     .
+                                   .   .
+                                    . .
+                                     .
+
+
+
+
+
+
+
+
+
+                    |
+                   _|_______|_
+                    |       |
+                    |       |      .
+                    |       |     _|
+                    |       !      |\
+             ____   !     ______   | \  __________ _______
+            /   /________ / ___/___|  \ /   ___  \ / ___/______
+           /   /        /  __\    \|   \    \/    \   /       /_
+      _ _______\        \__________\    \ ___\_____\___________\
+                \________\-  .      |_____\                         _
+                            |
+                   ___      !     _____  ________ ____    ________ /
+                   /  \  _____   /  _  \ /      /    /____\       /
+                  /    \/     \ /   _   \      /         /_      / _
+                 /_____\/      \ ___\____\______\_________\ _______\
+                    .  /________\
+                    |       |     D  E  N
+                    !       !
+               ______     ____  ________  _____     ______   _________
+               \    \ ___\\   \ /      \ /  __/____ / ___/__ \  ___   \
+          _   /      \   /_____\  \/    \   \     \         \    \    /_
+          /___________\_____\+vK_________\_________\_________\____\____\
+                    .       |
+                    |       |
+                   _|_______|_
+                    |       |
+                            |
+
+
+                       ______________________________
+
+                       KEINE MACHT DEN DROGEN, ALDER!
+                       ______________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ _____   _____     ______        .
+/     \ /     \   /     /________  .
+       \       \ /     /        / .
+________\_______\______\        \
+- ------------------ +vK\________\-- ----
+   RETURN OF THE UNTOUCHABLE  V O U C K
+ "DU KANNST DICH MAL FICKEN  -  CLUB MIX"
+ MY 1ST ASCII COLLECTION IN THE YEAR 2000
+_________________________________________
+@END_FILE_ID.DIZ
+
+
+
+
+
+(eof)                                              ¡ "bEYONd thE EdGE Of REAlitY..."
+>> ¡ -------------------------------------- - |.
+  .|                                          ||
+  ||  AEROhOliCS / MO'PlAYAZ / dREAM thEAtRE  !| _
+  |!  MANGOO / AEROSOl / diSCiPlES OF AGEEMA   | ;
+  |                   bAd kARMA / ARCAdE WHQ   |   _
+  |                                            |   ;
+  7    liGHtfORCE / ROYAl lOW PROfilE / SOiA   |
+  :          UP ROUGh / PUNGAS / 1OO PERCENt   |
+  ¡       tEQUilA / PhUNk GHQ / PhANtASY EHQ   |
+_ |                                            | "...dON't PlAY US ChEAP!"
+; |   AMiGA/ASCii/GRAffiti/dRUGS/N64/GAMEbOY   !
+  |   GAMEbOY COlOR/NEOGEOPOCkEt/SNES/OldiES    ___.     ______.      drn\lp!
+  |   PSX/PS2/dC/SEGA/MP-ThREE/ChiPtUNES/MOd   \\  !___  \     !__ _ _ ________
+  |   =C64/SPECCtRUM/AtARi-8/cPc/liNUX/*NiX!   \\  .__/--\\   ._   \ / ._     /
+  |                                            _\  ;/     \   !/    \  !/____/_
+  |   PRiVAtE SYStEM With thREE diAlUP NOdES   /___/     _____/     __ /    __\
+ _!   fiVE BlAStiNG 24h tElNEt NOdES ON ADSL      `----'     `----'  `----' 
+\\;     . ______   ___ _ _ _________   _______                              ¡
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   Y A R d   _______,| 
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\   ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\   !
+     ,_____\     `----'  `----\      `----'

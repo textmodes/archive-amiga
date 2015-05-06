@@ -1,0 +1,667 @@
+
+ 
+ 
+ 
+          .________________________________________________________.
+  __      |                                                        |
+ /_/\  ___|__¦______ ______________¦_______________________  _ _/\_|______
+ \_\/  \·    |     /_\______  /·   |    \_______   _ /    /_________    o/
+  +:    \\   |    /    ______//          \     /   //    /    /    /   //
+  :o     \_______/______|   /______|______\________/________ /________ /
+  .·      |                        ¦                       \/      | \/
+          |                                                        |
+  .       | U   P   H   O   L   D        T   H   E       L   A   W |
+          |                                                        |
+ ______/\_|_______¦____    __________     _____     _____   _____ /\ _____
+ \ _ o     _ /    |   ·\  /  ___    /    /    /____/o   /___\ _  /  \    /
+  \//      \/          \\/    _____/    /    /    //   /\    \\ /    \  /
+  /_________\_____|______\_______ /    /________ /____________\___/\___/
+          |       ¦             \/             \/                  |Sk¡n 
+          |________________________________________________________|
+
+                         dA uLTiMaTe dEMo BBS for:
+
+    aMiGa · pC · mAC · aRCHiMEdEs · cONSoLe · aScII  ( c64 & aTaRi sOOn )
+
+
+      ReMeDy wHQ (Amiga)  ·  x-FiLEs nEWs sTaTiOn  ·  U.D.O. wHQ (Amiga)
+
+                eNDzEiT wHQ (Amiga)  ·  dARkSidE wHQ (Amiga)
+
+    aNAdUNe dIStRiBuTiON SiTe (Amiga)  ·  nUAnCe dIStRiBuTiON SiTe (Amiga)
+
+                sUPeRiOr aRt cReATiONs dIStRiBuTiON SiTe (PC)
+
+   aLieNDeSiGN wHQ (Amiga-Tools)  ·  tRSi rECoRDz dIStRiBuTiON SiTe (Audio)
+
+
+      sEArCHiNg fOr mORe gRoUPs!   eSpEziAllY c64, aTaRi aNd aRChiMeDEs!
+
+                                dA sYSOPs aRe:
+               Node 1 :                              Node 2 & 3 :
+           USR V.90 I-Modem                           Euro  ISDN 
+          +49-(0)30-44730311        rAMSeS        +49-(0)30-44730312
+                                      &&
+             Node 4,5,6 :            pASo
+              24h Telnet                          -- nO RaTiOs !!! --
+            remedy.yi.org
+ 
+ 
+
+                          /\_____________________/\ .
+                        ._)                       (_:_ _
+                        |                           |
+                        |   t  h  e    y  a  r  d   |_ _
+                        | - --------------------- - \///_ _
+                        |                           |
+                        | Amiga/Ascii/Graffiti/N64  |
+                        | Gameboy/NeoGeoPocket/Snes |
+                        | Psx/Ps2/Dc/Smd/Oldies/Mp3 |
+                        | Unix/Drugs/Chiptunes/Mods |
+                        |                           |
+     __________    _____|      ________             |
+ _ __\_ ____   \_ _\_   |__ _ _\_____  \_           |
+        /  \    /      ___/       _/    /_ __ _     |
+   _ __/   \\__/        |         \____/            |
+      /      \_         |______                     |
+        _ ___ /_________|    /___  _____ _ __ _     :
+            \/          |        /\                 .
+                   _____|       /  \   _______    _______
+                _ _\_   |      /   .\ _\_____ \_ _\_____ \_ __ _
+                     \____    /     \\    _/  _/__    /
+                        |/   /       \\   \    _ /   /
+                            /          \   \   //
+               _ ___________\__________/____\  /_________ __ _
+                        .                    \/     .
+                        : AHS/DTR/BLACK SiSTA/ROYAL :
+                     _ _| AEROSOL/LiGHTFORCE/MANGOO |
+                     \\\/ LOW PROFiLE/BAD KARMA/UP! |
+                        | SOiA/MOPLAYAZ/TQL/PVM/100 |
+                        | H E A D   Q U A R T E R S |
+                        |                           |
+                        | the  idea  of  s t y l e  |
+                        |                           |
+                        |     is  the   k  e  y     |
+                        |                           |
+                        |   to  all  f o r m s  of  |
+                        |                           |
+                        | r   o   c   k   i   n   g |
+                        |_          __             _|H2o!
+                          )_______ /\_\ __ _______(
+                          \/       \/_//_/\      \/
+                                     __\_\/
+                                     \/
+ [SOF] if there is none TY advert above - the file might been modified!  [SOF]
+            ·.                                                 .
+         . .:.::......... .  .             .   . ... ........:.:.:. .
+            :::::                                            ::.::
+            :::::   _____    ____   _____   __________  ______ :::
+            . ___ __\__  \___\_  \__\  _/___\___  /_  \/     /__ .
+       _____|_) //    /   \  _/ _/__   __/__  _    /  \/    // (_|_____
+    _:_)   /|   /    /    / /      /       /  /  _/   /    /     |\   (_:_
+   \\_         /_________/__\_____/_______/______\___/_____\            _//
+     |_                                                                 |
+     |/   ________________________   _______________  ____   _____      |_
+     ·    \ _    _ /   /    /   _/___\___  /_    _ /__\_  \__\  _/_     |/
+    (|    /_/    /_\ _/    /    __/__  _    /    /_\  _/ _/__   __/__   ·
+     |  tR!/    //   \_   /         /  /  _/    /    /      /       /  (|
+     ·    /_____\_____/___\________/______\_____\____\_____/_______/-T! |
+     |_ _ ___                                                    ___ _ _|
+     :////  /           .____                   ____.            \  \\\\:
+    //__________________:_ (/· dRE/\M tHE/\TRE ·\) _:___________________\\
+            . ...       |/                         \|        .....
+            :::::            LiVE @ tHE eVOKE 2k             ::.::
+         . .::.::............. ..   .      .  ... . .........:::::. .
+            : ·. - ave -- diP -- gD! -- (\S! -- lo! -- zNr - ·: :.
+
+
+
+                               .
+                               :
+                               .
+
+                               .
+
+                          <<---/--->>
+                               .
+                   ______|_                  :
+                ___\___  |_____ _______ ____/| _____ ______
+    __/\___ ____\     /  |    //   _   \\    |/    //     /___  ___/\__
+    \cDr    \   /____/   :         /        _/    //_____/   /     m's/
+    /_  __ /__________\    _____________  _\\_________________\ ___  _\
+      \/               \   /   .      /______|                     \/
+                        \ /
+                         /  DTR! presents LIVE ASCii SESSiON @ EVOKE 2k
+
+                               :
+                               .
+                          <<---/--->>
+                               .
+                               :
+                               .
+            __          ____________/_ __ _ ( zNr/DTR! )--- ->>__
+.____ _____(__)-->>     \          /      ______          <<--(__)_____ ____.
+l   //    _     .------· \  _ _/_ /______.:   _/___ .-----·    _       \\   l
+: _//    //_   (_   __/---\   /  /      _/l  | /   (_    /---. \\ _     \\_ :
+. l     ////   _/  .     / \  \ /       \ .  |/   /_/ _     /   \\\\      l .
+        _ __ _/   /_____/---.  /._       \  _/  //_\  \____/---.__ _
+<<-+----\\\_\\______________\\//_/ .oO+  /  \   \\_ ___________\\///-----+->>
+:    _______.____.        __   \________//___\     \_____   _.    ___       :
+.   (_   __/\_   l.----·_(__)-.     ._____   /__________/___\/   /  /---.   .
+l    /  /    l   |l_  ///\   /----. \_   /   (__   /---./  _)_.--\____   \_ l
+`--_/  /_  _/|  (__7 /_ /   /l   /  _/  /_____ /      /l  l/ /__    _/  __/-'
+   \_______\     l|   //   /    /__/__ /_\    \_ ____/---. ._   \       \\_\
+            `----'l___\\___\   /_\    \_       / \       \_|/    \_------'
+.--------------------- - /_____________/----/_____________//      /_- ------.
+l                                                         /________/        l
+:_                                                                         _:
+.\\-->> aVENGER <-+-> diPSWiTCH <-+-> lORD cHAOs <-+-> zANERSKi <-+-> <<--//.
+o                                                                           o
+.              .                                            .               .
+`--------------+----<· dream theatre live productions ·>----+---------------'
+               l                                            l
+     .         :                                            :          .
+     l         ._                                          _.          l
+ <<--+---------//          f i r s t    w o r d s          \\----------+-->>
+     |               +((----------------------------))+                |
+     |                                                                 |
+  ___|_  hey its zaner live from the evoke party in germany, you can  _|___
+ /__///  not imagine how stoned I am right now, but who cares..I just \\\__\
+     l   started our 4 player co-op called live @ the evoke 2k from    l
+     .   just four the dtr stars, met a lot of guys here already and   .
+     |   lois lane, avenger and dip were around at the ascii compo too |
+     |   but I came on SAT evening and so here I am, made some asciis  |
+     |   and sketches into avenger's blackbook. Lordee aka Lois Lane   |
+     |   came around as mr taais aka teis/moplayaz arrived, whee you   |
+     |   can imagine I guess, haujobb people grilling outside and btw  |
+     |   soon my co-op with mortimer twang of the lo'pro will be out!  |
+     |   watch out and enjoy this short but LIVE collection from the   |
+     |   evoke. Zanerskee is off the mic. Who comes up next? -zanjah   |
+     .         _                                           _           .
+ <<--+---------\\--------(  gRAB tHE mICROPHONE  )--------//-----------+-->>
+     l                                                                 l
+     :                                                                 :
+     .                                                                 .
+                                       __.
+     .                               _/  | .                           .
+     .                           __. | X | |                           .
+     :                         _/  | | X | |
+     :                       . | X | | X | |                           .
+     :                   diP | | X | | X | |
+     :               _______ | |  ____   | |      _______              :
+     :            ___\_    / _ ·_/   //_ ____  __\\_    /              :
+     :           _)   /   /_\\/_      _//   //_    /   /               :
+     :           \   /   //    (_     \      _/   /   /                .
+     :           /_______\      /______\     \ _______\                :
+     :                _ ________\  . _ _______\                        :
+     :     v i T T U         . . _ | . _ . .     r U N K K A R i       :
+   ____               _____  | | X | | X | ·___            ____        :
+ _\\_ /___    _______\\_   \_  |  ____ ___ /  (_   _____ _\\_ /___   _
+_) _/    /___\\_    /  /    /__  /   (_  _/    /__\\_   \_ _/    /__\\/_
+\  \     \_    /   /  /     \  _/     /  \     \_   /    / \     \_    (_
+/___\_____/   /   /___\______\ \      \_ _\_____/  /    /___\_____/     /
+      _ __________\      _ _____\______/ . . _ _________\     _ ________\
+                             . . _ . . _ | |                           .
+     :                       | | X | | X | | dTR                       :
+     .                         |_  | | X | ·                           :
+     .                           \_| |  _|                             :
+                                   · |_/                               :
+     .                                                                 :
+     .   Dipswitch on the keys... We are now sitting here and waiting  :
+         for the demo compo. Some are asleep, some are awake, and some :
+     :   are something in between... Like we. ;) Lord Chaos gone       :
+     :   asleep, Avenger is following his organizer's duties somewhere,:
+     .   and Zaner and I are sitting here trying to shorten up the     :
+     :   time. Btw, it's 5:17 am, if you didnt knew... hmmm dont know  :
+     :   what to write... rrRRRRUNKARi ! Assembly'2k wild entries are  :
+     :   great btw, I just wish I could understand more of the finnish.:
+     :   On this place my mega greets go out to the Haujobb Finland    :
+     :   squad, Droid & Melwyn. I am feeling proud that the coming     .
+     :   HJB&CDX demo was tested and partly developed on my lameass    .
+     :   pc =)... And of course many props out to the core of the      :
+     :   organizer team... Btw the Amiga Ascii compo went really well, :
+     :   thanx to Matt/HJB's Amiga and many many nice entries. There   :
+     .   will be a TAC Evoke special, no doubt !  damn I dont know     .
+     .   anything to write now... be back later ! vittu perkele !      .
+
+     :                                                                 :
+ <<--+----------------------( 10 vor 10 records )----------------------+-->>
+     |                                                                 |
+     :        .:::::..    .---------.       ___                  .:::::..
+     . .::::: ::::  :::.   \       /_______/ _ )_ 10      .::::: ::::  :::.
+         `::: :::   ::::    \     /  .   _/ |/  /_  vor     `::: :::   ::::
+zNr/DTR!  :::  ::: ::::' _.  \   / .\ ·. \        \    10    :::  ::: ::::'
+         .:::.  ``:::'   \/   \ /.  ·.·   \_ ._    \        .:::.  ``:::'
+<<--  .:::::::::. ---------->> //__________/_l/     \_<<-.::::::::. ------->>
+                                ·            /_______/                 .
+     :                                                                 .
+     .                                                                 :
+ <<--+------------------------( * f l a s h * )------------------------+-->>
+     l                                                                 l
+     :                                                                 :
+     .   oke, its me zanerskee again on the keyboard, 25 feet high.    .
+     :   actualy I finished this dezign box and the 10vor10 above,     :
+     :   btw, the thing in the O is an Clock at 10 to 10 time. well,   :
+     :   Dipswitch was just on the turn a few minutes ago, but anyway  :
+     :   I'm going to write some nonsense so its topic is flash. Well  :
+     .   will continue later, -zaner (6am)                             .
+
+     .   Inspiration, what is it about? Its a feeling you get when ya  .
+     .   listen to music, watch art or see abstract things or just     .
+     :   recognize regular things as abstract. Style, What do you feel :
+ .__ |_  when you hear those 5 letters which were born on exactly the _| __.
+/__/ //  thing what them letters mean. Inspiration and Coordination   \\ \__\
+     l   in a deadly Combonation. Free your mind and let yourself go!  l
+     :   peace, -zaner  (a few hours later I guess) and now its time   :
+     .   for Dipswitch to kick something on the screen, beam me up...  .
+     |                                                                 |
+<<---+---- · --------------------------------------------------- · ----+--->>
+     |                                                                 |
+     :                           a  g  e  e  m  a  ··  b  l  u  e  s   :
+     .      \· zNr/dTR!  .____                                         .
+            /\   ______ (_  _/---.   .____      ____ .___     \.
+           /  \ /   __/__/_     /\  (   _/---. _\   \\/  \_   /\       l
+     _ _ _/    \   /    / / ___/---. \_     /\/   .        \ /  \      :
+    /_\\\\   Oo \  \_  /_.          \_/ ___/---.---\_  /____\    \_ _ _·
+    \__\\/       \ ______)\___________)         \_---\/ ___/  oO  ////_\
+     .  `---------'  ____\/\_________\____________)\  \/  /       \\\\__\
+     |   \_________\/                 \____________\)    `---------'   |
+<<---+--- -        - ---------- -- - --             -- -- \_________\ -+--->>
+     l                                                                 l
+     :                                                                 :
+     .  rewind, greets to my sisters at the b-girl platform: mortee,   .
+        orlingo, kofee, maleeek, and the rest of the paranoial team.
+     .                                                                 .
+     :                                                                 :
+     .  d  i  s  c  p  l  e  s   -+-   o   f   -+-   a  g  e  e  m  a  .
+     l                                                                 l
+<<---+-----------------------------------------------------------------+--->>
+     |                                                                 |
+     :  heya dipper on the keys again... getting more and more sleepy  :
+     :  and so the text will get more and more contextless...;)        :
+     :  damn, where are our 2 other dreamtheatrians ?  I hope they     :
+     :  will contribute after the demo compo... boah it is really      :
+     :  quite in the hall... the first time since friday. just a si-   :
+     :  lent touch of a brand new 10vor10 rec promo swinging through   :
+     :  the air. grraaaaaaaaah... i am sleepy as hell, and zaner is    :
+     :  rolling another spliff, so i hope i wont pass out with the     :
+     :  head on the keys in the next 10 minutes. but atm it's my       :
+     :  fingers on the keys still...;)                                 :
+     .                                                                 .
+        according to xxx/haujobb zaner won the "craziest hairstyle"
+     .  compo...;) and xxx himself must have won the "most ridicu-     .
+     :  lous backpack" competition =)                                  :
+     :                                                                 :
+     .  a propos haujobb: the next thing you'll see will be the        .
+        file_id for the haujobb&calodox demo coming hopefully in a
+     :  few hours. here it goes:                                       :
+     .                                                                 .
+     :              .____.   _      _____                              :
+ __ _l          ____|    | _\\/_ _ /_   //_____                        l_ __
+/__\\\         _)   |    |/    (_    \_       /                        ///__\
+     |         \    _    |      /     /      / hAUJOBB &               |
+     :         /____\____|     / _____\_____/   cALODOX                :
+     .         <------ _ ______\ ------------------------->            .
+     :                                                                 :
+     :           "TRUE" - wATCHiNG a bEER - hAViNG a dEMO              :
+     :               haujobb&calodox evoke'2k pc demo                  :
+     :                                 _____    ________               :
+     :                 ___ _____. ____\\  _/_ __\___   (_              :
+     :                _) _/     |/      _/  (_     /    /              :
+     :                \  \      |       \    /    /    /               :
+     :         <-diP- /___\_____|________\ __\ __/\____\ ->            :
+     :                                                                 :
+     :                                                                 :
+     .  not that masterpiece but hmmm... i go in the background        .
+     .  and pass the keys to zanerious...                              .
+
+     .                                                                 .
+     :  -dipswitch @ 7am / left the keys alone...                      :
+     |                                                                 |
+<<---+-----------------------------------------------------------------+--->>
+     l                                                                 l
+     : oke, as expected zanerious grabbed the mic aka the keybaaawrd.  :
+     . brb - oke music changed and I'm in a relaxed position I guess   .
+       most people went sleeping as told before I guess..I will leave
+    _. the place in the early hours, like 10-11am well still no sleep  ._
+    \\ and then the summerjam w\ pharaoe monch awaits me in cologne    //
+     : when I wake up / I'm still so high that I might die, so we'll c :
+     . - Anyways, Some greetings and congrats to Darkus/HJB^ASL who    .
+       became dad the last week. Another mind-split now so the words
+     . I tell seem much less planned or sorted then ever, I'm still    .
+     : so high from the 10vor10 promotion pardee on friday, well this  :
+     : is also a reason why I made some 10vor10 ascii :] Nevertheless  :
+     : My last w33d is rolled up in lightspeed as expect from the      :
+     : lightforce! Well, what else can I say Oooh this track gives me  :
+     : a straight fresh feeling now, hehe could type more and more but :
+     : it won't end in a cool way now. Will chill and relax now // We  :
+     . will see again in the next parts of the collection, Avenger &   .
+     : Lord Chaos will also do a lot of stuff maybe I just can share
+       a few hours w\ them until I leave finally. Well so far this     .
+     . dtr-allstar collection was great for me. Greets to the other
+       dtr-members at this point of time: Shaolin and Gravedancer!     .
+       something that flashs threw my mind now, trivial: do not loose  :
+     . the number again when you come around. Peace!                   :
+     : me signing out @ 7.20am.                                        :
+     .               tschayna aka zanerskee aka zanerious aka orkster. .
+     |                                                                 |
+<<---+--------------------( n e x t   p a r t )------------------------+-->>
+     |                                                                 |
+     l - Rewind, Dipswitch is laying under the desk and is going to    l
+     :   sleep until the demo-compo starts. Well I just can't, last    :
+     .   words : "zanerski: Wheeeeew, What kind of talk-flash ya have" .
+
+  _ _. - Oke, I think I got addicted to writing and ascii now until w\ ._ _
+ (_\\\   ever goes on...changing music to find the karma that I need.  ///_)
+     |                                                                 |
+     . -zanerski @ as the sun came out of it's grave, or was it just   .
+     : mc cluesos superiour track on the new promo. Well combo deluxe. :
+     .                                                                 .
+     |                                                                 |
+<<---+-----------------------------------------------------------------+--->>
+     l                                                                 l
+     .  again me, I just got the background information from faxe/bm   .
+     :  who is one of the organizers that the demo-compo will be held  :
+     .  at 8am. Well good news.. I think I will move over to the next  .
+     .  corner where the Mo'Playaz chill w\ Tony Hawks on DC :]        .
+  _  |                                                                 |  _
+/\\\-+-----------------------------------------------------------------+-///\
+  \  |                                                                 |  /
+   \ |                                                                 | /
+    ·--->>   lets see who grabs the keys as next,.. -10eriousim!   <<---·
+     |                                                                 |
+     .                                                                 .
+
+ _______.              _____                                           .
+ \      |_____________/    /____                                       :
+__\_____|_.          /____/   _/_________
+\_        |        _/  __\__            /_           it's ave's turn...
+ /________|________\   \  /______________\     ____
+     .        __________\__    ____/_.        /   /____
+           ave\     _     |    \    _|_______/___/   _/_________       .
+    _|_       .\    _     |     \   )       /_  \__            /_      .
+      /-------|_____|_____|\    /____________\   /______________\      .
+    _.___:__________________\  /.___________      __________           :
+     |   :                   \/ |          /__ ___\___    _/___________
+  ...|...:                      |_       _/   U     _/    \     _     /_
+     |                        dTR/_______\__________\______\____/______\ ..
+     |_     ___                                                        .
+-  ---/-----\_|---------------------------------------- ----   --     -:--- -
+     |                                                                 :
+     | well.. finally i got the chance to  draw a little bit on this   :
+     | collection. the end of evoke is near, we are just waiting for   :
+     | the compo results. all left will be a huge mess :)              :
+     | the party itself went pretty smooth this time, well..except that:
+     | 16years old drunken and stoned girl who kept us busy all night  :
+     | long. damn children.                                            :
+     | the democompo was a little weak if you consider the high        :
+     | pricemoney (totally about 3000 euros only for the demo compo),  :
+     | but especially the pixel graphics were of high quality.         :
+     | i guess i'll draw some logos now, since i run out of ideas      :
+     | what to write ..  -avenger/dTR                                ..:
+ - --|---------------------------------------------------------------:---  --
+     :                                                               ···.
+     .       .                                                          :
+     :                                                                  :
+  . .:..  . .: ....... .  .
+     :       ..:
+     . _ _   :                                                          .
+      _\  __ ·           _                     __.                      :
+    __\_\/_//_    _____  \//                 _/  |                      ._
+   _)   \/   (_ _\\_   \_                    | X |                      //
+   \    ||    /    /    /                    | X |                      l
+   /____||____\        /         mO'pLAYAZ!  | X |                      :
+            _ _________\      - ------------ | X | ---------------------·-
+     :       .                               | X |  tHE lAST mOD hEROES :
+     .   diP : dTR                           | X |                      .
+     .       : ______           _____        | X |  _____
+   --+->>  _ _/     /___  _ ___\\_   \_  ________ _\\_   \_     _____   :
+     l    _) \     //  /_____    /    /_\\_     /    /    /____\\_   \
+     .    \   \___/  _//    /   _    //   /    /    _    /        ___/  .
+     .    /_____\    \     /____\____\        /_____\____\        \_ _  _
+              _ ______\____\      _ ___    __/ _ .    _ ________ _      _
+     :       .                         \___\ . X |                ......\\
+ . . ... .  .:...                            | X |                :
+     :       :..                             | X |                l
+     .    . .. :.. .  .   .    .     .       | X |                |
+             · yo tEiS on tha mic here..     | X |           ..:::·:::.
+             · ..just wanna to say hi and    |  _|                .
+             . that it's way too khou here   |_/ ·                .
+               at ev2k wid ma mans zaner.dip.lois.etc..           :..·
+             . phat asc2's goin'round and 'lot'f fun here..          :
+             · had a way too phat booze, fucked up some peops        .
+               minds and finally got up ma lame pc to make shit      ·
+             . anyways, b tru 2 tha game as we are for ya'll wid     :
+               our music from tha massive moplayaz force .. heheheh  .
+             . oh, yea.... deviat, junk and avenger made some khou   :..
+             | fast signed tags on some papers, but tha best tag       ·
+     .       l is from ma man zanerskee anyways.. and yea, them        :
+     :       : 2 ascii logos here from dip and avenger're also         .
+  <<-· <<----' douphest  ... man, hi to  ma homez m.tee, dks           :
+     :         kofi, niwa, geniuz and all'em wich couldn't             .
+     .         make it here .. take it ez .. peez out..                l
+     :                                                                 |
+   --+------>> tEiS/mO'pLAYAZ -- -     --------- - -    ----  ---------+-->>
+     :                                                                 :
+<<---+-----------------------------------------------------------------+--->>
+     l                                                                 l
+     .  avenger battles dipswitch while teis is chilling, mo'playaz!   .
+  ___|                                                                 |___
+  \__.                                                                 .__/
+     :_                                                               _:
+     //                  ._____                                       \\.
+     ._____  .___________|    /
+_____|    |__|__         |   /..........................................:.
+\_   |    |   _/   _     |__/                                           :
+ /___|____|___\__________| ______.         _______ mo'playaz            :
+  :                  ______\___  |_________\_    |____________  _____   :..
+  :               ___\        /  |    _     /    |  |_  _    /__\_  /_______
+ .:.             |   /_______/   |_   _    /.___ |_ _/  _   /_  ___/      _/
+   :.......avedTR|____\    /______/___|_____| /_____|___|____\____________\
+
+     .                                                                 .
+     |                                                                 |
+<<---+-----------------------------------------------------------------+--->>
+     l                                                                 l
+     .          well it was more than just a great weekend             .
+     :                                                                 :
+  _  |                                                                 |  _
+/\\\-+-----------------------------------------------------------------+-///\
+  \  |                                                                 |  /
+   \ |                                                                 | /
+    ·------------------------------>> lois laneee finally on the keys --·
+     |                                                                 |
+    _.                                                                 ._
+    \\                                                                 //
+     :                                                                 :
+     .                                                                 .
+ ·...:                                                                 :...·
+ :                                                                         :..
+ .     ______        _____       ______  _____  _______                      :
+ .    /    _/________\    \  ____\_    \/    /__\     /______    (lo!\dTR)   .
+_:__ /    /     /    /    /_/   _      /\_       \    _     / _______________:_
+ |   \_________/_____\______\_________/__________/____/_____\                |
+ |     ______         ______     ______     _____    _____       _______     |
+ |    /    _/________/_     \____\     \____\    \  /    /___  __\     /__   |
+ `-- /    /     /     /     /    /     /    /    /_/\_       \/  /____/  / --'
+·..  \_________/\__________/__________/_____\______\_________/___________\
+  :                                                                        _.
+  ·      oooh! oooh! oooh! oooh! wassup, luckee lordee luciano slamming    \/
+       tha kees for the dream theatre massive.. finally i got to know my    |
+  :    man zANEr and his awesome aphroe, so it's all good here in aachen.   :
+  .      unfortunately, i am fucking stressed out and busy all the time     .
+  :    doing stuff here and there, also organizing a bit and have not got
+       that much time to really calm down and chill with my peeps from
+  .    the dream theatre. but nevertheless i managed to put up an ascii
+       for the competition and one more for this nice collection!
+         also very cool thing is that my man teis finally made it to come
+  ·    to another party since evoke 1997, thou i met him in between too,
+  :    it's always a pleasure to meet the mo' playaz head niggah himself
+       in action at the partyplace. i have never seen him as drunk as
+       there on evoke, luckily nobody started quarrelling ;)
+  .      the pardee in general works out quite cool once again, old
+       school amiga demo show going on on the big screen, also lots of
+       foreign people here this time, haujobb party massive in full
+  .    effect and and and.. thou the compo entries are not as good as
+       the years before, god knows why.. germans get lazee, maybe..
+  .     so well i will give the keys over to whoeverwantstotypenow and
+  :    tour a bit around on the party place again, maybe see you later
+  ·    again.. lordchaos_@rocketmail.com is still active (from time to
+  .    time) and i will be very happy to hear from you :), if you are
+  :... one of my old school contacts.. peace out!                  _.   _l
+     :......                                                       \/--.\\
+           :                                                        .
+_____________   ______________________________________              l_
+\           /___\_     /     _      /           /    /____          //
+ \      ___/    -     /_    (/     /_         _/    /_   /          |
+  \____|_______________\_____\______\_________\______    \          :
+        \      |_____           ________\___   ____/_\____\_____________
+        _\_____|.  _/________   \          |   \    _|_____\_    _     /
+        \_      |_          /_   \    _    |    \   )       /_  (/    /_
+      ave/______|____________\    \________|    /____________\___\_____/dTR
+           .                                \  /                    .
+        ...:                                 \/                     |
+        :                                                           l
+        .                                                           :
+       << the party is over | the party is over | the party is over >>
+        ·                                                           ·
+        :                                                           :
+        .           .____                               .____       .
+                 ___|_  (    _____  _____       ____ ___|   (       ..
+       _:______ _\  _/  /____\_  /__\ __/_______\_ /_\  | / /_ ______:_
+        .       \   \    _   _/ / _ __/    _   __/  _  \_/   /
+      _ ______ /_________\___\____\_\|_____\___\|___\___|_____\ ______ _
+        ____.       ._____                  ____.
+        )   |__  ___|    / _____       ____ )   |__     _____  _____ :
+       _\  ___/__\  |_  /__\ __/_______\_ /_\  ___/_____\_  /__\ __/___
+       \   \|   _   _/   _ __/    _   __/  _   \|   _   _/ / _ __/    /
+      /_____\___\___|____\_\|_____\___\|___\____\___\___\____\_\|______\
+     «-------------------------------------------------------------dKS!-»
+      ..:                                                            :..·
+      ·                                          _____                  :
+   ...:        _____.          _____.      ____  )  _/ _____.  _____
+   :  ______.  \  __/   ______ \  __/  ____\_ /_ \  \  \  __/  )  _/ zNr^DtR
+   . _\  _  )_  \ )_    \    /  \ )_  /     /  /__\  \  \ )_   \  \
+   : \_  /   /_ /  /____/   /   /  /_/__  _/  /_  .\  \ /  /____\  \
+   .  / ._     \  /)   _\  /_/\/  /)   _\_______\ l/   \_ /)   _\\  \
+   | /__l/      \______\  /\   \_______\    /___________/______\l/   \_.|
+ <-+-- /_________\ - /__________\ ------------------------- /__________/+-->
+   l                                                                    l
+   :   DTR-INFO.TXT  - iNFO FiLE               - DTR ALLSTARS           :
+   .   DTR-GLV2.TXT  - GLOBAL ViLLAGE 2        - DiPSWiTCH              .
+   ·   DTR-SG!.TXT   - STYLES GALORE!          - AVENGER                ·
+   :   DTR-JOY.TXT   - JOY OF LiFE             - SHAOLiN               OoO
+  OoO  DTR-WAFM.TXT  - WE ARE FAMiLY - M^S'2k  - DiPSWiTCH              l
+   :   DTR-TITS.TXT  - TITBITS                 - DiPSWiTCH              |
+   l   DTR-EV2k.TXT  - EVOKE'2k LiVE COLLY     - DTR ALLSTARS           |
+ <-+--- ------------- ------------------------- -------------------- ---+->
+   |                                                                    .
+                                                                        |
+   :                 .oO> wHO iS dREAM tHEATRE tODAY <Oo.               .
+  _.                                                                    ._
+  \\               ·· aVENGER ·· diPSWiTCH ·· gRAVEDANCER ··            //
+   l                ·· lORD cHAOS ·· sHAOLiN ·· zANERSKi ··             l
+   .                                                                    .
+  <·>                 -------- -- ----------- -- ---------             <·>
+   |                                                                    |
+   :                     .oO> oUR cOOL bOARDS!<Oo.                      :
+   .                                                                    .
+                               The Yard - WHQ                           .
+   .                           Absolute - GHQ
+   :                     The Northern Palace - DKHQ                     .
+   .                          Dial Hard - CHHQ
+                                                                        .
+   .                                                                    .
+   :                                                                    :
+   :    _______             _____.______                                :
+_____.__\_    /____   ______\    ||    /______________ _                :
+\    |   /   /.  _/___\_    -   _||___/.|        /  _///___             :
+ \  _|___\____|  )     /        \_     ||_     _/\_       /.            :
+--\____/ ---- |_________|________/_____|-|_____\___________|ave'dTr ------ -
+   .                                                                    :
+   :                                                                    :
+   :    Main design by Zaner                                            :
+   :    Additional design by Dipswitch                                  :
+   :    Logos and texts by Avenger, Dipswitch, Lord Chaos & Zaner       :
+   :    Additional text by Teis/Spaceballs^MVP                          :
+   :    Additional logos:                                               :
+   :    "Dream Theatre" #1 by Threaz/Twisted                            :
+   :    "Evoke" by Crusader/Mo'Soul                                     :
+   :    "Dream Theatre" #2 by Darkus/Aerosol                            :
+   :    File_id.diz by Crusader/Mo'Soul                                 :
+   :                                                                    :
+   :..                                                                ..:
+   . :................................................................: .
+
+
+
+@BEGIN_FILE_ID.DIZ:_ __   ____ ______ ___ ____ ___.:___ ___ _:
+|/    __\_  \\_   // _//    \\  ||  /     \|
+:   ./   /  / /  /  _)          ||   \.    |
+|cDr|______/__\__________/\_____\/____|m's o
+| _______:___ ___ ____ ______ ______ ___   |
+  _   _  |  // _//    \\_   _\\_   // _/_  :
+ .|   |  \    _)        |   |  /  /  _)  \.
+_||___|__|_________/\___|___|__\__________||
+
+     DTR doin' it live on Evoke'tw0kAYY!
+       Ave/Dip/Lo!/Znr feat. Teis/MVP
+- ---------------------------------------- -@END_FILE_ID.DIZ
+                                     :
+                         /___________ø_ [%* tHE YARd BBS 2k! *%]
+     ._________________///   ________:                          ____
+  ___|_______ ____.    /  ___\_      |___   ___\      _____  __/_   \
+  \     _   //   _|__  __/_    \     |   \ /    \  __/_    \/   /    \
+   \___/    ø   /    \/   /    /     |_   /      \/   /   _/   /      \
+     _/     :  /_     \_ /____/¯\_____/  /       /   /_    \__________/
+     \______|    \_____/_________/ /____/        \_____\_____//
+         \_______|                     /____________\©nUP
+
+    ÷ AEROHOLiCS WHQ ÷ ARCADE WHQ ÷ AEROSOL WHQ ÷ DiSCiPLES OF AGEEMA WHQ ÷
+      ÷ DREAM THEATRE WHQ ÷ LiGHTFORCE GHQ ÷ BAD KARMA GHQ ÷ ROYAL GHQ ÷
+ ÷ MO' PLAYAZ WHQ ÷ MANGOO WHQ ÷ UP ROUGH GHQ ÷ LOW PROFiLE GHQ ÷ PHUNK GHQ ÷
+  ÷ TEQUiLA GHQ ÷ PUNGAS GHQ ÷ OMEN GHQ ÷ 1OO% GHQ ÷ VORTEX GHQ ÷ SOiA GHQ ÷
+          ÷ DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS/BETA-SiTE ÷
+
+   ÷ 0d aMIGA/aSCII/hANDhELDS/n64 - dC/pSX/sNES/mP3/oLDIES/c64/lINUX/dRUGS ÷
+       ÷ pRIVATE sYSTEM - tHREE diAL-UP nODES - fiVE 24/7 tELNET nODES ÷
+ 
+ 
+ .------------------------------------------------------------------\\---.
+ |                                                                   \\  |
+ |     :____.              .____.              .____.                 \\ |
+ |     |    |____  _______ |    |     ________ |    |      _______     \\|
+ |__ _ |    |    |_\__.   \|   _|___  \___.   \|    |    ._\__.   \_ _ _\\
+ |     |    |    |    |    |   \_   \_    |    |    |   _|    |    |     \
+ |     |    |    |    |    |    |    |    |    |    |__/ |    |    |     |
+ |     |    |    |    :    |    |    |    |    |    | /  |    |    |     |
+ |     |    :    |    .___/|    |    |    :    |    :    |    :    |     |
+ |     |         |    |    |    |    |         |         |         |     |
+ |__ _ |         |    |    |    |    |         |         |         | _ __|
+ |     ¯\_______/|____|    |____|    |\_______/¯\_______/|________/¯     |
+ |                              |____|                                   |
+ |                              :    :                                   |
+ |           .____.                  .____.              .____.          |
+ |   ________|    |      _________   |    |      _______ |    |  .____.  |
+ | _/        |   _|___ ._\  _____/   |    |    ._\__    \_    |  |    |  |
+ | |    .    |   \_   \|    __)__    |    |   _|    |    |    |  |    |  |
+ | |____|    |    |    |    |    |   |    |__/ |    .    |    |  |    |  |
+ |      |    |    |    |    |    |   |    | /  |    |    |    |  |    |  |
+ |      |    |    |    |    :    |   |    :    |    |    |    |/\|    |  |
+ |      |    |    |    |         |   |         |    |    |    :  :    |  |
+ |      |    |    |    |         |   |         |    |    |            |  |
+ |      |____|____|    |\_______/¯   ¯\_______/|____|    |\____/\____/¯  |
+ |                |____|                            |____|·AbN·          |
+ |                :    :                            :    :               |
+ |                       dA uLTiMaTe dEMo BBS for:                       |
+ |                                                                       |
+ | aMiGa · pC · mAC · aRCHiMEdEs · cONSoLe · aScII  ( c64 & aTaRi sOOn ) |
+ \                                                                       |
+ \\          Node 1 :             Node 2 & 3 :         Node 4,5,6 :      |
+ |\\     USR V.90 I-Modem          Euro  ISDN           24h Telnet       |
+ | \\   +49-(0)30-44730311     +49-(0)30-44730312     remedy.yi.org      |
+ |  \\                                                                   |
+ `---\\------------------------------------------------------------------'
+ 
+ 
+                                             [mULTI-cHECK v1.5 by SieGeL/tRSi]

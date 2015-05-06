@@ -1,0 +1,2167 @@
+sof!
+
+
+        . [node0: +48-91-4879493] [node1: telnet]  [node2: telnet]
+     -«-·----------------------------------------------------------|/·
+        ¦         _______ [amiga124oT/6o3e/24omhz/4gb warez space]
+       _________  \     /__________
+    ___\       /___\__         ___/________
+    \                /    _    \   ___    /_____    m a s t e r :
+     \_____         /\----/_____\    ____/     /               madbart
+          /--------/             \_____       /    . appendix+teklords
+                                      /------/  -»-·------------------|/·
+                ________                           ¦         ________
+                \    __/____              _____________  ____\      /______
+                 \_______   \____________ \      _____/__\___             /
+    _  . k®s!/la!  /    / _  \   ___    /__\__   \          /____        /
+   |_|-·----------/_______\---\    ____/     /_____        /    /-------/
+       ¦                       \_____       /     /-------/
+       ¦ t h e  s e c t  b b s      /------/
+       ¦
+       ¦ [appendix/whq]  [anadune/whq] [teklords/phq]  [floppy/phq]
+       ¦ [linear/whq] [link124/phq] [dinx project/phq] [jormas/phq]
+       ¦ [mawi/phq]  [doggystyle/phq]   [venus art/phq]   [psl/phq]
+       ¦ [ozone free/phq]
+       ¦
+    -«-·-------------[ supporter: jacobs.prefix + ziutek.appendix ]
+       ·
+
+
+
+
+
+
+
+
+
+                                                    _____
+                     ______                  ______|     |
+                    |_     |________ __________  __|     |
+                     |     |        |____         ||_   _|
+                     |· _           |||      __  ·|_/___\_
+                     |--|___________|---------|___||     |
+                    .-----------------------------÷|_____|
+                    ¦                                    ¦
+                    ¦ l i n e a r  back in new colly.    ¦
+                    ¦ artist. krs/linear                 ¦
+                    ¦ title. extremal files              ¦
+                    ¦ shortening. la!-efs.txt            ¦
+                    ¦_______________________________  _  ¦
+                    ¦                                | |-'
+                    `-[az0!/sea]---[o4/o9/1999]----|_|
+
+
+
+
+
+
+
+
+
+
+
+                       
+                                    
+                                      
+                                    
+                                      
+                                    
+                                         
+                                         
+                                         
+                                           
+                                           
+                                      
+                                        
+                                      
+                                        
+                                      
+                                        
+
+===============================================================================
+Date  : Ôroda 02-Wrz-92    12:25:15
+Task  : 003FF008 "Background CLI"
+Error : 8000000E (DEADEND)
+By    : System
+Cause : Stack frame format error
+--------------------------------------------------------------------------------
+Date  : Ôroda 02-Wrz-92    12:25:15
+Task  : 0035EC60 "Background CLI"
+Error : 8000000E (DEADEND)
+By    : System
+Cause : Stack frame format error
+--------------------------------------------------------------------------------
+Date  : Ôroda 02-Wrz-92    12:25:15
+Task  : 0021C0D0 "Unknown"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+          .: ............:.
+           ..:           :
+        ___:__     ____  :  ______  ______         _____     ______
+       _\    /_____\__/__:__\_   /__\  __/_________\_  /_____\_   /_
+       \   _/     _    _     /    _  __/     _    __/   _    _/  / /
+      /____\______\____\____/_____\__\|______\____\|____\____\______\
+     «-dKS!:             :-------------------------------------------»
+           :           ..:..
+          .:...........::: :       [ · ] l i n e a r  back!
+           ·           :...:.. .
+                           :
+                           .
+
+
+
+
+
+
+
+
+       _______        _
+  ___ | ____________ |_|
+      |
+      | Federacja zaczarowanego swiata znakow ascii
+        "linear"  przedstawia wytwor bedacy dzielem
+        jednego z jej czlonkow: krzysztof'a gawor'a
+
+
+
+
+                                             _a k a
+
+
+
+
+                            __ __    ____    ____
+                          __) Y /_ _(__ /_ _( __/__
+           [ krskrskrskrs \   _/  Y   _/  Y_____  / krskrskrskrs ]
+     .a(id                /---|___+---|___|_______\                k0re.
+
+
+
+
+
+
+
+
+
+
+
+
+                                               _
+                                        ___âµæ0#
+                                 ___âµæM@P°"¯ 0#                                
+                            _µgÏ0@P°"¯    a¶ j0þ  _
+                         _  0Ë               j0F J0Þµ
+                       _æ0k Ø#               j0Î  ¬900µ
+                      jØ0"  ]0L  __âggÏÏÏgpµ ]0L     °0b_
+                     ¼0P     0Ë j00@P°"""°90 j0L      ¬Ø0_
+                    ¼0F      Æ0  "           ]0  ¸      Ø0¸
+                    0#       j0Î             ]0  ßL     ¬00
+                   Æ0L     jL 0#             á0  Æ0      ]0Î
+                   00      Ø0 å0_ .--------. Æ0  ¬0k     ¬0Ë
+                   0#  -------¬0Ë-¦ linear ¦-Æ0-------    0#
+                   00      00  #0 `--------' 00  j0F      0#
+                   Æ0L     ¬0Î j0Î   1999    0#  Æ0      j0F
+                   ¬0þ      å0L 0#           0þ  0´      00
+                    °0Î      ¬# Æ0     ___âµM0F ?       Æ0
+                     °0b_       ¬0Îâµp#@P°"¯          _Æ0
+                      ¬00µ       °""¯    __âµgë     _æ0#
+                        90Þµ_     ___µgM0@P"¯Ø#   _æ00"
+                         ¬900gµ_ ¬0P°¯       Æ0  Æ0#°
+                            ¬9#0Î 0k  ___âµw Æ0  °¯
+                                  ## ¬~°"_.k®s!
+                                  å#âgÏN@P"¯
+                                  ¯°"
+
+
+
+                         liczy sie jakosc a nie ilosc!
+
+                                                krs + yaneq [linear'99]
+
+
+
+
+
+
+
+00000000 System
+00000002 Hardware bus fault/access error
+00000003 Illegal address access (ie: odd)
+00000004 Illegal instruction
+00000005 Divide by zero
+00000006 Check instruction error
+00000007 TrapV instruction error
+00000008 Privilege violation error (not supervisor mode)
+00000009 Trace error
+0000000A Line 1010 Emulator error
+0000000B Line 1111 Emulator error
+0000000C Reserved Vector
+0000000D CoProcessor Protocoll-error
+0000000E Stack frame format error
+0000000F Execute an uninitialized interrupt
+00000018 Spurious interrupt error
+00000019 AutoVector Level 1 interrupt error
+0000001A AutoVector Level 2 interrupt error
+0000001B AutoVector Level 3 interrupt error
+0000001C AutoVector Level 4 interrupt error
+0000001D AutoVector Level 5 interrupt error
+0000001E AutoVector Level 6 interrupt error
+0000001F AutoVector Level 7 interrupt error
+00000020 uninitialized TRAP #0 vector
+00000021 uninitialized TRAP #1 vector
+00000022 uninitialized TRAP #2 vector
+00000023 uninitialized TRAP #3 vector
+00000024 uninitialized TRAP #4 vector
+00000025 uninitialized TRAP #5 vector
+00000026 uninitialized TRAP #6 vector
+00000027 uninitialized TRAP #7 vector
+00000028 uninitialized TRAP #8 vector
+00000029 uninitialized TRAP #9 vector
+0000002A uninitialized TRAP #A vector
+0000002B uninitialized TRAP #B vector
+0000002C uninitialized TRAP #C vector
+0000002D uninitialized TRAP #D vector
+0000002E uninitialized TRAP #E vector
+0000002F uninitialized TRAP #F vector
+00000030 FPCP branch or set on unordered condition
+00000031 FPCP inexact result
+00000032 FPCP divide by zero
+00000033 FPCP underflow
+00000034 FPCP operand error
+00000035 FPCP overflow
+00000036 FPCP signalling NAN
+00000038 MMU configuration error
+00000039 68851 illegal operation
+0000003A 68851 access level violation
+
+00008001 ExecLibrary
+00008002 GraphicsLibrary
+00008003 LayersLibrary
+00008004 IntuitionLibrary
+00008005 MathLibrary
+00008007 DosLibrary
+00008008 RamlibLibrary
+00008009 IconLibrary
+0000800A ExpansionLibrary
+0000800B DiskfontLibrary
+0000800C UtilityLibrary
+0000800D KeyMapLibrary
+
+00008010 AudioDevice
+00008011 ConsoleDevice
+00008012 GamePortDevice
+00008013 KeyboardDevice
+00008014 TrackDiskDevice
+00008015 TimerDevice
+
+00008020 CIAResource
+00008021 DiskResource
+00008022 MiscResource
+
+00008030 BootStrap
+00008031 Workbench
+00008032 DiskCopy
+00008033 GadToolsLibrary
+00008034 UtilityLibrary
+00008035 Unknown
+
+00010000 no Memory
+00020000 MakeLibrary
+00030000 OpenLibrary
+00040000 OpenDevice
+00050000 OpenResource
+00060000 IOError
+00070000 no Signal
+00080000 BadParameters
+00090000 CloseLibrary
+000A0000 CloseDevice
+000B0000 CreateProcess
+
+01000000 ExecLibrary
+01000001 68000 exception vector checksum (obs.)
+01000002 Execbase checksum bad (obs.)
+01000003 Library checksum failure
+01000004 Not enough memory for a library
+01000005 Corrupt memory list detected in FreeMem
+01000006 No memory for interrupt servers
+01000007 InitStruct() of an APTR source (obs.)
+01000008 A semaphore is in an illegal state at ReleaseSemaphore()
+01000009 Freeing memory that is already free
+0100000A Illegal 680x0 exception taken (obs.)
+0100000B Attempt to reuse an active IORequest
+0100000C Sanity check on memory list failed during AvailMem(MEMF_LARGEST)
+0100000D IO attempted on closed IORequest
+0100000E Stack appears to extend out of range
+0100000F Memory header not located.
+01000010 An attempt was made to use the old message semaphores.
+810000FF A quick interrupt has happened to an uninitialized vector.
+
+02000000 GraphicsLibrary
+02010000 Graphics out of memory
+02010001 MonitorSpec alloc, no memory
+02010002 Not enough memory for copperlist
+02010003 Copperlist is or was full
+02010004 Copperlist corrupt
+02010005 Not enough memory for copperlist header
+02010006 long frame, no memory
+02010007 short frame, no memory
+02010008 fill, no memory for TmpRas
+02010009 text, no memory for TmpRas
+0201000A BltBitMap, no memory
+0201000B regions, memory not available
+02010030 MakeVPort, no memory
+0200000C GfxNewError
+0200000D GfxFreeError Could not free graphics
+
+02011234 Emergency memory not available
+
+02000401 unsupported font description used
+
+03000000 LayersLibrary
+03000001 layers out of memory
+03010000 no memory for LayersLibrary
+
+04000000 IntuitionLibrary
+04000001 unknown gadget type
+04010002 create port, no memory
+04010003 item plane alloc, no memory
+04010004 sub alloc, no memory
+04010005 plane alloc, no memory
+04000006 item box top < RelZero
+04010007 open screen, no memory
+04010008 open screen, raster alloc, no memory
+04000009 open system-screen, unknown type
+0401000A add SW gadgets, no memory
+0401000B open window, no memory
+0400000C Bad State Return entering Intuition
+0400000D Bad Message received by IDCMP
+0400000E Weird echo causing incomprehension
+0400000F couldn't open the Console Device
+04000010 Intuition skipped obtaining a semaphore
+04000011 Intuition obtained a sem in bad order
+
+05000000 MathLibrary
+
+06000000 CListLibrary
+
+07000000 DosLibrary
+07010001 no memory at startup
+07000002 EndTask didn't end
+07000003 Qpkt failure
+07000004 Unexpected packet received
+07000005 Freevec failed
+07000006 Disk block sequence error
+07000007 Bitmap corrupt
+07000008 Key already free
+07000009 Invalid checksum
+0700000A Disk Error
+0700000B Key out of range
+0700000C Bad overlay
+0700000D Invalid init packet for cli/shell
+0700000E A filehandle was closed more than once
+
+08000000 RamlibLibrary
+08000001 overlays are illegal for library segments
+
+09000000 IconLibrary
+
+0A000000 ExpansionLibrary
+0A000001 Freeed free region
+
+0B000000 DiskfontLibrary
+
+10000000 AudioDevice
+
+11000000 ConsoleDevice
+11000001 Console can't open initial window
+
+12000000 GamePortDevice
+
+13000000 KeyboardDevice
+
+14000000 TrackDiskDevice
+14000001 calibrate: seek error
+14000002 delay: error on timer wait
+
+15000000 TimerDevice
+15000001 bad request
+15000002 power supply -- no 50/60hz ticks
+
+20000000 CIAResource
+
+21000000 DiskResource
+21000001 get unit: already has disk
+21000002 interrupt: no active unit
+
+22000000 MiscResource
+
+30000000 BootStrap
+30000001 boot code returned an error
+30018002 no memory for Bootpicture during boot
+
+31000000 Workbench
+31000001 WBBadStartupMsg1 (3.0) ; no Font (2.0)
+31000002 WBBadStartupMsg2
+31000003 WBBadIOMsg
+
+31010004 WBInitPotionAllocDrawer
+31010005 WBCreateWBMenusCreateMenus1
+31010006 WBCreateWBMenusCreateMenus2
+31010007 WBLayoutWBMenusLayoutMenus
+31010008 WBAddToolMenuItem
+31010009 WBReLayoutToolMenu
+3101000A WBInitTimer
+3101000B WBInitLayerDemon
+3101000C WBInitWbGels
+3101000D WBInitScreenAndWindows1
+3101000E WBInitScreenAndWindows2
+3101000F WBInitScreenAndWindows3
+31010010 WBMAlloc
+
+31038009 LoadWB error
+
+32000000 DiskCopy
+
+33000000 GadToolsLibrary
+
+34000000 UtilityLibrary
+
+35000000 Foreign Hard/Software
+35010100 no Retina hardware present
+35010110 Retina does not have any memory at all
+35010111 tried to free memory although no memory is in use
+35010112 tried to free memory which has not been allocated
+35010113 no Amiga memory for memory listnode
+35010114 still some memory in use at library expunge
+35010115 Retina internal
+35010116 Retina internal
+35010117 Retina internal
+35010121 tried to remove a library internal monitor
+35010122 LIB_Expunge and not all monitors removed
+35010123 Retina internal
+
+B6000001 HDMem: Side change from supervisor mode tried
+B6000002 HDMem: Out of memory when creating message port
+B6000003 HDMem: Out of memory when creating message
+36000008 HDMem: AddTask() in virtual memory - refused
+36000009 HDMem: RemTask() in virtual memory - refused
+3600000A HDMem: AddIntServer() in virtual memory - refused
+3600000B HDMem: RemIntServer() in virtual memory - refused
+3600000C HDMem: SetIntVector() in virtual memory - refused
+3600000D HDMem: Access beyond limits - task held
+
+BADC0DE1 BAD CODE 1 (absichtlich in ALF-Software --> Checksum-Error)
+
+18a18001 acid: acid - extremal files by linear
+18a18002 aln!: aln! - extremal files by linear
+18a18003 all: ascii - extremal files by linear
+
+18b18001 twister: baderman - Extremal Files by linear
+18b18002 budgie: budgie - Extremal Files by linear
+
+18f18001 thorr: frozen - extremal Files by linear
+
+18h18002 all: history - extremal files by Linear
+
+18i18001 all: index - Extremal files BY linear
+18i18002 all: intro - Extremal files BY linear
+
+18k18001 acid: kore. - Extremal Files By Linear
+18k18002 acid: kore.diz - Extremal Files By Linear
+
+18l18001 all: letter - la!-efs.txt by Linear
+
+18m18001 all: mail - Extremal Files By linear
+18m18002 all: menu - Extremal Files By linear
+
+18n18001 peer: narkobus - Extremal files By Linear
+18n18002 norman: norman - Extremal files By Linear
+
+18p18001 all: presents - extremal files bY Linear
+18p18002 punisher: punisher - extremal files bY Linear
+
+18r18001 renton: renton - extremal files by linear
+18r18002 revi: revi - extremal files by linear
+
+18s18001 renton: speed - EXTREMAL FILES BY LINEAR
+
+18t18004 thorr: thorr - Extremal Files by linear
+18t18003 thung: thung - Extremal Files by linear
+18t18002 timer: timer - Extremal Files by linear
+18t18001 twister: twister - Extremal Files by linear
+
+
+18w18001 all: wandet stuff - extremal Files by linear
+18w18002 all: welcome - extremal Files by linear
+
+18x18001 x-ball: x-ball - extremal files By Linear
+
+18y18001 yaneq: yaneq - Extremal files by la!
+
+18z18001 zabora: zabora - Extremal files By linear
+
+
+
+
+
+
+
+  ________________________[ number kolly by krs_
+ |
+ |        _______________
+ |       |               |_______[ number kolly by linear_
+ |       ·
+ |___18c18001
+       ·   |_________________________[ logos numer_
+       |
+       |_________________[ alfabet litere_
+
+
+
+
+
+                          _    __       ____    ____
+                       __| |_ _\ \___ _( __/_ _(   /__
+      .a(id ]----------\ |_| Y  _ \  Y  _____Y   7   /-----------------
+      -----------------/_____+---\___|_____| |_______\----------[ k0re.
+
+
+      Witam!. Dlugi  czas mina  od mojej  ostatniej  kolekcji. Po wielu
+      trudach  w  koncu na  swiatlo  dzienne  wyszlo  moje nowe  dzielo
+      "extremal files".  Mysle  ze  teraz kolekcje  spod  linear zaczna
+      wychodzic  czesciej, zwlaszcza spod mojej reki. Mam pare pomyslow
+      za ktorych  realizacje juz sie zabralem.  Tylko  zeby  szkola nie
+      pokrzyzowala  mi  planow... . Jedna linear  rzadzi.  Uswiadomilem
+      sobie to w momencie kiedy thung powrocil w nasze szeregi. Mimo ze
+      mogl zostac w kore. [respekt]  to  zdecydowal sie  na  linearnych
+      braci. Tak  samo yaneq. Równieû  mimo  mozliwosci  wyboru  innych
+      ascii formacji zdecydowal sie na nas. La! cos  w sobie musi miec!
+      I tutaj  apel  do  swiezej  krwi.  Jezeli  chcecie  sie joinac do
+      jakiejs ascii formacji to miejcie  na uwadze linear. Gwarantujemy
+      super klimat  i  niezla zabawe. Tyle z reklam. Jeszce tylko jedna
+      uwaga  do  chlopakow  z  sea [respekt]  "liczy sie jakosc  a  nie
+      ilosc ;)". Szczerze mowiac nie  mam  ochoty  na  pisanie  zadnych
+      wstepniakow.   Ogladnijcie  sobie  kolekcje  i  wytnijcie  jakies
+      logoski jak sie wam podobaja. Ok... linear back!
+
+                                                                _____
+                                                                \   /
+                                                  _          _   )_(
+                                       |_(_   _. )_   /     ·_|   _
+                                       |   ) (   ._( (  )_. )_|  )_(
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Ôroda 02-Wrz-92    12:25:17
+Task  : 002A84A8 "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 01-Maj-98    07:06:46
+Task  : 00361070 "HippoPlayer"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.592
+Name  : acid
+For   : acid
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+          ___                             _             _________
+         |   |                 acid.kore.|_| _________ | ___
+         |___|   ___________                           |      _ /______
+      ___________\____     /______\ _      _ /_____   ________\/      /
+    .  _          ___           ___\/______\/     /___\              /
+      |_||______  \             \                              _    /
+               /-------|_______                        ________\----\
+      k®s!/la!                /-----------------------|         \
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Niedziela 03-Maj-98    11:04:04
+Task  : 002C2304 "Unknown"
+Error : 00400040 (Recoverable)
+By    : System
+Cause : Nieznany
+--------------------------------------------------------------------------------
+Date  : Wtorek 13-Paú-98    18:50:56
+Task  : 00372FA8 "Shell Process"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.694
+Name  : aln!
+For   : aln!
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+                                                             ______
+                                                            |      |
+           ______                              ___ /__________     |
+          |      |  ____________\ _  _aln!.mawi\  /          /     |
+          |   ______\____        \/_____________\/          /      |
+          |_ |       ___                                   /|      |
+             |_____  \            _             \__________\|______|
+                  /--------|______\--------------\ ________________
+                                     ___  |                        |
+                                  . |___| |________________k®s!/la!|
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Wtorek 13-Paú-98    22:46:35
+Task  : 00502958 "HiP-Sample"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Ôroda 14-Paú-98    11:48:26
+Task  : 00202238 "Unknown"
+Error : 8000000B (DEADEND)
+By    : System
+Cause : Line 1111 Emulator error
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.639
+Name  : ascii
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+      _          ___________                       _   ___   __
+     |_| .             ____ | ______              |_| |   | |__|
+   ___   __________         |                         |___|   ___ /_____  _
+  |   | _\____    /_______  |   _________\ _      _ /_____  . \  /     / |_|
+  |___|   __           __/______\      ___\/______\/     /_____\/     /_____
+  ______  \        _______             \                                   /
+       /-----------\     /   _                  ____                      /
+          k®s!/la! /         \-----------------|   /----------------------\
+                  /___________\ _a s c i i
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Czwartek 15-Paú-98    21:56:08
+Task  : 002A81A8 "Unknown"
+Error : 80000026 (DEADEND)
+By    : System
+Cause : uninitialized TRAP #6 vector
+--------------------------------------------------------------------------------
+Date  : Czwartek 15-Paú-98    22:02:52
+Task  : 002A81A8 "Unknown"
+Error : 80000005 (DEADEND)
+By    : System
+Cause : Divide by zero
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 01.084
+Name  : baderman
+For   : twister
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                        _____________
+              baderman |      _
+           ___________ | ___ |_|      _ /______                  _ /_____
+ ______\ _             |      ________\/      /_____\ ___      __\/     /----/
+ \      \/________   _________\                   ___\  /______\     _      /
+  \              /___\____             _              \/             \------\
+   \    _             ___     _________\----|________        _________\  ___
+   /----/______       \      /          \           /--------\          |   |
+       /       |-------------\                                          |___|
+   .                                /           ___________       _ /________
+    _                            _ /____________\____     /_______\/        /
+   |_|                   ________\/              ___                       /
+    ___               [--\         _             \                \________\
+   |   |  _        [------\        \-------------------------------\
+   |___| |_| .       [----/_________\ k®s!/la!
+                                     \
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Sobota 17-Paú-98    23:37:08
+Task  : 0035ADF8 "CyberAnim"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Sobota 17-Paú-98    23:46:48
+Task  : 0035ADF8 "Unknown"
+Error : 0100000C (Recoverable)
+By    : ExecLibrary
+Cause : Sanity check on memory list failed during AvailMem(MEMF_LARGEST)
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.808
+Name  : budgie
+For   : budgie
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                 ___   ___
+     ________ . |   | |___|                                   ____________
+    |        _  |___|                  _ /______             |
+ ______\ _  |_| ______\ _      ________\/      /______\ _    |   _ /_____
+ \      \/______\      \/------\                   ____\/________\/     /_____
+  \                                     _          \____                     /
+   \    _       ________________________\----|_____    /      _____ k®s!/la!/
+   /----/_______\                        \        /----------|    /---------\
+       /   ______\____        |   ___
+   ___    /    ___\  /______  |_____ | ___________  _
+  |   |  _\        \/      /     _   |             |_| budgie.absurd.linear
+  |___|.|_|\______        /   . |_|  |______
+                 /--------\
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Poniedziaîek 19-Paú-98    23:14:25
+Task  : 00555A78 "HippoPlayer"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Poniedziaîek 19-Paú-98    23:15:02
+Task  : 00334BA0 "HippoPlayer"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.901
+Name  : frozen
+For   : thorr
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+  _________    [  w   h   e   l   p   z       p   r   e   s   e   n   t   s  ]
+    _  ___ | ______
+   |_|     |        _ /_____    ________________     ______________\____
+      _ /___________\/     /----\        ____  /_____\__         ___\  /______
+  ____\/                _              _    /       ______           \/      /
+  \         _           \--------------/_______   _ \    /---|______        /
+   \  _     /----|_______\  ___       /       /---/______\         /--------\
+   /__\-----\      ______  |   |  _   ___
+                . |______| |___| |_| |___| .  _ /____________________________
+  ____________________________________________\/                            /
+  \                                                   stuff party by xxxxx /
+   \ frozen pack by whelpz nr.xx              \____________________________\
+   /---------------------------------[k®s!/la!]\
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Wtorek 20-Paú-98    13:53:43
+Task  : 00378338 "HippoPlayer"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Wtorek 20-Paú-98    13:56:38
+Task  : 00374930 "HippoPlayer"
+Error : 8000000B (DEADEND)
+By    : System
+Cause : Line 1111 Emulator error
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 01.181
+Name  : history
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+        ________              _
+            ___ | __________ |_| history [·]                       k®s!/la!
+  _____\ _      |                                                 __    _
+  \     \/_________     _ /_____   ________            ______\ _ |__|  _
+   \      _       /_____\/     /___\    __/____________\      \/_____ | |
+   /______/                            ______                       / | |
+         /________________         //--\    / _   __________       /  |_|
+                         /---------\   /______\---\  ___    |------\ .  ___
+                                               \    |   | _            |   |
+                      ____________         _        |___|  _           |___|
+                             ____ | _____ |_|   _ /_____  |_|     _ /________
+                                  |           __\/     /----------\/        /
+                               _______________\     _                 _    /
+                     .    ___  \        ____        \------|_____     \----\
+                      _  |   |  \     _    / ________\          /______\
+                     |_| |___|  /-----/______\
+                                     /
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Wtorek 20-Paú-98    14:16:26
+Task  : 0023E448 "Unknown"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Wtorek 20-Paú-98    14:17:21
+Task  : 003565D8 "FM Timer"
+Error : 8000000B (DEADEND)
+By    : System
+Cause : Line 1111 Emulator error
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.671
+Name  : index
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                                                _
+       ____________               ____________ |_| index [·]
+   _   _     _____ | ____________|
+  | | |_|          |                    _ /______                    _ /____
+  |_| _ ________   |     _ /____________\/      /_____\ ___    \-----\/    /
+  ______\      /_________\/                         ___\  /_____\         /
+  \                                      _              \/           _    \
+  /_______               \_______\\______\-----|_______        ______\-----\
+    _    /----------------\               \           /--------\    k®s!/la!
+   |_|  __
+     _ |__|
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Wtorek 20-Paú-98    18:55:29
+Task  : 00208362 "Unknown"
+Error : 80000017 (DEADEND)
+By    : System
+Cause : Nieznany
+--------------------------------------------------------------------------------
+Date  : Niedziela 25-Paú-98    23:04:54
+Task  : 00202200 "Unknown"
+Error : 8000000B (DEADEND)
+By    : System
+Cause : Line 1111 Emulator error
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.711
+Name  : intro
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+   ______                         _
+   _  _  |         _____________ |_| intro [·]                       k®s!/la!
+  | ||_| |_______ |                                 _ /_____  _______________
+  |_| _ ________  |     _ /________  _________    __\/     /--\       ____  /
+  ______\      /________\/        /__\       /____\     _           _    / /
+  \                                                     \-----------/______\
+  /_______              \_________________       ________\      |  /
+         /---------------\                |------\         ____ | _______
+                                                    _           |
+                                         [·] intro |_| _________|
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Sobota 31-Paú-98    18:53:02
+Task  : 0053F3E8 "FM Show Asc"
+Error : 8000000E (DEADEND)
+By    : System
+Cause : Stack frame format error
+--------------------------------------------------------------------------------
+Date  : Czwartek 05-Sty-78    22:19:44
+Task  : 00208362 "Unknown"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.562
+Name  : kore.
+For   : acid
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                          _           _____________ kore.[·]
+                         |_| _______ | __
+    k®s!/la! _ /______               |   _ /_____
+     ________\/      / __________________\/     /-----/____\ ___
+     \          _   /__\        ____         _           ___\  /______
+      \         \      _      _    /         \------|        \/      / ___
+  -«--/---------/      \------/_______________\     |_______        / |   |
+               /________\    /                             /--------\ |___|
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Czwartek 05-Sty-78    22:34:51
+Task  : 00389958 "ASM-One"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Sobota 07-Sty-78    00:31:37
+Task  : 00356108 "FM Timer"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.408
+Name  : kore.diz
+For   : acid
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                kore. presents new ascii produkt
+           _ /______   ________________________
+     ______\/      /  |                        |
+     \        _   /___|                        |
+      \       \      /|                        |
+  -«--/-------/      \|                        |
+     k®s!/la!/________\                        |
+                      |_______________[oo.oo.99|
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Sobota 07-Sty-78    00:36:04
+Task  : 0038A3D0 "ASM-One"
+Error : 8000000E (DEADEND)
+By    : System
+Cause : Stack frame format error
+--------------------------------------------------------------------------------
+Date  : Niedziela 08-Sty-78    00:06:10
+Task  : 00366F70 "Shell Process"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 01.028
+Name  : letter
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+             ___  _    __
+            |   |  _  |__| l e t t e r_                       _   ___  _
+   ____\ _  |___| |_|                                        |_| |   | _
+   \    \/______________\ ___         _ /______        _ /______ |___||_|
+    \                 ___\  /_________\/      /________\/      /_____  .
+     \   _                \/                                        /  _
+     /___\-------|_______        __________       __________       /  | |
+           |            /--------\         |------\         |------\  |_|
+       ___ | ______|                      _____________
+    _______|                        _                  |     _ /_____
+                                   |_|     ______\ ___ |   __\/     /----/
+                                     _  ___    ___\  /_____\     _      /
+                                  __   |   |       \/      /     \------\
+                                 |__|  | __|______        ________\k®s!/la!
+                                                 /--------\
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Poniedziaîek 09-Sty-78    21:22:16
+Task  : 003D5950 "HiP-Info"
+Error : 8000000B (DEADEND)
+By    : System
+Cause : Line 1111 Emulator error
+--------------------------------------------------------------------------------
+Date  : Poniedziaîek 09-Sty-78    21:29:00
+Task  : 003D5950 "HiP-Info"
+Error : 0100000F (Recoverable)
+By    : ExecLibrary
+Cause : Memory header not located.
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.588
+Name  : mail
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+       ______________               _
+                ____ | ___________ |_|
+         ____        |
+        |____| _ /_________    ___________   _ /_____   ____\ _ k®s!/la!
+       ________\/         /____\____     /___\/     /___\    \/_________
+       \         _              ___                                    /
+        \        \------|_____  \                             _       /
+        /         \          /--------------------------|_____\-------\
+       /___________\[·] mail_
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Ôroda 11-Sty-78    00:37:31
+Task  : 00208362 "Unknown"
+Error : 8000000B (DEADEND)
+By    : System
+Cause : Line 1111 Emulator error
+--------------------------------------------------------------------------------
+Date  : Ôroda 11-Sty-78    00:47:30
+Task  : 00202238 "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.715
+Name  : menu
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                          _______________          _              ___  _
+                                     ___ | ______ |_|            |___|  _
+       k®s!/la! _ /________              |                ______\ _    |_|
+       _________\/        /_____\ ___    |       _ /______\      \/-------/
+       \                      ___\  /____________\/                      /
+        \         _               \/                      //_____________\
+        /         \-----|________                \________\
+       /           \            /-----------------\
+      /             \ ____________________
+     /               \                    |
+    /_________________\___________________| m e n u ]
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Ôroda 11-Sty-78    14:35:38
+Task  : 0023E448 "RAM"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Ôroda 11-Sty-78    20:34:02
+Task  : 00359D28 "FM Execute"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 01.032
+Name  : narkobus
+For   : peer
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+     _  ___        [ n a r k o b u s '9 9 ]            grasslsdamfetamina
+    _  |   | ___ /________                _ /_____          _ /_____  __
+   |_| |___| \  /        /    ____________\/     /----/_____\/     / |__|
+     _________\/        /_____\____           _               _   /___  _
+     \                         ___            \------\\       \      / |_|
+      \       \______________  \      _________\  __  /-------/______\ _
+      /        \---]        /---------\          |__|  ___  _
+     /          \-----]               ______\ _       |___|
+    /____________\--]  _______________\      \/____\ _     ________ k®s!/la!
+                       \        ___                 \/-----\    __/_________
+   z nami zwiedzisz     \     _   /   _      _                 ______      /
+   niezmierzony wszechswiat---/_______\------/_____________\---\    / _   /
+   swojego umyslu            /              /                  /______\---\
+                                                                       \
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Ôroda 11-Sty-78    21:04:35
+Task  : 0023E448 "Unknown"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Ôroda 11-Sty-78    21:06:26
+Task  : 0023E448 "RAM"
+Error : 0100000C (Recoverable)
+By    : ExecLibrary
+Cause : Sanity check on memory list failed during AvailMem(MEMF_LARGEST)
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 01.028
+Name  : norman
+For   : norman
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+      ____________                                            _   ______
+     |                                                       |_| |______|
+     |          norman.anadune [·]    _ /_____           _ /_________  _
+     |     _ /________              __\/     /---/_______\/         / | |
+  _________\/        /______________\     _                _       /  |_|
+  \                           ____        \-------\        \-------\   _
+   \       \___________     _    / ________\      /_________\         |_|
+   /--------\         /-----/______\                         \         _
+      ____                 /                                    _ /________
+     |____|                                   __________________\/        /
+      ____   __                     __  ______\____                      /
+     |    | |  | |                \ \ \ \      ___              \________\
+     |____| |__| |                / /_/ /____  \      /----------\
+                                            /---\-----\ k®s!/la!
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Ôroda 11-Sty-78    21:07:11
+Task  : 0023E448 "RAM"
+Error : 0100000C (Recoverable)
+By    : ExecLibrary
+Cause : Sanity check on memory list failed during AvailMem(MEMF_LARGEST)
+--------------------------------------------------------------------------------
+Date  : Czwartek 12-Sty-78    14:43:02
+Task  : 0032F970 "Background CLI"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 01.254
+Name  : presents
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                                ___________
+    ___________                            | ______                  |___|
+   |              _ /_____    ______\ ___  |                          ___
+   |   _ /________\/     /---|    ___\  /___________ presents [·]    |   |
+  _____\/___          _               \/         __/______________\ ___ _|
+  \     _  /          \------|_______           ______          ___\  /______
+   \    \------|_______\            /-----------\    / _            \/      /
+   /_____\k®s!/la!                              /______\----|______        /
+                                                        \         /--------\
+                        _ /________   ______\ _                       ___
+               _________\/        /___\      \/___________           |   |
+     __   ___  \                                       __/__________ |___|
+  | |  | |   |  \       \__________________            ______      /  ___
+  | |__| |___|  /--------\                 |-----------\    / _   /  |   |
+                                                       /______\---\  |___|
+                                                               \      ___
+                                                                     |   |
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Piâtek 13-Sty-78    14:57:59
+Task  : 003318A0 "Background CLI"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 13-Sty-78    17:14:47
+Task  : 0032A0D0 "Background CLI"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 01.109
+Name  : punisher
+For   : punisher
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                                            ___
+                            ______________ |   | punisher [·]
+                     _____ | ___           |___|                 ___
+       _ /_______          |           _ /________    _ /_____  |___| _
+  _____\/___    /____\ _      _________\/        /____\/     /_____  _
+  \     _  /          \/------\                                   / |_|
+   \    \------\                       \________________         /
+   /_____\     /______________\---------\  |___|       /---------\------»-
+                                            ___   _   ___
+              ________                  _  |   | |_| |___| |
+              \    __/_____________\ _ |_| |___| _              _ /_____
+               \  ______            \/______________\ ___     __\/     /----/
+        -«-----/--\    / _            _           ___\  /_____\     _      /
+                  /______\----|_______/               \/            \------\
+                          \          /_______________        ________\k®s!/la!
+                                                    /--------\
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Poniedziaîek 16-Sty-78    00:26:54
+Task  : 00208362 "Unknown"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Wtorek 17-Sty-78    04:16:32
+Task  : 0060ECA0 "PC-Task_Interpretive"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.870
+Name  : renton
+For   : renton
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                ___
+               |   |  ___     _   _________ renton.sative mea [·]
+             _ |___| |___|   |_| |
+         _ /_____    ______\ ___ |           _ /________   ______\ _
+       __\/     /----\   ___\  /_____________\/        /___\      \/_____
+       \     _               \/                                         /
+       /     \----|_________                 \__________________       /
+      /_______\  ___       /------------------\                 |------\
+        ____    |   |  _                            _ /________
+       |____| _ |___| |_|    _______________________\/        /  ___   _
+                             \        ____                   /  |   | |_|
+                              \     _    /          \________\  |___| _
+              --«---[k®s!/la!-/-----/_______|--------\
+                                   /
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Ôroda 18-Sty-78    17:53:59
+Task  : 00254710 "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Sobota 09-Kwi-44    19:27:16
+Task  : 00208362 "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.550
+Name  : revi
+For   : revi
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                              _         ________________
+                             |_| _____ | _____
+        _ /_____    ______\ ___        |                 _ /_____ k®s!/la!
+      __\/     /---|    ___\  /____    |    _ /__________\/     /_______
+      \     _               \/     |--------\/                         /
+      /     \------\\______                        ________           /
+     /_______\ |          /----------|_____________\      /-----------\
+               | ______
+      _________|        [·] revi.sative mea
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Piâtek 06-Maj-44    12:39:17
+Task  : 0035C698 "Unknown"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+
+
+
+
+               _____
+              |  _  |____________
+              |___| |  _____     |  krzysztof gawor  ul.gombrowicza 33/28
+                    | |__________|  59-22o legnica      tel.[o76] 8550843
+               _____|
+              |     |                                    _________
+  ______      |     |  _______    ____         _______  |         |    _______
+ |      |_____|     |_|   ____|__|    |__    _|   _   |_|         |___|       |
+ |   _        |_____|  ____           ___|__|     |        _          |       |
+ |___|                |  |        __   |     _________    ||_________     ____|
+     |______|         |  |_______|  |_______|         |   |         |____|
+            | history |                        yQ.la! |___|
+_________|| |_________| ||______________________________________________________
+
+
+
+  ------------- in 1997 year -------[ · ]
+  --------------------------------------------------------------------------
+   o1.krs-non.txt   [ no name                    ]   o56.o64       21.o4.97
+   o2.sP!-dth.txt   [ death                      ]   1oo.ooo       3o.o8.97
+   o3.sP!-hpy.txt   [ happy                      ]   o86.96o       11.o9.97
+   o4.krs-dtr.txt   [ day teacher                ]   o44.8oo       14.1o.97
+   o5.sP!-foa.txt   [ flowa                      ]   o86.846       15.1o.97
+   o6.krs-etu.txt   [ entrevue                   ]   o68.648       29.11.97
+   o7.krs-fza.txt   [ faza                       ]   136.524       13.12.97
+   o8.krs-chs.txt   [ chrismas                   ]   o88.381       24.12.97
+
+  ------------- in 1998 year -------[ · ]
+  --------------------------------------------------------------------------
+   o9.krs-bdg.txt   [ beer is drink god          ]   o57.732       24.o1.98
+   1o.krs-ols.txt   [ olônienie                  ]   o71.666       28.o2.98
+   11.krs-fdn.txt   [ fuck design                ]   o52.384       24 o3.98
+   12.la!-tdh.txt   [ time of death hours        ]   157.237       25.o4.98
+   13.la!-grd.txt   [ granday                    ]   115.6o3       3o.o5.98
+   14.la!-tbn.txt   [ taraban                    ]   o2o.753       12.o6.98
+   15.la!-gef.txt   [ growing of evering flowers ]   159.658       o7.11.98
+   16.la!-mia.txt   [ minimalny animal           ]   o97.o21       28.12.98
+
+  ------------- in 1999 year -------[ · ]
+  --------------------------------------------------------------------------
+   17.la!-csc.txt   [ conclusion at the same time]
+                    [ commencement               ]    o51.571       2o.o3.99
+   18.la!-efs.txt   [ extremal files             ]    oxx.xxx       o4.o9.99
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Niedziela 10-Kwi-44    05:28:24
+Task  : 00202236 "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Niedziela 10-Kwi-44    09:20:56
+Task  : 0023E448 "Unknown"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.660
+Name  : speed
+For   : renton
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                                              _____________        _
+   [   s  p  e  e  d   ]                                   | ____ |_|
+  ________            _ /____________\ ___                 |         _ /______
+  \    __/____________\/___        ___\  /__________\ ___  |  _______\/      /
+   \  ______           _  /            \/         ___\  /_____\             /
+   /--\    / _         \------|_______                \/              _    /
+  k®s!/______\----/_____\ |  ___     /-------\\______        _________\----\
+              \           | |   | _  ___            /--------\         \la!
+          ________________| |___||_||___| _
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Ôroda 13-Kwi-44    10:07:17
+Task  : 00368260 "Shell Process"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Niedziela 17-Kwi-44    15:42:23
+Task  : 00357F60 "Work:Graficzne/DPaintV/DPaint5.2"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.599
+Name  : thorr
+For   : thorr
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                  ___________                    _  _
+                          __ | ________    ___  |_|              _ /_____
+       ______\ _             |        __  |   |    _ /_____    __\/     /----/
+   ____\      \/_______\ _   |     _ |__| |___|  __\/     /----\     _      /
+   \                    \/_______________________\     _             \------\
+   /________              _               ____         \------|_______\k®s!/la!
+            |------/______/             _    /  ________\
+                         /        \-----/_______\
+       [·] thorr.whelpz /__________\
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Wtorek 19-Kwi-44    17:59:41
+Task  : 003E6128 "Shell Process"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Ôroda 20-Kwi-44    15:52:48
+Task  : 00365948 "Background CLI"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.658
+Name  : thung
+For   : thung
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                                                            _
+                                              ____________ |_|
+      ______\ _                     ________ | __
+  ____\      \/_______\ _                    |     _ /_______________\ _
+  \                    \/________\ _      _________\/             ____\/______
+  /________              _        \/------\                       \____      /
+           |-----|_______/                         \________\\____    /     /
+  k®s!/la!              /        _________|---------\            /----------\
+                       /        |
+                      /_________| thung.linear [·]
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Ôroda 20-Kwi-44    16:09:03
+Task  : 00365948 "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Ôroda 20-Kwi-44    16:10:13
+Task  : 00365948 "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.847
+Name  : timer
+For   : timer
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                _____________               _                           __
+                         ___ | ___________ |_|                         |  |
+  k®s!/la!                   |                                  _ /_____
+      ______\ _     _ /_____ |       _ /_____________\ ___    __\/     /----/
+  ____\      \/_____\/     /_________\/            ___\  /____\     _      /
+  \                                    _               \/           \------\
+  /________                   _        \------||______        _______\ |  |
+           |------------------/         \---]        /--------\        |__|
+                  timer.mawi /           \-----]                        __
+                            /_____________\--]                     __  |  |
+                                                                  |__| |__|
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Sobota 23-Kwi-44    18:01:57
+Task  : 002021E4 "Unknown"
+Error : 80000006 (DEADEND)
+By    : System
+Cause : Check instruction error
+--------------------------------------------------------------------------------
+Date  : Sobota 23-Kwi-44    18:24:06
+Task  : 002021E4 "Unknown"
+Error : 01000009 (Recoverable)
+By    : ExecLibrary
+Cause : Freeing memory that is already free
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.923
+Name  : twister
+For   : twister
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                    _   ___   _   _________________ twister [·]
+                   |_| |___| |_| |
+         ______\ _   ___________ |           _ /_____
+     ____\      \/___\         /_____________\/     /___________ k®s!/la!
+     \                         \                             __/_________
+     /________       _________        _________             ______      /
+              |------\  ___  /--------\       /-------------\    / _   /
+      _  _           _ |   | _   _                    _  _  /______\---\
+     |_|  ______\ _ |_||___|    |_|  _    _ /_____      |_|         \
+      ____\      \/___________\ ___ |_| __\/     /----/  ___  ___   _  _
+      \                     ___\  /_____\     _      /  |   ||___| |_|
+      /________                 \/            \------\  |___|
+               |-------|_______        ________\ |
+                              /--------\         |_______________
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Sobota 23-Kwi-44    19:35:59
+Task  : 002021E4 "ªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªªª"
+Error : 0100000C (Recoverable)
+By    : ExecLibrary
+Cause : Sanity check on memory list failed during AvailMem(MEMF_LARGEST)
+--------------------------------------------------------------------------------
+Date  : Sobota 23-Kwi-44    19:37:28
+Task  : 00237228 "ramlib"
+Error : 0BADC0DE (Recoverable)
+By    : DiskfontLibrary
+Cause : Nieznany
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 01.720
+Name  : wandet stuff
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+  k®s!/la!
+   ___________            ___________      _ /________     _ /______ |___|
+   \         /____________\____     /______\/        /_____\/      /  ___
+    \        \             ___                                    /  |   |
+    /_______               \               \_________       _    /   |   |
+           /--------------------------------\       /_______\----\   |___|
+     |               |                                       \        ___
+     |      ________ | ______             ______\ ___                |   |
+     |               |_________________  /    ___\  /______  ______\ _ __|
+     |                                   \        \/      /__\      \/_____
+     |     [ · ]  w a n d e t   s t u f f \______                         /
+     |                                          /--------//_______       /
+     |                                                            |------\
+     |                                                                ___
+     |                                                               |   |
+     |
+     |
+     |
+     |
+     |
+     |
+     |
+  __ | _________                                                      |___|
+     |          |___________ [·]                                _ /_________
+  ________                                         _ /__________\/         /
+  \    __/_________  ______\ _   ______\ _     ____\/                __   /
+   \  ______      /__\      \/___\      \/-----\        __      _     /---\
+   /--\    / _                                     _     /--|___\-----\
+      /______\--|_________       //________________\-----\             ___
+              \           |------\                           k®s!/la! |   |
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Wtorek 26-Kwi-44    09:54:06
+Task  : 0020B2AA "Unknown"
+Error : 80000009 (DEADEND)
+By    : System
+Cause : Trace error
+--------------------------------------------------------------------------------
+Date  : Ôroda 27-Kwi-44    07:42:15
+Task  : 00202254 "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.934
+Name  : welcome
+For   : all
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                                                  _
+                                            ___  |_| _____________   k®s!/la!
+ ___________ welcome [·]                   |   | _           ____ | ____
+ \         /_____________\ ___   ____\ _   |___|                  |     |
+  \        \           ___\  /___\    \/________________\ _   ________________
+  /_______                 \/                         ___\/___\        ____  /
+      _  /--------\\______             _              \              _    / /
+    ___   _              /---------/___\-------\\____           |----/______\
+   |   | |_|                                        /-----------|   /
+   |___|   _ /______________\ ___            _
+   ________\/             ___\  /______     | |
+   \         _                \/      / ___ |_| _
+    \        \-------\\______        / |   |  ___
+    /_________\             /--------\ |___| |___|
+               \
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Ôroda 27-Kwi-44    11:21:26
+Task  : 003623B0 "Shell Process"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Ôroda 27-Kwi-44    11:27:06
+Task  : 0035F0B8 "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.771
+Name  : x-ball
+For   : x-ball
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                                                                      |___|
+       ___________        _____         _                              ___
+       \         /             | _____ |_| x-ball            ____\ _  |   |
+        \       /   ______\ _  |                ____\ _      \    \/_________
+   \-----\/    /____\      \/________    _______\    \/_______\             /
+    \         /|    |\              /____\____                     _       /
+    /     _   \|____| \    _              ___         _       _____\-------\
+   /      \----\      /----/____________  \      _____\-------\       |___|
+  /        \              /            /---------\                     ___
+ /__________\ decree.sative mea                              k®s!/la! |   |
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Wtorek 03-Maj-44    11:21:47
+Task  : 002E10A8 "Unknown"
+Error : 8000000B (DEADEND)
+By    : System
+Cause : Line 1111 Emulator error
+--------------------------------------------------------------------------------
+Date  : Piâtek 06-Maj-44    10:41:33
+Task  : 0032A6FC "Unknown"
+Error : 80000004 (DEADEND)
+By    : System
+Cause : Illegal instruction
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.827
+Name  : yaneq
+For   : yaneq
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                   ___   _   ____  _
+                  |   | |_| |____|   _
+  k®s!/la!        |___| ___________ |_| _ /________
+          _ /___________\____     /_____\/        /____\ ___ yaneq.linear [·]
+   \------\/             ___                         ___\  /_________________
+    \         _          \              \________        \/           ____  /
+    /____     \--------------------------\       |______             _   / /
+        /      \----]                        |         /-------------/    /
+       /        \------]                     |                      /-----\
+      /__________\---]                       |_____________         _______
+                                                              ___  |       |
+                                                             |___| |_______|
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Piâtek 06-Maj-44    11:31:41
+Task  : 0032A6FC "Unknown"
+Error : 000C4E75 (Recoverable)
+By    : System
+Cause : Nieznany
+--------------------------------------------------------------------------------
+Date  : Piâtek 06-Maj-44    12:38:26
+Task  : 0037C8C0 "Unknown"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+Date  : Piâtek 03-Wrz-99
+Size  : 00.665
+Name  : zabora
+For   : zabora
+Kolly : extremal files
+--------------------------------------------------------------------------------
+
+
+
+
+
+                  _______________
+       _______________           | zabora.oldbulls                   k®s!/la!
+      |           __________\ _  | sativemea      _ /_____        ___________
+      |  _________\____      \/___________________\/     /----/___\____     /
+ ________\__       ___                      ____      _            ___     /
+ \      ______     \         _            _    /      \__________  \      /
+  \   _ \    /---------------/_______|----/____________\        /---------\
+  /---/      \    ___  _    /            /                |
+     /        \  |   |  _                                 |___________
+    /__________\ |___| |_|
+
+
+
+
+
+--------------------------------------------------------------------------------
+Date  : Piâtek 06-Maj-44    12:39:17
+Task  : 0035C698 "Unknown"
+Error : 80000003 (DEADEND)
+By    : System
+Cause : Illegal address access (ie: odd)
+--------------------------------------------------------------------------------
+  ___                                                                      ___
+ |   |                                                                    |   |
+ |___|                                                                    |___|
+  _                                                                          _
+ |_| _                                                                    _ |_|
+   ___                                                                    ___
+  |___|                                                                  |___|
+
+
+
+                 ____    ____   ____    ____     ____    ____
+              __( __/_ _(__ /_ _\ __)_ _\ __)_ _(   /_ _( __/__
+      .a(id ]-\   `-- Y   _/  Y  --'  Y  --'  Y__   __Y_____  /--------
+      --------/_______+---|___|_______|_______| |___| |_______\-[ k0re.
+
+
+ acid ace aln! asl azzaro binar renton budgie caro  city cooper covenant deixas
+ def  digger dosia drf droczkins  gluten grogon guma hangman idaho jakec kessel
+ kro luk lulu  madbart madd maq  mdw melon  mobby mustafa  neuroup  peer protas
+ proton  punisher revi rico  spark starlight  thorr  thung twister voicer  wild
+ yaneq zoom
+
+                jak to fajnie byc pozdrowionym - nie chlopaki?!
+
+
+         ____   ____     ____    ____   ____     ____    ____    ____
+      __(__ /_ _\ __)_ _( __/_ _( _ /_ _\ __)_ _( __/_ _(   /_ _( __/__
+.a(id \   _/  Y  --'  Y_____  Y   ____Y  --'  Y   '   Y__   __Y_____  /------
+------/---|___|_______|_______|____|  |_______|_______| |___| |_______\ k0re.
+
+
+ acid azzaro renton budgie cnr kempy luk revi thung twister x-ball yaneq zabora
+
+                              kore. + sative mea
+
+               ale w ostatnim czasie narodziîo sie tych askerów!
+
+
+
+
+
+
+                    _______________         _______________
+                   |             ¯` credits '¯             |
+                  _|___   _____ _______ _____ ________ t!__|____
+               ___\_   \__\_   \\  ___/_\_   \\  _   /_ /   ___/
+               \   /___/  |/   /  __/   l/   /   /  __/_\___  \
+              /   /   /   /   /_  /     /   /   /   /     /   /
+              \_______\   \____/___________/____\____________/
+               ----»(_____|+·------------------------------|--
+
+                                                     ___
+                   _           ____________         |   |  _
+                  |_| la!.diz |____________| azzaro |___| |_|
+                           ___
+                       _  |   |         _____________          _
+                      |_| |___| linear |_____________| darkus |_|
+                                             ___
+           _       __________________       |   |  _
+          |_| krs |__________________| acid |___| |_|
+                               ___
+                           _  |   |       _________________        _
+                          |_| |___| info |_________________| acid |_|
+                                                     ___
+                   _           _____________        |   |  _
+                  |_| history |_____________| yaneq |___| |_|
+           ___
+       _  |   |         _______________        _
+      |_| |___| greets |_______________| acid |_|
+                                                             ___
+                           _             ___________        |   |  _
+                          |_| respects  |___________|  acid |___| |_|
+                ___
+            _  |   |          ______________        _
+           |_| |___| credits |______________| taxi |_|
+
+                                                                ___
+                              _           _______________      |   |  _
+                             |_| obrazek |_______________| ko0 |___| |_|
+                 ___
+             _  |   |          ______________        _
+            |_| |___| tuupakk |______________| acid |_|
+
+
+
+
+
+  _
+ | |
+ | |
+ |_|
+  __
+ |  |
+ |  |
+ |  |
+ |  |
+ |__|
+  _
+ |_|
+  ___
+ |   |
+ |   |
+ |   |
+ |   |
+ |___|
+  __________
+ |__________|  cale dzielo nosi nazwe:
+
+
+
+                                                       _
+             e  x  t  r  e  m  a  l   f  i  l  e  s   |_| _________________
+                                                                           |
+                         _ /____                  _ /_____                 |
+    ______\ ___    \-----\/    /   ______\ _    __\/     /----/_____\ ___  |
+   /    ___\  /_____\         /____\      \/____\     _           ___\  /______
+   \        \/           _                            \-----\\        \/      /
+    \______        ______\-----|________       ________\      \______        /
+   ___    /--------\                    |------\      ___           /--------\
+  |   |                                              |___|
+  |___| __                         ____\ _            ___
+    _  |__| _ /_________    _______\    \/_________  |___|
+    ________\/         /____\____                 /   ___
+    \         _              ___         _       /---|---|-------[·]
+     \        \------|_____    /    //___\-------\   |___|
+     /         \    ___   /---------\                 ___
+    /           \  |   |  _  _                       |___|
+   /k®s!/la!_____\ |___| |_|                          ___
+                                                     |   |                   _
+                                                                            | |
+                                                                            |_|
+                                                                           ___
+                                                                          |   |
+                                                                          |   |
+                                                                          |   |
+                                                                          |   |
+                                                                          |___|
+                                                                            __
+                                                                           |  |
+                                                                           |__|
+                                                                             _
+                                                                            | |
+                                                                            |_|
+                                                                            __
+                                                                           |  |
+                                                                           |  |
+                                     i zostalo stworzone za pomoca stylu:  |  |
+                                                                           |__|
+
+                 _________
+                |                     _
+          _____ | __________________ |_|
+                |
+     ________   |   ______\ _              _ /_________      _ /_________
+     \    __/_______\      \/------/_______\/         /______\/         /
+      \  ______                              _                 _       /
+      /--\    / _   _________________        \-------\\        \-------\
+         /______\---\               /_________\       /_________\
+                 \                             \                 \
+   k®s!/la!               _ /_____
+        ______\ ___     __\/     /----/   [  s   u   m   m   e   r  ]
+       /    ___\  /_____\     _      /          _                _
+       \        \/            \------\       __|   _         _  )_
+  __    \______        ________\             )_|  ( · )__(  )_| ._(
+ |  |         /--------\                                     _|
+ |  |
+ |  |
+ |__|
+  _
+ | |
+ |_|
+  _
+  ___
+ |   |
+ |   |
+ |___|
+  _
+ | |
+ | |
+ | |  ________
+ |_| |________|
+
+
+
+
+          __µø*#@@#æµ__
+         ,P"         "¶Î
+   ____  Æ  _ø*@Ïæµ_   "                                           _æµÏ*@@@æµ__
+ æ@°"°¶    Æ"     ¬¶#_                                            Æ°¯        ¬°ë
+jF_µµæµµ__j          °#_                                   ____  j  _µ*@Mæµ_   ¬
+B#"¯¯  ¯"¶#  ,øg       Y                                 ,Æ¶""°²   øF     ¯°Ïµ_
+F     æµ4    °@F       jL                  ___          _F_µµµµµ__jF         ¬¢L
+      ÏWF   ,     .  ' jL             _ææÏ@F¶¶*æµ__   _øM¤F¯¯¯ ¯¬¶Ø   øg       °
+                     -,#             ¤°   __     ¬¢L  # &     µµµ    ¬¢P
+L           _ææææµµ__jF       __µ__ jF _æ#¶¶Mæµ_     jÎj      #æF   ,        ¬
+°6_  , '   _@¯åMG_¯"°¶@*ææµ _¤°"¯"¶   jF      ¬°Q_   ¬ I                     - Æ
+ ¬*æ_  ` '_F   #_Qµ_    _¤F_Æ_µµµææµ__Ë          °#_   ¬Î           ¸_µææµµ___#
+    °#æ__jF    ÆF¯¬Ï_  øF æFWF      ¬*F  æ®Î       #    ¬#_         Æ"JØb_¯"°°¶#
+       ¬¶#     ¬k   °QP  4 4     ,ææL    °¶        å      !æ_    `_Æ   ¢_ãµ_
+        Æµæµµµ__ß        # Î     !MF           ,   #        °Ïæµ__#    jF¯¬¶µ  ø
+            ¯¯¬""          Î                      ¤^           ¬M#      #   ¬Q#"
+                           #_           µøgÏææµµ_Æ_             áµæµµµµ_Æ
+                            !µ_  ¬  ·  jF #¶µ_¯¯"°¶@*gL             ¯¯¬""
+                        ___  ¬¢µ_· ²  4´  ¬Îä#µ     øF
+                   _µ¤@@¶¶¶Ïæµ_¬°*æµ_Æ"    #¯ ¬Q_ j#"          ___µµµµµ__
+                  Æ"   __     "#   ¬#k     JL   °¤F          ,¤¶°"¯   ¬°¶Ïµ
+           __µ__ jL _øØF¶Ïæµ_      jb*ææµµµµk                F  __æµµ__   ¬²
+         jÆ°¯¯°¹   øF      ¬MÎ_           ¯¯         _øÏ@Mµ ¬  øF"  ¬°*æ_
+        _F_µµµæµµ__F         ¬°Î                    jF______  Æ         °Q_
+      _øMÆ"     ¯°#   øML      ¬k                 _æËøF¶¶°°¶#µk  _µ,      °k
+      # Æ     æææ    ¬°¶        k                jFjF     __ ¬   Ø©F       å
+      fjL     ¢ÏF   ¡        .  k                # F     IQÆÎ              å
+       ]                  ·   _Æ                 F Î      ¬    ¬       ·  ,F
+        Q_          ,µægÏææµ4_#_                   Î             ______  ,F
+         ¢L   ´¬    Æ"¬ËÏµ ¯¬"°¶M*g                ¬ð_      ´  j#¶ØGF°¶@*Øµµ__
+          °Ïµ_   ¬_Æ   ÆLQQ_    _æF                 ¬¢µ_ .    ,#  J¬¶µ     ¯"Æ³
+            ¬¶*µ__#    ¬Ë¯ °G_ æF"                    ¬¶æ__´ jF    Þ@°ÏL   à#
+
+
+
+
+
+               ___                                          ___
+           _  |   |  ___                              ___  |   |  _
+          |_| |   | |___| dedicated to all LSD users |___| |   | |_|
+              |___|                                        |___|
+
+
+
+
+                                            __
+                                    _ __ _ |. |
+                                    \)/\(/ ||_|
+                                     \../  |
+                                   .--\/+--'
+                                   | |  |
+                                .-.| |  |
+                                `--' |  |
+                                     |  |a(id
+                                 _ __|  |__ _
+
+
+                       tuupakk zwiedzajacy las na kwachu
+
+
+
+
+
+
+
+
+                                _____
+ ______                  ______|     |
+|_     |________ __________  __|     |
+ |     |        |____         ||_   _|
+ |· _           |||      __  ·|_/___\_
+ |--|___________|---------|___||     |
+.-----------------------------÷|_____|
+¦                                    ¦
+¦ l i n e a r  back in new colly.    ¦
+¦ artist. krs/linear                 ¦
+¦ title. extremal files              ¦
+¦ shortening. la!-efs.txt            ¦
+¦_______________________________  _  ¦
+¦                                | |-'
+`-[az0!/sea]---[o4/o9/1999]----|_|
+
+
+
+
+        . [node0: +48-91-4879493] [node1: telnet]  [node2: telnet]
+     -«-·----------------------------------------------------------|/·
+        ¦         _______ [amiga124oT/6o3e/24omhz/4gb warez space]
+       _________  \     /__________
+    ___\       /___\__         ___/________
+    \                /    _    \   ___    /_____    m a s t e r :
+     \_____         /\----/_____\    ____/     /               madbart
+          /--------/             \_____       /    . appendix+teklords
+                                      /------/  -»-·------------------|/·
+                ________                           ¦         ________
+                \    __/____              _____________  ____\      /______
+                 \_______   \____________ \      _____/__\___             /
+    _  . k®s!/la!  /    / _  \   ___    /__\__   \          /____        /
+   |_|-·----------/_______\---\    ____/     /_____        /    /-------/
+       ¦                       \_____       /     /-------/
+       ¦ t h e  s e c t  b b s      /------/
+       ¦
+       ¦ [appendix/whq]  [anadune/whq] [teklords/phq]  [floppy/phq]
+       ¦ [linear/whq] [link124/phq] [dinx project/phq] [jormas/phq]
+       ¦ [mawi/phq]  [doggystyle/phq]   [venus art/phq]   [psl/phq]
+       ¦ [ozone free/phq]
+       ¦
+    -«-·-------------[ supporter: jacobs.prefix + ziutek.appendix ]
+       ·
+
+eof!

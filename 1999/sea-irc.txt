@@ -1,0 +1,1253 @@
+                       ,________________________  ______
+                       l                       /__)   _/
+                       |                              T
+                       |                              |
+                       |                              |
+                       ¦                              |
+  - ------ ----------  ·                              ¦ - ---------  ------- -
+    ____________ _____ _____ ___________              :
+     \_       _/     /      Y      ___/___ __         . ·
+ -×6L T       T     /|      |      _l    //_           /
+      |_   .: |    __      _|_ ::       _             /  ·tHE sECT bBS!·
+       /  ____| ___\ |_____\ /_________\\___ _   _   /
+              |     ___________                     ·      _     _  ______
+              ¦      /     __/__ __________   ________ _____________       |
+              .      \____      Y      ___/_//   .____ \_        _/        |
+                        /              _l        |      T        T s3a!    ·
+   ___uSR'33k6         / ::      _               ¦      |_    :: |        _|
+     _24oo-336oo bPs  /_________\\\ ______ __            /___   _l ||_____\
+                                            /_________ _         ¦
+----------------------------------------  -               --------    ----------
+  ·aPPENDiX·dA jORMAS·tELKORDS·piC sAiNT lOUP·fLOPPY·k0RE·liNEAR·oLD bULLS·
+                     ·sATiVE mEA·diNX pROjECT·mAWi·
+
+                 nODe 0 __________________ +48-91-48794393
+                 nODE 1 ___________________________ tELNET
+                 nODE 2 ___________________________ tELNET
+
+    · mASTERED bY: mADBART/aPPENDiX·pOWERED bY: a124ot/6o3/24omhz/5gb ·
+                   · sUPPORTED bY: uFOK+pREFiX+mADBART ·
+
+                [+]  sECOND iN dA wORLD!  [tSP'o1 cHARTS]  [+]
+_                      .                              ·                      _
+\\------------------ - ¦                              : - ------------------//
+                       |_                             ¦
+                       l/                             |
+                       |        _                    _l
+                       |_       \____________________\
+                        /________\
+
+@BEGIN_FILE_ID.DIZ   ___     ___     ___
+  _____   n7v!aSL  _(  /__ _( _/__ __\_ )_
+ !__  //______ __ /_ \__ //_  ___//_  __ /_
+   /__________\\___\_  '  _\_ `   _\_  `  _\
+                     `----'  `----'  `----'
+ ----- sative mea ascii [art] release ------
+       first ascii kolly by fAr under
+         sative mea label called:
+
+ Internet           Relay               Chat
+
+ ------------------------12-Nov-1999  _____
+  ____________________________ ______\\  __!
+ /___________________________//__________\
+@END_FILE_ID.DIZ
+«Log»	Logging of this window started to file at 08-Jun-99 02:04:08.
+«Connect»	Looking up host "sativemea.irc.pl"...
+«Connect»	Attempting connection to host "sativemea.irc.pl" on port 6667...
+«Connect»	Connected. Now doing login...
+«Log»	Logging inactive.
+«Welcome»	Welcome to the Internet Relay Network 
+«Welcome»       fAr^s3a!+fAr@katowice.s3a.net.pl !!!
+«Host»	Your host is sativemea.irc.pl, running version 2.10.3b8+CrD1+topic
+«Server»	This server was created Sat Nov 7 1999 at 16:44:30 CEST
+«Server»	sativemea.irc.pl is v2.10.3b8+CrD1+topic,
+«Server»        accepting user modes aoOirw
+«Server»        and channel modes abeiIklmnoOpqrstv.
+«Lusers»	There are 30339 users and 8 services on 66 servers
+«Error»	No channel joined in this window.
+
+                          ______
+                    ____//      \\        ·  fAr ·
+                       ______    \_   ____     _____
+                     _(  ___/___ ____(_  //_ _\\    )__
+                    Y    _/ /  (_)  __      Y    __    Y
+                         \ ______   \¦   _____   |/____l
+                    7_____\     (_______\\   /___l
+                    tG!.k0    __           ____ __ _ _ _
+                                \\________/
+
+
+«Lusers»	137 operators online
+«Lusers»	2 unknown connections
+«Lusers»	15399 channels formed
+«Lusers»	I have 1345 clients, 0 services and 1 servers
+«MOTD»	- sativemea.irc.pl Message of the Day -
+«MOTD»	- 07/10/1999 23:15
+«MOTD»	- /-------------------------------------------------------------\
+«MOTD»	- |     Welcome on SativeMea Internet Relay Chat Server !!!     |
+«MOTD»	- >-------------------------------------------------------------<
+«MOTD»	- |                           Members:                          |
+«MOTD»	- |      azzaro, far, renton, revi, twister, x-ball, zabora     |
+«MOTD»	- >-------------------------------------------------------------<
+«MOTD»	- |        IRC is a program for PEOPLE, not for BOTS!!!         |
+«MOTD»	- |  If there will be bot founded, it's host will be banned!!!  |
+«MOTD»	- |      This server is restricted for Sative Mea members,      |
+«MOTD»  - |          and any stranger will be kicked/banned!!!          |
+«MOTD»	- >-------------------------------------------------------------<
+«MOTD»	- | Recommended program: http://sativemea.irc.pl/ascii.gz (5.0) |
+«MOTD»	- >-------------------------------------------------------------<
+«MOTD»	- |  If You'll have any problems, please speak with Channels-   |
+«MOTD»	- |   Operators... IRCOP of sativemea.irc.pl is  able  only     |
+«MOTD»	- |              to let You log in and have fun!!!              |
+«MOTD»	- \-------------------------------------------------------------/
+«MOTD»	End of MOTD command.
+«NoRestrict»	You have full connection...
+«User Mode»	You are now visible, unrestricted
+
+
+           · of ·
+                                                ·
+     s-ative-me--a---------------------\-------/----------------------                                   
+          ______    _______   ______ _  _______   ______    __________
+     _____)  __/(___\ ____/___\    ·(____\___/____)   _/___)\_________
+          \___ ______ \__          __/            _________           
+     ________//_________/__________\______________\       (___________ 
+     _________       _________     ________      \_________/    ®e/sea
+              \  ____\_______/____)\  ____/(_  
+     ________\ \/_      ---'          \__ ____________________________
+     ________\\_/_______________________//____________________________
+                                      
+     -----------------------------------------------------------------
+                                                    _
+                  ____ ____ _____ __   _____ _____ _[_ __
+                 |___] ]    [---' [___ [---'  T  ]  T  [___
+                 `                  -'                   -'
+
+
+                his first ascii kolly under sative mea label
+
+
+                                _      _ 
+                  ____  ____-. _)   _ _)   _ ______ _____|  .
+                  [_    [____T [____| [____| [----' [____|  .
+
+                                                                        fAr
+«Lag»		Warning !!!
+«Lag»		Warning !!!
+«Lag»		Warning !!!
+«Lag»		Lag posibility: 100% :)
+«Lag»    	Warning: No response from Server for more than 10s!
+«Lag»   	Warning: No response from Server for more than 20s!
+«Lag»    	Warning: No response from Server for more than 40s!
+«Lag»
+«Lag»
+«Lag»                        __________
+«Lag»                        \        /
+«Lag»                         \      /___
+«Lag»                  ________\    /   ¬\ ________
+«Lag»                  \______//\  ___    \\      /
+«Lag»                  /    . \    `-¬_____\   __/___
+«Lag»                 /    _ ° \   /      ¬\   `--' ¬\
+«Lag»                /     ¬\___\_/ °.      \__/   °. \
+«Lag»            fAr/________\   /___________\/________\s3a
+«Lag»
+«Lag»
+«Lag»
+«Lag»           Internet           Relay                Chat
+«Lag»
+«Lag»		Warning: No response from Server for more than 80s!
+«Lag»           Warning: No response from Server for more than 160s!
+«Lag»		Warning: Try to break connection because:
+«Lag»           Warning: Here comes new killer-kolly...
+«Lag»           Warning: by Sative Mea wicked ascii knight:
+«Lag»           Warning:      _____ ____-. .---_ 
+«Lag»           Warning:      [--   [____| |---[
+«Lag»           Warning:      f       a        r
+«Lag»           Warning:
+«Lag»  Server finally answered after: 320s!
+«Server»
+«Server»
+«Server» Connection established fAr^s3a!
+«Server»
+«Server»
+«Menu»
+«Menu»
+«Menu»                      .
+«Menu»                      |        |
+«Menu»      _________       |        |                   _________
+«Menu»               |      |   _____|     ______        |·        
+«Menu»            _  |______|   ___|___ ___\   _ |_______|__       
+«Menu»             | |      |          Y       T |_       _|        
+«Menu»      =======| | |====|          |=======|                      
+«Menu»      ®e/sea |___|    |          |       |   _menu.menu.menu  
+«Menu»                      |          |       |__________________
+«Menu»                                 ·
+«Menu»
+«Menu»
+«Menu» Welcome user!!!
+«Menu» Here are channels You can join and their users:
+«Menu»
+«Menu» Available channels:
+«Menu»
+«Channel» #whelpz, #kore, #apathy and #decree, #thesect, #speed, #sativemea
+«User»    |        |      |            |       |                 |
+«User»    `-thorr  |      |            |       `-madbart         |
+«User»             `---acid, cnr, kempy, thung, psr              |
+«User»                    |     ,------|                         |
+«User»                    `---roover, ash                        |
+«User»                                                           |
+«User»        azzaro, far, renton, revi, twister, x-ball, zabora-'
+«User»
+«Channel» #savedavinyl, #mawi, #veezya, [#special]
+«User»                  |      |         |
+«User»             evan-'      |         `-letter, stamps back
+«User»                         |
+«User»                 stilgar-'
+«User»
+«User»
+«Menu»
+«Menu» Total channels: 11 (12 logoses)
+«Menu» Total users: 18 (21 logoses)
+«Menu» Total specials: 2 (2 logoses)
+«Menu» ....................................................Total logoses: 35
+*«Menu»
+«Menu»
+«Menu»
+-->	You have joined channel #whelpz
+«Topic»	Topic for channel #whelpz is:
+«Topic»
+«Topic» Special for Whelpz members (especially Revi and Thorr)
+«Topic»
+«Topic»	Topic for channel #whelpz has been set by fAr^s3a! (fAr@s3a.net.pl)
+«Names»	Users on #whelpz: thorr^wpz
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #whelpz: secret, message, limited to 3 logoses
+«Logo»
+«Logo»      Name: Whelpz
+«Logo»
+
+           _____   ___ ___   _______  _____    ________    _______
+    ____//\\   |___`  Y  '___|  ___/__|  _|____|  __  /_ __\___  |___
+    Y/  /   \    Y/    /  \Y  __Y/       Y/       Y/   /_|     __| \Y
+ fAr|________________//_______\//_______//________/____________\Y___|s3a
+
+
+«Logo»
+«Logo»      Name: Thorr
+«Logo»
+<fAr^s3a> Yo Thorr!!! Dzieki za gratulacje! Listak juz do Ciebie popedzil.
+«Logo»
+
+           ______     ___ ___    ________  ________   ________
+         __\    /_____`  Y  '____\ ____ /__|  __  /_ _|  __  /_
+         `---  ---'\Y/    /  \Y     Y/   \    Y/   /_|   Y/   /
+        fAr\\___________//___________________//\________//\____\\s3a
+
+
+«Logo»
+«Logo»       Name: Thorr (with bull as guest star:)
+«Logo»
+
+                    .-------------------------------.
+       _           / /                             \ \              _
+      /(__________/    ___ ___    ________  ________  \_____________)\
+      \_____\    /_____`  Y  '____\ ____ /__|  __  /_ _|  __  /______/
+          `---  ---'\Y/    /  \Y     Y/   \    Y/   /_|   Y/   /
+         fAr\\___________//___________________//\________//\____\\s3a
+                 \    \_____.____\     /_____.____/    /
+                  \                                   /
+                   \\            _     _            //
+                    \\_         |%|   |%|         _//
+                     \___________       ___________/
+                    .-'   ___    `-._.-'    ___    `-.
+                    ||   /   \             /   \    ||
+                    ||  (     )           (     )   ||
+                    ||   \___/             \___/    ||
+                    ||.                            .||
+                    `-.____________________________.-'
+
+
+-->	You have joined channel #k0re
+«Topic»	Topic for channel #k0re is:
+«Topic»
+«Topic» Hi to all K0re members!
+«Topic»
+«Topic»	Topic for channel #k0re has been set by fAr^s3a! (fAr@s3a.net.pl)
+«Names»	Users on #k0re: acid^k0 cnr^k0 kempy^k0 psr^k0 thung^k0
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #k0re: secret, message, limited to 6 logos
+«Logo»
+«Logo»      Name: Kore
+«Logo»
+
+
+                        %%%%%%%%%%%%%%%%%%%%%%%%%%
+              ____ _____%%________   _________  %%_______
+             _]  //    /%%\ ____ //__|  __   /__%%]  ___/___
+         %%%%|   __   /_%\   Y/         Y/     /%|  __Y/    |%%%%
+          fAr|___Y_____________________//\__________\//_____|s3a
+                        %%                      %%
+            k-()-r-e    %%%%%%%%%%%%%%%%%%%%%%%%%% manufaktoriese
+
+
+«Logo»
+«Logo»      Name: Acid
+«Logo»
+<fAr^s3a> Request: Thung.k0re
+«Logo»
+
+          ________                 __________           _
+       ___)      /___    :   ______\        |----/_____//_______:
+       \            /____|___)                       ______     |
+        \_        _______  ________   ______    _____\    |     |
+         |    ____\___  /__]  ____/___`----'____\   __    |     |
+         |    |_    Y/   |    Y/    Y/       /      \Y    |     |
+         |  fAr/______________/______________________|____|s3a  |
+         |                                                      |
+         «------------------------------------------------------'
+                         |
+                         :
+
+«Logo»
+«Logo»      Name: Cnr
+«Logo»
+<fAr^s3a> Request: Thung.k0re
+«Logo»
+
+                     _______    ____        _________
+                 \ __]  ___/____\   \ ______|  __   /__  /
+                  \     Y/   Y/  \   \`   Y    Y/     / /
+                fAr\____/_________\\__________//\______/s3a
+
+
+«Logo»
+«Logo»     Name: Kempy
+«Logo»
+<fAr^s3a> Request: Thung.k0re
+«Logo»
+
+                                                        .
+                                  ......................:... ..  .
+           ____ _____  _______    :___ ____  ________ __:_  _____
+          _]  |//   /__]  ___/____|   Y   |__|  __  /_\   \//   /
+          |   __   /_|  __Y/    |   \   /   |   Y/   /_\   Y  _/
+       fAr|___Y_________\//__________\//________/_____________|s3a
+                         /        :                     :
+       .    ..   ...  .... .......:                   ..:............
+                                  :
+
+«Logo»
+«Logo»      Name: Psr
+«Logo»
+<fAr^s3a> Request: Thung.k0re
+«Logo»
+
+
+                   _________     ________    _________
+                  _`  __   /_ ___|  ____/____|  __   /__
+                  |   Y/    /_|  |__            Y/     /_
+               fAr|__//___________Y/___________//\______|s3a
+                 p    a    s    s    e    n    g    e    r
+
+
+«Logo»
+«Logo»      Name: Thung
+«Logo»
+<fAr^s3a> Yo Thung! Jak widzisz logosy dla Ciebie sa a ja na lista
+<fAr^s3a> czekam... No i jak widzisz jestem:)
+«Logo»
+
+
+           ______     ___ ___   .##'      ___        ______
+         __\    /_____`  Y  '__.##  `##.__\  \ ______]  __/____
+         `---  ---'\Y/    /  \Y## o.O ##Y/ \  \`   Y    Y/   _Y
+        fAr\\_______|___//____|##  --'##|___\\_____|\________\s3a
+                               `#######'
+
+
+
+
+-->	You have joined channel #apathy
+«Topic»	Topic for channel #apathy is:
+«Topic»
+«Topic» Greets to Roover, Ash...
+«Topic»
+«Topic»	Topic for channel #apathy has been set by fAr^s3a! (fAr@s3a.net.pl)
+«Names»	Users on #apathy: ash^apt roover^apt
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #apathy: secret, message, limited to 3 logoses
+«Logo»
+«Logo»      Name: Apathy
+«Logo»
+
+       _______  ________      _______     ____      ___ ___         _____
+    ___\___  [__|  __  /______\___  [____\\  //_____`  Y  '_______ //   /
+   /_    Y/        Y/    ___    Y/    `---   ---' Y/    /    \    Y/  _/
+ fAr/_____________//______\/__________________________//______________\s3a
+
+
+«Logo»
+«Logo»      Name: Ash
+«Logo»
+<fAr^s3a> No i jak sie moje kollies zapodaja?
+«Logo»
+
+
+                                      /
+                       _______   ____//_   ___ ___
+                    ___\___  [___|  ___/___`  Y  '___
+                   /_    Y/      |__           /   \Y
+                 fAr/_____________Y/_________//_____|s3a
+                                 //
+                                 /
+
+«Logo»
+«Logo»      Name: Roover
+«Logo»
+<fAr^s3a> Dziekowa dla Ciebie Roova!!! Wiesz sam za co...
+«Logo»
+
+
+     ________                     `%%.         .%%'          ________
+    _|  __  /_  ________  ________ `%%.       .%%' _______  _|  __  /_
+    |   Y/   /__\ ____ /__\ ____ /__`%%. ___ .%%'__|  ___/__|   Y/   /_
+    |__//          Y/        Y/      `%%.   .%%'    __Y/       //\____\\
+     fAr\_________//________//________`%%. .%%'_____\//_______/s3a
+                                       `%%.%%'
+                                        `%%%'
+                                         `%'
+
+
+
+-->	You have joined channel #decree
+«Topic»	Topic for channel #decree is:
+«Topic»
+«Topic» Greets to Roover, Ash...
+«Topic»
+«Topic»	Topic for channel #decree has been set by fAr^s3a! (fAr@s3a.net.pl)
+«Names»	Users on #decree: ash^dcr roover^dcr (logoses on #apathy channel)
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #decree: secret, message, limited to 1 logos
+«Logo»
+«Logo»      Name: Decree
+«Logo»
+
+
+            ______
+         ___\    |  _______   _______  ________   _______ _______
+       __\  __   |__|  ___/___\  ___/__|  __  /___|  ___/_|  ___/__
+ %%%%%%T    \Y       __Y/        Y/       Y/       __Y/    __Y/   T%%%%%%
+    fAr|_____|_______\//________//_______//\_______\//_____\//____|s3a
+                  %%%%%%%%%%%above_the_stars%%%%%%%%%%%%%%
+
+
+
+
+
+-->	You have joined channel #thesect
+«Topic»	Topic for channel #thesect is:
+«Topic»
+«Topic» Hi to Madbart.Appendix...
+«Topic»
+«Topic»	Topic for channel #thesect has been set by fAr^s3a! (fAr@s3a.net.pl)
+«Names»	Users on #thesect: madbart^apx
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #thesect: secret, message, limited to 2 logoses
+«Logo»
+«Logo»      Name: TheSect
+«Logo»
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+  [oO· nrX in the world (in the press #X charts) nrX in the world · Oo]
+                  _____       ___ ___    _______
+home of:      ___\\   //______`  Y  '____|  ___/____node00: +48-91-487-94-93
+appendix      `---    ----' Y/    /       __Y/      node01: t  e  l  n  e  t
+floppy       ___________________//________\//_______node02: t  e  l  n  e  t
+dinx project _______     ______//  _______//   ____
+madwizards __|  ___/_____|  ___/___\  ____/___\\  //________
+old bulls    |__      /   __Y/        Y/    `---  ---' the    the only scene
+nah kolor ____Y/__________\//_________//______________sect__  board in Poland
+venus art              fAr//s3a
+jormas, pic saint loup   //    [powered by:]
+sative mea, linear      //          amiga 1240T/603e/240mhz/5gb space
+kore, harvester        //    [master sysop:]
+                      //                  madbart·appendix
+open: XX.oo-XX.oo    //    [nonstop supporters:]
+                    /           XXXXXXX·XXXXXXXX  -  XXXXXXX·XXXXXXX
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+«Logo»
+«Logo»      Name: Madbart
+«Logo»
+
+
+   ____ ____    ________  ________  ________    ________  ________  _____
+ __|   Y   |____\____  |__\  __  |__|  __  /____\____  |__|  __  /_\\   //_
+ |   \   /   __    Y/        \Y        Y/    __    Y/        Y/   `--- ---'
+ |____\\/____|/_______________|________|_____|/_____________//\___________|
+ %%fAr.s3a%%%%|------------------------------------------------|%%%%%%%%%%%
+
+
+
+
+
+
+-->	You have joined channel #speed
+«Topic»	Topic for channel #speed is:
+«Topic»
+«Topic» Hi to Evan.NahKolor+Mawi+DualCrewShining...
+«Topic»
+«Topic»	Topic for channel #speed has been set by fAr^s3a! (fAr@s3a.net.pl)
+«Names»	Users on #speed: none
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #speed: secret, message, limited to 1 logos
+«Logo»
+«Logo»      Name: Speed
+«Logo»
+
+                                              _  __  ________________
+          _ _______ _ _________ _ ________ _ _______ _ __________  _]_
+   _  __ ___|  ___/___|  __   /____|  ___/___|  ___/___\  __    |   _]_
+            |__          Y/    __   __Y/      __Y/        \Y    |   __]
+  _  ___ ____Y/_____    //______\___\//_______\//__________|____|   _]
+              _ __ /__________\fAr                       _  __  ____]s3a
+
+
+
+
+
+
+-->	You have joined channel #sativemea
+«Topic»	Topic for channel #sativemea is:
+«Topic»
+«Topic» Respect to all membaz...
+«Topic»
+«Topic»	Topic for channel #sativemea has been set by fAr^s3a (fAr@s3a.net.pl)
+«Names»	Users on #sativemea: azzaro^s3a far^s3a renton^s3a revi^s3a
+«Names»                      twister^s3a x-ball^sea zabora^s3a
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #sativemea: secret, message, limited to 10 logoses
+«Logo»
+«Logo»      Name: Sative Mea
+«Logo»
+
+       _______    ________   ______      ______  ____  _____  _______
+    ___| ____/____\____  |___\    /______`----'__\   \//   /__]  ___/__
+    |  |__     __    Y/    `---  ----' Y/       /     Y    Y   __Y/   |
+ fAr|___Y/_____|/______________________________________________\//____|s3a
+         |            ____ ____    _______     ________          |
+         |_________ __|   Y   |____]  ___/_____\____  |__ _______|
+                        \   /   Y   __Y/    _     Y/       
+          __________ ____\\/________\//_____/___________ ________
+         |                                                       |
+         |  azzaro, far, renton, revi, twister, x-ball, zabora   |
+         |_______________________________________________________|
+
+
+«Logo»
+«Logo»      Name: Sative Mea (with mr.policeman as guest star:)
+«Logo»
+
+                              _____________
+                              \    ...    /
+                               \_________/
+                                `-.___.-'
+                                |___ ___|
+                                |__|-|__|
+                                |   ]   |
+                                | .---. |
+                                `-.___.-'
+ ________________________________|_____|__________________________________
+ |                                                                       |
+ |     _______    ________   ______      ______  ____  _____  _______    |
+ |  ___| ____/____\____  |___\    /______`----'__\   \//   /__]  ___/__  |
+ |_ |  |__     __    Y/    `---  ----' Y/       /     Y    Y   __Y/   | _|
+(__)|___Y/_____|/______________________________________________\//____|(__)
+(___)                 ____ ____    _______     ________               (___)
+(___) kNigHts:    _ __|   Y   |____]  ___/_____\____  |__ _  revi     (___)
+(__)     azzaro         \   /   Y   __Y/    _     Y/         twister   (__)
+ |       far      __ ____\\/________\//_____/___________ __  x-ball      |
+ |       renton                                              zabora      |
+ |_______________________________________________________________________|
+                           |_________________|_
+                         .-.|  ||  | |  ||  |%%|
+                         |=|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|%%|
+                         |=|                |%%|
+                         |_|                ¯|%|
+                         | |        |        |¯
+                         | |        |        |
+                         | |        |        |
+                         | |        |        |
+                         `-'  [     |     ]  |
+                           |        |        |
+                           |        |        |
+                           |        |        |
+                           |        |        |
+                           |        |        |
+                          .---------.---------.
+         .      . . ...fAr|_________|_________|s3a... . .     .
+
+
+
+«Logo»
+«Logo»      Name: Sative Mea_id.diz
+«Logo»
+
+
+@BEGIN_FILE_ID.DIZ
+               _   _
+ __   ____-.  _\_  _  _   _ ______
+ [___ [____|   T   [  \___T [----' -----
+   -'__  __ _____ ____-.       fAr.s3a%%
+ %   [ \/ ] [---' [____T              %%
+ %%                       sative mea  %%
+ %%                                   %%
+ %%                                   %%
+ %%                                   %%
+ %%                                   %%
+ %%                                   %%
+ %%                                   %%
+ -----------------------------xx-xx-1999
+
+@END_FILE_ID.DIZ
+
+
+«Logo»
+«Logo»      Name: Azzaro
+«Logo»
+<fAr^s3a> Hi Azzaro! Dziekowa i pozdrowienia dla Ciebie !!!
+<fAr^s3a> Napisz of kors co o kolly sadzisz!
+«Logo»
+
+
+       _______  _______     _______       _______  ________    ________
+   ____\___  [__\____ |_____\____ |_______\___  [__|  __  /__ _\ ____ /_
+   |_    Y/   |     __|   |     __|   __    Y/   |    Y/    /_\   Y/   |
+ fAr/_______________\Y__________\Y____|/_____________//\_______________|s3a
+
+
+«Logo»
+«Logo»      Name: Azzaro (with Azorek as guest star:)
+«Logo»
+
+
+     __      __
+     \_\____/_/
+      | _  _ |
+      |(.)(.)|
+     .--------.                                                 .-.
+     |  \__/  |                                                  \ \
+     `---||---'___________________________________________________) )
+       |_`'___  _______     _______       _______  ________    ______\_
+   ____\___  [__\____ |_____\____ |_______\___  [__|  __  /__ _\ ____ /_
+   |_    Y/   |     __|   |     __|   __    Y/   |    Y/    /_\   Y/   |
+ fAr/_______________\Y__________\Y____|/_____________//\_______________|s3a
+
+
+
+«Logo»
+«Logo»      Name: Far
+«Logo»
+
+
+                     _______   _______   ________
+                  ___|  ___/___\___  [___|  __  /__
+                  |   __Y/__     Y/   |     Y/    /
+                  |   \//  /_______________//     \_
+               fAr|____\%%%%%%%%%%%%%%%%%%%%\_______\s3a
+
+
+«Logo»
+«Logo»      Name: Renton
+«Logo»
+<fAr^s3a> Mam nadzieje ze sie pojawisz z powrotem...
+«Logo»
+
+      ________                                              ___
+     _T  __  /__  _______   ___         ____     ________ __\  \ _____
+     |   Y/    /__|  ___/___\  \ ______\\  //____\ ____ //   \\ \`   T
+     |__//\        __Y/      \\ \`   `---  ---'     Y/        \\_____|
+        fAr\_______\//________\\_______________________________\s3a
+
+
+
+«Logo»
+«Logo»      Name: Revi
+«Logo»
+<fAr^s3a> No i w jednej grupce wyladowalismy:) Dwie kollies jeszcze
+<fAr^s3a> pod Warp-Zeer-0 wypuscilem... Pisz szybko...
+<fAr^s3a> (wybierz sobie logosa bo ja nie wiedzialem ktory lepszy)
+«Logo»
+
+               _________                            _______
+           ____|  __   /__  _______   ____  _____ __`-----'___
+            __    Y/     /__|  ___/___\   \//   /_Y/       __
+           _||___//\         __Y/          Y        _______||_
+                 fAr\________\//____________________|s3a
+
+
+
+                 ________   _______  _____  _____  ______
+               __|  __  /___|  ___/__\    \//   /__`----'__
+               |    Y/       __Y/          Y    Y/        |
+            fAr|___//\_______\//__________________________|s3a
+
+
+«Logo»
+«Logo»      Name: Twister
+«Logo»
+<fAr^s3a> Z respektem...
+«Logo»
+
+   ______          _____  ______  _______   ______     _______ ________
+ __\    /_______//\\   |__`----'__|  ___/___\    /_____|  ___/_|  __  /_s3a
+ `---  ---'\Y   /   \   Y/        |__     `---  ---'\Y  __Y/      Y/   /_
+fAr\\______________________________Y/___________________\//______//\_____\
+
+
+
+«Logo»
+«Logo»      Name: X-Ball
+«Logo»
+<fAr^s3a> Pozdro i respekt...
+«Logo»
+
+              ________
+          ____\     //  ________     _______  _____     _____
+          \   \\   //_ _|  __  /_____\___  [__|  _|_____|  _|____
+         _/   __  /  /_|   Y/    __    Y/        \Y   /    \Y   /
+    fAr /_____Y/___________|_____|/_______________\_________\____\s3a
+
+
+«Logo»
+«Logo»      Name: Zabora
+«Logo»
+<fAr^s3a> No to dzien dobry:) Jestem i kolejne kollies zapodaje...
+<fAr^s3a> Czekam na lista przyjscie... Pozdro...
+«Logo»
+
+      ________       _______   _________  ________  ________     _______
+   ___\_____ |_______\___  [___|  __   /__\ ____ //_|  __  /_____\___  [s3a
+   |       __|   __    Y/         Y/         Y/        Y/    __    Y/   T
+fAr|_______\Y____|/_______________|___________________//\____\/_________|
+
+
+
+
+
+
+
+-->	You have joined channel #savedavinyl
+«Topic»	Topic for channel #savedavinyl is:
+«Topic»
+«Topic» Gift for Azzaro...
+«Topic»
+«Topic»	Topic for channel #savedavinyl has been set by fAr^s3a (fAr@s3a.pl)
+«Names»	Users on #sativemea: none
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #savedavinyl: secret, message, limited to 1 logos
+«Logo»
+«Logo»      Name: Save Da Vinyl
+«Logo»
+
+
+                       `%%.
+     _______    _______ `%%.       .%%' _______       ________    _______
+   __|  ___/____\___  [__`%%. ___ .%%'__|  ___/__    _\  __  |____\___  [_
+  |  |__          Y/      `%%.   .%%'    __Y/    |  |    \Y   __    Y/   |
+  |___Y/___________________`%%. .%%'_____\//_____|  |_____|___|/_________|
+                            `%%.%%'   · ·················· :
+  `%%.                       `%%%'    :  sAVe dA ViNyl     :
+   `%%.         .%%'          `%'     :     issue XX       .
+    `%%.       .%%' ______     ____   .     ____   ____  _____      
+     `%%. ___ .%%'__`----'_____\   \ _______\   \//   /__|  _|_____
+      `%%.   .%%' Y/        Y/  \   \`    Y      Y  _/      \Y     |fAr
+       `%%. .%%' ________________\\__________________________\_____|!s3a
+        `%%.%%'
+         `%%%'
+          `%'    
+
+
+
+
+
+
+
+-->	You have joined channel #mawi
+«Topic»	Topic for channel #mawi is:
+«Topic»
+«Topic» With respects to Azzaro and Evan...
+«Topic»
+«Topic»	Topic for channel #mawi has been set by fAr^s3a! (fAr@s3a.net.pl)
+«Names»	Users on #mawi: evan^mwi
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #mawi: secret, message, limited to 2 logoses
+«Logo»
+«Logo»      Name: Mawi
+«Logo»
+
+                 ____ ____     _______       _____  ______
+            fAr__|   Y   |_____\___  [____//\\   |__`----'_s3a
+              _\   \   /   __    Y/       /   \   Y/      /_
+             /______\\/____|/_______________________________\
+
+
+
+«Logo»
+«Logo»      Name: Evan
+«Logo»
+<fAr^s3a> Dawno juz na #climax nie bylem ale mam nadzieje tam
+<fAr^s3a> sie pojawic za niedlugo...
+«Logo»
+
+
+                                   .%%'
+                 _______          .%%'  _______    ____
+               __|  ___/__`%%. _ .%%'___\___  [____\   \ _____
+               |  __Y/     `%%. .%%  _    Y/   Y/   \   \`   |
+            fAr|__\//_______`%%.%% __/_______________\\______|s3a
+                             `%%%'
+                              `%'
+
+
+
+
+-->	You have joined channel #veezya
+«Topic»	Topic for channel #veezya is:
+«Topic»
+«Topic» With respects for membaz...
+«Topic»
+«Topic»	Topic for channel #veezya has been set by fAr^s3a! (fAr@s3a.net.pl)
+«Names»	Users on #veezya: stilgar^vzy
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #veezya: secret, message, limited to 2 logoses
+«Logo»
+«Logo»      Name: Veezya
+«Logo»
+
+
+  `%%.
+   `%%.       .%%' _______   _______    _______   ____   ____    _______
+   _`%%. ___ .%%'__|  ___/___|  ___/____\___  |___\   \//   /____\___  [_
+  |  `%%.   .%%'    __Y/      __Y/          __|        Y  _/ _     Y/   |
+  |___`%%. .%%'_____\//_______\//___________\Y_______________/__________|
+   fAr `%%.%%' s3a
+        `%%%'
+         `%'
+
+
+
+«Logo»
+«Logo»      Name: Stilgar
+«Logo»
+<fAr^s3a> Gratuluje joina i nowej ksywy... Czekam na nowe raye!!!
+«Logo»
+
+
+     _______   _____     ______  _____    ______       _______  ________
+fAr__|  ___/___\   //____`----'__|  _|____|  __/_______\___  [__|  __  /_s3a
+  |  |__     `---  ---'             \Y       Y\_   __    Y/        Y/   /_
+  |___Y/_____________________________\_____________\/_____________//\_____\
+
+
+
+
+
+
+
+-->	You have joined channel #specials
+«Topic»	Topic for channel #specials is:
+«Topic»
+«Topic» For You !!!
+«Topic»
+«Topic»	Topic for channel #specials has been set by fAr^s3a! (fAr@s3a.net.pl)
+«Names»	Users on #specials: none
+«Join»  User joined: fAr^s3a
+«Names»	End of NAMES list.
+«Mode»	Current modes for #specials: secret, message, limited to 2 logoses
+«Logo»
+«Logo»      Name: Letter
+«Logo»
+
+
+             \ _______:_______
+         _____\) .....:...   /   _ ___________       |________   _
+   /_____]            :     /____\\\         (_______|       [__//_____
+  /   _____    _______    ______       ______    _______  ________     /___
+ _\  _|  _|____|  ___/____\    //______\    //___|  ___/__|  __  /_     _ |
+ \\\ |   Y/     __Y/    `---   ---'  `---   ---'  __Y/       Y/   /_  _//_|
+  \  |__//______\//_______________________________\//_______//\_____\ |s3a
+   \ fAr                           ___________________________________|
+    `-------)                  :   \                                  :
+           /________|  ········:··  \  fRom:
+                    |          :     \    tO:
+                    :-----------------\  dAte:
+
+
+«Logo»
+«Logo»      Name: Stamps back
+«Logo»
+
+         ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+        |_ (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) _|
+         _)  ___________________________________________________  (_
+      __|___|    ______      _______   ____ ____   ________     |___|__
+    __|  ___/____\    /______\___  [___|   Y   |___|  __  /_  __|  ___/__
+   |  |__      `---  ---'__    Y/    |   \   /   |    Y/   /_|  |__     |
+   |___Y/________________|/_______________\//_________/__________Y/_____|
+     fAr|_  |   ________      _______   _______    ____  ____   |  _|s3a
+         _) |  _|  __  /______\___  [___|  ___/____]  |//   /   | (_
+        |_  |  |   Y/     __    Y/         Y/         __   /_   |  _|
+         _) |  |___|______|/______________//__________Y______\  | (_
+        |_  |___________________________________________________|  _|
+         _) _   _   _   _   _   _   _   _   _   _   _   _   _   _ (_
+        |__( )_( )_( )_( )_( )_( )_( )_( )_( )_( )_( )_( )_( )_( )__|
+
+
+
+
+«End»
+«End»
+«End»
+«End»
+«End»
+«End» Total logoses: 35
+«End»
+«End»
+«End»
+«End»
+«End»
+«Info»
+«Info»           ______   __________  __________  __________
+«Info»          _\    /___\        /__\        /__\    ___ /_
+«Info»         |  \__/         __         __            \/   |
+«Info»         |               |/        _ /____             |
+«Info»         |___/           |_____    /_____/_____________|
+«Info»         ---/____________|----|_____|-------------------
+«Info»                                               az0!/sea
+<fAr^s3a>       Yo playaz!!!
+«Info»
+<fAr^s3a>
+<fAr^s3a>      Here You have my first ascii colly under Sative
+<fAr^s3a>      Mea label... I'm very pleased that I'm in  this
+<fAr^s3a>      wonderfull squad. Big greets I send  to  Azzaro
+<fAr^s3a>      who made this dream happen.. I know that design
+<fAr^s3a>      (as always in my collys) is strange but I think
+<fAr^s3a>      it's good enought... Also i must  send  special
+<fAr^s3a>      greetings to Roover/Apathy+Decree  who  belives
+<fAr^s3a>      in my  talent  and  who  is  still  helping me,
+<fAr^s3a>      Thung/k0re for very nice talking and beautyfull
+<fAr^s3a>      logoses  and  last  but  not  least  Daeron  of
+<fAr^s3a>      LowProfile  for  very  nice  talking  and  real
+<fAr^s3a>      friendship... Respect to You guyz and all  good
+<fAr^s3a>      ascii-makers... I need more requests so if  You
+<fAr^s3a>      have any just write to me. I think that is all.
+<fAr^s3a>                       See You in next collections!!!
+<fAr^s3a>
+<fAr^s3a>
+<fAr^s3a>
+«Credits»
+«Credits» Who made what so it's time for
+«Credits»
+                                         ___
+ zbr\s3a---------------------------------\ /  _______   ________    _______
+  _______    _______   _______    _______ / __\     /_ _\__  __/_ __\    _/_
+ _\   __/_ __\  _  /_ _\   __/_ __\     /__\   \___/  |      /   |   \__    |
+|         |    ___/  |      ___| ___        \-\_______!--/_______!-\________!
+·--\______!____\_____|--\______|_____/-------\\------------[.c.r.e.d.i.t.s.]-
+
+  main artwork done by: fAr/sative mea
+   guest ascii by: thung/k0re     [tg!.k0],       revi/sative mea   [®e/sea],
+                   azzaro/sative mea [az0!/sea], zabora/sative mea [zbr\s3a],
+                   kempy/k0re [kem/k0] -  respect guyz!!!
+     hardware used: a12oo, hdd, fast
+      software used: CygnusEd Proffesional V3.5
+       file lenght: 50391 bytes
+        musical support: Molesta "Ewenement", Puff Daddy "Forever".
+         psychical support: smokin'
+
+«Respect»
+«Respect» I send
+«Respect»
+                                ___            a   s   c   i   i
+ zbr\s3a------------------------\ / ________  ________    _______   _________
+  _________   _______    _______ /__\   _  /__\    __/_ __\    _/_ _\__   __/
+ _\    _  /_ _\   __/_ __\    _/__\    ___/ |        __|   \      |      /  |
+|     ___/  |       __|   \___     \________|---\______!-\________!--/______!
+!_____\_____|--\______|-\___________\\---------------------[.r.e.s.p.e.c.t.]-
+
+  -acid.k0re-azzaro.sative mea-budgie.linear-cnr.k0re-daeron.lowprofile-
+  -luk.linear-passenger.k0re-renton.sativemea-revi.sativemea-thung.k0re-
+         -twister.sativemea-x-ball.sativemea-zabora.sativemea-
+
+   -  and special respects to roover/apathy+decree and mavey/potion  -
+
+
+
+
+
+
+
+!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!
+
+
+
+
+                       If You are good and friendly
+
+                                                        .   ·   .
+                _____     ______                      ·           ·
+            ____\_  //_ __\ ___/_______    ____      :             :
+           Y   __      Y  \\___       /_ _l   //____   .___   .___
+               \¦   ___l_____ /         Y   __//   /_ _l  /_ _l  /_
+           7_______\\        /__________l_____       Y      Y      Y
+             tG!.k0                           \______l_____________l
+
+
+          ascii-maker ... please make for me following logoses:
+
+
+                                  ascii
+
+                                   fAr
+
+                                sative mea
+
+                                  hip-hop
+
+                                  greets
+
+                                  history
+
+                                  credits
+
+                                  presents
+
+
+     and send them to me or someone who will pass it to me... Tnx!!!
+
+
+
+
+
+
+!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!NOTE!
+
+
+
+
+
+
+«Error»	No channel joined in this window.
+«Log»	Logging to file sea-irc.txt stopped at 12-Nov-99.
+
+
+
+
+                                           ____
+       ______                   _____       _ /     ____             kem/k0
+ ______\    /__________ _____ __\   /_ _____\/____/\\  //\__________ _______
+ \      \______    _____\   /      /\/      \/      \\//     ______/       /
+ /___________ /____\/_______\ ____/____/\____________\/______\/____/\ _____\
+             /           __
+         _________  _____\/______________ ________ _____  _________
+         \          \    \/       ______/     _____\   /          /
+         /________  /___\  /______\/____/\ ___\/_______\  ________\
+                         \/
+        /                     s   a   t   i   v   e     m   e   a
+       /_____________________________________________________ __ __ _
+
+                                                     [ l a t e s t   n e w s ]
+
+                                                    Welcome new member - Far -
+             Guest release by Thung/K0re in co-op with Azzaro (sea-skin.txt) -
+             Sative Mea Autumn`99 Attack was started. Knights are on the way -
+              Update of the list - some summer ascii collies by Zabora added -
+                                Zabora changed address and email. Look down! -
+                             We are looking for more members/boards woldwide -
+
+                     [ o f f i c i a l   r e l e a s e s   t i l l   n - o w ]
+------------------------------------------------------------------------------
+no | shortcut     | full title                | artist    | date     | lenght
+------------------------------------------------------------------------------
+   ONE-NINE-NINE-EIGHT]. .[07 releases at all].
+------------------------------------------------------------------------------
+01 | sea-dubt.txt | dubitation                | renton    | 15/12/98 | 042.104
+02 | sea-neon.txt | neon flow                 | azzaro    | 18/12/98 | 074.000
+03 | sea-orig.txt | origami                   | azzaro    | 20/12/98 | 116.314
+04 | sea-4a3.txt  | 456 alien 3               | azzaro    | 20/12/98 | 124.145
+05 | sea-blue.txt | portrait out of the blue  | azzaro    | 20/12/98 | 106.000
+06 | sea-pulv.txt | pulverturm                | azzaro    | 20/12/98 | 108.000
+07 | sea-jtkn.txt | jak to kurwa nazwac?      | zabora    | 21/12/98 | 021.550
+------------------------------------------------------------------------------
+   ONE-NINE-NINE-NINE]. .[31 releases till now].
+------------------------------------------------------------------------------
+08 | sea-1pos.txt | 100 percent of shit       | renton    | 10/01/99 | 022.858
+09 | sea-1999.txt | najnhundretnajntynajn     | renton    | 11/01/99 | 048.361
+10 | sea-fngr.txt | finger                    | zabora    | 16/02/99 | 050.777
+11 | sea-zero.txt | zero remix                | azzaro    | 27/02/99 | 183.000
+12 | sea-psyl.txt | psilocybe semilanceta     | zabora    | 03/03/99 | 105.352
+13 | sea-ck01.txt | construction kit 01       | azzaro    | 06/03/99 | 047.733
+14 | sea-pead.txt | peanut head               | renton    | 05/04/99 | 080.548
+15 | sea-dobm.txt | dobberman                 | azzaro    | 06/04/99 | 100.000
+16 | sea-kore.txt | klubbhead loop 89         | a+a+k+z   | 25/04/99 | 400.000
+17 | sea-time.txt | timelessness              | renton    | 03/05/99 | 048.663
+18 | sea-mysl.txt | mysl                      | revi      | 05/05/99 | 224.774
+19 | sea-nwor.txt | new order                 | x-ball    | 10/05/99 | 112.547
+20 | sea-pace.txt | peace                     | renton    | 13/05/99 | 060.927
+21 | sea-mlem.txt | morning lemon             | az0+renton| 16/05/99 | 100.436
+22 | sea-agpa.txt | age of panic              | renton    | 21/05/99 | 068.808
+23 | sea-dcry.txt | diskocit. rocks u bitch   | azzaro    | 06/06/99 | 192.593
+24 | sea-celi.txt | the celebration of the.   | renton    | 14/06/99 | 080.000
+25 | sea-adia.txt | aqua di azor              | azzaro    | 20/06/99 | 250.000
+26 | sea-xfl9.txt | ex-factor lite 99         | azzaro    | 27/06/99 | 117.541
+27 | sea-cdn.txt  | counting down         [g] | darkus    | 05/07/99 | 036.837
+28 | sea-garf.txt | garden my flies           | x-ball    | 07/07/99 | 156.007
+29 | sea-qntm.txt | quantum the colly         | zabora    | 07/07/99 | 050.995
+30 | sea-alis.txt | alice on da second side...| az0+renton| 15/07/99 | 139.710
+31 | sea-ubik.txt | ubik                      | zabora    | 30/08/99 | 103.101
+32 | sea-8mpf.txt | 8mm multiplastikk asc²form| azzaro    | 01/09/99 | 140.000
+33 | sea-boso.txt | boxed set one             | x-ball    | 24/09/99 | 137.347
+34 | sea-skin.txt | negative skin color       | az0+thung | 27/09/99 | 182.000
+35 | sea-sode.txt | song of distant earth     | revi      | 01/10/99 | 129.886
+36 | sea-omte.txt | gs1: omnipotent technocrat| azzaro    | 14/10/99 | 096.000
+37 | sea-uv.txt   | gs2: uv catastrophe       | azzaro    | 14/10/99 | 080.380
+38 | sea-behp.txt | belgian happenings        | azzaro    | 18/10/99 | 080.275
+39 | sea-azkm.txt | colly azkymakery 2        | zabora    | 25/10/99 | 226.920
+?? | sea-irc.txt  | internet relay chat       | far       | 12/11/99 | 050.391
+
+------------------------------------------------------------------------------
+total number of collections: 040            total lenght in bytes: 004.424.197
+------------------------------------------------------------------------------
+                                                     [ s - t a t i s t i c s ]
+------------------------------------------------------------------------------
+                         actual members productivity:
+
+     azzaro ---------- 19 ascii collections, 15 own made, 04 cooperations
+     far ------------- 01 ascii collections, 01 own made, 00 cooperations
+     renton ---------- 10 ascii collections, 08 own made, 02 cooperations
+     revi ------------ 02 ascii collections, 02 own made, 00 cooperations
+     twister --------- 00 ascii collections, 00 own made, 00 cooperations
+     x-ball ---------- 03 ascii collections, 03 own made, 00 cooperations
+     zabora! --------- 07 ascii collections, 06 own made, 01 cooperations
+
+                         guest collections released:
+
+      acid ------------ 01 ascii collection, 00 own made, 01 cooperations
+      darkus ---------- 01 ascii collection, 01 own made, 00 cooperations
+      kempy ----------- 01 ascii collection, 00 own made, 01 cooperations
+      thung ----------- 01 ascii collection, 00 own made, 01 cooperations
+------------------------------------------------------------------------------
+                                                           [ c - o n t a c t ]
+------------------------------------------------------------------------------
+          AZZARO - tomasz wisniewski · szeroka 35/8 · 75-814 koszalin · poland
+                                           e-mail: zorka19@puma.tu.koszalin.pl
+
+             FAR - tomasz stefanski · chopina 48/5 · 41-400 myslowice · poland
+
+                 RENTON - pat kalinowski · p.o.box 3 · 21-200 parczew · poland
+
+            REVI - sly ostruszka · sw. jerzego 7a/17 · 43-400 cieszyn · poland
+                                                     e-mail: revi@mailcity.com
+
+           TWISTER - bart ptaszynski · robotnicza 2 · 14-530 frombork · poland
+
+           X-BALL - mark nowacki · dabrowskiego 66/7 · 41-500 chorzow · poland
+
+          ZABORA - gregor zaborowski · balonowa 5/17 · 54-129 wroclaw · poland
+                                         e-mail: zabora@bratek.ift.uni.wroc.pl
+
+                     call SEA polish headquarter: DA SECT BBS - +48-91-4879493
+               look oficial SEA web page: http://anormalix.ift.uni.wroc.pl/sea
+------------------------------------------------------------------------------
+  typed by renton+azzaro'sative mea, psychikal kreation · updated by far'sea
+------------------------------------------------------------------------------
+
+
+
+
+    _____    __  __   _____   ______                      [ a n o r m a l i x ]
+  _|     |__|  \|  |_|     |_|   _  |_
+ |    -       \ \       -        ___| |_ __    _____    __      ____  ___  __
+ zbr__|_______|\_________________\_   | |  |__|     |__|  |____|    |_\  \/ /_.
+                                   |             -        |    |____|         |
+ [ anormalix.ift.uni.wroc.pl ]     |___|-|_______|_______________________/\_s3a
+
+
+                       look at sative mea official page:
+                     http://anormalix.ift.uni.wroc.pl/sea
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ   ___     ___     ___
+  _____   n7v!aSL  _(  /__ _( _/__ __\_ )_
+ !__  //______ __ /_ \__ //_  ___//_  __ /_
+   /__________\\___\_  '  _\_ `   _\_  `  _\
+                     `----'  `----'  `----'
+ ----- sative mea ascii [art] release ------
+       first ascii kolly by fAr under
+         sative mea label called:
+
+ Internet           Relay               Chat
+
+ ------------------------12-Nov-1999  _____
+  ____________________________ ______\\  __!
+ /___________________________//__________\
+@END_FILE_ID.DIZ
+                       ,________________________  ______
+                       l                       /__)   _/
+                       |                              T
+                       |                              |
+                       |                              |
+                       ¦                              |
+  - ------ ----------  ·                              ¦ - ---------  ------- -
+    ____________ _____ _____ ___________              :
+     \_       _/     /      Y      ___/___ __         . ·
+ -×6L T       T     /|      |      _l    //_           /
+      |_   .: |    __      _|_ ::       _             /  ·tHE sECT bBS!·
+       /  ____| ___\ |_____\ /_________\\___ _   _   /
+              |     ___________                     ·      _     _  ______
+              ¦      /     __/__ __________   ________ _____________       |
+              .      \____      Y      ___/_//   .____ \_        _/        |
+                        /              _l        |      T        T s3a!    ·
+   ___uSR'33k6         / ::      _               ¦      |_    :: |        _|
+     _24oo-336oo bPs  /_________\\\ ______ __            /___   _l ||_____\
+                                            /_________ _         ¦
+----------------------------------------  -               --------    ----------
+  ·aPPENDiX·dA jORMAS·tELKORDS·piC sAiNT lOUP·fLOPPY·k0RE·liNEAR·oLD bULLS·
+                     ·sATiVE mEA·diNX pROjECT·mAWi·
+
+                 nODe 0 __________________ +48-91-48794393
+                 nODE 1 ___________________________ tELNET
+                 nODE 2 ___________________________ tELNET
+
+    · mASTERED bY: mADBART/aPPENDiX·pOWERED bY: a124ot/6o3/24omhz/5gb ·
+                   · sUPPORTED bY: uFOK+pREFiX+mADBART ·
+
+                [+]  sECOND iN dA wORLD!  [tSP'o1 cHARTS]  [+]
+_                      .                              ·                      _
+\\------------------ - ¦                              : - ------------------//
+                       |_                             ¦
+                       l/                             |
+                       |        _                    _l
+                       |_       \____________________\
+                        /________\
+

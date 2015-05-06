@@ -1,0 +1,276 @@
+
+
+                             ·this file passed·
+                        _ _____        ___   ______
+                               )_  __ _| (___) _  )_
+                              __/__) (_    |   |___/
+                       _ ___  |   |___|    |__
+                         c!|______|MSS|____| |______ _
+                     ____       ____      _____      ____
+                  ___\  (_   ___\  (_   __\_  (_   __\  (_
+                 _) _/   /___)  _   /___) _/   /___)   _ /__
+                /   \      /    \_    /   \      /     /   /
+                \___       \_____/    \____\     \___  \   \
+                  \ ________\   /______\    \ ____\ \_______\
+                   \/      <(·tHE YARd·)>    \/ lOCATED iN gERMANY!
+    [·aMiGA·aLL cONSOLES·gRAFFiTi·aSCii·liNUX·hiPhOP··mP3·pC/iBM·cLASSICS·]
+         [· rUNNiNG oN 8 nICE nODES · 2 iSDN/2 aNALOGUE/4 tELNET ·]
+           [· sTAFF < zANEr · diPSWiTCH · hAsH · cRAZY > sTAFF ·]
+         [· aHS wHQ · b-GiRL wHQ · aRCADE wHQ · sRZ wHQ · lP! gHQ ·]
+           [· pNK gHQ · sOiA gHQ · oMEN gHQ · mCE gHQ · pPH eHQ ·]
+                       [· hOME oF tHE aSCii cHARTS! ·]
+
+
+
+
+
+              ______ _____ _____ ___.-___ __ _____ _____ ______
+             _)    _Y    _Y    _Y  (__)  | _Y   __Y    _Y     (_
+             \_  | \_  | \_  l_\_  _/\_    \_  _/\_  l_\_  |  _/
+              |  |  |     |  |  |  l  |  |  |  l  |  |  |  |  |
+              l__|  l_____l__|  l__   l__|  l__   l__|  l__|  |
+                 `--'              `--'  `--'  `--'        `--'
+                    ______ _____ ___.-______ _____ _____
+                   _)  ._ Y_   _Y  (__)    _Y    _Y   __|
+                   \_  |/  / | \_  | \_  | \_  |_\_  _/_
+                    |   __/  .  |  l  |  .  |  l  |  l  |
+                    l__|  l__|  l__   l__|  l__   l__   |
+                        2F   `--'  `--'  `--'  `--'  `--'
+
+              3nds Ringdown loaded with AMIGA/ASCII/CONSOLE/PSX
+
+                 4040 26mb 2.5gb cd-rom 33.6ds 33.6ds 28.8ds
+ 
+         * MOT!ON HQ * ROYAL DKHQ * TRADERS DREAM  HQ * STYLE HQ *
+           * TRSI RECORDZ DKHQ * DREAMCHART HQ * HOODLUM DK HQ *
+            * DATA DIVISION EHQ * POLKA BROS.WHQ * PUZZLE WHQ *
+                             
+                          THE PROTECTORS ARE:
+        ZINKO^PLAYMATE^SISko^BILBO BAGGIn^NEIL/FLT^BLACK PANTHER/PSG
+            UFOK/MsT^LsD^PsG^iHS^FURY/PSG/M!/SYS/HLM^DELIVERYMAN
+ 
+                         <0>  +45 58ASK4IT  <0>
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+LD RECORD - WORLD RECORD - WORLD RECORD - WORLD RECORD - WORLD RECORD - WORLD R
+-------------------------------------------------------------------------------
+
+
+
+
+
+   ______ _    _____      ______ _   ______ _   _____.      ______.  ______ _
+  _)    ///_ __\__  \___ _)    ///_ _)  __///_ _)   _|___ __)_____| _)    ///__
+ _) ___/   (_) ___     (_)    /   (_\______  (_)    ____(_)       |_) ___/   _/
+|              \             /|           ¦          ¦                       ¦
+¦                                                                            :
+:                   ·fLI7e· ·zAPHOd!· ·sMa1!· ·sATAN`s fIRe·                 :
+.                 ·ayres· ·h2o· ·lance· ·mephisto· ·starlight·               .
+.                              _            _                                .
+`-÷f!/cS!÷--------------------)) sTYLe 1996 ((-------------------------------'
+
+
+
+
+
+
+Well, i`ve decided to start doing the worlds BIGGEST Artist database ever made!
+All  the  previous  released  mags for the ART business try to be UP TO DATE in
+released collections and votetopics ...  nargh!  ...  Actually they`re not!
+
+So  i  got  the idea to make a kinda chain-letter to ALL the artists around and
+all  the  artists  BEEING  around  the  last years!  GEM and all the others who
+quitted the scene (SKIN, AMBLIN etc.) are INCLUDED!
+
+The  main  idea is to get all the ARTISTS, their affiliated groups (past>today)
+and  all their collections in LENGTH, RELEASE DATE and under which group it has
+been released ..  all in all It should like this
+
+-------------------------------------------------------------------------------
+Artist           Groups                 Collections           Length       Date
+-------------------------------------------------------------------------------
+FLI7e            Caustic Style          Numero Uno            12.345   10/10/92
+                                        Numero Zwei          145.678   20/12/93
+-------------------------------------------------------------------------------
+
+The Database will have Sort functions for example: Longest Collection(s)
+                                                   Most Active Artist
+                                                   Most used Groups
+
+and some others if possible!
+
+The DBASE Will have GUI (or mui) ^ ascii/ansi viewing ^ Print function and many
+more (not that lame as in the xCz mag ..  sorry pal!)
+
+So  if  you  are  interested in cooperating with me and the whole CS!  posse by
+doing  this  DBASE  ...   Well,  we`ve  the  ASM coder with about 7 years Amiga
+Demoscene  coding  an  various releases ...  WIGWAM / SAD ...  We also have the
+SATAN`S  FIRE/Roadhogz^Caustic  Style  who collected many many details over the
+months!
+
+BUT:  We need YOU to get the REAL facts `bout YOUR person!  Because who else is
+able to tell them most truthly?!
+
+Also  if  you  send us the information ...  Include a small description of your
+own  (about  a  maximum textlenth of 5k) and we`ll put it straight to the dbase
+entry of your name!
+
+Letus make the ART SCENE more popular and more Informative than it is nowadays!
+
+Letus  also  proof that the AMIGA ascii business is the best of them all!  Fuck
+the  PC artists who can make good looking COLOR ARTS but are most over NOT able
+to  make some with slashes and add-on chars like the most artists (me, too) use
+to realize their asciis!
+
+All  in  all  it`s  a  mega project which will for sure take me a LONG while to
+realize  but  i`ll let you know (the artscene) about the growing and I`ll (if i
+get  some  replys) release a list of artists which are included once or twice a
+month.
+
+Contact spots: THE PUB - My very own BBS ... ask for the number!
+               Fli7e@liteline.mcnet.de ..... for email
+               fhau@aol.com ................ for inet mail
+
+or leave a message at: RAVELAND
+                       EVIL MOON
+                       GOD`S HAREM
+
+and any other BBS where you discover the user named "Fli7e" ... BASTA!
+
+
+Signed ... Fli7e
+
+
+PS: I`m searching for CO-Editors ... Hey Mogue, 2fAST and h2o ... WAS IS? BOCK?
+
+
+
+
+
+
+   ______ _    _____      ______ _   ______ _   _____.      ______.  ______ _
+  _)    ///_ __\__  \___ _)    ///_ _)  __///_ _)   _|___ __)_____| _)    ///__
+ _) ___/   (_) ___     (_)    /   (_\______  (_)    ____(_)       |_) ___/   _/
+|              \             /|           ¦          ¦                       ¦
+¦                                                                            :
+:                   ·fLI7e· ·zAPHOd!· ·sMa1!· ·sATAN`s fIRe·                 :
+.                 ·ayres· ·h2o· ·lance· ·mephisto· ·starlight·               .
+.                              _            _                                .
+`-÷f!/cS!÷--------------------)) sTYLe 1996 ((-------------------------------'
+
+
+
+
+
+
+-------------------------------------------------------------------------------
+LD RECORD - WORLD RECORD - WORLD RECORD - WORLD RECORD - WORLD RECORD - WORLD R
+-------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+                              fILE pASSED tHROUGH
+                                               _
+      __        __        _________       __   /
+  ____\_\_______\_\_______\  ___/ /--. ___\/_  .---------------------------.
+  \_____  ________       \_______/    \\% /\/  |                           |
+      \     \     \_______\ \__________\\/     |       sYSOP: fLI7e        |
+       \_____\                       _         |        _______       :    |
+               ...:...........       \   _______________\      |   ___:____|
+__________________:__________________ ___\____     /     \_    |   \____    \
+\____________________________________\\    _______/____________|_____________\
+                                       \_____\ |                           |
+         sAD wHQ - hJB eHQ - bVS xhQ           |        ..............:... |
+         cS! wHQ - nJY gHQ - c! dIST           |                      :    |
+                                               `-tre!/(!-------------------'
+
+                             oN: 29-02-96 at 21:11
+
+                       oRIGINAL fILElENGTH: [ 5657      ]
+
+
+
+                                          SAD-ADD eNHANCER v2.2 ©1995 fLI7e/SAD
+
+@BEGIN_FILE_ID.DIZ  CAuSTIC      ______     ____    ____ sTw
+ .  STYLE!   __) ___/_  __) _/_ __)  /_   :
+ :_ ___ _____\   \    \_\____  \  __//__ _:_
+_:_\\__\\____\\        \    (   \(__)     :
+ :             \________\________\        :
+ :                                        :
+ : READ ABOUT THE WORLDS BIGGEST ART-ISTS :
+ :  DATA BASE EVER GOING TO BE RELEASED!  :
+ :  _ ___ __________    ___ ______ ___ _  :
+_:__//__//_________/cS!/__//_____//__//___:_
+ :........................................:
+@END_FILE_ID.DIZ
+
+
+
+              ______ _____ _____ ___.-___ __ _____ _____ ______
+             _)    _Y    _Y    _Y  (__)  | _Y   __Y    _Y     (_
+             \_  | \_  | \_  l_\_  _/\_    \_  _/\_  l_\_  |  _/
+              |  |  |     |  |  |  l  |  |  |  l  |  |  |  |  |
+              l__|  l_____l__|  l__   l__|  l__   l__|  l__|  |
+                 `--'              `--'  `--'  `--'        `--'
+                    ______ _____ ___.-______ _____ _____
+                   _)  ._ Y_   _Y  (__)    _Y    _Y   __|
+                   \_  |/  / | \_  | \_  | \_  |_\_  _/_
+                    |   __/  .  |  l  |  .  |  l  |  l  |
+                    l__|  l__|  l__   l__|  l__   l__   |
+                        2F   `--'  `--'  `--'  `--'  `--'
+
+              3nds Ringdown loaded with AMIGA/ASCII/CONSOLE/PSX
+
+                 4040 26mb 2.5gb cd-rom 33.6ds 33.6ds 28.8ds
+ 
+         * MOT!ON HQ * ROYAL DKHQ * TRADERS DREAM  HQ * STYLE HQ *
+           * TRSI RECORDZ DKHQ * DREAMCHART HQ * HOODLUM DK HQ *
+            * DATA DIVISION EHQ * POLKA BROS.WHQ * PUZZLE WHQ *
+                             
+                          THE PROTECTORS ARE:
+        ZINKO^PLAYMATE^SISko^BILBO BAGGIn^NEIL/FLT^BLACK PANTHER/PSG
+            UFOK/MsT^LsD^PsG^iHS^FURY/PSG/M!/SYS/HLM^DELIVERYMAN
+ 
+                         <0>  +45 58ASK4IT  <0>
+
+
+
+                                        .
+        .                    _____: . O  o                               O
+   _____|_____.      _____  .)    |____o [ t . H . E  - y . A . R . d ]_o .
+ _|      /   .|_____/_   /_ : _   |                                       :
+ \      /    |/      /   _//  \    . ahs . bgirl . arcade . srz . tac .   |
+  |____/|____/      /__________\  . lp! . soia . pnk . omen . mce . pph . |
+            /______/     _ _:   _____          ______  __________ ________:
+                         \\\.  /    /__________\_   /_/  _      //  ._   /.
+  consoles.amiga.graffiti   ! /    /|    /   _      \    /     /    |/    |
+  ascii.hiphop.mp3.ibm/pc   |/_____     /____\_______\___\________________|
+  classics.drugs.linux/dd   :_  t^/____/   _.  zANEr/diPSWiTCH/hAsH/cRAZY |
+                             (_____________)| ___________ _______ _ ______:
+  one of the finest in +49             _ _ ___)         (_)               :
+                              #1 33k6.  #2 28k8.  #3 64k isdn #4 64k isdn
+                              #5 telnet #6 telnet #7 telnet   #8 telnet
+                         
+

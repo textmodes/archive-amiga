@@ -1,0 +1,3500 @@
+ORIGINAL LINE ooo1:  ( s )TARTS NO W
+
+                  .____
+ _______     _____|___/ +sD+ __   [Textmode]: Topaz Font or AFS 8Ox5O Required!
+ \  \   \  _/\    : / | ____/  \
+- \_/\   \/   \____/  |/   /   / ----------------------------------------------
+X _/  \   \___/   \   /  _/   / X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X
+- \___/\   \______/   \_\\___/ ------------------------------------------------
+._______\   \_____|   |    _________________________________              _____
+|    /   \   \    | /\<i|) )                               ( WWW.ACiD.ORG )
+|   /  _  \   \   |   |
+|  /   \   \   \  |   | All works  and applications  by ACiD  are copyright (c)
+| /    /\   \   \ |   | ACiD Productions(tm) and protected under law.
+|/    /  \   \   \|   |
+|    /   /\   \   |   | All media is for  the personal use  of members  and the
+|   /   /  \   \  |   | public. Unauthorized selling or distribution (including
+|  /   /____\__/  |   | but   not  limited  to   CD-ROM),  commerical  use,  or
+| /   /           |   | publication  without the express  written permission of
+|/    \__________/|   | ACiD Productions is strictly prohibited.
+|                 |   |
+|_________________|   | You  may freely  distribute  and  copy our  productions
+                  |   | provided that no fee is charged and the contents remain
+>> ACiD/REMORSE <<|   | in their original un-altered form, as provided by  ACiD
+ ________________ |   | Productions.  Pay Bulletin Board Systems may,  however,
+.\_______       / |   | charge  their normal  fee provided  that no  additional
+|      _/     _/__|   | charge for our  productions is levied.  No part  of our
+|      \        ___   | productions may be modified, altered, reverse engineer-
+|______|\_______| |   | ed,  sold,  or distributed in any form whatsoever which
+.\     \/      /. |   | would involve some  sort of trade without prior written
+|      \/       |_|   | permission from ACiD Productions.
+|      |        ___   |
+|______|________| |   | Our productions are provided "as is",  without warranty
+.\_______       / |   | of any kind or fitness for a particular purpose, either
+|      _/     _/__|   | expressed  or  implied,  all of  are hereby  explicitly
+|      \        ___   | disclaimed. ACiD only guarantees that our products will
+|______|\_______| |   | occupy disk space.
+ _)     ____/___. |   |
+.\_____         |_|   | In no way can  ACiD Productions or it's members be made
+|      |        ___   | liable for any damages that  are caused by our product-
+|_______________| |   | ions. You are using our productions at your own risk!
+ wH0              |   |
+----------------- |___| -------------------------------------------------------
+X×X×X×X×X×X×X×X×X .___. X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X×X
+----------------- |___| -------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      The day I charge for art is the day
+
+              I'm living out of a cardboard box and eating kibble.
+
+                   - Hiro Protagonist (1981.irc vO.68e 1996)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           ,,,''  '       .,
+                                      ..'''                ::,,
+                                    .:' .                   : ::
+                                   :: ;   .                 ,  :;
+                                  :: :   :                      ::  jh
+                                  :'  , ,:''''''      ``   ..  .,`
+                                 . ,' : :               .  : .    :.      ·
+                                ,: :: :                    :      :`:
+                                ::, ;: :  .            .  :       : ::    .
+                                 ::, `, `, .    .    .: .: .      : ::
+                                  :''         /, .           ` ',' ,::    :
+                                     .:,   ,,/!$,,`;%,,,,,%%%,    '::'  .-|-
+                                     `:%%%%%',!$$b `$%%%d$$$$$  'g '   .| | .
+     " hey buddy  . . .               `:%%¬,,d$$$¬$$b `°$$$$$% ,d°'  .-|| |-|
+                                       `;' ``Y$$$$$¬¯',%,¬$$'' .'   .| || | |
+                                        ` ,%, `""    %%d$$'"  .:   -|| || | |
+         want to buy an ascii ? "         '   ,   ,    "P'   . '    || || | |
+                                            /°"' `""'-     . :;     || || | |
+                                          `  `%%ggg$¬'    .:,'      || ||-| |
+                          ·                 ,  ````     .  '        |`-|| | |
+          ________________:_                 :,;       ,'           |  || | |
+._________\               |                   `;;'                  |  || | |
+|                         |                                         |  || | |
+|   r  e  m  o  r  s  e   |   1  9  8  1                      %  %%%|%%|| |%|%
+|                         |.______                                  |  || | |
+| _/\_____  ____    ______.|     / ______  _/\_____    ___     ____ |  || | :
+._\__    /_(  _/____\     ||     |_\__  /._\__    /  _( _/____(  _/_|__|| |__
+|   /  _/__  _)    /.     \/     |   /   |   /  _/___\____   \_ _)  |  || | /.
+|   \     /  \      |     ||     |       |   \     /     /    / \   :  || |  |
+|___|\    \___      |_____||     (_______|___|\    \___      /___      :| | ·|
+.    /_____\  \______/wH0 .|_____| __________ /_____\ \_____/+dVN\______| |__|
+|                         | _______\                                ·   | |  .
+|                         |/             p  r  e  s  e  n  t  s        ·| |  |
+|       8o×5o Amiga       /       .     ..  ....   .. .    ..  .   .   -|-'  |
+|        Emulation       /        :..: :  : : : : :.  :   :.  :.. :..   :    |
+|_                      / |       ·  : ·..· · : : ·.. ·.. ·.. ..· ..·        |
+ /____________________ /__|_                                            .    |
+                      /   :       R-HL.TXT - 175,ooo KB - o5.11.2oo4!        |
+           _ ___ ___ /                                                       |
+      \  \\\_\__\\_ /________________________________________________________|_
+                   /                                                         :
+                  ·                                                          .
+
+
+
+
+
+
+
+
+                               .
+                             .  .
+                           .     .
+                         .        .
+                       ...      ....
+                         .     .
+                        .     .
+                       .     .
+          _______     . _____     __________     _____          _
+      _ __\     /_______\_   \____\______   \____\_   \_ __  /\_)\
+     /// //   _/  __/    /   \     /    /    /    /____//  \/     \
+    /// //    \   \     /    /    /    /    /    __/__ /           \
+   /// //    /   _A_   /    /    /    /   _A_   /    //            /\
+  ///_//____/    / \ _____ /____/____/    / \______ //______ /\_  /  \
+  \\\ \\   /________\    \/\    \   /________\    \/ \     \/   )/    \
+   \\\ \\  \         \ ___\ \    ·  \         \    \  \     \   ¯\    /
+    \\\_\\__\  cRu    \    \/\____\__\  rMRS   \____\  \_____\  /¯\  /
+             \_________\              \_________\    \/       \/   \/
+            .     .
+           .     ......... ....      ......... ......... .........
+          .             . .  . .    .       . .       . .       . .
+         .             . .  .   .  .       . .       . .       . . .
+        ............... ....     .......... ......... ......... .   .
+          :::::::::::::. :::.     .:::. :::. :::...... :::......     .
+         _ :::::::::::::. :::.   .  :::. :::. .... :::. .... :::.     .
+        _\  :::::::::::::. :::. .... :::. :::. :::. :::. :::. :::.   . _
+       _\\\  :::::::::::::. :::. :::. :::..:::. :::. :::. :::. :::. .  /_
+  _____\\\\\_ :::::::::::::. :::..:::. :::...... :::..:::. :::..:::. _///____
+ .\        \___ _                                                _ ___/     /.
+ |                      · ··(  H O M E L E S S !  )·· ·                      |
+ |                                                                           |
+ |   My father died when I was ten.  My mother has been an alcoholic since   |
+ |   a year or two after his death.  I have watched her slowly slip out of   |
+ |   life, and it has ruined me more than once as I have tried in vain to    |
+ |   stop her self-righteous suicide.  I cannot deny her pain, nor am I      |
+ |   unsympathetic to it, but it has caused me more grief and anguish in     |
+ |   my life than anything else I have ever had to face.  It is the source   |
+ |   of many of my own problems, and has brought an end to any hope I held   |
+ |   of establishing a healthy emotional relationship with my mother.  It    |
+ |   is at the very center of my homeless existence.                         |
+ |                                                                           |
+ |   As the alcohol numbed her to life, my mother slowly replaced familial   |
+ |   love with material possessions, and I was raised to find happiness      |
+ |   only in physical things, rather than in my relationships with others.   |
+ |   But my need for family was too great, and in time I found it            |
+ |   elsewhere: in the scene, in the rave culture, and in the ivory tower    |
+ |   of higher education.  Try as I might, however, none of these could      |
+ |   extinguish the source of my pain, and I have more than once walked      |
+ |   away from them all; returning to her to attempt again and again a       |
+ |   resuscitation of the heart.  I have come, atlast, to see the futility   |
+ |   of my actions, and to accept this reality for what it is.  I am         |
+ |   powerless to bring about a positive change in my mother's life, the     |
+ |   choice has always been her's alone to make, to live or not, as it is    |
+ |   with each of us in our own lives.  So it is that I have spent the       |
+ |   last year in my life trying to decide, for myself, what it is I         |
+ |   truly desire of life, sliding along my way to the very bottom of the    |
+ |   self.                                                                   |
+ |                                                                           |
+ |   Often in our lives it is hard to recognize the moments of change as     |
+ |   they happen, and it is only in hind-sight that we see with clarity      |
+ |   the moment for all of its dynamic value.  The death of my maternal      |
+ |   grandmother, a year and some three months ago now, was such an event    |
+ |   in my life.                                                             |
+ |                                                                           |
+ |   I grew up in an idyllic childhood, my grandparents across the street    |
+ |   in that small town on the edge of nowhere.  Doris, my maternal          |
+ |   grandmother, was a wonderful influence on my young life, and I am       |
+ |   indebtted to her for fostering in me a love of the written word and     |
+ |   the desire to express myself through it.  The intellect by which I      |
+ |   largely define myself is a product of her love and early education.     |
+ |   Her death did not take long, a matter of mere weeks between the first   |
+ |   heart attack and the last.  My mother was useless during this time,     |
+ |   her emotional distance with the world a total barrier to sharing in     |
+ |   the collective grief of our family.  I do not doubt that she grieved,   |
+ |   but it was as everything is with her: isolated and alone.  And so my    |
+ |   sense of loss was compounded, and I grieved as much for the loss of     |
+ |   my mother as for my grandmother, both utterly gone from me now for      |
+ |   then remainder of my days in this world.                                |
+ |                                                                           |
+ |   In the month following Doris's death I completed my bachelor's degree   |
+ |   at last and was forced to acknowledge I still had no clear vision for   |
+ |   my own future.  I felt hollowed out by the experiences of my twenties   |
+ |   and knew not where to turn, so in need of solace and a new beginning.   |
+ |   Eventually I drifted west, to the coast and the city of Victoria on     |
+ |   Vancouver Island, the most beautiful city in all of Canada.  If I       |
+ |   could not find hope for the future there I knew not where else to       |
+ |   look.  I lived with a girl, not yet really a woman, who offered what    |
+ |   seemed to be the comfort and compassion I required, but it was an       |
+ |   exchange with terms I could not accept: a mask upon my person through   |
+ |   which I was unable to change, a fascade behind which I could not        |
+ |   breathe.  I had stepped from one trap and leapt right into another;     |
+ |   and still I knew no rest, no home in which I belonged.                  |
+ |                                                                           |
+ |   Time has a way of catching up to us, wether we want it to or not, and   |
+ |   after six months I left all of the beauty of the west coast for the     |
+ |   second time in my life.  Again feeling the same sadness in leaving,     |
+ |   for it is on the coast, in the embrace of the pacific ocean, that       |
+ |   I've felt the echoes of the past calling to me, welcoming me home.  I   |
+ |   drifted back east, over the mountains and down, landing once more in    |
+ |   the ghettos of Saskatoon.  And it was here that I found the missing     |
+ |   elements of my person, the love and the anger I both so desperately     |
+ |   needed.                                                                 |
+ |                                                                           |
+ |   After my grandmother died there was all of the remainders of her life   |
+ |   still left behind, the physical accumulations of time and comfort.      |
+ |   But aside from a single item, a family legacy she left to me, it all    |
+ |   felt to me to be nothing more than meaningless physicality: stuff       |
+ |   without true substance or purpose other than to isolate ourselves       |
+ |   from our true nature.  I had for some time before her death been        |
+ |   grappling with this problem in my life, the true meaninglessness of     |
+ |   physical possessions, and I think Doris' passing only served to         |
+ |   sollidify in my mind the need to extricate myself from the grips of     |
+ |   materialism.  You cannot take it with you, and it will not bring you    |
+ |   any measure of real happiness, or so has said every prophet of the      |
+ |   the one and many named God.                                             |
+ |                                                                           |
+ |   I've slept in alleyways, in hallways, on busses moving cross-country,   |
+ |   on borrowed couch-spaces in little west-side houses of the hood, in     |
+ |   the deep darkness high in the mountains, in fields under the full-on    |
+ |   glare of the burning prairie sun.  I have slept but known no rest.  I   |
+ |   went the better part of a year without a single dream remembered come   |
+ |   the light of morning, and all because I could feel no home within       |
+ |   myself and therefore knew no home anywhere else I looked.               |
+ |                                                                           |
+ |   So again, in the dissmal west-side ghetto of Saskatoon I found myself   |
+ |   with little more than the bag on my back and the smallest of            |
+ |   possessions within, but I knew what real riches were atlast and I       |
+ |   felt a happiness in my life I had not felt for many years.  Stripped    |
+ |   bare, or atleast nearly naked, of stuff and things, I found true        |
+ |   companionship where before I had only turned from it.  I found a        |
+ |   woman of heart and mind I could honour and celerate in, and I found     |
+ |   the courage to live life again with an open heart.  I found the anger   |
+ |   that drives me once again to create, to stand up against that which I   |
+ |   find most intollerable about our world.  In all of this I have found    |
+ |   the beginnings of the home I lost with the death of my father, and      |
+ |   have desired ever since.                                                |
+ |                                                                           |
+ |   We are conditioned by our materialistic cultures to see homelessness    |
+ |   only in terms of its physical realities, but in my experience it is     |
+ |   the spiritual reality underpinning it all that is the true horror.      |
+ |   We may eat, such that our bodies will continue, but if the spirit is    |
+ |   not fed it will wither and die, and our physicals selves surely         |
+ |   follow.  This collection is a dedication to God, and the journey of     |
+ |   my life through homelessness.  I would like to thank you for reading.   |
+ ¡_                                                                         _¡
+  /_________________________________________________________________________\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       .
+                                       .
+                                       :
+                                       i
+                                       l
+           '                          .X.                          `
+         .'                        _  ._.  _                        `.
+     ..:'   '               _ _ __ / _|_|_ \ __ _ _               `   `:..
+ , '  '   .'                  ((_/__| \ / |__\_))                  `.   `  ` ,
+.    '  .'                   _.__/  |_ V _|  \__._                   `.  `    .
+    :  ::             _ _ ___\|_      \ /      _|/___ _ _             ::  :
+    `  `:.               \\  /\//    - V -    \\/\  //               .:'  '
+     `.  _ __ __ __  _  __ \/_| _  _ _   _ _  _ |_\/ __  _  __ __ __ _  .'
+`      `\\_\__\_\\_||_||_/ /  || ||         || ||  \ \_||_||_//_/__/_//'      '
+ ` _                 _  __/  _l|_||_M_K:O_D_||_|l_  \__  _                 _ '
+  :  __    .      _ _)||    / :                 : \    ||(_':..    .    __  :
+    |  ____:___________|___/_____ _ __. .__________\___|____ ::::. :____  |
+    ` |    |           :          \   | |              :     ::::: |    | '
+_:____|_ __||_         .        /\ \  | |              .   .::::'_||__ _|____:_
+\|    :                         \ \ · | |             ...::::''         :    |/
+ \    .          A            /\ \ \_ | |        ..:::''''              .    /
+_|\.  .. `:     / \          /. \ \_/ | |    .::''        `'::..            /|_
+ | ::. `:.     /   \_    _  //   \_   '________ _     .      `:::.           |
+ | ::::. ` _  _\_   /____) /   _  /____)     7/ /   .:   .:'   ::;:          |
+ | ::::::. \ /     //     /    \ //   _     //  .  ::  .::      ::;:      S! |
+ |___ ______/     //     /      //   _/   __/ .:: :::  ::       :;i; ____ ___|
+  ___\\___ _     __     _ _    //    \     \_ :::. :::  '.    `.;ii; ___//___
+ |        /      /     //     / ¯    /.     /  :::. '::        ;ii::  ...... |
+ |  _ _ _/     ./  _  //     /      //     /:.  `:::. ''     .;ii::  . ':::: |
+ | _)\)\\ ____//   \ //_   _/_____ //______\:::,,  ````  ,,:;iii:'   `:. `:: |
+_|_      \/   /     \   \  /     \/   . .    `:::::;;;;;;;iiii:'    :. `:  '_|_
+ |/          /_____/_\   \/      _  . | | .  _ ``::::iiiiii:''              \|
+ /    .           /             |/ /| | | |\ \|    ```''''              .    \
+/|____:_ __  _   ·     .          / | | | | \          .         _  __ _:____|\
+ :    |    ||      H   .    I    /__| | | |__\    R    .   O      ||    |    :
+    . |____|____   ____: .____ _ _ _ _| |_ _ _ _ ____. :____   ____|____| .
+    |__    :   _\_/_   | |_  / / / /   _   \ \ \ \  _| |   _\_/_   :    __|
+  :_       .    \ /   _|__ \/ / /  __.| |.__  \ \ \/ __|_   \ /    .       _:
+ .               V  _ ___ \  /! _ _\_|| ||_/_ _ !\  / ___ _  V               .
+.          :        //__/\ \__|_\     | |     /_|__/ /\__\\        :          .
+         .+``+.      \__\/    :      _| |_      :    \/__/      .+''+.
+`       (      :.  /\__.          ,- \   / -.          .__/\  .:      )       '
+ `.           .:: /____|     .` .`  __\ /__  '. '.     |____\ ::.           .'
+   `+ ,_   _,+'::           :: ::  \\  X  //  :: ::           ::`+,_   _, +'
+       ''''    ::           :: ::    \/ \/    :: ::           ::    ````
+               :'            `. `.           .' .'            `:
+       `:._ . '                   ` . ._. . '                   ` . _.:'
+        ::                            |X|                            ::
+        ::                            |X|                            ::
+        ``                            |X|                            ''
+        ``                            |X|                            ''
+        ..                            |X|                            ..
+                                      |X|
+                               (   O  |X|  F   )
+                                      |X|
+                                      |X|
+                                      |X|_
+                                      |X|/_
+                                      |X////
+                                      |/
+                                      /
+                                     ·
+
+
+       ________ ________ _________ ________ ________ ________ ________
+       \____  / \______/ \_____  / \  __   \\____  / \  ____/ \______/
+           /  \     ____    __ \ \ /  \/   /    /  \  \ \  ____   ____
+           \   \__  \  / /\ \ \ \ \\      /     \   \__\/  \  //\ \  /
+         /\ \    //\ \/  \ \ \ \ \ \\    /    /\ \    /  /\ \//  \ \/ pm
+        /  \ \  //  \  /\ \/  \/  \ \\  /    /  \ \  //\ \ \  \   \  ____
+        \  /  \/ \   \ \ \      /\ \/ \/     \  /  \//  \ \/   \   \ \  /
+      /\ \/       \   \ \/      \/         /\ \/     \   \      \   \ \/
+      \ \          \   \                   \ \        \  /       \   \
+       \/           \  /                    \/         \/         \  /
+          R   E   M  \/  O   R   S   E           1   9    8   1    \/
+                                         ·
+                                        /
+                                     _ /|
+                                   ////X|
+                                     /|X|
+                                     ¯|X|
+                                      |X|
+                                      |X|
+                                      |X|
+                                      |X|
+                                      |X|
+        (    W O U L D   P R E F E R  |X|  Y O U   C A L L   H I M    )
+                                      |X|
+                                      |X|
+                                      |X|
+                                      |X|
+                                      |X|
+                           ·          |X|_            ·
+                           | ·   _____|X|/_______   · |
+                           | |\  \    |X|       /  /| |
+         _______________ ________ \   ·+·     _/___ : _______  _________
+      __\\_ ____    ___/_\   ___/__\__      __\___(___\__ ___\/       _//
+   _ _)       |/    \ /    __\       /      |/     _/        \\       \
+   \\\     _ _·      ·     \:       · _     ·      : _ _      \\       \_ _
+ - -\--------/______/-------\_________//  ·/|_______/----------/________///
+     · ns  - -------------------------\  //------------------------------/- -
+                           | :         \/·          : |                 ·
+                           | |                      | |
+                           | |    D  E  V  I  N  !  | |
+                     _ ___ | |/\                    | |
+                          \| // \___________________|_|___ _
+                           \//X                       :
+                                                      .
+  ____ _                                                               _ ____
+ .\                       · ··(  H O M E L E S S !  )·· ·                   /.
+ |                                                                           |
+ |     The idea of dropping my alias and drawing under my real name first    |
+ |  became prevalent in my mind during the early stages of this collection   |
+ |  and the further I progressed the more sense it made to me.  I had been   |
+ |  drawing as Hiro for so long, yet the name and persona seemed very far    |
+ |  away from me, from my actual reality, and I knew the words necessary     |
+ |  for this to succeed in my own opinion could not come from behind that    |
+ |  mask.  I needed to speak from my true person, to lay claim to the art    |
+ |  that had only existed for me in the shadow reality of the scene.  I      |
+ |  picked up the alias after reading Neal Stephenson's _Snow_Crash_ in      |
+ |  the early 9os.  The book was given to me by a girl I knew from the 3o6   |
+ |  local, a bbs chick, and in giving it to me she described it as "you in   |
+ |  print" (meaning it contained a relatively acurate portrayal of who I     |
+ |  was, as well as who I wished to become).  I've read that book now more   |
+ |  times than I can recall, but the last time I read it the story felt      |
+ |  worn-out; a young man's story of becoming, rather than of being.  In     |
+ |  that instance I realized it was because I had become what I was to be,   |
+ |  and no longer desired or needed the inspirational stories of my youth.   |
+ |  I was at last a real person, with only these small reminders hanging     |
+ |  on.  I am glad to have finially severed them ... so please, call me      |
+ |  Devin, it's my name, ok?                                                 |
+ |                                                                           |
+ |     Remorse will be celebrating it's 1o year anniversary by the time      |
+ |  you read this, no small feat by any measure.  I'm glad that life has     |
+ |  brought be back to the scene in time to celebrate this milestone, as     |
+ |  I've been a part of the crew since the very first pack and felt shitty   |
+ |  enough missing ACiD's 1ooth pack.  There seems to be a small ascii       |
+ |  revolution brewing again, what with the return of block and a general    |
+ |  increase in production by our membership, and I hope to keep on          |
+ |  keeping on right along with it.  I returned to Remorse because it was    |
+ |  the only place I really belonged.  P&C was a nice attempt at bringing    |
+ |  back the small-crew idea, but even that couldn't stop the circling of    |
+ |  the drain that became the ascii blackhole of 2oo2 (check it out,         |
+ |  hardly anyone released anything at all in 'o2, either side of the        |
+ |  scene, it was all dead everywhere).  At times being in Remorse can       |
+ |  feel distant, because we are a such big group, but this is just the      |
+ |  negative flipside of having a deeply diverse and talented team backing   |
+ |  you up.  Since I've been back I've talked to so many old friends, and    |
+ |  shared such a good vibe with everyone.  It really has been wonderful.    |
+ |                                                                           |
+ |     The styles contained within this collection are original.  I have     |
+ |  taken inspiration from other artists, as always, but these are my        |
+ |  creations.  If you feel otherwise, fuck off - I couldn't care less       |
+ |  really - I did this for me, not for some kind of scene glory bullshit.   |
+ |  Drawing this colly has been about more than that to me, as it must be    |
+ |  for me to go on doing it, especially after all these years.  My          |
+ |  respect to everyone who understands what this means, and creates with    |
+ |  their own original voice and individual vision.  About halfway through   |
+ |  this production I remembered there was once a board called "Homeless",   |
+ |  but I haven't used any of their logos.  That wouldn't be right, or       |
+ |  respectful of the artists who drew for them.                             |
+ |                                                                           |
+ |     This is my 23rd collection to date.  Despite losing all of my own     |
+ |  art and archives back in '97 I have been able to recover them all        |
+ |  again except for HP-KRS1.TXT, "Katharsis Rules Supreme", and would       |
+ |  love to hear from you if you have a copy of this early work of mine.     |
+ |  Looking back at my own art I really don't like much of it before         |
+ |  R-TM.TXT, "The Message", but I recognize it was all a part of the        |
+ |  process that got me to this point of individuality in my art, and        |
+ |  I'ld like you all to think about your own rough beginnings before the    |
+ |  next time you rag on some newbie.  It is important that we teach newbs   |
+ |  to respect other's styles, but we must also forgive them for their       |
+ |  occasional lack of originality if the scene is to have any future        |
+ |  leading artists.  I see collections with greets to people who haven't    |
+ |  even drawn in this century, and I have to question what the point of     |
+ |  it is?  A desire to be appear "cool" or likewise bullshit?  Repetition   |
+ |  is murder on the creativity of the soul!  The twilight of the idols      |
+ |  has come and gone, and it is time we all did more with our art.  There   |
+ |  are changes coming, I can feel it growing again, somewhere at the        |
+ |  edges, in the fringe, somewhere out there where the newbs come from..    |
+ |                                                                           |
+ |          - Devin Davidson, a/k/a/ Hiro Protagonist <ACiD/Remorse1981>     |
+ |                          ( email: hiro@acid.org )                         |
+ ¡_                                                                         _¡
+  /___ _        · ·· 4:2Oa / O5.11.2OO4 / 175k / 35OO lines ·· ·       _ ___\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             XXX
+
+             XXX
+  ._______   XXX                 _ __       _______.
+  |      (___XXX_______          __ /       )      |::  :
+  |  _.     /XX\    _ / /\-------\//--------|- ._  |
+ _|_//|    / XXX\  (((-/        \\/·        :  |\\_|_  H O M E L E S S !
+   _/ |  -/--XXX-)    //         \/            | \_               ______ _____
+  |   |_________________/\_____________/\______|_  | ____________/    _//   _//
+  |   ._     \   ._    /   ._   ._    /    _    /  |/   _    _   \    \     \
+ _|   |/     /   |/  _/    |/   |/   /    |/___/   /    /   |/___/\    \     \
+\\____/     /\_______\_____/    /____\________\_______ /\_______\______/\____/
+ -|--/     /--------------/    /---------------------\/----------.-----¯¯\-----
+  | /      \ XXX         /     \           _  __: _._   fAH+S!
+  |/-  -- --·--X -  - --/- --  -·--- -          |/_|            .    ·
+ -+---   -   -  ---- --·--- --    -    - --- ---// |    .    .           .
+  |                                             /  |       _,,,_   .  .
+  |                                            /|  :  . .xXXXXXXXx.     <bZZ!>
+  |  ¨666·demon¨  ¨scene raps¨  ¨big in japan¨  |       |   _  _  |  ·  .
+  |                                             | .-.  _:  /X\/X\ :_
+  |    ¨panospria¨  ¨mindsplit¨  ¨dipswitch¨    | |¯|  \|:    .   |/  .
+  |                                             .-| |-. |::..--..:|
+  |      ¨sac¨  ¨mortmer twang¨  ¨rewind¨      c|     |) ``::::::'
+  |                                            C|-----|
+  |    ¨safari sessions¨  ¨16colors¨  ¨cotm¨   C|40oz.|
+  |                                            C|-----|    "HELL, ATLEAST
+  |       ¨netpimpz¨  ¨the yard¨  ¨tinyz¨       `-----'
+  |                                             ±  _     THERE'S BOOZE SON!"
+  |      ¨mimic¨  ¨textmode¨  ¨colly logos¨     |  7
+  |                                             |  |
+  |            X     ¨haciend¨  ¨remorse¨      _|_-|-------------- --  ---  -
+  |        //_XX__/_                            __\|_
+  |        /\XXX /                              | \:    ( i )NDE X
+  (__________\XX// _____________________________¡
+             XX/__(  ______ ___________  __________j ___________  _________
+             XXX    |______|( )________)(________(_)(_)________)(_)     ___)
+                                                    `.-----     ` '------'  ©Mt
+             XXX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [o1] request: the evil ones ( 666·DEMoN infofile )
+     \            \/:::/
+      \\___________\::/               that is infact a juzam djinn. i'm a geek.
+                    \/
+
+
+
+
+
+
+
+
+
+                                                           ...............
+ >>  666-plastikman_-_closer.rar                           :::     .  :::::
+                                          cCCCCCc.    _ __ ::: ____|_ :::::
+      +._                               cCCCCCCCCCCc       :::     |  :::::
+      `  `·-.,_         + ++++++ ++    cCCCCCCCCCCCCc      ...     |  :·
+       ·      ¨"`·-.¸_              ..·CCCCCCCCCCCCCC`·..  ···        _,.-·'"
+        `            /::::·,._  .,·'·  ··CCCCCCCCCC· ··  `·.  _.,·::::\
+         `.         /::::/    ·:' ·   · ···CCCCCC· ·     · `:·    \::::\
+           ·.      /::::/   ·   ·        ·  ·CCC··· ·      ·       \::::\
+    _____ _  `·,  /::::/            ____ __:  C· ._ ____            \::::\  ,
+ _x\\           "/::::/            \\__(×)_]  ·  [(×)__//            \::::\"
+ 7                ¨"÷:._      ·          _.|     |._                _.:÷"¨
+ | __   _      _      _ "`·-,_;_      .-"___     ___"-.      _,.-·'"    ..:
+ | \// //___  //___  //___    )/_ ·  (__(:::]   [:::)__)  · _\     |  :::::
+ |    / _   )/ _   )/ _   )     (::.     :::.....:::   ...::) ·    |  :::::
+ |  _/ l/   | l/  _| l/   |    .:\:  __  ·:::::::::·  __ · /       |  ::::: 6
+ |  \_______|     \_______|     ·:\  \<_______________>/  /\       |  ::::: 6
+ |         \_______l_       _ __/· \  \¡_ | ¦ 7 ¦ | _¡/  /  \ ____ _  ::::: 6
+ |     ...         :                \  \_¨¦-:_|_:-¦¨_/ //    \        ::::: ·
+ |     ...                     \  \\ \   \:_·_¦_·_:/   /           |  ::::: D
+ |     :::      POOR PATHETIC        /_   ________    _\           |  ::::: E
+ |   ________ _  HUMAN, YOUR RACE      \__\    _  ))_/         dVN |  ::::: M
+ |  /  ...        IS AT AN END!            \_  / /                 |  ::::: o
+ | /   :::                     _ ____   _/_ /   /       ____ _     |  ::::: N
+ |/    :::                           \      |  /       /           :  ::::: !
+ +     :::  ___:          /\          +     | //      /            .  :::::
+    ________\  | ________ /\_____ _         |/       +                :::::
+    \     _    |_\_     //      / /__.______·____ __________          :::::
+ ____\    /    |  /   _/__     / /   |    _     /_\_       / .........::::·
+\\_____________|_________/____/ /    |    /    /   |      / :::
+       ...         + ++++++++\_/_____|________/____|     /________ _ ____
+  .....:::                                         |_____________((_))__//x_
+  :::                                                       ...            7
+  :::      tHE EViL oNES REtURN _______  666·DEMoN!         :::            |
+  :::        ________   _____   \     //_  _______          :::            |
+  :::        \    __/___\    \\ /  __/____/      /          :::            |
+  :::       _/   _)      \    \/   \     /      /           :::            |
+  :::      \\    \       /_        /    /      //           :::            |
+  :::        \____         \      /_____\     /_            :::            |
+  :::      (=====\__________\___ /==dVN\_______/==)         :::            |
+  :::                          \/                           :::            |
+  :::      Plastikman - Closer 256 kbit CD                  :::            |
+  :::                                                       :::            |
+  :::........................[ Released: xx.xx.O4 ].........:::            |
+       .                                                                   |
+       |   Original:  [x] CD · [ ] CDr · [ ] 12"    Label: NovaMute        |
+       |                                                                   |
+       |   Artist / Title:  Plastikman / Closer (2OO3) - NoMu 1OO CD       |
+       |                                                                   |
+       |   Release Notes:                             Quality: 256 kbits   |
+       |                                                                   |
+       |    http://www.discogs.com/release/196990                          |
+       |    http://www.plastikman.com                                      |
+       |                                                                   |
+       |    Originally released October 2O, 2OO3.                          |
+       |                                                                   |
+       |    Tracklisting:                                                  |
+       |                                                                   |
+       |    O1. Ask Yourself (8:47)                                        |
+       |    O2. Mind Encode (5:41)                                         |
+       |    O3. Lost (4:37)                                                |
+       |    O4. Disconnect (4:57)                                          |
+       |    O5. Slow Poke (Twilight Zone Mix) (7:5O)                       |
+       |    O6. Headcase (9:55)                                            |
+       |    O7. Ping Pong (9:3O)                                           |
+       |    O8. Mind In Rewind (1O:21)                                     |
+       |    O9. I No (3:42)                                                |
+       |    1O. I Don't Know (1O:O4)                                       |
+       |                                                                   |
+       |    Ripped by The Evil Ones                                        |
+       |                                                                   |
+       |   If you enjoy this release purchase it!  It is impossible for    |
+       |_    artists to continue creating music without your support!      |
+    . · /_·_._ _________________________                                ___|_
+ .·.         .·.                       ( INFOFILE DESIGNED BY DEVIN/r81 )  :
+.  ··.     .··  .                .......      ...       ....
+.   : ·. .· :   .               ::.........  ::......  ::.........
+·    :.···.:    ·               :::::    ·:: ::    ·:: ::    ·:::::
+ · .:.:...:.:. · :      +  ++++ ::::: +++ :: :: +++ :: :: +++ ::::: ++++ +
+  .    ·.·    .  |\_______      :::::. _  :: ::.    :: ::.    :::::
+    ·.__·__.·____|__     /____   ·····/ \··_  ·······   ····_____________
+      \         ___/    /  __/_____  /   \/ \ ___________ __\__         /
+       \        |/     /  _)       )/    \/  \    __    /    |/        /
+        \       /     /__ |       _|     /    \   |/   /     /        / dVN
+        _\      ______\ \_________\_____/      \______/|____/        /_
+  ____\\\_______/____            _____ /_________/________ /__________///___
+ (_._.______________/ 666·DEMoN! \______________________________________._._)
+   : :                                                                  : :
+   : :                                                                  : :
+   : :  OO1. Plastikman - Closer (2OO4) 256 kbit CD              O9.O4  : :
+   : :                                                                  : :
+  _:_:____________________  /\  /\_                                 ____:_:_
+ (________________________\//\\//\//  CONTACT: 666DEMoN@GMAIL.COM  \\_______)
+                          \/  \/
+   GREETS: RNS+SouR+RMRS!     \/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [o2] request: radman ( scene raps 2oo4 )
+     \            \/:::/
+      \\___________\::/            it's still available only on our member ftp.
+                    \/
+
+
+
+
+
+
+
+
+
+     ______________                                         ______________
+     \           _///  aCID pRODUCTIONS pROUDLY pRESENTS  \\\_           /
+      \  _____   \   ___       ______       ________ ______  /          /
+     __\_\  _/____\_/ _/_______\   _/_______\_      \\   _/_/__________/__
+ _.x\\_   \_          \           _)         7          _)              _//x._
+(     |                                      |                          |     )
+|     |_____           ____________          |        ___           +   |     |
+|          \___________)          \__________|________| X__________/____|     |
+|           \          \                               /          /           |
+|     .......\......... \ ............  ............. / ......   /        dVN |
+|_    :: ............::: ::..........:: ::..........:: ::......./.......     _|
+ /___ ::       \   :::.. ::          :: ::          / ................::: ___\
+                \_         \_                      /          /
+   ( O9-11-O4 )  /_________ /   ( ACIDRAP1.RAR )  /          /
+                          \//.                   /    << sCENE rAPS 2OO4! >>
+   ( pACKAGED bY rADmAN )     ( gFX bY dEVIN )  ///        /
+                                     _ __ ___ _/         _/
+            __________/\  ___________\\\ \\  \\ _________\ _  /\____
+    __ _ _.\\          .\/             \\_\\__\\/           \/.    //._ _ __
+   (_((((               \/                                  \/         ))))_)
+        |  Track Artist              Title                      Time   |
+    - --+--------------------------------------------------------------+-- -
+        |                                                              |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |  # xx. xxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx  XX:XX  |
+        |                                                              |
+     _ _|-------------------------------------------(Total Time XX:XX)-|_ _
+     \\\__      __._    .___  .___      __.____ _,                    __///
+         (__ ____(|   _+|   )_|__(__ ____(|____))___ _____       _____)
+           ((____||___(||____\|    /(____||   _ ____))   ( 2oo4! )
+
+
+
+
+
+
+
+
+
+[O1] ACIDRAP1.RAR A 1O,OOO,OOO kb  [ACiD Presents]: Scene Raps 2OO4     [o1/o1]
+                                          ___ _____  ____      ___. _______
+                                      __ /  //  _  \/  _/_____\\__l_\_     \_
+                                   ++/ //  //   |   \  |      |   |  |      /\
+                                   +/ // ///    _    \ `      |   |  '      | \
+                                   / //  //     |     \       |_  |         | /
+                                   \ \\  \\_____|      \_______/__|_________| |
+                                   +\ \\  \\    |______ /\     \  \         \ |
+                                   ++\_\\ _\\___|     //\\\_____\dVN ________\|
+                                         \/     |_____/__\/++++++\/+\/+++ +   `
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [o3] boredom: tom waits ( i'm big in japan )
+     \            \/:::/
+      \\___________\::/                             i like weird old-guy music.
+                    \/
+
+
+
+
+
+
+
+
+
+                   __                                                ____ _ _
+       _\__ ,, _  /  \ _______         _\__     /\         _\__ __/\ 7  _))))))
+.:.:.:. _\_))'/ \/    Y  _   /________  _\_)____/\________  _\_Y _  \|  | ¯ ¯
+¦|¦|¦||/   | / _  :   |  )_ //        )/   |           _  )/   | \   \  |_ r81
+¦|¦|¦|/    |/  \  |   |  |/           /    \\          )  /    |  \      /__
+¦|¦|¦|\ ___(___|\/|   |__/           _\ ___)\_____________\ ___)  |\___ // /
+¦-¦-__-\/--- ____-| ____)____________)\\/_______________ (|\/-\___)--_\// /__
+  __\ \\/_  ))___)|/                   \/            ___\ |______    \\/ // /_
+ _\ \\ \//  ______:     ___   /\______     ___ ___/\ 7  _\|___  / dVN \ //_///_
+_\\\_\\ //_ )    /______\_ )_/_       )____\_ Y_ _  \|  ) :  / /_______Y______
+      _Y___ |    |       _  / )      /      _  / \   \  |_  /__________|_____//
+ __ __)    \|    |       ( /        /       ( /   \      /__ -¦|-|--¦--|¦--|¦--
+_\ \\       :   _\ ________\  ______\ ________\   |\___ // /  ¦|¦|¦|¦|¦|¦|¦|¦
+ \\ \\  ________)-\/-----/____|------\/--------\__|---\// /_  ¦|¦|¦|¦|¦|¦|¦|¦
+\_\\_\\_/         \/          :      \/           :    /_///_ ·:·:·:·:·:·:·:·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [o4] request: khanfuschious ( panospria )
+     \            \/:::/
+      \\___________\::/              sorry i missed hearing you play yet again!
+                    \/
+
+
+
+
+
+
+
+
+
+                                       ^
+                                      / \
+                                     /___\
+                                    _______
+                                 . /       \ .
+                               .: /         \ :.
+                             .:: /           \ ::.
+                           .::: /             \ :::.          __
+      _______ _______ _/\  __ _/_____ ___     _\_____ _____   )_) _______
+     (  _    (  _    (   \|  )   _   ( _/____(  _    (  _  )_ ___(  _    )
+     |  |    |  _    |  \ \  |   |  _|_      |  |    |  _    )   )  _    |
+     | ______)__|    |__|\ __|______\ _______| ______)__|    |___|__|    |
+     |_(        |____| .. \/         \/      |_(   \ .. |____|      |____|
+           dVN        .:· /                         \ ·:        r81
+               .:::::::· /__(· P A N O S P R I A ·)__\ ·:::::::.
+       .  . ..:::::··                                     ··:::::.. .  .
+                       _______(· R E C O R D S ·)_______
+   ·  · ···::::::.... /                                 \ ....::::::··· ·  ·
+              ··:::· //                                 \\ ·:::··
+                 ·: ///._______                 _______.\\\ :·
+ .___________ _                )__           __(                _ ___________.
+ |  ____  ____  ____  ____  ____ /__       __\ ____  ____  ____  ____  ____  |
+ //\\  //\\  //\\  //\\  //\\  //_ //     \\ _\\  //\\  //\\  //\\  //\\  //\\
+ /._\\// \\\//__\\//__\\// \\\//_////     \\\\_\\/// \\//__\\//__\\/// \\//_.\
+ |:   /____\            /____\  \////.   .\\\\/  /____\            /____\   :|
+ /:                                                                         :\
+ \:                                                                         :/
+ \\      (  Panospria celebrates their latest release on xx.xx.2oo4!  )     //
+ :\\                                                                       //:
+ ://                                                                       \\:
+ //    Artist: xxxxxxxxxxxxxxxx  Album Title: xxxxxxxxxxxxxxxxxxxxxxxxxx    \\
+ /:                                                                         :\
+ \:    Release Notes: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    :/
+ \\                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    //
+ :\\   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   //:
+ ://   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   \\:
+ //                                                                         \\
+ /:    Format: [ ] CD  [ ] MiniCD  [ ] 12"   Total Running Time: [xx:xx]    :\
+ \:                                                                         :/
+ \\    Tracklisting: [o1] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]    //
+ :\\                 [o2] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]   //:
+ ://                 [o3] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]   \\:
+ //                  [o4] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]    \\
+ /:                  [o5] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]    :\
+ \:                  [o6] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]    :/
+ \\                  [o7] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]    //
+ :\\                 [o8] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]   //:
+ ://                 [o9] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]   \\:
+ //                  [1o] xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx [xx:xx]    \\
+ /:                                                                         :\
+ \:                                                                         :/
+ \\    About Panospria: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    //
+ :\\                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   //:
+ ://   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   \\:
+ //    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    \\
+ /:    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    :\
+ \:    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    :/
+ \\    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    //
+ :\\                                                                       //:
+ ://                                                                       \\:
+ //      (    Greets: ACiD Productions · NoType · Brave New Waves    )      \\
+ /:                                                           _             :\
+ \:__  __  _________ /\ _______ ____ ____    _________ _____ _/_ /\ ____  __:/
+ \· //\\ \\\ _     // _\\  _  //  _ \\ _/____\ _     //  __//  // _\\  //\\ ·/
+ \\//__\\/ /  ____//___ \\_/  \\____//____  //  ____//__(  /__(/___ \\//__\\//
+ .__  - --/___(--------)_\/____\--------(  //___(------------------)_\-- - __.
+ | (__ _                    - -----------\/----------- -                dVN) |
+ |_                                                                         _|
+  //----(  Panospria Infofile designed by Devin of ACiD Productions!  )----\\
+
+
+
+
+
+
+
+
+
+                             _____
+              /\_____________\    \    ____/\            /\_____
+             (              \_ _  \\  (      \  _______ /       \
+             |    ____       / \    \ |      \\ 7      )   ._    \
+             |    7  /     //  |\    \|    _   \|      |   |\     \_
+             |    | /      /   |_\    \    \    \     _|   \/      /
+          __ |    |/      /|          _\   |\         \           /____
+       _ /   |    /      / |   _____  l____| \         \        //    /
+    _ / / :: |   (______/  l___)    \    \ .. \ _______|\______ / :: /__
+   / / / :: _|    |             .:· /_____\ :. \/             \/ :: /  /_
+  / / / ::: \ ____| :::::::::::::::.        ·    .:::::::::::.  .: /  / //
+  \ \ \ ::: \\/   ...:.::·  ·:::::::::· _____/\ :: _____ · _____ : \  \_\
+  \\_\ \ :::.  /\________ /\___________(       \ · )____) _\    \ : \ _\
+      \_\ :: _(   __    /(              \_ _    \  ______(   _  \\ : \
+         \___\    )/   /_|    ____       / \    \\(      |   \    \ __\
+           ___\   /______)__  7  /     //  |\     \_     |   |\    \
+          (   /____        /  | /      /   |_\_   _/_   _|   |_\    \ dVN
+          |     | /      //   |/      /|             \ \\_           \
+         _|     |/       /    /      / |   ______     \  |   _____    \
+        \\_____ /       /|   (______/ _|   |    \     \\_l___)    \    \
+              (_______ /_|    |       \ ___|    /______ /         /_____\
+                     \/ \ ____|       \\/             \/
+                        \\/
+
+
+
+
+
+
+
+
+
+        _________/\___ _________/\___   ___    _________/\_____ _  /\___
+       ( _      /  _  \\   _   /  _  \ /  /___( _      / _    /_(_/  _  \
+       | (     /   _   \   |   \     /-\_     / (     /  _  _/_  /   _   \
+      _|   ____\___|    \__|    \___/       __\   ____\__|    /__\___|    \_
+  - --\ ___|-------|____ /-|_____\----------'\ ___|      |____\  dVN |____ /
+       \/              \/                     \/                         \/
+
+
+
+
+
+
+
+
+
+            ______   ___    ____   ____    ___     ____________  __  ___
+       __ __\_    \__\_ \___\_  \_/  _ \  / _/_____\_    \  _  \_____\_ \ ____
+       \  \  /   _/   /  \   /   /   /  \-\_     \  /    /  /___/ /   /  \_  /
+       /  /  ____\_____._/__/   _\______/_______ /  ____/___\ /___\____.__/ /
+  __ _/  /____\            /____\              \/____\  ____________________\
+ \\__\_____________________________(panospria)__________\ dVN
+
+
+
+
+
+
+
+
+
+      ______   ___   ___/\  /\___    __       ______ ________      _____
+     _\    /___\_ \__\_   \/   _/___/ /_______\    /_\__    //\____\_  /\
+  --/  \   \   _/  \   \   \   \   \____    /  \   \   /  _// \\   _/  \\\----
+  :/\   \   \  \    \   \   \   \    /  \   \   \   \  \    \   \  \    \ \:::
+  :\ \   \   \  \    \   \   \   \   \   \   \   \   \  \    \   \  \    \ \::
+  ::\\\  /    \  \_   \   \   \   \   \   \   \  /    \  \_   \   \  \_   \/::
+  :::\/  \____/   /   /   /   /   /   /   /   /  \____/   /   /   /   /   /\\:
+  :::/   /\  /   /   /   /   /   /   /   /   /   /\  /   /   /   /   /   /  \:
+  ::/   /  \/   /   /   /   /   /   /   /   /   /  \/   /   /   /   /   /    \
+  //   /  //   /   /   /   /  _/   /  _/   /   /  //   /   /   /   /   /     /
+  /____\  /___/   /___/   /---\___/---\___/____\  /___/   /___/___/   /     /:
+  \     \ \  /____\  /____\ \  \  \    \  \     \ \  /____\   \  /____\   //::
+  :\\    \/\ \     \ \     \ \  \\ \    \\ \\    \/\ \     \\  \ \     \  /:::
+  ::\_____\:\_\\    \_\\    \/---\__\----\__\_____\:\_\\    \___\_\\    \//:::
+  :::::::::::::\_____\:\_____\:::::::::::::::::::::::::\_____\:::::\_____\:dVN
+  -----------------------------(  p a n o s p r i a  )------------------------
+
+
+
+
+
+
+
+
+
+[O1] PNO-XXXX.RAR A 1O,OOO,OOO kb   _______  __  _:___  ___ ___________ _  _ _
+                                   ( _   /_\(  \7 | _ \( _/(__   /_   /_/_/_\\
+                                   | ___/ _ \_\ \ | | _)_   /___/ _ _/  _/ _ \_
+                                   l_|%\__|__/|\__(___\___ /_|%%l_|__\__\__|__/
+                                   .--------l_|dVN-------\/-------------------.
+                                   :                                          :
+                                   : PANOSPRIA Records Presents: xxxxxxxxxxxx :
+                                   :                                          :
+                                   `--[xx.xx.2oo4]-------------------[o1/o1]--'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [o5] request: psg ( mindsplit )
+     \            \/:::/
+      \\___________\::/                       damn, those are some big boobies.
+                    \/
+
+
+
+
+
+
+
+
+
+         ·                 _______        __ _         _____   _______
+         :            _____\_ _   \_     \\       _____\_   \__\___   \_
+     - --+------------\     / /    /\\\----\------\     /    /    /    /\
+         |            /    / /    /  \            /    /    /    /    /  \
+         |           /    / /    /  -/-----------/    /    /    /    /    \
+         |          /    /_/    /   /          _/    /   _/   _/    /     /
+    ____ | ____ _   \___/ /_____\---- -    - --\____/    \__________\    /
+    \  __|__       __\  \ \      \/             \  /______\          \  /
+ _ __\ \  _/_______\_ \__\/\______\--- -    - ---\_\       \________:_\/
+  ______\__     /   /    /\ ___        __ _         \________\      |
+  \       /    /   /    /  \   \_     \\         ____)  /____  dVN  |
+  /      /    /  ______/   /    /\\\----\--------\_    _____/__ r81 |
+ /____  /   _/   /     \  /    /  \               /    /      /\    |
+ \   \______\____\ _____\/    /  -/--------------/    /      / -\---+-- -
+  \___\      \    \/  /      /_  /             _/    /      /   /   :
+       \______\____\ /________/\/   - ---------\____________\  /    .
+                     \        \ \               \            \///
+     MiNDSPLiT.NET    \________\/-- -     - -----\____________\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [o6] respect: dipswitch^asl ( dipswitch + aerosol )
+     \            \/:::/
+      \\___________\::/         thanks for the logos buddy! hope you like mine.
+                    \/
+
+
+
+
+
+
+
+
+
+                          _:_      /\      _:______/_
+                    ______)|       /\       |     /________
+            ___     \      |-------/\-------| .__         /     :__
+        ____\ 7___ __\__   ___   __/\___   _ _| /___    _/___   | /____
+       (   _  | _/ _    \ /  /__(_     /___\_\_  __/___/_ __/___|  _   )
+     _/    \  |  | /    /-\_     /    /\   \  7  \     _/ \     \  7    \_
+    \\ _______|__| ____/______ __\____ ____/__| _______\_______ /  |_____//
+- --  \/         |__\    \    \/.     \/      |/     /        \/___|       -- -
+X X×X    ×X×X×X× :    X×X \     :     \/      :     / X×X×X×X      : ×X×X×X×X X
+× ×X×X×X×X×X×X×X · X×X×X×X \    ·             ·    / X×X×X×X×X×X×X · X×X×X×X× ×
+X X×X×X×X×X×X×X×X×X×X×X×X×X \___:_ DiPSWiTCH _:___/ X×X×X×X×X×X×X×X×X×X×X×X×X X
+- ------------------------------:             :-------------------------dVN-- -
+                              <<:<     ^     >:>>
+                  _     _____.·_: _ AEROSOL _ :_·._____     _
+                 ((   ((_____\\\__\_       _/__///_____))   ))
+                            .      (_  V  _)      .
+       - -------------------:------  \   /  ------:------------------- -
+       × ×X×X×X×X×X×X×X×X×X×X×X×X×X×X \ / X×X×X×X×X×X×X×X×X×X×X×X×X×X× ×
+       - ----------------------------- Y ----------------------------- -
+                             `         :         '
+                              ·        :        ·
+                               `.      :      .'
+                                 `-._\(°)/_.-'
+
+
+
+
+
+
+
+
+
+           __/\   ______    _____/\   _____/\     ___     _____/\_______
+    _______\_ \\__\ ___/____\_    \\__\  _  \\_ _/ _/_____\  _  \\_    // dVN
+   \\_  ____/   / __/    \  _/      /    /    /-\_      /    /    /   /_____
+     /  \      /  \      /  \   ___/   _/    /  _/     /   _/    /  _/     /
+   _/   /_   _/   /_   _/   /    \    _\   _/  _\    _/   _\   _/  _\     /_
+   \_________\_________\___//_    \________\_________\_________\___________//
+    \        /\        /\ /________/       /\        /\        /\         /
+    \\______/..\______/..\\       /\______/..\______/..\______/..\_______/
+       . ....::........::.¯\_____//........::........::........::..... .
+           · ··············       ································ ·
+
+
+
+
+
+
+
+
+
+             __/\  /\____   __/\____/\__    /\__   /\__  __/\__
+          ___\__ \/   __/___\__    / __/___/  _/__/  _/__\   _/\
+         /\   _/ _\_ _/_ _\_  /  _/_ \   _\_____ _\_ \   _\_ \_// dVN
+         \\\  \    __  /   __ \    __ \    __  /   __ \    __ \_______
+       __\\ \  \    \  \    \  \    \  \    \  \    \  \    \  \     /\
+     _\\ \\\ \  \_   \  \_   \  \_   \  \_   \  \_   \  \_   \  \_   \\\
+    _\\\\  \\/   /   /   /   /   /   /   /   /   /   /   /   /   /   /\/
+     /_// ///   /   /   /   /   /   /   /   /   /   /   /   /   /   /  \
+       /__//   /   /   /   /   /   /   /   /   /   /   /   /   /   / /X \
+          /   /   /  _/   /   /   /  _/   /   /   /  _/   /   /   / /X/ /
+        -/---/   /---\___/---/   /---\___/---/   /---\___/---/   / /X/ /
+         \  /____\    \  \  /____\    \  \  /____\    \  \  /____\ X/ /
+     \ \\\\ \     \    \\ \ \     \    \\ \ \     \    \\ \ \     \  /// /
+          -\-\\    \----\__\-\\    \----\__\-\\    \----\__\-\\    \/
+    - --------\_____\---------\_____\---------\_____\---------\_____\---- -
+
+
+
+
+
+
+
+
+
+              ____    ______ _____   _       ___      _     ___:
+             _\_ (  _( _   /_\ _  )_/(______( _/_____/(_____)  | dVN
+            /  /  \_\ _)__/__  /  _/__ _   \___     /   _   \_ |_____
+          _/   _   \  \     /  _     / \    / /    /\   \    / |    /
+        __\    |   \\_     /_._|    /_.___ /_     /_.\_____ /_     /_ __
+      ((_(.)___|     /_._____|­|______|­­)/­/_______|­­­­­)/­/______(.)_))
+     ­ ­­­­­­­­|_______|­­­ ­  :         ¯                ¯    ­ ­­­­­­­­ ­
+               :                 · A · E · R · O · S · O · L ·
+
+
+
+
+
+
+
+
+
+[O1] ASL-XXXX.TXT T    1OO,OOO kb  __ /_  _ _____ _____   _  ___    _ __. : dVN
+                                   \// / /_\\  _/_\ _  \_/_\/ _/___/_\\ | |____
+                                    /// / / \ _)  / / __/ \ \__   / / \_|___  /
+                                   / / /  _  \\  /  _  \     /   X     /  _/ //
+                                   \ \\\__|   \__\__|   \___/____)\___/___\ _\
+                                   \\ \ _ l____/ __ l____/ _________________\
+                                   X\\_\
+                                      \  aEROSOL!pRESENTS: xxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+
+
+
+
+[O2] ASL-XXXX.TXT T    1OO,OOO kb  ____ ___   ___    .___
+                                   \ ¬// _¬\_/ _/____|_ /  (Aerosol Presents):
+                                   \\//  _  \        ¬/ |______
+                                     /   |   \__     /  |    ¬/ xxxxxxxxxxxxxxx
+                                   _//o. |____/_____/l__    _/
+                                   \_____|dVN==========\____\==================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [o7] respect: sac crew ( superior art creations )
+     \            \/:::/
+      \\___________\::/         congrats on your upcomming 1O year anniversary!
+                    \/
+
+
+
+
+
+
+
+
+
+            ______________                            ______________
+  _ ________\            (·· superior art creations ··)            /________ _
+    _____   \\                                                    //
+    \  _/________     ____.__________ _______ _____ ______ ______ _______
+ ____\_       __/____|    |  _      /  _    / _    )__   //   _  \  _    )__
+ \__          \     /|    |  /     /   /  _/_  _     /   /    /   \  _     /
+   /_________ /___________|   ____/_________/__/     \___\________/__/     \
+            \/            |____\  ___         /__  ___\             /_______\
+.                 \\    __________\_ \_ _____ __|  )_____   //                .
+: ::..        dVN  \\   \     _     __/ _    )__    ____/  //  r81       ..:: :
+· ::::::...         \\  /_    \     \    _     /     \    //        ...:::::: ·
+    ···::::::::....  \\   \________ /____/     \______\  //  ....:::::::···
+  ___      ·········· \\          \/    /_  ____\       // ··········
+_/ _/_________ _____  ._________ ____ ___|  )_____ ___ _____ .________ ___
+\  \       __/ _    )_|   _    /   _  \__    ____/   //  _  \|   _   _/ _/_____
+ \_        \    _     /   /  _/_   /    /     \|     /   /   \   /  _\_
+  /_______ /____/     \________/_____.__\______\_____\_______/__/   \_________/
+         \/    /_______\                                       /_______\
+                            \\____________________//
+  _ _________________________\                    /_________________________ _
+
+
+
+
+
+
+
+
+
+[O1] SACXX.ZIP  A   1O,OOO,OOO kb  .         _\___   superior art creations!
+                                   .     ______)__)     ______ ______
+                                   :___ (___(______  __(__(__(( )____)__ _ dVN
+                                   (__(_______)____)(____(____))__)_____)))__ _
+                                   |
+                                   | sac presents: xxxxxxxxxxxxxxxxxxxxxxxxx
+                                   l__          ___  xxxxxxxxxxxxxxxxxxxxx
+                                     [xx.xx.2oo4] (_______ ___  __    _
+
+
+
+
+
+
+
+
+
+[O2] SACXX.ZIP  A   1O,OOO,OOO kb  .------- ___ --- _____ -- _____ ----------.
+                                   :S.A.C._/ _/_____\_   \___\   // PRESENTS :
+                                   :  ____\__   _ / _/  _ / ____/___  ART    :
+                                   : \\     /   //  \   //  \ _    /_  PACK  :
+                                   : \\\_  /____/___/   /____\\    \\\\ #xx  :
+                                   `----/____/dVN--/____\----/______\--------'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [o8] respect: mortimer twang (mt + divine stylers )
+     \            \/:::/
+      \\___________\::/   my favorite ami crew, and one of my favorite artists!
+                    \/
+
+
+
+
+
+
+
+
+
+               .                             .
+          __  /|       .       /\            |\  __           .  .
+          \/ / | /\    |\______/\______ ____ | \ \/   _\_____/|  |\______
+    ____/\  // l_/\____l _    /   _   /_\__(_l \\  /\___\  _  l__l _    /
+    \     \/    /  _  \  |  _/__  |   \     \    \/     / _)___/_  |  _/__
+     \\   \/   /   |  \\ _     /--|   \\_   \\   \/   //  |     /  _     /
+    ._\   ||___\______ /_|   //_. |____ /___ /___||   /_._    //_._|   //_.
+- --|_____|:---------\/--|______|-:---\/---\/----:|_____|(_______|-|______|-- -
+          :              :   .                  . :                :
+                /\           |\ dVN      .      |\   .
+                /\______ ___.| \    _\__/|  ___ | \  |\__/_
+              _/   _   /_\  || \\_____\_ l__\  \l \\_l _/______
+              \ _  |   \    /\    /    |  /     \   \_ \_     /
+              \\/--|   \\_       //       \\  \      /  |   //
+                   |____ /__/\  _\ ______._\__|\___ //__    /_.
+         - --------:---\/-----\/--\/----------:---\/---(______|--- -
+
+
+
+
+
+
+
+
+
+         __.___  :______/_ ______ ____
+_ _______) |__(__|     /_(_\_    )_ _/_____ _ < d i v i n e ! s t y l e r s >
+\ \    _   |  |  |    /  |  !     /_)     / / .............................
+\\_\   ) __|__|  |   /|__|__|    /__     /_//                            :::
+   /_____)    \  |  /dVN    |____\ (_____\                               :::
+     ...       \ ¯ /        :               :___                         :::
+     :::        \_/      ____  .___/\__  __/|   ) ____     ________ ____ :::
+     :::            _ ___\ _/__|___   /--)  |_  |_) _/_____) _    /_\ _/_____ _
+     :::            \ \  /__     /   /___    /  |_ _)     /  (  _/_ /__     / /
+     ·::........... \\_\__ (    /___(_  (  _/___ /__     /___/    /__ (    /_//
+                         (______\    /_____)   \/  (_____\  (_____\ (______\
+
+
+
+
+
+
+
+
+
+                                     .__________
+                               ___   |       __/
+                   ____________\_//__|       \_// ______________
+                   \________ \_____  |      _/____\_    \_  ___/
+                    /      /  /   /  |     /   /   /     / __)______  _________
+                   /      /  /   /   |    /   /   /     /  /     __///_______ /
+_______________  _/      /  /   X    |  _/   /   /     /  /      /          //
+\ _____________\\\_________/____\\   |  \___/___/     /__________\         //
+ \\                               \     /      /______\                   //
+  \\                               \   /                                 //
+   \\______ _____ _____/\___________\_/_______ __ _______ _ _____ ______//
+    \ ______\  _/______  __________ / \_  ___/_ __\_    /___\  _/_____ _//
+     \/ _____\__     /   /      /__/   / __)____\  _  _/_____\__     /
+       \\_     /    /   /      /  /   /  /      /  /      /    /    / dVN
+         /    /   _/   /     _/  /   /  /      /  /      /    /    /_  ____
+    _____\________\____\______ _/____\_________\-/_______\__________///__ /
+    \ _________________________\                                        //
+     \\                           »  d I V I N E ! S T Y L E R s  «    //
+      \\______________________________________________________________//
+      \\_____________________________________________________________ /
+                                                                    \/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [o9] request: dioxide ( rewind )
+     \            \/:::/
+      \\___________\::/     a prettier remix he'll probably never use.. <sigh>
+                    \/
+
+
+
+
+
+
+
+
+
+      __     _________  _____    ___/\___        ___    ______ _________/\\
+  __ /\_\ __\\_      ///  __/___\\_     /__    _\\_/___\\_    \\__     _  \_
+ \\// / //\   /    _/___ _)       /    /  /____(    /    /      /      /   /
+   / / // /   _        / \       /    /  /    \    /    /    __/      /   /__
+  / / // /____/   )o. /__________\_____    .o( \__/____/     \____________\\//
+  \/_// /    /________\          /   /\________/ /    /_______\   ____    /
+     / /    /         /         /   / / _____ / /    /        / //\___\  /
+ dVN \/____/         /_________/___/ / /\____X_/____/        /__/ /   /_/ r81
+          /__________\             \/_/ /    /     /________/  / /   /
+ ------ --   -  -------  -     - ----/ /    /-- -    -  -- ---\\/___/---- -
+ << REWIND! vx.xxa - dIOXIDe >>     \\/____/    ..Now Loading!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [1o] request: ansichrist ( safari sessions )
+     \            \/:::/
+      \\___________\::/              your skills are incredibly deep my friend!
+                    \/
+
+
+
+
+
+
+
+
+
+                          _ _________
+                                    //\___________
+                                   //            /           _ ______ _
+                  ¨   ¨¨   ¨¨¨¨¨   /   ¨  ___/_ //_                  \\\__
+     ____ _          ____    _____ _/\____) /_____  ______  ___/_        /
+    /               _) _/____\ _  )\   ____/_\ _  )_\ _   )_)_/__  ¨¨   //
+   /  ¨¨¨¨¨ ¨ _\____\___   _   _   _   _)  (   _   _  _    /   _/ _ ___/___
+  //_________ _ \  _   |   |   |   |   |   |   |   |  |  _/_   |          /
+  \          \\\\\ |   ¦  _|   |  _|   |___|   |  _|  |    |  _|___/_   //
+   \              \|_  :  \__  |  \__  | ____  |  \__ |    __ \_  /     /___
+\ \\\__ ¨¨¨¨  ¨    |(______|(__|   |(__| / |(__|   |(_|    |(__| /          \
+      (___ _   dVN :  _ __ :   |_______ /  :   |______|________ ///___¨ ¨¨  /
+                   .     / .   :      \//      :      :       \/     /     /
+          ____   ______ //____ .  ____   ___/_ . _     _____  ____  //___ /// /
+         _) _/___)  __/___) _/____) _/___)_/_____)\____\_   )_) _/____  \/
+   _\____\___   _   _)  _____   _____   _   _   _   _   7   |\___   _/
+     \  _   |   |   |   7   |   7   |   |   |   |   |   |   _   |   |
+    \\\ |   ¦  _|   ¦  _|   ¦  _|   ¦  _|  _|   ¦  _|   |  _|   ¦  _|___/_
+       \|_  :  \__  :  \__  :  \__  :  \__ \__  :  \__  |  \__  :  \_  /
+   ____ |(______|(______|(______|(______|(__|(______|(__|   |(______| /
+///     :     _ __      :       |       :   |       :   |___________ /// r81
+ \\  ¨  .        /      .   ¨¨¨ |  ¨    .   : ¨     .   |     __ _ \/
+   \\         ////_____________ : _________ . __ /      :     \      _ ___
+    \ ___ _    \\               .              //______ . ____\\          \
+     \/          \ ¨ ¨¨                        \\             //          /
+                _\\__                    ¨ ¨¨¨  \\           //   ¨  ¨¨¨ /
+                    (____________________________\\\        //_________ /// /
+                                                   \ ______/          \/
+                                                    \/
+
+
+
+
+
+
+
+
+
+                                        _____________/_
+                                   _____)           /
+                                  _\               /_ _
+                             _  _(   _       _     _////.
+              ___           / \\\_    \____ / \ ___)  ______    _ ____
+            _( _/________  / _ \ |    ___/ / _ \   ___\_    )_ (((___//
+        ____\___         )/  /  \|     |  /  /  \ (   \|     / ________
+        \     \|         /   _   \     |//   _   \|    _   _/_(__     /
+     _ /\\\    |        /    |    \    |/    |    \    |       /     //\ _
+    / // \\    :      _//    |     \  _/     |     \   |       \    // \\ \
+ _.\\_\__//____       \______|      \_\______|     \\__|       \\___\\__/_//._
+(         \   \________\     |_______/ \     |_______/ |_________/  /         )
+| ::::::: \\___\       /\____|      /  |\____|      /__|        /_ // ::::::: |
+| :¦¦¦¦¦::.     \____ /     _|_____/   |    _|____ /  _|______ / \/  ::¦¦¦¦¦: |
+| :¦¦¦¦¦¦::::::.    \/ .::.  :  _|     | :.  :   \/    :     \/ .  .::¦¦¦¦¦¦: |
+| :::::::¦¦¦¦¦:::::.  .::::.   \\_     | ::.   ..  .:.   .::.  .:::::::::::¦: |
+| · ___ :::::::::::::::· ___ ::. |     | :¦:::::::::::::::::::::::::· ___ ::: |
+| _( _/_____ ______ :: _( _/_____|  ___| :::· ___  ______ :: _____  _( _/_____|
+|_\___     _(  ___/____\___      )_( _/|____ (__/_( __  /_ __\_   )_\___      )
+    \|        __)        \|     __\___ ¯   _)____   |/    (  \|       \|
+_    |        \|    __    |         \|    _)    /   |     ¯   |        |
+\    :    __   |     \    :    __    |   __     ¯   :    __   |   __   :      _
+/____      \   :     /____      \    :   /     __        /    |  _/____       /
+\   \______/_________\   \______/____    \_____/________/_____|  \    \______/|
+\\___\     \          \___\     \   \_____\    \        \     |___\ ___\     \\
+|     \__ /\\_______ /\    \__ /\\___\     \  /\\_____ /\\____|    \/   \__ /\\
+| :::.  \/  +      \/  + :.  \/  +    \__ /\\/  +    \/  +   _|__ /\  :.  \/  +
+| :¦:::.  .. .::::.  .. .:::.  . |     |\/  + .. .::.  .. ..  : \/  + :::.  . |
+| :::::::::::::¦¦:::::::::¦::::: |     |  :. .:::::::::::::::. .  :. .::::::: |
+|  _ · __ · _ - -----------------|     |----------------------- - _ · __ · _  |
+| _\\ /  \ //_                   |     |                         _\\ /  \ //_ |
+l-\\\\\ /////((+  S  A  F  A  R  I  +  S  E  S  S  I  O  N  S  +))\\\\\ /////-l
+:    ¯_\/_¯   ¯                  |     |                        ¯   ¯_\/_¯    :
+. dVN \\// - --------------------|     |-------------------------- - \\// r81 .
+       \/                        |_____|                              \/
+       \/                        \\    |                              \/
+                                .\\\___|_
+                                       :
+
+
+
+
+
+
+
+
+
+                                                        °
+                                                        :
+                                           _            |·
+                                    _ ___///__ _  __   /|:
+                                   ///:::// \______\  / ||  ___  _
+                     /       / /////::··//  / /:::/\\// || /  /\//\_ __ _ _
+                                 /::·  //  / /:::/  \___||/  /__X \\\\ \\\ \°
+                              _ /:·   //  / /:: /   /  /\/  // // ////_/// ///.
+            _               ////·  _ //  / /:· /   /  /:/  // // /·/_  _¯_
+           //__  _   ° _ __ ///· °////  / /:  /   / °/:/ /// // /  \\ //\\\ _
+         //   _///  / /// //_/______/  / /·  //  /  /:/  // /· /   \\ \\/////.
+         \\ __\_\\ \\ \\\_\\\\\    \ // /·  /   /  /:/  // /  / /\ \\\/////
+        .\\\\    .\ _   \ \ ¯\\·    \/_/___/___/__/_/__//_/__///_/.   ///· dVN
+            ¯    ___\\\__ ____\______\\\\__\\__\__\_\\_\\_\_\______  · \_  r81
+           · _ _(  ___ _ \\  _ ______  ______ _ _ ______ _ ___ _  /  __ /_
+          __\\\\ _( _///___ _\\\_    )_\ _  .)))_\\_    )\\\_ )))_ .\)_) )))_°
+    ° __ _\  _ __\___      )/  )/  °_/ _ (______/ )/  °_/ _)/    /\_____ _  /
+    .\)_))_((((_   )/·   °_/ __¯  ((   ( ___)_/ __¯  ((  \\_  °_/__\_  ///\ \\
+          /_  _/  _//   ((   )/   _/    X   \   )/   _/ °  / ((   /\/  //  \ \
+A REMORSE  \_ \_° \     _/  _/   \\_°  /·\ _/  _/   \\_  _/     _/ /· ·/ ° / /.
+PRODUCTION  (_ (____  .\\___\_°   ·(___\ \\\___\_°   ·(__\_°  .\\_//  _\  / (_
+©2OO4     · _/ _\  (_____(___(______\_ \\_ )(___(______\  (______(____\ \//  /_
+     _°  .\\\_\\\\__\_   \\_  \_    \(___(/ .\_  \_    \\__\_    \\__ \\_ _ ° /
+   __\\\____   .\   .(_____/___(______/   __  /___(______/ .(______/(___//// /_
+ _(  ___ _ / _____ _     ___ _    ___ _ .\)_)  _ _____  _ ____ _   ___ _ /. ///
+_\ _( _///___\_ _ )))_ _( _///_ _( _///_ ____ _\\\    )_\\\_  )))_( _///___ _ \
+ __\___      )/ )____/_\___    )\___    )_  ///  __  °_/  )/ ° __\___     ///\
+(_   )/·   °_/ ___)____  )/   __  )/   ° /  //   )/ ((   ·/  ((_   )/·    //  \
+_/  _//   ((   \(   _/  _/   _/  _/     /  ·/ · _/   /  //    _/  _//    ·/ ° /
+\_° \     _/ °  \_ \\_° \   \\_  \    ·/ ° _\  \\  _/  _/    \\_° \     _/   /
+ (____  .\\____  /  ·(____   ·(____  ((____\_·   .\\___\_°    ·(____    \\ ·//
+° \  (_____(  (_______\  (_____\  (_____\_ \(_______\_ \(_______\  (_____\\///
+\\_\__\_   \\__\_     \\__\_   \\__\_   \(___\_     \(___\      \\__\_   \\_  _
+ ·(____(_____/__(_______/__(_____/__(_____/___(_______/___\_______/__(_____////
+      7_______)7_________)7_______)7_______) 7_________):7_________)7_______¯/.
+      /      /:/        / /       \/      /  /        /::/        /:/      /__
+/ ////      /:///      / /        /      /  /        //:/ °      /:/    _ // //
+    /\ °    \:\        \ \       /\      \ /\        \¯¯\        \:\  .\\\\\_\\
+    \:\ \    \:\       _\ \ °    \:\      X::\ _      \ \\\\ \    \:\______\
+     \:\     \\:\    .\\\\ \_\    \:\      \::\\\°     \  \________\/      / _
+  \ \\\:\______\:\________\ \\\\   \:\______\::\________\ /        X_____// //
+       \/______/\/________/  \\\    \/______X::/        //_______ /.     /////.
+                         \    \·\        \ / \/_______ /¯       // ·::::.¯  ¯
+            ····::::::::: \ °//  \________\\ _____ _ /·_ ° ::. ·//. ::::::··· ·
+                   ······· \_/\ //::::::::/ \\  _////////. ····       ·: _
+                             ||\/:::::::://.// /\_\\.\\ _ _ __ _ °   _ __\\\\·
+                             :| ¯¯¯¯¯¯¯¯¯   /_/\/_// _ \\\\\\ \\\ \ \\\    \\
+                             .|               \/_//////·/////_/// /· ///__ //
+                              :                         /.¯          ¯   //
+                              o                                          ¯
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Sometimes I feel drained of all my creativity, like I can't possibly
+
+    go on drawing.  Usually I just turn off the computer at this point,
+
+  but occasionally I like to look back at our packs and find strength in how
+
+   far we've all come in developing our own styles.  It was at a time such
+
+     as this that I found this gem in an old Remorse pack.  Somehow I
+
+       had missed seeing it before, but when I did finially find it
+
+           it came when I needed it most.
+
+   ____                                        .xXXXXXXx.  _
+ _(___/_.                            _ _   _ .dXXXXXXXXXXb.\\\  \
+|       | ____________________________ /_/// XXXXXXXXXXXXXX _____________
+|      _|__.   .........___________________  XXX""_""_""XXX   _         /.
+|     .\   |  ::::: :::\      _ __    _   /  YXX-(\)(\)-XX7  (_)         |
+|_____|    |  ::::: ::::\       //  ._\__/_   Y7   /_   7Y  O __         |_
+  .wH0|    |__::::: :::::\      /   |     /.   (     _, )  o (__)        _//
+  |   |____     ::: ::::: \    /|____      |    '----\\'_.o              |
+ _|     ___\__..::: :::::  \  / .____\_____|_ _ ____  \(_) ____      ____|
+\\_    /__/\  ::::: :::::   \/__|_  (.)   __///.)   |____ (___/ _/\ |   /|
+  |    \__\/  ::::: :::::  |    _/   |    _)   |    |   (._____.)  \)    :
+  |           '::::.::::'  :    |    |    |    |    |    |     |    \    .
+  |     I                  .    |    |    |    |    |    |     |    \\
+  |     L O V E                 |    |    |    |    |    |     |    |
+  |     D E V I N       _ _     |   _|    |   _|    |    |_    |_   |     _ _
+  |                   \ \\\_    |   \_    |   \_    |    _/    _/   |    _/// /
+  |     .dXXXxXXXb.             |    |    |    |    |    |     |    |
+  |     XXXXXX$77XX             |    |    |    |    |    |     |    |
+  |_    YXXXX$77XX7        .    |    |    |    |    |    |     |    |    .
+   /_____YXXX$7XX7______ _ |    |    |    |    |_   |   _|     |    |    |
+          YXXXXX7          |     ____|____     |/___  __\______|    |____|
+           YXXX7           |____/         \____|    \/         |____|
+            YX7
+             V
+                             Thanks Whodini, that ascii is awesome!
+
+                 It's this kind of respect and love that keeps me coming back.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [11] respect: lord scarlet ( sixteencolors.net )
+     \            \/:::/
+      \\___________\::/         nice to see someone keeping ansi history alive.
+                    \/
+
+
+
+
+
+
+
+
+
+      __:
+     /  |_.
+  __/   | |______  ______
+ \\__   |  _     /\_____ )_           >> OMFG! IRONY! <<
+    (   |  (    /      /  / .___                                   ___/\___
+    |   |  |  _/    __/__/__|   )_____________ _____   _____/\_____\_   __//
+    |   |  |  \     \   _   /   |_  _   /  __/_\  _//  \_  _  \ _  _/_  |
+    |   |  |   \    \\_____/|____//____/|__|______\ _()_/__|   \_____/__| __
+    |   |  |    \                                          |____\          /
+    |   |  |    \\_________________________ _______________________(dVN)__//x._
+    |   |  :        /                     //                                  |
+    |   |  .       /                      /                                   |
+    |   |         /  SiXTEENCOLORS.NET   +   The new home for ANSI Artwork!   |
+    |_  |       _/                      /                                    _|
+     /--|------\\ _____________________//____________________________________\
+    +   :        \/                                                           +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [12] request: haliphax ( cotm board design )
+     \            \/:::/
+      \\___________\::/            this design is for haliphax's exclusive use!
+                    \/
+
+
+
+
+
+
+
+
+
+         _____
+<CotM!>\\\_  /   You've connected to ...
+          / /       __                           _ __ ____________ _
+ _\_______ //x._____\/_________ ____ ______ _   /// //  ____
+  _\    _/________________  ____)  /___ ________________)  /___ ____________
+ /     /  _  \   _   _/ _/__\__     __/__ _   \_  _ \__     __/__ _  \   _  \__
+/     /_  \   \  \  _\__      /    /  __/ /    /  /   /    /   _/ \   \  \    /
+\______/______/___\ \_________\____\__\   ____/_____._\____\___\______/___\   \
+___    ___ _  ____/____\  ____ ____   /____\    _  __ ______              /__
+\  / / ___ __(  _/__  ____)  /___ /_ _____  _ __________  \//_______ _______)
+ \/ / /  _ \_    __/  \__     __/_  \_ _  \ \_\   _  _  \____\_  _  \__   _   /
+_/ / /   \   \   \  __  /    /   /   / / _/_ //   /  /   /   _/  \    /   /  /
+\ /\ \_______/____\ \/ /_____\__/   /______///___/--/____\___\____\   \______\
+ Y  \___ _          __         /____\      /                      /____\
+ :    /_____________\/___________________//x._____________________________(dVN)
+ .                  \/
+
+ @  ... Constipation of the Mind! · Remorse USHQ! · System Operator: Haliphax
+
+
+
+
+
+
+
+
+
+  _\______    ______      ____/_     _\______    ____   ____   ________
+    \  _  )___\  _  )____(  _/______   \    /   _\___)_(  _/___\___   /______/_
+   _/  _     _/  _     _/-\_       /  _/  _/----/    _/-\_      _/  ________/_
+ \\\__ /     \__ /     \__ /     _/ \\\__ \    \__   \__ /     _\__ /       _/
+.----\_______/-\_______/-\_______\--dVN-\_______/\___/-\_______\--\_________\-.
+|                     cONSTIPATION^oF^tHE^MIND^bBS^lIST!                      |
+|-----------------------------------------------------------------------------|
+(  BBS Name            SysOp         Affiliations       Telnet IP Address     )
+|-----------------------------------------------------------------------------|
+|                                                                             |
+|  xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxx.xxx.xxx.xxx:xxxx  |
+|  xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxx.xxx.xxx.xxx:xxxx  |
+|  xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxx.xxx.xxx.xxx:xxxx  |
+|                                                                             |
+`------------------------------------------------------------------------\\---'
+
+
+
+
+
+
+
+
+
+     __/\____         _________  _____  ____  ___________/\__________       _
+ ____\_     /\___/\___\ ___ ___/\_ ___/\_ __/\____ ____    __  _____/\____/\\
+ \_   /   _/_ \_     /_\/_  \    /\\    /\\  ____/__  /    /\/\__  _\_\_    \_
+_ /  _      /\//    /   _/\ /   /  /   /  / _)     /\/    / /   /\/    /     /\
+//   /     /  X    /|   \_//   /_ /   /_ /  \    _/ /    / /   / /    /     /
+/   /     /  /___________\/_____//_____//________\  \___/ /___/ /____/     /
+\_________\  \            \     \\     \\         \  X  \ \   \ \   /______\  /
+ \    _ __ \  X____________\_____\\_____\\_________\/:\__\/\___\/\__\ _ __  \/
+  \___\ ____\/::::::::::::::::::::::::::::::::::::::::::::::::::::dVN\__ /___\
+ _ ____\:::::: :     cONSTIPATION^oF^tHE^mIND^bULLETINS^mENU!      : :::/____ _
+
+
+
+
+
+
+
+
+
+                                                                             .
+ .          __/\                                                 _/\________
+           _\___)_ ___/\ _/\   ____/\   _/\____    ____/\  ____/\\    _____//.
+ . __/\___.\     /_\_   \\__)__\__   \_ \  ___/____\__   \_\__   \_  __|  .  .
+ . \      |/    /  |/   /    /  |/    ///  |/    /  |/   /  |/    /   \ .:·:.·
+ :.\\_    /   _/\______/|____\__/    /::\___    /\______/\__/    /_____\ dVN:·
+.----( _______\----------------/_____\-----\___/-----------/_____\------------.
+|:::::\/            cONSTIPATION^oF^tHE^mIND^cONFERENCE^mENU!            :::::|
++-----------------------------------------------------------------------------+
+|.                                                                           .|
+| .      [ 1 ] xxxxxxxxxxxxxxxxxxxx         [ 2 ] xxxxxxxxxxxxxxxxxxxx      . |
+|.       [ 3 ] xxxxxxxxxxxxxxxxxxxx         [ 4 ] xxxxxxxxxxxxxxxxxxxx       .|
+|.·      [ 5 ] xxxxxxxxxxxxxxxxxxxx         [ 6 ] xxxxxxxxxxxxxxxxxxxx      ·.|
+|:·      [ 7 ] xxxxxxxxxxxxxxxxxxxx         [ 8 ] xxxxxxxxxxxxxxxxxxxx      ·:|
+|::.. .                                                                 . ..::|
+`------------------------------------------------------------------------\\---'
+
+
+
+
+
+
+
+
+
+                                          _
+                                          /
+                   _______    ___________/|___    _________
+              ..   \  ___/___(  _    \__  ___/____\  _  _  \__
+           .:::::· /  /      /  /      /  /      /   /  /    /...
+          ·:::·  _/  /      /  /      /  /      /   /  /    / ···::.
+         · ::   \\___     _/\__      /___     _/___/ _/   _/ dVN ·::·
+         . ·. .-----\_____\---\_____/---\_____\---\__\____\-----. .: ·
+           ·  |                                                 |  · .
+        · . · |       cONSTIPATION^oF^tHE^mIND^dOORS^mENU!      |  ·  .
+           .  |                                                 | · .
+              |          [ xxxx ] xxxxxxxxxxxxxxxxxxxx        . |  .
+              | .        [ xxxx ] xxxxxxxxxxxxxxxxxxxx          |
+              |          [ xxxx ] xxxxxxxxxxxxxxxxxxxx        . |
+              | .        [ xxxx ] xxxxxxxxxxxxxxxxxxxx        . |
+              | .        [ xxxx ] xxxxxxxxxxxxxxxxxxxx        : |
+              | :·       [ xxxx ] xxxxxxxxxxxxxxxxxxxx       ·: |
+              | ::.. .  ____  .       . .. ... .    .   . ..::: |
+              |_________) _/_____ · _______ · _______ ·  ____ : |
+              |\     _   (  _    \_(  _    \__\ _  _/___(  _/___|_
+              |/     /   /  /      /  /      /  _     \  \_      /
+             _/     /   /  /      /  /      /   /     /   /     /
+            \\___      /\__      /\__      /___/     /\__     _/|
+              `-\_____/---\_____/---\_____/---/______\--\_____\-'
+
+
+
+
+
+
+
+
+
+                            __________ ______   .  .. ...
+                         __(   ______//     /________  :::
+                        \\_   ___/___/     /  _     / ::·
+                 .--------/    \    /     /_  /   _/_ ·: <CotM!>
+                 |:::::: /______\ __\ _____/________//-----------.
+             ____| ________ ________ \/  ____  ______ ···:::::.::|
+        _____\_  )/  _    /_ _     /_____\_  ) \   _/_____ ··::·:|
+       /  _      /   \_____/ /   _/_  _      /--\_       /    ·::|
+     _/   /   ___\ ___\  \ ________/  /   ___\_________ // dVN ·:|
+    \\________/  |\/------\/-----\________/-----------\/---------|
+                 | >> Which File Area Would You Like To View? << |
+                 |-----------------------------------------------|
+                 |                                               |
+                 |.         [ X ]  xxxxxxxxxxxxxxxxxxxx         .|
+                 |          [ X ]  xxxxxxxxxxxxxxxxxxxx          |
+                 |.         [ X ]  xxxxxxxxxxxxxxxxxxxx         .|
+                 |.         [ X ]  xxxxxxxxxxxxxxxxxxxx         .|
+                 |:·        [ X ]  xxxxxxxxxxxxxxxxxxxx        ·:|
+                 |::.. .                                   . ..::|
+                 `------------------------------------------\\---'
+
+
+
+
+
+
+
+
+
+    ___/\_   ________ ____/\___   ___/_      ___  ______/\___ ___/\_____/_
+  \\\_   /___\_ \  _/_\__  ___//// _/________\_ \/  /  /_   /_\_   \  _/____
+:___ /  /     /_/\_     /  /   _/  \    /     / /  /  /   _/_  _  _/\_     ///
+|  _/  /____.__\ ______/___\ \\\______ /____.___\ /  /____  /__/  \ ______/   )
+|_ \____        \/                 __\/__________/______ /_/_______\/__ _ dVN_|
+ /_____( lAST^fEW^cALLERS^tO^cOTM! )___________________\/____________________\
+
+
+
+
+
+
+
+
+
+   _/\  O        <CotM!>       o         _/\  O               o             _
+ ((_) \  /\ o      __  ____ ·   __O____((_) \  /\ o_____   ·   __O____/___((_)
+  /  \ \/  \______(_ \\\___)___(_  _  / /  \ \/  \(   _/______(_  _  /   /____
+ /    \  /  \ . _     \     /   / (_)/ /    \  /  \ ·_)    /   / (_)/   /|   _)
+(______\/    \_ \  __._)___(___/    /_(______\/    \_\  __(___/    /_________\
+ _____ /______/____) ________ /______) _____ /______/___/___ /______) __dVN___.
+(                                                                             |
+| [ X ] xxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxx |
+| [ X ] xxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxx |
+| [ X ] xxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxx |
+| [ X ] xxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxx |
+| [ X ] xxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxx |
+| [ X ] xxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxx |
+| [ X ] xxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxxx [ X ] xxxxxxxxxxxxxxxxxx |
+|                                                                             |
++---- -               cONSTIPATION^oF^tHE^mIND^mAIN^mENU!               - ----+
+|                                                                             |
+| [ XX ] xxxxxxxxxxxxxxxxx [ XXX ] xxxxxxxxxxxxxxxxx [ XXXX ] xxxxxxxxxxxxxxx |
+| [ XX ] xxxxxxxxxxxxxxxxx [ XXX ] xxxxxxxxxxxxxxxxx [ XXXX ] xxxxxxxxxxxxxxx |
+| [ XX ] xxxxxxxxxxxxxxxxx [ XXX ] xxxxxxxxxxxxxxxxx [ XXXX ] xxxxxxxxxxxxxxx |
+| [ XX ] xxxxxxxxxxxxxxxxx [ XXX ] xxxxxxxxxxxxxxxxx [ XXXX ] xxxxxxxxxxxxxxx |
+|   ___________________________                 ______________________________)
+l____\                        (· REMORSE USHQ! ·)
+
+
+
+
+
+
+
+
+
+   _\__  _____ _ __  ___ _   _.oOØOo._  ___   _  _.oOØØOo.__ __   __  <CotM!> ·
+ ____)/ /  __/___)/// _____    _____       ___ _____¨"¨______)//o  _____      :
+ \    \//  \  ___/_/__\  _/____\  _/_______\_ \\  _/___\  ___/_____\  _/____/_:
+  \   \/   / _/_    / /_     / /_     /     _  Y_ \_   / _/_     / /_      /  :
+o\\___/   /___ /   /__ /    /__ /    /_     \ __/  /  /___ /    /__ /     /   :
+   "-\_____\ "-\____\"-\_____\"-\_____\_____/-" "-/    / "-\_____\"-\______\\o:
+ dVN         __       __       __             _  //o  /_                      :
+- ---  -  ¨ ¨"""°°¤OOØØØØØØØØØØØØØOO¤°°"""¨ ¨   /______\-----------------\\---:
+
+
+
+
+
+
+
+
+
+                             /\_____                                       ·  ·
+    /\____________________/\/      /__ _______/\______/\_/\______ _/\___  · . .
+· _/   _   \_   _   \_ _    \     /_\_)\_   _   \_ _    \   _   /_\   _/____ ·.
+.\\    /    /   /    / /   _/_   /_     /   /    / /   _/_  \____/-\__     /.:·
+:::\______ /___/    /_______ /___ /___ /___/    /_______ /___\ (_________ //:::
+.--------\/---/_____\------\/---\/---\/---/_____\------\/---------------\/----.
+|:::::::              cONSTIPATION^oF^tHE^mIND^oNELINERS!              ::::dVN|
++-----------------------------------------------------------------------------+
+|                                                                             |
+| bLAH^bLAH^bLAH^bLAH^bLAH^bLAH^bLAH^bLAH^bLAH^bLAH^bLAH^bLAH^bLA - anonymous |
+|                                                                             |
+`------------------------------------------------------------------------\\---'
+
+
+
+
+
+
+
+
+
+                                                     __
+              cONSTIPATION^oF^tHE^mIND!      /\______\/_
+              /\____     /\______________/\_(    ______/  /\______
+             / ____/____/   _   \_    _    \_   __/_/\___/    _   \_
+           _/  \       \    /    /    /     /    \     _/     /    /
+          \\____        \_______/____/     /______\____\________  //
+          .----\_________/----------/______\--\_________________ /--.
+          |:::::::::::::: >> User Configuration << ::::::::::::\/dVN|
+          +---------------------------------------------------------+
+          |·                                                       ·|
+          |          [ 1 ] Alias: Hiro Protagonist                  |
+          |.         [ 2 ] Email: hiro@acid.org                    .|
+          |          [ 3 ] Affiliations: ACiD/r81                   |
+          |.         [ 4 ] Location: Middlanowhere, Canada         .|
+          |.         [ 5 ] Password: XXXXXXXXXX                    .|
+          |:·        [ 6 ] Menu Set: Devin/r81                    ·:|
+          |::.       [ 7 ] Emulation: ANSI                       .::|
+          |::.·      [ 8 ] Default Protocol: ZModem             ·.::|
+          |:.·::     [ 9 ] Message Editor: Full Screen         ::·.:|
+          |::::.:.. .                                     . ..:.::::|
+          `----------------------------------------------------\\---'
+
+
+
+
+
+
+
+
+
+                                             _________ _               :
+_________     _______     ___________________\       /_/  _______   ___|\______
+\__     /_____\    _/_____\  _      /   _    /_     /___  \    _/___\___   ___/
+  /    /|    __\_         /  /    _/_   \_____/    /_   \--\_         /    /
+ /___________\___________/__________/____\ /________/____\___________/_____\dVN
+.-----------------------------------------------------------------------------.
+|:::::::::            cONSTIPATION^oF^tHE^MIND^uSER^lIST!            :::::::::|
+|-----------------------------------------------------------------------------|
+(     User              Location          Affiliations      Last On           )
+|-----------------------------------------------------------------------------|
+|                                                                             |
+|     xxxxxxxxxxxxxxx   xxxxxxxxxxxxxxx   xxxxxxxxxxxxxxx   xx/xx/xxxx        |
+|                                                                             |
+`------------------------------------------------------------------------\\---'
+
+
+
+
+
+
+
+
+
+         ____/\                                                 o
+         \    \\ /\ /\______:._____/\_____  ,, _____         O     .
+          \     \/\/     /  ||   _//  _   \_')_\  _/____    _  dVN
+        .--\            /   \\   \    /    /-\  \_     /--((_)--------.
+        |  \\____/\    /____||____\______ /  /_______ /______________ |
+        |          \\ / ______          \//         \/_\   _____    / |
+       /\___________\/\/     /__ _______/\___/\______ \ ___\   /  //  |
+     _//  _   \_   _  \\_   /_\_)\_   _  \\_  _     /  \/     /  _/ . |
+     \    /    /   /    /  /_     /   /    /  /   _/_ ·..::: /___\ :::|:.
+     \\______ /___/    /____/___ /___/    /________ // :::·  ____ .:::|::.
+     . .+---\/---/_____\-------\/---/_____\-------\/-------((___/-----+::.
+     ·::|           cONSTIPATION^oF^tHE^mIND - wHOS^oNLINE?           |::·
+      .:|-------------------------------------------------------------|:.
+     · :(  Node  User                  Current Action  Online  Chat?  ): ·
+     . ·|-------------------------------------------------------------|· .
+       .|                                                             |.
+      · |   xx   xxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxx  xx:xx   xxx    | ·
+       .|   xx   xxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxx  xx:xx   xxx    |.
+     .  |   xx   xxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxx  xx:xx   xxx    |  .
+        |                                                             |
+       ·`--------------------------------------------------------\\---'·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [13] request: nightrain ( netpimpz )
+     \            \/:::/
+      \\___________\::/        pimpin ain't easy, but you do it well my friend.
+                    \/
+
+
+
+
+
+
+
+
+
+                        ._____             __________ _ ______  __    _
+     __________     ____|    /______      \\/        / \
+ ____\_       /_____\____     _____/________._____  /   \  ._____________
+ \    |    __/  ___/____|_    /  _     __/  |     \/     \ |    _       / dVN
+__\   |    \    _)       /   /   |     \    |     \/      \|    |     _/_____
+\_____|    /___ |      _/____\    _____/____|_____/        \     _____\__   /_.
+------|   /---\________\----|______\-------------/__________\_____\       _/  |
+      |  //                                                        \          |
+      |_///.____________________________                            \    _____|
+                                       //  ]»»  NETPiMPZ.COM  ««[   \\   /
+                                       /___________________________.\\\_/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [14] respect: zaner ( the yard )
+     \            \/:::/
+      \\___________\::/             one of the prettiest boards I've ever seen!
+                    \/
+
+
+
+
+
+
+
+
+
+    _________________________________________                             ·
+   (                                        /                             :
+ ::|                                       /// / /\_______________________|_
+   |       ( tHEYARD@hUSHMAIL.cOM )       /____ /                         |
+ __|__/\____                             /    //   ·  t H E   y A R D  ·  |
+\\_|_    __/_.     __/\____        _____·__  //    ____   _______         |\___
+   |/    \   |____(_  ____/____    \      /__/_____\_  \__\_    / ________|   /
+   /     /   |    _/  _)       )____\    /   (     _    /  _  _/_(       _   /
+  /    _/    _    \   |       (      \_     _|     |   /   |      \      |  //
+ (_____\_____|     \___       |           __\_______.__\___|      /_________\
+[==|=========|______\=\_______|_________/_/================|________\dVN==|===]
+   |                                   /                                  |
+   |                                  //                                  |
+   `-«< tHE iDEA oF sTYLE iS tHE kEY ·/ aLL fORMS oF rOCKiNG - TY 96O4 >»-'
+                                     /
+                                    ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [15] respect: tinyz ( tinyz + forgot about poland )
+     \            \/:::/
+      \\___________\::/                       we'll always love you big poppaz!
+                    \/
+
+
+
+
+
+
+
+
+
+                                                     __________________:_
+                _____:                   _:_______ __\                 |
+                \    |_____:___     :_____|_     /       ____  +kTS!   |
+               :_\   |_    |__/_:___|_     /    /__:_____\_ /          |
+       _____ |||______/     /   |   |/    /    /   |    ___/____ <MIA> |
+    _:_\             /     /    |   /    /    /|   |    \|   _ /       |
+     |              /    _/|   _|  /    /_:_____   |_    \   |///______|
+     |   ·tINYZ!·  /_____\ :---\__/_______|     ____/    ____|_
+     |_______________|_              _|_________\ _|_____/   :   dVN
+                     :                :            :
+
+
+
+
+
+
+
+
+
+             __________                  ___
+             \ _      /\                 ) /\
+           __/ )_____/__\_____/\  ______/ /__\__  Motherfuckers try to
+          \\   _/_  \  _  \  _  \/ _  \_ ______/\    move their lips but
+           /  /  /  /  /__/  /  /  /  /  )  /\ \ \ nothing comings out
+          /  /  /  /  /  /  /  /  /  /  /  /  \_\/  but a bunch of giberish
+         (___\____/\_/___\_   /\____/\_____\  /
+     ___ \            \_  /  / _            \/ __              _______ _
+     \   \\__________  /_____\ \\____________\  (  RECOGNIZE!  )     ////
+      \         ___ \ __________\ ___                                |
+       \  ___   ) /\\\/           ) /\                               |
+       ___\_ \_/ /_ \_________ __/ /__\__  "My opponent, clearly he  |
+       \   /  / _  \/ _  \   /_\_ ______/\   forgot about Poland."   |
+       / _/  /  /  /  /  / _/  /  )  /\ \ \                          |
+      /  \  /  /  /  /  /  \  /  /  /  \_\/   - George H. W. Bush    |
+     (____._\_____\____/\_____\_____\  /                          :: | :::: :
+      \                              \/   (During the 1st of the     |
+      \\_______________ ____ _________\   ____    2OO4 Presidental   |
+    _______ ___         )  /\             )  /\      Debates)        |_
+    \    ___\_ \_____  /  /__\  __/\_____/  /  \                     |/
+     \   \   /  / _  \/  _\_ X__\_  \  _   /   /                     /
+      \  /  /  /  /  /  / _/  /  /  /  /  /   /  DON'T FORGET       /|
+      ¯ /  /  /  /  /  /  \  /  /  /  /  /   /     ABOUT POLAND!   / |_
+       /  ____\____/___\___._\_/  /______\  /                     /  |/
+      (____\                  /___\       \/                     /   /
+       \     ________________       _______\ _\_________________/   /|
+       \\_____\             /________\         \                \  / :
+            __   dVN                            \________________\/  .
+             \ __________________________________\
+              \/________________________________ /  and motherfuckers still
+                                               \//    forget about Tinyz!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [16] respect: mmc crew ( mimic )
+     \            \/:::/
+      \\___________\::/             respect? i must have been smoking the rock.
+                    \/
+
+
+
+
+
+
+
+
+
+                         _________
+         _________      /________/\          _________
+        /\        \\ _ _\_______ \:\        /________/\
+       /::\        \\//        /\ \:\       \        \:\ _______  ____
+       \:::\        \/        /::\_\/ _   ___\_____ __\/_\     /\/   /\
+        \:::\        \       /::::\____\//    ___ /\   /      /:/___/::\
+       _\\:::\________\     /:___:/    \/    /\  X::\ /      /:_\__ \::/
+          \::/ _______/_ __/:/\  X     /     \ \__\://      /:/   /\_\/
+           \/_/\________\  \:\ \__\   /       \/__///______/:/___/::\
+             /:/        /   \:\/__/_ /________/:/\¯¯\      \:\   \::/
+       MK:OD \/________/_____\/:/\  \\        \:\ \  \      \:\___\//_
+                          _\::::\ \  \\________\/\ \  \\_____\/
+ : ::[X×-----------------\\\\::::\ \  \______\    \ \  \
+                             \::::X \  \     / dVN \ \__\   M i M i C !
+              \     \\  \\\\\ \::/ \ \__\   /_    _\\/__/
+                               \/__\\/__/__////-----------------------×X]:: :
+
+
+
+
+
+
+
+
+
+                         ...................               ..
+                  _     ::                 ::
+                 ///\   ::      _       _  ::              ..
+              ___//  \__::__    /     /\\\ ::  mIMIC aSC²  ..
+              \  + /\   :: /_____/\  /  \\_::__            ::
+           _ __\  /  \  __         \/ /\ + :: /______ _____ : __ _
+                 //   \/  \  ____    /  \  __       __\   / :  ///__ _
+                /          \\\__(_. //   \/  \  ____)  __/_______
+              _/     \/     \     |/          \\\__(_. \        /
+             \\______/       \____l     \/     \     |         /
+                    /      .o\\  \______/       \____l     .o//_
+            _ ___  /___________\   dVN /      .o\\  \ _________//
+                /+                    /___________\ \\/
+               ///\_____::________/\                _    __::____ _
+                /       ::         _\\ /\_________/\\\  /  ::
+                        ::         \ \/             \+\/   ::
+                        ::          +                      ::
+                        ·:.................................:·
+
+
+
+
+
+
+
+
+
+[O1] MIMICXX.ZIP  A    1OO,OOO kb   ___\_ ______  _____ _/___ __/________/_
+                                    \   \/     /__X    \/   /( /_\   ___/
+                                   ._\    /   /( /_\  \    /_|  |_\  \ ______
+                                   |____\/   /_|  |_\  \/______ _____ \/    /_.
+                                   %%dVN/_______ _______\r81%%/_|%%%\_____ ___|
+                                   ))----------|_\-----------------------\/--((
+                                   |                                          |
+                                   |        ·· Mimic Ascii Pack #XX ··        |
+                                   |                                          |
+                                   |     " a/k/a the Remorse farm-team! "     |
+                                   |_                         _              _|
+                                    (---------[ <\\i<\\i< ! />\<ii ]---------)
+                                                              ¯
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [17] boredom: anyone with use ( textmode )
+     \            \/:::/
+      \\___________\::/      at first i was like, wtf? but now i love the term.
+                    \/
+
+
+
+
+
+
+
+
+
+                ..
+                ..
+                ··                                  ..
+                ::     /\   /\__    /\              ..      t e x t m o d e
+    /\          ::   __/\  /   /   /  \_            ::  /\   g r a p h i c s
+  _/  \   __/\_______\   \/   /___/    /___         :: _/\
+__\    \_\\   ________\  /   /____   _____///    /\____\  \______ _/\_____
+\____   __    _) ______\   \/   /    / __  __  _/   __  \______  \__ ____///
+    \    \    \  )     /\   \  /    /__\ \/ /__\___ )/    /  )/    / _) _______
+   \\\    \    \/     /   /  \/   _/   _\  /_     / /    /   /    /  \  )     /
+      \_   \   /    _/   /\   \___\    \ \/ /    X ______\  /   _(    \/     /
+ = ====/____\ ______\  _/==\__ /===\    \==/    /=\/===\ _______\=\   /    _/==
+             \/ .. \ __)     )/     \    \/    /    ..  \/         \ ______\
+         dVN    :: \\/       //_    /_____\   ///   ::     __      \\/
+                ::                      /_ ___\     ::     \/// /
+   .----------- .. --->> WARNING! <<----- \/ ------ :: ----\/--------------.
+ .-:                                                ··                     :-.
+.:X:  This ascii art collection makes extensive use of the extended ascii  :X:.
+`:X:  character set and is best displayed using the xxxxxxxxxxxxxxx font!  :X:'
+ `-:                                                ..                     :-'
+   `----------------------------------------------- :: --------------------'
+                                                    ..
+                                                    ··
+                                                    ..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [18] boredom: anyone ( credits / greets / respect )
+     \            \/:::/
+      \\___________\::/      alter as required, just be sure to include my tag.
+                    \/
+
+
+
+
+
+
+
+
+
+                                                        ___
+  _\____    /\  ___        ____     /\    ___   _\_ ___)) /_         ___/_
+    ) _/____/\__\_ ))____(( __/_____/\____\_ ))_ _\_\__ ___/_____ _(( _/_____
+   /  )      __  (     __  _)      __     _/   //   __  )       /_\__       /
+-((_ /     _ /_ _     _/__ (     _ /_     )   __    /_ /       __   (    _ /---
+:::|_     ///_|_/       /|_     ///_|_       /_|_  (:|_       _/|__     ///_:::
+.---(________\-(________\-(________\-(________\-(___\-(_______\---(________\--.
+| .                                                                           |
+| :  < C > redits for this ascii collection ...                               |
+| .                                                                           |
+|                                                                             |
+| .                                                                           |
+|                                                                          .. |
+|                                                    ___                   .. |
+|       ___        ___        ____       ____    ___)) /_         ___      :: |
+|     (( _/________\_ ))____(( __/_____(( __/____\__ ___/_____ _(( _/_____ :: |
+|    _/  \_     __  (     __  _)      __ _)      __  )       /_\__       / :: |
+·---\\_   (   _ /_ _     _/__ (     _ /_ (     _ /_ /       __   (    _ /-----·
+::::::|_     ///_|_/       /|_     ///_|_     ///_|_       _/|__     ///_::::::
+.------(________\-(________\-(________\-(________\-(_______\---(________\-----.
+| .                                                                           |
+| :  < G > reetings to my friends ...                                         |
+| .                                                                           |
+|                                                                          .. |
+| .                                                                        .. |
+|                                                                          :: |
+|                                      /\                             ___  :: |
+|   ___        ____         ___      __/\______  ____     ____    ___)) /_ :: |
+|  _\_ ))____(( __/_____ _(( _/_____))_       /(( __/____)) _/____\__ ___/____|
+|_/  (     __  _)      /_\__       _  )      __  _)      /  )      /  )       /
+\\_ _     _/__ (     ___   (    _ /(_      _/-|_ (     ___ /      __ /     _ /·
+::|_/       /|_      /_|___    ///_:| _____):::|_      /_|_      /_|_     ///_:
+.--(________\-(_______\---(_______\-¡_(---------(_______\-(_______\-(________\.
+| .                                                                           |
+| :  < R > espect to my favorite artists ...                               .. |
+| .                                                                        .. |
+|                                                                          :: |
+| .                                                                        :: |
+|                                                                          :: |
+|                                                     _ ____ _             :: |
+·---------------------------------------------------\-\\\  ///-/-----(dVN)----·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [19] respect: h7^ds!/trsi ( haciend + h7 )
+     \            \/:::/
+      \\___________\::/             big ups to one of my favorite colly makers!
+                    \/
+
+
+
+
+
+
+
+
+
+                       .________
+ ·     ._____ __ _    _|       /\
+ :   __|     _  _     /_______/ /    H     A     C     I     E     N     D    !
+-|---)  .ÓÖÖÖÖÖÖÖÖÖÒ. \_____ _\//
+ |    .ÓÖÖÖÖ°   ¬Ö _ _______:     _ _____   __   _   _____ __ /\__ _
+ |   ¯ ¯¬°Ö  //\ ° \\\     /|\           ___  ___ ___       \/
+ |    ___ ___/  \. /    · / |\_  _.ÓÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÖÒ. _\      dVN ____/\\
+ |   /\__\\_     |//    :/ _|_/_______ ¬° __ ______ ¬°¯ ______/\ _____\____ \_
+ \ \\\/__///     /    __|__\_  \_  __//___\( \  __//____\_      \\       )/  /\
+ |        /    __     \    )/   /  )     /-\-/ _)    \  )/       /       /  / /
+ |       /     /      /    /   /  /     /   /  \     /  /       /      _/  / /
+ | ____ /     /      /   _/   /  /_    /   /   /    /  /       /       \  / /
+ |/\  (/     /     _/    \   /    (  _/   /  _/   _/  /      _/          / /
+_\\ \ /   _\/|_____\______.__\_______\---/   )   \\__/      \\___________\/// /
+\| \ \      \|     \\ ____________   \\  \__________/_________\        _  \
+ \  \ \      /   _ __\/   __.___ `-----\__\         \          \ ______\\__\
+ \\  \ \\   /|__________ /__|__`_ ¯¬ÖÖÒ    \_________\          \/      \
+ |\\  \ \  / :         \/   |        ¬ÖÖÖÖÒ         / \__________\       \
+ | \\  \ \/                 :          ¬ÖÖÖÖÖÖÖÖÖ° /                      \\
+_¡  \\  \/// /   << VELIKANI.COM >>      ¬ÖÖÖÖÖ°  /   ·· h7'S hACIEND ··   \
+\ ___\\                                    ÖÖÖ   /__________________________\
+\\/   /________________________________ __  Ö    \                          /
+                                            :    \\_______________________ //
+                                            .                            \/
+
+
+
+
+
+
+
+
+
+                    ____/\___________.
+                   _\                | ·· .____________/\____
+                   |      :   : :::: | :: |                 /_
+                   |             ·:: | ii |       :   : :::. |
+                 ____.            :: | ll |              ·:: |
+               ._\   |______       : | XX |               :: |
+               |     |      )      . | XX |                : |
+              _|     |     _|_   .____ XX | :___.____      . |
+             \\_     _    / _/___|_ _/______|   |_ _/___/\_______
+               |     |   _\___    /_)   /   |    /_)   /  _     /
+               |     |   \__ |   / |    \   |   / |    \__|    /_ _____ __
+     __ _____ _|     |     /_____\______\\  ¯ _//_______\ |_____//____//_//
+    \\_\\____\\______|     _|        .    \___\           :  .
+                   . |_____\ dVN     | XX .                  |
+                   |                _| ll |     >> h7! <<    |
+                  _|________________\  :: |_                 |
+                   :                   ..  /_________________|_
+                                                             :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                     /\____________________
+                                                    /                      \\
+              ·                                 e  /                        \
+     ________<    h     o     m     e     l _____ /   s     s     !    >    /\
+    \\_     /__________  ________  ______  /    /_____  ___    ___    ·    /::\
+      /    /    /  _   \/  _ _   \/  _   \/    /  _   \/ _/___/ _/_____ __/:::/
+     /         /   /   /   / /   /   /  _/_   /   /  _/__    /__      /\  \::/
+    /____/    /\______/___/-/___/\________/___\________/______/______/::\ _\/
+    \   /_____\:\     \   \ \   \:\       \    \       \      \      \::/
+  ___\  \      \:\_____\   \ \   \:\_______\    \ ______\      \ _____\/
+ _\   \__\      \/      \___\-\___\/        \____\/      \______\/       dVN
+ \        \______\     /.
+  \                   /:::·
+   \                 /:::/
+   /_ ____________  /:::/   [2o] respect: rmrs crew ( remorse )
+     \            \/:::/
+      \\___________\::/           it's nice to have a home again, thanks peeps.
+                    \/
+
+
+
+
+
+
+
+
+
+                           +
+                       _ _/        ··
+           ReMoRSe!  «<(//_        ..
+      /\             __/X/(__      ::  /\              /\
+   __// \  ^  /\_____\ /    /__/\  ::  /\   __ /\ _____/\ ________ /\____/_
+ _(      \/ \/       _· /\ _     )____/  \ //(/  \/      \/      \/     /______
+\\  _/\_____ /\______) /  \\  /\·  ____/\ \/  _/\_____ /\____/_   _/\______   /
+ _ _\ _    //  __    _/  _ \ /  \\_\ __  \__ _\ _    // _   /_   _\  __   /_ +
+((((  )  _/_  __(____\__ (  V  _ \(( )|    /((  )  _/_  )_____)_((  __(____ )_
+ _/  __     \ \|       /  \   /   \   |   ·\   __     \_____      \ \|    \/  \
+/\   \|      \_\      /_   \ /     \_ |    \\_ \|      \_ |/   · _/  \        /
+ _\   \_ ·  __/     · _/    Y_ ·  __/ :    __/  \_ ·  __/ (     \\        · _//
+/\____ //   \___     \\______//   \_       \____ //   \___      _/___      \\_
+\/   \/______\ \ _____/    /_____ / \ _____/   \/______\ \ _____\   \ _______/
+\\__ /       /  \/   /____/     \/   \/   /____/       /__\/    /__  \/     //
+===\/_______/__ /___/====/_____ /___ /___/====/_______/dVN/____/==\  /_____///
+    _   __  __\/_______ _    _\/___\/_____ __    _  _          _ __\/_
+
+
+
+
+
+
+
+
+
+    _ _/\____  _/\__ _   _ _/\___  /\___ _  _ _/\____   /\_ _   _/\__ _
+   _\\\_    / _\ __///_ _\\\__  /_// __///__\\\_    / _/ _///___\ __///_ __ __
+  /\   /  _/_/  _/    /_\__  /    \  \     \   /  _/__\___    /  _/    /\\ \\ \
+  \ \  \     \  \     \   /  \     \  \     \  \     \   /    \  \     \ \\ \\/
+ /\\ \  \    \\  \    \\  \   \    \\  \    \\  \    \\  \    \\  \    \\ \\\\
+ \\\\ \  \_    \  \_    \  \_  \_    \  \_    \  \_    \  \_    \  \_    \ \\/
+/\\ \\/   /    /   /    /   /   /    /   /    /   /    /   /    /   /    /\ \
+\_\\//   /    /   /    /   /   /    /   /    /   /    /   /    /   /    /  \/
+    /   /    /   /    /   /   /    /   /    /   /    /   /    /   /    /    \
+   /   //   /   //   /   //  //   /   //   /   //   /   //   /   //   /      \
+--/   /    /   /    /   /   /    /   /    /   /    /   /    /   /    / .     /-
+:/_  /    /_  /    /_  /   /    /_  /    /_  /    /_  /    /_  /    /   /////::
+///_/    ///_/    ///_/___/    ///_/    ///_/    ///_/    ///_/    /    /X//:::
+\  /_____\  /_____\   \  /_____\  /_____\  /_____\  /_____\  /_____\    ///....
+.\ \      \ \      \   \ \      \ \      \ \      \ \      \ \      \   //.....
+::\_\     \\_\     \\___\_\     \\_\     \\_\     \\_\     \\_\     \\  /::::::
+-----\______\-\______\-dVN-\______\-\______\-\______\-\______\-\______\/-------
+
+
+
+
+
+
+
+
+
+    ________   __.____   ____ ____  __._____ ________   _____     __.____
+    )  |)  _)_(  |)___) (   (·)   )(  ||    ))  |)  _)_(___(____ (  |)___)
+  _.|  ||    ||  |-____ |   |||   ||  ||    ||  ||    | ___|    )|  |-____ ___
+ (_||__||    ||__|)____)|___| |   |(__||____)|__||    |(__(|____||__|)____))__)
+ =======)____|================|___|==============)____|========================
+
+ :::::::::::::::::::::::::::::::::::: ____  :::::::::::::::::::::::::::::::::::
+ :: _________    ______  __.____  ____)   ) :  __._____ ___._____  __.____  :::
+ :: )  |)    ) _(__(|  )(  |)___) )  ||   | : (  ||    ))  |)    )(  |)___) :::
+ :: |  ||    |(    ||  ||  |_____ |  ||  _)_  |  ||    ||  || .. ||  |__     ::
+ :: |  ||    || .. ||  ||  |)    )|  ))    (  |  ||    ||  || .. ||  |_( dVN ::
+ :: |  |(____|| .. ||  ||  ||    ||  || .. |  |  ||    ||  || .. ||  |_____  ::
+ :: |  |      | ii ||  ||  ||    ||  || .. |  |  ||    ||  || :: ||  |)    ) ::
+ :: |  | :::: | XX ||  ||  ||    ||  || ii |  |  ||    ||  || ii ||  ||    | ::
+ :: (__| :::: |____(|__||__||____)(__|| XX |  (__||____)(__|| XX ||__)|____| ::
+ ::      ::::                         |____)                |____|           ::
+ ::::::::::::::::::::::::::::::::::::        ::::::::::::::        ::::::::::::
+  __._____ ________   __  ______    __ ___._____    ______  __.       _____
+ (  ||    ))  ))  _)_(  )(  |)__)_ (__))  |)    ) _(__(|  )(  |_____ (___(____
+ |  ||    ||  ||    ||  ||  ((    )|  ||  ||    |(    ||  ||  |)    ) ___|    )
+ (__||____)|__||    ||__||__||    ||__|(__||    ||____(|__|(__||____|(__(|____|
+ ==============)____|========|____|========|____|==============================
+ |                                                                            |
+ |  Founders: Necromancer, Necronite        Senior Staff: Nightrain, K-Spiff  |
+ |                                                                            |
+ |        Artists: Beastie, Cthulhu, Gangsta, Hiro Protagonist, Hyped,        |
+ |    Mephitopeles, Ogre, Omicron, Paradox, Phaser-X, Terminator2, Whodini    |
+ |                                                                            |
+ |  Global Coordinator: Martyr                 Resident Mop Top: Bastardiser  |
+ |                                                                            |
+ (_________________________(  WE CREATED THIS SHIT  )_________________________)
+                                 November, 1994
+
+
+
+
+
+
+
+
+
+[O1] R-XXXXXX.TXT T    198,1OO kb     ________    __    ________  ___
+                                   ___\_     /   /  \___\_     /_/ _/_____ R
+                                   \_  /   _/_/\/    \_  /   _/_\_       / E 1
+                                    / _    \_    /    / _    \_  /. ..../. M 9
+                                   /  /     /  \/    /  /     / / .:.::.:. O 8
+                                     /     /   /    /  /     / /  :  ::.:: R 1
+                                   _/     /___/    /__/     /__     _/     S !
+                                   /______\  /_____\ /______\ \_____) dVN  E
+
+
+
+
+
+
+
+
+
+[O2] R-XXXXXX.TXT T    19O,O81 kb    ( REMORSE 1981 )  :: collection_name_here!
+                                    .   _______   __   ::   _______    __    .
+                                   _:___\_    /   \/ /\_____\_    /  _/ /____:_
+                                   \__   _  _/__/\  /  \__   _  _/___\_      ·
+                                    :/   /  \__   \/     /   /  \__   /      ./
+                                    /   /     /   \/    /   /  .  /  /      _//
+                                   /___/     /__  /    /___/   . /__________\:
+                                   \  /________/_/    /__ /____:___/        /:
+                                    \_\       / /_______/_\    :  /_______ / .
+                                       \____ /__\      /   \____ /   ..  \/
+                                           \/    \ ___/ dVN    \/    ::
+                                                  \/
+
+
+
+
+
+
+
+
+
+[O3] R-XXXXXX.TXT T    19O,81O kb    ________/\  _____ _______ ____   ..... .:.
+                                    .) _  _/_  \/    (.) _  _/_) _/__::: :::·::
+                                   _|  _    /  \/    /|  _    /___    /:·::. ::
+                                   \___/   /_._||   /_.__/   /_._/  _/:: ::: ::
+                                   dVN/______| :|_____| /______|____\·::.::· :·
+                                   .---------:--:-----:--------:--------------.
+                                   |_                                        _|
+                                   << Remorse1981 Presents: xxxxxxxxxxxxxxxx >>
+                                   |¯                                        ¯|
+                                   `--\\----------------------------------//--'
+
+
+
+
+
+
+
+
+
+[O4] RMRS-XX.ZIP  A    313,373 kb       _/________  _  ______/______   _____
+                                       _/- __/-__/_/ \/ \ - /- __/_/__(_-__/_
+                                     _\\__\ \_____/ /\/\ \_/__\ \__    /____/
+                                     \_____\_/_____/1981\_/____\_/_____))dVN|
+                                     |                   //                 |
+                                     |_  R E M O R S E  //  P A C K  # X X _|
+                                      /________________//__________________)
+                                                      \//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               _______.
+                                          ____/       |
+                                         .\  /        |
+                                 ___. __ |            |
+                          _____ /   | XX |            |
+                        .\\    /    | XX |          h |O  M  E  L  E  S  S
+                        |    _/     : XX |            :
+                        |           . XX |            .
+    _____               |           . XX |            .
+   /    /        ______ :     ___   ____ |   _____ ____   ___        ___
+   \    \_____ _/      \___  /   \_/   / :  /   _//   / _/  /_______/  /_____
+__ /          X   _     /  \/ _   \  _/ ___/    \   _/ _\_______   \______   \_
+\//    __    //   /    /  _  /    /   \/   \_   /    \/   \_  |/    /   |/    /
+_/     /   _/    /    /    \/    /   _/     /   \   _/     /  /    /    /    /
+\     /    \         /     /     \         /    /         /   :    \    :    \
+ \____\_____\_______/\____/      /\_______/____/\________/    |____/    |____/
+                        . \_____/   :                 : \_____|   \_____|H7/dS!
+                        :           | ::              |
+                        |           | ii :            |
+     H  O  M  E  L  E  S| s         | ll |            |
+                        |_          | XX |            |  .__
+                          \\________| XX |_           |  |  \_   __
+                                           \\_________|  |___/  /_/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      ..                                           _\  __
+                                                                  \\ \/ /
+                                                                    \  /
+                      ..                 . ·           ·           /\\/ :::: :
+                      ..               · .: cONTACT mE! .:·       /  \ ··
+                      ::          :     + ·.         .   · +    : \` //\
+                      ::          |\  ·                     ·   |\ \//_ \\
+     ____       _______   ______ _| \___ ·        ___  ____  . _| \___ )_\
+    .\ _/_____._\__    )._\_    \\_ ___/____ _____\_ \.\ _/____\_ ___/____
+    |  |/     |  |/     |  !      7 \|      Y     \|  |  |/     7 \|      )
+   _¡  ·      |  ·      |  |      |  ·      |      ·  |  ·      |  ·   :::::: :
+\\\\__        |        _¡__|      |_        |        _¡_        |_        |_
+ .____\ ______(______ /dVN_| _____|_\ ______¡______ /_ _\ ______|_\_______ ////
+ |     \/           \/     |/     :  \/           \/ //  \/     :        \/  |
+ |                         :                        //                       |
+ |  Email: hiro@ACiD.org                           //      Hiro Protagonist  |
+ |                                                //    c/o ACiD Publishing  |
+ |    IRC: hiro81 #remorse (efnet)               //            PO Box 24523  |
+ |                                              //             San Jose, CA  |
+ |    BBS: The Yard, Constipation of the Mind  //                 95154 USA  |
+ |                                            //                             |
+ |_                                          //                              |
+  /____(  I AM TAKING REQUESTS!  )_______   ///___ _  ( c ) ONTACT INFO  _ __|_
+.                     ..                \  /                                 :
+.                     ::     __  /_      \/                                  .
+|                     ::     \ \/ //          I am pleased to take anyone's
+|\____                 ______ \  /...
+¡____( a )BOUT DEVI N |_____//\\/  ·:::::  :  request but I give priority to .
+                            /  \ /\
+           ::  :::::  ::  /\\` //  \\           TRADES and ARTIST'S REQUESTS!
+                      ·  // \\//_/\ \         :                  ,¸_         ·
+                 ___   //  __\     \¯         |\              ,øØØØØÑæ,     .:
+            ___ .) //  /__( _______  __:     _| \___        ,µØ¤¨ ~ ¬¶Øg    .:
+       _____\_ \| _|______ _\__    ).\ | ____\_ ___/____   ¸ØÆ<-(@-@)-7Øø   :.
+      (     \|  | \|      )  |/     |  |/     7 \|      )  ýÑØ#\  _  /ÆØØb  ::
+  : ::::::   ·  |  ·      |  ·      |  ·      |  ·      |  °Ø#ÑÐ\_¯_/øÑQØß   ·
+     _|        _¡_        |        _¡_        |_        ¡_  ¬¶Ø/| " |\ØÑ7¨nM+
+._\\\\_______ /_ _\ ______(______ /_._\ ______|_\_______ //_/¨~\ \_/ /"¨·\ dVN
+|           \/ //  \/           \/  ¡  \/     :        \/--\  _ \/×\/  _ _)--.
+|             //                                          ((  7   X    | ]   |
+|  Tag: dVN  //  Name: Devin Davidson  Alias: Hiro Protagonist  Country: .CA |
+|           //                                                               |
+| ex-©hP!  //  Past Affiliations: Katharsis!Ascii / Trank (wU!) / Quad-P     |
+|_        //     Revolt Literature / CIA / FOOD / Partners & Criminals       |
+ /____   //                                                                  |
+     \  //   Current Affiliations: Remorse 1981 / ACiD Productions           |
+  ... \//                                                                    |
+  ::   /   Drawing Ascii: Since 1989     In Scene: Since 1994     Age: 30    |
+  :: _/                                                                      |
+  :: \  Tools: TheDraw v4.61 / PabloDraw v2.O.8 / QEdit v4 / AFS v2.O1a      |
+  ·  /    .       MicroSlave (R) Notepad / TrueSchool Fonts vO.7             |
+   //     |_ _                                                     _         |
+   //_____|////___________(·  sLÅ\/è 7° 7He mäÇH¡ÑË  ·)____________!_________|_
+  .       /                                                        |   ..    :
+  ::     /|  Music: Metal, Techno, DnB, Hip Hop, Jazz, Classical.  |   ::    .
+  ::    + |                                                       ·|·····
+  ::..... |  Hobbies: Magic: The Gathering, Computers, My Vices..  |
+          |                                                        |
+   . ...  |  Vices: The Herb, Cigs, Women, Literature, Education.  |
+_\  __ :: |                                                        | ::::: :
+\ \/ / :: |___   Favorite Artists: Ansichrist, h7, Killa Hertz,    |
+.\ ///\ :   /   Lord Jazz, Mogue, Mortimer Twang, Shock G, Tinyz  _|_
+| \//  \   /____________________ _   and Whodini.   ______________):
+|\__\` //\                     ///_______________ : \ _
+¡___\\// _\\          ::       /               _[ |\ \/// /          . .....
+ ..   /_(  ____       ________+_____     _____ \ _| \___      ___         ::
+ ::       ( __/_____._\_     / \  _/____.\  _/___\_ ___/____ / _/_____    ::
+ ::...... | \__     | |/    //_  _)     |  _)     7 \|      (____     )   ::
+         _¡  |/     | ·_      |  \|     |  \|     |  ·      |  |/     |   ::
+  dVN \\\\__ ·      |  7      |_  ·     |_  ·     |_        |_ ·      ¡_   ·  ·
+ ._______ __\ ______¡__| _____)_\ ______¡_\ ______)_\_______)_\ _______////_ /
+ |      //   \/        |/        \/        \/                  \/          //|
+ |     //              ·                                                  // |
+:::: ://  Ansichrist, Cru, Dipswitch, Don Rapello, Fahrenheit, Haliphax  //. |
+ |   //     h7, Necromancer, Nightrain, Nstage, Radman, Raster Burn,    //.: |
+ |  //               Scour, Spinsane, Whodini, and Zaner.              // :: |
+ | //// /                                                             //  :: |
+_|//______ _  I only greet people I've actually talked to recently!  //   :: |
+ /       (((_____________________________ _                         //    :: |
+.                                            ( g )REETING S  _ ____///    .. |
+                                                                   /_________|_
+                         .                                                   :
+  This collection would  .  not have been       ......................  ..   .
+                         :                     :::
+   possible without the  i  love and support   ···
+                         l                     :::  My sincere thanks to all
+     of my woman, Kat.   X   Thanks baby!      ···
+                        .X.                    :::   of my talented guests!
+                 _     .:X:.                   :::
+             ....\.....||X||..........         ... :       ............
+            :::  \\    ||X||        :::    ___ ·:: |\     :::        ::: dVN
+       ____ :::   ________ _____    :::   \\  )__ _| \___ :::  ___   ·::...
+      .\ _/_____._\_     / \  _/____ ______|_ .\ \\_ ___/____ / _/_____  :::
+      |  |/     | |/    //_  _)     (      |/ | ·  7 \|      (____     ) :::
+     _¡  ·      | ·_      |  \|     |      ·  |    |  ·      |  |/     | :::
+  \\\\__        |  7      |_  ·     |        _¡___ |_        |_ ·      ¡_···
+ .__ ___\ ______)__| _____)_\ ______)______ /__ __\|_\_______)_\ _______////_.
+ |  \/   \/ ...    |/        \/     ...   \/  //   :      ...   \/       ... |
+-|--// /\   :::    :   ||X||        :::---\/-// :: .  - --···---  -  ....::· |
+ |    /  \   ······.·· ·:X:· ·········      // :::        :::       :::      |
+ |    \` //\            ·X·                //   ········· ... ········       |
+ |====\\//_ \\========[  X  ]=============//                                 |
+ |         )_\           ^               ///======== =   ( c )REDIT S   = ===|=
+ |                                       ¯                                   |
+ |   Primary Ascii and Design ................. Devin of Remorse <dVN/r81>   |
+ |                                                                           |
+ |   ACiD ............................. Speed Devil of Remorse <+sD+/rMRS>   |
+ |   RMRS ................................... Whodini of Remorse <wH0/r81>   |
+ |   Beanie Guy .............................. J.Hale of Remorse <jh/rMRS>   |
+ |   Remorse .................... Whodini & Devin of Remorse <wH0+dVN/r81>   |
+ |   Homeless .................................. Cru of Remorse <cRu/rMRS>   |
+ |   Hiro ...................................... Scour of Remorse <S!/r81>   |
+ |   Remorse .............................. Polymorph of Remorse <pm/rMRS>   |
+ |   Devin ................................ Ansichrist of Remorse <ns/r81>   |
+ |   Homeless ................. Fahrenheit & Scour of Remorse <fAH+S!/r81>   |
+ |   Index .................... Mortimer Twang of Divine Stylers <©Mt/dS!>   |
+ |   I Love Devin ........................... Whodini of Remorse <wH0/r81>   |
+ |   Homeless .............................. H7 of Divine Stylers <h7/dS!>   |
+ |   Hippie Guy .............. Necromancer & Devin of Remorse <nM+dVN/r81>   |
+ |   RMRS .................................. Kaleidas of Remorse <kal/r81>   |
+ |   Remorse ................................ Wise-K of Remorse <wk!/rMRS>   |
+ |   Remorse ............................... Paradox of Remorse <pDx/rMRS>   |
+ |   RMRS Gangsta ............................ J.Hale of Remorse <jh/rMRS>   |
+ |   Remorse File_Id........... Native (aka Dezibel) of Aerosol <n7v!/aSL>   |
+ |   Modemland ............................. Shock G of Jedi Arts <sg/jA!>   |
+ |_               _                                                          |
+  /______________//_______ _                                            _ ___|_
+                         ///____________________________________________)))  :
+                          //                                             ¯   .
+                         +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    .:
+                                  .:::.
+                                 :::::;
+    .                             ::::::                  ..:::::::..
+   ::                   .          :::::::..            .:::''    `:::.
+ .::::               .:::          ::::`::::::,...      :::'       `:::.
+'::::::.             :::::         :::: ..::``::::::.. ::::         ::::
+  ``:::::..          :::::         :::: ::::     `::::.`::::.      .::::
+      `::::::...      ::::        ::::' ::::       :::: `:::::::...::::
+     ::::```::::::..  ::::.       :::: .:::        :::'   ```::::::::`
+     ::::     ``::::. :::::       :::: ::::    ...::'   .:.     ```:::.
+     ::::        ::::  ::::       :::: ::::::::::::::.. ::::.       ::::.
+     ::::.       :::'  :::::     ::::: ::::''     ``:::::::::        ::::. kal
+     `::::   ...::'    ::::::    ::::::::::          :::::::         :::::
+      :::::::::::::::..:::::::..::::::::::            ::::::.        :::::  ::.
+      ::::     ````::::::::`::::::':::::::            :::::::..    .:::::' ::::
+   .: ::::.         `::::::   ```  :::::``            ::::::::::::::::''  ::::'
+  :::: ::::           :::::       .:::::::::::::::::::::::::::::::::....   ':'
+  `::::::``            :::: ...:::::::::::::::::::::::::::::::::::::::::::..
+   `::`               ...::::::::::::::'''''''                   ```````:::::.
+    `             ..::::::::::'''                                         ``:::
+   = ===========.::::::''=================== =  ==    ( h )ISTOR Y           '
+              ,:::::'
+_ __________,::::'_____________________________________________. ____________ _
+  ________  .``'`.... _____  _____ .........  ________ ....... |/  .........
+ /   _    \::::: :::::     \/     ::::: :::::/   _    \:::::......::::: :::::
+/    /    /.:::: :::::            ::::: ::::/    /    /..... :::::::::: :::::
+\    \_____|::::.::::|_____\/_____|::::.::::\    \_____|::::.::::::::::.::::'
+/_____| ._ `::::.. ._______________________ /_____| ._____________ `::::.. ._ _
+_ ______|=\________|wk!===================/_________|=============\________|= =
+                        _     _     _     _     _     _
+====================== ((     1     9     9     6     )) ======================
+                        ¯     ¯     ¯     ¯     ¯     ¯
+R-ANO.ASC     Another Colly ................................. Erupt   38,676 KB
+R-ASS.ASC     Asshole ................................. Necromancer   88,6O6 KB
+R-HEP.ASC     Hepcat! ........................................ Haji   23,893 KB
+R-JAGOFF.ASC  Jagoff! .................................... Everlast  111,982 KB
+R-MFC.ASC     Muh First Colly ............................... Erupt   25,812 KB
+R-OMISAN.ASC  Shogun Assasin: Nostalgia ................... Omicron   48,55O KB
+R-WDWGFH.ASC  Where Do We Go From Here .................... Whodini  141,927 KB
+                        _     _     _     _     _     _
+====================== ((     1     9     9     7     )) ======================
+                        ¯     ¯     ¯     ¯     ¯     ¯
+R-11HOUR.TXT  The 11th Hour .............................. Nitrogen  1O8,546 KB
+R-BUGOTM.TXT  Out The Moon .................................. Bugsy   93,447 KB
+R-DEBUT.TXT   The Debut .................................... Revert   23,588 KB
+R-DNB.TXT     Do Not Breathe ........................... Bad Spirit   13,518 KB
+R-EDEN.TXT    Eden ................................... Phreak Klass   27,788 KB
+R-EUROT.TXT   Eurotrash ...................................... Trip   17,85O KB
+R-FUTURE.TXT  The Future .............. Cyberkid + Hiro Protagonist  129,617 KB
+R-H2C.TXT     Hellraiser 2: Chernobyl ..................... Whodini  145,423 KB
+R-ITC.TXT     In The City ................................. Whodini   96,647 KB
+R-ITMOM.TXT   In The Mouth of Madness ............ Hiro Protagonist  35O,O37 KB
+R-LIBERT.TXT  Libertad ............................... Truman Starr   45,843 KB
+R-MHZAMH.TXT  Activate My Hate ........................ Megga Hertz  114,OO9 KB
+R-MHZHEU.TXT  Hit 'Em Up! ............................. Megga Hertz   1O,495 KB
+R-MHZTGF.TXT  The Godfather ........................... Megga Hertz   95,623 KB
+R-MHZTGI.TXT  Thug Immortal ........................... Megga Hertz   76,523 KB
+R-MHZTKP.TXT  The Kingpin ............................. Megga Hertz  112,671 KB
+R-MHZTLD.TXT  The Last Don ............................ Megga Hertz   88,862 KB
+R-MLNNM.TXT   Millennium ......................... Hiro Protagonist   95,923 KB
+R-MNFGT.TXT   Faget ........................................ Merlin   21,898 KB
+R-MNWTSN.ASC  Where The Sun Never Shines ................... Merlin   17,87O KB
+R-MONEY.TXT   Money .............................. Hiro Protagonist  13O,OOO KB
+R-NOSOUL.TXT  No'Soul ....................................... Erupt   55,574 KB
+R-OMISKK.TXT  Stoan Cold Killers .......................... Omicron   31,465 KB
+R-STORY.TXT   The Story .................................. Nitrogen   78,543 KB
+R-SV.TXT      Satanic Verses .................... Blindman & Miasma   48,798 KB
+R-TDA.TXT     The Day After ........................... Megga Hertz   6O,999 KB
+R-TERRA.TXT   Terra Cotta ............................. Necromancer   42,751 KB
+R-THE1.TXT    I'm The One ................................. Whodini  1OO,939 KB
+R-TMI.TXT     Het Morbid Inzicht ..................... Phreak Klass   23,OO6 KB
+R-TRYPT.TXT   Tryptical .................................... J.Hale   38,935 KB
+R-TSM.TXT     To Serve Man ....................... Hiro Protagonist  193,445 KB
+R-VI.TXT      Vision ....................................... Miasma   38,214 KB
+R-VOICEZ.TXT  Voicez ....................................... Miasma   39,O94 KB
+                        _     _     _     _     _     _
+====================== ((     1     9     9     8     )) ======================
+                        ¯     ¯     ¯     ¯     ¯     ¯
+R-BS.TXT      Beat Surrender .............................. Whodini  111,18O KB
+R-BUGANT.TXT  Album Number Ten .............................. Bugsy   35,O25 KB
+R-DBD.TXT     Don't Back Down ............................. Whodini   73,825 KB
+R-E5KTB.TXT   Kick The Bong .......................... Erick Sermon   28,764 KB
+R-FITTER.TXT  Fitter Happier ......................... Truman Starr   85,515 KB
+R-FUN.TXT     Some More Fun ................................. Erupt   56,651 KB
+R-IMBACK.TXT  I'm Back ...................................... Bugsy   36,494 KB
+R-IN.TXT      Inverse Nakedness ............................ Miasma   31,676 KB
+R-OCKS.TXT    Lust Is Entrusted Temporary Relief ........ Poskgubbe  1O2,464 KB
+R-QUIKEE.TXT  A Quickee ..................................... Erupt   42,615 KB
+R-R-R-R.TXT   Ascii Picks Up Chicks! .................... Poskgubbe   14,398 KB
+R-SLEEP.TXT   Sleep ......................................... Martz   36,1O7 KB
+                        _     _     _     _     _     _
+====================== ((     1     9     9     9     )) ======================
+                        ¯     ¯     ¯     ¯     ¯     ¯
+R-1999.TXT    It's 1999 And I'm So Fucked ................. Whodini   44,614 KB
+R-CRAUNI.TXT  The Crazy Unique .............................. Erupt   45,1O2 KB
+R-GIRL.TXT    Girl, You're On My Mind ................... Poskgubbe   12,481 KB
+R-GIRL2.TXT   Girl, I've Got the Crackrock Flu Again .... Poskgubbe    5,453 KB
+R-MERPEA.TXT  One World One Nation ........................... Talo   54,6O7 KB
+R-MNINEA.ASC  Old And Werd Stuff ............................. Talo    6,411 KB
+R-OZZ81A.TXT  The Newcoming ................................ Kayozz   2O,O75 KB
+R-OZZ81B.TXT  Cash ......................................... Kayozz    9,995 KB
+R-PROS  .TXT  Prospero And Nuevo ........................ Poskgubbe    7,684 KB
+R-STRESS.TXT  Stress ........................................ Erupt   52,74O KB
+R-TM.TXT      The Message ........................ Hiro Protagonist  125,2OO KB
+REHAB!.TXT    Next Stop, Rehab! .................. Whodini + Wise-K   61,1O1 KB
+                        _     _     _     _     _     _
+====================== ((     2     O     O     O     )) ======================
+                        ¯     ¯     ¯     ¯     ¯     ¯
+R-ANGEL.TXT   She's An Angel .............................. Whodini   52,843 KB
+R-FALLI.TXT   Anonymous! ..................................... Talo   11,591 KB
+R-GTM100.TXT  Gimme The Mingus .............................. Pesho   88,255 KB
+R-HERMAN.TXT  Hermana ....................................... Pesho  11O,365 KB
+R-MATEY.TXT   Who Are You Guys? ......................... Poskgubbe    9,715 KB
+                        _     _     _     _     _     _
+====================== ((     2     O     O     1     )) ======================
+                        ¯     ¯     ¯     ¯     ¯     ¯
+R-3DD2.TXT    Three Dimension Deception Vol:2 ............ Spinsane  122,121 KB
+R-MILLA.TXT   Milla ..................................... Sinse One   42,O98 KB
+R-NF.TXT      New Forms .......................... Hiro Protagonist   6O,O1O KB
+R-SUNDAY.TXT  On A Sunday ................................ Tzeentch   35,988 KB
+R-VDOP.TXT    Vulgar Display Of Power .................... Tzeentch   35,825 KB
+                        _     _     _     _     _     _
+====================== ((     2     O     O     2     )) ======================
+                        ¯     ¯     ¯     ¯     ¯     ¯
+                WE WERE TOO BUSY SMOKING ROCK AND PIMPIN SHIT..
+                        _     _     _     _     _     _
+====================== ((     2     O     O     3     )) ======================
+                        ¯     ¯     ¯     ¯     ¯     ¯
+R-FOUR.TXT    Four ..................................... Ansichrist  195,487 KB
+R-OZZ81C.TXT  Who The Fuck Is Kayozz? ...................... Kayozz   31,O38 KB
+                        _     _     _     _     _     _
+====================== ((     2     O     O     4     )) ======================
+                        ¯     ¯     ¯     ¯     ¯     ¯
+R-HL.TXT      Homeless ...................................... Devin  175,OOO KB
+R-S1994.TXT   Shambala '94 .................................. Pesho  1O3,198 KB
+
+              = ================  _____ ==================== =
+     _ __________  ____________ //    /_____ _ _______  _______  ________
+       ______    \/     _  /   \/   //      \_____    \/       \/    _  /
+        /   /    /\\   __\//   \/___/  /    //   /    /\__ \___//   __\/
+       //   \______\______|     \ \________///   \______\_\___/________|
+      /______|<pDx------\________\---------/______|-- ---  --  -    -
+
+          (TOTAL # OF COLLECTIONS): 78   (TOTAL RELEASED): OVER 5 MB!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ______.
+      \\_    |                            ____
+    ___ |    |______     .           _ __\\_  )   H  O  M  E  L  E  S  S  !
+   \\_  |    |    _/_____|\\        _____  |  |     _____    ___     ___
+     |  |    |    )   _  ) \____/\__\  _/  |  | _ __\  _/  _/ _/__ _/ _/_____
+ _ __| _|    |    |   )  |   _ _   /  _)___|_ |______ _)___\___   _\___    _//
+(((__((__    _    |   |  |   ( (   |  )    _/ (    _/ )   \_  (   \_  (    |
+     |  |    (    |   |  |   | |   |  |    |  |    |  |    |  |    |  |    |
+     |  |    |    |   |  |   | |   |  |    |  |    |  |    |  |    |  |    |  _
+ dVN | _|    |    |   |  |   | |   |  |    |  |    |  |    |  |    |  |    |-¯
+-_ _-|¯ |¯-_ | _-¯|¯-_|-¯|¯-_| |_-¯|¯-| _-¯|¯-| _-¯|¯-| _-¯|¯-| _-¯|¯-| _-¯| .:
+  ¯  |  |   ¯|¯   |   |  |   |-|   |  |¯   |  |¯   |  |¯   |  |¯   |  |¯   | ::
+:... | _l    |    |   |  |   | |   |  |    |  |    |  |    |  |    |  |    | ·:
+:::: | \     |    l_  l  |   | |   |  l    |  l    |_ l    |  l    |  l    l_ :
+:::· |/\\____|     /    _l   |_|   |     __l__      /    __l__     (__      / :
+:·  _/  /   _|___ //___ \ ___l |   (_____/  /\____ //____/  /\_____ /\____ // .
+:.  \  /     : /\/     /\\/   _|___ /   /  / /  /\/     /__/ /   /\/ /  /\/  .:
+::. \\/____.  / /_____/  /     : /\//  /__/ /  / /_____/   \/___/ /\/__/ / .:::
+·::.      _|_/ /     \  /____.  / /___/   \/__/ /       .:.     \/     \/ .::::
+::::::...  : \/ .:::. \/    _|_/ /     .:.    \/ .:::::::·:::::.  .:::.  .:::·:
+:::::·::::. .  .:::.:.  .:.  : \/ .:::::·:::.   .::::.::   :::·:::::::::::+::::
+::.::::::.:::::::+::::::::::. .  .:::.:::::+::::::·::::::.::::::::::.::::::·:::
++:::·                                                                     ·::::
+::::       Copyright (c) 2OO4 ACiD Publishing.  All rights reserved.       ::+:
+:.::.                                                                     .::::
+:::.:::::::::::::::::::::·:::::::····       ····:::+::::::::::::::::::::::::.::
+:·     ____  __  ·  _  ·:::··     ____-----___    ··:·   _ __  ·  _ ____     ·:
+.  ( ((__         _   ___    _--¯¯            ¯¯-_   ___  _           __)) )  .
+        (______________   _|¯                     |_   _______________)
+                      /  _|                        |_ \\
+                    _//  |                          |   \_
+                    \    ,¯---_________-----¯¯'|    |    //// /
+                     \   |                     | ___'   /
+                \\   \\  `-__           ____-  | |--]  +
+                       +  ,  ¯¯\   ,-¯¯¯       | | /
+                          | ¯(\ |   /¯()¯      __T¯
+                           \    |               |
+                            `\  [__/     ,    _/\
+                              `\________/    /   \___
+                                (_____,    /'     |  ;¯--,--------_
+                                  \______/'      /'  '  /          ¯\_
+                            __ ,¯   .    ,    _/'  .'  |             |
+                       _--¯¯  /     `-------¯¯        ;              |_
+                      /      /                        '               |
+                     /      /                                         |_
+                  __/_     /                                           |
+                 [  __ ¯  /                          __- ¯             |_
+                  \ _ ¯¯-/                          _|      __       `-_|
+                    /   /                           ;  _--¯¯  ¯¯\__     \_
+                  _|   /                            _-¯            |_    |
+                  |   /                          _-¯                |    |
+                 _|  /                        _-¯              _-'  |    /
+                 |  /                      _-¯            _--¯¯    |'  /'
+                 ' /                    _-`            -       __-¯'--'
+                  /                  _/`               ___---¯¯     .
+                 /                 _/          __---¯¯¯             ;_
+                /               ,-¯/        _-¯            (¯¯) /|   |
+               /            ___| ,'          \_            /¯¯\  |   |
+              /            _[  ; | ¯ -\__    | |.          `--'  |   |
+           __/             |   ; |          / _|;               `¯- ¯|_
+          _|    _______--- `\  . |         |__];; ¯¯¯-------____      |
+          | ,¯¯¯           | |   [  |\_     _|                  ¯¯-,  |
+          `-. ..           ;_| . |__,; ¯¯¯¯¯                     ;.  _|
+              ;;          _/'    |   ;                           |; ¯
+             _||__ _      |      | |¯                         _ _||_
+             \\           | _/   | |_                             ||
+              ||          | _/   | | \\_                          ||
+             _||         /| _/   | |  ||                          ||
+             ||          ¯|______|-'  ||                          ||
+             ||             ````      ;;                          ||
+          _  `;       _         ,----, '  _                        ;;
+       _-¯ `-__    _-¯ `-_     /     | _-¯ `-__             _-'¯--___         _
+       ]       ¯¯--,      ¯¯--¯ _    | ]       ¯¯--,  __--¯¯       _]   __--¯¯
+     ,-¯  ,__      ]     `\-___-     '-¯ ,__       ]  |     _-|    |--¯¯      _
+  jh. \     \¯,   ,' \     \   |     ,     \¯,   _,'  `-_   `-|    '    __--¯¯
+-__    \    -¯    ¯¯--\     \  |     |\    -¯    '¯¯---____    ¯-___--¯¯
+   ¯¯--_\     \-_      `     \ |     | \      \-_         | ¯-_   ¯-_  rem()rse
+--__     \     \/¯     /_____/'|     |-¯\      \/¯     /,-'    \     |
+    ¯¯--__      \       `-,    |       ___      \       `-, __-'      | .---_
+          ¯¯--_,'`-__    /     `-_ _-¯¯   ¯¯--_,'`-__    /            |      |
+                     ¯¯¯¯         `                  ¯¯¯' `¯-[__     /' ,___,'
+                                                                --__[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ ______________ ____________________ _______
+_\__   /__   / \    / _  /__   /  _/____   /
+\  /  /_ /__/_ \/  /  / /  /  /___   / /__/_
+/__\___(_____(_/  /_____\__\___(/____\_____(
+.----<n7v!>---/___\------------------------.
+:                                          :
+: HOMELESS - Starring Devin (ex-Hiro/©hP!) :
+:                   __                     :
+`---( o5.11.2oo4 )--\/--( rEMORSE!198i )---'
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                THIS ASCII COLLECTION SHOULD HAVE ORIGINATED AT
+
+                               _________________
+                               \               /
+                              |¯               ¯|
+                              |  +mODEMLAND!?._ |
+                              |                 |
+                              |        _______  |
+           _______ ______ _________ ___)     /______ ______ ______
+           \      /     /_\  _    /   _.    /    __/___    /     /
+           _\    \/    /_    /   /_   \|   /_   _\    /   \/    /_
+           \-----/______/---------/---------/---------\---/______/
+                    ________  |                 |  _______
+                    \      /_______  __________ ___)     /
+                    /     /_\  _   \_\  _     /   _.    /
+                   /     /_    /    \_  /    /    \|   /_ -sg
+                   \------/----\_____/-/_____\----------/
+           __   _ __  _ ______.                 .______  __ _   _ _
+           %%   % %%  % %%%%%%|                 |%%%%%%  %% %   % %
+           ¯¯   ¯ ¯¯  ¯ ¯¯¯¯¯¯|   Remorse WHQ   |¯¯¯¯¯¯  ¯¯ ¯   ¯ ¯
+                              |  Katharsis WHQ  |
+                              |   Quad-P  WHQ   |
+                              | Ganja Canada HQ |
+                              |                 |
+                              |_   ___  ____   _|
+                               (---)_/_o)__/---)
+                                   |  (||
+
+                    BUT IT'S BEEN GONE FOR SEVEN YEARS NOW!
+
+                              ( i miss it still )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ORIGINAL LINE 35oo:  ( e )NDS NO W

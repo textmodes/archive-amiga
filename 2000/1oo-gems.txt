@@ -1,0 +1,845 @@
+ 
+  ...         _ _                                          _ _     ...
+ ::::          \\\ sTAGE 1 cOMPLEtED <> pAsSED tHRoUGH TY ///      ::::
+ :::_   .___.    \                                        /        _:::
+ :://-- |   |-----\  24h Static Telnet on 768/128k ADSL  /--------// ::
+ |. .___.  _:____ _  ___                                             _:
+ _ _|   |_ \_   // //  /____   __ _  cONSOLES/aSCII/aMIGA/gRAFF/=C64 \:
+ \\\_   _/__/  /___  _     /__||///  mOD/mP3/hANDhELD aRCHIVE ____    |
+    |_  \_\        \ /____/   _      _____ _      _____     ./  _/    .
+ .   /_    \________\________\\    ._)  _ \\______\__  \____|   \_ _ _: _
+ :     \______\\t^/lp!        ____ |   _/     /     /   \  _|   _////__\\
+                             /   /___  \      \ __ \\  _/__\|   \     :/
+  tHE hOTTEST sCENE sPOT! _ /   / __//__\______\\_\ /_____/ \    \    :
+ :     _                  //_____\\:     \      /___|   \_________\  _.
+-.----\\-----------------------|   |----- .-----------||-------- ----/:
+ | tHE iDEA oF sTYLE iS tHE kEYl___|tO aLL fORMs oF rOCKiNG - TY 9602 |_
+-@----------------------------._____.---------------------------------@
+[*BK/rYL/LFC/pHT/OS/dS!/dTR/LP!/aSL/UP!/bS/MVP/aHs/sOIA/dKN/bM/b-gIRL*]
+
+
+ " THiS FiLE FOUND THE WAY THROUGH ONE OF THE FiNEST BULLETiN BOARD SYSTEMS "
+                        _ _____        ___   ______
+                               )_  __ _| (___) _  )_
+                              __/__) (_    |   |___/
+                       _ ___  |   |___|    |__
+    · _____________ _    c!|______|mSS|____| |______ _  _ _____________ ·
+ _ _:_\              ____       ____      _____      ____             /_:_ _
+    |             ___\  (_   ___\  (_   __\_  (_   __\  (_              |
+    |            _) _/   /___)  _   /___) _/   /___)   _ /__            |
+    |           /   \      /    \_    /   \      /     /   /            |
+    |           \___       \_____/    \____\     \__   \   \            |
+    |             \  _______\   /______\    \  ___\ \_______\           |
+    |              \/                        \/                         |
+    |                                                                   |
+    |             ÷  THE YARD BULLETiN BOARD SYSTEM 2k! ÷               |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                       WORLD HEADQUARTERS OF                       |
+    |                                                                   |
+    |         AEROHOLiCS (GRAFFiTi) ÷ DiSCiPLES OF AGEEMA (MUSiC)       |
+    |      ARCADE (ASCii) ÷ AEROSOL (ASCii) ÷ DREAM THEATRE (ASCii)     |
+    |          SOUL SURViVORZ (MP3) ÷ THE ASCii CHARTS (ASCii)          |
+    |                                                                   |
+    |                      GERMAN HEADQUARTERS OF                       |
+    |                                                                   |
+    |  LiGHTFORCE (AMiGA/CONSOLE) ÷ BAD KARMA (AMiGA) ÷ SODiUM (AMiGA)  |
+    |       LOW PROFiLE (ASCii) ÷ SiCK OF iT ALL (GRAFFiTi/DRUGS)       |
+    |  HOTSTUFFERS (AMiGA) ÷ PHUNK (ASCii) ÷ 1OO PERCENT (AMiGA/ASCii)  |
+    |  VORTEX (AMiGA) ÷ MOST VALUABLE PLAYAZ (MUSiC) ÷ UP ROUGH (MUSiC) |
+    |       OMEN (GRAFFiTi) ÷ TEQUiLA (MUSiC) ÷ PUNGAS (DAYDREAM)       |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                CONSOLES/AMiGA/ASCii/LiNUX/DAYDREAM                |
+    |             GRAFFiTi/DRUGS/CLASSiCS/MP3/MOD/CHiPTUNES             |
+    |                                                                   |
+    |           2 NODES 33k6 / 2 NODES iSDN / 4 NODES TELNET            |
+    |                                                                   |
+    |                      [ THEYARD.DARKTECH.ORG ]                     |
+    |                                                                   |
+    |                      [ 49-ASKTHERiGHTPEOPLE ]                     |
+    |                                                                   |
+    |           DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS!            |
+    |                                                                   |
+    |   ZANER/LiGHTFORCE^BAD KARMA^AHS ÷ DiPSWiTCH/BAD KARMA^1OO%^AHS   |
+    |       HASH/AHS^PZK^SOiA ÷ NiNJA/PARADOX^EURASiA ÷ MOOL/AHS        |
+    |                                                                   |
+ _ _|__   " THE iDEA OF STYLE iS THE KEY TO ALL FORMS OF ROCKiNG "    __|_ _
+    · /_______________________________________________________________\ ·
+
+[SOF]
+
+
+
+                      We shall not cease from exploration
+                          And the end of our exploring
+                     Will be to arrive at where we started
+                   And to know the place for the first time.
+
+                                                            -- T. S. Eliot
+
+
+
+                                      ___
+                                      \ //
+                                       \/
+
+
+
+          _______.
+         /       |     _______       _______
+         |       | .___\__    \_ .___\__    \_
+         |       | |     |     | |     |     |
+         |       | |     |     | |     |     |nD!                   $$$$
+         |       | |     |     | |     |     |                      $  $
+-------÷ |       | |     |     | |     |     | ÷------------------- $  $ ------
+         |       | |     |     | |     |     |                      $  $
+  $$$$$$$$$. .$$$$$$$$$ $$$$$$$$$. .$$$$$$$$.|.o$$$$$$$$ $$$. $$$$$ $  $$$$$
+  $       °$ $°       $ $       °$ $°      °$|$°       $ $ °$.$   $ $     .$
+  $. $$.   $ $  ,$$   $ $. $$.   $ $   .$.  $|$  .$$   $ $. `$$   $ $. $$$$'
+  $  $`$  .$ $  $ $   $ $  $`$   $ $   $ $. $|$  $ $   $ $  .`$  .$ $  $
+  $. $ $  .$ $. $$'   $ $. $ $$$$$ $.  $ $$$$|$. $$'   $ $. $.`  .$ $. $ $$$$$
+  $. $ $ .:$ $..     .$ $. $   | | $.. $     |$..     .$ $..$$. .:$ $..$ $  .$
+  $:.$ $..:$ $:.$$$$$$' $:.$   | | $::.$ $$$$|$:.$$$$$$' $:.$`$..:$ $:.$ $ .:$
+  $:.$.$.:¦$ $::$  |    $:.$   | | $:::$ $::$|$::$       $::$ $.:¦$ $::$ $ .:$
+  $::$$°:¦¦$ $¦:°$$$$$$ $¦:$   | | $¦::`$:::$|$¦:°$$$$$$ $¦:$ $::¦$ $¦:$$$::¦$
+  $:::::¦¦$$ $$¦::::::$ $¦¦$   | | $$¦:::::o$|$$¦::::::$ $¦¦$ $:¦¦$ $$¦::::¦¦$
+  $::$$$$$$' `$$$$$$$$$ $$$$   | | `$$$$$$$$'|`$$$$$$$$$ $$$$ $$$$$ `$$$$$$$$$
+  $¦:$   |       | |     |     | |     |     :
+- $¦:$ ÷ |       | |     |     | |     |    a  S  c  i  i  -÷-  l  a  b  s ÷---
+  $¦¦$   |       | |     |     | |     |     :
+  $$$$   |       | |           | |           |
+         |       | |           | |           |
+         |______/' `\_________/' `\_________/'
+
+
+
+
+                                   presenting
+
+                            a neurodancer collection
+
+                                    entitled
+
+
+
+
+                                                 _____.
+       _______/\_     ____/\    _/\_   ______/\  \    |       __/\__
+       \        //_._\\__   \_._\__/_._\  __   \_\\   |     _\\  __/_
+        \______/  ¬|    /   _/|¯    ¬|¯   \/    /    _|____/¯   ____/_
+             /     |   /     \|      |     \___/     \    ¬\_   \/   ¬\
+            /      |  \\      \ _  _ | _    \   \ _   \/    /_        /
+           /_   __/`----\      \\__//`-\_   _\   \\__    __/\\__   __/
+            `-÷-'        \______\       `-÷-'       `----'     `-÷-'
+
+                         _______     __/\__    ___  ___
+                        _\  ___//_ _\\  __/_ ._\ ¬\/¯ /_
+                 _ __ _/¯   \_   ¬\¯   ____/_|¯   __   ¬\_ __ _
+                     \\      /         \/¯  ¬|    \/     //
+                      ·\   _      / _        |    /     /·
+                        \--/     / \\__   __/\\--/_____/
+                           \____/     `-÷-'
+
+                                __/\___   _______
+                              _\\  _  ¬\_\\  ___/__
+                            _/¯   \/    ¬     ____//
+                            \          · ·    ¬\
+                             \ _        X _     \
+                              ·\__   __/`\\__   _\
+                                 `-÷-'      `-÷-'
+                                           .____
+              ____                         |    |
+            _/   ¬\  _/\_    /\___      ___|    |  __/\___   ___  ___
+         ___\      \_\__/_. /  __//_  _\\___    |_\\  _  ¬\._\ ¬\/¯ /_
+       _/¯   \      ¯    ¬|_\____  ¬\/    \/    `    \/    |¯   __   ¬\_
+       \     /\           |   ¬\/                          '    \/     /
+        \ _        / _    | _        \ _       /\ _             /     /
+         \\__/\___/`\\__//`-\__    __/\\__  __/  \\__   __/\\--/_____/
+                              `----'     `--'       `-÷-'
+
+
+
+                   There was a door to which I found no key,
+                  There was a veil past which I could not see.
+
+                                          -- The Rub Aiyat of Omar Khayyam
+
+
+
+                                      ___
+                                      \ //
+                                       \/
+
+
+
+
+                 this is the 1999 remainders of my ascii work,
+               just the various requests and tributes that I made
+                 during the past month's without releasing them
+                               to the public yet.
+
+         (the requestors already have their stuff if they call my bbs)
+
+          its the dawning of the new year or call it "new millennium"
+             if you wish to follow the herd and go nuts about that
+                  overhyped stupid word - well, in the end its
+                     just another page in history isn't it.
+
+     well for me its 13 years in the scene now, quite a long time I assume,
+          but its still fun and the amiga is still and amazing machine
+                      that I can't leave my hands off. :)
+
+             I know my ascii looks as if it were made ten years ago
+              but then again that was a time when the ascii scene
+            (and ascii!) was better anyway, so I take this actually
+              as a compliment, thank you you know who you are. :)
+
+                All right this is already way to much intro text
+                so lets cut the crap and continue with the logos
+
+
+                                      ___
+                                      \ //
+                                       \/
+
+
+
+
+              various fullsize logos - tributes & requests & such
+                    (you can call this "part 1" if you wish)
+
+
+
+
+
+__.["fortified truth" - publically req'd by rezine @ the yard].________________
+
+
+ [v1]
+
+         ___:
+        /   |
+       /    |        ________
+      /     |       _\       \_
+     /      |_____./  \___    |
+    /       |     |      /    |
+   /        |     |     /     | ________   ____. ________   _______
+  /        _|     |__         |_\   ___/___\___|_\   ___/_:_\____  \_.
+  \                 /         |     ____/      |    ______|     /    |
+   \________      _/          |      \         |    \     |          |
+            |     |           | _     \   _    | _        | _       _|
+            |_____|\_________/ -)______\ -)____|-)________|-)______/ `
+                                                        _____.
+            _________     _____ -nD! _______.________  |     |
+            \       /__._\\__  \_.___\      |       /__|   __|____
+             \_____/   |    /  _/|    \     |______/   |   \__    \_
+                 /     :   /    \|     \    |    /     :     /     /
+                /          \     \ _        |   /           /     /
+               /______/\\---\     \\________|  /______/\\--/_____/
+                             \_____\
+
+
+
+ [v2]
+
+
+
+              $$$$                             $$$$       $$$$
+              $  $                             $  $       $  $
+              $  $                             $  $       $  $
+              $  $                             $  $       $  $
+              $  $$$$$   $$$$$$$$$. $$$$$ $$$$ $  $$$$$   $  $$$$$$.
+              $     .$   $       °$ $   $ $  $ $     .$   $       °$
+              $. $$$$'   $. $$.   $ $   $ $  $ $. $$$$'   $. $$.   $
+              $  $       $  $`$   $ $.  $ $  $ $  $       $  $ $  .$
+              $. $ $$$$$ $. $ $$$$$ $.  $ $  $ $. $ $$$$$ $. $ $  .$
+              $..· $ .:$ ·. $       $:. · $ .$ $..· $ .:$ $..· $ .:$
+    _         $  $ $   $ $  $    ____   $ $   _·  $ $   $ $ :$ $  .·    .____
+   /¬\___     ______   ·_____  _|¯  ¬|_ __   /¬\___ ·  __ ·_______ $    |¯  ¬\_
+ _/  ___//___\\__  ¬\__\\__ /__\_    _/_\/__/  ___//___\/_/¯ __  /______|__   /
+ \    _____/    /    /¯   /   ¬\|    |/¯  ¬\    _____/¯  ¬   \__/  ¬¯   __/  /
+-÷\    \-÷-\________/)___\\     \  __|\    /\    \-÷-\    /\___    /\   \  _/÷-
+   \____\     ·  · ·   · $ \______/ ·' \__/  \____\ $ \__/·  · \__/· \____/
+              $  $ $   $ ·  ·       $   · $  · ·  · ·   · $  $ ·   $
+              $:.$ ·..:$ $:.$ -nD!  $:..$ ·..$ $:.$ $..:$ ·:.$ $..:$
+              $::$ $.::$ $:.$       $::.$ $.:$ $::$ $.::$ $::$ ·.::$
+              $|:$$$::|$ $|:$       $|::°$$:|$ $|:$$$::|$ $|:$ $::|$
+              $$|::::||$ $||$       $$|::::||$ $$|::::||$ $||$ $:|$$
+              `$$$$$$$$$ $$$$       `$$$$$$$$$ `$$$$$$$$$ $$$$ $$$$$
+
+
+
+
+
+                I would rather live in a world where my life is
+                 surrounded by mystery than live in a world so
+                    small that my mind could comprehend it.
+
+                                                  --—Harry Emerson Fosdick
+
+
+
+
+__.["bad karma" - req'd by dipswitch]._________________________________________
+
+
+                       _____.                     .____
+                      |     |                     |    |
+                      |  ___|__     ______     ___|__  |
+                      | \\___  \  _\\___  \_  /  ___// |
+       _______________|     /   \/    __    \/   \     |_______________
+  _:__))              |    /          \/          \    |              ((__:_
+  \|                  | _        _    /     _ _       _|                  |/
+   |                  `-\_______/¬---/_____/ \\______/ '                  |
+   |        ____.                                                         |
+   |       |    | _____  ______     ______ nD!___  ___    ______          |
+   |       |    |/    /_\\___  \_._\\__   \_._\  \/  /_._\\___  \_.       |
+   |       |   _/    //    __    |    /   _/|    __    |    __    |       |
+  _|__     |  \\     \     \/    :   /     \|    \/    :    \/    |     __|_
+   :  ))___|    \     \    /     _   \      \    /     _    /     |___((  :
+           |____|\_____\--/_____/¬--- \      \--/_____/¬---/______|
+                                       \______\
+
+
+
+
+          I've been doing the Fonda workout: The Peter Fonda workout.
+           That's where I wake up, take a hit of acid, smoke a joint,
+              and go to my sister's house and ask her  for money.
+
+                                                               -- Kevin Meaney
+
+
+
+__.["dC" - a tribute]._________________________________________________________
+
+                   .____                     ____           ____
+                   |    | __   _____     ___|    |__ _____ |    |
+             ______|__  |_\/_._\  _/___._\/__    __/_\___ \|    |
+    .        \    ___/  |    |  _ \    |    |    |     _/  |    |         .
+   -÷--------\\   \   __|____|___\     |____|____|\___/____|    |---------÷-
+    :          \_____/            \____|                   |____/         :
+    :                                               ___                   :___.
+  __:__     ______. _____ _____      .____  _______|   |___    ______ ___ |   |
+__\ __/__._\\__   |_\__ /_\__ /_ ____|    \_\___  \_   _/\/_._\\__   | _ \|   |
+\   \    |    /   |   /   \ /   \    |    /   \/__/|   |    |    /   |  \ \   |
+ \_______|\______/|___\    \\    \_______/\    \   |___|____|\______/|___\ \_ |
+    :                  \____\\____\        \____\                         \___|
+    :                                                                     :
+    :                                                                     :
+   -÷---------------------------------------------------------------------÷-
+    '                                                                     `
+
+
+                 Whenever I have to choose between two evils, I
+               always like to try the one I haven't tried before.
+
+                                                              -- Mae West.
+
+
+
+
+__.["drunken" - publically req'd by rezine @ the yard].________________________
+
+      .____                               ____.
+      |    |                             |    |
+  ____|__  | ______  nD! __________ .____|    |_____ ______  _____ .____.
+_/   ___/  |_\___  \_.___\     | _ \|    |    /    /_\   _/__\___ \|    |
+\    \     |    /  _/|    \    |  \ \    |  _/    /     ____/_|  \ \    |
+ \    \    |   /    \|     \   |   \ \   |  \     \     \/    |   \ \   |
+  \        |   \     \ _       |    \ \_ |   \     \ _        |    \ \_ |
+  \\_______|----\     \\_______|____|\___|----\     \\________|____|\___|
+                 \_____\                       \_____\
+
+
+
+               (this incarnation of "D" looks ripped - I know :-)
+
+
+
+    It's is not, it isn't ain't, and it's it's, not its, if you mean it is.
+         If you don't, it's its.  Then too, it's hers. It isn't her's.
+       It isn't our's either.  It's ours, and likewise yours and theirs.
+
+                                   -- Oxford University Press, Edpress News
+
+
+
+
+__.["faction" - a tribute].____________________________________________________
+
+      __                                        _____              _
+     /  \___     _____     _____   _________   \\   /   _______  _/¬\ .____.
+    _\_ ___/__ _\\___¬\_._/  __//__\       /__._\__/_._\\___  ¬\.\_  \|   ¬|
+  _/¯    ____//¯  __    |¯   \    ¬\\_____/  ¬|     ¬|    \/    |  \  \    |
+  \      ¬\       \/    :           /   /     :      :          |   \  \_  |
+   \ _     \      /     _ _        /   /      _ _    _ _        |    \     |
+    \\______\\---/_____/ \\_______/   /______/ \\___/ \\_______/|____|\____|
+
+
+                    f r i e n d s h i p   i n   a c t i o n
+
+
+
+
+                    Men cannot discover new oceans unless he
+                    has courage to lose sight of the shore.
+
+                                                             -- Andre Gide
+
+
+
+
+__.["faith" - a tribute].______________________________________________________
+
+                                     _____            _____.
+                _______     _____   \\   /_________  |    ¬|
+               _\_ ___/__ _\\___¬\_._\__/_\       /__|   __|_____
+             _/¯    ____//¯  __    |     ¬|\_____/  ¬|   \__    ¬\_
+    .        \      ¬\       \/    :      |    /     :     /      /       .
+   -÷--------\\ _     \      /     _ _    |-÷-/           /      //-------÷-
+    :          \\______\\---/_____/ \\____|nD/______/\\--/______/         :
+    :                                                                     :
+    :                                                                     :
+    :            t h e   o n l y   w a y   t o   s u r v i v e            :
+    :                                                                     :
+   -÷---------------------------------------------------------------------÷-
+    '                                                                     `
+
+
+
+      A believer, a mind whose faith is consciousness, is never disturbed
+          because other persons do not yet see the fact which he sees.
+
+                                                    -- Ralph Waldo Emerson
+
+
+
+
+__.["global village" - wer wollte das jetzt wieder?].__________________________
+
+           _____________________________________________________
+      _.___)                                                   (___._
+       :¯                                                          :
+       :                                                           :
+       :        ____.           ____.                  ____.       :
+       :      .\\  ¬|          |    |                .\\  ¬|       :
+     _______  |     |   ______ |  __|___     ______  |     |       :
+  __\\  ___/_ |     | _\\___ ¬\| \\___ ¬\  _\\____¬\_|     |       :
+ /¯     \_  ¬\|     |/    \/   |     /   \/    __    |     |       :
+ \\      /    ·     :          |    /          \/    :     |       :
+  \ _   /       _   l_         | _         _   /      __   l_      :
+   \\__/      /\\____/\_______/`-\_______/\\__/     /\\_____/      :
+       \_____/                               /_____/               :
+       :                    ____.                                  :
+       :             _____.\\  ¬| ____.                            :
+       :    _______. \   /|     |\\  ¬|   ______      ______     _____
+       :____\     ¬| _\\/_|     |     | _\\____ \_  _\\ ___/_  _\\  _/__
+       /     \     |/     |     |     |/    __   ¬\/¯   \_   \/    ____/__
+       \\     \/  _       |     |     |     \/           /    ·    \/    ¬\
+       :\ _      / \ _    | _   l_    |     /     /_    /       _        //
+       : \\     /nD!\\____|-\____/_   l____/_____/\\___/      /\\________/
+       :  ·\___/                  \____/               \_____/     :
+       :                                                           :
+      _:___                                                     ___:_
+       '   )___________________________________________________(  ¬`
+
+
+
+             `Time' has ceased, `Space' has vanished.  We now live
+                in a global village...a simultaneous happening.
+
+                                                 -- Alfred North Whitehead
+
+
+
+
+
+__.["kings crown" - publically req'd by saint long ago]._______________________
+
+
+                      ____.        _
+                     |¯   |      _/ \_
+           .         |    |_____ \   /._/\ .____.  ______     _____
+          .%_ _      |    /¯   /._\_/_| _ \|   ¯|_\\ ___/_   /¯ __//__
+         ·%%%%%%%%%% |  _/   _/ |     | ¬\ \    |¯   \_  ¬\__\____   ¬\_
+           %'        |  \    ¬\ |     :   \ \_  |     /         \/     /
+           %         |   \     \` _   |    \    |    /       _        /
+           %         |---\\     \-\___|____|\___|\--/      /\\_______/
+           %               \_____\                  \_____/       .
+        ______     ____/\     _______ nD! ____/\ ._/\ .____.      %
+       _\ ___//_ ._\___  \_  _\___  ¬\ ___\     \| _ \|¯   |      %
+     _/   \/   ¬\|    /  _/_/   \/   _/¯   \     | ¬\ \    |      %
+     \           |   /   ¬\\         \     /\    |   \ \_  |      %
+      \ _        |   \     ··         \          |    \    |      %
+       \\_______/|---\\     \\_______/ \___/\___/|____|\___|      %
+           .           \_____\                                    %
+           %                                                      %
+           %                                                      %
+           %                           [place sum txt here]       %
+           %                                                      %
+           %._ _                                              _ _.%
+         `%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%'
+          `%                                                      %'
+           `                                                      '
+
+
+                    Man's mind stretched to a new idea never
+                     goes back to it's original dimensions.
+
+                                                  -- Oliver Wendell Holmes
+
+
+
+
+_.["Razfaz" logo - requested by Uwe].__________________________________________
+
+
+
+         ____/\     ____/\      ___/\     ______     ____/\      ___/\
+       _\\___  \_ _\\____ \_  _\\___ \ __\\  __/__ _\\____ \_  _\\___ \
+     _/¯   \/  _//¯   __   ¬\/¯  ____/___    ____//¯   __   ¬\/¯  ____/___
+.---÷\     /   ¬\     \/   _/    \/¯    /    ¬\--/     \/   _/    \/¯    /÷---.
+|     \    \     \    /    \           /\      \ \     /    \           /     |
+`-----\\---÷\     \-÷/_____/\__     __/--\ _    \-\--÷/_____/\__     __//-----'
+             \_____\          `--÷--'     \\_____\             `--÷--'
+
+
+
+
+                    Time is the random wind that blows down
+                   the long corridor, slamming all the doors.
+
+                                                      -- John D. MacDonald
+
+
+
+
+__.["resistance" - a tribute]._________________________________________________
+
+
+                        ______________________________
+                        \                            //
+    _____________________\                           /___________________
+    \                   / \               ___       · \                 //
+   ______  ______    ____  · __    ____ _|   |_  _____ \__ .__  _____   _____
+__\\___ /_/  _  /_._/ __//___\/_._/ __/_\__  _/_\\___ \|  \|  |_\ __/__/ _  /___
+\     /   \  \_/  | \____   /   | \____   /  |     _/  | _ \_ |   \      \_/   /
+ \____\    \_____/|___     /____|___     /___|\___/____|__\   |\______/\______/
+       \____\      ·  \___/    ·    \___/      ·           \__|      ·
+          ·       /             \             /             ·       /
+           \     /               \           /               \     /
+            \  ·/                 \         /                 \·  /
+             \//                   \       /                   \\/
+                                    \     /
+                                     \  ·/
+                                      \//
+
+           "mir san a boarische band... resi's tanz... host mi?"
+
+
+
+
+
+__.["terror in the neighborhood part 1" - for cRu].____________________________
+
+
+                                   ___________.
+                                  /           |
+                                 /            |
+                                /             |
+                              _/              |
+                              \_.             |
+                                |             |
+       $$$$                     |             |
+       $  $                     |             |
+       $  $                     |             |
+       $  $                     :             :
+       $  $$$$$   .$$$$$$$$. $$$$$$$$$. $$$$$$$$$. .$$$$$$$$. $$$$$$$$$.
+       $     .$   $°      °$ $       °$ $       °$ $°      °$ $       °$
+       $. $$$$'   $  $$$   $ $. $$.   $ $. $$.   $ $   .$.  $ $. $$.   $
+       $  $       $. $ $   $ $  $`$   $ $  $`$   $ $   $ $  $ $  $`$   $
+       $. $ $$$$$ $ .$$$   $ $. $ $   $ $. $ $   $ $.  $ $  $ $. $ $   $
+       $..$ $  .$ $..     .$ $. $ $$$$$ $. $ $$$$$ $.. $ $ .$ $. $ $$$$$
+       $:.$ $  :$ $.:$$$$$$' $:.$       $: $  :    $::.$ $..$ $:.$
+       $:.$ $  :$ $::$  ___  $::$     ___. $    ___ ::.$ $::$ $:.$   iN tHE
+    ___ .___  ______ $ \\ /  _____   |   | $   |   |:::$ $: ______    _____
+   _\_ \|   |/ __  //_._\/_./ ___//__|  _|____ |  _|____  _\\__   \._\\__ /__
+  /   \ \   \  \__/   |    |  \__    | \\__   \| \\___  \/    /    |    /    \
+  \    \ \_ |\_______/|_   |\___/    |____/    \________/\________/|____\     \
+   \___|\___|       ___.\__|    \____|    \____/    .. .___    .         \_____\
+        .       $ $|   |   nD!  ______    ______   $:::|   |$ $:.$
+       $:.$ $  :$  |  _|____  _\\__   \__\\__   \______|_  |  $::
+       $::$    :$ $| \\__   \/    /    /    /    /   ___// |$ $::$
+       $::$ $ .:$ $|____/    \________/\________/\   \   __|$ $::$
+       $::$ $ .:$ $.    \____/..         .        \_____/  .$ $::$
+       $::$ $.::$ $::$       $::$       $:.$  :     ..   $::$ $::$
+       $::$ $:::$ $::$       $::        $::$  |    $:::$ $::$ $::$
+       $|:$$$::|$ $|:$$$$$$$ $|:$       $|:$  |    $|::°$°::$ $|:$
+       $$|::::||$ $$|::::::$ $||$       $||$  |    $$|:::::$$ $||$
+       `$$$$$$$$$ `$$$$$$$$$ $$$$       $$$$  |    `$$$$$$$$' $$$$
+                                :             |
+                                |             |
+                                |             |
+                                |             |
+                                |             |
+                                | paRt       _|
+                                |____________\
+
+
+
+
+             Then beauty is nothing but the start of a terror that
+              we're still able to bear.  And the reason we love it
+                 so is that it blithely disdains to destroy us.
+
+                                                     -- Rainer Maria Rilke
+
+
+
+
+__.["underground empire" - req'd by cRu].______________________________________
+
+
+   _________________________________________________________________________
+.__)           _______ ____ .____.  ______    _____       ______           (__.
+|           ___\      |\_  \|    |__\___  \_._\  _/__  ._\\__   \_            |
+|          /    \     |  \  \    |     /    `    ___/__|    /   _/            |
+|          \     \    |   \  \_  |    /          \     '   /     \            |
+|           \         |    \     | _       /\ _            \      \           |
+:            \\______/|____|\____|-\______/  \\___    /\\--=\      \          |
+|                          '                      \__/       \_____/          |
+|       ______      ______     _______     _______.____ .____   ______        |
+|     __\ ___//_ __\\__   \_  _\___   \ ___\      |\_  \|    |__\___  \_      |
+|   //    \__   \     /   _/ /    /    /    \     |  \  \    |     /    \\    |
+|    \      /    \_  /     \           \     \    |   \  \   |    /     /     |
+|     \    /      /  \      \ _        /\         |    \     | _       /      |
+|      \__/      /---=\      \\_______/  \_______/|____|\____|-\______/       |
+|         \_____/      \_____/            _____        '                      |
+|         ______ nD! ___  ___   _______   \   /   ______    ______            |
+|        _\   _/__  _\  \/  /__\\  __  \___\_/_._\\__   \_._\   _/__          |
+|      _/    ____/_/   \__/   /    \/    /     |    /   _/|    ____/_         |
+|      \     \                \     \___/:     |   /     \|    \     \_       |
+|       \ _        \    /     /\     \   |     |   \      \ _         /       |
+|        \\___    /\\--/_____/  \     \  |_____|---=\      \\____    /        :
+|__           \__/               \____/              \_____/     \__/       __|
+'  )_______________________________________________________________________(  `
+
+
+
+
+                   The doors of Heaven and Hell are adjacent
+                   and identical: both green, both beautiful.
+
+                                                      -- Nikos Kazantzakis
+
+
+
+
+_.["Warped" - requested by Miracle].___________________________________________
+
+
+                                                                    .____
+                                                                    |    |____
+           _______.   ___/\     ___/\     ______/\    _____     ____|_   |    \_
+      _ __\\      | _\\___ \_._\\__  \ __/   __   \__\\  _/__  /  ___//  |     /
+_ _/_/_/    \     |/   __    |    /  /_\     \/    /    ____/_/   \      |    /
+\ \ \ \     /\    '     /    |   /     \      \___/     \     \    \     |\__//
+   · \ \ _             /     |   \      \ _    \   \ _        / _       _|____
+      · \\__/\___/\---/_____/`----\      \\_____\nD!\\_______/ \\______/  \__//
+                                   \______\
+
+
+
+
+                 Common sense is the deposit of prejudice laid
+                  down in the mind before the age of eighteen.
+
+                                                        -- Albert Einstein
+
+
+
+                                      ___
+                                      \ //
+                                       \/
+
+
+
+                     I have a few file_id.diz logos as well
+            (average developped brane's note this is "part 2" then)
+
+
+
+
+
+
+_.["Razfaz" .diz - requested by... eh...]._____________________________________
+
+                     ____    ____   ___   ___   ____   ___
+                    _\_ /_nD_\__ \ _\_ \_/ _/___\__ \ _\_ \
+                   |   _  \/  _   /  __/    __/  _   /  __/_.
+                   |   /   \  /  /   \      \/   /  /   \   |
+                  .|___\___/__\__\______/\___\___\__\_______|.
+                  :                                          :
+                  :                                          :
+                  :                                          :
+                  :                                          :
+                  :                                          :
+                  :                                          :
+                  :..........................................:
+
+
+
+
+        The pursuit of an idea is as exiting as the pursuit of a whale.
+
+                                                           -- Henry Russel
+
+
+
+
+_.["Ripen" .diz - requested by Dipswitch]._____________________________________
+
+                    _____ nD __   _______________    ___ .___
+                  ._\__ /__ _\/_._\___    / __  /__ _\_ \|   |
+                  |   /    \    |   \/___/  \__/   \   \ \_  |
+                  |___\     \___|    \   \____     /____\    |
+                  :----\_____\---\____\-------\___/------\___|
+                  :                                          |
+                  :                                          |
+                  :                                          |
+                  :                                          |
+                  :                                          |
+                  :                                          |
+                  +------------------------------------------+
+
+
+           Would there be this eternal seeking if the found existed?
+
+                                                        -- Antonio Porchia
+
+
+
+
+_.["Sodium" .diz - requested by Dipswitch].____________________________________
+
+                           ___    ___   ___  __  ____. _____
+                          / _/_nD_\_ \_\\_ \_\/__\   |_\_  _\_
+                  .______\\___ \/  /  |  /  |  /  \  |  /  / |
+                  |          /        |     :  \     | /  /  |
+                  |____________/\____/|____/|__|\____|_\__\__|
+                  :                                          :
+                  :                                          :
+                  :                                          :
+                  :                                          :
+                  :                                          :
+                  :                                          :
+                  +------------------------------------------+
+
+
+
+                   Tomorrow a stranger will say with masterly
+                 good sense precisely what we have thought and
+                  felt all the time, and we shall be forced to
+                 take with shame our own opinion from another.
+
+                                                    -- Ralph Waldo Emerson
+
+
+
+                                      ___
+                                      \ //
+                                       \/
+
+
+
+
+           well, thats all right now I assume. Just in case you want
+           to contact me write to neurodancer@gmx.de - yes I do take
+            requests! -- in case you want a mid-90's style logo. :)
+
+           We in 1oo% always have use for some good looking... girls.
+          And for good looking 1oo% fullscreen logos and file_id.diz'
+     as well - so if you have either of them or can make it, just send it.
+      Naaaaah, don't start making good looking girls however, a) beautiful
+         as we are we can make them ourselves with our excellent genes
+                   (its fun as well did you know that?), and
+                    b) we can't really wait that long!!! :)
+
+            The lack of "design" in this collection is intentional.
+
+                                   Thats it.
+
+
+
+
+                       May you live in interesting times.
+
+                                                          -- Chinese Curse
+
+
+
+
+@BEGIN_FILE_ID.DIZ  ____.
+ /    |   _____    _____  __ ___
+ |    |__\\_   \__\\_   \_\//  //
+ |    |    /        /    / /  /__ aScii lAbs
+-|   _|\_______/\_______/--\_/-\/-----------
+ |__/                             prEsenting
+     T R i P L E   G E M   O F   W i S D O M
+      tributes/requests - remainders of 1999
+                  by nEurodancer o2-jan-2ooo
+____________________________________________@END_FILE_ID.DIZ
+
+
+
+
+[EOF]
+                                     :
+                         /___________ø_ [%* tHE YARd BBS 2k! *%]
+     ._________________///   ________:                          ____
+  ___|_______ ____.    /  ___\_      |___   ___\      _____  __/_   \
+  \     _   //   _|__  __/_    \     |   \ /    \  __/_    \/   /    \
+   \___/    ø   /    \/   /    /     |_   /      \/   /   _/   /      \
+     _/     :  /_     \_ /____/¯\_____/  /       /   /_    \__________/
+     \______|    \_____/_________/ /____/        \_____\_____//
+         \_______|                     /____________\©nUP
+
+        zANEr^LFC ÷ diPSWiTCH^BK ÷ hAsH^AHS ÷ NINjA^PDX ÷ mOOL^AHS
+
+   ÷ AEROHOLiCS WHQ ÷ ARCADE WHQ ÷ AEROSOL WHQ ÷ DiSCiPLES OF AGEEMA WHQ ÷
+   ÷ THE ASCii CHARTS WHQ ÷ LiGHTFORCE GHQ ÷ BAD KARMA GHQ ÷ TEQUiLA GHQ ÷
+     ÷ SiCK OF iT ALL GHQ ÷ UP ROUGH GHQ ÷ LOW PROFiLE GHQ ÷ PHUNK GHQ ÷
+  ÷ SODiUM GHQ ÷ PUNGAS GHQ ÷ OMEN GHQ ÷ 1OO% GHQ ÷ VORTEX GHQ ÷ MVP GHQ ÷
+          ÷ DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS/BETA-SiTE ÷
+
+  ÷ 2 nODES wITH 33k6 - 2 nODES wITH iSDN - 4 nODES tELNET wITH sTATIC iP ÷
+ ÷ cONSOLES/aMIGA/gRAFFITI/aSCII/mP3/mOD/dRUGS/cLASSICgAMES/dAYdREAM/lINUX ÷
+
+
+                                              ¡    fOR pLEASURE sINCE 1996
+>> ¡ -------------------------------------- - |. - ----------------------- -
+  .|  w  o  r  l  d    h e a d q u a t e r s  ||
+  ||      aEROHOLICS/mO' pLAYAZ/dTR/aSL       !| _
+  |!     bAD kARMA/aGEEMA bLUES/uP rOUGH       | ;
+  |      dIVINE sTYLERS/pHANTASY/tEQUILA       |   _
+  |                                            |   ;
+  7   g e r m a n  &  e u r o p e a n  h q's   |
+  :    lIGHTfORCE/lOW pROFILE/sICK oF iT aLL   |
+  ¡     oLDSKOOL/rOYAL/dRUNKEN/pUNGAS/100%     |
+_ |                                            | "...dON't pLAY uS cHEAP!"
+; |   aMIGA/aSCII/gRAFFITI/dRUGS/n64/gAMEBOY   !
+  |   gAMEBOY aDVANCE/wSC/nGPOCKET/sNES/cGB+    ___.     ______.    drn\lp!
+  |   pSX/pS2/dC/e-bEATS & hIPhOP/cHIP tUNES   \\  !___  \     !__ _ _ ________
+  |   =c64/aTARI8/mODULES/dANCEhALL/dAYDREAM   \\  .__/--\\   ._   \ / ._     /
+  |                                            _\  ;/     \   !/    \  !/____/_
+  |   rUNNING oN a pRIVATE sYSTEM w\ 8 nODES   /___/     _____/     __ /    __\
+ _!   aVAILABLE oN 24/7 sTATIC tELNET @ ADSL       `----'     `----'  `----' 
+\\;     . ______   ___ _ _ _________   _______                            ¡
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   y A R d _______,|
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\ ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\ !
+     ,_____\     `----'  `----\      `----'     theyard2025@hotmail.com

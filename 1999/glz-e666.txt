@@ -1,0 +1,646 @@
+
+             bytes cloned and spreaded by another swap-creature:
+                .                                           .
+             ___|_________ _______ _______________________  |
+                     / __/___ ___/__  _ _ _    ___  /    /__|___
+             ___.___        / _/   /  / / /     _/ /    /   .
+             kem|  /       /______/__/_/_/__  ________   ___|___
+                | /_______/               /___/    /_____/  |k0.
+                                                ·
+                           kempy / moons + veezya
+
+                              przemek kowalczyk
+               [oct'99]      os. kopernika 13/14      [040/40]
+                               34-100 wadowice
+                                   poland
+
+              swap + swap + ascii + swap + swap + and... swap!
+
+ " THiS FiLE FOUND THE WAY THROUGH ONE OF THE FiNEST BULLETiN BOARD SYSTEMS "
+                        _ _____        ___   ______
+                               )_  __ _| (___) _  )_
+                              __/__) (_    |   |___/
+                       _ ___  |   |___|    |__
+    · _____________ _    c!|______|mSS|____| |______ _  _ _____________ ·
+ _ _:_\              ____       ____      _____      ____             /_:_ _
+    |             ___\  (_   ___\  (_   __\_  (_   __\  (_              |
+    |            _) _/   /___)  _   /___) _/   /___)   _ /__            |
+    |           /   \      /    \_    /   \      /     /   /            |
+    |           \___       \_____/    \____\     \__   \   \            |
+    |             \  _______\   /______\    \  ___\ \_______\           |
+    |              \/                        \/                         |
+    |                                                                   |
+    |               ÷  THE YARD BULLETiN BOARD SYSTEM  ÷                |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                       WORLD HEADQUARTERS OF                       |
+    |                                                                   |
+    |         AEROHOLiCS (GRAFFiTi) ÷ DiSCiPLES OF AGEEMA (MUSiC)       |
+    |       ARCADE (ASCii) ÷ AEROSOL (ASCii) ÷ SOUL SURViVORZ (MP3)     |
+    |                     THE ASCii CHARTS (ASCii)                      |
+    |                                                                   |
+    |                      GERMAN HEADQUARTERS OF                       |
+    |                                                                   |
+    | LiGHTFORCE (AMiGA/CONSOLE) ÷ BAD KARMA (AMiGA) ÷ UP ROUGH (MUSiC) |
+    |       LOW PROFiLE (ASCii) ÷ SiCK OF iT ALL (GRAFFiTi/DRUGS)       |
+    |    VORTEX (AMiGA) ÷ PHUNK (ASCii) ÷ 1OO PERCENT (AMiGA/ASCii)     |
+    |           TEQUiLA (MUSiC) ÷ MOST VALUABLE PLAYAZ (MUSiC)          |
+    |      OMEN (GRAFFiTi) ÷ MENACE (DAYDREAM) ÷ PUNGAS (DAYDREAM)      |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                CONSOLES/AMiGA/ASCii/LiNUX/DAYDREAM                |
+    |             GRAFFiTi/DRUGS/CLASSiCS/MP3/MOD/CHiPTUNES             |
+    |                                                                   |
+    |           2 NODES 33k6 / 2 NODES iSDN / 4 NODES TELNET            |
+    |                                                                   |
+    |                        STATiC TELNET iP                           |
+    |                                                                   |
+    |           DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS!            |
+    |                                                                   |
+    |       ZANER/LFC^BK^AHS^A!^SOiA -/- DiPSWiTCH/BK^A!^AHS^1OO%       |
+    |         HASH/AHS^PZK^SOiA -/- NiNJA/PDX^HS  -/- MOOL/AHS          |
+    |                                                                   |
+ _ _|__   " THE iDEA OF STYLE iS THE KEY TO ALL FORMS OF ROCKiNG "    __|_ _
+    · /_______________________________________________________________\ ·
+
+                                                              _.    _.    _.   
+ sof. [ episode six six six :: design & style experiment ]   / !__ / !__ / !___
+----------------------------------------------------------- /___._/___._/___._/
+
+
+
+
+
+    [ this was released in galza #6 // if you're on a pc, go and leech it ] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   m u s i c a l   i n s p i r a t i o n
+                           ---------------------------------------------
+                       ._  in flames .......................... whoracle
+                       :/  nine inch nails ...................... broken  _.
+                       //  dream theater ........... a change of seasons  \:
+                       /   nine inch nails ............. downward spiral  \\
+                           tool ............................... undertow   \
+                           ---------------------------------------------
+                                   t h e   o n e s   t o   l i s t e n !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      drn\lp! _
+   _______ _ _ _________ ¡ ____.   ______________   ____ _ _ ____,._ ________ /
+  \\  ._   \ /  _.     / | \  _|___\ __  ._  __ /___\_   \ / ._    //       // 
+  _   !/____(   \!    /  |  )____.  \ /  !/  \ /    ./    /  !/___( _       //
+  /__ /    ___   )_______|____  /!  ___  /   _____  !\  ____ /    __\      //
+   _ `----'   `----'   __!__  `----'   `----'     `----'    `----'        _/
+ _ )                     ¡                                _.    _.    _.  )
+ //                                                      / !__ / !__ / !___
+///_______._________________________________________ _  /___._/___._/___._/
+/         '
+                                                              welcome here   _
+                                                 the squirrel-wheel begins ._\
+                                                fasten the left hand belts |
+                                            remember not to think too much | 
+                                  and your trip will be numbingly pleasant |¡
+                                                                           ||
+                                             non-caring is the easiest way !|
+                               but to secure a passage to the second plane  |
+                                            you have to complete level one  |
+                                    their dead-smile lips turn on their tv  |
+                                  while urban gravestones scrape the skies  |
+                        rising over marionette cities and marionette skies  |
+                                                                            |
+                                                       this is episode 666  |
+            ........                                     destination chaos  |
+       .....:...   :                           each and all an actor blind  !_
+  _ __ : __ !  : _ :______:_________________________________________________:/
+       :    :..:...:      :                                                 :
+       :   ....:......... :  
+       :...:...:        : ;  
+           :            ·
+           :    oo1 >  chrombacher
+           :    oo2 >  shock g
+           :    oo3 >  desoto
+           :    oo4 >  mortimer twang
+           :    oo5 >  karma
+           :    oo6 >  stylez
+           !    oo7 >  native
+           :    oo8 >  special track
+       ....:...         .
+       :   :..:.........:
+    ...:..  ..:......
+    :  :.:..:.:     :
+    :....:  :       ! 
+            :     - : ------------------------------------------------------ >
+            :.......:                                                    
+                         a dark shadow  sweeps  across the land.  I have  .
+                         returned when you wished that you have seen the  | 
+                         last of me. as you might have guessed this is a _!
+                         respect collection.  the artists  included  are \:
+                         the ones who I consider the best at the moment. \\
+                         some of them haven't released for a while,  but \\
+                         i  couldn't  care  less.  maybe  I  should have  \
+                         included shapechanger, folar, mogue, stezotehic  :
+                      .  and   exocet  too,   because   they  were   the  !
+                      |  inspiration  why   I   started  drawing  ascii.
+                      !_                                                 
+                      :/ I designed my first ascii in '94,  but I joined
+                      // a  "real" ascii group tropic!ascii only in '97.
+                      // I  released  a collection,  but  TA!  died soon
+                      /  after it.  so  I haunted  behemoth  for a while
+                      :  and he let me join  alien technology  which was
+                      !  a  big  surprise.  i wasn't that good you know.
+                         I  released three collections in  '97  and  '98
+                         under /\t. I also planned to release 'ithaka by
+                         night',  but  it got  delayed and  delayed.   i
+                         released  only one collection  in  '98,  but  i
+                         drew  over  500  logos  that  year.    /\t  was
+                         basically dead after  venturus quit doing ascii
+                         and h7 left  so  I decided to leave the sinking  .
+                         ship in '99.  I asked red demon if I could join  |
+                         low profile  and  he said yes.  this was  a big _!
+                         thing for me. I mean it's too cool to be in the \:
+                         same group with  the artists I respect.  little \\
+                         before than I joined lp!, a certain person came \\
+                      .  to  ircnet's  #ascii   and  recruited  me  into  \
+                      |  galza.  so in the god's year  1999  i'm a proud  :
+                      !_ member of both low profile and galza.  and yes,  !
+                      :/ i'm a group whore.  four groups in three years.
+                      // then again maybe not.
+                      //
+                      /  soon  i'm  going to  release 'ithaka by night'
+                      :  request  collection  and   'death  to  techno'
+                      !  file description collection.  maybe  something
+                         nice in galza #7 too. get ready.
+          ......
+          : ...:.......                -- daeron // low profile ^ galza
+          :.:..:      :
+            :       - ! ---------------------------------------------------- >
+        ....:....     :
+        :   :...:.....:
+      ..!..   ..:....
+      : :.:...:.:   :
+      :...:   :  .  :
+              !  !  :
+              :.....:
+                 .
+                 |
+                 |
+                 |¡
+                 ||
+                 ||
+                 |!
+                 |
+                 |
+                 |
+                ¡|
+                ||
+                |!
+                !_   
+                 /________________
+                                 //
+                                 /:   t h e m   r e s p e c t e d   o n e s !
+                                  !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ___.        _                           episode six hundred sixty six
+_¡__ /   !_______ /____________________________________________________ _ ___¡_
+ |  /     _   _ /._\                                                         |
+ | /______(_ /_/ !_______                                                    |
+ |        _ /     _   _ /.                                      cRb  <  oo1  |
+ |  drn!  ///_____(_ /_/ !______                                             |
+_|_______________ _ /     _    ///___________________________________________|_
+ !                 /______(____/                                             !
+                                                            _  
+                                         ._________________ //______________.
+   _________ _ _ ______ _ _ ___          |               _////              |
+  \\   _.    \ /   ._   \ /  ./______    !  chrombacher  ) /                !
+   _\  /|_____(   -|\   _/   |_     /_ _____ _____ ____ ____ ___ ___ __ ___ _              
+   /___ !     _    !----)__ -!\  _____\\____\\____\\___\\___\\__\\__\\_\\__\\
+       `-----' `---'       `----'        .               _                  .
+                                         |               )  epsilon design  |
+     drn\lp!                             !_____________ /___________________!
+                                                      ///
+                                                      //
+
+
+
+
+      ___.        _                           episode six hundred sixty six
+_¡__ /   !_______ /____________________________________________________ _ ___¡_
+ |  /     _   _ /._\                                                         |
+ | /______(_ /_/ !_______                                                    |
+ |        _ /     _   _ /.                                      -sg  <  oo2  |
+ |  drn!  ///_____(_ /_/ !______                                             |
+_|_______________ _ /     _    ///___________________________________________|_
+ !                 /______(____/                                             !
+                                             _            .
+                                  _________ ¡.      ......:.. . .
+                            drn! ¡  _      '||      :  .  :
+                                 | '        !|      :  !  :
+                           ____. !           | . ...:.....:
+                          \\  _|_________    !      :
+                    oooo  _\____.     _ /_ __________  oooo
+                 < ------ /___  !_  __\ _\   _.     / ------ >
+                    .         `----'  _\     _!    /_
+                . ..:......      .    /______\   ___\
+                    :  .  :      |        `-----'
+                    :  !  :      |           .
+                    :.....:.. .. |¡       _, |
+                          :      !|,_________! lp!
+                          .      _!
+
+
+
+
+      ___.        _                           episode six hundred sixty six
+_¡__ /   !_______ /____________________________________________________ _ ___¡_
+ |  /     _   _ /._\                                                         |
+ | /______(_ /_/ !_______                                                    |
+ |        _ /     _   _ /.                                      dto  <  oo3  |
+ |  drn!  ///_____(_ /_/ !______                                             |
+_|_______________ _ /     _    ///___________________________________________|_
+ !                 /______(____/                                             !
+                                      .
+                                      !
+                       d     e     s  :  o     t     o
+                       ___ ___ ______ ¡ ______ ___ ___ 
+                    ._\\__\\__\\      !      //__//__//_.
+                    |          _____________.           |
+                    |        _\\            |           |
+                    !      ____ \ __        |___________!__
+                   ________\_    \ /   _ _ _!_     ._   : //
+            ___ _._\       ./     /     \\\\:/     !/     /_._ ___
+          _\\__\\:/_____   !\   ____        ____   /    ___\://__//_
+                    .   `------'    `------'    `------'.   
+               drn! !___._            ¡  ......    _.___! lp!
+                                 .... | .:..  :
+                                 :    !  :.:..:
+                              ...:..       :  
+                              :  :.:.......:
+                              :....:
+
+
+
+
+      ___.        _                           episode six hundred sixty six
+_¡__ /   !_______ /____________________________________________________ _ ___¡_
+ |  /     _   _ /._\                                                         |
+ | /______(_ /_/ !_______                                                    |
+ |        _ /     _   _ /.                                      ©Mt  <  oo4  |
+ |  drn!  ///_____(_ /_/ !______                                             |
+_|_______________ _ /     _    ///___________________________________________|_
+ !                 /______(____/                                             !
+                             .......   .......          ......
+                .......      :   ..:...:.. ..:.... .....:..  :
+                :     : .....:.. : :   : : : : ..:.:... :.:..:
+                :   ..:.:..  :.:.:.:   :.:.:.: : : :  :   :
+                :...:.: :.:....: :.......: :...:.: :..:...:
+                ____:_____:____        ________:______:____.
+                \ _ :..   : _ /________\ __    :..    :  _.|
+                 \\          /          \ /               !| 
+                  \        ¡  /          \            _ _ _!_
+            drn!  _\  !.   | /       . ...\  !.        \\\\:/_  ^lp!
+         < ------ /_:______!/           _:____            _._\ ------ >
+                    :     . `-----:----' :    `---:------' :
+                ....:.. ..:.......:... ..:....... :     ...:....
+                :   :.:.:.:  .... :..:.:.:   ...:.:..   :  :   :
+                :.....: :....:..:....: :     :  : :.:...:..:   :
+                             :..:      :.....:..:   :   :......:
+                                             :......:
+
+  :: hey, what kind of fucked up design is this?
+     
+  :: gee, i don't know. i call it 'dotties suck' 
+
+
+
+
+      ___.        _                           episode six hundred sixty six
+_¡__ /   !_______ /____________________________________________________ _ ___¡_
+ |  /     _   _ /._\                                                         |
+ | /______(_ /_/ !_______                                                    |
+ |        _ /     _   _ /.                                      kRm  <  oo5  |
+ |  drn!  ///_____(_ /_/ !______                                             |
+_|_______________ _ /     _    ///___________________________________________|_
+ !                 /______(____/                                             !
+                              _.________________.
+                              \:                |
+                              \\    k a r m a   |
+                              \\_               |¡
+                               \(               !!
+                               :\             _______
+                               |       _     /      /_______ _ _ __. _______ 
+                               !    _ \\----/      /    _    \ /   !/      //
+   ___ __ ____ ___ ____ ____ ___ __ /__\   /      /     /    _\    . /     /_
+ _\\__\\_\\___\\__\\___\\___\\__\\_\  ,____\      __    \----/_____!/      _,
+                                            `----'  `----\        . `-----'     
+                                                ¡¡                |  drn\lp!
+                                                !|                |_
+                                                 |                :/
+                                                 |   // a L !     /_
+                                                 !______________//:\
+
+
+
+
+      ___.        _                           episode six hundred sixty six
+_¡__ /   !_______ /____________________________________________________ _ ___¡_
+ |  /     _   _ /._\                                                         |
+ | /______(_ /_/ !_______                                                    |
+ |        _ /     _   _ /.                                      sYz  <  oo6  |
+ |  drn!  ///_____(_ /_/ !______                                             |
+_|_______________ _ /     _    ///___________________________________________|_
+ !                 /______(____/                                             !
+                                       .
+                                       |
+                            _____.____ ! ______,._
+                 _____.   _\\    '    \ /        //_   ._____
+            drn! \    |______\ __      /     __ /______|    / ^lp!
+             ___ _\____._  ,. \ /    _/_     \ / .,  _.____/_ ___
+          _//__//____ /:\  __________):\  _________  /!\ ____\\__\\_
+                     /----'       ,______(         `----\
+                                       .
+                                       |         
+                                       !
+
+
+
+
+      ___.        _                           episode six hundred sixty six
+_¡__ /   !_______ /____________________________________________________ _ ___¡_
+ |  /     _   _ /._\                                                         |
+ | /______(_ /_/ !_______                                                    |
+ |        _ /     _   _ /.                                n7v & dez  <  oo7  |
+ |  drn!  ///_____(_ /_/ !______                                             |
+_|_______________ _ /     _    ///___________________________________________|_
+ !                 /______(____/                                             !
+                                 _________. 
+            .......            ._\        |._________
+            :     :            |          ||        /_.
+            :     :       drn! !          ||          |
+    ......  :.....:    ____________.__    ||          |
+    : ...:......       \_          ' /    !!          |
+    :.:..: ____:_______ /___  _____ /_. _______       |            
+      :    \   : ._    /   /  \   _/  !/      /       |         _ /
+      :    _\    !/   /   /_  _\  )/  /      /_       !  native // aerosol
+ .....:... /___:_/__ /_____\  /__ /__/________\ - --------------/----------- >
+ :    :  :     :    /____________/       ..           ¡        //
+ :    :..:.....:               .         ||          _!
+ :   ....:...  _ ___ ___ ____ _!___  __  !|         \\:
+ :...:...:  :  //__//__//___//____//_ //_ !_________\\
+     :......:                                        \
+
+
+
+
+              .__________.__.  drn\lp!  _____ _._ ___________       .___,._
+    _ _____   |          '  |   ________\_    \:/   ._      /_______|     /
+    //__  /___!__          _!___\       ./     /    !/_____(  .,   ._____/_
+       /______._          __.________   !\   _____  /     _____    !\ ____\
+             _!             !_       `------'     `------'     `-----\
+             \_             _/
+              `             '
+           d e z . . . . . r i p
+              .             .                      
+              !_____________!                       
+
+
+
+
+      ___.        _                           episode six hundred sixty six
+_¡__ /   !_______ /____________________________________________________ _ ___¡_
+ |  /     _   _ /._\                                                         |
+ | /______(_ /_/ !_______                                                    |
+ |        _ /     _   _ /.                              hseven & h7  <  oo8  |
+ |  drn!  ///_____(_ /_/ !______                                             |
+_|_______________ _ /     _    ///___________________________________________|_
+ !                 /______(____/                                             !
+
+                           _:_ _________________ _._
+                           \:((                 \\:_
+         _______.          \\     h s e v e n    _\\
+        \\      !_______    \_                   \: 
+         \     ._     _/__. :( ______ _ _ __. __ ___ __ _ _ ____,.__
+         \\    !/     \   |____\_ ._  \ /   !/   \ /._  \ / _.     //
+   drn!  _\    /       )___._   / !/___(    /     / !/___(  \!     /_  ^lp!
+< ------ /____/       ___ /!\ ___ /    ____/     __ /    ___/     __\ ------ >
+              `------'   `---'   `----'    `----' .`----'   `----'   
+                            :_                   _:
+                           _:/   a e r o s o l   \:_
+                           ///___________________\\(
+
+
+
+
+                          ._____ ____._
+             _._____ ____.|.-   \\   :/
+             \:_   //  -.||          // 
+              \\         ||          //
+              :          ||          :
+     _______. !          !!          !
+     \      !_______________ ____ _____ ___ ____ ____ ___ ____ __ ___ __
+ drn! \    ._     _        //___//____//__//___//___//__//___//_//__//_//_
+      _\   !/     (.      /_         .
+      /____/_______!_______\ ------- | --------------------------------- >
+              .          ..          |                    h s e v e n
+              |          ||         _!
+              |_         ||         \:_
+             _:/         |!_________\\\
+             )//_________!   
+
+
+  :: asl-enj.txt - truly hardcore design! one of the best collections in '99
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           __                   ...
+                         __¾¾____________________ :...
+                           ¾¾          .       ¾¾___ :
+                      _    ¾¾   _______¡_______   ¾¾    _ 
+             ...      \ __ ¾¾ __\     _!_     /__ ¾¾ __ /      ...
+            .: _______\\\  ¾¾          ¡          ¾¾  ///_______ :.
+            : :\        \  ¾¾                     ¾¾  /        /: :
+              |            ¯¯                     ¯¯            |  
+              |         collection design 'n concept by         |
+              |         -------------------------------         |
+              |         daeron of low profile and galza         |
+              |            __                     __            |
+              !        < - ¾¾ ------------------- ¾¾ - >        !
+                           ¯¯                     ¯¯             
+        lyrics were taken from a song called 'episode 666' by in flames  
+              .     _      __                     __      _     .
+             _|____ /      ¾¾                     ¾¾      \ ____|__  
+              !   //     _ ¾¾ __               __ ¾¾ _     \\   !
+                  /-----'  ¾¾  /_______________\  ¾¾  `-----\ 
+                         . ¾¾___                  ¾¾ 
+                         :... ¾¾__________________¾¾__
+                            :..                   ¾¾  
+                                                  ¯¯
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         [ dedicated to the best death metal band around 'in flames' ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ
+      ___.        _
+_¡__ /   !_______ /_______________________¡_
+ |  /     _   _ /._\                      |
+ | /______(_ /_/ !_______    six six six  |
+ |        _ /     _   _ /.                |
+ |  drn!  ///_____(_ /_/ !______          |
+_|_______________ _ /     _    ///________|_
+ !                 /______(____/          !
+@END_FILE_ID.DIZ
+
+
+
+
+                                                              _.    _.    _.
+------------------------------------------------------------ / !__ / !__ / !___
+ eof. [ episode six six six :: design & style experiment ]  /___._/___._/___._/
+
+                                        .
+        .                    _____: . O  o                               O
+   _____|_____.      _____  .)    |____o [ t . H . E  - y . A . R . d ]_o .
+ _|      /   .|_____/_   /_ : _   |                                       :
+ \      /    |/      /   _//  \   ahs.bgirl.arcade.srz.tac.asl.lfc.bk.lp! |
+  |____/|____/      /__________\  up.soia.pnk.omn.mce.1oo.vtx.pvm.mvp HQs |
+            /______/     _ _:   _____          ______  __________ ________:
+                         \\\.  /    /__________\_   /_/  _      //  ._   /.
+consoles.amiga.graffiti.mp3 ! /    /|    /   _      \    /     /    |/    |
+ascii.mp3.modules.chiptunes |/_____     /____\_______\___\________________|
+classicgames.linux.drugs.dd :_  t^/____/   _.  one of the finest in +49!  |
+                             (_____________)| ___________ _______ _ ______:
+                                       _ _ ___)         (_)               :
+                              #1 33k6.  #2 28k8.  #3 64k isdn #4 64k isdn
+                              #5 telnet #6 telnet #7 telnet   #8 telnet
+

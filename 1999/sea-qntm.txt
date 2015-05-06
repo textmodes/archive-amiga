@@ -1,0 +1,2248 @@
+
+
+
+
+                   |
+      _______    __|__    _____
+    zbr      |__|  |  |__|   __|_    still third place in the world ]--|-
+     |__   __      -          ___|____     _____    _____    _______   |
+       |___|_______|_________.  |   __|___|   __|__|   __|__|       |__|
+                   |         |  |_______       ___.          __   __
+                   |         |____________________|___________|___|__s3a
+      appendix.whq |                                                   |
+       anadune.whq | powered by: amiga1240T/603e/240mhz/4gb warez space|
+      teklords.phq |                                                   |
+        floppy.phq | nonstop supporters: jacobs-prefix.appendix-ziutek |
+    sative mea.phq |                                                   |
+  dinx project.phq | master:madbart.appendixnons                       |
+        jormas.phq |                                                   |
+          mawi.phq | node0: +48-91-4879493                             |
+    doggystyle.phq |                                                   |
+     venus art.phq | node1: telnet                                     |
+pic saint loup.phq |                      [ t h e  s e c t   b b s ]   |
+        linear.whq | node2: telnet                                     |
+     old bulls.whq |             _____     _____    _____    _______   |
+                   |           _|   __|___|   __|__|   __|__|       |__|
+      _______    __|__    ____|.|_______       ___.          __   __
+     |       |__|  |  |__|   __| _________________|___________|___|__s3a
+     |__   __      -          ___|                                     |
+    zbr|___|_______|_____________|   still third place in the world ]--|-
+                   |
+                   |
+
+
+......................
+:new collection by :.: sciencific
+:zabora / sative mea : collection
+:    ____    5 colly : 'quantum
+:___|  __|__  in sea : the colly'
+|   |______ |____    :_____ .....
+zbr_______    ___|___|     |____:
+:         |    ___.     -       :
+[.s.e.a.].|_______|_____|_____s3a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                      ---\----------------------------------
+  - --\--------------------------\\--
+      |
+      |  Mechanika kwantowa I
+      |
+      |  Lista 4
+      |
+      |
+      |  1. Stan czastki opisany jest unormowana funkcja falowa
+      |     F(x,y,z) = <x,y,z|F> Wypisac wzory na prawdopodobienstwo
+      |     nastepujacych zdarzen:
+      |
+      |     (a) pomiar wspolrzednej x czastki daje wynik w przedziale
+      |         [a1,a2], (a1<a2);
+      |
+      |     (b) czasteczka znajduje sie w obszarze
+      |         [a1,a2]x[b1,b2]x[c1,c2], (a1 < a2, b1 < b2, c1 < c2);
+      |
+      |     (c) czasteczka znajduje sie pomiedzy plaszczyznami y=b1 i
+      |         y=b1;
+      |
+      |     (d) mierzac wspolrzedne x i y czastki otrzymano dla x wynik
+      |         mniejszy od a, dla y wynik nie wiekszy od b1
+      |         albo wiekszy od b2;
+      |
+      |     (e) pomiar skladowej px pedu daje wynik w przedziale
+      |         [a1,a2], (a1<a2);
+      |
+      |     (f) mierzac ped czasteczki uzyskano wynik w kostce
+      |         [0,a]x[0,b]x[0,c]
+      |
+      |     (g) energia kinetyczna czastki jest wieksza od E.
+      |
+      |
+      |
+      |  2. Jaka jest czestosc i dlugosc fali de Broglie'a elektronu
+      |     poruszajacego sie z energia kinetyczna 20 keV?  Jest to
+      |     typowa energia elektronow w kineskopie kolorowego monitora.
+      |     Czy przy pomocy takich elektronow mozna "zobaczyc" szczegoly
+      |     budowy:  - wirusow (10^-6m) - czasteczki DNA (10^-8m) -
+      |     protonu (10^-15m)?
+      |
+      |
+      |  3. Przyjmijmy, ze wirus moze byc przyblizony przez szescian o
+      |     gestosci wody i o boku jednego miktrona.  Zakladajac jeden
+      |     mikron jako gorna granice nieoznaczonosci polozenia wirusa,
+      |     obliczyc nieoznaczonosc jego predkosci.
+      |
+      |
+      |
+      |  4. Obliczyc nieoznaczonosc predkosci protonu przyjmujac jego
+      |     rozmiar liniowy (10^-15m) jako gorna granice
+      |     nieoznaczonosci polozenia.
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+      |
+23:14 | czytam cos o operatorach w przestrzeniach Hilberta...
+      | sajgon totalny...
+      |
+      |
+      |
+      |
+23:42 | przeczytalem pierwsze zadanie z listy...
+      |
+      |
+      |
+      |
+      |
+23:48 | wrocilem z papierosa... zadanie bylo po chinsku
+      |
+      |
+      |
+      |
+      |
+23:59 |  juz wiem co to wszystko znaczy...
+      |
+      |
+      |
+      |
+      |
+00:44 |  zadanie pierwsze jest banalne... jeszcze tylko napisac maly
+      |  komentarz...
+      |
+      |
+      |
+      |
+00:59 |  przepisalem troche rzeczy z wykladow, bedzie jako komentarz...
+      |  czytam nastepne zadania
+      |
+      |
+      |
+      |
+01:06 |  ide na papieroska...
+      |
+      |
+      |
+      |
+      |
+      |
+01:45 |  kawa dobrze mi zrobila... cala kartka juz zapisana... kurna, latwe...
+      |
+      |
+      |
+      |
+      |
+1:53  |  wszystko leci na falach de Broile'a... niezle...
+      |
+      |
+      |
+      |
+      |
+2:12  |  fajki mi sie koncza...
+      |
+      |
+      |
+      |
+      |
+2:31  |  czytam cos o nieoznaczonosci Heisenberga... niezly koles.. macierze 
+      |  zostawie na jutro...
+      |
+      |
+      |
+      |
+      |
+2:57  |  skonczylem liste zadan...
+      |
+      |
+      |
+      |
+      |
+3:01  |  wlaczam komputer
+      |
+      |
+      |
+      |
+      |
+3:02  |  tworze nowa kolekcje...
+      |
+      |
+      |
+      |
+      |
+      |
+      |                                 . . . k o l e k c j e   n a u k o w a
+      ||
+      |
+      |
+      ||
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+      |
+
+
+       |
+
+
+      |
+
+
+       |
+       |
+
+       |              _________         k o l e k c j a   n a u k o w a
+       |-------------------   /________________________________________
+       |                     /
+      ||                    / s c i e n c i f i c   c o l l e c t i o n
+      |
+      |                                                 :
+      |                                                 |
+   [ sea azkee providers presenta newa kollekcja from --------- ]
+      |                                                 |
+      |                                                 |
+      |                                        [ -------:-- z.a.b.o.r.a ]
+      |                                                 |
+      |                                                 :
+      |    _____    __ __    _____    __  __            :
+      |  _|     |__|  |  |__|     |__|  \|  |__ _______ :  __ __    __ __
+      | |    -        |        -       \ \     |       |:_|  |  |__|  |  |_
+      | zbr____|  |____________|_______|\______|__   __|     |             |
+      |        |__|                              |___|_______________|-|_s3a
+      |                                                 :
+      |                                [ q u a n t u m  :t h e   c o l l y ]
+      |                                                 :
+      |                                                 :
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   teoria nioznaczonosci Heisenberga
+      |
+      |                ___                                _
+      |        /\     |   \   /\     \ /    /    |/    / | |
+      |       /  \  _ |___/  /  \  _  X    \\    /-.  /   /
+      |      /____\(|)|     /____\(|)/ \    \\   | | /   /__|
+      |             | |            |
+      |
+      |
+      |
+      |
+      ||                        ...iloczyn   nieoznaczonosci  pedu  i
+      ||                        polozenia  czaski  (w stanie fi) jest
+      ||                        zawsze  mniejszy  rowny stalej Placka
+      |                         podzielonej  przez  cztery pi:  stala
+      ||                        placka  'h' rowna sie 2 pi razy h_bar
+      |                         ("h kreslone")...
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   zabora for me :)
+      |
+      |
+      | _____    _____    _____
+    ._||__   |__|     |__|   _ |_
+    |  ______|     -          __ |___    _____    _____
+    zbr____________|__________.      |__|   _ |__|     |__.
+      |                       |   -        ___|     -     |
+    [ z a b o r a ]           |____________\________|___s3a
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+       |                                ...stany      reprezentujemy     jako
+                                        unormowane   wektory   falowe  w  L^2
+                                        (przestrzen   Hilberta  calkowalna  z
+                                        kwadretem)...
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   blaze for blaze
+      |
+      |
+      | _____    __
+    ._||   _ |__|  |____
+    |       __     |    |___    _____    _____
+    zbr______________.      |__|__   |__|   __|__.
+      |              |   -     ______|       ____|
+    [ b l a z e ]    |___|_____________________s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+                                        ...obserwable (np. ped, energia)
+                                        reprezentujemy jako operatory
+                                        symetryczne...
+      |
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   azzaro for azzaro
+      |
+      |
+      | _____    _____    _____
+    ._||     |__|__   |__|__   |_
+    |     -     ______|  ______| |___    _____    _____
+    zbr___|___________________.      |__|   _ |__|     |__.
+      |                       |   -        ___|     -     |
+    [ a z z a r o ]           |___|________\____________s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   rownanie falowe
+      |
+      |
+      |                                       * |
+      |                                    __ | |/ \/
+      |                          ___          | |\ /\
+      ||               ___      |   |    ____
+      ||              (_|_) __  |---|  _|___/
+      ||                |   --  |   |   |___
+      |                 |
+      ||
+      |       rownanie falowe - zapis eksponencjalny
+       |
+      ||      A - amplituda
+      |       i - liczba zespolona (pierwiastek z -1)
+              k - wektor falowy
+      |       x - polozenie
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   revi for revi
+      |
+      |
+      | _____    _____
+    ._||   _ |__|   __|_
+    |     ___|       ___|  _    _____
+    zbr___\___________.  \/ |__|     |__.
+      |               |        |_____|  |
+    [ r e v i ]       |_______________s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   fei for fei [ex.yoyo]
+      |
+      |
+      | _______
+     _||   ____|
+    |      ___|___     ____
+    zbr_____    __|___|    |__.
+      |     |    ___. |____|  |
+    [f e i] |_______|_______s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   komutator obserwabli A i B
+      |
+      |
+      |        _            _
+      |       |  __      __  |       __      __         __      __
+      |       | |__|    |__/ | ____ |__| \/ |__/       |__/ \/ |__|
+      |       | |  |    |  \ | ____ |  | /\ |  \  ---  |  \ /\ |  |
+      |       | |  | *, |__/ |      |  |    |__/       |__/    |  |
+      |       |_     /      _|
+      |
+      |
+      |       obserwable A i B komutuja...
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   old bulls for olb members
+      |
+      |
+      |____    __       ____
+   __|     |__|  |_____|    |__                   [ http://oldbulls.o.k.pl ]
+  |     -        |     __      |____    _____    __       __        ____
+  zbr_______________________.  |    |__|  |  |__|  |_____|  |______|  __|__
+      |                     |      __     |        |        |      |______ |
+  [ o l d  b u l l s ]      |____________________________________________s3a
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+                                        ...tylko  te obserwable, dla ktorych
+                                        zachodzi    zaleznosc    komutacyjna
+                                        (ktore  komutuja)  moga byc mierzone
+                                        jednoczesnie...
+       |
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   counting down for darkus
+      |
+      |
+      |_____    _____    __ __
+     _|   __|__|     |__|  |  |_                 [ c o u n t i n g   d o w n ]
+    |             -        |    |_  __   ______    _____    __  _    _____
+    zbr______________________.    \|  |_|      |__|     |__|  \| |__|  _  |__
+      |                      |   \      |_   __|  |_____|           |____    |
+      |                      |___|\__________|_______________|\______________|
+      |                                 ____     _____    __   __    __  __
+      |                              __|    |___|     |__|  |-|  |__|  \|  |_.
+      |                             |  __          -                  \ \    |
+      |                             |_______________________/-\_______|\___s3a
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   potencjal jednowymiarowy
+      |
+      |                          .
+      |  dol potencjalu         /:\
+      |                     U(x) :
+      |                          :
+      |               ___________: U(x)       ___________
+      |                          |  °        |
+      |                          |           |
+      |                          |           |
+      |             .............|___________|............\.
+      |                          :                        /
+      |                          :           a              x
+      |                          :
+      |                          :
+      |
+      |  dol potencjalu posiada spektrum energetyczne ciagle araz dyskretne
+      |
+      |
+      ||                                  dol potencjalu  posiada  spektrum
+      ||                                  energetyczne dyskretne, gdy:
+      ||
+      |                                               E(x) < U(x)
+      ||                                                      °
+      |                                   oraz ciagle gdy:
+       |
+      ||                                              E(x) > U(x)
+      |                                                       °
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   darkus for darkus
+      |
+      |
+      | ____     _____
+     _||    |___|     |_
+    | ___          -    |_____     _  __     __ __     ____
+    zbr____________|__      _ |___| |/ _|___|  |  |___|  __|__
+      |               |   ____|                |      |______ |
+    [ d a r k u s ]   |___\_________|_______________________s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /  low profile for low profile members
+      |
+      |
+      | __       _____     _   _
+     _||  |_____|     |___| |-| |_
+    |     |        -              |               [ l o w   p r o f i l e ]
+    zbr_____________________/-\___!
+      |        _____    ______   _____   ______   ____    ___      _____
+      |     __|  _  |__|   _  |_|     |_|    __|_|    |__|   |____|  ___|_
+      |    |     ___|      ___|    -    |  ___|  |____|      |    |    ___|
+      |    |_______________\_________________|__________________________s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   potencjal jednowymiarowy
+      |
+      |                               .
+      |  prog potencjalu             /:\
+      |                          U(x) :
+      |                [1]            :              [2]
+      |                           U(x):_________________
+      |                            °  |
+      |                               |
+      |                               |
+      |         ......._______________|....................\.
+      |                               :                    /
+      |                               :                      x
+      |                               :
+      |                               :
+      |
+      |  prog potencjalu posiada spektrum energetyczne ciagle
+      |
+      |
+      |
+      |                               liczba falowa dla fali padajacej
+      |                               i odbitej w obszarze [1]:
+      |                                      __________
+      ||                                    /2mE /
+      ||                              k = \/    / h_bar
+      ||
+      |
+      ||                              dla fali w obszarze [2]:
+      |                                      ______________
+       |                                    /2m(E-U) /
+      ||                              q = \/       °/ h_bar
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   anormalix for me :)
+      |
+      |
+   _____    __  __   _____   ______                      [ a n o r m a l i x ]
+ _|     |__|  \|  |_|     |_|   _  |_
+|    -       \ \       -        ___| |_ __    _____    __      ____  ___  __
+zbr__|_______|\_________________\_   | |  |__|     |__|  |____|    |_\  \/ /_.
+                                  |             -        |    |____|         |
+[ anormalix.ift.uni.wroc.pl ]     |___|-|_______|_______________________/\_s3a
+
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   mawi for mawi members
+      |
+      |
+      | __ __     _____
+    ._||  |  |___|     |__
+    |               -     |_   __    _____
+    zbr__|-|________|___  | |-|  |__|     |__
+      |                |            |_____|  |
+      [ m a w i ]      |____/-\____________s3a
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |                                obserwable - wielkosci fizyczne
+
+      |                                 funkcje falowe - stany
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   potion for potion members
+      |
+      |
+      | _____    _____
+     _||   _ |__|     |__                         [ p o t i o n ]
+    |     ___|     -     |______    _____     _____     __  __
+    zbr________________.        |__|     |___|     |___|  \|  |_.
+      |                |___   __|  |_____|      -        \ \    |
+      [ p o t i o n ]     |___|__________________________|\___s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+     |
+
+                   \                              /
+      |=============================================
+   ===|              \                          /------------[ da news? yes!
+         |            \
+                       \
+   \--------------------\
+ zbr\s3a-----------------\ /  _________    _______   ____  ___   ________
+     _______     ________ / __\__   __/_ __\    _/-·-\   \/  /-+_\    __/__
+ ____\    _/__ __\   _  /__\       /    |   \__/   |  \        |        ___|
+|     \___    |      _      \--/________!-\________!---\_______|---\_______!
+·--\__________!------/_______\     ____  ____      ________     ________
+                              \ ___\   \/   /---+__\    __/__ __\   _  /___
+ _____________________________ \      \  /      |         ___|      _      |
+ WICKED KNIGHTS OF SMALL LINES  \------\/|______!----\_______!------/______!
+    ______    ______    ____     \\-----------------[.s.a.t.i.v.e. .m.e.a.]-
+ -- AZZARO -- RENTON -- REVI --   \\
+        ______    _______          \\          [ s p e c i a l   n - e w s ]
+      - X-BALL -- ZABORA! --                      |sponsored by ADIHASH(tm)|
+
+
+ - Blaze changed his handle for Blejz, but finally few days later he moved for
+   Renton. New tag: tøn'sea. Gee, a jednak wszystko jest po staremu... Znowu
+   sië znatowaîem ;D
+ - Revi got released his first colly under our name (sea-mysl.txt). Get it!
+   He also changed the address, notice the new one instead of old!
+ - Watch out at X-BALL carefully ;D
+ - Zabora changed address and email. Look down!
+ - We are looking for more members/boards woldwide!
+
+                     [ o f f i c i a l   r e l e a s e s   t i l l   n - o w ]
+ -----------------------------------------------------------------------------
+ no | shortcut     | full title               | artist    | date     | lenght
+ -----------------------------------------------------------------------------
+ ONE-NINE-NINE-EIGHT]. .[07 releases till now
+ -----------------------------------------------------------------------------
+ 01 | sea-dubt.txt | dubitation               | renton    | 18/12/98 | 042.104
+ 02 | sea-neon.txt | neon flow                | azzaro    | 15/12/98 | 074.000
+ 03 | sea-orig.txt | origami                  | azzaro    | 20/12/98 | 116.314
+ 04 | sea-4a3.txt  | 456 alien 3              | azzaro    | 20/12/98 | 124.145
+ 05 | sea-blue.txt | portrait out of the blue | azzaro    | 20/12/98 | 106.000
+ 06 | sea-pulv.txt | pulverturm               | azzaro    | 20/12/98 | 108.000
+ 07 | sea-jtkn.txt | jak to kurwa nazwac?     | zabora    | 10/12/98 | 021.550
+ 08 | sea-1pos.txt | 100 percent of shit      | renton    | 10/01/99 | 022.858
+ 09 | sea-1999.txt | najnhundretnajntynajn    | renton    | 11/01/99 | 048.361
+ 10 | sea-fngr.txt | finger                   | zabora    | 16/02/99 | 050.777
+ 11 | sea-zero.txt | zero remix               | azzaro    | 27/02/99 | 183.000
+ 12 | sea-psyl.txt | psilocybe semilanceta    | zabora    | 03/03/99 | 105.352
+ 13 | sea-ck01.txt | construction kit 01      | azzaro    | 06/03/99 | 047.733
+ 14 | sea-pead.txt | peanut head              | renton    | 05/04/99 | 080.548
+ 15 | sea-dobm.txt | dobberman                | azzaro    | 06/04/99 | 100.000
+ 16 | sea-kore.txt | klubbhead loop 89        | a+a+k+z   | 25/04/99 | 400.000
+ 17 | sea-time.txt | timelessness             | renton    | 03/05/99 | 048.663
+ 18 | sea-mysl.txt | myôl                     | revi      | 05/05/99 | 224.774
+ 19 | sea-nwor.txt | new order                | x-ball    | 10/05/99 | 112.547
+ 20 | sea-pace.txt | peace                    | renton    | 13/05/99 | 060.927
+ 21 | sea-mlem.txt | morning lemon            | az0!+tøn  | 16/05/99 | 100.436
+ 22 | sea-agpa.txt | age of panic             | renton    | 21/05/99 | 068.808
+ 23 | sea-dcry.txt | diskocit. rocks u bitch  | azzaro    | 06/06/99 | 192.593
+ 24 | sea-celi.txt | the celebration of the.  | renton    | 14/06/99 | 080.000
+ 25 | sea-adia.txt | aqua di azor             | azzaro    | 20/06/99 | 250.000
+ 26 | sea-xfl9.txt | ex-factor lite 99        | azzaro    | 27/06/99 | 117.541
+ 27 | sea-cdn.txt  | counting down        [g] | darkus    | 05/07/99 | 036.837
+ 28 | sea-garf.txt | garden my flies          | x-ball    | 07/07/99 | 156.007
+ 29 | sea-qntm.txt | quantum the colly        | zabora    | 07/07/99 | 043.896
+ -----------------------------------------------------------------------------
+ FURTHCOMING].
+ -----------------------------------------------------------------------------
+    | sea-mpf.txt  | multiplastikk micro form | azzaro    | xx/xx/99 | xxx.xxx
+    | sea-0004.txt | numer 0004               | revi      | xx/xx/99 | xxx.xxx
+    | sea-wbar.txt | whiskey bar              | renton    | xx/xx/99 | xxx.xxx
+    | sea-near.txt | not to touch the earth   | renton    | xx/07/99 | xxx.xxx
+    | sea-5to1.txt | five to one              | renton    | xx/07/99 | xxx.xxx
+    | sea-azmk.txt | colly azkymakery dwa     | zabora    | xx/08/99 | xxx.xxx
+    | sea-ktrn.txt | kataryniarz              | zabora    | xx/08/99 | xxx.xxx
+    | sea-ubik.txt | ubik                     | zabora    | xx/08/99 | xxx.xxx
+    | sea-tnvl.txt | Tinuviel da pierscien... | zabora    | xx/08/99 | xxx.xxx
+ -----------------------------------------------------------------------------
+ total number of collections: 029           total lenght in bytes: 003.135.xxx
+ -----------------------------------------------------------------------------
+                                                     [ s - t a t i s t i c s ]
+ -----------------------------------------------------------------------------
+                         actual members productivity:
+
+     azzaro ---------- 12 ascii collections, 11 own made, 02 cooperations
+     renton ---------- 09 ascii collections, 08 own made, 01 cooperations
+     revi ------------ 01 ascii collections, 01 own made, 00 cooperations
+     x-ball ---------- 02 ascii collections, 02 own made, 00 cooperations
+     zabora! --------- 05 ascii collections, 04 own made, 01 cooperations
+
+                         guest collections released:
+
+      acid ------------ 01 ascii collection, 00 own made, 01 cooperation
+      darkus ---------- 01 ascii collection, 01 own made, 00 cooperation
+      kempy ----------- 01 ascii collection, 00 own made, 01 cooperation
+ -----------------------------------------------------------------------------
+                                                           [ c - o n t a c t ]
+ -----------------------------------------------------------------------------
+          azzaro - tommy wisniewsk'y · szeroka 35/8 · 75-814 koszalin · poland
+                                           e-mail: zorka19@puma.tu.koszalin.pl
+
+                renton - pat kalinowsk'y · p.o.box 3 · 21-200 parczew · poland
+
+            revi - sly ostruszka · sw. jerzego 7a/17 · 43-400 cieszyn · poland
+                                                     e-mail: revi@mailcity.com
+
+          x-ball - mark nowack'y · dabrowskiego 66/7 · 41-500 chorzow · poland
+
+         zabora - gregory zaborowsk'y · kopernika 28/8 · 68-100 zagan · poland
+                                         e-mail: zabora@bratek.ift.uni.wroc.pl
+
+                     call SEA polish headquarter: DA SECT BBS - +48-91-4879493
+               look oficial SEA web page: http://anormalix.ift.uni.wroc.pl/sea
+ -----|-----------------------------------------------------------------------
+                                typed by renton'sative mea, psychikal kreation
+      |                                          updated by zabora at 07/07/99
+ -----|-----------------------------------------------------------------------
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+     |
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   gestosc produ prawdopodobienstwa
+      |
+      |
+      |                    * |     _                         _
+      |         ___        | |/   |        ___     ___        |
+      |           |        | |\   |  _ ____ _       _ ____ _  |
+      |           | ___  ________ | (|)\  /(|) --- (|)\  /(|) |
+      |          /| ___   _  _ _  |  |  \/  |       |  \/  |  |
+      |         /_|      '/ | | | |_                         _|
+      |                  /_|| | |
+      ||
+      ||
+      ||
+      |                            J - gestosc proadu prawdopodobienstwa
+      ||                           i - liczba zespolona i (pierwiastek z -1)
+      |                            k - liczba lafowa
+       |                           ____
+      ||                           \  /  - operator nabla
+      |                             \/
+
+      |                            ---                            _
+        |                          (|) - sprzezenie zespolone do (|)
+                                    |                             |
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   floppy for floppy members
+      |
+      |
+      | _______    __       _____
+     _||    ___|__|  |_____|     |__               [ f l o p p y ]
+    |      ____|     |        -     |_____     _____     __  ___
+    zbr______|___________________.  |   _ |___|   _ |___|  \/  /_
+      |                          |     ___|      ___|      /     |
+      [ f l o p p y ]            |_____________________________s3a
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   maq for maq
+      |
+      |
+      | __ __     _____     _____
+    ._||  |  |___|     |___|     |_
+    |               -         -    |
+    zbr__|-|________|___________|  |
+      |                         |  |
+    [ m a q ]                   |s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   k0re for k0re members
+      |
+      |
+      | _  __     _____
+    ._|| |/ _|___|     |_
+    |               -    |_____     _____
+    zbr__|_____________.     _ |___|   __|_
+      |                |    ___|        ___|
+    [ k o r e ]        |____\____________s3a
+      |
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |                                 wzory de Brogilie'a:
+
+      |                                   w = E / h_bar
+       |
+                                          k = p / h_bar
+       |
+                                          l = h / |p|
+      |
+                                          E  = h * f
+       |
+
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   sative mea for sea members
+      |
+      |
+      |____     _____
+    __|  __|___|     |_             [ a z z k e  b a n d ]
+   |  |______     -    |____    _____    _  _    _____
+   zbr____________|_.       |__|     |__| \/ |__|   __|__
+      |             |__   __|  |_____|               ____|
+      |               |___|______________________________|
+      |                         __ __    ____    _____
+   [ s a t i v e ]          .__|  |  |__|  __|__|     |__
+      |                     |              ___.    -     |
+   [ m e a ]                |____|-|__________|____|___s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   linear for linear members
+      |
+      |
+      |___       ____    __  __    ____
+     _|   |___ _|    |__|  \|  |__|  __|__
+    |         | |____|    \ \         ____|___    _____
+    zbr___________________|\___________.  |   |__|   _ |__
+      |                                |   -        ___|  |
+      [l i n e a r ]                   |___|________\___s3a
+      |
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+
+
+       |
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   Lista nr 4. zadanie 1.b
+      |
+      |
+      |
+      |          _   /             __ \                      __  |  _
+      ||        (|)  | \/   |_|     / |   ---  / \/   |_|     /  | (|) \
+      ||         |   \ /\ ,  _| ,  /_ /   ---  \ /\ ,  _| ,  /_  |  |  /
+      ||
+      |
+       |
+      |        prawdopodobienstwo tego ze mierzac wspolzedne czastki w stanie
+      |        fi, otrzymamy wynik w przediale [a1,a2]x[b1,b2]x[c1,c2], gdzie
+               a1 < a2, b1 < b2, c1 < c2;
+      |
+
+      |        a2  b2 c2                                                 _
+      |         _  _  _                                                 '/
+               /  /  /                                                  /_
+      |        |  |  |   |     |      |__  /              __   |  _    \
+      |        |  |  |  _|\/  _||_|  _| /  | / \/   |_|     /  | (|) \ |
+              _/ _/ _/ |_|/\ |_| _| |_|/_  \ \ /\ ,  _| ,  /_  |  |  / /
+      |      a1 b1 c1
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   speed for blaze
+      |
+      |
+      | ____      ______
+     _||  __|____|    _ |_
+    |  |______       ___| |_____      _____      ____
+    zbr_________________      __|____|   __|____|    |___
+      |                 |     ____       ____   ___      |
+      [s p e e d]       |_________|__________|_________s3a
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+
+
+
+
+
+
+      |                   \-----------------------------:-------------------
+------\--------------------\............................:
+      |   [ z a b o r a ] _________      q u a n t u m   t h e   c o l l y
+      |------------------------   /_______________________________________
+      |   sative mea azkee providers  /
+      |                              /   janeq for janeq
+      |
+      |
+      |_____     _____     __  __     _____     _____
+     _|     |___|     |___|  \|  |___|   __|___|     |__
+    | |_____|      -        \ \          ____      -    |
+    zbr_/__________|________|\_______________|______|   |
+      |                                             |   |
+      [j a n e q]                                   |_s3a
+      |
+      |
+      |
+      ||
+      ||
+      ||
+      |
+      ||
+      |
+       |
+      ||
+      |
+
+      |
+        |
+
+      |
+       |
+
+       |
+
+      |
+
+       |
+
+      |
+
+
+
+       |
+
+
+
+
+
+      |
+
+
+       |              _________         k o l e k c j e   n a u k o w a
+       |-------------------   /________________________________________
+       |                     /
+      ||                    / s c i e n c i f i c   c o l l e c t i o n
+      |
+      |                                                 :
+      |                                                 |
+   [ sea azkee providers presenta newa kollekcja from --------- ]
+      |                                                 |
+      |                                                 |
+      |                                        [ -------:-- z.a.b.o.r.a ]
+      |                                                 |
+      |                                                 :
+      |    _____    __ __    _____    __  __            :
+      |  _|     |__|  |  |__|     |__|  \|  |__ _______ :  __ __    __ __
+      | |    -        |        -       \ \     |       |:_|  |  |__|  |  |_
+      | zbr____|  |____________|_______|\______|__   __|     |             |
+      |        |__|                              |___|_______________|-|_s3a
+      |                                                 :
+      |                                [ q u a n t u m  :t h e   c o l l y ]
+      |                                                 :
+      |                                                 :
+      ||                                                :
+      ||                                                :
+      ||                                                :
+      |                                                 :
+      ||                                                : zabora / saive mea
+      |                                                 : sea-qntm.txt
+       |                                                : quantum the colly
+      ||                                                :
+      |                                                 : exploited
+                                                        : ventylator
+      |                                                 : marlyn manson
+        |                                               :
+                                                        :
+      |                                                 :
+       |                                                :
+                                                        :
+        |                                               :
+                                                        :
+      |                                                 :
+       |                                                :
+                                                        :
+       |                                     [requests] : zabora
+                                                        : palimy traFke      [pT]
+      |                                                 : przyjaciele tabaki [pt]
+                                                        : Pijemy tury        [Pt]
+       |                                                : walimy siurua      [wô]
+                                                        : maskine  [msk]
+      |                                                 : welc
+                                                        : rock&roll
+        |                                               :
+                                                        :
+      |                                                 :
+       |                                                :
+                                                        :
+      |                                                 :
+                                                        :
+       |                                                :
+                                                        : masa elektronu:
+                                                        : me = 9,11*10^(-31)kg
+      |                                                 :
+                                                        : masa protonu:
+       |                                                : mp = 1,67*10^(-27)kg
+                                                        :
+      |                                                 : stala Placka:
+                                                        : h_bar = h/2pi
+       |                                                : h_bar = 1,05*10^(-34)Js
+                                                        :
+      |                                                 :
+                                                        :
+                                                        :
+                                                        :
+
+       |
+
+
+
+
+
+
+      |
+
+
+
+
+
+                   |
+      _______    __|__    _____
+    zbr      |__|  |  |__|   __|_    still third place in the world ]--|-
+     |__   __      -          ___|____     _____    _____    _______   |
+       |___|_______|_________.  |   __|___|   __|__|   __|__|       |__|
+                   |         |  |_______       ___.          __   __
+                   |         |____________________|___________|___|__s3a
+      appendix.whq |                                                   |
+       anadune.whq | powered by: amiga1240T/603e/240mhz/4gb warez space|
+      teklords.phq |                                                   |
+        floppy.phq | nonstop supporters: jacobs-prefix.appendix-ziutek |
+    sative mea.phq |                                                   |
+  dinx project.phq | master:madbart.appendixnons                       |
+        jormas.phq |                                                   |
+          mawi.phq | node0: +48-91-4879493                             |
+    doggystyle.phq |                                                   |
+     venus art.phq | node1: telnet                                     |
+pic saint loup.phq |                      [ t h e  s e c t   b b s ]   |
+        linear.whq | node2: telnet                                     |
+     old bulls.whq |             _____     _____    _____    _______   |
+                   |           _|   __|___|   __|__|   __|__|       |__|
+      _______    __|__    ____|.|_______       ___.          __   __
+     |       |__|  |  |__|   __| _________________|___________|___|__s3a
+     |__   __      -          ___|                                     |
+    zbr|___|_______|_____________|   still third place in the world ]--|-
+                   |
+                   |
+

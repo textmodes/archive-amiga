@@ -1,0 +1,2048 @@
+-----------  ----  ----   ----------   -------- -- - ---- - ------------- -----
+
+                    THiS FiLE TRAVLED BEYOND LiGHTSPEED 
+    _ _______ ___________ _________________  ______________________
+   \\\\__    Y    __     Y    ________     \/    _______     _     \
+ ...   /     _     \     |     \     l      \_   ____/ \     |  sox \_ ...
+ :   _/      |      \_______    \_   _________   |      \_   l_______/   :
+ :   \_______|_______/___________/___|     \_____________/___|           :
+ :      _____________________________________________________________ _  :
+ :     /    ______________     ________   __     _______     _______//// :
+ :..  _\______     \     l      \_         \     |     \     ____/ \  ...:
+    _/       |      \_   ________/   |      \_   l      \_   |      \_
+    \________________/___|    \______________/___________/___________/
+
+     -  DayDream - USR 288OOv34 - A12OO O3O 24Mhz - CONNER 1.3GB HD -
+
+                              - O8-7749532 -
+ 
+     - AMIGA PD - MODS - ASCII - DAYDREAM DOORS - FREE DOWNLOAD !!! -
+
+                    Uploaded at 22:56:43 20-Jun-97!
+----- -- - -- --- ---- ------- --- -------- --- --------- -- - - --------- - --
+
+
+                                                                     __
+      ______ _____ ____ ____ ___.:___ ______ ________ _____ ________ )/
+  ____\    //____//   //  _//   ||   \\    //_     _//_____))_     / /cDr .
+  \   /   /       \_      \     ||    _\     |     |         /    /   m's_|
+ /_______/______________________||___________|_____|________/____________\
+
+      wraith  -÷-  payday -÷-  recall  -÷-  madmax^juan  -÷-  etrigan
+         amiga / pc / c64 / console / cd^/x tools / olden goldies __
+         __     node #1: +46-private   node #2: +46-private      /\_\
+        /_/\    node #3: 24h-telnet!   node #4: 24h-telnet!      \/_/
+        \_\/          all nodes are ofcoz 33.6k v.all
+
+ -- ----- -------------- [ D I S C U S T I N ' ] -------------- ----- --
+
+
+
+ line 0001:  80x50 afs (just in case you've lived under a rock)
+
+
+                  _______   ___________    ______      ________  ______
+             _____\_     \  \_ _ __  _/_ _(_ ____)_ ___\___ __/____ - _)______
+  ____ /\ __(___ ___)__ \ \______ /    / -__)___ _/__ _  _/_      /
+ _\__ /  \   __/_    _/__\      /_ ___/        /____) /    /     /
+(______/\       /______).-\_______)           /--_-_______/ ____/____ _\
+--+tZ--/\\_____/.-------'      _  ______\    /       `-_ ____________)--\
+      /__\-+kTS-'-nobody beats the bizz- \  /- -   -                     \_____
+                                          \/     -a year in the life....
+
+
+
+         ---    T                  H                  E     ---
+
+                         ,s$²"²$$s.
+     ,s$   .s$s.s$²"²$$s.$:$   $::$s$$²"²$$s.,s$   .s$s,s$²"²$$s.
+     $:$   $::$$:$   $::$`²'   $::$$:$   $::$$:$   $::$$:$   $::$
+     $:$   $::$$:$   $::$,s$²"²$::$$:$   $::$$:$   $::$$:$   $::$
+     $:$   $::$$:$   `$$'$:$   $::$$:$   $::$$:$   $::$$:$   `²$'
+     $:$   $::$$:$       $:$   $::$$:$   $::$$:$   $::$`²$b.d$$s.
+     `$$   $:$'$:$       `$$   $::$$:$   $::$`$$   $:$'$s.   $::$
+      `²b.d$$' $:$        `²b.d$::$$:$   $::$ `²b.d$$' $:$   $::$.
+               `²$                 $:$   $::$          $:$   $::$:.
+                                   `²$   $::$          $:$   $:$$::.
+                                         $::$          `²$b.d$$²' ::.
+                                         $::$                      ::.
+                                         `$:$                       ::.
+                                          `²$                        ::.
+                        .s$$          .s$$                            ::.
+         ,s$²"$ss$²"$$s.`$²'s$$²"²$$s.`$²'s$$²"²$$s.,s$²"²$$s.         ::.
+         $:$  $::$  $::$b..d$:$   $::$b..d$:$   $::$$:$   $::$        .:: 
+         $:$  $::$  $::$$::$$:$   $::$$::$$:$   $::$$:$   $::$       .::
+         $:$  $::$  $::$$::$$:$   $::$$::$$:$   $::$$:$   $::$      .::
+         $:$  $::$  $::$$::$$:$   $::$$::$$:$   $::$$:$   $::$     .::
+         $:$  `$:$  $::$$::$$:$   $::$$::$$:$   $::$`$$   $::$    .::
+         $:$   `²$  $::$$::$$:$   $::$$::$$:$   $::$ `²b.d$::$   .::
+         `²$        $::$`$:$$:$   $::$`$:$$:$   $::$      $::$  .::
+                    $::$ `²$`²$   $::$ `²$`²$   $::$.s.   $::$ .::
+                    `$:$          $::$          $::$$:$   $::$.::
+                     `²$          $::$          $::$$:$   $:$'::
+                                  `$:$  !wr!    `$:$`²$b.d$²'::
+                                   `²$           `²$      .:::
+         ,s$²"²$$s.                                      .:::
+         $:$   $::$,s$²"²$$s..s$²"²$$s.,s$²"²$$s.       .:::
+         $:$   $::$$:$   $::$$:$   $::$$:$   $::$      .:::
+         $:$   `$$'$:$   $::$$:$   $::$$:$   $::$     .:::
+         $:$   b..d$:$   $::$$:$   `$$'$:$   $::$    .:::
+         $:$   $::$$:$   $::$$:$       $:$   $::$   .:::
+         `$$   $:$'`$$   $:$'$:$       $:$   $:$'  .:::
+          `²b.d$²'  `²b.d$$' $:$       $:$b.d$$'  .:::
+                             `²$       $:$       .:::
+                                       $:$      .:::
+                                       $:$     .:::
+                                       $:$    .:::
+                                       `²$   .:::
+                                            .:::
+          I N          C O N J U N C T I O N:::        W I T H
+                                          .:::
+     ---     T                   H       .:::     E      ---
+                                        .:::
+    ,s$²"²$$s.                         .:::
+    $:$   $::$,s$²"²$$s.,s$²"²$$s.,s$²"²$$s.
+    $:$   $::$$:$   $::$$:$   $::$$:$   $::$  .::.
+    $:$$$.`$$'$:$   $::$$:$  .$::$$:$  .$::$ .::::.
+    $:$       $:$   `$$'$:$²"²`$$'$:$²"²`$$'.:: :::.
+    $:$       $:$       $:$   b..d$:$   b..d::   :::.
+    $:$       $:$       $:$   $::$$:$   $::$:     :::.
+    $:$       `²$       `²$b.d$$²'`²$b.d$$²'       :::.
+    `²$                    ,s$                 ,s$  :::.
+          ,s$$             $:$                 $:$   :::.
+,s$²"²$$s.$$²'.s$"$ss$"$$s.$:$                 $:$    :::,s$     $s.
+$:$   $::$b..d$:$ $::$ $::$$:$                 $:$     ::$:$     $:$
+$:$   $::$$::$$:$ $::$ $::$$:$²"²$$s.,s$²"²$$s.$:$²"²$$s.$:$     $:$,s$²"²$$s.
+`²$   $::$$:;$$:$ $::$ $::$$:$   $::$$:$   $::$$:$   $::$$:$ ,s$ $:$$:$   $::$
+     d$$²'$::$$:$ $::$ $::$$:$   $::$`²'  .$::$$:$   $::$$:$ $:$ $:$$:$  .$::$
+,s$b" .s$$$::$$:$ `$:$ $::$$:$   $::$,s$²"²$::$$:$   $::$$:$ $:$ $:$$:$²"²`$$'
+$:$   $::$$::$$:$  `²$ $::$$:$   $::$$:$   $::$$:$   $::$$:$ $:$ $:$$:$   b..d
+$:$   $::$$::$$:$      $::$$:$   $::$$:$   $::$$:$   $::$$:$s$:$s$:$$:$   $::$
+`²$b.d$$²'$::$`²$      $::$`²$b.d$$²'`²$b.d$::$`²$b.d$$²'$²' $²' $²'`²$b.d$$²'
+          $::$         $::$                                    .:::
+          $::$         `$:$     ,s$$    ,s$$                  .:::
+          `$:$          `²$     $::$,s$$$::$       !wr!      .:::
+           `²$                  $::$$$²'$::$  ,s$$          .:::
+                                $::$b..d$::$  $$²'         .:::
+                                $::$$::$$::$$$b..d        .:::
+  ,s$²"²$$s.,s$²"²$$s.,s$²"²$$s.$::$$::$$::$$$$::$,s$²"²$$s.,s$²"²$$s.
+  $:$   $::$$:$   $::$$:$   $::$$::$$::$$::$  $::$$:$   $::$$:$   $::$
+  $:$   $::$$:$   $::$`²'  .$::$$::$$::$$::$  $::$$:$   $::$$:$   $::$
+  $:$   `$$'$:$   $::$,s$²"²$::$$::$$::$$::$  $::$$:$   $::$$:$   $::$
+  $:$   b..d$:$   $::$$:$   $::$$::$$::$$::$  $::$$:$   $::$$:$   $::$
+  $:$   $::$$:$   $::$$:$   $::$$::$$::$$::$  $::$$:$   $::$$:$   $::$
+  `²$b.d$$²'`²$b.d$$²'`²$b.d$::$$::$$::$$::$  $::$`²$b.d$$²'$:$   $::$
+                            .:: $::$$::$$::$  `$:$          `²$   $::$
+                           .::  $::$`$:$$::$   `²$                $::$
+                          .::   $::$ `²$$::$                      $::$
+                         .::    $::$    $::$   .s$s               $::$
+                        .::     `$:$    `$:$   $::$               $::$
+                       .::       `²$     `²$b.d$$²'               $::$
+                      .::                                         `$:$
+                     .::                                           `²$
+      P R O U D L Y .::                       P R E S E N T S
+                    ::.                               ,s$$
+                     ::.                              $::$
+                      ::,s$$                          $::$
+    ,s$²"²$$s.         :$$²'                          $::$,s$²"²$$s.
+    $:$   $::$,s$²"²$$s.b..d,s$²"²$$s.,s$²"²$$s.,s$²"²$::$$:$   $::$
+    $:$   $::$$:$   $::$$::$$:$   $::$$:$   $::$$:$   $::$$:$   $::$
+    $:$   `$$'$:$   $::$$::$$:$  .$::$$:$   $::$$:$   $::$$:$   `$$'
+    $:$$s.    $:$   `$$'$::$$:$²"²`$$'$:$   $::$$:$   $::$$:$
+    $:$       $:$       $::$$:$   b..d$:$   $::$$:$   $::$`²$b.d$$s.
+    $:$       $:$       $::$$:$   $::$$:$   $::$$:$   $::$.s,   $::$
+    $:$       `²$       $::$`²$b.d$$²'`²$   $::$`²$b.d$$²'$:$   $::$
+    `²$                 $::$                $::$.         $:$   $::$
+                        `$:$        ,s$$    $::$:.        `²$b.d$$²'
+                         `²$        $::$    `$:$::.
+                                    $::$     `²$ ::.
+                                    $::$          ::.
+          ,s$²"²$$s.,s$²"²$$s.,s$²"²$::$     :.    ::.
+          $:$   $::$$:$   $::$$:$   $::$     ::.    ::.
+          `$'  .$::$$:$   $::$$:$   $::$      ::.    ::.
+          ,s$²"²$::$$:$   $::$$:$   $::$       ::.    ::.
+          $:$   $::$$:$   $::$$:$   $::$        ::.    ::.
+          $:$   $::$$:$   $::$$:$   $::$         ::.  .::
+          `²$b.d$::$`²$   $::$`²$b.d$$²'          ::..::
+                          $::$                     ::::
+                          $::$                     .::.
+          !wr!       ,s$$ `$:$                    .::::.
+                     $::$  `²$                   .::  ::.
+                     $::$                       .::    ::.
+                     $::$                      .::      ::.
+                     $::$                     .::                ,s$²"²$$s.
+                     $::$,s$²"²$$s..s$   .s$.,s$²"²$$s.,s$²"²$$s.$:$   $::$
+                     $::$$:$   $::$$:$   $::$$:$   $::$$:$   $::$$:$   $::$
+                     $::$$:$   $::$$:$   $::$$:$  .$::$$:$   $::$$:$   `$$'
+                     $::$$:$   $::$$:$   $::$$:$²"²`$$'$:$   `$$'$:$
+                     $::$$:$   $::$$:$   $::$$:$   b..d$:$       `²$b.d$$s.
+                    .$::$$:$   $::$$:$   $::$$:$   $::$$:$       .s,   $::$
+                   .:$::$`²$b.d$$²'`²$b.d$$²'`²$b.d$$²'`²$       $:$   $::$
+                  .::$::$             "²"                        $:$   $::$
+                 .:: $::$                                        `²$b.d$$²'
+                .::  $::$
+               .::   $:$'
+              .::    $²'   discussing
+               ::.                    how
+                ::.                        the
+                 ::.
+                  ::.                      .s$$
+  .s$        .s$$  ::.                     $::$
+  $:$        $::$   ::.                    $::$
+  $:$  .s$$  $::$.s$²"²$$s..s$²"²$$s..s$²"²$::$.s$²"²$$s..s$²"²$$s..s$²"²$$s.
+  $:$  $::$  $::$$:$   $::$$:$   $::$$:$   $::$$:$  .$::$$:$   $::$$:$   $::$
+  $:$  $::$  $::$$:$   $::$$:$   $::$$:$   $::$$:$²"²`$$'$:$   `$$'$:$   $::$
+  $:$  $::$  $::$$:$   $::$$:$   $::$$:$   $::$$:$   b..d$:$       $:$   `$$'
+  $:$bd$::$bd$::$$:$   $::$$:$   $::$$:$   $::$$:$   $::$$:$       $:$
+  `²$²"$²²$²"²$²'`²$b.d$$²'`²$   $::$`²$b.d$$²'`²$b.d$$²'`²$       `²$b.d$$s.
+                                 $::$ .:.                          .s.   $::$
+                                 $::$.:::.                         $:$   $::$
+                .s$²"²$$s.       `$:$:: ::.                        $:$   $::$
+                $:$   $::$        `²$:   ::.                       `²$b.d$$²'
+                $:$   $::$                ::.
+      .s$²"²$$s.$:$   `$$'                 ::.
+      $:$   $::$$:$$s.                      ::.
+      $:$   $::$$:$                          ::.
+      $:$   $::$$:$                          :::
+      $:$   $::$$:$                         .:: 
+      `²$b.d$$²'$:$ !wr!                   .::
+                `²$                       .::
+                                         .::
+                  .s$²"²$$s..s$²"²$$s..s$²"²$$s.
+                  $:$   $::$$:$   $::$$:$   $::$  .s$$
+                  $:$   $::$$:$   $::$$:$   $::$  $$²'
+                  $:$   $::$$:$   $::$$:$   $::$
+            ..    $:$   $::$$:$   $::$$:$   $::$
+           .:::.  $:$b.d$$²'`²$b.d$$²'`²$b.d$$²'
+          .:: ::. $:$
+         .::   ::.$:$
+        .::     ::$:$
+       .::       :$:$          .s$²"²$$s..s$²"²$$s..s$²"²$$s.
+       ::.        $:$          $:$   $::$$:$   $::$$:$   $::$
+        ::.       $:$          $:$   $::$`$'   $::$$:$   $::$
+         ::.      $²'          $:$   $::$.s$²"²$::$$:$   `$$'
+          ::.                  $:$   $::$$:$   $::$$:$
+           ::.                 `²$b.d$::$`²$b.d$::$`²$b.d$$s.
+            ::.                      $::$          .s.   $::$
+             ::.               .s$   $::$          $:$   $::$
+              ::.              $:$   $::$          $:$   $::$
+               ::.             $:$   $::$          `²$b.d$$²'
+                ::.            `²$b.d$$²'
+                 ::.
+              could be used to help defeat the
+                   ::.
+                    ::. .s$
+                     ::.$:$       .s$$
+                      ::$:$   .s$$$$²'.s$²"²$ss$²"²$$s.
+    ,s$²"²$$s.,s$²"²$$s.$:$   $::$b..d$:$   $::$   $::$,s$²"²$$s.
+    $:$   $::$$:$   $::$$:$   $::$$::$$:$   $::$   $::$$:$   $::$  .:.
+    $:$  .$::$$:$   `$$'$:$   $::$$::$$:$   $::$   $::$$:$   $::$ .:::.
+    $:$²"²`$$'$:$       $:$b.d$$²'$::$$:$   `$:$   $::$$:$   $::$.:: ::.
+    $:$   b..d`²$b.d$$s.$:$²"²$$s.$::$$:$    `²$   $::$$:$   $::$::   ::.
+    $:$   $::$.s.   $::$$:$   $::$$::$$:$          $::$$:$   $::$:     ::.
+    `²$b.d$$²'$:$   $::$$:$   $::$`$:$$²'          $::$`²$b.d$$²'       ::.
+              $:$   $::$$:$   $::$ `²$             $::$                 .:: 
+              `²$b.d$$²'`²$   $::$                 $::$                .:: 
+                              $::$                 $::$               .::
+                              $::$                 $::$              .::
+                              $::$ !wr!            `$:$             .::
+                              `$:$                  `²$            .::
+                               `²$                                .::
+                                                                 .::
+                                .s$²"²$$s.                      .::
+     .s$²"²$ss$²"²$$s.          $:$   $::$.s$$          ,s$²"²$$s.
+     $:$   $::$   $::$,s$²"²$$s.$:$   $::$$$²',s$²"²$$s.$:$   $::$,s$²"²$$s.
+     $:$   $::$   $::$$:$   $::$$:$   `$$'b..d$:$   $::$$:$   `$$'$:$   $::$
+     $:$   $::$   $::$`$'   $::$$:$$s.    $::$$:$   $::$$:$       $:$   $::$
+     $:$   `$:$   $::$.s$²"²$::$$:$       $::$$:$   $::$`²$b.d$$s.$:$   $::$
+     $:$    `²$   $::$$:$   $::$$:$       $::$$:$   $::$.s.   $::$$:$   $::$
+     $:$          $::$$:$   $::$$:$       $::$$:$   $::$$:$   $::$$:$   $::$
+     $²'          $::$`²$b.d$::$$²'       $::$`²$b.d$$²'$:$   $::$`²$b.d$$²'
+                  $::$                    `$:$          `²$b.d$$²'
+                  $::$                     `²$
+                  $::$
+                  $::$
+                  `$:$
+                   `²$
+
+  (christ, now i'm tired.  this one logo is already longer than most collies)
+
+                     
+        I'd like to take this chance to thank and each and every one of you
+    who has decided to take a quick peek at this colly.  I was originally
+    going to have a subtitle to this, which you might know if skillz#2 beats
+    this to release.  But i changed my mind.  I've been doing that a lot
+    recently.  At first this was going to be a completely original logo
+    colly, but then i realized something very important.  A year ago this
+    month (June) i started to play around with drawing ascii.  I had been
+    a lit writer for many years before that, and i thought it was time to
+    try something new.  i'm glad i did, and i'm even more glad that my
+    ascii god (yes, that's RIGHT, he's my god, now fuck off) Hiro
+    Protagonist always kept encouraging my wacky-assed way of style of
+    ascii.  Not everyone may like it.  Hell, the vast majority of people
+    may not like it.  You'll notice how much a really care...
+
+        I also have an ulterior motive for putting this together now instead
+    of a month or two down the road.  Ultimately, this colly is a tribute
+    to ModemLand in all its faces.  It was because of modemland and Hiro that
+    i am where i am today.  Now that this chapter of 306 and 'scene' history
+    is about to close, i feel it is my privilege and DUTY to show it the
+    respect that it deserves.  What i'm doing in this colly is reflecting on
+    the past year, both in ascii and as a lit goon. I do this hoping to
+    show you how i've progressed as a writer and a person.
+
+        I'ld like to end this intro with a comment directly to Hiro:
+                Boy, you'd better keep in touch or i'll fly out to
+                Vancouver and kick your ass.  You've been warned.
+
+        Having said that, it's time to move on to what you could likely call
+    "a year in the life".  Probably the first half of this will be old stuff
+    and the other half will be all new (either requests or respects).  So if
+    i said i would do you a logo, check towards the back.
+
+    ** final ultra-secret message:
+        i'm looking forward to a squeezner of weisner.
+                        h0h0, i'm so sneaky **
+                  enjoy the ride.
+                             - WindRider (Quad-P and proud of it)
+                               June 12/97
+
+  ** ONE LAST THING!!!!!  GO BACK AND TURN OFF AFS UNTIL YOU REACH THE
+        NEW STUFF.  None of my old stuff was designed for afs.  oops.
+        my bad.  oh, and the 'skills' logos are the end aren't afs
+        either.  sure it's a pain in the ass for YOU, but like i give
+        a damn about your personal problems. ;)    **
+
+        .        .:                         .    .  ..     .  .  .
+   . ___________________________________________________         ::  .
+    )_________________________________________         / ______ ___   !wr!
+  .:/ all the old shit you've already        /        / /     //   )___
+   /  seen.  Ah the memories..........      /        / /      )        \___
+  /_________________________________________)______________________________)
+       .                   .           .                    .            .
+  .   ::   .         .                       .  .  ..              .    .
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: ME!!  nyah.   \  _______________________                 )
+   /   \ logo:  lit   ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+                 The Lonely Trail
+                 ^^^^^^^^^^^^^^^^
+        I keep looking back to yesterday
+        to find out where I am today.
+        How where I'm going, and where I've been
+        affect what I have to say.
+
+        I keep hoping the path appears before me
+        to show me what I need to do.
+        But all I find, time after time
+        are the edges of a sea that stretches to forever.
+
+        Floating upon this dark and murky water on my matchstick raft
+        I confront the demons each of us must face.
+        An unwinnable battle, near to surrender, until...
+        I see that distant shore and take to land.
+        At last I've found a road to call my own.
+        I don't know if it leads to Heaven or Hell,
+        but here the journey begins.
+
+                WindRider 11&12/95
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: uhm, hiro?  _)   (__
+  (____________) !wr!              ______) /_logo: lit      (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+                 Reign of the 'P
+                 ^^^^^^^^^^^^^^^
+        We journey across the hills and plains of this world
+        searching for the answers to unknown questions.
+        Fighting the evils that often go unseen.
+        We don't seek reward or fame,
+        for victory is reward enough.
+        Few are the men and women willing to dedicate themselves to our cause.
+        The odds are against us in this never-ending struggle
+        but we will persevere for the good of all.
+        We are
+        the 'P.
+                        WindRider 12/95
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for:  myself       \  _______________________                 )
+   /   \ logo: lit    ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+                Reflections
+                ^^^^^^^^^^^
+ How many times as writers have we heard "write what you know" from a teacher
+ or mentor?  Stop spouting off numbers, it was a rhetorical question.
+
+ Write what I know?
+ What the hell is that?  And what *IS* it that I'm supposed to know?
+ Love?
+  Can't say as I know that at all.  Love from afar, unrequited love, sure.
+  But as for true love, love that is shared and lasts beyond this mortal coil,
+  I really have to say no.
+ Hate?
+  We all know hate at some point.  But what's the purpose of writing about it?
+  All that tends to do is create rifts and animosity between people.  Not
+  exactly the job I signed up for...
+ Real Life?
+  If life was really all that interesting, I doubt that I would be sitting in
+  front of my monitor right now writing this.  And why write about a life that
+  stinks?  You might as well be writing about an outhouse.
+                                 The Outhouse
+                                 ^^^^^^^^^^^^
+                        O wondrous shaft unto the ground
+                        How you stink to be around.
+                        One fine day I'll buy some stuff
+                        To make you smell not quite so rough.
+        
+          See?  Pointless.  So what does that leave?
+ Work?
+  Not unless we want the reader to climb up a tower with a gun.  Pure boredom.
+  Leave work at the workplace.
+        
+ In this simplified framework, all that leaves is fiction.  Fiction is good.
+ Why not write how you would *LIKE* things to be, even if you know it will
+ never turn out that way.  I enjoy a good tale of fiction as much as the next
+ person, so why not contribute my own to society?  But truthfully, in the end
+ it all comes down to one area that we each know intimately:
+        
+ Yourself.
+  What greater wealth of resources do we possess than our own repressed fears,
+  anxieties, goals, wants, desires?  I find I write in the passion of the
+  moment, words flowing from the jumble of emotions playing across my soul.
+  Often what I write would never be otherwise expressed.  Once the soul's
+  closet is swept out, it's quite amazing how much there is to work with.  Any
+  one of the pieces I've written accurately reflects *ME* at some point, even
+  if that particular me has never seen the light of day.  We are who we are.
+  No amount of denial and repression is going to change it.  EMBRACE it.
+  Take what you know, what you feel, and write WHY it is that way.  The only
+  true way to grow is to reflect on yourself and your actions.
+        
+ I must now apologize for leaving the main topic of this essay and turning it
+  into a sermon.  I am only a writer, and I go where the moment takes me.  If
+  you are an artist of any type, the ability to write "literature" is in you.
+  As long as it holds a bit of truth, it is beautiful.
+        
+ Goodnight, I'll leave the soapbox here.  And would the last one out
+  please turn off the lights.
+
+                                -WindRider 01/19/96
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: (practice)  _)   (__
+  (____________) !wr!              ______) /_logo: M I B    (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+        ÷÷÷÷÷÷÷÷÷ ÷÷÷÷÷÷ ¤¤¤ ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷ ŸŸŸ˜˜ ÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷ ¤ ÷÷÷÷ ¤‡‡‡¤ ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷ ŸŸ‡‡‡˜˜ ÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷ ¤‡¥  ÷ ¥‡ààà‡¤ ÷÷÷÷÷÷÷÷÷  ÷÷÷÷÷÷÷÷÷÷÷÷÷÷ ŸŸ‡‡‡‡‡˜˜ ÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷ ¤‡‡‡¥¥  ¥‡àààà‡¤  ÷÷÷÷÷ ù‘‘ù ÷÷÷÷÷÷÷÷÷÷÷ ŸŸ‡    ‡‡˜˜ ÷÷÷÷÷÷
+        ÷÷÷÷÷ ¤‡‡àà‡‡¥¥‡àààààà‡¤¤ ÷÷÷÷ ‘àà‘ ÷÷÷÷÷÷÷÷÷÷ ŸŸ‡‡     ‡‡˜˜ ÷÷÷÷÷
+        ÷÷÷÷ ¤‡‡ààààààààà‡‡àààà‡‡¤ ÷÷÷ ù‘‘ù ÷÷÷÷÷÷÷÷÷ ŸŸ˜˜‡‡    ‡‡˜˜ ÷÷÷÷÷
+        ÷÷÷÷÷ ¤‡ààà‡‡‡‡à‡¤¥‡ààààà‡¥ ÷÷÷    ÷÷÷÷÷÷÷÷÷ ŸŸ‡˜˜˜˜‡‡‡‡‡˜˜˜ ÷÷÷÷÷
+        ÷÷÷÷÷÷ ¤‡ààà‡‡¥¤‡¤ ¤‡ààà‡¥ ÷÷÷÷ „„ ÷÷÷÷÷÷÷÷ ŸŸ‡‡‡‡‡‡˜˜˜˜˜˜  ÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷ ¤‡ààà‡¥  ¥  ¥‡à‡¥ ÷÷÷÷ „‡‡„ ÷÷÷÷÷÷ ŸŸ‡‡‡‡‡‡‡‡˜˜   ÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷ ¤‡ààà‡¥ ÷÷÷ ¤‡¥ ÷÷÷÷ „‡àà‡„ ÷÷÷÷ ŸŸ‡‡     ‡‡‡˜˜ ÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷ ¤‡ààà‡¥ ÷÷÷ ¥ ÷÷÷÷÷ „‡àà‡„ ÷÷÷ ŸŸ‡‡       ‡‡‡˜˜ ÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷÷ ¤‡ààà‡¥ ÷÷÷ ÷÷÷÷÷÷ „‡àà‡„ ÷÷ ŸŸ‡‡‡‡     ‡‡‡˜˜ ÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷÷÷ ¤‡à‡¤ ÷÷÷÷÷÷÷÷÷÷÷ „‡àà‡„ ÷÷÷ ˜˜‡‡‡‡‡‡‡‡‡‡˜˜ ÷÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷÷÷÷ ¤‡¥ ÷÷÷÷÷÷÷÷÷÷÷÷ „‡‡‡‡„ ÷÷÷÷  ˜˜˜˜˜‡‡‡‡˜˜ ÷÷÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷÷÷÷÷ ¤ ÷÷÷÷÷÷÷÷÷÷÷÷÷ ¦¦¦¦¦¦ ÷÷÷÷÷÷     ˜˜˜˜  ÷÷÷÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷÷÷÷÷÷ ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷    ÷÷÷÷÷÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷                           ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷       Men In Black        ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
+        ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷                           ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷!wr!÷÷
+        ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: hiro p.       \  _______________________                 )
+   /   \ logo: hiro p ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+
+        ,s$$$$$$$$$$$$$s,
+        $$$          `¦$$
+        $$$            $$
+        $$$          ,s$$  `$$$$$$$$s, ,s$$$$$s,     `¦$$$$$$$$$s,
+        $$',sss,            $$$'   ¦$',$$¦' `¦$$,      ¦$$$¦' `¦$$,
+        $$$¦'`¦$$,    $$$   $$$       $$$     $$$ .sSs. $$$     $$$
+        $$$    $$$    $$$   $$$       `$$s   s$$' `¦’¦' $$$s   s$$'
+        $$$    $$$    $$$   $$$        `¦$$$$$¦'        $$¦$$$$$¦'
+        `$'    $$$    `¦$sss$¦'                         $$,      !wr!
+               `$$s                                     $$$       96
+                `¦$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$¦'
+
+                       h i r o   p r o t a g o n i s t
+
+              A big useless sig for a guy who never took shit.             
+               Have a blast during your time off.  Peace out.
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: me again.   _)   (__
+  (____________) !wr!              ______) /_logo: still lit(/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+                         Ecstacy
+
+         Backbeat bashing through my brain
+         have I finally gone insane?
+
+         The strobe lights feel so right tonight.
+         The golden crowns and sweaty crowds
+         spinning 'round and 'round and then
+         at the height of it all...
+         the crash.
+         (or so I'm told)
+
+         But these days I'm getting to old for all of that.
+         My brittle bones just can't take a rave like they could
+         or they should.
+         Soon I'll have to wheel my walker out there with me.
+         Either that or stop it altogether
+         and settle down.
+         Why does that sound like such a death sentence?
+
+         Married life doesn't seem so bad
+         (or so I'm told)
+         maybe it's about that time to look into it.
+         Life is good, but love is even better.
+         or maybe I really am nuts.
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: me/whodini    \  _______________________                 )
+   /   \ logo: lit    ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+              Trees
+              -----
+        I was driving down the highway
+        reading all the billboards
+        when I thought that it would be nice
+        if those signs were trees.
+        As they had been before.
+
+        I don't need a sign to tell me if I'm hungry
+        or I'm thirsty
+        or if I need gas
+        or a hotel
+        I have eyes.  I can see when I need something.
+        I can find it just by looking.
+
+        Maybe they thought people were too stupid
+        and they needed help to live.
+        "If we don't tell them about our hotel,
+        they might not sleep at all."
+        "If we don't tell them about our gas bar and cafe,
+        they might never eat or fill up with gas."
+        Then we would all be in trouble.
+
+        The sheer idiocy of this made me stop
+        (by the side of the road)
+        and think about what needed to be done.
+
+        I came back the next day and began.
+        Signs were torn down and trees were planted.
+        As it had been.
+        As it should always be.
+                       - WindRider
+                                Oct 4 1996
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: whodini     _)   (__
+  (____________) !wr!              ______) /_logo: whodini  (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+
+          ,s$¦"""""¦$s,                ,s$¦""""¦$s,
+        ,s$',s$$$$$s,`$s,            ,s$',s$$$$s,`$$$$$$$$$$$$$$$$s,
+  ,s$$$$$$$ $$$¦"¦$$$ $$$$$$¦"""¦$$$$$$$ $$$¦"$$$ `$"$$¦"""¦$$¦"""`$
+  $',s,`$$$ $$$ $ $$$ '"¦$',s$$$s,`$$¦"` `$$  $$$s, $,,s$$s,`,s$$$ $
+  $ $$$ $¦$ $$$ $ $$',sSs,,$$¦"¦$$, ,s$$$s$$      . $$$¦"$$$ .    s$
+  $ $$$ ,s, $$$ $ $$$¦"$$$$$$ $ $$$,$$¦"¦$$$  $$$ $ $$$  $$$ $ $$$ $
+  $ $$$ $$$ $$$ $ $$$  $$$`$$s.s$$'$$$ $ $$$  $$$s.s$$$  $$$ $ $$$ $
+  $ `$$$¦"¦$$$' $ `¦'d $$$ `¦$$$¦'.`$$s.s$$'db`$$$$$$$'. $$$s.s$$$ $
+  $$bsssd$bsssd$$$bsd$b`¦'d$bsssd$$b`¦$$$¦'d$$bsssssssd$b`¦$$$$$¦'d$
+  `¦!wr!qdp!$$$$$$$$$$$$$$$$$$$$$$$$$bsssd$$$$$$$$$$$$$$$$bsssssd$¦'
+
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: me            \  _______________________                 )
+   /   \ logo: FYS!!! ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+
+ ,s$$$¦'--------                                            --------`¦$$$s,
+s¦'            My name is WindRider.  From Quad-P Productions.           `¦s,
+¦Xxs.....___                                                     ___.....sxX¦
+
+                               ,s¦"¦s,
+     ,s$¦""""$$s,            ,s$',s,`$¦""¦$s,
+   ,s$',s$$¦'q¦"$$$$¦"¦$$¦""""¦$ $$$ ',ss,`$$
+  ,$$' $$$ ,$',s`$$',s,`,s$$$$s, $$$ ,$$$',$$
+  $'.s$$$$$s.,$$ $$ $$$,$$¦'`¦$$ $$',$$$',$$'
+  $bs, $$$ . $$$ $$ $$$$$$ $$    $$$$$¦'.$$'
+   `¦$ $$$ $b`$$s,,s$$$`$$s,,s$$ $$$ $$$,`$,
+   ,$' $$$ $$ `¦$$$$'$$ `¦$$$$¦' $$$  $$$,`$,
+ ,s$',s$¦' $$$$bs    ,s$$bs   d¦ `¦'   $¦',$$$¦"¦$s,
+ `¦$bsssd$$$'`$$,`$$$,`$$',$$$,s$$$$s,  ,s`$$',s,`$$
+              `$$,`$$$,"",$$$,$$¦'`¦$$,,$$ $$ $$$ $$
+               `$$,`$$$ss$$$'$$$ $$ $$$$$$ $$ $$$ $',$¦"¦$s,
+             ,s$$$$,`¦$$$$$'.`$$s,,s$$'`$$s,,s$$$ $$$',s,`$$,
+            ,$$$¦""',s$$$¦'d$b`¦$$$$¦'db`¦$$$$¦$$ $$' $$$ `$$s,
+            $$',s$$$$$$¦'d$$$$b     d$',s, sss$ssd¦.s$$$$$s.`$$
+            `¦bssssssssd$$$$$',s$$$$s, $$$ ',s`$$',s, $$$ ,sd¦'
+                         `¦$$ $$$,`¦$' $$$ ,$$ $$ $$$ $$$ $$'
+        the man.           $¦ `$$$$s,  $$$ $$$ $$ $$$ $$$ $$
+          the vision.      $ s, `$$$$  $$$ `$$s,,s$$$ $$$ $$
+            the colly.     $b`¦$$$$¦'. $$$s,`¦$$$$'$$ $$$ $$
+                           `¦$bssssd$$b`¦$$$$bssss$ssd$¦'d$'!wr!qdp!
+                                   `¦$$$bssssssssssssssd$¦'
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: necromancer _)   (__
+  (____________) !wr!              ______) /_logo: asshole  (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+
+      ,s$$s,    ,s$s,   ,s$$s, ,s$$$$$SSssssssSS$$$$$s, ,s$$$$$$$s,
+    ,s$$$$$$$s,s$$$$$$ss$$$$$$ $$$¦',s$$$$$$$$$$s,`¦$$$:$$$$$$$$$$$
+    $$$'"""`$$$$$'""`$$$$'""`$ $$$ $$$$$$$$'""""`¦q $$$`$$'""""`$$$
+    ',s$$$$$s,',s$$$$s,,s$$$$s,$$$,$$$$$$$,s$$$$$s,'$$$ ,s$$$$$s,`$
+    .$$¦' `¦$$ $$$s,`¦ $$$s,`¦'$$',sss,"",$$¦' `¦$$ $$',$$¦' `¦$$ $
+    $$$     $$s`¦$$$, .`¦$$$, .$$$¦'`¦$$,$$$     $$ $$ $$$$$$$$$$ $
+    `$$s, ,s$$$ s`$$$, $s`$$$, $$$ db $$s`$$s, ,s$$ $$,`$$s,     s$
+     `¦$$$$$¦$$,¦$$$$'s`¦$$$$',$$$ $$ $$$.`¦$$$$$¦'.$$$.`¦$$$$$¦'$$
+    `$bsssssd`¦$byyssd$bssyyyd$$¦'s$$ $$$ $bsssssd$ $$$ $bsssssd$$$
+     `¦$$$$$$$$$$$$$$$$$$$$$$$$S$$$¦' $$$,$$ wr $$$s`¦',$$ qdp $$¦'
+                                      `¦'
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: hiro p.       \  _______________________                 )
+   /   \ logo: ITMOM  ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+                                                      ,s$        ,        :.
+   hIRO           ,s$  ,s$  ,s$   ,s$  ,s$          ,'$$$      ,'         .:
+    pROTAGONIST ,'     $$$s'$$$   $$$s'$$$       ,s$  $$$    ,º           :.
+   : pRESENTS.,º. $$$  $$$  $$$  s$$$  $$$  ,s$  $$$  $º'  s' .a cOLLY:..:.:
+   :.:..:.:. , .: $$$  $$$  $$$ ' $$$  $$$s'$$$  $$$s'  ,º' .:.eNTITLED.:.:.
+   .:.:.:.. s :.. $$$  $$$  $$$  ,$$$  $$$  $$$  $$$  ,'    .:..:..:.:.:...:
+   :.     ,'      $$$s'$$$  $$$s' $$$s'$$$  $$$s'$$$s'
+   .:    º        $º'  $º'  $º'   $º'  $º'  $º'  $º'
+   :.  ,'                                                                  ,
+   .: s        ,s$  ,s$  ,s$       ,s$       ,s$  ,s$  ,s$               s'
+    ,'       ,'$$$s'$$$s'$$$     s'$$$  ,s$  $$$  $$$s'$$$             ,'
+   '.:.:.: ,º  $$$  $$$  $$$  ,s$  $$$  $$$  $$$ s$$$  $$$  ,s$      ,º .:..
+   .:..:. s .: $$$  $$$  $$$  $$$  $$$s'$$$  $$$' $$$  $$$s'$$$    s' .:.:.:
+   :..: ,':.:. $$$  $$$  $$$  $$$  $º'  $$$  $$$  $$$  $$$  $$$  ,' .::.:.:.
+       s       $$$  $$$  $$$s'$$$s'     $$$s'$$$s'$$$s'$$$  $$$s'         .:
+     ,'        $º'  $º'  $º'  $º'       $º'  $º'  $º'  $º'  $º'           :.
+   ,'                                    ,s$    s'                        .:
+       !wr!                            s'$$$  ,'                          :.
+                               ,s$  ,s$  $$$s'                            .:
+                             s'$$$  $$$  $º'                              :.
+   .::.:.:.::..:.:.::..:. ,s$  $$$  $$$   .:.:..:.::.:.::.:::.::...::..:.:.:
+   ...:.:..:.:.:.:.:..: s'$$$  $$$s'$$$s' :.:..:.:.:.:...:.:.:.:..:.:.:...:.
+   .:.:...:.:..:.:..: ,'. $$$  $º' s$$$  :.:.:.:.::.:.:::.::...::.:.:.:....:
+   .:               ,º    $$$s'   ' $$$                                   :.
+   :.             s'      $º'       $º'                        ,s$       ,s$
+   .:           ,'               ,s$                 ,s$     s'$$$     s'$$$
+   ,s$  ,s$  ,s$       ,s$       $$$  ,s$  ,s$     s'$$$  ,s$  $º'  ,s$  $º'
+   $$$s'$$$s'$$$     ,'$$$       $$$  $$$s'$$$  ,s$  $$$  $$$  ,s$  $$$  ,s$
+   $$$  $$$  $$$   ,'  $$$     s'$$$  $$$  $$$  $$$  $º' ,$$$s'$$$  $$$s'$$$
+   $$$  $$$  $$$     s'$$$  ,s$  $$$  $$$  $$$  $$$s'  ,º $º'  $$$s'$º'  $$$
+   $$$  $$$  $$$  ,s$  $$$  $$$  $$$  $$$  $$$  $$$  ,'   ,s$  $º'  ,s$  $º'
+   $$$  $$$  $$$s'$$$s'$$$s'$$$s'$$$s'$$$  $$$s'$$$s'     $$$s'     $$$s'
+   $º'  $º'  $º'  $º'  $º'  $º'  $º'  $º'  $º'  $º'       $º'       $º'
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for:  wise-kid   _)   (__
+  (____________) !wr!              ______) /_logo: jedi arts(/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+                                                                         ,
+                                        ,'                             ,'.
+    !wr!                      ,s$     ,'     admit the supremacy     ,' ::
+           ,s$              ,'$$$  ,s$       of the darkside.      ,'   ::
+         ,'          ,s$  ,'  $$$                                ,'     ::
+           $$$     s'$$$,'  ,'$$$  $$$                         ,'       ::
+    :::::: $$$  ,s$  $²' ,s$  $$$  $$$ :::::::::::::         ,'         ::
+    :::::: $$$,'$$$s'  ,'$$$s'$$$,'$$$ :::::::::::::       ,'           ::
+    :::::: $$$  $$$  ,'  $²'  $²'  $$$ :::::::::::::    ,s$        ,s$  ::
+    ::    ,$²'  $$$s'              $²'            ::    $$$      s'$$$  ::
+    ::   s$'    $²'              ,'    ,'$s,  ,s$  ,s$  $$$s²',s$  `²$  ::
+    :: ,'                      ,'    ,'  $$$  $$$s'$$$ s$$$'  $$$ ,$s,  ::
+    :,'   this one's going   ,'        s'$$$  $$$ :`²$'²$$$   `²$' $$$  ::
+    '.    out to wise-k.   ,'       ,s$  $$$  $$$ ::    $$$   $s,  $$$  ::
+    ::                   ,'         $$$s'$$$s'$$$ ::    $$$  ,$$$  $²'  ::
+    ::                 ,'           $²'  $²'  $²' ::::: $$$,' $$$s'.::::::
+    ::               ,'                           ::::: $²'   $²'.::::::::
+    ::             ,'                                       ,'
+    ::           ,'                                       ,'
+    ::         ,'     Here's my irony for the month:    ,'
+    ::       ,'       a newschool logo done in AFS    ,'
+    ::     ,'         for a hardcore oldschool      ,'
+    ::   ,'           amiga group.                ,'
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: ME! h0h0      \  _______________________                 )
+   /   \ logo: lit    ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+    A Parallax View
+    --------------- 
+    In brightest day.
+    In darkest night.
+    Or so he thought.
+
+    An imposter of a great hero cost him everything.
+    A city destroyed.
+    A life in ruins.
+    Seven million cry from beyond the grave.
+
+    Vengence,
+    and the power to restore the right.
+    His mentors,
+    his Guardians,
+    turned their backs in his hour of need.
+    And so the end began.
+
+    Enemies and allies stood in his way.
+    They failed.
+    And so he created paradise
+    just to realize it was a lie.
+    The death and destruction could never be repaired
+    without undoing the world.
+    Even with unlimited power, that would be wrong.
+    After all, he is a hero.
+
+    He tracked the murderer to the ends of the universe.
+    Cornered him between this universe and the great beyond.
+    The gates of our hero's soul opened.
+    Seven million drank of sweet revenge.
+    It was over, but much was still undone.
+
+    The world needed his aid.
+    He knew that it could be his end,
+    but still he helped.
+    For he is a hero,
+    even if his allies thought otherwise.
+
+    His was the power of the gods.
+    Power to save the world
+    or to change it in his own image.
+    The past,
+    the future
+    depended on his single act.
+    In his salvation came his sacrifice.
+    And so he passed.
+    Or did he?
+
+    Beware his Power....
+    Green Lantern's light.
+                -WindRider 01/97
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: omicron     _)   (__
+  (____________) !wr!              ______) /_logo: SKK baby!(/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+      .............................................................
+      .:...:.:..:::..:.: ,s, .:.:.oMICRON oF rEMORSE!aSCII pRESENTS
+      :..:.:.:..:...:.:. $$$ :..:..:.:.:.:::...:..:..:.::..::.:.::.
+      .::.::.: ,s$$$$s,  $$$,s',s$$$s,  ,s$$$s,  $s,.sS$s, ..:.:..:
+      :.::.::. $$$s,`¦$  $$$¦',$$¦"¦$$,,$$¦"¦$$, $$$'"$$$$ ::.:.:::
+      ::.:.:.:.`¦$$$,  .s$$$  $$$ : $$$$$$ : $$$ $$$  $$$$ :.:..:.:
+      ::.:.::.:  `¦$$$.'¦$$$  `$$s.s$$'`$$s.s$$$ $$$  $$$$ .::.:.::
+      .:.::.:: $s, $$$$  $$$   `¦$$$¦'  `¦$$$¦$$ $$$  $$$$ :.:..:.:
+      ..:.:.   `¦$$$$¦'. $$$s,                 ,s$$$  `¦¦'  ..:..:.
+      ::.:.:.`¦$bssssds' `¦$$$$$$$$$$$$$$$$$$$$$$$¦' `$ss$¦' :..:..
+      ..:...:: `¦$$$$',s$$sssssssssssss, ,ssssssss$$s,`$¦' :..:.:.:
+      .:..::...: `¦$$ $$$¦'              $$$¦'     `$$ $ .:.:.:::.:
+      :.:.:::.:... $$ $$$  ,$$' ,s$$$s,  $$$  ,s$$$s$$ $ :.:.:.:.:.
+      ..:.::.:.:.: $$ $$$.,$$' ,$$¦"¦$$, $$$ ,$$¦"¦$$$ $ :.:.:....:
+      .:.:.:.::.:. $$ $$$$$$'  $$$ : $$$ $$$ $$$ : $$$ $ .:.:..::..
+      :. ,s, ..:.: $$ $$$'"$$, `$$s.s$$' $$$ `$$s.s$$',$ :.!wr!..::
+      .: $$$ ::. ,s$$ $$$ .`$$$s`¦$$$¦'. $$$  `¦$$$¦',$' :.!qdp!.:.
+      :. $$$ : ,s$$$$b`¦'d$,`$¦'.bsssd$$ $$$  ,s, sd$¦' .:.:..:.::.
+      .: $$$  $¦"""$$$bsd$¦"  """¦$$$$$$b`¦'d $$$ $$' :.:.::.:.:.::
+      :. $$$  ',$$'`¦ `$',s$$$$$$s,`$$¦"""¦$$ $$$ $$s,.::.:.:.:.::.
+      .: $$$  ,$$' ,s$ $ $$$¦'`¦$$$  ,s$$$s,` $$$ ¦""¦$¦,s$$$$s, .:
+      :. $$$,s$$',s$$$ $ $$$ :. $$$ ,$$¦"¦$$, $$',s$$s, $$$s,`¦$ :.
+      .: $$$$$$'      .$ $$$ .: $$$ $$$ : $$$ $$$¦"¦$$$ `¦$$$,  ..:
+      :. $$$'"$$,  $$$ $ $$$ :. $$$ `$$s.s$$$ $$$ . $$$   `¦$$$, :.
+      .: $$$  `$$$s$$$   $$$ .: $$$s,`¦$$$¦$$ $$$ : $$$ $s, $$$$ .:
+      :. $$$ : `$¦'$$$s.s$$$ :. `¦$$$$bsss$ssd$¦' . $$$ `¦$$$$¦' :.
+      .: `¦' :..:: `¦$$$$$¦' .:..:..:.:..:.:.::.:.: `¦' :.::.:.::.:
+      :..:.:..::..:.::.:.::.::.::.31,337 bytes.:.:..:..:...::..:.:.
+
+
+              Don't fear the Reaper that brings you death,
+              Phear the Killah who steals your breath.
+
+              The Stoan Kold Killahs are coming after you
+              bringing to bear their weapons of Mass Seduction.
+
+              This isn't about Black or White
+              Good or Evil
+              Regular or Extra-Crispy.
+              It's a matter of foh-neh-ticks
+              And you're gonna get burned.
+
+              Kiss your mind goodbye
+              because the Stoan Kold Killahs have arrived.
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for:  me/you?(ask) \  _______________________                 )
+   /   \ logo: 2nd wind__  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+
+    .:.:..:.:: ,s$ :..:.:..:.:.::. ,s$ :.::.:..:.:..:...:.:..:.: ,s$ :..:.
+    ::.      s'$$$       ,s$     s'$$$       ,s$       ,s$     ,'$$$   :.:
+    :.:   ,s$  $¦'     ,'$$$  ,s$  `¦$     s'$$$  $s,s'$$$       $$$   ..:
+    :..   $$$       ,s$  :¦$ ,$$$       ,s$  $$$s'$$$  $$$     s'$$$   :..
+    ..:   `¦$,      $$$s'  ,' $$$  $s,  $$$  $¦'. $$$  $$$  ,s$  $$$   :.:
+    :.:.: $s, `$s,  $$$  ,¦.:.`¦$  $$$  $$$s'.:.: $$$  $$$s'$$$s'$$$ .:..:
+    .:.:...:.`,$$$  $$$s'.:.:..:.`,$$$s'$¦'.::..: $$$  `¦$  $¦'  $¦'.:::::
+    ::.:.:..:..`¦$s'$¦'.::!wr!:.::.`¦$ .:.::.:.:. $¦':.:.::.:.:..:.:.:.:.:
+    :..:.:..:.:..:   .:.:.:..:.:.:.: s' :.. ,s$ :..:. ,s$ .::.::.:.:::.::.
+    .:.:..:....:.. $s, .:..: $s,  ,s$' $s,s'$$$ ::. ,'$$$ :..:.:..:..:.:.:
+    :.:...:..:.:.: $$$ :..:. $$$       $$$  $$$ :.:.  $$$ :.:.::.:.:.::...
+    :.:            $$$  $s,  $$$  $$$  $$$  $$$     s'$$$              :..
+    ::.            $$$  $$$  $$$  $$$  $$$  $$$  ,s$  $$$              :.:
+    ..:            $$$s'$$$s'$$$s'$$$  $$$  $$$s'$$$s'$$$              ..:
+    :..            $¦'  $¦'  $¦'  $$$s'$¦'  $$$  $¦'  $¦'              :.:
+    .::.:..:...:..:.:..:.:.:.:.:. $¦'.::..:.`¦$ .:.::.::.:..:..:.:.::..:.:
+
+         As of right now, i have no idea just what form Second Wind will
+         take, but it's been a bbs (currently not up) for well over a
+         year.  We'll discuss further plans in case you think you want
+         the name for yourself.
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: omicron     _)   (__
+  (____________) !wr!              ______) /_logo: snowbordz(/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+
+         ,s$           s,
+         $:$,s$     ,s$$$  ,s$,s$²"$s,
+   ,²"$s,$:$     ,s'$:$$$s²$:$$$:,:$:$:::::::::::::::::::::::::::::::::::
+  s   $:$$:$$$ ,s$  $$$$$  $:$$²' :$:$:::::::::::::::::::::::::::::::::::
+ '    $:$$:$$$ $$  ,$²'$$  $:$    :$$$:::::::::::::::::::::::::::::::::::
+  ,s$"$:$$:$$$ $$s'  ,'$$  $:$    ,$²'                               ::::
+  $$² $$$$:$$$ $$  ,²  $$  $:$,s$"    ,'                             ::::
+  $$ d$²'$:$$$s$$s' `".$$  $:$$$    ,²  This one's going out to oMi. ::::
+  $$s'   $$$$²'$²'    `$$  $:$$$  .'                                 ::::
+  $²'    $²'           ²$  $$$$$s'  Phear the power of ami newschool ::::
+                 !wr!      `²$$²'                                    ::::
+ ,s$"²$s,s,             $s,    ,s$,s$"²,                s,       ,²"$s,::
+ $$ `.$:$$$  ,s$        $$ ²,,"$:$$$    `,              $$  ,s$,'   $:$,s$"²$s,
+ $$   `²$$$s²$:$     ,s$$$     $:$$$      ²,  ,s$ ,²"$s,$$s²$:$     $:$$$ `.$:$
+ $$      $$  $:$  ,s'$:$$$     $:$$$       ,s'$:$    $:$$$  $:$     $:$$$   `²$
+ `²$,    $$  $:$,s$  $:$$$ ,s$ $:$$$"²$s,,s$  $:$    $:$$$  $$$,s$²"$:$$$
+     "$s,$$  $:$$$   $:$$$ $:$ $:$$$  $:$$$   $:$,s$"$:$$$  $²'$$   $:$`²$,
+      $:$$$  $:$$$   $:$$$ $:$ $:$$$  $:$$$   $:$$$² $$$$$     $$   $:$::  "$s,
+ "².  $:$$$  $:$$$   $$$$$ $:$ $:$$$  $$$$$   $$$$$ d$²'$$     $$b  $:$::   $:$
+    `s$:$$$  $:$$$  ,$²'$$ $:$ $:$$$.d$²'$$  ,$²'$$s'   $$     `²$$.$:$"².  $:$
+      `²$²$  $$$$$s'    $$"$$$"$$$$$s'   $$s'    $²'    ²$        `s$$$:: `s$:$
+             `²$$²'     $² $²' $²'$²'    $²'                        `²$::   `²$
+                           80x50 w/ afs.com
+   is this a logo?                                    or could it be a menu?
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for:  me           \  _______________________                 )
+   /   \ logo: lit rant__  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+<<Hey hey!  This was originally supposed to appear in Absorbance #2 but no
+one has any idea what the hell happened to it.  So now i bring it to you,
+faithful quad-p follower, for you too must know the greatness that my words
+can bring.  As a side note, it appears that my ego has taken over the rest
+of my body...>>
+
+
+
+ WindRider's Rant of the Month
+ Volume 1  Episode 2:  The Coded Frontier
+
+        That time of the month has come once again.  I've gotten out of the
+ rut that way too many commitments causes and have again decided to regail
+ you all with another worldly rant.  I've got a couple of things to discuss,
+ and i'm willing to bet that more than a few of you will feel completely at
+ home with what transpires below.  This time around, my concerns are these:
+ explaining the 'scene' to friends, and the potentially detrimental effect
+ that IRC could have upon it.  Let's begin with explaining 'the scene' to
+ others.
+        This began innocently enough a few days ago when i spoke to a friend
+ who had been 'surfing the net' (i hate that term) but was just recently
+ exposed to irc.  As with many people, the appeal of irc to him was the
+ abundant flow of warez sites that can be found in any one of a hundred
+ different channels.  He was speaking to me of still trying to figure out
+ the fine details of the commands, so i spoke up and explained as much as I
+ could while still remaining within the realm of communication that a
+ beginner could understand.  When he asked just how i knew all this, he was
+ quite surprised to hear that I had used IRC and the various available client
+ programs that were available.  Inevitably, this led to the obvious question
+ of "so what do you do on there?"  That seemingly simple question soon
+ revealed the great depth it possessed.  I tried to explain the concept of
+ the "underground computer art scene" with mixed success, trying once again
+ to find just the right words that a beginner would understand.  It was at
+ this point that i realized what is obvious to many, but beyond the grasp of
+ so many more.  This underground culture, the "ART SCENE" if you will, has
+ developed such a profound linguistic and technical jargon that it rivals
+ most professions.  Words like pack, newschool, oldschool, and colly seem
+ incredibly simple and obvious.  To an outside observer, however, these have
+ an almost mystical quality.  Bah, i've grown tired of this topic.  If you
+ still don't quite understand this problem of jargon creating rifts instead
+ of bringing together, then maybe you should think about it.  Or just go back
+ to #ansi.  And that brings me to the second point of this article: IRC.
+        I'm getting really really REALLY tired of the attitude out there that
+ somehow IRC _IS_ 'the scene'.  I can't recall how many times someone has
+ asked how long "person x" has been on IRC, only to say something incredibly
+ dumb like "oh, so you're new to the art scene?".  What a load of shit (Can
+ you feel the definitive turn towards a rant that this has taken? I knew you
+ could).  I had been involved with my own particular art form and had been
+ part of international groups for years before encountering IRC.  Somehow,
+ the idea that #ansi is the center of the universe has crept into the minds
+ of all the niave little children out there.  I recall a conversation
+ recently from #ansi (one of the few times i've lowered myself to actually
+ stay in there longer than 10 seconds) only to see someone comment that "all
+ these other art channels were created because the people were pissed they
+ couldn't get ops in here".  Wow is that both egocentric and incredibly wrong.
+ Unfortunately, the rare glimmer of intelligence that #ansi shows is buried
+ beneath a 20 foot layer of pure crap. Just try to refute that.  It simply
+ cannot be done.  The sooner that people (and i'm starting to use that term
+ loosely for most of the inhabitants) realize that there's a DISTINCT
+ difference between the ld bbs art community, the 'underground artscene', the
+ 'ansi' scene, and the #ansi scene, the sooner we can all try to get back to
+ the sense of family and comradery that has been lost to the ircbeast.
+
+        I'll state this once again.  I really don't give a damn if you don't
+        agree with this.  It's a rant.  That's what a rant does.  So you can
+        either step back and shut up or you can respond to this with
+        something other than #ansi-speak.
+                                - WindRider, King of the Mighty Rant
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for:  Quad-P     _)   (__
+  (____________) !wr!              ______) /_logo: qdp diz  (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+
+                  ,s"ý$s,
+      QUAD0497  ,ý    $:$qUAD-P pRESENTS.
+       .::::::,'::::::$:$::::::::::::.
+      ::    ,ý,s$     $:$,s$ý"$s,  :s:
+      ::    ,'$:$,s$ý"$:$$$   $:$  :$:
+      :: ,s$  $:$$$   $:$$$   $:$  :$:
+      :: $$   $:$$$   $:$$$   $:$  :$:
+      :: $$   $:$$$   $:$$$   $$$  :$:
+      :: $$b,'$:$`ý$  $:$$$`.d$ý'  :$:
+      :: $ý'  $:$   `.$$$$$        :$:
+      ::      $:$     `ý$$$  .:    :$:
+      :: !wr! $$$        $$  :: `$sd$bs$'
+      `:::::::`ý$::::::::$'::::   $$$$$'
+      tHE aPRIL  ýs,...,s'        `$$$'
+      fOOLS?!                      `$'
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: cain          \  _______________________                 )
+   /   \ logo: noname ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+
+                                    :::::::
+     80x50  w/ AFS.com   `.         :::`.::    `.                        ,
+                       ,s² "²s,     ::,' "²s,    "s,        ,s$        ,'²
+            ,s²"$s, ,s$        $s, ,s$,s²"$s,$s,    $s,  ,s'$:$      ,²
+          ,'    $$s'$:$     ,s$$$s'$:$    $:$$$ ,s$,$:$,s$' $$$    ,'
+    ::::,'::::::$$  $:$::,s'$:$$$  $:$    $:$$$s$:$s$:$$$   $²'::,':::::::
+    ::,'::::::::$$  $:$,s$' $:$$$  $:$,s$"$:$$$ $:$ $:$$$b ,'::,²:::::::::
+    ,²::!wr!::::$$  $:$$$   $$$$$  $:$$$  $:$$$ $:$ $:$$$s'::,':::::::::::
+    ::::::::::::$$  $:$$$   $²'$$  $:$$$ d$$$$$ $:$ $:$$$::,²:::::::::::::
+                $$  $:$$$  ,'  $$  $:$$$s"$²'$$ $:$ $$$$$s'
+                $²' $$$$$s'    $²' $$$$²'::  $²'$$$ $²'$²'
+                    `²$$²'         `²$:::::     `²$
+                                    :::::::
+
+               noname brand ascii.  Same taste, less expensive.
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: cain        _)   (__
+  (____________) !wr!              ______) /_logo:noname diz(/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+           oh my...it's so phallic!
+          .::::::::::::::::::::::::::::::::::::.
+          ::  N O N A M E ! A S C I I  10    :::
+          :: $s, ,s$$$s, ,s$$$s, ,s$$  ,s$$  :::
+          :: $$s'$::$$$s'$::$$$s'$::$s'$::$  :::
+          :: $$  $::$$$  $::$$$  $::$  $::$  :::
+             $$  $::$$$  $::$$$  $::$  $::$  :::
+             $$  $::$$$  $::$$$  $::$  $::$  :::
+        ,$   $$  $::$$$  $::$$$  $::$  $::$  :::
+       ,$$   $$  $::$$$  $::$$$  $::$  $::$  :::
+     ,s$$Ps::`$::$::$`$::$::$`$::$::$::$::$:::::
+    .$$$$$$$$ss.:$::$::::$::$!wr!$:$'::$::$:::::
+     `ý$$bý::::::$::$::::$::$::::$ý':::$::$::::'
+       `$$       $::$    $::$          $::$
+        `$       $::$    $::$          $::$
+                 $::$    $::$          $::$
+                 $::$    $::$          $::$
+                 `$:$    $::$          `$:$
+                  `ý$    $::$           `ý$
+                         $::$ the ride ends here.
+                         `$:$ all we can say is....
+                          `ý$ so long suckers!
+
+               .    ...____________ ______________ _______________________
+   .:   .    .   .    )           (/              \)    ________    ______)
+         ___________./                                         /___/
+   ___: /    _______)    ___________________________________  /        :
+  /   )/    )       \    ( all the new shit   / __           /   .  .: : .
+ /                   \   / you've been       / /  )         /    ......:....
+ )___________________/__/  waiting for..... /_/  /_________/           :
+    .      .       .                   .                      .        : .
+       .         .   .       .:.        :                 .      .    .:   :
+
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: me            \  _______________________                 )
+   /   \ logo: more lit__  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+         Instantly Forever
+
+    staring into her eyes,
+    i can see my own future
+    it scares me yet at the same time
+    i relish in its firm warmth.
+
+
+    a touch
+    a look
+    makes the world blindingly bright.
+    all i want is her drug in my viens
+    for with it to power me,
+    i am invincible.
+
+    that breif moment when our souls live as one
+    carries me through the day on gossimer wings.
+    my thoughts
+    my heart
+    they live as one under her care
+    waiting for the time
+    when they are once again complete.
+
+    there's nothing that her kiss won't remedy
+    for in that brief shining moment
+    we are the world
+    and the world is ours for the taking.
+    we are together
+    instantly forever.
+
+                       - WindRider
+                         Apr 10 1997
+                         dedicated to everyone's
+                         special someone.
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: ohseven     _)   (__
+  (____________) !wr!              ______) /_logo: t b s    (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+     .:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.
+     ::                                                            :::
+     `:                        $s,                                 :::
+         T  H  E               $$      B  R  A  H  M  I  N' S      :::
+     $s,                       $$                     .s       $s, :::
+     $$                        $$                   ,s$$       `ý$ :::
+     $$                        $$                               ,' :::
+     $$       $s, ,s$$ ,sý"$$s,$$      $s, ,s$$  ,s$$$$$$s, ,s$$,s$ý"ý$$s,
+     $$ý"ý$$s,$$s'$::$     $::$$$. ,s$$$$s'$::$s'$::$$:$$$s'$::$$$    $::$
+     $$   $::$$$  $::$     $::$$$s'$::$$$  $::$  $::$$:$$$  $::$$$    $:$$
+     $$   $::$$$  $::$,s$ý"$::$$$  $::$$$  $::$  $::$$:$$$  $::$$$    $ý'
+     $$   $:$'$$  $:$'$$   $:$'$$  $::$$$  $::$  $::$$:$$$  $::$`ý$,
+     $$   $ý' $$  $ý' $$   $ý' $$  $::$$$  $::$  $::$$:$$$  $::$$s, "ý$$s,
+     $$b,'   .$$      $$b,'    $$  $::$$$  `$:$  $::$$:$$$  $::$$$ "  $::$
+     $ý'      ý$      $ý'     `ý$  $::$$ý'  `ý$  $::$$$$`$  $::$$$    $::$
+                                   $::$          $::$`ý$    $::$`ýs.  $:$'
+       ,s$ý"ý$$s,                  $::$          $::$       $::$    "ý$ý'
+       $$    $::$     ,s$$$s, ,s$$ $::$          $::$       $::$!wr!::
+       $$    $:$$   ,'$::$$$s'$::$ $::$          $::$       $::$   :::
+       $$    $ý' ,s$  $::$$$  $::$ $::$          $::$       $::$   :::
+       `ý$,      $$   $::$$$  $::$ $::$          $::$       $::$   :::
+     .:$s, "ý$$s,$$   $:$$$$  $::$:$::$::::::::::$::$:::::::$::$::::::
+     ::$$ "  $::$$$   $ý' $$  $::$:$::$::::::::::$::$:::::::$::$:::::'
+     ::$$    $::$$$b,'    $$  $::$ $::$          $::$       $::$
+     ::`ýs.  $:$'$ý'     `ý$  $::$ $::$          $::$       $::$
+     ::    "ý$ý'              $::$ $::$          $::$       $::$
+     ::             S  O  N   $::$ $::$          $::$       $::$
+     ::                       $::$ $::$          $::$       $::$ 80x50
+     ::                       $::$ $::$          $::$       $::$
+     ::                       `$:$ $::$          $::$       $:$'
+     ::                        `ý$ $::$          $::$       $ý'
+     ::::::::::::::::::::::::...   `$:$          $:ý'
+     :::::::::::::::::::::::::::... `ý$          $ý'
+     `::::::::::::::::::::::::::::::.
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: nitro1981     \  _______________________                 )
+   /   \ logo: nitro  ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+
+                   .::::::::::::::::::::::::::::::::::::::::.
+                   :::$$s,            ::::                :::
+           l o r d :::$::$            ::::               ,s$$
+                   :::$::$            :,s$,s$²"²$$s,   ,'$::$
+           $s, ,s$$,s$$::$$s.        ,'$:$$$    $::$,s$  $::$$s, ,s$$
+           $$s'$::$   $::$        ,s$  $:$$$    $::$$$²  $::$$$s'$::$
+           $$  $::$$$ $::$$s, ,s$$$$²  $:$$$    $::$$$   $$$'$$  $::$
+           $$  $::$$$ $::$$$s'$::$$$   $:$$$    $::$$$  ,$²' $$  $::$
+           $$  $::$$$ $::$$$  $::$$$   $$$$$    $::$$$,²   ,'$$  $::$
+           $$  $::$$$ $::$$$  $$$'$$   $²'$$   ,$::$$$   ,'::$$  $::$
+           $$  $::$$$ $::$$$  $²' $$b,":::$$b,² $::$$$b,' :::$$  $::$
+           `$  $::$`$ $::$$$      $²' `:::`²'   $::$$²'   :::`$  $::$
+               $::$:::$::$$$          :"::      $::$.     :::    $::$
+               $::$:::$::$`$          ::`:      $::$ ².   :::!wr!$::$
+               $::$.::$::$            :::²      $::$   ", :::    $::$
+           ²   $::$ ² $::$            :ss:`     $::$     ².::    $::$
+            "  $::$::"$::$            :$$: "    $::$       ",    $::$
+             ` $::$:::`$$$            :$$:  `s.d$::$      :::².  $::$
+              `$::$::: `²$            :$$:   `$$:::$      :::  `.$::$
+               `$$$:::                :$$:    `²$$$'      :::    `$$$
+                `²$`::...........     :$$:     ...........::'     `²$
+                    `:::::::::::: `s. $$$$ ,s' ::::::::::::' ³¹³³7
+                                   `$d$$$$b$'                 afs
+                                    `$$$$$$'                 80x50
+                                     `$$$$'
+                                      `$$'
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: sylvester   _)   (__
+  (____________) !wr!              ______) /_logo: t s      (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+
+                                          ,s$                ,s$       ,s$
+        ,s$                           ,s$ $$$       ,s$    ,'$ý'     ,'$ý'
+    .:. $$$sý,s$ý',s$  ,s$  ,s$ ..: ,'$$$ $$$ :.. ,'$$$ ,s$  ,s$  ,s$  ,s$
+    :.:,$$$       $$$s'$$$s'$$$  ,s$  $ý' $$$  ,s$  $ý' $$$,'$$$  $$$,'$$$
+    :,sý$$$  $$$  $$$  $$$  $$$  $$$s'  ,'$$$  $$$s'  ,'$ý'  $$$  $ý'  $$$
+    .:: $$$  $$$  $$$  $$$  $$$  $$$  ,'  $$$  $$$  ,'  ,s$  $$$,',s$  $$$
+    ::  $$$,'$$$,'$$$  $ý'  $$$,'$$$s'    $$$,'$$$s'    $$$  $ý'  $$$  $ý'.
+    .:  $ý'  $ý'  $ý'       $ý'  $ý'      $ý'  $ý'      `ý$,'     `ý$,'  .:
+    :.                             ,s$                ,s$                :.
+    .:         ,s$               ,'$$$  ,s$ý'     ,s$ $$$                .:
+    :.       ,'$ý'       ,s$  ,s$  $$$,'        ,'$$$ $$$sý'$$,  $$$     :.
+    .:    ,s$  ,s$     ,'$$$,'$$$  $ý'  $$$  ,s$  $ý',$$$'  `$$, $$$     .:
+    :!wr! $$$,'$$$  ,s$  $$$  $$$  ,s$  $$$  $$$s'  sý$$$ .:.`ý$$$$$ :.:::.
+    .:.:. $ý'  $$$  $$$  $ý'. $$$  $$$  $$$  $$$  ,'. $$$  .::.`ý$$$ .:.:.:
+    ::..: ,s$  $$$,'$$$s'.:::.`ý$, $$$  $$$,'$$$s'.:: $$$,' :.:. $$$ :.:.:.
+          $$$  $ý'  $ý'           "$ý'  $ý'  $ý'      $ý'       ,$$'
+          `ý$,'                                                .$'
+                                                              ,'
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: crowe         \  _______________________                 )
+   /   \ logo: aoi    ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+                                  .
+                   afs          .:::.
+                  80x50        .:::::.
+                              .::: :::.
+                             .:::   :::.   $s.
+                            .:::!wr! ::,s$²$:$s
+                        ,s²"²$$s,    ,$$:$
+                       '     $::$,s$' $::$ $::$
+                             $::$$$"  $::$ $::$
+                        ,s$²"$::$$$   $::$ $::$
+                        $$"  $::$$$   $::$ $::$
+                       .$$   $:$'$$   $:$' $::$
+                      .:$$   $²  $$   $²   $::$.
+                     .::$$by"    $$b,'     $::$:.
+                    .:::$²'      $²'  of   $::$::.
+                    :::   alter            $::$:::.
+                    ::                     $::$ :::.
+                    :                      `$:$  :::
+                                        ink `²$   ::
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: i forgot    _)   (__
+  (____________) !wr!              ______) /_logo: blame    (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+                                :::::.               .::.
+                    afs  ,s$$   :: : ::.           .::  ::.
+               ,s$ 80x50 $::$   :: ; : ::.       .:::   : ::.
+               $:$       $::$   ::     : ::.   .::  :     : ::.
+               $:$ !wr!  $::$   ::     :  :::.::            : ::.
+               $:$       $::$   `:     :  : :: :              .::
+               $:$       $::$    :          ;               .::'
+               $:$²"²$$s.$::$,s$²"²$$s.,s$ ,s$s ,s$s,s$²"²$$s,
+               $:$   $::$$::$$:$   $::$$:$s$::$s$::$$:$   $::$
+               $:$   $::$$::$$²'   $::$$:$ $::$ $::$$:$  .$::$
+               $:$   $::$$::$,s$²"²$::$$:$ $::$ $::$$:$²"²`$$'
+               `$$   $:$$$::$$:$   $::$$:$ $::$ $::$$:$   b..d
+                `$b.d$²' $::$$:$   $::$$:$ $::$ $::$$;$   $:$$
+                         $::$`²$b.d$::$$:$ $::$ $::$`$$b.d$$²'
+                         $::$       :: $$$ $:$' $::$
+                    .    $:$'       :' $²' $²'  $::$
+                   .:.   $²'        ;   .:::    $::$
+                  .:::.               .:::      $:$'
+                  ::::::.           .::: :      $²'
+                  :;: ::::.       .::::  : don't blame me...
+                  : : : ::::.   .:::  ;    i just kill them.
+                  :   :   ::::.:::         it's your job to
+                      :   : :::: :         clean up the blood.
+                          :  :   :
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: i forgot 2    \  _______________________                 )
+   /   \ logo: ice b. ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+       ,s$                                                .::.
+      s$:$                                              .::::::.
+                                                       .:::  :::.
+      $::$                  .....                     .:::    :::.
+      $::$,s$²"$$s,,s$²"$$s,::::::                   .:::      :::.
+      $::$$$"  $:$$$$"  $:$$:::::::.        afs     .:::        :::.
+      $::$$$   $::$$$   $::$     :::.      80x50   .:::          :::.
+      $::$$$   ²$$'$$$²"²$$'      :::.            .:::            :::.
+      $::$$$   bssd$$              :::.           :::              :::.
+      $::$$$   $::$$$    ,s$        :::.          ::                :::.
+      $::$$$   $:$$$$   $::$         :::.         :                  :::.
+      $::$²$b  $$²'²$b d$$²'          :::.                            :::.
+      $::$$s,"²"     "²"               :::.   $s                       :::
+      $::$$$                            :::.  $$                        ::
+      $::$$$                             :::. $$  ,$$s                  ::
+      $::$$$                              ::: $$  $::$                 .::
+      $::$$$²"²$$s,s$$²"$$s,,s$²"$$s,,s$²"$$s,$$  $::$,s$²"$$s,s$$²"$$s,::
+      $::$$$   $::$$$"  $:$$$$"  $:$$$$"  $:$$$$  $:$'$$"  $:$$$$"  $:$$:
+      $:$'$$   $::$$$   $::$$$   $::$$²   $::$$$  $²' $$   $::$$$   $::$
+      $²' $$   $::$$$   ²$$'$$$²"²$$',s$²"$::$$$$$$s. $$$²"²$$'$$  .²$$'
+          $$   $::$$$       $$       $$   $::$$$  $:$,$$       $$ .:::
+          $$   $::$$$       $$    ,s$$$   $::$$$  $::$$$    ,s$$$.:!wr!
+          $$   $:$'$$       $$   $::$$$   $::$$$  $::$$$   $::$$$:::
+          ²$b d$²' $$       ²$b d$$²'²$b d$$²'$$  $::$²$b d$$²'$$::
+            "²"    $$         "²"      "²"    $²  $::$. "²"   .$$:
+                                                  $::$:.     .:::
+            i c e b r e a k e r                   $::$::.   .:::
+                                                  `$:$:::. .:::
+                         req'd by:  bizzarro(?)    `²$ :::.:::
+                                                        :::::
+                                                         :::
+                                                          :
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: Quad-P      _)   (__
+  (____________) !wr!              ______) /_logo: modemland(/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+                           .:.               .::.
+                          .:::.             .::::.
+                         .:::::.           .::  ::.
+                        .::: :::.         .::    ::.
+      simon sez:  afs  .:::   :::.,s$s   .::      ::.
+                 80x50.:::     :::$::$    :        ::.
+                     .:::       ::$::$!wr!          ::.
+    ,s$ ,s$s  ,s$s   :::         :$::$          ,s$ ,s$s  ,s$s
+    $$s'$::$s'$::$,s$²"²$$s,,s$²"²$::$,s$²"²$$s,$$s'$::$s'$::$
+    $$  $::$  $::$$$"   $::$$$"   $::$$$"   $::$$$  $::$  $::$
+    $$  $::$  $::$$$    $::$$$    $::$$$    $::$$$  $::$  $::$
+    $$  $::$  $::$$$    $::$$$    $::$$$    $::$$$  $::$  $::$
+    $$  $::$  $::$$$    $::$$$    $::$$$$²"²`$²'$$  $::$  $::$
+    $$  $::$  $::$$$    $::$$$    $::$$$    ,ssy$$  $::$  $::$
+    $$  $::$  `$:$$$    $:$'$$    $:$'$$    $:$'$$c $::$  $::$
+    $²' $::$   `²$`²bs.d$²' `²bs.d    `²bs.d$²' $²' $::$  $::$
+        `$:$                            ,s$s:       `$:$  $::$:
+         `²$s$s,                        $::$::       `²$  $::$::
+         .::$$$$                        $::$ :wHQ for     $::$ ::
+       .::::$$$$,s$²"²$$s,,s$ ,s$s      $::$  the best    $::$  ::
+     .::::: $$$$$$"   $::$$$s'$::$,s$²"²$::$  that the    $::$   ::
+     :::::  $$$$$$    $::$$$  $::$$$"   $::$  world has   $::$    ::.
+     ::::   $$$$      $::$$$  $::$$$    $::$  to offer:   $::$     ::.
+     :::    $$$$,s$²"²$::$$$  $::$$$    $::$              $::$     .::
+     ::     $$$$$$    $::$$$  $::$$$    $::$  remorse!.   `$:$    .::
+     :      $$$$$$    $:$'$$  $::$$$    $::$  kts!   ::.   `²$   .::
+            `$$$`²bs.d$²' $$  $::$$$    $:$'  quad-p! ::.       .::
+             `²$          $²' $::$`²bs.d$²'            ::.     .::
+     located for your         `$:$                      ::.   .::
+     convenience in the        `²$ 1-306-652-4359 baybee!!:. .::
+     Middlanowhere, Saskabush, Canuckia.                  ::.::
+                                                           :::
+                                                            :
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: mhz           \  _______________________                 )
+   /   \ logo: skills ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+                  .s$           ,s$$,s$$
+                  $$$       ,s$$$$$$$$$$
+                  $$$       $$ý'$$$$$$$$
+        ,s$ý"ý$$s,$$$    .s$b..d$$$$$$$$,s$ý"ý$$s,
+        $$$   $$$$$$$   $$$$$$$$$$$$$$$$$$$   $$$$
+        $$$   $$$$$$$   $$$$$$$$$$$$$$$$$$$   $$$$
+        $$$   `ý$'$$$b.d$$ý'$$$$$$$$$$$$$$$   `ý$'
+        `ý$b.d$$s.$$$ý"ý$$s.$$$$$$$$$$$$`ý$b.d$$s.
+        ,s.   $$$$$$$   $$$$$$$$$$$$$$$$,s.   $$$$
+        $$$   $$$$$$$   $$$$$$$$$$$$$$$$$$$   $$$$
+        $$$   $$$$$$$   $$$$$$$$$$$$$$$$$$$   $$$$
+        `ý$b.d$$ý'$ý'   $$$$`$$$$$$$$$$$`ý$b.d$$ý'
+                        $$$$ `ý$$$$$$$$$
+                        $$$$    $$$$$$$$
+                         `ý$    `$$$`$$$
+                                 `ý$ `ý$
+
+
+
+                                                       .
+                                                      .::.
+                  .s$           ,s$$,s$$             .::::.
+                  $$$       ,s$$$::$$::$            .::  ::.
+                  $$$!wr!   $$ý'$::$$::$           .::   .::
+        ,s$ý"ý$$s,$$$    .s$b..d$::$$::$,s$ý"ý$$s, ::   .::
+        $$$   $::$$$$   $::$$::$$::$$::$$$$   $::$ :   .::
+        $$$   $::$$$$   $::$$::$$::$$::$$$$   $::$    .::
+ .::::::$$$   `ý$'$$$b.d$$ý'$::$$::$$::$$$$   `ý$'::::::
+ :::::::`ý$b.d$$s.$$$ý"ý$$s.$::$$::$$::$`ý$b.d$$s.:::::
+ ::.    ,s.   $::$$$$   $::$$::$$::$$::$,s.   $::$
+  ::.   $$$   $::$$$$   $::$$::$$::$$::$$$$   $::$
+   ::.  $$$   $::$$$$   $::$$::$$::$$::$$$$   $::$
+    ::. `ý$b.d$$ý'$ý'   $::$`$:$$::$$::$`ý$b.d$$ý'
+     ::.        :::     $::$ `ý$$::$$::$
+      ::.      :::      $$:$    $::$$::$
+       ::.    :::        `ý$    `$:$`$:$
+        ::.  :::                 `ý$ `ý$
+         ::.:::
+          ::::
+           ::
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: necromancer _)   (__
+  (____________) !wr!              ______) /_logo: remorse  (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+                            .
+              ..          .:::.
+             .:::.       .:: ::.
+            .:: ::.     .::   ::.
+           .::   ::.   .::     ::.
+          .::     ::. .::     .::
+         .::       ::.::     .::
+        .::         :::     .::
+        ::           :
+  ,s$²"²$$s.,s$²"²$$s..s$²"$ss$"²$$s.,s$²"²$$s.,s$²"²$$s.,s$²"²$$s.,s$²"²$$s.
+  $$$   $$$$$$$   $$$$$$$  $$$$  $$$$$$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$
+  $$$   $$$$$$$  .$$$$$$$  $$$$  $$$$$$$   $$$$$$$   $$$$$$$   $$$$$$$  .$$$$
+  $$$   $$$$$$$²"²`$$'$$$  $$$$  $$$$$$$   $$$$$$$   $$$$$$$   `²$'$$$²"²`$$'
+  $$$   `$$'$$$   b..d$$$  $$$$  $$$$$$$   $$$$$$$   `$$'`²$b.d$$s.$$$   b..d
+  $$$       $$$   $$$$$$$  `$$$  $$$$$$$   $$$$$$$       .s,   $$$$$$$   $$$$
+  $$$       $$$   $$$$$$$   `²$  $$$$$$$   $$$$$$$!wr!  .$$$   $$$$$$$   $$$$
+  `²$       `²$b.d$$²'$$$        $$$$`²$b.d$$²'`²$     .:`²$b.d$$²'`²$b.d$$²'
+                      `²$   .    $$$$                 .:::
+                           .:.   `$$$                .:::
+                          .:::.   `²$ remorse!ascii .:::
+                         .:: ::.     .:::.         .:::
+                        .::   ::.   .:: ::.       .:::
+                       .::     ::. .::  :::.     .:::
+                        :::     ::.::    :::.   .:::
+                         :::     :::      :::. .:::
+                          :::     :        :::.:::
+                           :::.             :::::
+                                             :::
+                                              :
+
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: apocalypse    \  _______________________                 )
+   /   \ logo: lino   ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+                                                  .
+                                                 .::.
+                                         .:.    .::::.
+                                        .:::.  .::  ::.
+                                       .:::::. ::    ::.
+                                      .::  :::.:    .::
+                                     .::    :::    .::
+                                    .::      :::  .::
+                                   .::!wr!    :::.::
+    ,s$                        ,s$.::          ::::
+    $$$,s$$                    $$$              ::
+    $$$$$²'.s$²"²$$s..s$²"²$$s.$$$.s$²"²$$s..s$   $$s..s$²"$ss$"²$$s.
+    $$$b..d$$$   $$$$$$$   $$$$$$$$$$   $$$$$$$   $$$$$$$  $$$$  $$$$
+    $$$$$$$$$$   $$$$$$$   $$$$$$$$$$  .$$$$$$$   $$$$$$$  $$$$  $$$$
+    $$$$$$$$$$   $$$$$$$   $$$$$$$$$$²"²`$$'$$$   $$$$$$$  $$$$  $$$$
+    $$$$$$$$$$   $$$$$$$   $$$$$$$$$$   b..d$$$   $$$$$$$  $$$$  $$$$
+    $$$$$$$$$$   $$$$$$$   $$$$$$$$$$   $$$$$$$   $$$$$$$  `$$$  $$$$
+    $$$$$$'$$$   $$$$$$$   $$$$$$$$$$   $$$$$$$   $$$$$$$   `²$  $$$$
+    $$$$²'  `$   $$$$`²$b.d$$²'$$$`²$b.d$$²'`²$b.d$$²'`²$        $$$$
+    $$$   ,$$.   `$$$       .  $$$   ,$$.                        $$$$
+    $$$   $$$$ :::`²$      .::.$$$   $$$$                        `$$$
+    `²$b.d$$²' :::        .::::`²$b.d$$²'                         `²$
+               :::       .::  ::.
+                ::.     .::    ::.
+                 ::.   .::      ::.
+                  ::. .:: .     .::
+                   ::.::  :.   .::
+                    :::   ::. .::
+                     :     ::.::
+                            :::
+                             :
+
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: cain        _)   (__
+  (____________) !wr!              ______) /_logo: kwest    (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+
+
+                          ..
+                         .::.
+                        .::::.
+                       .::  ::.
+                      .::    ::.
+                     .:: :.   ::.
+                    .::  ::.   ::.
+                    ::.   ::.   ::.
+                     ::. .:: .s$$::.                 .s$
+         ,s$          ::.::  $$$$ ::.                $$$
+         $$$  .s$$     :::   $$$$  ::.               $$$ !wr!
+         $$$  $$$$,s$   :    $$$$.s$²"²$$s..s$²"²$$s.$$$
+        .$$$  $$$$$$$  ,s$$  $$$$$$$   $$$$$$$   $$$$$$$$s...
+       .:$$$bd$$²'$$$  $$$$  $$$$$$$  .$$$$$$$  .`$$'$$$
+      .::$$$²"$$s.$$$  $$$$  $$$$$$$²"²`$$'`²$b.d$$s.$$$
+     .:: $$$  $$$$$$$  $$$$  $$$$$$$   b..d.s.   $$$$$$$   ,ss.
+    .::  $$$  $$$$$$$  $$$$  $$$$$$$   $$$$$$$   $$$$$$$   $$$$
+   .::   $$$  $$$$`²$bd$²²$bd$$²'`²$b.d$$²'`²$b.d$$²'$$$   $$$$
+  .::    $²'. $$$$                         ::.       `²$b.d$$²'
+  ::.     .::.$$$$                          ::.           .::.
+   ::.      ::`$$$    kwest ascii.           ::.         .::::.
+    ::.      ::`²$                  batteries not included:  ::.
+     ::.     :::                               ::.     .::    ::.
+      ::.   .::                                 ::.   .::      ::.
+       ::. .::                                   ::. .::        ::.
+        ::.::                                     ::.::        .::
+         :::                                       :::        .::
+          :                                         :        .::
+
+
+
+
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: serial        \  _______________________                 )
+   /   \ logo: serial ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+
+
+                                                         ..
+                                                        .::.
+                                                       .::::.
+                                                      .::  ::.
+                                                     .::    ::.
+                                                    .::      ::.
+                                                   .::        ::.
+                                                  .::         .::
+            s e r i a l  a s c i i               .:: ,s$     .::
+                                       ,s$$     .::  $$$    .::
+         ,s$²"²$$s.,s$²"²$$s.,s$²"²$$s.$$²',s$²"²$$s.$$$   .::
+         $$$       $$$   $$$$$$$   $$$$b..d$$$   $$$$$$$  .::
+         $$$       $$$  .$$$$$$$   $$$$$::$`$'   $$$$$$$ .::
+         `²$b.d$$s.$$$b.d`$$'$$$   `$$'$::$,s$²"²$$$$$$$.::
+               $$$$$$$   b..d$$$       $::$$$$   $$$$$$$::
+               $$$$$$$   $$$$$$$       $::$$$$   $$$$$$$:
+               $$$$$$$   $$$$$$$ !wr!  $::$$$$   $$$$$$$   ,s$$
+         `²$b.d$$²'`²$b.d$$²'`²$       $::$`²$b.d$$²'$$$   $$$$
+             ::      :::               $::$          `²$b.d$$²'
+            : ::    :: ::              `$$' i eat cereal for
+           :   ::  ::   ::                  breakfast.
+          :     ::::     ::
+                :::       ::
+               :: ::     ::
+               :   ::   ::
+                    :: ::
+                     :::
+                      :
+
+
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: i forgot who_)   (__
+  (____________) !wr!              ______) /_logo: toxic    (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+
+                       .
+                      .:.
+              .      .:::.
+              :.    .:: ::.
+              ::.  .::   ::.
+               ::..::     ::.
+                ::::       ::.
+                .::.
+               .:::::.        ,s$
+              .::  :::tOXIC!  $$$
+             .:: ,s$          $$$
+            .::  $$$$s...     $$$   ,s$$
+           .::   $$$          $$$   $$$$,s$$
+          .::    $$$,s$²"²$$s.$$$   $$$$$$²',s$²"²$$s.
+         .::     $$$$$$   $$$$$$$   $$²'b..d$$$   $$$$
+        .::      $$$$$$   $$$$$$$  ²    $::$$$$   $$$$.       .
+       .::       $$$$$$   $$$$`²$b;d$$s.$::$$$$   `$$':.     .:
+      .::        $$$$$$   $$$$   ²  $$$$$::$$$$   b..d::.   .::
+      ::.        $$$$$$   $$$$,s$   $$$$$::$$$$   $$$$ ::. .::
+       ::.       $$$`²$b.d$$²'$$$   $$$$$::$`²$b.d$$²'  ::.::
+        ::.      $$$   ,s$s   $$$  .$$$$$::$:.           :::
+         ::.     $$$   $$$$   $$$ .:$$$$$::$::.         .:::.
+          ::.    $$$   $$$$   $²'.::$$$$`$$' ::.       .:: ::.
+           ::.  .`²$b.d$$²'     .:: $$$$      ::.     .::   ::.
+            ::.  ::.  .::      .::  $$$$ !wr!  ::.   .::     ::.
+             ::.  ::..::      .::   $$$$        ::. .::       ::.
+              ::.  ::::      .::    $$$$         ::.::         :::
+               ::. .::.     .::     `$$$          :::
+                ::.::::.   .::       `²$           :
+                 :::  ::. .::
+                  :    ::.::
+                        :::
+                         :
+
+
+
+       .            ..                            .       .        ..
+     ___                   ___________________________________________
+    /  /for: they know who \  _______________________                 )
+   /   \ logo: sk:od  ___  / /                  \____________________/
+  /     \_____________) / / / a year in the life.....
+ /     ______________  / / /                                      .  .
+ \____(  !wr!        )/ /   .   :  ...  .  .  .  .      .   .   :
+
+
+
+
+
+
+
+                                .:.
+                               .:::.
+                              .:: ::.
+                             .::   ::.
+                            .::     ::.       ,s$$
+                           .::       ::.      $$$$
+           !wr!      ,s$  .::         ::.     $$$$
+                     $$$  ,s$$         ::.    $$$$  .
+           ,s$²"²$$s.$$$  $$$$,s$²"²$$s.,s$²"²$$$$ .::.
+           $$$   $$$$$$$  $$$$$$$   $$$$$$$   $$$$.::::.
+           $$$   `$²'$$$bd$$²'$$$   $$$$$$$   $$$$::  ::.
+           `²$b.d$$s.$$$²"$$s.$$$   $$$$$$$   $$$$:    ::.
+           ,s.   $$$$$$$  $$$$$$$   $$$$$$$   $$$$      :::
+           $$$   $$$$$$$  $$$$$$$   $$$$$$$   $$$$     .::
+           `²$b.d$$²'$²'  $$$$`²$b.d$$²'`²$b.d$$²'    .::
+                 .::      $$$$                 ::.   .::
+                .::       $$$$                  ::. .::
+               .::        `$$$ SK:OD             ::.::
+              .::          `²$                    :::
+             .::                                   :
+            .::
+
+
+
+
+  .   .                 ..    :.       ::    .:                      .
+ ____________ _________________  ___________                   ___
+ )__________ \) _______________)(________  (for: Quad-P krew _)   (__
+  (____________) !wr!              ______) /_logo: quad-p   (/       (  :
+     .  june 1996 - june 1997      )_________________________________/
+ .        . .        .     .      .           :..            :.      . .
+
+
+
+
+
+                                                       ..
+                                                      .::.
+                                                     .::::.
+                                                    .::  ::.
+                                                   .::    ::.
+            hiro p, mithrandir, windrider, jaz,   ,s$$     ::.
+            ohseven, bubblegum mask, shamen,     .$$$$     .::
+           .sagramore, zerohour, enigmatic, cain,:$$$$    .::
+          .:phreak klass, the abstract poet.   .::$$$$   .::
+         .::                                   :: $$$$  .::
+        .::   ,s$²"²$$s.,s$   $$s.,s$²"²$$s.,s$²"²$$$$,s$²"²$$s.
+       .::    $$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$
+      .::     $$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$
+     .::      $$$   $$$$$$$   $$$$`$'   $$$$$$$   $$$$$$$   $$$$
+     ::.      $$$   $$$$$$$   $$$$,s$²"²$$$$$$$   $$$$$$$   $$$$
+      ::.    :$$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$
+       ::.  ::$$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$
+        ::.:: $$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$
+         :::  $$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$$$$   $$$$
+         :::. `²$b.d$$$$`²$b.d$$²'`²$b.d$$$$`²$b.d$$²'$$$b.d$$²'
+        :: ::.      $$$$   ,ss.                 ,s.   $$$
+       ::   ::.     $$$$   $$$$   Q u a d - P   $$$   $$$ !wr!
+     .::     ::.    $$$$   $$$$  .Productions   $$$   $$$
+              ::.   $$$$   $$$$ .:8 years and   $$$   $$$
+               ::.  `$$$   $$$$.::still going   $$$   $$$
+                ::.  `²$b.d$$²':::S T R O N G   `²$b.d$²'
+                 ::.         .:: ::.
+                  ::.       .::.  ::.  .:
+                   ::.     .::::.  ::..::
+                    ::.   .::  ::.   .::
+                     ::. .::    ::. .::
+                      ::.::      ::.::
+                       :::        :::
+                        :          :
+
+
+
+
+
+
+           -  -                   -    ]<-  oo  ->        ,zûz
+             ,zü~ü#z. ü$$$$ûü~üû$@zü$$@z z@$$üz. ,z@@$ü$$üüøø,@ü~$$@zzz
+  $$üü ~ ~ ,@$$  ,$ûü~,$$$'   ,xûü' `üûü `üûü `üûz.`ûü,$$z $$$' ,$$$ü' ~  ~
+  $'      ,$$$$      ,ü,z `$$$ü' zz           zz $$  ,$$$$z`ü',$$$$'
+  $sh     $$$$$. ~üû@z@$'  `ü$$$z.   $$z $$z   ,z$$  $$$$$' ,$$$$'
+  $$zz . .`üû$$$z.z$$ûü'. ,z$$$ûü'`z$$ü' ü$$$z$$ûü ..`üûû' $$$$$z..  ..  .    .
+          
+    Well, judging by the small sampling you've just seen, it's been a
+    productive year.  During that time i've had the opportunity to talk
+    with some of the most fun and intelligent people you could ever hope
+    to know.  And here's a personal word to just some of them.
+
+    hiro:  simply put, you ARE the man.  It's been a hell of a fun time
+           the past few years here in the Middlanowhere.  you're gonna
+           be missed by all the krew here in the 306.  And either you
+           keep in touch or we're all going on a road trip to Vancouver
+           in order to kick your ass all the way to Eniggy's house.
+    necromancer:  thanks for being one of the first guys i knew on irc.
+           you saw a guy that couldn't draw his way out of a wet paper
+           bag and yet still gave me encouragement.  keep it up and one
+           of these days i might bullshit you enough to get into remorse.
+    tinyz: the man from pollackaville.  i always have a blast hanging out
+           with you on irc, just waiting for a little gem to come forth,
+           like that time we took over #vcompo 30 minutes before it was
+           supposed to start.  We have to do that more often.
+    omi:   if you don't send me quake, how the hell am i supposed to play
+           against you?  I've reaally got to get my anus down to omizona
+           one of these days.
+    fah:   you wacky-assed fudgemonkey.  Do something to get shot in the
+           other leg so that you can get your PimpCane back. ;)
+    ohseven:  i still can't beleive you did a logo for this bitch of a
+           colly.  What were you thinking man?!$!@$!#%$!#$%!
+    nlw122:   no one who sees this will have any idea who you are, but you've
+           been a great source of inspiration, fun, innocence and happiness
+           since the day i first talked with you.  here's hoping there's
+           more of the same in the future.
+                                                  .
+    and even more....                             :
+         _\_____:_   _._____/_ ____/_    ____/_  _|__ ©hP!   __
+          _\    | | | |    /_ _\ _/___. _\ _/___. |  _____/_ )______/_
+    ·   _ |     | | | :-÷---'-| _)    | | _)    | | |    /_ . |    /_ _   ·
+   _:__\\ `-÷---|_|-l ·       l_|     |-l_|     |-l_|     |-l_|     | //__:_
+    :            _l     SK:OD   :---÷-'   :---÷-'   :---÷-'   :---÷-'     :
+    .                           ·         ·         ·         ·           .
+
+    now for the people who are also a big part of the past year, but who
+    i apparently didn't give enough of a damn about to say something
+    personal.  h0h0h0h0 (hey, stop throwing things!!)
+         mithrandir, acidjack, empty, ack, nitro, wise-kid, the #ascii klan
+         from across the pond, the Quad-P krew who have kept me going,
+         miasma, erupt, black jack, cain and the noname/kwest boyz,
+         whodini, kent and angie, brynt and laurie, the weisner i'll
+         squeezner, mry0y0, paine, enigmatic, argon (i'm still waiting
+         for the revival of Revolt), the junkies of efnet's #ascii and
+         #remorse, mhz/bugsy/the man with the 20 word nick, and a special
+         shout out to everyone that has the guts to try something new,
+         because whether it's good or bad it has expanded our horizons
+         beyond the current limitations we give ourselves.  you guys are
+         my heroes.  keep it up.
+
+
+___________   .________   ___________    .______  ____   ______     ______.
+\     ____/___|_      /___\    .    /____|_     \_\___)_/     /_.___\_   _|__
+/     /        /     /    /    |___/      /     /      /      __|    /      /
+\__________    \__________\____________________/|______\______|_____________\
+ :::::::::|_____|-wk!/ja:::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+         if you want to know what it's like to be me, talk to the following
+         people:
+                thanks to tinyz for the windrider logo.
+                thanks to acidjack for the credits logo.
+                thanks to shamen for the greets logo.
+                thanks to hiro for the greets logo.
+                thanks to o7 for the end logo (you can't miss it)
+
+                thanks to hiro for being hiro.
+                thanks to me for not going insane.
+                thanks to nlw122 for being nlw122 (h0h0h0)
+                thanks to the #ascii krew for being there 24/7.
+
+                thanks to meatloaf for the inpsirational music.
+                thanks to metallica for a kickass concert
+                thanks to KISS for an even better kickass concert.
+                thanks to dad for selling me the PimpMobile.
+                did i thank hiro yet? hehehehe
+
+                thanks to tinyz for being tinyz.
+                thanks to necromancer for being an assmonkey.
+                thanks to remorse ascii for being too elite for my ass.
+                thanks to the weisner for being there-ish.
+                thanks to you (whoever the hell you are) for getting this
+                       far and not killing yourself or me.
+
+       look for my next colly sometime between now and dec 31 1999. ;)
+
+       CIAO BAYBEE!!!
+         -WindRider  June 15 1997
+
+
+@BEGIN_FILE_ID.DIZ
+ .   WindRider of Quad-P (and ONLY Quad-P)  .
+ | is proud to pRESENT a cOLLy nAMED:       :
+ :       The Uranus Mining Corporation, in  |
+ | conjunction with the Free Zimbabwe       :
+ : Coalition, proudly presents friends and  |
+ | lovers discussing how the wonders of     :
+ : poo gas could be used to help defeat the |
+ | Eskimo Mafioso. June 15 1997  1981 lines :
+@END_FILE_ID.DIZ
+
+  ---                       one      last      logo                       ---
+
+                              _____ ___ ____________
+                             _>   /___ :  /___  ___(
+                             |    ___/_"     / ___/_
+                             |        /    _/      /
+                             |_      / |   \     _/
+                              /_    /  |  __\   _\
+                                '--'-'-"-'   '-'
+                                      the
+               ____ __________________ _____________ _____________
+              _>   :   <_   __  />   <__     _  (_  :   <_       (_
+              |    |    |    / /_  :   <_   _(   |  |    |   )____/
+              |    l    |  _   _/  "    |   \    |_ l    |\___   \
+              |_   "   _|  )   \   T    |_   \    / "   _|   (    \_
+               /_     _\--'|   _\  1     /    \  /     _\_        _(
+                 '---'     `--' --' `---'----' \/ '---'   `------'
+                                     Uranus
+            ______________     __  __________  __  ___________________
+           _>            <____(__)_(     _  (_(__)_(     _  (_ ______/_
+           \     \_   _/     /    (_    _(   |    (_    _(   | \      (_
+            \_    (___)     /       \   \    |_     \   \    |_ \__    /
+             /_     |     _/         \_  \    /      \_  \    /   /  _/
+               `---'|    _\_         _<   \  /       _<   \  /      _\
+                    `---'-----------'-----'\/-------'-----'\/ -----'
+                                     Mining
+  _________________________________________________   __  ________________
+ _)  _   /   /_   _  /  _ _/   /_   _  /    <__   /__(__)_\      /_    _ (_
+_|   (__/_ :  <_  / /_  / \ :   <_  / /_  :   <_  __/__  (_   :   <_  _(  |
+\_       ( |   / _  _/  __/ |    / _  _/  "    |      /    \  |    /  \   |_
+ /_     _| : _/  )  \   |_  :  _/  )  \   T    |_    /      \_:  _/    \   /
+  (_    >_   )--'|  _\  |(     )--'|  _\  1    _/   /       _<   )      \ /__
+    `--`  '-`    `-' -`-' '---`    `-' --' `---'---'-------' ---` `-----'" \_\
+                                   Corporation,                             (/
+                                   __  __________
+                                 _(__)_(     _  (_
+                                _)    (_    _(   |
+                               /        \   \    |_
+                             _/          \_  \    /
+                             >_          _<   \  /
+                               `--------'-----'\/
+                                       in
+  ____________________   ________ ____________________   __  ________________
+ _)  _   /   /_   _  (_  )_   (_ :  <_  _  (_ _   /  /__(__)_\      /_   _  (_
+_|   (__/_ :  <_ _(   |____|   | |   | _(   | (__/_  __/__  (_   :   <_ _(   |
+\_       ( |   / \    |_  (    | l   | \    |_    (      /    \  |    / \    |_
+ /_     _| : _/   \    /  |    | "  _|  \    /   _|     /      \_:  _/   \    /
+  (_    >_   )     \  /        |   _\    \  /    >     /       _<   )     \  /
+    `--`  '-` `----'\/---------''-' `----'\/ `--` '---'-------' ---` `----'\/
+                                   conjunction
+      ____ ____   __    ______ ____ ____        ______ ____ ______________
+     _\   :   /__(__)_ _>    /___  :   /___    _>    /___  :   /___   ___(
+    /   __|__   \    (_|     ___/_ "      /    |     ___/_ "      /  ___/_
+   /   _)   (_   \     \         /      _/     |         /      _/       /
+  /__  \_   _/  __\     \_      /  |    \      |_       /  |    \      _/
+    <           >       _<     /   |   __\      /_     /   |   __\    _\
+     '----"----`-------'------' '--"--'           '---'-'--"--'   '--'
+                                   with the
+                        ______________________________
+                       _\       /  __  /    ___(  ___(
+                       )_    __/_   / /_   ___/_ ___/_
+                        /   ____/ _   _/       /     /
+                       /     \    )   \      _/    _/
+                      /_     _\--'|   _\    _\    _\
+                        `---`     `--'  '--'  '--'
+                                     Free
+        _________  __  ___________ _____________  ____________ _____________
+       _)   _   (_(__)_>         <____ __  /   <__)    __  /  :  /_     ___(
+       \____(    |    (_   \_ _/     / _/_/  :   <_    _/_/  _|_   \   ___/_
+        /   ____/|_     \   (_)     /  \ \   "    |    \ \  _) (_   \      /
+      _/    )    _(      \_  |    _/    \ \  T    |_    \ \ \_ _/  __\   _/
+      )_         |       _<--|   _\       _\ 1     /      _\       >    _\
+        '--------'------'    `--'  ------' -' `---'------''---"---`----'
+                                   Zimbabwe
+        ______________ _____________  __    ______   __  ________________
+       _)  _   /     /_>   <__     ( (__)_ _>    /__(__)_\      /_   _  (_
+      _|   (__/_  :   <_ :   <_   ______ (_|     __/__  (_   :   <_ _(   |
+      \_       (  |    / "    |   )    /   \         /    \  |    / \    |_
+       /_     _|  :  _/  T    |_     _/     \_      /      \_:  _/   \    /
+        (_    >_     )   1     /    _\      _<     /       _<   )     \  / __
+          `--`  '---`---' `---'----` ------'------'-------' ---` `----'\/  \_\
+                                   Coalition,                               (/
+             ___________________________ ____   _________________ ___
+            |_     _  /  __  /      /_  :   <_,-)__  _(   (_    (_) (_
+             (_    / /_   / /_   :   <_ |    |   _(  |   __/_____    |
+              /   ____/ _   _/   |    / l    |   |   |   )    / (_   |
+             /     \    )   \    :  _/  "   _|   |   |      _/  _|   |
+            /_     _\--'|   _\_     )_     _\        |     _\        |
+              `---`     `--'   '---`  '---'  --------'----` ---------'
+                                     proudly
+        _________________________________________________ _______ _________
+       _\    _  /  __  /    ___(      (_     ___(    _  (_>     /___      (_
+       )_    / /_   / /_   ___/_  )____/    ___/_   _(   |      ___/_ )____/
+        /   ____/ _   _/       /___   \         /   \    |_         /__   \
+       /     \    )   \      _/   (    \_     _/     \    /        /  (    \_
+      /_     _\--'|   _\    _\         _(    _\       \  //_      /        _(
+        `---`     `--'  '--'  '-------'  '--'  '------'\/   '----' -------'
+                                     presents
+                __________________  _________________   _____________
+               _\       /  __  /__)_(     ___(   _  (_,-)__ __(     (_
+               )_    __/_   / /_   (_    ___/_  _(   |   _(  |  )____/
+                /   ____/ _   _/     \       /  \    |_  |   |___   \
+               /     \    )   \       \_   _/    \    /  |   |  (    \_
+              /_     _\--'|   _\      _<  _\      \  /       |       _(
+                `---`     `--'-------''--' -'-----'\/--------'------'
+                                    Friends
+                            _____ __________   _______
+                          __>   <__     _  (_,-)__ __(
+                         _>   :   <_   _(   |   _(  |
+                         |    "    |   \    |_  |   |
+                        _|    T    |_   \    /  |   |
+                        \     1     /    \  /       |
+                         `---' `---'----' \/ -------'
+                                      and
+                  ______ ___________ _________________________
+                 _>    ( \     /_   :   _(   ___(  __  /     (_
+                 |    ______:   <_  |   |   ___/_   / /_ )____/
+                 |    )    /|    /  l   |       / _   _/__   \
+                _|       _/ :  _/   "   |     _/  )   \  (    \_
+                \___    _\     )\_     _|    _\--'|   _\      _(
+                    `--`  '---`   '---'  '--'     `--' ------'
+                                    Lovers
+        ________  ________________ ____________________  ___________________
+     _,-)__  _(_)_       (_ _   / :   <_     (_     (__)_(     _  (_ ______/_
+     |   _(  |   (__ )____/ (__/_ |    | )____/ )____/  (_    _(   | \      (_
+     |   |   |     \___  \      ( l    |__   \___   \     \   \    |_ \__    /
+     |   |   |      \_(   \_   _| "   _| (    \_(    \_    \_  \    /   /  _/
+     |_      |      _<    _(   >     _\       _(     _(    _<   \  /      _\
+       '-----'-----'-----' `--` '---'  ------'------'-----'-----'\/ -----'
+                                  Discussing
+             ____ ____ _______ ____ ____        ______ ____ ______________
+          ___\   :   /___    /_\   :   /_      _>    /___  :   /___   ___(
+          \      "      / :   <_ __|__   \     |     ___/_ "      /  ___/_
+           \_         _/  |    /_)   (_   \    |         /      _/       /
+            /    |    \   :  _/ \_   _/  __\   |_       /  |    \      _/
+           /__   |   __\     )_          >      /_     /   |   __\    _\
+              '--"--'   '---`  '---"----`         '---'-'--"--'   '--'
+                                    How The
+                ____ ____  _______________   ___________________________
+               _\   :   /__\     /_   _  (_,-)__ __(   ___(  __  /     (_
+              /   __|__   \   :   <_ _(   |   _(  |   ___/_   / /_ )____/
+             /   _)   (_   \  |    / \    |_  |   |       / _   _/__   \
+            /__  \_   _/  __\ :  _/   \    /  |   |     _/  )   \  (    \_
+              <_         _>(     )     \  /       |    _\--'|   _\      _(
+                '---"---`   '---`'-----'\/--------'---'     `--' ------'
+                                    Wonders
+                                _______ _________
+                               _\     /_\       /
+                              _>   :   <_    __/_
+                              \    |    /   ____/
+                               \_  :  _/     \
+                                (     )_     _\
+                                 '---`  `---`
+                                      of
+                _____________________    _________  _____  _______
+               _\    _  /    /_     /_  _) ______/__>   <__)     (_
+               )_    / /_ :   <_ :   <_ |  \      (_  :   <_ )____/
+                /   ____/ |    / |    / |   \__    /  "    |__   \
+               /     \    :  _/  :  _/  |     /  _/   T    |_(    \_
+              /_     _\_-    )_     )   |_      _\    1     /     _(
+                `---`   '---`  '---`      '----' `---' `---'-----'
+                                    Poo Gas
+   _________________ __________ _________    ____ ___________________ _________
+  _)  _   /     /_  :   <_    ( \   _ __( ___\   :   /___   ___(    ( \    _  /
+ _|   (__/_  :   <_ |    |   _______(  |  \      "      /  ___/_   ______  / /_
+ \_       (  |    / l    |   )    /|   |   \_         _/       /   )    / ____/
+  /_     _|  :  _/  "   _|      _/ |   |    /    |    \      _/       _/   \
+   (_    >_     )_     _\__    _\      |   /__   |   __\    _\___    _\    _\
+     `--`  '---`  `---'    `--`  '-----'      '--"--'   '--'     `--` `---`
+                                   Could Help
+                     ________________________________ ______
+                  _,-)__  _(   ___(      /  ___(>   <__    /___
+                  |   _(  |   ___/_   __/_ ___/_  :   <_   ___/_
+                  |   |   |       /  ____/     /  "    |       /
+                  |   |   |     _/    \      _/   T    |_     /
+                  |_      |    _\     _\    _\    1    _/    /
+                    '-----''--'  `---`  '--'  '--' `---''---'
+                                     Defeat
+                           ______ ____ ______________
+                          _>    /___  :   /___   ___(
+                          |     ___/_ "      /  ___/_
+                          |         /      _/       /
+                          |_       /  |    \      _/
+                           /_     /   |   __\    _\
+                             '---'-'--"--'   '--'
+                                      the
+               ____________________ ________  ___________ _______
+              _)     ___(     (_  _/    _(__)_>         <____   /_
+              |     ___/_ )____/  >     \    (_   \_ _/     /:   <_
+              |         /__   \    _     \     \   (_)     / |    /
+              |_      _/  (    \_  |      \     \_  |    _/  :  _/
+               /_    _\        _(--|      _\    _<--|   _\      )
+                 '--'  `------'    `-----` ----'    `--'  -----`
+                                     Eskimo
+           ______________  _____  __________    _____________________
+          _>            <____  <__)      /__)_ _\     /_     (_     /_
+          \     \_   _/     /:   <_   __/_   (_>   :   <_)____/  :   <_
+           \_    (___)     / "    |  ____/     \   |    /_   \   |    /
+            /_     |     _/  T    |_  \         \_ :  _/ (    \_ :  _/
+              `---'|    _\   1    _/  _\        _<    )       _(    )  /\
+                   `---'  --' `---''-`  '------'-----` ------'-----`   \/
+                                    Mafioso.
+
+                                                               (c) Ohseven/Grey
+
+ -------- end of file ------------------ line 1981          
+
+
+
+                                                                     __
+      ______ _____ ____ ____ ___.:___ ______ ________ _____ ________ )/
+  ____\    //____//   //  _//   ||   \\    //_     _//_____))_     / /cDr .
+  \   /   /       \_      \     ||    _\     |     |         /    /   m's_|
+ /_______/______________________||___________|_____|________/____________\
+
+      wraith  -÷-  payday -÷-  recall  -÷-  madmax^juan  -÷-  etrigan
+         amiga / pc / c64 / console / cd^/x tools / olden goldies __
+         __     node #1: +46-private   node #2: +46-private      /\_\
+        /_/\    node #3: 24h-telnet!   node #4: 24h-telnet!      \/_/
+        \_\/          all nodes are ofcoz 33.6k v.all
+
+ -- ----- -------------- [ D I S C U S T I N ' ] -------------- ----- --
+
+
+
+                                                     [A¡RaDDer v3.4 By A¡Rcø]
+
+
++---------------------------------------------------------------------------+  
+|   THIS FILE PASSED THROUGH »»» HYPERSPACE ««« 08-7749532 !  AMIGA PD !    |
+`---------------------------------------------------------------------------´
+                                      
+                                                          [-AquaAdder v1.0-]

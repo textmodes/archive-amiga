@@ -1,0 +1,2207 @@
+
+
+                            ... ::          ____
+    radioactive _________.  :::            |___| _______________ __
+    bbs <--  ____        |      ·   ____      ___|         __  // /
+    ________ |   .__     ·    .____ \___)     |            \     /
+    |   __  \|  _|_/      ____|    |______.--------.        \   /
+    :   |/ _/|  \_       .  __.    |      |    _   |  _ _____\_/______
+    .   /    \   |       |  \_|    |      |   (/   |  \  _   (_)   __
+    ____\     \--|       :_________|------|________|   \//   / \    /
+         \_____\ |_______|      ________ ____/           \ AchtunG /
+                             ____       _____     ____    \/     \/
+        [$Ð!/dGs]      ______|__   ____ |__  |    \__/  .____
+                    .__ .__    |   |    |    |__ ___ _  |   /
+            ::::    |  _|_/    |   |    |      /_|  \\\ |  /----.
+        ... ::::    |  \_      |   |    |   __/       \ · /| ---'
+        :::      .  |___|      :   |____|        .____ \_/  ¯¯¯¯¯¯ ¯
+             ::         |______|        |____ ___|
+                             |____          .          - appendix phq -
+        +48-58-216-107      ____ |__________|           - link124 whq -
+                            |___|
+        powered by a1240/40       sysop: cerber/appendix
+                                              _______________________ _
+        ascii - demos games - porn - util _ __|
+
+
+                       --------------()--------------
+
+
+               T H I R D  place in the world! (JurassicPack#5)
+
+
+           ._____.[staff]jacobs/appendix - prefix/appendix - ziutek/appendix
+ _________ |¯    :      ________[demon/cyber freaks]
+|¯    __ /_|   __|____._\   ___/[master] madbart/anadune^appendix^teklords
+|______(       \__   ¬:    __>___:___________________ ___ _
+     /¯          /         \    ¯|
+    /      .    /       _      _  [a1200T/030/882/50mhz/quantum 1.3gb/cdrom]
+   /_______:---/______.-)______(------------------------------------- -- -
+                          _______   ________   ________   _________.______
+ [node 0] +48-91-879493  /¯  ___/_._\   ___/ ._\  ____/_._\  _    ¬·      |
+       _ ___ __________._\____   ¬:    ___>  :    \    ¬:   /______.      |
+[open]                 |     /         \                      ¯\nd!:______:
+   22-13/week 22-10 cet  _          _          _          _     \  |¯     |
+- ------- -------------:-)________.-)________.-)________:-)______\ |______|
+ [node 1] telnet
+ [node 2] telnet  [anadune whq] [appendix whq] [teklords phq] [floppy phq]
+
+ [dinx project phq]  [jormas phq]  [mawi phq]  [doggystyle phq]  [psl phq]
+ [link 124 phq]  [venus art phq]  [ozone free phq]
+
+
+
+                    [be sure you choose the right number]
+
+
+@BEGIN FILE_ID.DIZ
+          ___     ...  .....  ...
+ _ __/\__|   |__.::::_:::_:::_:::_:::__/\__ _
+         |   |__  :::    .::: :::.:::
+  luk!___|   |  |_:::__.:::'______:::___pht!
+         `------' ::: :::::::     :::
+.---------------------------------------------.
+¦                                             ¦
+¦  azzaro`s "homework". mentioned by link124  ¦
+¦           live with monar records           ¦
+¦                                             ¦
+`------------------------[24/04/1998]---------'
+@END FILE_ID.DIZ
+
+
+        .·······················.
+        :[c] 4-poles-only       : Boga nie ma sâ kosmici...
+        :                       :
+        :                       :
+        :                       : Wydanie szesnaste Maîego poradnika mecha-
+        :                       : nika ukazuje sië w krótkim odstëpie czasu
+        :                       : od wydania piëtnastego ( caîkowicie prze-
+        :                       : robionego), w  zwiâzku z czym  wydania te
+        :                       : nie róûniâ sië w  zakresie treôci meryto-
+        :                       : rycznej, a jedynie  pod wzglëdem edytors-
+        :                       : kim (wydanie 15 w dwóch woluminach, wyda-
+        :                       : nie 16 - w jednym woluminie).
+        :                       :
+        :                       : Cennâ pomocâ dla ulepszenia treôci i ujë-
+        :                       : cia poradnika sâ wypowiedzi Czytelników -
+        :                       : serdecznie  za nie dziëkujemy. Liczymy na
+        :                       : dalsze uwagi krytyczne, które prosimy na-
+        :                       : dsyîaê pod adresem: Wydawnictwa Naukowo -
+        :                       : Techniczne, 00 - 950 Warszawa, Mazowiecka
+        :                       : 2/4. Jednoczeônie zapewniamy, ûe bëdâ one
+        :                       : uwzglëdniane w nastëpnych wydaniach.
+        :                       :
+        :                       : Warszawa, 1985.   l   in k   1 2 4, 199 8
+        :                       :
+        :                       :
+        :                       : Zamieszczone w Maîym  poradniku mechanika
+        :                       : dane z Polskich Norm wydrukowano w/g ory-
+        :                       : ginaîów za zgodâ  Polskiego Komitetu Nor-
+        :                       : malizacji, Miar i Jakoôci.  Za zgodnoôê z
+        :                       : oryginalnymi Polskimi Normami odpowiadajâ
+        :                       : Wydawnictwa Naukowo-Techniczne.
+        :                       :
+        :                       : Przed zastosowaniem w praktyce danych za-
+        :                       : czerpniëtych z Polskich Norm naleûy spra-
+        :                       : wdziê aktualnoôê norm.
+        :                       :                                 .mechanik
+        :                       :                                         7
+        :                       :
+        :                       :
+        :                       :
+        :                       :       .-----------------------.
+        :                       :       ¦                       ¦
+        :                       :       ¦              _____, _____  _____
+   ___. :  /   _____ /  _______ /  ___._¦__ /          )l___l )l  `) )l__/,
+ ._\  | : / ._(____//_._\   _ //_._\  | __//_.                  ¦
+ |    |__/__|      /  |    _/ /  |    |   /  |         _l_    _  _ _ _____,
+ |!   | /   |!       ·|!   |    ·|!    _    ·|         )l___, )l_(_( )l___l
+ |         ·|        :|    |    :|    _/    :|   ____,          ¦
+ |_____    :|     ____|____|     |____|      |  _)__ ' _____, __   , _____
+      l_____|_____j        l_____|    l______|  )l     )l___l )l___l l(   '
+       az0!/l124                :       ¦                       ¦
+        :                       :       ¦                       ¦
+        :                       :       `----------[LINK124]----'
+        :                       :
+        :                       :
+        : - link124 industrial terror squad featuring monar records `98 -
+        :                       :
+        :                       :
+        :  ___  ___ /  _______ /: _______ /  _______ /  ________ /
+        :._\_ \/ _//_._\     //_._\   _ //_._\  ___//_._\  __  //_.
+  .------|        /  |   __ //  |    _/ /  |    |  /  |    \/ //  |------.
+  ¦      |!  _ _    ·|   \_/   ·|!   |    ·|!   |__  ·|!    \_   ·|      ¦
+  ¦ 1998 |   \_/    :|         :|    |    :|    __/  :|      /   :|      ¦
+  `------|____|      |____      |____|     |    |_____|_______\   |------'
+        :     l______|   l______|    l_____|____j recordzz l______|az0!/l124
+        :                       :
+        :                       : A .... haszmir klub......
+        :                       :
+        :                       :
+        :                       :
+        :                       : [
+        :                       : Rok  1958.   Charles  Townes, konstruktor
+        :                       : pierwszego      wzmacniacza      mikrofal
+        :                       : zbudowanego     na     zasadzie    emisji
+        :                       : indukcyjnej   (maser),  zmodernizowaî  go
+        :                       : wraz  z  Lwem  Szawîowem  otrzymujâc  tak
+        :                       : zawny  maser  optyczny, który to emitowaî
+        :                       : wzmocnione  optycznie  ôwiatîo.   Byî  to
+        :                       : LASER  (Light Amiplification by Simulated
+        :                       : Emission of Radiation).  Ôwiatîo widziane
+        :                       : ma  bardzo  krótkie  dîugoôci  fal, okoîo
+        :                       : jednej   dziesiëciotysiëcznej  mikrofali.
+        :                       : Rezonator  maserowy, w którym dochodzi do
+        :                       : wzmocnienia,   mierzy   fale  o  dîugoôci
+        :                       : dochodzâcej   do   kilku  milimetrów.   W
+        :                       : przypadku   ôwiatîa   moûe   on  zmierzyê
+        :                       : jedynie  jednâ dziesiëciotysiëcznâ.  Obaj
+        :                       : fizycy    znaleûli    wyjôcie    z   tego
+        :                       : technicznego  problemu  dziëki pomysîowi,
+        :                       : by  zastosowaê  dîuûszy prët z lustrzanym
+        :                       : zakoïczeniem,   w  którym  fale  ôwietlne
+        :                       : stale  przemieszczajâ  sië  w  jednâ  i w
+        :                       : drugâ    stronë,    nim    nie    zostanâ
+        :                       : dostatecznie  powiëkszone,  by  mogîy byê
+        :                       : zmierzone    jako    promieï    laserowy.
+        :                       : Pierwsze  urzâdzenie wedîug tego projektu
+        :                       : -  tzw.   laser  rubinowy zbudowaî w 1960
+        :                       : roku  w Stanach Zjednoczonych Theodore H.
+        :                       : Maiman.   To  z  pozoru niewinne odkrycie
+        :                       : spowodowaîo rozwój nowej dziedziny wiedzy
+        :                       : -  techniki laserowej.  Nikt jednak nawet
+        :                       : w  najômielszych snach nie przeczuwaî, iû
+        :                       : ten  promieï  swietlny, widzialny tylko w
+        :                       : otoczeniu  dymu  papierosowego,  znajdzie
+        :                       : tak wielkâ rzeszë entuzjastów i tak wiele
+        :                       : zastosowaï.  Jednak wszystko po kolei...
+        :                       :                                         ]
+        :                       :
+        :                       :
+        :                       :
+        :                     _ __ _______ __ _
+        :           _ __ _ ___\\\//       \\///___ _ __ _
+        :         ._\\\//                           \\///_.
+        :         |                                       |
+       __  ____/\_·____/\_ ____/\_ ____/\_ ____/\_ ____/\_·____/\_  __
+      _\/_.\____ /.\____ /.\___  /.\  ___/.\___  /.\  __ /.\__   /._\/_
+      _  _|   \/__|  _\/  |  \/_/ | \____ |  \/_/ |   |   |   )_/ |_  _
+       /\ `-----' `--/____|-------`----\/-`-------`---|---`-------' /\
+       ¯¯         |_              .present.              _|         ¯¯
+        :          ///\\_ ____                 ____ _//\\\
+        :          ¯ ¯¯  luk!///\\_________//\\\pht!  ¯¯ ¯
+        :                    ¯ ¯:           ¯¯ ¯
+        :                       :
+        :                       :
+        :                       :
+        :                       : Gîównâ  przyczynâ  gwaîtownych  zgonów  w
+        :                       : wielu  krajach  nie  obiëtych  wojnami sâ
+        :                       : wypadki  drogowe.   W  Unii  Europejskiej
+        :                       : jest   cztery  razy  wiëcej  ômiertelnych
+        :                       : ofiar  wypadków  niû  ofiar  zabójstw,  w
+        :                       : Ameryce   Poîudniowej   ponad  dwukrotnie
+        :                       : wiëcej,  a  w  niektórych krajach Ameryki
+        :                       : Îaciïskiej   -  kilkakrotnie.   Ûoînierz,
+        :                       : który    przeszedî    kampanië   wojennâ,
+        :                       : uômiechnie  sië  zapewne, gdy usîyszy, ûe
+        :                       : prowadzenie samochodu jest niebezpieczne.
+        :                       : A  jednak w samym tylko roku 1993 zginëîo
+        :                       : w  wypadkach  drogowych wiëcej Amerykanów
+        :                       : niû   w   ciâgu   10  lat  trwania  wojny
+        :                       : wietnamskiej.   Badania  w  stu  krajach,
+        :                       : które   prowadzâ   statystykë   wypadków,
+        :                       : wykazaîy,  ûe  ginie  w nich okoîo 350000
+        :                       : osób rocznie,
+        :                       :
+        :                       : KRAJ LICZBA ZGONÓW NA 10000 MIESZKAÏCÓW
+        :                       :
+        :                       : ÎOTWA - 34
+        :                       : ESTONIA - 31
+        :                       : PORTUGALIA - 29
+        :                       : ARABIA SAUDYJSKA - 23
+        :                       : POLSKA - 20
+        :                       : USA - 17
+        :                       : MEKSYK - 17
+        :                       : FRANCJA - 16
+        :                       : KANADA - 14
+        :                       : BUÎGARIA - 13
+        :                       : AUSTRALIA - 12
+        :                       : JAPONIA - 12
+        :                       : TAJLANDIA - 11
+        :                       : ZAMBIA - 10
+        :                       : BRAZYLIA - 10
+        :                       : IZRAEL - 9
+        :                       : MAROKO - 8
+        :                       : INDIE - 7
+        :                       : SZWECJA - 7
+        :                       : KONGO - 4
+        :                       :
+        :                       : Jeûeli  przyjmiemy,  ûe  w pozostaîych 80
+        :                       : krajach  sytuacja  wyglâda  podobnie,  to
+        :                       : îâczna liczba ômiertelnych ofiar wypadków
+        :                       : drogowych wyniesie blisko póî miliona.
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :   ______ /\ ______ ___:________ ________ _______:_______
+        :   \      \/      //     ______/_\_      \\      /      /_
+        :    \     \/     /_     _/        /      /_     /|
+        :    /     /_______/______________/________/_____________ _
+        :   ·   t!   \          :
+        :             ·         :
+        :                       :
+        :                       :
+        :                       :
+        :   ... Brown Sugar - Monar party... czeôê któraô tam...
+        :     uczestniczâ... jedyni i niepokonani... wojownicy
+        :                       :
+        :          James Sputnix - Cash - Pulsatioo Loofa
+        :                       :
+        :             goôcinnie wystâp¡ przed Païstwem..
+        :                       :
+        :                       :
+        :                       :
+        :           ......._____:_________________.
+        ................ ::                       |
+        ::  ......... ::.::      a.z.z.a.r.o      |
+        ::  ::     ::                             |  ,¤0p
+        ::  ::    _::__  _____   _____   _____ __ |_j0__åb_
+       _ __/\___ _\___ |_\___ |__\___ |__\___ V  V  ÆF   0L|___/\__ _
+                | ____ | _____|. _____|. ____ |  ___0    ãÎ|
+         luk!___| \/   | \/    | \/    | \/   |   | 0L   ÆF|___pht!
+        ::  ::  `------'-------'-------'------'---'-ÆÎ--_0-'
+        ::  ::.... ::   :                         |  ¶ÎjØ´
+        ::.........:: - ¦ m i n d c r u s h i n g | - ¬°
+                       _|_________________________|
+        :                       :
+        :               ·       :
+    I love brown sugar...with triphop^ambient 1970-80 .. it make me crazy
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       : Ekologia  dzieli  sië  na szereg dziaîów.
+        :                       : Wyróûniamy      ekologië     ekosystemów,
+        :                       : zespoîów,  populacji  (synekologië),  lub
+        :                       : poszczególnych  organizmów (autekologië).
+        :                       : Synekologia  zajmuje  sië  badaniem  grup
+        :                       : organizmów    wspóîistniejâcych    razem,
+        :                       : tworzâcych  jakâô jednostkë i powiâzanych
+        :                       : wzajemnymi  zaleûnoôciami.   Autekologia,
+        :                       : bëdâca   w  pewnej  mierze  strefâ  styku
+        :                       : zainteresowaï   ekologii   i  fizjologii,
+        :                       : zajmuje   sië   zwiâzkiem  poszczególnych
+        :                       : organizmów  lub gatunków ze ôrodowiskiem.
+        :                       : Badania      autekologiczne-choê      nie
+        :                       : wyjaôniajâ nam skomplikowanych zaleûnoôci
+        :                       : w  biocenozach,  dostarczajâ czësto wielu
+        :                       : cennych    i    podstawowych   informacji
+        :                       : dotyczâcych    moûliwoôci    wystëpowania
+        :                       : organizmów  w  danym  ôrodowisku  i  jego
+        :                       : reakcji   na   zmieniajâce  sië  warunki.
+        :                       : Biorâc   pod  uwagë,  ûe  obiektem  badaï
+        :                       : ekologicznych  sâ  grupy  organizmów oraz
+        :                       : caîoksztaît     procesów    biologicznych
+        :                       : zachodzâcych   w   róûnych  ôrodowiskach,
+        :                       : okreôlamy  ekologië  czësto  jako naukë o
+        :                       : strukturze   i  funkcjonowaniu  przyrody.
+        :                       : Przez   strukturë   ukîadu  ekologicznego
+        :                       : rozumiemy    zarówno   skîad   gatunkowy,
+        :                       : liczebnoôê    i   sposób   rozmieszczenia
+        :                       : organizmów,  jak  teû warunki klimatyczne
+        :                       : oraz  iloôê  i rozmieszczenie niezbëdnych
+        :                       : do      ûycia      substancji.      Przez
+        :                       : funkcjonowanie    ukîadu    ekologicznego
+        :                       : rozumiemy   miëdzy   innymi  intensywnoôê
+        :                       : produkowania    materii   organicznej   i
+        :                       : metabolizm róûnych grup organizmów.
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+   _____:   /  _______ /  ___  _:_ /  ________ /
+ ._\  __/__/_._\     //_._\_ \/ _//_._\  ____//
+ |     _  /  |   __ //  |        /  |    __/_/__
+ |!   _/    ·|   \_/   ·|!  _ _    ·|!   |  /   |---------.
+ |    |     :|         :|   \_/    :|    |     ·|         ¦
+ |____|      |____      |____|      |___ |     :| h.o.m.e ¦
+      l______|   l______|    l______|  l________|         ¦
+        :          ¦                                      ¦
+        :          ¦           ___  ___ /  _______ /  ____¦___ /  ___.____ /
+        :          ¦         ._\  /\_ //_._\     //_._\  __  //_._\  | __//_.
+        :          ¦         |  _/    /  |   __ //  |    \/ //  |    |   /  |
+        :          ¦ w.o.r.k |!   _     ·|   \_/   ·|!    \_   ·|!    _    ·|
+        :          ¦         |    |     :|         :|      /   :|    _/    :|
+        :          `---------|____|      |____      |_______\   |____|      |
+        :           az0!/l124     l______|   l______|    l______|    l______|
+        :                       :
+        :                       :
+        :                       :
+        :                       : Praca domowa o podîoûu chemicznym-grzâskim
+        :                       : z dedykacjâ dla fanów trip-hop i ambientu.
+        :                       :
+        :                       :
+        :                       : [c] Polska walczâca 1941-1998.
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :.____  ___  __  _      :               _  __ ___.
+        :|                                               |_____________
+        :.   OLDSCHOOL  MAKES THE SCENE GO! ·            7             \(.
+    _____:__    ____            ____   ____/     ____    : ____.._____ _ |
+   /    _   \  /   /_____ ______\_  \ /   /____ /  _/_____ \   ||    /// |
+  .\   )/   /./   //    /.\     )/  //_       /.\  \(    /./   ..   /.   |
+  |__________|___________|/__________:/_______\|_________\|____||____|   |
+         .                                                  ________     |
+         :                                                 /    _   \    |
+         :  ____     ____   __. ____   ____      ___      .\   )/   /.   |
+     ____· /   /_____\_  \ /  |/   /  /  _/____ /  /_____ |__________|   8
+    .\   \/   /.\    __  /.\  \_   \./  _)/   //_       /   ________     |
+    |____\/____|/____|/___|___|/____|___\______:/_______\  /    _   \    |
+         .                                     /          .\   )/   /.   |
+         :                                    ·           |__________|   |
+         7    .____.      ____.._____  ____              _   ____        |
+      vol: _ _|    |_ ____\   ||    / /  _/____          \\ /   /____  _ 7
+         : \\\_    _//   //   ..   /./  _)/   /.._        ./   //   /.// |
+        \\    |____|(____\____||____|___\______||/       .|__________|   |
+         :                                               :  _____  ____ _|
+         :                                               7/\\____))____\\
+         : ____        ____        ____          ______  :___
+         :/   /______ /  _/_____  /  _/_____ ____\_   / /  _/____
+         /_         /.\  \(    /./  _)/    /.\   )/  /./  _)/   /.
+         :/_________\|__________|___\_______|____/____|___\______|
+         :                                               .
+        .:                  _   _   _   _                :
+        :|                  \\ (_) (_) //                |
+        :|                      /                       _|
+        :|_  _____________  ___________  /\_____________\
+        : //\\____________((___________\/
+        :                       :
+        :                       : stara szkoîa stylu. tak czytelna i zarazem
+        :                       : tak wspaniaîa, iû  kaûdy kiedyô  zapragnie
+        :                       : stworzyê napudrowane dzieîo zrozumiaîe dla
+        :                       : wszelkiego stworzenia.
+        :                       :
+        :                       : czytajcie, a traficie         e     eee  e
+        :                       :
+        :                       : no.> one
+        :                       : puder-pan`98
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :  ____.                  ____.
+     _|_:______.             ___:_|_   |_           _____|_   |_
+      |\      _|___ _____ ___\_    /   _/_____.  ___\_    /   _/  ______
+        \    |    /      \    /   /_.  |     _|__    /   /_.  |___\   _/
+        :\________\      \\__/______|  |   _|   /___/______|  |   |\  \
+        :        \________/_______|____|________\÷e÷_____|____|________\
+        :                       :
+        :                       :
+        Czeôê!   Witaj  w  nowej kolekcji spod wyblakîego znaku Link124.  Tym
+razem   jak  zwykle  kolejna  propozycja  na  to,  jak  spëdziê  wolny  czas.
+Propozycja niebanalna, warta zainwestowania i jednoczeônie prezentowana przez
+szerokie  grono  specjalistów.   Tym  razem  dane  Wam  bëdzie uczestniczyê w
+prawdziwym  umysîowym  tripie  sprowokowanym  heroinâ, haszyszem i marihuanâ,
+zarejestrowanym  on-line  podczas  Monar-party  czëôê  któraô  tam.  Monar to
+firma,  której przedstawiaê szerzej nie potrzeba, wiëc z góry wiadomo juû, ûe
+akcja bëdzie nieprzeciëtna.  Zachowano pisownië i interpunkcjë oryginaîu.
+        :                       :
+        :                       :
+        Wypadaîoby   dodaê  coô  od  siebie.   "Homework"  to  tytuî  zjebany
+bezczelnie  z  albumu  formacji,  która  mnie  ostatnio  zafascynowaîa, czyli
+francuskiego  Daft Punk.  To taki maîy eksperymencik, jak to moûna coô zîoûyê
+i  czy  ewentualnie  ten  typ  designu "chwyci" u ludzi (zawsze tak jest, ale
+teraz szczegolnie =).  Oczywiôcie to mój malutki wkîad w kolejne ôwiëto sceny
+pod  tytuîem Rush Hours`98 w Czëstochowie, na którym to zamierzam sië pokazaê
+(albo juû byîem - czas jest wzglëdny) i dobrze bawiê.  Homework to takûe taka
+moja  maîa  praca  domowa odrobiona po przerwie na tworzenie new`skool ascii.
+Tym  razem  logosy  sâ  czytelne  i  zrobione w old`school.  Jak zwykle mam w
+dupie,  czy  to  sië  komuô  podoba.   Po  prostu  ja sië nieúle bawiîem przy
+tworzeniu,  czego i Wam ûyczë przy oglâdaniu.  Moja nowa kolekcja jest gotowa
+w  33,3% (zaîoûenia, czëôê logosów, cliparty) i najprawdopodobniej bëdzie sië
+nazywaê  "In  Search  Of Sparks".  Premiera na poczâtku maja`98, a ewentualne
+zamówienia  kierujcie  do  mnie drogâ pocztowâ - zarówno elektronicznâ, jak i
+tradycyjnâ.
+        :                       :
+        :                       :
+------------------wild signed by azzaro/link124+mawi+anadune/april`998----
+        :                       :
+        :                       :
+four-two-one                   trip on.
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+Prawda  jest  taka...   jak  juz raz zapaliles to nigdy nie bedzie normalnie.
+odjezdzasz  jeszcze  dalej  i  sobie  nie  zdajesz  z tego sprawy..a wszystko
+dlatego  ze  to  lubisz, ze nigdy nie bedzie lepiej a juz gorzej byc nie moz3
+wszystko konczy sie razem z zejsciem na ktore nikt nie ma ochoty.....
+        :                       :
+        :                      Jaraj kurwa ...
+        :                       :
+        :  juz ...to byl tylko okres menopauzy miedzy buchami :).
+        :                      Tak jest, czad.
+        :                       :
+        :  tak tak zycie to tylko chwila czasu miedzy buchami....
+        :  tak tak zycie to tylko chwila zasranej iluzjii !!  ...
+        :                 dobra palimy....he he...
+        :                       :
+sa narkotyki  heroina....to dwie rozne sPRAWY... tylko po brownie prawda jest
+        :                 prawdâ, a nie iluzjâ....
+        :                       :
+        :     I pamiëtajcie do koïca naszego programu JAZDA !.
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :               :_____
+ .______:___ ___    .____ ______:__ _______ ____|    /     ____ ___________:
+ |/            ____.|    \\_      //_     //    /    | __                  |
+ ¦          _ |    ||      /_____/  /    /     /|    ||  | _   ·MAIN MENU· |
+ |______ _||_||____\/     _________/______\__________||__||_||_ ___________|
+        :           |_____|cDr  :
+        :                       :
+        :                       :
+ lp...uplifting title........................brother in need..........index
+ --------------------------------------------------------------------------
+ 01...abc pack...............................peer/phase truce............01
+ 02...ace....................................peer/phase truce............02
+ 03...acid...................................acid/mawi+nah-kolor+link124.03
+ 04...anadune................................norman/anadune..............04
+ 05...binar..................................peer/phase truce............05
+ 06...blaze..................................blaze/apx+floppy+nah-kolor..06
+ 07...budgie.................................budgie/instinct+absurd+l124.07
+ 08...bumper.................................locash/redbullz.............08
+ 09...chosen.................................chosen/rno+link124..........09
+ 10...floppy.................................def/floppy+mawi.............10
+ 11...gluten.................................peer/phase truce............11
+ 12...hangman................................peer/phase truce............12
+ 13...icetray................................icetray/independent.........13
+ 14...idaho..................................idaho/redbullz..............14
+ 15...jim....................................jim/mawi....................15
+ 16...kro....................................peer/phase truce............16
+ 17...krs....................................peer/phase truce............17
+ 18...link124................................acid/mawi+nah-kolor+link124.18
+ 19...luk....................................peer/phase truce............19
+ 20...mawi...................................mcr/mawi....................20
+ 21...mcr....................................mcr/mawi....................21
+ 22...mobby..................................peer/phase truce............22
+ 23...monar records..........................james blunt/monar records...23
+ 24...peer...................................peer/phase truce............24
+ 25...reality................................evan/reality+grdu...........25
+ 26...rebel..................................rebel/independent...........26
+ 27...revi...................................revi/whelpz+link124.........27
+ 28...speed..................................blaze/apx+floppy+nah-kolor..28
+ 29...timer..................................timer/mawi..................29
+ 30...ufop konjjn............................peer/phase truce............30
+ 31...voicer.................................peer/phase truce............31
+ 32...wild...................................peer/phase truce............32
+ 33...zegarek................................luk/phase truce.............33
+ --------------------------------------------------------------------------
+ lp...uplifting title........................brother in need..........index
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                myôlicie, ûe zwariowaîem ??
+        :        myslicie, ûe  jestem gîupi bo kopcë ?? ...
+ Zbyt duûo rzeczy na piedastale sië staîo.. róûowa jutrzenka zemstâ na mnie
+ patrzy ... Mówië, odejdú ode mnie .. niechce Cië widzieê ... (nie dziaîa).
+        :         Projekty ksiëûycowe i jazdy astralne ...
+        :to jest przyszîoôc pokolenia, uczniów Kapitana Floater ...
+  Kapitana, który zabîâdziî .. zbyt póúno sië obudziî, i ocknâî z letniego
+        :                    letargu ... kurwa.
+        :                       :
+   Lsd gdzie jesteô ??? .. Bâbelki czytaîem .. pocket sîyszaîem ... nieúle
+                             ,stary .. nieúle ..
+        :                       :
+        :                       :
+dalej +-.                       :
+        :                       :
+        :                       :
+        :                       :
+        :     __________________:______
+        :     \    _____              (__________________
+        :   _._\  j000000_                              /__________._
+        :   \|   /"°"¶0000b                                        l/
+        :___ |   Î    _¬000r  ______      ___    ____    ____     _|_
+     _./___/_____åp   F  0@_ / __  /_ ____\_ \ _(____)_ _\   l_  /__/____._
+     \l \/        ¶0Ð Fjµ¬  Y  \__/  Y ____/  Y        Y  ____/-Y_______ l/
+      |            ¬" N00L  |        | \/     |        |  \/         l_/ |
+  luk!l______________j Æ00___________|________|________|_________________lpht!
+             |_  g00000¬000                                        |
+              /_ Æ00000  00È ______       time for credits...      |
+                    ¯¬¶  °0       /________________________________l
+        :                       :
+        :                       :
+  "link124.diz" logo done by.....................................luk/linear
+  "present" logo done by.........................................luk/linear
+  "menu" logo done by..........................................taxi/saphire
+  "azzaro" logo done by..........................................luk/linear
+  "old skool makes scene go" logo done by...............volatile/punk ascii
+  "contents" logo done by................................................e?
+  "main menu" logo done by.................................crusader/mo`soul
+  "credits" logo done by.........................................luk/linear
+  "link124" logo done by.......................................acid/link124
+  "history" logo done by.......................................revi/link124
+  "azzaro" logo done by..........................................krs/linear
+  "mawi" logo done by...............................................thung/?
+  "anadune" logo done by...........................................unique/?
+  "link124" logo done by.........................................krs/linear
+  .........................................................................
+  other logos, executive producing, design and hardwork by...azzaro/link124
+  .........................................................................
+  original file name........................"homework".........l124-hom.txt
+  original file size..........................................110.000 bytes
+  powered by....................................plastik #13 cd (tresor mix)
+  .........................................................................
+  greetings and respects to.............................................you
+  hellos to.....................................................him and her
+  slogan.....................................chuj wam w dupy. minial power!
+  -------------------------------------------------------------------------
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       : sta                           r        t!
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :mini   m       a       a               l
+        :                       :                     s    t   r  a igh t
+        :                       :                                 po w er
+        :                       :
+  ______:_______________________:____________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                      subject [01] titled ABC for PEER
+
+
+
+
+
+                       _______ /  _______  /  _______ /
+                     ._\  ___//_._\ ____/_/_._\ .___//_.
+            .--------|    |  /  |   \__  /  |   |   /  |--------.
+            ¦ abc!   |!   |__  ·|!    |    ·|!  |     ·| issue  ¦
+            ¦ pack   |    __/  :|     |    :|   |     :| # 000  ¦
+            `--------|    |_____|____       |____      |--------'
+                     |____j         l_______|   l______|az0!/l124
+
+
+
+
+
+      Smutna prawda, o przywódcy pewnej cywilizacjii form plastycznych.
+ 7 wymiar znienawidzenia .. oraz 16 szczebel technologi psio-tryo-nicznej ..
+ + fizyka zerowa ... to jest to .. nieosiâganllne za dnia dla ludzkich maîp.
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                      subject [02] titled ACE for PEER
+
+
+
+
+
+                       _______ /  _______ /  ________ /
+                     ._\  ___//_._\ .___//_._\  ____//
+                .----|    |  /  |   |   /  |    __/_/__.----.
+                ¦    |!   |__  ·|!  |     ·|!   |  /   |    ¦
+                ¦    |    __/  :|   |     :|    |     ·|    ¦
+                `----|    |_____|____      |___ |     :|----'
+                     |____j         l______|  l________| az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                      subject [03] titled ACID for ACID
+
+
+
+
+
+                  _______ /  _______ /   _____ /    ______ /
+                ._\  ___//_._\ .___//_._(____//_.___\___ //_.
+           .----|    |  /  |   |   /  |      /  |    __/ /  |----.
+           ¦    |!   |__  ·|!  |     ·|!       ·|!   |     ·|    ¦
+           ¦    |    __/  :|   |     :|        :|    |     :|    ¦
+           `----|    |_____|____      |     ____|    |   ___|----'
+                |____j         l______|_____j   |________j az0!/l124
+
+
+
+
+
+         nastepny dzien....nastepna cwiartka ....nastepne jazdy....
+      monotoniczny floating pomiëdzy liôêmi szaîwi pode mnâ a za tobâ.
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                    subject [04] titled ANADUNE for KAZIK
+
+
+
+
+
+   .----------------------.
+   ¦                      ¦
+  _¦_____ /  _______ /  __¦____ /    ______ /  ___.___ /  _______ /  ________ /
+._\  ___//_._\   _ //_._\  ___//_.___\___ //_._\  |  //_._\   _ //_._\  ____//
+|    |  /  |    _/ /  |    |  /  |    __/ /  |  \ |  /  |    _/ /  |    __/_/__.
+|!   |__  ·|!   |    ·|!   |__  ·|!   |     ·|!   |    ·|!   |    ·|!   |  /   |
+|    __/  :|    |    :|    __/  :|    |     :|    |    :|    |    :|    |     ·|
+|    |_____|____|     |    |_____|    |   ___|    ______|____|     |___ |     :|
+|____j          l_____|____j     |________j  |____j          l_____|  l________|
+   ¦                      ¦                                           az0!/l124
+   ¦                      ¦
+   `-----------[ANADUNE]--'
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [05] titled BINAR for PEER
+
+
+
+
+
+            _______  /   _____ /  _______ /  _______ /  ________ /
+          ._\ ____/_/_._(____//_._\   _ //_._\  ___//_._\  __  //_.
+     .----|   \__  /  |      /  |    _/ /  |    |  /  |    \/ //  |----.
+     ¦    |!    |    ·|!       ·|!   |    ·|!   |__  ·|!    \_   ·|    ¦
+     ¦    |     |    :|        :|    |    :|    __/  :|      /   :|    ¦
+     `----|______     |     ____|____|     |    |_____|_______\   |----'
+                l_____|_____j        l_____|____j          l______|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [06] titled BLAZE for BLAZE
+
+
+
+
+
+           _______  /  ___.    /  _______ /  _______ /  ________ /
+         ._\ ____/_/_._\  |   / ._\  ___//_._\___  //_._\  ____//
+    .----|   \__  /  |    |__/__|    |  /  |  _____/  |    __/_/__.----.
+    ¦    |!    |    ·|!   | /   |!   |__  ·|  \)     ·|!   |  /   |    ¦
+    ¦    |     |    :|         ·|    __/  :|         :|    |     ·|    ¦
+    `----|______     |_____    :|    |_____|    ______|___ |     :|----'
+               l_____|    l_____|____j     |____j        l________|az0!/l124
+
+
+
+
+
+tak tak... ten ciepîy promyk dotknal sreberka... brâzowe swiadectwo intymnego
+oddalenia ucieka pod wpîywem ciepîego dotyku gorâcego ognika... firestarter..
+    to cud.... jak plazma delikatnie spîywa w dóî  po aluminiowym moôcie
+  swiadomosci... wszystko zatacza dziwne apopleptyczne wizje... oczy powoli
+     zamykaja sie tak, jak sîoïce chowa swojâ poôwiatë za horyzontem...
+ za horyzontem proznosci i prostoty... prostoty, w której kryje sie nadzieja
+                              lepszego jutra..
+    lepszego choc takiego samego jak dzis...które w koïcowej fazie swojej
+  egzystencji i tak przerodzi sië w  kolejny dzieï ogólnych norm, które sâ
+    ûyciem jakie znamy... które i tak sâ gównem. Materialistyczny padóî,
+                                 jest tu ...
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                    subject [07] titled BUDGIE for BUDGIE
+
+
+
+
+
+     _______  /  ___.___ /    ______ /  ________ /   _____ /  ________ /
+   ._\ ____/_/_._\  |  //_.___\___ //_._\ _____//_._(____//_._\  ____//
+.--|   \__  /  |  \ |  /  |    __/ /  |   \__  /  |      /  |    __/_/__.--.
+¦  |!    |    ·|!   |    ·|!   |     ·|!    |    ·|!       ·|!   |  /   |  ¦
+¦  |     |    :|    |    :|    |     :|     |    :|        :|    |     ·|  ¦
+`--|______     |    ______|    |   ___|____ |     |     ____|___ |     :|--'
+ az0!    l_____|____j     |________j      l_______|_____j      l________|l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                    subject [08] titled BUMPER for LOCASH
+
+
+
+
+
+      _______  /  ___.___ /  ___  ___ /  ______ /  ________ /  ________ /
+    ._\ ____/_/_._\  |  //_._\_ \/ _//_._\___ //_._\  ____// ._\  __  //_.l124
+.---|   \__  /  |  \ |  /  |        /  |    | /  |    __/_/__|    \/ //  |---.
+¦   |!    |    ·|!   |    ·|!  _ _    ·|!   |   ·|!   |  /   |!    \_   ·|   ¦
+¦   |     |    :|    |    :|   \_/    :|    |   :|    |     ·|      /   :|   ¦
+`---|______     |    ______|____|      |    _____|___ |     :|_______\   |---'
+          l_____|____j bumper01 l______|____j       l________|    l______|az0!
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                    subject [09] titled CHOSEN for CHOSEN
+
+
+
+
+
+      _______ /  ______   /  _______ /  _______ /  ________ /  _______ /
+    ._\ .___//_._\  __/__/_._\     //_._\  ___//_._\  ____// ._\   _ //_.
+.---|   |   /  |     _  /  |   __ //  |______ /  |    __/_/__|    _/ /  |---.
+¦   |!  |     ·|!   _/    ·|   \_/   ·|    (/   ·|!   |  /   |!   |    ·|   ¦
+¦   |   |     :|    |     :|         :|         :|    |     ·|    |    :|   ¦
+`---|____      |____|      |____      |_____     |___ |     :|____|     |---'
+ az0!   l______|    l______|   l______|    l_____|  l________|    l_____|l124
+
+
+
+
+
+tak tak... ten ciepîy promyk dotknal sreberka... brâzowe swiadectwo intymnego
+oddalenia ucieka pod wpîywem ciepîego dotyku gorâcego ognika... firestarter..
+    to cud.... jak plazma delikatnie spîywa w dóî  po aluminiowym moôcie
+  swiadomosci... wszystko zatacza dziwne apopleptyczne wizje... oczy powoli
+     zamykaja sie tak, jak sîoïce chowa swojâ poôwiatë za horyzontem...
+ za horyzontem proznosci i prostoty... prostoty, w której kryje sie nadzieja
+                              lepszego jutra..
+    lepszego choc takiego samego jak dzis...które w koïcowej fazie swojej
+  egzystencji i tak przerodzi sië w  kolejny dzieï ogólnych norm, które sâ
+    ûyciem jakie znamy... które i tak sâ gównem. Materialistyczny padóî,
+                                 jest tu ...
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [10] titled FLOPPY for DEF
+
+
+
+
+
+        ________/_ ___.    /  _______ /  ______ /  ______ /   ___.___ /
+      ._\_  ___/_/_\  |   / ._\     //_._\___ //_._\___ //_.__\  |  //_.
+ .----|    ___/__.    |__/__|   __ //  |    | /  |    | /  |     |  /  |----.
+ ¦    |!   | /   |!   | /   |   \_/   ·|!   |   ·|!   |   ·|_______   ·|    ¦
+ ¦    |    |    ·|         ·|         :|    |   :|    |   :|      |   :|    ¦
+ `----|__       :|_____    :|____      |    _____|    _____|___   |    |----'
+  az0!  l________|    l_____|   l______|____j    |____j       l________|l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [11] titled GLUTEN for PEER
+
+
+
+
+
+      ________ /  ___.    /  ___.___ /  ____.   /   ________ /  _______ /
+    ._\ _____//_._\  |   / ._\  |  //_._\   |__/_ ._\  ____// ._\   _ //_.
+.---|   \__  /  |    |__/__|  \ |  /  |     __/___|    __/_/__|    _/ /  |---.
+¦   |!    |    ·|!   | /   |!   |    ·|!    |     |!   |  /   |!   |    ·|   ¦
+¦   |     |    :|         ·|    |    :|     |    ·|    |     ·|    |    :|   ¦
+`---|____ |     |_____    :|    ______|____ |    :|___ |     :|____|     |---'
+az0!    l_______|    l_____|____j         l_______|  l________|    l_____|l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                    subject [12] titled HANGMAN for PEER
+
+
+
+
+
+       .-----------------.
+       ¦                 ¦
+  _____¦  /  _______ /  _¦_____ /  ________ /  ___  ___ /  _______ /  _______ /
+._\  __/_/_._\  ___//_._\   _ //_._\ _____//_._\_ \/ _//_._\  ___//_._\   _ //_.
+|     _ /  |    |  /  |    _/ /  |   \__  /  |        /  |    |  /  |    _/ /  |
+|!   _/   ·|!   |__  ·|!   |    ·|!    |    ·|!  _ _    ·|!   |__  ·|!   |    ·|
+|    |    :|    __/  :|    |    :|     |    :|   \_/    :|    __/  :|    |    :|
+|____|     |    |_____|____|     |____ |     |____|      |    |_____|____|     |
+     l_____|____j        ¦ l_____|   l_______|    l______|____j          l_____|
+       ¦                 ¦                                           az0!/l124
+       ¦                 ¦
+       `-----------------'
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                   subject [13] titled ICETRAY for ICETRAY
+
+
+
+
+
+       .------------------.
+       ¦                  ¦
+   ____¦ /  _______ /  ___¦____ /  ___.   /   ________ /  _______ /   ___.___ /
+._(____//_._\ .___//_._\  ____// ._\  |__/_ ._\  __  //_._\  ___//_.__\  |  //_.
+|      /  |   |   /  |    __/_/__|    __/___|    \/ //  |    |  /  |     |  /  |
+|!       ·|!  |     ·|!   |  /   |!   |     |!    \_   ·|!   |__  ·|_______   ·|
+|        :|   |     :|    |     ·|    |    ·|      /   :|    __/  :|      |   :|
+|     ____|____      |___ |     :|___ |    :|_______\   |    |_____|___   |    |
+|_____j.      l______|  l________|  l_______|    l______|____j        l________|
+       ¦                  ¦                                          az0!/l124
+       ¦                  ¦
+       `------------------'
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [14] titled IDAHO for IDAHO
+
+
+
+
+
+             _____ /    ______ /  _______ /  ______   /  _______ /
+          ._(____//_.___\___ //_._\  ___//_._\  __/__/_._\     //_.
+   .------|      /  |    __/ /  |    |  /  |     _  /  |   __ //  |------.
+   ¦      |!       ·|!   |     ·|!   |__  ·|!   _/    ·|   \_/   ·|      ¦
+   ¦ 1998 |        :|    |     :|    __/  :|    |     :|         :|      ¦
+   `------|     ____|    |   ___|    |_____|____|      |____      |------'
+          |_____j   |________j  |____j          l______|   l______|az0!/l124
+
+
+
+
+
+    a teraz reklama proszku .....wciagnij to co najlepsze...wyznacz sobie
+     kryterium....badz soba wybierz cukier....kocham krede...ona mi cie
+  przypomina...przypomina mi twoja droge w szklanej rurce ...dotyk bialego
+nasienia przeszywajacego moje sterane nozdrza...wszystko jest fajne ale jutro
+   bedzie dol...od ktorego nie ma ucieczki....mozesz jedynie jechac dalej
+   wtlaczajac sobie kolejna porcje substancji z TEaEde ... jedynej w swoim
+ rodzaju a jednoczesnie ciagle takiej samej...czujesz jak serduszko zmienia
+swoj rytm... puk puk..stuk puk...i coraz szybciej puk puk...puk puk...152 BPM
+ i jeszcze wiece3j ...nagle stop ...zwalniamy BPM spada i tu jest minimalny
+   wysilek ciala kosztem sukcesywnej utraty szarych komurek i wycienczania
+    organizmu.... tak tak to proszek  bialy czy brazowy?  nie wiem jestem
+                          daltonista jak visual...
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                       subject [15] titled JIM for JIM
+
+
+
+
+
+                          .___ /   _____ /  ___  ___ /
+                          |  //_._(____//_._\_ \/ _//_.
+              .------.____|  /  |      /  |        /  |------.
+              ¦      |    |    ·|!       ·|!  _ _    ·|      ¦
+              ¦      |    |    :|        :|   \_/    :|      ¦
+              `------|       ___|     ____|____|      |------'
+                     |_______j  |_____j        l______|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                      subject [16] titled KRO for PEER
+
+
+
+
+
+                      ___.____ /  ________ /  _______ /
+                    ._\  | __//_._\  __  //_._\     //_.
+               .----|    |   /  |    \/ //  |   __ //  |----.
+               ¦    |!    _    ·|!    \_   ·|   \_/   ·|    ¦
+               ¦    |    _/    :|      /   :|         :|    ¦
+               `----|____|      |_______\   |____      |----'
+                         l______|    l______|   l______|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                       subject [17] titled KRS for KRS
+
+
+
+
+
+                      ___.____ /  ________ /  _______ /
+                    ._\  | __//_._\  __  //_._\  ___//_.
+               .----|    |   /  |    \/ //  |______ /  |----.
+               ¦    |!    _    ·|!    \_   ·|    (/   ·|    ¦
+               ¦    |    _/    :|      /   :|         :|    ¦
+               `----|____|      |_______\   |_____     |----'
+                         l______|    l______|    l_____|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                   subject [18] titled LINK124 for BUDGIE
+
+
+
+
+
+                                        .-----------------------.
+                                        ¦                       ¦
+                                        ¦              _____, _____  _____
+   ___.    /   _____ /  _______ /  ___._¦__ /          )l___l )l  `) )l__/,
+ ._\  |   / ._(____//_._\   _ //_._\  | __//_.                  ¦
+ |    |__/__|      /  |    _/ /  |    |   /  |         _l_    _  _ _ _____,
+ |!   | /   |!       ·|!   |    ·|!    _    ·|         )l___, )l_(_( )l___l
+ |         ·|        :|    |    :|    _/    :|   ____,          ¦
+ |_____    :|     ____|____|     |____|      |  _)__ ' _____, __   , _____
+      l_____|_____j        l_____|    l______|  )l     )l___l )l___l l(   '
+       az0!/l124                        ¦                       ¦
+                                        ¦                       ¦
+                                        `----------[LINK124]----'
+
+
+
+
+
+                  kurwa odlecialem daleko...jak bociany za
+    morze na zime ...ale jest mi nadzwyczaj cieplo...cos mnie we wnetrzu
+   rozgrzewa...czuje ze mnie wszystko swedzi...ale jest fajnie bo mam to w
+dupie... gleoko tam gdzie nie byl nigdy zaden promyk swiatla...tam gdzie sie
+                     zaczyna caly ten gowniany interes.
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                      subject [19] titled LUK for PEER
+
+
+
+
+
+                       ___.    /  ___.___ /  ___.____ /
+                     ._\  |   /  _\  |  //_._\  | __//_.
+                .----|    |__/__.  \ |  /  |    |   /  |----.
+                ¦    |!   | /   |!   |    ·|!    _    ·|    ¦
+                ¦    |         ·|    |    :|    _/    :|    ¦
+                `----|_____    :|    ______|____|      |----'
+                          l_____|____j          l______|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                      subject [20] titled MAWI for MCR
+
+
+
+
+
+                 ___  ___ /  _______ /  ___  ___ /   _____ /
+               ._\_ \/ _//_._\  ___//_._\  /\_ //_._(____//_.
+        .------|        /  |    |  /  |  _/    /  |      /  |------.
+        ¦      |!  _ _    ·|!   |__  ·|!   _     ·|!       ·|      ¦
+        ¦ mawi |   \_/    :|    __/  :|    |     :|        :| 1998 ¦
+        `------|____|      |    |_____|____|      |     ____|------'
+                    l______|____j          l______|_____j  az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                       subject [21] titled MCR for MCR
+
+
+
+
+
+                      ___  ___ /  _______ /  ________ /
+                    ._\_ \/ _//_._\ .___//_._\  __  //_.
+             .------|        /  |   |   /  |    \/ //  |------.
+             ¦      |!  _ _    ·|!  |     ·|!    \_   ·|      ¦
+             ¦      |   \_/    :|   |     :|      /   :|      ¦
+             `------|____|      |____      |_______\   |------'
+                         l______|   l______|    l______|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [22] titled MOBBY for MOBBY
+
+
+
+
+
+          ___  ___ /  _______ /  _______  /  _______  /   ___.___ /
+        ._\_ \/ _//_._\     //_._\ ____/_/_._\ ____/_/_.__\  |  //_.
+   .----|        /  |   __ //  |   \__  /  |   \__  /  |     |  /  |----.
+   ¦    |!  _ _    ·|   \_/   ·|!    |    ·|!    |    ·|_______   ·|    ¦
+   ¦    |   \_/    :|         :|     |    :|     |    :|      |   :|    ¦
+   `----|____|      |____      |______     |______     |___   |    |----'
+             l______|   l______|     l_____|     l_____|  l________|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [23] titled MONAR for MONAR
+
+
+
+
+
+           ___  ___ /  _______ /  _______ /  _______ /  ________ /
+         ._\_ \/ _//_._\     //_._\   _ //_._\  ___//_._\  __  //_.
+  .------|        /  |   __ //  |    _/ /  |    |  /  |    \/ //  |------.
+  ¦      |!  _ _    ·|   \_/   ·|!   |    ·|!   |__  ·|!    \_   ·|      ¦
+  ¦ 1998 |   \_/    :|         :|    |    :|    __/  :|      /   :|      ¦
+  `------|____|      |____      |____|     |    |_____|_______\   |------'
+              l______|   l______|    l_____|____j          l______|az0!/l124
+
+
+
+
+
+   Reasumujâc. .. nie wiem, co powiedzieê .. szybkie loty, westchnienia ..
+  rozpaczy na mojej twarzy, bo on stwierdziî ûe "nic nie ma" .. aluminiowy
+ swiat do ktorego stale wzdycham jest przepelniony pustka...pustka w ktorej
+   zaraz pojawi sie swiatelko...blysk w moim oku gdy ten kawalek srebrnego
+virtualnego swiata ponownie sie zapelni malymi krysztalkami...beda uciekaly i
+ wreszczie stana sie ciecza ktora z radoscia wessam do mych pluc by ponownie
+   poczuc w sobie ten lekki powiew skrajnego uczucia jaki m jest szczescie
+posiadania..szczescie palenia i szczescie zajebania sie ....martwie sie tylko
+     tym ze jutro ...jutro tez bedzie dzien w ktorym nie czeka mnie nic
+ fajnego...mama powiedzial mi ze jutro przyjdze pani z przychodni...i powie
+ ...czas na detoks...chcialbym jeje zajebac wpierdolic jej szpryce z gramem
+cukru i powiedziec... detoks daje takie piekne biale swiatlo..czy je widzisz
+....powiedz mi jesczcze jak masz na imie....mam na imie hellena opowiedziala
+         pielegniarka... ale jutro przyjdzie do ciebie honorata....
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                      subject [24] titled PEER for PEER
+
+
+
+
+
+                 ______ /  ________ /  ________ /  ________ /
+                _\___ //_._\  ____// ._\  ____// ._\  __  //_
+      .--------|    | /  |    __/_/__|    __/_/__|    \/ //  |--------.
+      |        |!   |   ·|!   |  /   |!   |  /   |!    \_   ·|        |
+      |        |    |   :|    |     ·|    |     ·|      /   :|        |
+      `--------|    _____|___ |     :|___ |     :|_______\   |--------'
+               |____j       l________|  l________|    l______|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                    subject [25] titled REALITY for THUNG
+
+
+
+
+
+      .----------------------.
+      ¦                      ¦
+  ____¦__ /  ________ /  ____¦__ /  ___.    /   _____ /  ___.   /    __.___ /
+._\ __  //_._\  ____// ._\  ___//_._\  |   / ._(____//_._\  |__/_ .__\ |  //_.
+|   \/ //  |    __/_/__|    |  /  |    |__/__|      /  |    __/___|    |  /  |
+|!   \_   ·|!   |  /   |!   |__  ·|!   | /   |!       ·|!   |     |______   ·|
+|     /   :|    |     ·|    __/  :|         ·|        :|    |    ·|     |   :|
+|______\   |___ |     :|    |_____|_____    :|     ____|___ |    :|___  |    |
+    l______|  l________|____j.         l_____|_____j      l_______|  l_______|
+      ¦                      ¦                                     az0!/l124
+      ¦                      ¦
+      `-----------[REALITY]--'
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [26] titled REBEL for REBEL
+
+
+
+
+
+          ________ /  ________ /  _______  /  ________ /  ___.    /
+        ._\  __  //_._\  ____//  _\ ____/_/_._\  ____//  _\  |   /
+ .------|    \/ //  |    __/_/__.   \__  /  |    __/_/__.    |__/__.------.
+ ¦      |!    \_   ·|!   |  /   |!    |    ·|!   |  /   |!   | /   |      ¦
+ ¦      |      /   :|    |     ·|     |    :|    |     ·|         ·|      ¦
+ `------|_______\   |___ |     :|______     |___ |     :|_____    :|------'
+             l______|  l________|     l_____|  l________|    l_____|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                      subject [27] titled REVI for REVI
+
+
+
+
+
+                 ________ /  ________ /  ___.___ /   _____ /
+               ._\  __  //_._\  ____// ._\  |  //_._(____//_.
+        .------|    \/ //  |    __/_/__|    | //  |      /  |------.
+        ¦      |!    \_   ·|!   |  /   |!   | ¯  ·|!       ·|      ¦
+        ¦ revi |      /   :|    |     ·|    |    :|        :|      ¦
+        `------|_______\   |___ |     :|_____     |     ____|------'
+                    l______|  l________|    l_____|_____j  az0!/l124
+
+
+
+
+
+   powrót, do ..czegoô .. moûe byê do Edenu, pierdolonego miejsca rozkoszy
+           ,pierdolonych kogoô tam.Nie, stary to nie na mojâ gîowë
+                         ..ehehhhhhhhhhhhhhhhhhhhhhh
+                                    hehe
+                                     eh
+                                    heeh
+                                   ehheeh
+                                    hehe
+                                     he
+                                      h
+                                     he
+                                     eh
+                                     heh
+
+                                     he
+                                     eh
+                                     he
+                                     he
+                                      h
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [28] titled SPEED for BLAZE
+
+
+
+
+
+           _______ /  ______ /  ________ /  ________ /    ______ /
+         ._\  ___//_._\___ //_._\  ____// ._\  ____// .___\___ //_.
+  .------|______ /  |    | /  |    __/_/__|    __/_/__|    __/ /  |------.
+  ¦ nah- |    (/   ·|!   |   ·|!   |  /   |!   |  /   |!   |     ·| kolo ¦
+  ¦ #040 |         :|    |   :|    |     ·|    |     ·|    |     :| r.98 ¦
+  `------|_____     |    _____|___ |     :|___ |     :|    |   ___|------'
+              l_____|____j       l________|  l________|________j
+
+     triphop+ambient+1970+nah-kolor+still_continues+the_serie+issue+040
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [29] titled TIMER for TIMER
+
+
+
+
+
+           ____.   /    _____ /  ___  ___ /  ________ /  ________ /
+         ._\   |__/_ ._(____//_._\_ \/ _//_._\  ____// ._\  __  //_.
+  .------|     __/___|      /  |        /  |    __/_/__|    \/ //  |------.
+  ¦      |!    |     |!       ·|!  _ _    ·|!   |  /   |!    \_   ·|      ¦
+  ¦      |     |    ·|        :|   \_/    :|    |     ·|      /   :|      ¦
+  `------|____ |    :|     ____|____|      |___ |     :|_______\   |------'
+             l_______|_____j        l______|  l________|    l______|az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                  subject [30] titled UFOP KONJJN for PEER
+
+
+
+
+
+                  ___.___ /  ________/_ _______ /  ______ /
+                ._\  |  //_._\_  ___/_/_\     //_._\___ //_.
+ .--------------|  \ |  /  |    ___/__.   __ //  |    | /  |--------------.
+ ¦.--.          |!   |    ·|!   | /   |   \_/   ·|!   |   ·|          .--.¦
+ ¦¦  ¦          |    |    :|    |    ·|         :|    |   :|          ¦  ¦¦
+ ¦`--'          |    ______|__       :|____      |    _____|          `--'¦
+ ¦              |____j       l________|   l______|____j                   ¦
+ ¦    ___.____ /  _______ /  _______ /     .___ /     .___ /  _______ /   ¦
+ ¦  ._\  | __//_._\     //_._\   _ //_.    |  //_.    |  //_._\   _ //_.  ¦
+ ¦  |    |   /  |   __ //  |    _/ /  |____|  /  |____|  /  |    _/ /  |  ¦
+ ¦  |!    _    ·|   \_/   ·|!   |    ·|    |    ·|    |    ·|!   |    ·|  ¦
+ ¦  |    _/    :|         :|    |    :|    |    :|    |    :|    |    :|  ¦
+ `--|____|      |____      |____|     |       ___|       ___|____|     |--'
+  azo!   l______|   l______|    l_____|_______j  |_______j       l_____|l124
+
+
+
+
+
+               Kooll .. kul .. luk ql .. to da qlest around,,,
+   i teraz machamy rekami i klaszczemy jak przy disco polo...bijemy brawo
+                    specjalnie dla cetepa...TAAAAAAAAAA.
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [31] titled VOICER for PEER
+
+
+
+
+
+      ___.___ /  _______ /   _____ /  _______ /  ________ /  ________ /
+    ._\  |  //_._\     //_._(____//_._\ .___//_._\  ____//  _\  __  //_.
+.---|  \ |  /  |   __ //  |      /  |   |   /  |    __/_/__.    \/ //  |---.
+¦   |!   |    ·|   \_/   ·|!       ·|!  |     ·|!   |  /   |!    \_   ·|   ¦
+¦   |    |    :|         :|        :|   |     :|    |     ·|      /   :|   ¦
+`---|    ______|____      |     ____|____      |___ |     :|_______\   |---'
+    |____j l124`98 l______|_____j       l______|  l________|    l______|az0!
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                      subject [32] titled WILD for PEER
+
+
+
+
+
+                 ___  ___ /   _____ /  ___.    /    ______ /
+               ._\  /\_ //_._(____//_._\  |   / .___\___ //_.
+          .----|  _/    /  |      /  |    |__/__|    __/ /  |----.
+          ¦    |!   _     ·|!       ·|!   | /   |!   |     ·|    ¦
+          ¦    |    |     :|        :|         ·|    |     :|    ¦
+          `----|____|      |     ____|_____    :|    |   ___|----'
+                    l______|_____j        l_____|________j az0!/l124
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+                     subject [33] titled ZEGAREK for LUK
+                         
+
+
+
+
+              .-----------------------.
+              ¦                       ¦
+  ______ /  __¦_____ /  ________ /  __¦____ /  _______ /  ________ /  __.____ /
+ _\___ //_._\  ____// ._\ _____//_._\  ___//_._\ __  //_._\  ____// ._\ | __//_
+|  ____/  |    __/_/__|   \__  /  |    |  /  |   \/ //  |    __/_/__|   |   /  |
+|  \)    ·|!   |  /   |!    |    ·|!   |__  ·|!   \_   ·|!   |  /   |!   _    ·|
+|        :|    |     ·|     |    :|    __/  :|     /   :|    |     ·|   _/    :|
+|    _____|___ |     :|____ |     |    |_____|______\   |___ |     :|___|      |
+|____j       l________|   l_______|____j         l______|  l________|   l______|
+              ¦                       ¦                               az0!/l124
+              ¦                       ¦
+              ¦                       ¦
+              `------------[ZEGAREK]--'
+
+
+
+
+
+                 .... Biaîe, substancje make me trrip-hop..
+            Bielu .. kurwa, n-i-c-e handle + finezja .. = BLOOO.
+                O stary ..kurwa .. da lunarian .. in my hed.
+  Beastie Brown ... da masta-killa ..eut 126 - monar records, sublabel /.^&
+GDy patrzë na Golluma, to jest za eutanazjâ ... bikoîz .. dlatego + tak jest.
+
+              to pierwsze demo by katharsis...en-joy-stick....
+
+
+
+
+
+  ___________________________________________________________________________
+
+    j××r      y×@@×y              æ××××××r             _y×@@×,       j××r
+    @@@×@@×L_@@Z¯©@@LJ@@y@@×y@@× ¸@@@©©©¯j@@Ly@@& @@F J@@"¬@@# @@@×Z @@Z_æ@Z"
+   j@@F¯@@@ æ@@ _@@Z @@Z¯@@Z¯@@Z Z@@PPP²  @@W@M@¾Z@F  @@£ J@@Fj@@F~¯æ@@h@@E
+   @@Z J@@F ¬Z@¾@WF j@@Fj@@Fæ@@ J@@@@@@Z  S@@Fj@@Z¯   S@@@ZZ´ @@Z   @@Z S@@
+  ___________________________________________________________________________
+        :         subject [34] titled END OF LOGOS at ALL.
+        :                       :
+        :                       :
+        :                       :
+        :                       :  luz ...
+        :                     iii amfa-bus...
+        :                       :
+        :                       :
+        :                       :
+        :                       : Drugi   kierunek  rozwoju  to  zejôcie  z
+        :                       : technikâ laserowâ do mas.  W wielu domach
+        :                       : znajdujâ    sië    juû    czytniki   pîyt
+        :                       : kompaktowych, pîyt CD-I, CD-V (kompaktowe
+        :                       : pîyty  wizyjne),  a  takûe  CD-ROM.  Lata
+        :                       : dziewiëêdziesiate  to  takûe poszukiwanie
+        :                       : nowych    zastosowaï   dla   stanardowych
+        :                       : czytników.     Technika   komputerowa   w
+        :                       : momencie   niewystarczalnoôci  pojemnoôci
+        :                       : dyskietki  magnetycznej  i nadal wysokich
+        :                       : cenach dysków twardych zainteresowaîa sië
+        :                       : pîytâ  kompaktowâ, jako noônikiem pamiëci
+        :                       : masowej.  Zmodyfikowano w tym celu zwykîy
+        :                       : odtwarzacz  CD,  by  mógî odczytywaê dane
+        :                       : komputerowe    zapisane    w   standarcie
+        :                       : ISO-9001.    Inne   modyfikacje  czytnika
+        :                       : kompaktowego    to    standard   Photo-CD
+        :                       : opracowany  przez firmë Kodak.  Umoûliwia
+        :                       : on  zapis  barwny zdjëê robionych zwykîym
+        :                       : aparatem   z  wysokâ  jakoôciâ.   Obecnie
+        :                       : spotykane  na  rynku  czytniki kompaktowe
+        :                       : mogâ odtwarzaê zwykîy zapis Audio-CD oraz
+        :                       : wiëkszoôc  ze  stosowanych standardów.  W
+        :                       : technice komputerowej laser znalazî takûe
+        :                       : zastosowanie  w  drukarkach  laserowych -
+        :                       : oferujâcych  wydruki  o  nieporównywalnie
+        :                       : lepszej jakoôci za niewiele wiëkszâ cenë.
+        :                       : Laser   i   jego   promienie   to   takûe
+        :                       : inspiracja   dla   filmu.   Ileû  to  nie
+        :                       : widzieliômy  efektownych  scen, w których
+        :                       : postaci   walczyîy  na  laserowe  miecze,
+        :                       : pojazdy  strzelaîy  promieniami, laserowe
+        :                       : obrazy  stwarzaîy  wszelkiej maôci iluzje
+        :                       : (vide  sîynna  trylogia  George`a  Lucasa
+        :                       : "Gwiezdne wojny").  Fakt faktem wszystkie
+        :                       : te  sceny  rozgrywaîy  sië w bliûszej lub
+        :                       : dalszej  przyszîoôci.   Czy  tak  bëdzie?
+        :                       : Czy  z  pozoru niewinne odkrycie dokonane
+        :                       : przez   dwóch   naukowców   w  1958  roku
+        :                       : zrewolucjonizuje   przestrzeï  kosmicznâ?
+        :                       : Juû  dziô  w  niektórych  dzidzinach  nie
+        :                       : potrafimy   sië   obejôê   bez   promieni
+        :                       : laserowych.     Co    przyniesie   jutro?
+        :                       : Pozostaje  nam  czekaê i wierzyê w potëgë
+        :                       : ludzkiego umysîu...
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :_________
+        :                      _\ _      /-|
+        :                      | \/        | a(id/L124.
+        :                     _|_______ ___|
+        :                    |       . Y .  |
+        :                    |_________|____|
+        :                   ___|_       __ |___
+        :                  |    /__________|  .|
+        :                  |                   |
+        :                _ |      | _
+        :               |__|                 |__|
+        :                                                    ___
+      _       ____.     .__ _    ______.     ___ __      ___|_  |__
+     |_|_____| .  |_____|  \/__ _|    . |___._|   | /_____|__  .|_|  |
+       | ___      |     | +    Y      | | . | .   _/        .|__|   .|
+       |_\ /____________|______|------|_____|-----|__________| |_____|_
+          \/                __     __ __   ____                      |_|
+        :                 _|_/ ____ //__| |___//__|__
+        :                /_|  |___//____      //__|
+        :                                  
+        :                                 
+        :
+        :                  l i n k e d   u p . . .
+        :
+        :    [    ·    1    ·    9    ·    9    ·    8    ·    ]
+        :
+        :    [  i n d u s t r i a l   t e r r o r   s q u a d  ]
+        :
+        :             FOR STAYING TUNED ONE MORE TIME:
+ ---------------------------------------------------------------------------
+       Acid - Arek Kajzerek · Patyzantow 32b/1 · 44253 Rybnik · POLAND
+Azzaro [hq] - Tommy Wisniewski · Szeroka 35/8 · 75814 Koszalin · POLAND
+     Budgie - Kamil Kaczmarek · Boh. Warszawy 105/3 · 72200 Nowogard · POLAND
+     Chosen - Sebastian Wojaczek · Vogelpothsweg 24 · 44149 Dortmund · GERMANY
+   Covenant - Darek Kawalec · Szeroka 25/1 · 75814 Koszalin · POLAND
+       Revi - Slawek Ostruszka · Moniuszki 4 · 43400 Cieszyn · POLAND
+        :                       :
+        :                       :
+        :        THE OFFICIAL LINK124 ASCIIPRODUKTIONS ARE:
+        :                       :
+ --------------------------------1--9--9--6---------------------------------
+ o1 [l124-stz.txt]  [stylez retrospection]       [azzaro]    [173.060 bytes]
+  2 [l124-dst.txt]  [amphetamine dust]           [seti, azo] [189.506 bytes]
+  3 [l124-pai.txt]  [pain and heartbeat pumping] [azzaro]    [365.030 bytes]
+  4 [l124-hop.txt]  [hand on my pussy]           [azzaro]    [141.010 bytes]
+ o5 [l124-liv.txt]  [life is a long way]         [seti]      [064.366 bytes]
+  6 [l124-nmm.txt]  [no ma`am]                   [chosen]    [087.055 bytes]
+ --------------------------------1--9--9--7---------------------------------
+  7 [l124-abs.txt]  [aurora borealis]            [azzaro]    [210.150 bytes]
+  8 [l124-pzi.txt]  [paparazzi                   [azzaro]    [161.000 bytes]
+  9 [l124-mtr.txt]  [misterium]                  [covenant]  [125.000 bytes]
+ 1o [l124-cmt.txt]  [crematory]                  [covenant]  [176.500 bytes]
+  1 [l124-pol.txt]  [poetry of love]             [azzaro]    [463.000 bytes]
+  2 [l124-tb2.txt]  [turbo 2]                    [azo, z19]  [173,000 bytes]
+  3 [l124-msd.txt]  [scandal 1: morsedome]       [azzaro]    [036,000 bytes]
+  4 [l124-maa.txt]  [malaria]                    [chosen]    [195,344 bytes]
+ 15 [l124-goa.txt]  [pol 2: plunge into goa]     [azzaro]    [186,000 bytes]
+  6 [l124-e2i.txt]  [eclipse travel to india]    [azzaro]    [140,000 bytes]
+  7 [l124-lk.txt]   [lemon killers]              [nemes!s]   [108,139 bytes]
+  8 [l124-jkr.txt]  [the joker]                  [covenant]  [301,000 bytes]
+  9 [l124-awa.txt]  [ambient waster]             [azzaro]    [197,000 bytes]
+ 2o [l124-sea.txt]  [to the sea]                 [azzaro]    [178,352 bytes]
+  1 [l124-b&g.txt]  [bryniol & gazior]           [chosen]    [049,578 bytes]
+  2 [l124-any.txt]  [odyssey to anyoona]         [azzaro]    [096,762 bytes]
+  3 [l124-ksk.txt]  [lost in kaleidoscope skies] [azzaro]    [194,029 bytes]
+  4 [l124-det.txt]  [detroit]                    [azzaro]    [132,004 bytes]
+ 25 [l124-eth.txt]  [expert hand]                [revi]      [136,188 bytes]
+  6 [l124-ksz.txt]  [king styles]                [chosen]    [160.000 bytes]
+  7 [l124-id.txt]   [delphinus i-dentity]        [azzaro]    [180,185 bytes]
+  8.[l124-ght.txt]  [go to the hell]             [budgie]    [068,394 bytes]
+  9 [l124-vol.txt]  [violence]                   [budgie]    [087,962 bytes]
+ 3o [l124-gde.txt]  [garden of eden]             [azzaro]    [120,000 bytes]
+  1 [l124-spy.txt]  [2 spys in the house of love][azzaro]    [182,284 bytes]
+  2 [l124-cww.txt]  [call it what you want]      [revi]      [206.518 bytes]
+  3 [l124-mvi.txt]  [my vision]                  [budgie]    [110,899 bytes]
+  4 [l124-pho.txt]  [phoebus apollo]             [azzaro]    [125,734 bytes]
+ --------------------------------1--9--9--8---------------------------------
+  5 [l124-sen.txt]  [sen wezyra]                 [azzaro]    [066,312 bytes]
+  6 [l124-sod.txt]  [skate or die]               [revi]      [152.269 bytes]
+  7 [l124-cou.txt]  [course]                     [budgie]    [133.874 bytes]
+  8 [l124-m98.txt]  [minimalistik`98]            [acid]      [140.000 bytes]
+  9 [l124-smo.txt]  [sukia monotone]             [azzaro]    [181.000 bytes]
+ 4o [l124-ehn.txt]  [event horizon]              [azzaro]    [182.000 bytes]
+  1 [l124-tdm.txt]  [the dream machine]          [azzaro]    [200.000 bytes]
+  2 [l124-hom.txt]  [homework]                   [azzaro]    [110.000 bytes]
+ ---------------------------------------------------------------------------
+   [42] asc2 collections spanked by [08] makers  [total]   [6.685.504 bytes]
+        :                       :
+        :                       :
+         E V E R Y   D A Y   N E W   A S C I I   C O L L E C T I O N
+        :                       :
+        :                       :
+drop comments or requests at: zorka19@puma.tu.koszalin.pl [azzaro] [hq]
+        :                     toxik@friko3.onet.pl        [acid]
+        :                     bogus@puma.tu.koszalin.pl   [covenant]
+        :                     revi@mailcity.com           [revi]
+        :                       :
+        :                       :
+        :                       :
+   .    :                       :
+ __¦____:_       _/\_     ____  :  ______      ____     ____ __   _____
+   |   __/_______\  /____/ __/__:_/     (_____/  _ \____) __Y (___\_   |
+   |   \__   |          \____         ___/   /   /  \     \___/______  |
+   `----'/___|-------------'/         \`-----\______/--------\______/--'
+        :                  ·           ·                    ÷®ev¿/l124!÷
+        :                       :
+        :             there are my ascii logos placed!
+        :                       :
+        :            [1995: O5 COLLECTIONS] [OO5 AT ALL]
+        :                       :
+    [AUG/28] OZONE FRIENDLY     :              [25O.936B] [AMF-OZFR.TXT]
+    [OCT/3O] WATERWORLD         :              [O81.OOOB] [AMF-WTW.TXT]
+    [DEC/12] E=ASC²             :              [153.944B] [AMF-ASC².TXT]
+    [DEC/16] 93° FAHRENHEIT     :              [O69.55OB] [AMF-93°F.TXT]
+    [DEC/2O] VIBROBETON         :              [222.OOOB] [DRF_VBET.TXT]
+        :                       :
+        :            [1996: 17 COLLECTIONS] [O22 AT ALL]
+        :                       :
+    [JAN/1O] BRING ME NOISE     :              [O81.O2OB] [AMF-BMN.TXT]
+    [FEB/O7] BACK ON PLASTIC    :              [O55.OOOB] [AMF-BACK.TXT]
+    [FEB/12] SAYONARA FUCKHEAD  :              [191.2OOB] [AMF-SAYO.TXT]
+    [JUN/O7] RAME               :              [O41.5OOB] [AMF-RAME.TXT]
+    [JUN/1O] FIRESTARTER        :              [O8O.OOOB] [AMF-FIRE.TXT]
+    [JUN/22] TURBO              :              [2OO.OOOB] [AMF-TURB.TXT]
+    [JUN/22] PHUN FAKTORY       :              [193.1OOB] [AMF-PF.TXT]
+    [AUG/3O] DREAMLAND 1: HEXAGONAL HERETIC    [247.OOOB] [AMF-DRE1.TXT]
+    [AUG/3O] DREAMLAND 2: JERICHO              [178.227B] [AMF-DRE2.TXT]
+    [AUG/3O] DREAMLAND 3: FANTASIA             [229.16OB] [AMF-DRE3.TXT]
+    [AUG/3O] RADIATION IN ZOO   :              [121.OOOB] [AMF-RZOO.TXT]
+    [OCT/O5] DREAMLAND 4: EXIT FANTASY         [115.OO7B] [AMF-EXIT.TXT]
+    [OCT/1O] 3ER4 MILLENIO      :              [253.5OOB] [AMF-3ER4.TXT]
+    [NOV/O1] STYLEZ RETROSPECTION              [173.16OB] [L124-STZ.TXT]
+    [NOV/1O] PAIN AND HEARTBEAT PUMPING        [365.O3OB] [L124-PAI.TXT]
+    [NOV/11] AMPHETAMINE DUST   :              [189.5O6B] [L124-DST.TXT]
+    [DEC/12] HAND ON MY PUSSY   :              [141.O1OB] [L124-HOP.TXT]
+        :                       :
+        :            [1997: 16 COLLECTIONS] [O38 AT ALL]
+        :                       :
+    [JAN/2O] AURORA BOREALIS    :              [21O.15OB] [L124-ABS.TXT]
+    [FEB/O1] PAPARAZZI          :              [161.OOOB] [L124-PZI.TXT]
+    [FEB/17] POETRY OF LOVE     :              [463.OOOB] [L124-POL.TXT]
+    [FEB/22] TURBO 2            :              [173.OOOB] [L124-TB2.TXT]
+    [MAR/O5] MORSEDOME          :              [O36.OOOB] [L124-MSD.TXT]
+    [MAR/2O] PLUNGE INTO GOA: POETRY OF LOVE2  [186.OOOB] [L124-GOA.TXT]
+    [APR/16] ECLIPSE TRAVEL TO INDIA           [14O.OOOB] [L124-E2I.TXT]
+    [MAY/2O] AMBIENT WASTER     :              [197.OOOB] [L124-AWA.TXT]
+    [JUN/15] TO THE SEA         :              [178.352B] [L124-SEA.TXT]
+    [JUL/11] INDUSTRIAL 1: ODYSSEY TO ANYOONA  [O96.762B] [L124-ANY.TXT]
+    [JUL/12] INDUSTRIAL 2: KALEIDOSCOPE SKIES  [194.O29B] [L124-KSK.TXT]
+    [JUL/13] INDUSTRIAL 3: DETROIT EXPERIMENT  [132.OO4B] [L124-DET.TXT]
+    [AUG/3O] DELPHINUS I-DENTITY               [18O.185B] [L124-ID.TXT]
+    [OCT/15] GARDEN OF EDEN     :              [12O.OOOB] [L124-GDE.TXT]
+    [OCT/29] TWO SPYS IN THE HOUSE OF LOVE     [182.284B] [L124-SPY.TXT]
+    [DEC/15] PHOEBUS APOLLO     :              [125.734B] [L124-PHO.TXT]
+        :                       :
+        :       [1998: O5 COLLECTIONS TILL NOW] [O43 AT ALL]
+        :                       :
+    [JAN/2O] SEN WEZYRA         :              [O66.312B] [L124-SEN.TXT]
+    [MAR/15] PSILOCIBE 1: SUKIA MONOTONE       [181.OOOB] [L124-SMO.TXT]
+    [MAR/17] PSILOCIBE 2: EVENT HORIZON        [182.OOOB] [L124-EHN.TXT]
+    [MAR/20] PSILOCIBE 3: THE DREAM MACHINE    [2OO.OOOB] [L124-TDM.TXT]
+    [APR/24] HOMEWORK           :              [11O.OOOB] [L124-HOM.TXT]
+        :                       :
+        :     [TOTAL: 7.246.662 BYTES IN O43 ASCII COLLECTIONS]
+        :                       :
+        :         [SOON:IN SEARCH OF SPARKS] [L124-ISO.TXT]
+        :                       :
+        :                       :
+        :                       :
+        :                       : Dwutlenek   siarki   -  powstaje  podczas
+        :                       : procesu  spalania  paliw naturalnych oraz
+        :                       : jako   zanieczyszczenie  przemysîowe.   W
+        :                       : Polsce emituje sië go rocznie w iloôciach
+        :                       : ok.   4  mln t.  Norma dopuszcza stëûenie
+        :                       : 32    mikrogramy   na   metr   szeôcienny
+        :                       : powietrza.      powo-    duje    widoczne
+        :                       : uszkodzenia   zielonych   czëôci  roôlin,
+        :                       : które  w  niedîugim  czasie obumierajâ na
+        :                       : skutek  zachamowania  foto-  syntezy.   U
+        :                       : ludzi  gaz  ten w zetkniëciu z wydzielinâ
+        :                       : bîon  ôluzowych  tworzy  kwas  siarkawy o
+        :                       : dziaîaniu draûniâcym.  Wywoîuje zapalenie
+        :                       : spojówek,  niekiedy  z  uszkodzeniem  ro-
+        :                       : gówki,  zapalenie  oskrzeli, czasem takûe
+        :                       : krwotoczne  zapa-  lenie  pîuc.  W duûych
+        :                       : stëûeniach   moûe   spowodowaê  gwaîtowny
+        :                       : skurcz  krtani  mogâcy staê sië przyczynâ
+        :                       : ômierci.
+        :                       :
+        :                       :
+        :_________.             :                   __________.
+    .__|          |__.          :               .__|          |--/
+    |       __    |  |          :               |  |_______     /|
+    |      |_ |      |  - azzaro.-              |         _|     |
+    |      ___|      |  ______.  ______.  ______|      |         |
+    |                |_(___   |_(___   |_(___   |  __  |_________| ____
+    |      _____     |   ____/    ____/    ___    |_ |        \ ._(    )__
+    |        |           \)       \)      (/         |         \|  ___   /_
+    |        |_______________________________________|          |    \)  _/ _
+    |________|                  :                    |k®s!_______\_______\_/
+        :                       :
+        :                       :
+        :                       :
+        :                       : Tlenki  azotu  -  gîównym úródîem tlenków
+        :                       : azotu  w  powietrzu  sâ  spaliny samocho-
+        :                       : dowe,  nastëpnie  spalanie paliw staîych.
+        :                       : Znajdujâcy  sië  w atmo- sferze dwutlenek
+        :                       : azotu, absorbujâc promieniowanie ôwietlne
+        :                       : w    paômie   nadfioletowym,   w   sposób
+        :                       : odwracalny  ulega,  rozkîadowi  do tlenku
+        :                       : azotu i ozonu.  Dwutlenek azotu reaguje z
+        :                       : wodâ  two- rzâc kwasy azotawy i azotowy -
+        :                       : skîadniki   silnie   kwaônych  deszczy  i
+        :                       : aerozoli.   W  Polsce  emitowany  jest  w
+        :                       : iloôciach  ok.   1.5  mln t rocznie, przy
+        :                       : czym dopuszcza sië 50 mikrogramów na metr
+        :                       : szeôcienny.   Jak  w  przypadku dwutlenku
+        :                       : siarki,  wdychanie tlenków azotu prowadzi
+        :                       : do   powstawania   kwasów   azotawego   i
+        :                       : azotowego   w   wydzielinie  pokrywajâcej
+        :                       : bîony    ôluzowe,    co    powoduje   ich
+        :                       : uszkodzenia.   Skutkiem  uszkodzenia moûe
+        :                       : byê  obrzëk  pîuc.   Czëôê kwasów ulega w
+        :                       : bîonie  ôluzowej  przemianie  do azotynów
+        :                       : wywoîujâcych methemoglobinemië.
+        :                       :
+        :                       :
+        :                       : _____ _
+        :           O  __  __   :|    // |
+        :            o-\ \/  | _:l___ /  |
+        :           °    \_  |-\___  | __:__
+        :            ·   /   |  ___  |-\ Y /-. ____ / O
+        :            `--/    |  \/   |   |   |-\   /-o
+        :              /·----'--/    | _/¯\_ |  \//   °
+        :                      /·----'--/    |       ·
+        :                        :     /·----'--/    |
+        :                     tG!|  /    |     /·----'
+        :                       :|_//____|
+        :                       :
+        :                       :
+        :                       :
+        :                       : Dwutlenek  wëgla  -  chociaû  lokalnie  (
+        :                       : kopalnie,   piwnice,   magazyny  zboûowe,
+        :                       : wytwórnie   droûdûy   )   mogâ   wystâpiê
+        :                       : przypadki       podwyûszonych,      nawet
+        :                       : ômiertelnych  stëûeï  dwutlenku wëgla, to
+        :                       : podstawowym  problemem  zwiâzanym  z  tym
+        :                       : zanieczyszczeniem    jest    zmniejszenie
+        :                       : emisji  z  atmosfery  Ziemi  w przestrzeï
+        :                       : kosmicznâ  (  efekt  cieplarniany  ).   W
+        :                       : Polsce   emituje   sië  ok.   457  mln  t
+        :                       : dwutlenku wëgla rocznie
+        :                       :
+        :                       :
+     _oóOQQQOóåo          _     :   ______     ___  ___ _   _        ___ _
+   .!"  : __ ¯åQQ.      .-\\-----/._9    (.____\ (.-) /---.-\\-----/.  `-\\_
+      .µ±RMØ  ¬oQQQ_ ---|    ¯\   |uqu _  .\\ _   |   ¦   |    ¯\   |  ____/
+      ¡RQQQM   "OQQQQ   |    ¦_\  |    /  ¦_  \   ¦   '   ¦    ¦_\  |   _/__.
+      jQQQQN&OQØ6QQQQQ. l____j    |   ¸___j-)__   |____¸  |____j    |-)____ |
+      OQQQQO%QQQ9OQQQQl=====`-----^----'======`---'===`---'===`-----'===`---'=
+    µjQQQQQÆ.    jQQQQO         :
+   QØØØØØØØØØ   _QQQQQQ         :  .a.n.a.d.u.n.e...g.r.o.u.p.
+        :      ¢OQQQQQ"         :
+        :       "¢óøQ'          :
+        :           "           :
+        :                       :
+        :                       : Tlenek  wëgla - jest jednym z najbardziej
+        :                       : rozpowszechnionych   w  przyrodzie  gazów
+        :                       : trujâcych.   Najwaûniejszym  jego úródîem
+        :                       : jest  transport.   W  aspekcie zagroûenia
+        :                       : zdrowia czîowieka naleûy zauwaûyê, ûe dym
+        :                       : papierosowy zawiera 3-6% tlenku wëgla, co
+        :                       : stanowi     oômiokrotne     przekroczenie
+        :                       : stëûenia  dozwolonego  w  przemyôle  (  w
+        :                       : powietrzu  dopuszcza  sië 120 mikrogramów
+        :                       : na   metr   szeôcie-  nny  ).   W  Polsce
+        :                       : emitowany  jest  do atmosfery w iloôciach
+        :                       : ok.   3.2 mln t rocznie.  Tlenek wëgla ma
+        :                       : 200-300  razy  wiëksze  powi-  nowactwo z
+        :                       : hemoglobinâ niû tlen, dlatego teû stanowi
+        :                       : zagroûenie   zdrowia  nawet  przy  niskim
+        :                       : stëûeniu.
+        :                       :
+        :                       :
+        :                       :_____
+        :                     __|     |__.
+        :                    |        |  |
+        :                    |           |
+        :                    |    - link | one two four.-
+        :              ___   |           |  ______.____
+        :            _/ _ )__|           |_(  ___ |   _)--/_
+        :           _\  (/   | __        |    )/         _)/_
+        :         _ \_        |_ |       |    /       _    _/ _
+        :          \_/___________|_______|___/    |___\)___\_/
+        :                       :           / k®s!|
+        :                       :
+        :                       :
+        :                       :
+        :                       : Wëglowodory - wiëkszoôê z nich powstaje w
+        :                       : procesach    spalania,   zarówno   wystë-
+        :                       : pujâcych naturalnie w przyrodzie ( poûary
+        :                       : lasów,  aktywnoôê  wulkaniczna  ),  jak i
+        :                       : antropogennych   (   przemysî,   spalanie
+        :                       : ômieci,    spaliny    samochodowe,    dym
+        :                       : tytoniowy  ).Szacuje  sië,  ûe  w  latach
+        :                       : 1987-1989 do atmosfery emitowano w Polsce
+        :                       : ok.   0.4  mln  t wëglo- wodorów rocznie.
+        :                       : Norma  dopuszcza stëûenie 0.001 miligrama
+        :                       : w metrze szeôciennym powietrza.
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                      KWASY - STOP ..
+        :                    ÛARNOWIEC - STOP ..
+        :                    PUDEL - STOP,,  :P
+        :                       :
+        :        .... wszystko, co sîabe^puste -> STOPPP!!!
+        :                       :
+        :                     koniec, kurwa ...
+        :                       :
+        :                       :               1998 ...
+        :                       :
+        :                       :          (bez pierdolenia)
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+        :                       :
+········'                       `··············································
+
+@BEGIN FILE_ID.DIZ
+          ___     ...  .....  ...
+ _ __/\__|   |__.::::_:::_:::_:::_:::__/\__ _
+         |   |__  :::    .::: :::.:::
+  luk!___|   |  |_:::__.:::'______:::___pht!
+         `------' ::: :::::::     :::
+.---------------------------------------------.
+¦                                             ¦
+¦  azzaro`s "homework". mentioned by link124  ¦
+¦           live with monar records           ¦
+¦                                             ¦
+`------------------------[24/04/1998]---------'
+@END FILE_ID.DIZ
+
+
+
+                            ... ::          ____
+    radioactive _________.  :::            |___| _______________ __
+    bbs <--  ____        |      ·   ____      ___|         __  // /
+    ________ |   .__     ·    .____ \___)     |            \     /
+    |   __  \|  _|_/      ____|    |______.--------.        \   /
+    :   |/ _/|  \_       .  __.    |      |    _   |  _ _____\_/______
+    .   /    \   |       |  \_|    |      |   (/   |  \  _   (_)   __
+    ____\     \--|       :_________|------|________|   \//   / \    /
+         \_____\ |_______|      ________ ____/           \ AchtunG /
+                             ____       _____     ____    \/     \/
+        [$Ð!/dGs]      ______|__   ____ |__  |    \__/  .____
+                    .__ .__    |   |    |    |__ ___ _  |   /
+            ::::    |  _|_/    |   |    |      /_|  \\\ |  /----.
+        ... ::::    |  \_      |   |    |   __/       \ · /| ---'
+        :::      .  |___|      :   |____|        .____ \_/  ¯¯¯¯¯¯ ¯
+             ::         |______|        |____ ___|
+                             |____          .          - appendix phq -
+        +48-58-216-107      ____ |__________|           - link124 whq -
+                            |___|
+        powered by a1240/40       sysop: cerber/appendix
+                                              _______________________ _
+        ascii - demos games - porn - util _ __|
+
+
+                       --------------()--------------
+
+
+               T H I R D  place in the world! (JurassicPack#5)
+
+
+           ._____.[staff]jacobs/appendix - prefix/appendix - ziutek/appendix
+ _________ |¯    :      ________[demon/cyber freaks]
+|¯    __ /_|   __|____._\   ___/[master] madbart/anadune^appendix^teklords
+|______(       \__   ¬:    __>___:___________________ ___ _
+     /¯          /         \    ¯|
+    /      .    /       _      _  [a1200T/030/882/50mhz/quantum 1.3gb/cdrom]
+   /_______:---/______.-)______(------------------------------------- -- -
+                          _______   ________   ________   _________.______
+ [node 0] +48-91-879493  /¯  ___/_._\   ___/ ._\  ____/_._\  _    ¬·      |
+       _ ___ __________._\____   ¬:    ___>  :    \    ¬:   /______.      |
+[open]                 |     /         \                      ¯\nd!:______:
+   22-13/week 22-10 cet  _          _          _          _     \  |¯     |
+- ------- -------------:-)________.-)________.-)________:-)______\ |______|
+ [node 1] telnet
+ [node 2] telnet  [anadune whq] [appendix whq] [teklords phq] [floppy phq]
+
+ [dinx project phq]  [jormas phq]  [mawi phq]  [doggystyle phq]  [psl phq]
+ [link 124 phq]  [venus art phq]  [ozone free phq]
+
+
+
+                    [be sure you choose the right number]
+

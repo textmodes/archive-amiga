@@ -1,0 +1,748 @@
+[soa]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            ________|_    _________.    ____          i_)_______
+           (________|/ . (_________|\ . \__________ . |        / ,   ____
+        _____            ___  ____         ,______/  ______   /__| __)  / __.
+   .__ (    `------------' (__)  `--   ,_.          -'    `--------'ck (__\ |
+   | /__\                          gШШШШШШШWm_.                            _|
+   |_                            iШШШ******MШШШШs.      __mmsmms,__.       \_.
+  ._/        ___gmmmmsms_,___.  iШШA`        ~VШШШs  _gШШШШШAШШAШШШШШWms     |
+  |     ,_mШШШШШШШШШШAШШШШШШШШWsШШA            'MШШWШШШ*f~`     '~~~**ШШШm.  |
+  | ,_mШШШШA*f~~       '~'~~**ШШШШ[      a      ]ШШШШ~`                VMШШW.
+   _ШШШAf~                     VШШШWs           ]ШШA`                    'MШШ
+  ]ШШA          d                VШШШs          WШШ         s             ]ШШ[
+  ШШK                      ___gmmmWШШШmmmms__. ]ШШ!                     ,_WШШ
+  VШШm_                 gШШШШШШШШШШШШШШШШШШШШШШWAf                  __mWШШШA`
+   VMШШWs_.           ,WШШШШШШШШШШШШШШШШШШШШШШШШШWs          _.,mmШШШШШA*~   .
+  .  'VШШШШШШWms_.   gШШШШШШШШШШШШШШKШШШШШШШШШMШШШШ ,_.gmgШW]ШШ!ШA*f~`       |
+  |      ~V**ШШШШШШШmШШШШШШШШШШШШШШШШШШШШШШШШШWШШШШШШШШШШШШK ~`              |
+  |       ___mmKШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШA**ШШШШШШWm_.            |
+   ,gmmmШШШШШШШAШA*~~~`V*ШШШШШШШШШШШШШШШШШШШШШШШШf        '~*MШШШs           |
+ ,mШШШШШ**f~~`             ~~~*****MШf~~~~***~~~`              VШШШi         |
+,WШШf`                             ШШW                           YШШ.        |
+]ШШ`                              iШШШ.                           YШШ        |
+'ШШW              k               dШШШb            asc            ]ШШ        |
+ !ШШW_                          ,dШШAШШW.                         WШA      __|
+  'MШШW_.                     _mШШШ! 'MШШm_.                   __WШШ`      \_ 
+  . 'MШШШШWs_._.       _.,mmШШШШA~     ~MШШШШWms _.,_ _.,msШWШWШШШA`      __| 
+  |__  ~**ШШШШШШШШШШWШШШШ!ШA*f~`          ~~**ШA]ШШШШ]ШШ!ШAШV*`~`      __ \
+   _/ _____ ~`~~****f*f~`                        ~`'~ ~`         ------'/__)
+   |__)        _________,_   _____         ___           _,    _,
+              (_________|/ . \_________ . (_________, .  /_, . /_,
+                                  ,___/
+
+
+           (c)   d A S k   a S C i i   p R O D U C T i O N s   1 9 9 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               p R E S E N T s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       _gmmmmms_.
+                                    ,mШШШШШШШШШШШШms.
+                                   gШШШШШШШШШШШШШШШШШWs
+                                ,gmШШШШШШШШШШШШШШШШШШШШШs
+                              _WШgШШШШШШШШШШШШШШШШШШШШШШШW.
+                            ,WШШgШШШШШШШШШШШШШШШШШШШШШШШШШШi
+                           iШШШШlШШШШШШШШШШШШШШШШШШШШШШШШШШШi
+                          gШШШШШgШШШШШШШШШШШШШШШШШШШШШШШШШШШW
+                         iШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШ[
+                        iШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШ
+                        WШШШШШШШШШШ*f~~Vf~~~~~~~**ШШШШШШШШШШШШi
+                       ]ШШШШШШШШШf                 ~VШШШШШШШШШ[
+                       ШШШШШШШ*`                     'MШШШШШШШШ
+                      ]ШШШШШШ`                        'ШШШШШШШШ
+                      WШШШШШ!                          !ШШШШШШШ
+                      ШШШШШA _mmmm.          _mmmmm__   MШШШШШШ
+                      ШШШШШNШAf~~VШW.     ,mШAf~~~V*MШШ-]ШШШШШШ
+                      ШШШШШ \gmmms.Vf    4Шf`____gmms   !ШШШШШШ
+                      ШШШШKmAf~~~*Шi       ,WA*f~~VfMb   ШШШШШШ
+                      ШШШШAf ,Ш!m 8W      iШf       'Шi  ШШШШШШ
+                      ШШШШ[ WШШШ!.]Ш.    iШf ,mШШs   Ш[  ШШШШШP
+                     iШШШШ[ V*~ШШW Ш[    Ш[ gШKШ|'f iШ` iШШШШШ[
+                     ]ШШШШШ iШMШШШ Ш[   ]Ш`iШШAШШi ,ШP  ]ШШШШШ
+                     ШШШШШШ !ШШШШf]Ш`   !Ш.!ШKgШ!  WA  ,ШШШШШP
+                    dШШШШШШb. ~~ _WA     Mb '**f  WШ`  dШШШШШ`
+                   iШШШШШШШШШШmmШAf      'MШWm__WШA`  gШШШШШ!
+                  gШШШШШШШШШW'~~     ,_.    ~~**~    dШШШШШШ!
+           ,s___gWШШШШШШШШШAMs       V*Ш-          ,dШШШШШШШi
+           'ШШШШШШШШШШШШШШШ! MW.                  iШШШШШШШШШb
+            'ШШШШШШШШШШШШШf   ~Mm_.     ,gs    ,_WШШШШШШШШШШШW_
+             'VШШШШШШШШШ*f      ~*ШW.  4Ш*`,mgШA*`!ШШШШШШШШШШШШШ-
+               dШ*MШA**`          'MШs.  ,gШШf     'MШШШШШШШШШШШm.
+              ]Ш`                   VMШШШШШf         ~**ШA***f`'VШi
+              ]Ш                        ~~                       ]Ш
+              ]Ш                                      ,          ]Ш
+              ]Ш        __.,                          VW_        ]Ш
+              ]Ш       'MШ*f                           ]ШШ-      WA
+              ]Ш        WA                             ]Ш       iШ`
+              'Ш[      dA`                             ]Ш       WA
+               YW     dA`                               Mb     iШ!
+               ]Ш   ,WA`                                'Шi    dA
+               ]Ш. ,WA                                   VW.  ]Ш!
+                Ш[gAf                                     VШs,Ш[
+                'WA                                        'MШK
+                iШ`                                          'YW.
+                Ш[                                            !ШD
+                Ш[                                             YШi
+                MW                                             ]Ш[
+                !Ш.                                            ]Ш[
+                 !Шi                                           ШA
+                 ]ШШs                                         dШ`
+                 dA'MWms                                    ,WA`
+                ,Ш!  YШAШ-                               _gmA~
+               ,WP   ]Ш                              ,mWШШf~
+               dA    ]Ш                              V~`]Ш!
+              ]Ш`    ]Ш                                 dШ
+             iШ`    ,Ш!                                 ШШ
+            iШ!     ]Ш                                  MШ
+            WP     iШ`                                  ]Ш
+           ]Ш ck- ,Wf                                   ]A
+           Ш[     dШ                                    ]W.
+           '    ,Wf`                                    !ШW
+               gШf                                       ШШ[
+              ,V`                                        'dШ
+             '                                            'ШW
+                                                           'Mb
+                                                            'Шi
+                                                             YW
+                                                             ]Ш;
+                                                              `' 
+
+                                        /\                    /\
+     _\__|____.._____  _____   _  ____ /  \ ______   i_)____ /  \ ______/_
+      (  |   /||     )(_____)  )\/   (/___\\\     )  |     //___\\\     )
+                         _\
+              /\
+     _       /  \ _       _____   .          _____       __       _____
+     )_____,/___\\\_____)(_____)  |  )_____((_____),_____)(_____,(_____)
+                _ _        /_                 /_                   /_
+               /((_)                  /\                     /\
+      ______  /  \ ______    _  ____ /  \ ______   i_______ /  \ ______
+      \     )/___\\\_____)   )\/   (/___\\\     )  |      //___\\\_____)
+                    ' \                                           ' \
+                          ____
+                         _\____ _____ ______ . _____
+                       __\     (_____))_____)|(_____)_
+                        /        /_   ' \       /_   \
+
+           t i N g   m A n   k A n   l A V e   i   v E J L e   n Џ r
+
+                           m A n   h A r   f E R i e
+
+
+
+            ( t H i N G s   t o   d o   i n   v E J L e   w H E n
+ 
+                       y O u   h A V e   v A C A T i O n )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           f E A T U R i N G :   c K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       °Ш° Et sted i Danmark, 1996 °Ш°
+
+
+        Efter endnu vellykket dag hvor byen var blevet tagget med den
+    r›de tusch, slappede Spice af hjemme hos Macaw, som ogs† var til stede.
+    - "Stik mig tuschen, jeg m† ogs† have et sniff", sagde Macaw, som havde
+    lagt m‘rke til Spice's betagelse af det r›de sprit.
+    - "Mmm.. Okay". Spice ‘rgede sig, "God tusch" n‘sten hviskede han idet
+    han gav den til Macaw, som straks fik malet en ordentlig klovnetud med
+    den. Ck, der som s‘dvanligt kom for sent havde i dag sl‘bt en tusch-
+    salesman med sig, som kunne tilbyde b†de de r›de og det sorte sortiment.
+    - "Sniff?", mumlede Garflozzy, som allerede var for langt v‘k i sprit-
+    t†gerne til at bem‘rke andet end en hvid bil med en underlig reklame
+    for "Pul-med-ti" p† siden rulle ned af gaden.
+    - "Fuckje, han er jo en narkje", r†bte Ouzo12, der som den eneste var
+    nogenlunde sober nok til at bem‘rke "Politi" skiltet p† sprit-tusch-
+    s‘lgerens jakke. Uden at blinke trak han sin pistol, og affyrede 3-4
+    skud i manden, der, med lyden af et stykke tr‘ mod en v†d papkasse,
+    ramte gulvet.
+    - "Snit snit snit", r†bte Spice med r›d fr†de om munden mens han
+    stak alle tre klinger p† sin svejtser-kniv i manden, som antageligt
+    var rimeligt d›d.
+    - "Vi m† vist hellere smutte", hylede Ck, som i forvirringen havde
+    stj†let to sorte og en r›d tusch, og v‘k var de...
+
+
+
+
+                       °Ш° Hadsten, DASK whq, 1997 °Ш°
+
+
+        - "Osse mig", sagde Ouzo12, som gerne s† lidt dampe i sit hovede
+    ogs†. Efter et heftigt †r, hvor DAP (Dansk Ascii Politi) havde
+    intensiveret jagten p† den farligste danske ascii gruppe, var de
+    fleste medlemmer atter samlet p† deres hemmeligt Whq, et sted i 
+    Hadsten.
+        - "Ring lige og sp›rg hvor Ck bliver af", sagde en ret ligeglad
+    Macaw til Spice, som l† og sov. Garflozzy bem‘rkede at Spice
+    l† i en underlig fosterstilling, som vist ikke var normal for v†gne
+    mennesker, s† han tog sagen i egen h†nd.
+        - "Hvor bliver vores sprit lige af Ck?", n‘sten sn›ftede Gar-
+    flozzy ind i r›ret.
+        - "ќhb›h, jeg har lige taget det sidste tr‘k i min g†-under-
+    jorden plan for at slippe af med DAP, s† jeg gider ikke lige komme."
+    - "Jamen jamen", sagde Garflozzy med en lidt mere sober stemme.
+    - "Jeg er flyttet til Vejle, s† i m† komme her, jeg har bestilt en
+    limo til jer, som gerne skulle v‘re der om 10 min. ellers m† vi
+    ringe og hyre en ny, hej".
+    Og, det var det sidste DAP h›rte til danmarks ondeste ascii-krew, som
+    siden den dag har v‘ret umulige at spore, til trods for deres gentagne
+    mystiske ascii-releases.
+
+    Og, jeg er flyttet til Vejle, s† ring hvis der skal holdes en ekstra
+    indflytningsfest. Vi ‘lsker fester :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             °Ш  o1.  cOMiCON   Ш°
+
+
+
+
+
+
+                    ,_
+              _______/______,
+           ,__)            /___,
+        ___(_  _____________ _/___,
+       _\__   _) ___   ___ (  __(  
+         ,/_ (_   ш  _   ш _)_/_,
+           `-,_\__,_______/----'
+               / _  .   _ \
+              / /        \ \ __,
+            _/ /    .    (_ \) )_____
+           (  (_           \   _____/_
+            )_  )___.       \_  _____/
+       _  _/ (_/  __'________/----'
+      (   \_______\ _        \__  __.    __
+  ._  _\ _/         ` _________/.   | __(  )__                 ___
+_ |(__) .\_____________\ _      |_  `-' ck-  /    .__     __  (  /___  ____
+`-'    _|         _    |__\____ _/          (_____| `-----' )__\    `--'
+       \_________/____ |      `-'
+                     `-'
+                   ___    ___ _ _  ____. ___    ___ _ ______/__
+                __(_____,(__//_))\/   (|(_____,(__//_))     )
+                 /
+                       c O M i C O n    d A S k    w H q
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           travelling through the time
+
+                            moving slowly in the sand
+
+                               love is the weapon
+
+                        against the hunger in the tribes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             °Ш  o2.  mAPFUMO   Ш°
+
+
+
+
+
+                                                      _,
+                                                ,_____\____,______,
+                                              __(               _)_
+                                           ,_(_,   _,       ,     )_,
+                                           _(     (                ,)_
+                                        ,_(,   _,                 _  )_
+                                         (_  _(  ______ ______   _)  _)_,
+                                          (_,   ( ___ /_)____ \)    _)
+                                           (___  \`ш' _  `ш'  / ,___)
+                                             ,(___\______,___/___)_
+                                                  ) _  .  _  \    /_,
+                                               _ / /   .   \  \
+                                       .______( )_.    .    \  \
+                                     __|  ___     |____._____\  \_
+                                    ()_) (    _ __|_)          __/
+                                       \______/_  _)-----------'_)
+                                           (______).     \      \
+                                            `-'_/_________\______\_
+              ___             __     ._   : ._/____________\______/__. ___
+ ___   ___  __\  )         ._(  )__  |(__ | |               \        |_   )._
+   `---' (__)   /____    __| ck-  `--'  `-'_|                \_________) /_|(_
+                    `----'                (___________________\              `-
+ 
+                         /\          __
+                _  ____ /  \ ______ _\___ _      _  ____ ____ _/__
+              __)\/   (/___\\\_____))    (_____(( \/   ((___//_) 
+               /              _/_
+                       m A P F U M o    d A S k    d i S t
+
+
+
+
+
+
+
+
+
+
+
+
+                              solitude met herself
+
+                          lessons from the primal step
+
+                          memories from and ending era
+
+                            love can stop the tribes
+
+
+
+
+
+
+
+
+
+
+
+
+                         °Ш  bONUS lOGO o1. hELLGATE   Ш°
+
+
+
+
+
+
+
+                               ,_     ______,
+                                /____(     )___
+                              ____\_,       __ )___,
+                            ,_)    _________ `   /_
+                          __ \_  __\__    _(____ _( ___
+                        ,/_ `-' (_ ш  _    ш   _)`--'_/
+                           \___  _\___` _, ___/_ ___(,
+                              `--')_ `-----' _(`-'
+                              __ / )         ( \
+                   .::. .::._( (/ (_         _) \
+                  :::::::::::_   _/           \__\ 
+                  `:::::::::'_  _)______________/_)
+                    `:::::'-----')      .      (-'  
+                      `:'       /       .       \ 
+                               /    __, .        \                 __.
+         ____                _/_____\   .  ,______\_  __.  __      \ |___   __
+      ._ \  /_.     ___  .___\_____________________/__. |_(  )_   __)   `---'
+ __   |(__)   |__  _) /  |              |             |   ck- `---'
+  `---'         `--' /__ |           _  | _           |
+                         |___________\--'--\__________|
+
+           __                                      /\
+          __\____ ______ _       _        ______  /  \ _\__     ______/__
+       __(      /(______))______,)______,(______)/___\\\______,(______)
+        /           /_                      _\                    /_
+                        h E L L G A T e    k L A n    h q
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         actual tribe no longer sounds
+
+                        the ancient teachings carries on
+
+                             movement of my culture
+
+                         my beliefs have no more tales
+
+
+
+
+
+
+
+
+
+
+
+
+                      °Ш  bONUS lOGO o2. sPLATTER kING  Ш°
+
+
+
+
+
+
+                            ,_
+                           __/
+                  ,______ _\/_____,
+                   _\     \/\/   /_
+          __ _____/  ______  ___  _\__
+           ((___   _( ____`--'__)_  _//_
+               `--(__  ш   _   ш _)-'
+                    _\_,________/
+                    ) _   |   _ \
+                   / /    |.  '\ \ __       
+           ______ / _)    |     \ \) )________
+       ____\__  (/ /      |.     \_  ________/
+       \______   _/_______|_______`-----'
+           `-----'_______,^,_______/
+                  )      `+'      (
+                _/________|________\_
+              ._\_________|_________/___.                   ___         ___.
+     .__   _ _|        _  |             |  __       ._   ___) /    .__  \  |_
+___  | (_ (  \_    ____\__|   _         |_  / ___   |(___)   (__   | /___)  `--
+  `--'  /__\  `----'      |___/_____    _/ (__\ `---'     ck-  `---'
+                                   `----'
+
+                       /\
+  ____ ______ _       /  \ _\__   _\__    _____ ______  i_)____.._____  _____/_
+_(_____\_____))_____,/___\\\_____,\_____,(_____))_____) |     /||     )(_____)
+/   ,_/ _/                                 /_   `  \                      _\
+             s P L A T T E r    k i N g   -   s P L A t   s P L A t
+
+
+
+
+
+
+
+
+
+
+
+
+                             who are you to criticize
+
+                           to judge and hate the world
+
+                           the tribes will be at peace
+
+                            and you will be my brother
+
+
+
+
+
+
+
+
+
+
+
+
+                          °Ш  bONUS lOGO o3. mIDNIGHT  Ш°
+
+
+
+
+
+
+                    _   
+             ,_____( )___
+            ,__\ ,_    _/____
+        ,___/  ___________ _(___,
+         (_  __\____  ___(__  /
+         _\ /_   ш'  _ ш' _/ (_,
+       ,/__  _\__ , _____/_  _/
+          `--' )`---'  _( `--'
+             _/ )      ( \ 
+             ) (_      _) \
+           _/ /._________\_\___)__
+           \ `-|__________,__,-,_()
+            )____   __)  (__  _)   
+            / /_(__)       `--'                                     __
+       ._ _/________________\_                                  ___(  )__
+   ._  |  \__________________/ ___.          ____               \       `-+
+___|(_ |  /         |        \    | ___   ___\  /    ._   ___   _\ ck-    |__
+     `-'_/__________|_________\__ |_) `---'    (___  |(___) `---'           `--
+        `-----------`-----------'                 `--'
+
+              _  _____. ______|_ ______ . ______ i_______ __|_____/__
+            __)\/    (|(______|//      )|(______)|      /(  |    /
+             /                               _\
+                       m i D N i G H t   -   t H e   b E S t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+
+                     ,_________.
+                 ,mmШШШШШШШШШШШШ_
+               imШШШШШШШШШШШШШШШШШW.
+            gWШШШШШШШШШШШШШШШШШШШШШШb
+          _WШШШШШШШШШШШШШШШШШШШШШШШШШmm
+        ,WШШШШШШШШШШШШШШШШШШШШШШШШШШШШШW.
+        gШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШb
+       ,ШШШШШШШШШK~~~VШШШVMШШШШШШШШШШШШШШW    gg_
+       ]ШШШШШШШШШШШi       ШZШШШШШШШШШШШШШtmШШШШШШW.
+       ШШШШШ*f             VWШШШШШШШШШШШШШШШШШШШШШШШs__gmmmWWb.       ,WD
+      iШШШA`      _gmmmmmz  'YШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШm.   ,mA\.-
+      ]ШШШe.    gAf`   _      \!ШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШШLWmШTmAf
+   _z=YШШ[ V.  ]f   gWШШШШs     ШШШШШШШШШШШШШШШШШШA*MШШШШШШШШШШШШШШШШШШmm._
+ vf`  [MШ5  V=-  _mШШШШШK`Y[   iШШШШШШШШШШШKШШШШ*~   VШШШШШШШШШШШШШШШШШX~
+][   ,[ ШPM.     `ШШШШШШA d!   'MШШШШШAf   'MШ7`      YШШШШШШШШШ*``~MW7M!
+'!   K  Шb *i     Ш|VШШA`gP      VMШШA`      'VNs_     !ШШШШ*f       VШi
+    !  dfШ  ~`    VШs__gWf    ,mm*f~][          '~Ws    ~~~`          V`"
+      Zf YW        '~~~~`     ][    ][             'MW
+          VWmsd[          g.  ][    ][               '*N_.
+             '8!         mШ[  ]Wm   !Ш.                 ~VWm_
+             iШmmШ!    _WШШ`   ШMi   Y[                     ~Mi
+             '**fb    WШШШf  _W`][    Ms                     ][
+                 Mm_   ~~` ,W~  ][    '`     g.              W`
+                  ~~*MШШШmmШ!   Ш           ]ШWs.           W[
+                               dA          d[  'VШ         ]P
+                               Ш!          '`    Ш        iP
+                              W!                ]Ш        Ш`
+                             Wf                 Ш[       d!
+                            iP                  Ш`      iШ
+                           iШ                   Ш       WP
+                           WP                   Ш       Ш!
+                           Ш[                   Ш       Ш
+                           Ш|                  iP      !Ш
+                           Ш[                  ][      ]Шb
+                           ~W                  ][      ][Vs
+                            !W.                !b      !W.Yb
+                             '*_                Ш[      ШW !W.
+                               ~*m_             YW       Yi 'N.
+                                  ~*MШmmD        M.  ck-  Ш. !Ш.
+                                     *b           Ш.      '"  !`
+                                      Ш           V`          "
+                                      '           '
+
+                                                    ___/__
+                              _____ _______ _____i_ \  )
+                           __(_____))     ((_____|/ _\/ 
+                            /  /_                  (_)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                h E j   t i l :
+
+
+          jesper, signe, camilla, birgitte (a), kim, henrik, katja (v),
+
+     anne (v), ulrik, morten (lionmountain), birgitte (j), bitten, line (s),
+
+       brian, jannie, lone og mette, som alle var med i onkel's sommerhus.
+
+
+         "scene" venner i/p†: klan, #ascii, dask, #dkscene, #linuxjuarez,
+
+      revolt, f4cg, grs, aod, food, remorse, katharsis, serial og #laymuhrs.
+
+
+
+                          m U S i k   s U P P O R t :
+
+
+                 lost highway soundtrack, blЃmen og bj›rn svin.
+
+              (har rim'li r†d til mange nye cd'er lige for tiden)
+
+
+
+
+                c Y B E R K i D @ l I N 0 1 . v E J L E H S . d K
+
+                     a K A .   s ќ R E N  D / d A N M A R K.
+[eoa]

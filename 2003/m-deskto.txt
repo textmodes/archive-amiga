@@ -1,0 +1,2293 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ
+
+--------------------------------------------
+Desktop Adventure _ Noches/Mimic Productions
+----------------------------------[06/11/03]
+
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID_DIZ
+@BEGIN_FILE_ID_DIZ
+@BEGIN_FILE_ID_DIZ
+
+--------------------------------------------
+Desktop Adventure _ Noches/Mimic Productions
+----------------------------------[06/11/03]
+@BEGIN_FILE_ID_DIZ
+
+--------------------------------------------
+Desktop Adventure _ Noches/Mimic Productions
+----------------------------------[06/11/03]
+
+@END_FILE_ID_DIZ
+Desktop Adventure _ Noches/Mimic Productions
+----------------------------------[06/11/03]
+
+
+
+
+
+Desktop Adventure _ Noches/Mimic Productions
+----------------------------------[06/11/03]
+@BEGIN_FILE_ID_DIZ
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID_DIZ
+
+
+
+
+
+
+
+                          
+
+
+
+
+
+
+                        /_____
+                      ./     /)\. ._______________________
+                      ¦         | i                      /__
+                      | __    _ | | Run AFS              ! /
+                      |\___-___/| |______________________| ¦
+                     '/|   ·   |\   |______________________|
+                       |_______|
+                       `       `
+                            
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           ._.
+                           | |
+                           ._·
+                           |
+                          _.________________________.
+                          \|                       /¦_
+                           |                        |
+                           |                        |  
+                           |                        |  
+                           |                        |  
+                           |                        |  
+                           |                        |  
+                         ¦ |                        | ¦
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         | |                        | |
+                         · ·              ..... :.  · ·
+                                          :   :..      
+                              N O C H E S :     :
+                              - --------- :     :
+          _______                         :     :             ____
+        _\\_     \_   _____               :_____: ___        /   //_____
+       _)  |      /__\\_   \_ __ ______ __|     |/  //_______\___      (_
+       |   |      \    /    / _//     /   |     |   _/      /   |       |
+     _ |_  |       \       /  \      /    _     |   \      /    |      _| _
+     \  /__|________\______\_________\____\_____|__________\___________\  /
+      \/- -diP----------------------------:-----:-----------------aSL- -\/
+                                          :     :          
+                                          :..   : 
+                           ¦             .. :...:  |
+                           ·                       |
+                           |                       |
+                           |                       ¦
+                           |                       |
+                           |                       |
+                           |                       |
+                          /.                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |__ ·               · __|
+                       _ _ _\//   MiMiC ASCii  \\/_ _  _
+                           |\/                   \/|
+                           |           _ _         |
+                    _\  __ |   _     __  /_     _  |
+        _________ _\\_\/_//:__(//_ _\\_\/_//_ _\\)_:___ ____. _________ 
+       _)  _     _)   \/   (_    (_    \/   (_    (_  _/    |      _  (_ 
+       \  (/)    \    ||    /     /    ||    /     /  \     |     (\)  / 
+       /________ /____||____\ ____\ ___||____\ ____\ __\____| _________\
+                           |                       |
+                           | diP      __       dTR |
+                        _ _|__ __    _\/_     __ __|_ _
+                           | //__)---\/\/ ---(__\\ |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |    P R E S E N T S    |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                      _|_¦_
+                           |                       | · 
+                           |                       __________
+                 ______  _________       __________\        /_______
+           ______\     \_\       /_______\        /_      _/      _/_
+         _/             /      _/       /_\         \     \         \    
+        _\         \____\      _/      /_            \     \         \    
+        /___________\    \_____\________\_____________\_____\_________\
+          ___________________.  / _________ __________________________.
+          \         /        |_/\\\_      /                           |
+        _ /        /          /    /   __/     dESKTOP aDVENTURE      |  
+        \/        /_\   1    /_        \                              |
+        /__________\__________\ _       \ ____________________________|
+                           .   \_________\no       .
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                  __awâ_   |                       |
+        jp*PP*w_ æF    ¬Ï_ ·                       |
+       ¤"      °µ#  ¸   ¬#____                     |
+      _5µ___   ,å©L Ë _,­"¯ ¯"*w             . . . . . . . .
+   _øP"¯  _¬^mµJk°"°°*Q _      ¬k            .             .
+  æF      ¯¬"gÆ ^   ¬  ¶___   _æ²            . //          .
+ ÆF      ,¡-øW#.    ¬ ¬jP-4ØØØË_  _ ______   . /           .
+ Æ_    j°  °   æk­ëwÆw;/""    ¬°*_       ((_________________________
+  °*wmÆ      ,Ø©F ! °_¬V\_       °k_                               //_______ _
+     ø   ______ Ø `  t   ¬._____. åL  -[  w  e  l  c  o  m  e  ]-
+     #  _\     \._______  |     | Ø _____      _______   ___  ___ ._______
+     9w/  \     |  _   /__|  ___|_./  __(____./   _   \./   \/   \|  _   /__.
+      /   /\    |  /__/   |  \    |   \      |    /    |    \/    |  /__/   |
+     /____/\____|_________|_______|___/______|_________|____/     |_________|
+   - ----------------------------------------.-------------/______|tF!/u'R!-- -
+                                             .           / .
+                                             .          // .
+                           |                 . . . . . . . .
+                           |
+                           |                       |
+                           |                       |
+                           |                       |
+           Hello. Mr
+           Hello. Mr
+           Hello. Mr
+           Hello. Mr
+           Hello. Mr
+           Hello. Mr
+           Hello. Mr
+           Hello. Mr
+           Hello. Mr
+           Hello. Mr
+           Hello. Mr
+           This is my new collection called " DESKTOP ADVENTURE "
+         
+           This is my new collection called " DESKTOP ADVENTURE "
+        
+           This is my new collection called " DESKTOP ADVENTURE "
+         
+           This is my new collection called " DESKTOP ADVENTURE "
+         
+           This is my new collection called " DESKTOP ADVENTURE "
+         
+           This is my new collection called " DESKTOP ADVENTURE "
+          
+           This is my new collection called " DESKTOP ADVENTURE "
+       
+           This is my new collection called " DESKTOP ADVENTURE "
+         
+           This is my new collection called " DESKTOP ADVENTURE "
+
+           This is my new collection called " DESKTOP ADVENTURE "
+ 
+           This is my new collection called " DESKTOP ADVENTURE "
+           This is my new collection called " DESKTOP ADVENTURE "
+           This is my new collection called " DESKTOP ADVENTURE "
+           This is my new collection called " DESKTOP ADVENTURE "
+           This is my new collection called " DESKTOP ADVENTURE "
+           Hello. Mr
+
+
+
+
+           This is my new collection called " DESKTOP ADVENTURE "
+           This is my new collection called " DESKTOP ADVENTURE "
+           
+                                                   |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Very Funky                              |
+           Good "A" in some logos                  |
+           Good "A" in some logos                  |
+                                                   \
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+           my last collection?                     |
+           dont know                               |
+           my last collection?                     |
+           dont know                               |
+           my last collection?                     |
+           dont know                               |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+           but i dont tell you more                |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+                                                   |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           becouse                                 |
+           i  cant i  cant i  cant i  cant i  cant |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                                                   |
+           and you know    name?                   |
+           and you know    name?                   |
+           and you know my name?                   |
+           and     know my name?                   |
+                                                   |
+                           |                       |
+                           |                       |
+                           |                       |
+
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+                         noches noches noches noches noches noches noches
+
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       | 
+                           |                       |
+                           |                       |
+                           |                       |
+                           |                       |
+                          ||                       ||
+                          ||                       ||
+                          ||                       ||
+        _·_        ||_ __ ··                       ··    _||        _._
+         |/______  |                                       |  ______\|
+         /      /__·                                       ·_ \      \
+         |     /¯ /    /\/\                                 \¯¯\     |
+                 /¯|  /  \ \ e n  u b  u s  s i  n e  s s  |¯\
+                   |                                       |
+                   |                                  ·    |
+                   |      · ________                 /   \----/_
+              ____ |_____/-\ ___   / _______________/-----\     \
+             _\   \/    /       \_/--\      __     /       \     \
+            |  \    _  /--/_________/ \     \l   _/----/__________\
+            |_  \  /--/ -az0!/l124-----\_    \---\         |
+             /---\/| ·                  /---/_\            |
+                   |                                       |
+                   |   01.Dwarf                            |
+                   |   02.Kore                             |
+                   |   03.Aerosol                          |
+                   |   04.Rules                            |
+                   |   05.News                             |
+                   |   06.ACiD                             |
+                   |   07.ACiD _ file_id.diz               |
+                   |   08.Simple XB _ file_id.diz          |
+                   |   09.Divine Stylers                   |
+                   |   10.The Ascii Charts _ file_id.diz   |
+                   |   11.Abstrakt                         |
+                   |   12.Tribe                            |
+                   |   13.Ageema                           |
+                   |   14.Dark Domain                      |
+                   |   15.Kempy                            |
+                   |   16.Aerosol                          |
+                   |   17.Bohema Records                   |
+                   |                                       |
+                   |   18.Seen                             |
+                   |   19.Mimic Productions                |
+                   |   20.Aids                             |
+                   |   21.Galza                            |
+                   |   22.Mode 2                           |      
+                   |   23.Halloween                        |
+                   |   24.Haciend BBS                      |
+                   |   25.Poise                            |
+                   |   26.Wisekid                          |
+                   |   27.Evan                             |
+                   |   28.Music                            |
+                   |   29.Index  (FreeLogo)                |
+                   |   30.Mimic                            | 
+                   |   31.Aiuto                            |
+                   |   32.Travis                           |
+                   |   33.Eagles                           |
+                   |   34.Gwei-Lo                          |
+                   |   35.Native                           |
+                 \_|   36.Preface (FreeLogo)               |_/
+         |     \__\                                         /__/     |
+         \______\  ·                                       ·  /______/
+        _|\        | _                                   _ |        /|_
+         ·¯        ||                                     ||        ¯·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  - Let`s Go -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             Desktop Adventure
+                                             Desktop Adventure
+                                             Desktop Adventure
+                                             Desktop Adventure
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 01. Dwarf
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             _______  _________       _      _______     __________________
+ ._ _ _______\      \_\       /_______/______\_     \____\_       /      _/ __.
+ |   _\       _      /       /\      /_              /    /      /_      _/   ¦
+ ¦_ //________\______\_______/________\_______\______\____\_______\______\ ___|
+ « no------------------------------------------------------------------------ »
+           D             W             A             R             F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 02.Kore.
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ________          _               _______
+            _______ /       / _________/    ___________\    _/_______
+          _/      //       /_/    _   /_____\_        /     _/      /_
+          \       /         \     /_   /     /_      /_     \        /
+       no /_______\__________\_________\______\_______\______________\ mmc
+          - -------------------------------------------------------- -
+              K  O  R  E  .  M  A  N  U  F  A  K  T  O  R  I  E  S
+          - -------------------------------------------------------- -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 03.Aerosol
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ______  ______          _________ _______   /____    _________   ______
+  _____\_    \/    _/__________\_      /\       \_/   _/____\     _  \_/     /
+ _\          /     _/     /_    /     /_    /    /___       /_   /    /     /_
+ /______/____\_____\_______\____\______\_________\ _/________\________\______\
+                                        \                                  -no
+
+            ·   A   ·   E   ·   R   ·   O   ·   S   ·   O   ·   L   ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 04.Rules
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             _
+            ___________________      ________/_____        _______
+      ______\_        /       /_____/       /    _/________\    _/_______
+      \      /       /_      /     /_      /     _/       /____         /_
+ -- no/______\________\_____________\______\____ \________\/ _/__________\ ----
+                                                         _/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 05.News
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              _________________        _________         /_____
+         _____\_        /    _/________\       /________/    _/_______
+        _\     /       /     _/        /      /\       /____         /_
+      no/_____/________\_____\_________\______/________\ __/__________\
+             /
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 06.ACiD Productions
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______  _______           __/         ______
+              _______\_    \_\    _/__________/\/__________\     \_
+             _\             /    \        /_    \   /       _     /_
+            //________\_____\______________\        \ ______/______\\
+            - ---------------------------no/_________\ ------------ »
+
+                    A C i D . P R O D U C T I O N S . 2 0 0 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 07.ACiD Productions _ file_id.diz
+/_______\____\________________\____________\ ----------------------------------
+
+ 
+
+
+
+
+
+
+                 _____  ______    \__
+              ___\_   \.\   _/__. _\_\
+             _\        |   \    |/    _    \__      _____
+             |    |    |        |     /__. _\_\_ ___\    \.
+             |    |    |       /|        |/    /.\        |
+                      |    |    |        |      |    |    |
+                      |    |    |       /|      |    |    |
+                      |    |    |        |      |    |    |
+                      |    |    |    |        |      |    |    |
+                      |    |    |    |       /|      |    |    |
+            |    |    |    |       /|      |    |    |         |
+            |    |    |    |        |      |    |    |         |
+         no |_________|________|_____/|_________| --         -
+         -------------------------- / --------------         -
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                   ----ACiD Productions ----------------------
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD            Productions
+                       ACiD Productions
+
+                       ACiD
+                       ACiD Productions
+                       ACiD Productions
+                       ACiD Productions
+                       A  
+                          _____  ______    \__      _____
+                       ___\_   \.\   _/__. _\_\_ ___\    \.
+                      _\        |   \    |/    /.\        |
+                      |    |    |        |      |    |    |
+                      |    |    |       /|      |    |    |
+                      |    |    |        |      |    |    |
+                      |    |    |        |      |    |    |
+                      |    |    |        |      |    |    |
+                      |    |    |        |      |    |    |
+                      |    ¦    |        |      |    ¦    |
+                   no |_________|________|_____/|_________| --
+                   -------------------------- / --------------
+                                 ACiD Productions
+
+
+
+                   -------------------------------------------
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 08.Simple XB _ file_id.diz
+/_______\____\________________\____________\ ----------------------------------
+
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                         Productions
+                         Productions
+                         Productions
+                         Productions
+                         Productions
+                         Productions
+                         Productions
+                         Productions
+                    ACiD
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD Productions
+                    ACiD
+                       ____       ___ . ___  _____.  ____
+                     _/  _/__. _\_\  \|/  /__\    |_/  _/__.
+                    _\_      |/  /.  \_/  | /_____|\  __/  |
+                    | /      |    |   |   |   |   |   \    |
+                    |        |    |   |   |   |   |        |
+                    |        |    |   |   |   |   |        |
+                    |        |    |   |   |   |   |        |
+                    |        |    |   |   |   |   |        |
+                    |        |    |   |___|   |   |     XB |
+                  no|________|____|___|---|___|___\________|--
+
+                                ACiD Productions
+
+
+
+                  --------------------------------------------
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 09.Divine Stylers
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+                                                         .  ___._____________.
+                                                         |    \¦             |
+                                                         |     |             |
+                                                         |     |             | 
+                                                         |     |             |
+        _____     _   ________      __/      ________ ______   |             |
+  ______\    \____\/__\      /______\/_______\_      \\   _/______/          |
+ _\           /   /   /_    /    /       /    /      /    _/     /_          |
+ /______\_____\________\_________\_______\___/      /_____\_______\          |
+                                            /________\   .     .             |
+   _____     ________    ____ __   ____________          ._______  _____     |
+  /    /_____\      /____\__ \  \_/      /   _/__________|_      \/    /______
+ /_         /_     /_\     /     /      /    _/     /_   |/      /_ _        /_
+ /___________\______\____________\______\____\_______\___|\_______\_/_________\
+                                                      %no|     .             .
+  D i v i n e   S t y l e r s ! #                        |     |             |
+                                                         |     |             |
+                                                        _|___ \|_____________|
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 10.The Ascii Charts _ file_id.diz
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+                    ___________  _________\  _______
+                    \         /_/          \_\    _/________
+                   /_\        \/     -      /     \        /_
+                   -/__________\____/      /________________\
+                   +---------no!mmc/________\---------------+
+                   |                                        |
+                   |                                        |
+                   |  The Ascii Charts                      |
+                   ¦                                        |
+                   ·----------------------------------------·
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 11.Abstrakt
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+              _
+ _  __________\   ______      _____       _________ ___________________________
+  ._\          \_/     /_____/    /______/        /_ 
+  |/     -      /    _      /____        \       /_\
+  /_____/      /_____\_______\__/_________\_______\    O n e T w o T h r e e
+       /________\              /_                                   _
+                              _______________________ _____. _______/________
+                             _\          /\          \\    |/      /        /_
+     A b s t r a k t ! #     /  _/     _/_     -      /    /_     /_       /_\
+                            /___\         \___/______/______\______\________\
+ _______________________________ \_________\ no________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 12.Tribe
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+                             _._______________________.
+                             \|                      \|
+                              |                       |
+                              |                       |
+                              |                       |                
+                 _            |  _       ________     |   ________
+     ___________/_____________|__\/_____/       /_________\     _/________.
+    _\         /            /    /     /       _         /      _/        |
+    \/        /_\    /_    /_         /_       /        /_      \         |
+ «- /_________\_____\        \________\\\________________\________________| -»
+                     \________\no                     .
+                              .                       |
+                              |                       |
+                              |  tribe -              |
+                              |_____________________  |_
+                                                      ·
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 13.Ageema
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+                                                                       _
+                                     ._________________________________\
+                                     |                                  \
+                                     |                                   \
+                       _             |                                    \
+            .__________/             ¦   ______.                            _
+   _________|         ///____________.___\    _|_____________ ______________\
+.__\        \_       \_         /   _|       ._/     \      /      /         \_
+|/    -      /       ¦/        /   ._/       |        \    \/     /_    -     /
+/_____/     /________/        /____|_________|_________\____\______\____/_____\
+-----/_______\------/__________\no-- . -    -                                 .
+                                     |                                        |
+                                     |                                        |
+                                     |                                        |
+                                     |\_______________________________________|
+                                     ·
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 14.Dark Domain
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+           ._______________________________________________  _ _.
+           \                                                    |
+           |                             _                      |
+           |      ______                 \__________            |
+           ·______\     \_     _______ ___\_       /     _______·
+           _\            /_____\_    \_    /      /_____/      /
+           /________\____\            /____\_______\   /_     /_
+           .            /________\____\no!ACiD     /____\       \
+           |                                             \_______\
+           ______         ________ _______                __    .
+    _______\     \________\       \      /      __________\/___ |  _______
+    \        _    /    _   \_     \/    /_______\_   \_   /   /____\_     \_
+    /________\____\    /_   /     _\_____\            /_______\     /      /
+           .     /__________\/______\   /________\____\       /____/_______\
+           |                                      \_            .
+           |                                                    |
+           |                D a r k . D o m a i n               |
+           |                                                    |
+           |____________________________________________________|
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 15.Kempy
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+                          ____________________________._
+                        .)\                           |/
+                        |                             |
+                        |                             |
+                        |                             ¦           _
+               _____________       _____ _______    __________ ___\ _
+        ______/      /\   _/_______\    \       \___\_       /_\__ \ \_
+      _/    //      /_    _/      /_    \/       /   /______/    /    /_
+      \     \        \__ _\________\____/________\______\ _\           \
+ - -- /______\________\ no ------------------------------ /_____________\ -- -
+             _\         /                             |
+                        |                             |
+                        |     - Kempy / Aerosol -     |
+                        |                             |
+                        |                             |
+                        |_____________________________|
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 16.Aerosol
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+  _                                                                   _
+  \___________  ______        ________________  /_____     ________   /________
+  _\          \_\   _/________\_      /       \//   _/_____\       \_/        /
+  /     -      /    _/     /   /     /_     /  / __       /_    /   /        /
+ /_____/      /_____\______\___\______\ _______\___\_______\________\       /_
+ - -- /_______\no------------------------------------------------ /_ ________\
+
+    DARKUS . KARLOS . MUTE . NATIVE . DIPSWITCH . VOUCK . SPERMWHALE . KEMPY
+
+ - -------------------------------------------------------------------------- -
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 17.Bohema Records
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+                                   \ ________.
+                                   .\(       |
+                                   |         |
+                                   |         |
+                                   |         |
+                                   |         |
+                                   |         |
+     _____     ________       _______.______ ·    _____ _______       _____
+   _/    /_____\       \_/____|_     |\   _/______\    \      /_______\_   \_
+  _\          /    /    /     ./      /   _/     /_    \/      /\           /
+  /_____\_____\_________\_____|      /____\_______\_____\______\_______\____\
+  - ----------------------no /_______\     - . ---------------------------- -
+                                   .         |
+                                   |         | Bohema Records 1999 - 2003
+                                   |         | http://bohema.port5.com
+                                   |         |
+                                   !________ |_
+                                             ·
+
+
+                                   !________ |_
+                                             ·
+
+
+
+
+
+                                   !________ |_
+                                             ·
+
+
+
+
+
+
+
+
+                   Remember > YOU WATCHING "DESKTOP ADVENTURE"
+                   Remember > YOU WATCHING "DESKTOP ADVENTURE"
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                         /_______.
+                       .//       |
+                       |         |  ._________________ _
+                      /| _\    _ ¦  |                   \.
+                       |\___-___/·  |      Part Two      ¦
+                       /|   .    |  |\__________________ |_\
+                      (_|___·____|)    
+                    no  |       /
+                        `      `
+
+
+
+
+                        noches@poczta.onet.pl - requests
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 18.Seen
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+                                             ._/______________________________.
+                                            _¦/                               |
+                                            \|                                |
+                                             |                                |
+                              _              |                                |
+                    __________/              |                                |
+       __________  /         /_________________          _____________        |
+       \        /_/        _/         /      _/_________/      _      \_      |
+       _\        \         _/        /_      _/        /_      /       /      |
+       /__________\______\\\__________\______\__________\_____/_      / _     |
+       « ----------------------------------- . --   -      no/_________\      |
+                                             |                                |
+                                             |                                |
+                                             |                                |
+                                             |           - S E E N -          |
+                                            _|________________________________|
+                                             ·
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 19.Mimic
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+                                   . /_________
+                              _.__ |          /. __._
+                              \|  \|           |/  ¦/  
+                               |   |           |   |
+                               |   |           |   |
+                               |   |           |   |
+                               |   |           |   |
+                               |   |           |   |
+           _                   |   |           |   |                _
+      _____\ _______ __________  ______\ _______ __________  _______/ _____
+      \     \       \\        /__\      \       \\        /__\    _/      /
+      /     \/       /       /_ /_      \/       /       /_ /_    \      /
+  no /______/_      /____________\______/_      /____________\          /_mmc
+     ----- /_________\ ------- . - .   /_________\ . ------ /____________\
+                               |   ¦           .   |
+                               |   |           |   | 
+                               |   |           |   |
+                               |   |           |   |_ 
+                              _|___| M i M i C |___|\  
+                                   |_          |
+                                   _/__________|
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 20.Aids
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                _             _____\
+              ___________  _____/____  _______\_    \ ___________
+             _\          \_\        /__\      _/     \\         /_
+            /      -      /        /_ /_      \      /_\         \
+        -- /______/      /_____________\\\____________\___________\ --
+                 /________\no
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 21.Galza
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+                                       ._
+                                       |/
+                                       |
+                                       |
+        _______                        |          _       ______________
+      _/     _/_______ _____________  __________  \______ \             \_
+   /__\      \_      /_\            \_\        /___\_   /____    -       /
+     /        /       \      -       /        /       _/    /    /      /___
+    /__________________\_____/      /_       /_       \    /____/________\ /
+                          no/________\________\_____________\  /_
+                                       .
+                                       |
+                                       |
+                                      /|
+                                       ·
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 22.Mode2
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+                          . ________________________.
+                          |/                        |
+                          |                         |
+                          |                         |
+                          |                         |
+                          |                         |
+   ______\______  __________         \________  _______         _____
+.__\     \\     \_\    _    \_________\_      \_\ _   /_________\_  /_________.
+|  /     \/      /     /_    /\       _/       /  / _/       /     /_      /  ¦
+¦_/______/_     /_          /_        \       /_    \       /_            /__ |
+ - -no///________\___________\_________________\_____________\_____________\ -
+                          .                     \   .
+                          |                         |
+                          |                         |
+                          |                         |
+                          |        M o d e 2        |
+                          |_________________________|_
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 23.Halloween
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+                   _
+       ____________/___________ _  _.
+      .\)                           |
+      ¦                             |
+      |                             |
+      |                             |
+      |                             |  _
+ ________        ___________\__________\__________________.
+ \       \_______\_          \         /        /    _    |_
+  \       _       /   -      /_       /        /_    /     /
+  _\     ./   _ _/___/      /_\_______\_________\__________\_\
+///______|      /_  /________\___   ·
+      .|_________\   \          /____________        ______          __________
+      |              /         /      /    _/_______/    _/________\\\_       /
+      |             /         /\      \    _/      /     _/     /_    /      /
+      |            /___________\ ______\___\_______\_____\_______\___/_ _   /_
+      |                             .                             no/________\
+      |        - Halloween -        !
+      |                             |
+      |_____________________________|
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 24.Haciend
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+                                         ·
+                                         .
+                                         ¦
+                                         .
+_______          _________   ____.    ___!\________.       _________    _____\
+\      \_________\_       \_/   _|____\_ |_  /\   _|_______\_      /____\    )\
+ \      _       /    -     /_   \      /    /_    _/    /   /     /    _/     /
+ _\    ./      /_____/______\__________\_____\___ \_____\__/______\    \     /_
+///____¦      /_                                   \         %no\_____________\
+      /________\                   h A C I E N D
+                                         .
+                                         |
+                                         ·
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 25.Poise
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         ______________                   _
+      _\\\_           /             __    \________    ________
+    _/   |/          /________ _____\/_____\      /____\     _/__________.
+    \.   /____________\       \_    /     /______      \\    _/          |
+     ¦         |\        /     /_        /_     /       \    \           |
+  no |_________|_\ _____________\_________\_____________ \_______________|mmc
+                 _\ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 26.Wisek
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+                                  _____________ 
+                                ./            //.
+                               _|               |
+                              \ |               |
+                                |               |
+    ___________            _.   |           _________                _______
+   \\         /____________\|___________    \      _/_______________/      /_
+    /        /\         /       /     _/_____\     _/      /_      /_       \
+   /                   /       /___         /_     \        \      |\        \
+  /_________/ _________\______ \___\_________\_______________\_____| \________\
+                               _\               . no
+                                .               |
+                                |               |
+                               /|_______________|_
+                                ·
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 27.Evan
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+        _________        _____________
+  .__ _/       _/________\           /___________________
+  ¦  _\       _/          /         /      /             \_______________
+  |_ /________\___________\        /      /_     -        /      _       \_ _.
+  ·                 no/____________________\____ /       /_      /        /  |
+  |                                             /_________\_____/        /_ _|
+  |                                                            /__________\  ·
+  | EVAN/MAWi                                                                |
+  |                                                                          |
+  |                                                                          |
+  |__________________________________________________________________________|
+  ·
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 28.Music
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 _
+  .______ _____ ______.__________/    ______       ___\/__________ ___________.
+  ¦     _/    _/      |\        /____/     /______/       /|    _/______      |
+  |    _\     \/      |        /    /__          /       /_     \|     /_     |
+  |___ /_______\      |_           /___\_________\________\_____________\_\___|
+             /_________\____________\no
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 29.Index
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+                          ____________________________.
+                         .\                           |_
+                         |                            |/
+                         |                            |
+                         ¦          _____             ¦
+             _ /    ________________\_   \____________________ .______.
+        _____\/_____\_       /      _/    /_    _/       /    \|      |
+       _\        \   /      /_      \      \    _/      /_           _|_
+       /          \_/________\______________\___\________\_____|        \
+   <- /____________\no   .                            .     mmc|_________\
+                         | index             freelogo |
+                         | index             freelogo |
+                         |                            |
+                         |                            |
+                         | index             freelogo | _
+                     _  _|                            |/_
+                      \_\·/                           / /_
+                       \//___________________________ ___\
+                        /                            /_
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 30.Mimic
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       __________         ._   ___________          _.      ____
+       \        /______.__|/___\         /__________\|___ ./  _/_______.
+       _\      /       |  /     \       /       /    \    |   \        |
+   -no /______\/       |_________\_____\/      /__________|____________| mmc
+              /________|               /________\
+ 
+ 
+                      - M i m i c   P r o d u c t i o n s -
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 31.Aiuto
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ___________    ._/  ____________      .________________________\
+      .\          \.__|//__\          /______|        /                \.
+      |     -      |        \        /      /_       /_\       /        |
+ --no |_____\______|________ \_______________|________\_________________| mmc-
+                             _\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 32.Travis
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      _                     _
+  .___________________________________\__________         ._/ ._____ _____
+ _|        /_     _       /\           \.       /_____.__ |/__|     /   _/____.
+ \_       /_\     /      /_     -       |      /      |   /    \   /_         |
+  |________\______\       \_____\_______|_____________|__/______\_____________|
+                 no\_______\              \             /
+                                           \           /
+                                            \         /
+                                             \       /
+                                              \     /
+                                               \   /
+                                                 _/
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 33.Eagles!
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+             \____  _
+      ________\  //\/_______.
+    ./         \/           |
+    |                       |
+    | _____                 |                                   _____
+    |/   _/______.__________| _____       _______________     ./    /______.
+    |    _/      |         /|/   _/_______\        /   _/_____|            |
+    |    \       |    -     |    \_       /       /_   _/     |_           |
+    |____________|____\_____|_____/      /_________\___\______|/___________|
+    |                       |    /________|nommc%
+    |                       |
+    |    E a g l e s !      |
+   _| ______________________|\
+    ·
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 34.Gwei Lo
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    ._____
+                                                    |     \.
+       _____    __________        _____     .__/___ |      | ___________
+     ./   _/____\        /______./   _/_____|      \|      |/          /.
+     |    \_     |      /\      |    _/     |       \      |     /      |
+     |_____/_____|______/ ______|___|\______|________\     |___________ |
+                                              %nommc|______|_
+                                                           ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 35.Native
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+        _/___________
+      ./(           /.
+      |              |
+      |              |
+      |              | 
+      ¦ __________.__________._________  ._  __________     ______
+      ./          |         /|        /__|/__\        /___./    _/_____.
+      |    _      |    -     |       /_\      \      /    |     _/     |
+      |____\|_____|____\_____|________\        \__________|____|\______|
+      .              .                 \________\nommc%
+      |              |
+      |              |
+     _|_____________/|_
+      ·              ·
+
+
+
+
+
+
+
+
+
+
+                     ______
+      ______ ________\     \___________      Desktop Adventure
+ _____\     \\       _/     /_        /____  ----------------------------------
+_\           /       \       \       /    /_ 36.Preface
+/_______\____\________________\____________\ ----------------------------------
+
+
+
+
+
+
+
+
+
+
+
+   ____________                             
+ ./           / ______________     ._________/_________  _____      ______
+ |     _     /__\_      /   _/_____|       _/         /./   _/____./    _/____.
+ |     / ___/    /     /_   _/     |       _/    -     |    \     |     _/    |
+ |      | _ _____\______\__ \______|_______\_____/_____|__________|____|\_____|
+ |______| nommc%                                                              |
+ |                                                                            \
+ |                                                                            |
+ |                                                                            |
+ |                                                                            |
+ |____________________________________________________________________________|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   /__________
+                                 ./           |
+                                 ¦            |
+                                 ·            ·
+                             End Of The Collection!
+                                 .            .
+                                 |            !    
+                                 |____________|_
+                                 ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          _|________________________._
+                           |                        ¦/
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+ _______            _      i                        ¦               ____ ___
+ \      \___________\__________    ________ ________________________\__ \   \_
+ _\    _        /      /     _/___\        /_       \_     _     /    |/      /
+ /    ./       /      /____       /_      /_\    /   /_   //    /_           /
+/_____|       /_______\__ /________\_______\__________\___\______\          /_
+ --- /_________\ no!mmc--- . -                    - . ------- /______________\
+                           |                        |
+                           |     H i s t o r y      |
+                           |                        |
+
+          01. NO!NEON.TXT      NEON               THELOOP      03/2000
+          02. L124!D78.TXT     EURODISKKO'78      LINK124      04/2000
+          03. LOP-BUST.TXT     BLOCK BUSTERS      THELOOP      06/2000
+          04. L124-SDE.TXT     STYLE DEALERZ      LINK124      06/2000
+          05. L124-NEA.TXT     NEA IS THE KEY     LINK124      07/2000
+          06. LOP-AZUR.TXT     AZURE              THELOOP      08/2000
+          07. L124-ENI.TXT     ENIGMA             LINK124      09/2000
+          08. L124-FOR.TXT     NEW FORMS          LINK124      10/2000
+
+          09. L124-ASF.TXT     #ASCII FUCKERS     LINK124      01/2001
+          10. L124-UVS.TXT     UNDER VINYL SKY    LINK124      03/2001
+          11. L124-GOV.TXT     GAME OVER          LINK124      07/2001
+
+          12. K0-LEAVE.TXT     BEFORE YOU LEAVE   K0RE.        02/2003
+          13. M-DESKTO.TXT     DESKTOP ADVENTURE  MIMIC        11/2003
+                           .                        .
+                           ¦                        ¦
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |_/
+                           |                       /!/
+                           |                        |
+                           ¦                        |
+                   .__________                      |
+               ____|         //.                    |
+              .\ _ |           | .___               |
+              | _X |           | |   \_  __  __     |
+              | XX |           | |____/ /_/ _//     |
+              | XX :           |                    ¦
+        _____ : XX  ________ __|__      _________  ___  ._____   ____
+      __\  _/_____ _\__    //   _/___ __\___    /__\_/__|    /__/  _/_____
+     _\    \_    /   _/   //   _/   /.    |/   /.   /  /:    _/\_____    /.
+     \___________\___\____\____\_____|__________|_______|____|     |/_____|
+              : __ .           :                             |_____|h7/dS!
+              | XX |           | ._____  __  __
+              |_ X |           | |   _/ /_/ _//     .
+              "/___|           | |__/               |
+                   |___________|                    |
+
+                     Noches               Dipswitch/Aerosol
+                     Mimic                Dipswitch/Aerosol
+                     Welcome            The Founder/U'Race!
+                     Menu                    Azzaro/Link124
+                     Music                H7/Divine Stylers
+                     Credits              H7/Divine Stylers
+                     Greets               H7/Divine Stylers
+                     Respect            Farmazon/Sative Mea
+
+                           ¦                        ¦
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+              _____        _________ _____    _____   ____.   ____
+             _\  _/_____ __\__     //   _/__./   _/___\   |__/  _/____
+           _/    \_    /.   _/    //   _/   |   _/   \     _\___     /.  h7
+           \______/     |___\_____\____\____|___\____|_____|/___\_____|
+         <<------7______|---------------------------------------------->>
+
+          scene.au/scene.ca/scene.de/scene.fi/scene.pl/scene.ru/scene.nz
+
+                123.ACiD.Aerosol.Bohema.Link124.Mimic.Sative Mea
+                               
+                           .                        .
+                           ¦                        ¦
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+        _____ _______    _______    _________ _______     ______    _____
+   ____!    /_\  ___/____\  ___/___|  __    /_\  ___/_____\    /____\   /____
+  |   __    _ ___/     _  \___    _   l/     _ ___/     _  ___/    _   ___/  |
+  |   |/    !  \/      !    \/    !   /______!  \/      !   \/     !    \/   |
+  `---^-----^---^------^----^-----^-----'    `---^------^---^------^----^----'
+
+              Azzaro.Cybergod.Dino.Krs.Mogue.Mortimer Twang.Native
+                  Phreak Klass.Stezotehic.Vouck.WiseKid.X-ball
+
+                        Jediarts!.LookerHouse.LowProfile
+
+                           .                        .
+                           ¦                        ¦
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |__________              |
+                       ____|         //.            |
+                      .\ _ |           | .__        |
+                      | _X |           | |  \_  __  __
+                      | XX :           | |___/ /_/ _//
+                   ___:___ ______      :____       ___     _____
+               ____\  _   \_    /______/  _/_____ _\_/__ __\  _/_____
+              .\   \\//    /   /|   _/\_____    /.  /  /.\    \_    /
+              |_____\/    /.________|     |/_____|______|___________\
+                    /______|        |_____|h7/dS!
+                      : __ .           : ._____  __  __
+                      | XX |           | |   _/ /_/ _//
+                      |_ X |           | |__/
+                      "/___|           |            |
+                           |___________|            |
+                           |                        |
+                           |                        |
+                           ·                        ·
+           Belle And Sebastian                             Tiger Milk
+           (c) 1999 Jeepster Recordings Limited
+
+           Funkstorung                       Appetite For Distruction
+           (c) 2001 !K7
+
+           Ilkae                                     Pistachio Island
+           (c) 2002 Merck Records
+
+           Kid606                                      Ps. I love You
+           (c) 1999-2000 Mille Plateaux
+
+           Lackluster                           You Are On My Mind EP
+           (c) 2003 Mono211/Monotonik
+
+           Max Tundra                 Mastered By Guy At The Exchange
+           (c) 2002 Tigerbeat6
+
+           Skalpel                                          Sculpture
+           (c) 2003 Ninja Tune
+
+           Mouse On Mars                                     Idiology
+           (c) 2001 _Sound Improvement
+
+           Prefuse73                 Vocal Studies + Uprock Narrative
+           (c) 2001 Warp Records Limited
+
+           Jori Hulkkonen                     When No One Is Watching
+           (c) 2000 F-Communications                 We Are Invisible
+                           .                        .
+                           ¦                        ¦
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                           |                        |
+                          _| ______________________/i
+                           ·                        ·
+
+
+
+                                  Orginal Size
+                                    78.804kb
+
+
+
+
+
+@BEGIN_FILE_ID_DIZ
+
+--------------------------------------------
+Desktop Adventure _ Noches /Mimic Production
+----------------------------------[06/11/03]
+
+@END_FILE_ID_DIZ

@@ -1,0 +1,1702 @@
+[SOF]
+
+
+
+
+
+
+
+
+
+
+
+
+              En funksjon f er kontinuerlig i et punkt a i D(f)
+                          dersom følgende gjelder: 
+
+                    for enhver e>0, skal det finnes en d>0
+            slik at når x i D(f) og |x-a|<d, så er |f(x)-f(a)|<e.
+
+
+
+
+                                      .
+                              ja selvfølgelig !
+
+
+
+
+
+
+
+
+
+                                     .
+                                     |
+                                     |
+                                     |             a E R O S O l
+              - --------------- /    |
+                               // ---|--------------------------------------
+                                     !
+  __________  ________   _______ ________   ________    ________   ____.
+ _\______  /__\_____ /___\____ /_\____. /___\   ___/____\____. /___\   |_____
+/__  ___  / /    |______     |__/    \|   ________    /     \|   __    |    /
+ \   \l    /_    l     /_    |  \     l   /_    l/   /_mute  l   /_    l   /_
+/___________/___________/____| /___________/__________/___________/_________/
+                                     . 
+                                     | 
+                                     | 
+        /    darkus · karlos · vouck · blue · h7 · native · mute    /
+                                     | 
+                                     | 
+                                     | 
+                                     | 
+                                     | 
+                                     | 
+                                     | 
+                                     | 
+                                    -|--/-
+                                     ·
+
+                      is proud to present to the public
+                     another release in cooperation with
+
+                                     .  
+                                    -|--/-
+                                    .| 
+                                     |.
+                                    .| 
+                                   .·| 
+                                  .·:| 
+                                    ·| 
+                                     |:
+                                     | .  .
+                                     |  .
+                                    .|.:
+                                 .   |:.
+                                  . :|·
+                                 .·:·| 
+                                  :: | 
+                                  .::|.
+                                    :¦  
+                                     :  
+                                      · 
+      ___   _!_____                    .  
+     ! _____ |    /_    
+      _\    ||      |   : tHE hOLy lAbORAtORiEs oF :
+     |      |·      |                .
+     |     ___     __ /    __      __ /     ._     _   \ __     _.
+     |  __\\_ )_ _( _//_ _!_ )__ _( _//_ ___| )_ _!/_ _\\_ )_ _( !___
+  o .__[   \|  /[  ____/[  /__ /[  ____/[  __  /[   /[  __  /[  /   //__. o
+  _\!_____  ! ______ !   ___ !   ___ !     !  ________  !  _____|    ___!/_
+   ---- `-----' -- `-----' `-----' `----------' ---- `-----' -- `-----' --
+     |      .|      .
+   n7/aSl   ||______|     ~ jEBEDIAh   scIentiFIc ~
+     |______|_     ___!     refUgeE cAmp aLLstarS 
+            !
+
+            .
+            |    ,x¾¾x,
+            | ,x¾%^~~^%,
+            |x¾%^      ~,
+,          ,|¾%^ 
+^x,       ,x¾%|
+ ^%¾x,_,x¾¾#^ |
+   ^%¾¾¾%^~   |
+      ~       |
+              |
+              !
+                                 ._____            _____.   
+       unDer the dIRECt      ____|  _ ( ______     )    |___   ______ dKS!
+     jurisdiction  of the   _\ _ | /  /_\    /_____\   ____/___\  __/____
+        mAd pROfEsSOr!      \   \_/    _    /|    _    \|    _  __/     /
+             . ...         /_____|_____\__________\_____\____\__\|_______\
+              .
+              |
+              |                                                       . · 
+              |                              -/-------- - '. - ---- .:·
+              |                                                  . ·  ·
+              |
+              |
+           -/-|-
+              |
+              |
+              |
+              |
+              |                     .   
+              |                    ·.. .
+              |                     .·:.        
+              |                    .·.·::· .    
+             -/----.`- -                ·::·.   
+         _____   _____   _____  _____   _·::_   _____   __.     
+   __ __(___ /___\__ /___\__ /__\ _ /___\ __/___\ _ /__\_ |___ __
+   \  \ _,  / /_  /___/_   |__/ _`/  /_ /_,  /_ _`/  /_   l  /_ /_
+  /  /________ /_______/___|mute______/_______/_______/_______/  /
+                                          .·::.. .
+     - -'.----/-            - ---- .       · ::.· 
+              |                             · ·::·
+              |                                 ·::..  .
+              |                                 .· ··:·..  ·
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+            \-|-
+        - --\\|
+              |
+              |
+              |
+              |                                                  .____._
+              |         m A T H e M A T I C A l              .___|____|/
+              |                                              \   |    |
+              |          n.E.S.S.E.C.I.T.I.E.s               |   `----|-
+              |.                                             |        |
+ -\----._\----!_\---'__\---'__\----._\----._\---._\--l___\---!_\----._\---'__
+  _\  _/ _\|/__/_\/__,/_\/__,/_\|/__/_\l___/-\--'/_\ ,__/-\--'/ \|/__/ \/__,/
+  \___\__\______\______\______\______\______\_____\______\_____\______\______\
+          mute|    \                                         |        |
+              |     \                                        |____/   |
+              |      ·                                       ·   /----!-
+              |
+             _|           - the frustration !
+            -\|-- -
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+              |
+            ·,|
+           ,x^|
+        ,x%^~ |          ,x%¾¾x,
+      ,x%^    |        ,x¾%^~~^%,
+     ·¾¾(     |       ,x¾^      ~.                    · 
+      ^¾x,    |      ,x¾^                        - ---\\
+       ^%¾x,  |    ,x¾%^ _____  _____  _____   _____  _\___   _____   _____
+         ~^%¾¾|.,x%¾%^ __\__,/__\__ /__\__ /___\ __/__\__ /___\_  /___\__ /_
+            ~^|¢¾¢^~   \    __/   |__/  l___/_    __/ _, / /_ ,|___/_  l___/_
+              |       /______|____|mute______/_____|________/_______/_______/                 
+              |                                            \
+             -|--------------- -       -                   \\-
+              !   ·                                         ·
+                 :.     
+                  ·:.·               \\------------- -
+                -/-|-:----------------\
+                  .|:: .    
+              . .::|· ·    wELCOMe! to my twentieth asc²collection .. it 
+               .:·.|       feels great. but when planning it i had no idea
+               ·.  |.      of what this colly was to be about. all my so
+               .·  |       called inspiration had been used for my last
+              .    |       production. of wich i'm actually very proud of!
+                   |       
+                   |           but then i thought of what my mind is really
+                   |       working on these days .. math. as stated in     
+                   |       earlier colly's, i hate math. it stinks, but i
+                   |       have to take it since i'm fond of physics.. blah!
+                   |          
+                   |           i actually wonder what you all thought of the
+                   |       concept of my last "collection".. hmm .. more about
+                   |       that and my thoughts about the future of the  
+                   |       asciiscene later on in this colly..
+                   |       
+                 . |__         the aerosol memberlist have been a bit
+                  \| /     changed. devistator out, vouck in. welcome ! make
+                   \/      us proud .. hehe :) i, myselves, have become a 
+                   |\      cosysop at nightline. yIHA! make mE prOUD ! :)
+                   | ·     
+                   |           oki. this colly contains mostly requests
+                   |       i've done lately. i mostly use the old style from
+                   |       "alive!" and sometimes the "INT" style.. but to
+                   |       the small style i use for design here. it's 
+                   |       supposed to be a small version of the "alive!"
+                   |       style, but it looks quite standard. i hope no
+                   |       one will feel i've copied elements in their own
+                   |       style or something 'cause that has nEVER been
+                   |       the intention. it just "had" to look like that.. :) 
+           .       |       
+          -/-------|-                                   mute;aerosol;jEB;i^g
+           |  ~^[][|       
+           !     []|     hAVE a gOOD vIBe !
+                  [|                                  \\----- --- - .     
+                  ·|            ,    - ----------------\             ··:.  .
+                -/-|------ -    ~                                        · 
+                   |
+                   |
+                   |
+                   |
+                   |
+                   !
+
+                   .
+
+
+     .                            __ 
+ - --|------- -                 - \/------------------/ .
+   ·.|:::·                                           //-l._____________ _
+     |::                                                 !
+     |:     aSKII'S  iNCLUDED !
+     |.                                         messages        marlon brando
+     |                                          menu             .
+     |              nightline      4play        dino            dino 
+     |              resistance      .           divine stylers   .
+     |              rse -diz        .           jedi arts        .
+     |  `x,     .   simon king     simonking    basement         .
+  -/-|---^%x,---\-  the loop        .           darkus          - 
+     !     ^%x, \\  dwarf          dwarf        native           -
+             "~·|   kkz -diz        .           blue             -
+     .     _  __)   miles to go    shaolin      karlos           - 
+     |              sanitarium     saint        vouck            -
+     /-             letharic       letharic     brutal conflict red^blade
+                    twilight        .           bluebox          .
+                    tl!             .           project blueb    .
+                    genesis        james dean   ground ph. ind.  .
+                    marlon brando  marlon brando        .       _
+                    the zero netw.  .           h7   -  |       \       
+                                                        /        \\     ._
+/          -//                                    \  ___|__ _      ·     \ 
+            /------------------------------'.--- - \  / |            \     \
+                                                    \/  |            \     \
+                                                        |      / -- --\\   \\-
+                                                        |               \    \
+           for reasons not entirely clear,              !               _\
+     Doomsday Airlines books a daily shuttle service
+               from Altoona to Hoboken.
+
+
+         They offer two round-trip flights, one on a two-engine prop,
+               the other a four-engine prop plane. Suppose that
+              each engine on each plane will fail independantly
+        with the same prob. p and that each plane arrive safely at its
+        destination only if atleast half its engines remain in working
+          order. Assuming that you want to continue living, for what
+        values of p would you prefer to fly in the two-engine plane ??
+
+
+          \\-  ,x%¾¾%x,                      (from my statistics book)
+        .  \,x¾¾¢^~ ~^%;                   (simple question,  but funny)
+   ,·   |,x¾%^~      ;^~                        
+  (¢,  ,x¾%^ \          __              
+   ^¢¾%¾%^..-\\- ------\ /---------- )
+      ~.|:·:·. ·        /
+        |::·.          /_
+        |·:. .
+        |:·
+        |: .
+        |.  
+        |
+        |
+        |
+        |
+        |
+        |  A               s A M P L E    S
+        |       _____   _____   _____   _____P __.     _____
+     .  |     __\ __/___\__ /___\   /___\__ /__\ |_____\__ /_
+      . |     \ /__  /_ _, / /_ _  / /_    __/   l  /_  l___/_      _______
+      ·:|    /________/_______/__\/___/_____|________/_______/    __)  ___/_
+       .|·                                          A            _\_____   /_
+        |: .                                           C         \     /    /
+        | :    - ----------------  //                 .    E    /__________\
+        |· .                      /    -  ------  .:·        .
+       :|                                           ·             " S "  ,
+       .|  
+        |: 
+        |.
+    -/ -|-
+       ·!
+      .
+
+  
+
+
+
+
+
+
+                                  / ---------  nIGHTLINe  / -- .`-
+
+
+
+
+
+
+
+
+
+               .
+               |    \ ------  -
+·        - --\-|----\\                                       ·    \
+.     .        |        . nIGTHLINe .   --- -                \\     \
+ :.·           ·                                               \    \\
+·::.·     .______   .______   .______   .___      .__._          \    ·
+½x;· .  \-`/__  /_\-`  .__/_\-` _._ /_\-`   |___\-`  |/___    - \      \\
+¾¾%¢x,  _\  l/   /_\---\\  /_\   |/  /_\   ._  /_\   ____/_      \      \
+^%¾¾¾½¾½\   /_   __\    \  __\---l   __\   |/  __\   \   __\     \\  \--- -
+  ~^%¾¾/_____/____\_________\_________\____\____\_________\           \
+     ~^",      .                                   ~^mute'   -    ----\\
+               |              .___       .______   .______   .______
+               |            \-`   |____\-`  .__/_\-`/__  /_\-`/__, /_
+               |            _\    |   /_\---\\  /_\  l/   /_\  |____/_
+               |  \-        \     l    _\    \  __\  /_   __\  l    __\
+            ---|-  \       /___________\_________l____/____\_________\
+               ·              ________ _
+                        -- //       - -------- ----- - '
+
+
+
+
+
+
+
+
+
+
+                                  / --------- rESISTANCe / -- .`-
+
+
+
+
+
+
+
+
+
+
+        .______ .______   .______   .______   .______   .____
+      \-` ___ /_`/__, /_\-`   __/_\-`  .__/_\-`   __/_\-`   /___
+      _\ '  |__/  |____/_\___._  /_\---\\  /_\___._  /_\   ____/_
+      \     | \   l    __\   l/  __\mute\  __\   l/  __\   l   __\
+     /______|/__________\_________\_________\_________\_________\
+            |
+            |                    .______   .______   .______   .______
+--  r E S I S T A N C e  --//   ______ /_\-`/__  /_\-` _   /_\-`/__, /_
+            |              /   _\ _._ / /_\  l/   /_\  /____/_\  |____/_
+            !              /---\  \l    __   /_   __\  \    __\  l    __\--.
+-/-- -  cRACK iNFO!  - ---//  /__________l____/____\_________\_________\
+            .
+
+
+
+
+
+
+
+
+
+                                  / --------- rSE - dIZ. / -- .`-
+
+
+
+
+
+
+
+
+ \---------/ - -- > rESISTANCe < -- /
+ |·  .______   .______   .______    !
+ ! \-` ___ /_\-`/ ,__/_\-`/__, /_  __
+   _\ '\ |__/_\_____  /_\  |____/_ \|
+   \     |  __\   )/  __\  l    __\ |
+  /______|___\_________\_________\  l
+                           ~^mute; -/
+  /----- -                          ·
+  |                                 
+  :                                 
+  .
+
+
+
+
+
+
+
+
+
+
+                                  / --------- sIMOn kINg / -- .`-
+
+
+
+
+
+
+
+.    .     _______   _______   _______   _______   _______
+  ·.:.·   _\   __/___\  .__/___\_.   /___\__._ /___\___. /___
+  . ·:.· /_______   /,--\\    /  |  .   /'  |/    /   \|    /
+     ·:.  \_   )/  /_     \  /_  |  |  /_   l    /_    |   /_
+     . : /__________/_________/__l__l___/_________/____l____/
+___    .:
+\ /      .      _     _____.     ________   ________   ________
+-/{ sIMON KINg }/--/ _\    |_____\   .__/___\____. /___\____. /___  /----- -
+                  ///_     l    /_,--\\    /    \|   __    \|    ///
+                     \     .  _/ /_    \  /_     |   /______l   /_
+                    /______|______/________/_____l____/    ______/
+                                                           \ mute
+
+
+
+
+
+
+
+
+
+                                  / ---------  tHe lOOp  / -- .`-
+
+
+
+
+
+
+
+
+    tHE  ..     ______.     _________   _________   _________
+               _\     |_____\____._ /___\____._ /___\_____, /_  /- -    \\ --
+    .. lOOP ! /_      |    /'    |/    /'    |/    /       __/  !        \
+               \      l   /_     /_   /_     /_   /_ mute   |      - ---- \
+              /____________/___________/___________/________|   ·
+
+
+
+
+
+
+
+
+
+                                  / ------------  dWARf  / -- .`-
+
+
+
+
+
+
+
+
+                       ._____ ___.        _________ ________ ________
+    __            _____|    /_\  |--._____\_____  /_\  ___ /_\  ,___/_
+ /    /  /__  /  /_   _|_  / /   |  |   /  _._   / /   \ |__/      __/  /__  /
+                  \   \l    /_   l  l  /_  \l     /_     |mute,     |
+                 /___________/__________/__________/_____| /________|
+
+
+
+
+
+
+
+
+                                  / ---------- kKz - dIZ / -- .`-
+
+
+
+
+
+
+
+
+   ____.    ____.       ______
+  _\   |____\   |_______\__  /_
+ /_    |   /_   |   /_  ____/ /
+  \mute. _/ /_  . _/ /_ \'   /_
+-/_____l_____/__l_____/_______/-
+
+
+
+
+
+
+
+
+
+
+                                  / -------- mILEs tO gO / -- .`-
+
+
+
+
+
+
+
+             ________   _______   ____._     ________  ________
+  .mILEs    _\ ,    /___\  .__/___\   |/_____\_____ /__\   ___/___
+   To gO.  /_   _  //  /--\\     /    |     /   |______,_____    /
+            \   \  /  /_    \-  /_    l    /_   l     /_   )/   /_
+           /_____\/____/_________/__________/__________/_________/
+                                                          ~^mute;
+               _____.   _______           ________   _______             /-
+    // ----- -_\    |___\__._ /___       _\____. //__\__._ /___- ----- //
+  -/         /_     ___/_  l/    /      /_    \| /  /   l/    /
+              \     l   /_ /_   /_       \_____l   /_   /_   /_
+             /___________/_______/      /     ______/_________/
+                                   -  -- -------'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                 .
+                                    eOS !          --  -   - ----|-_/-
+                                                                 |
+                                                                _|__ .
+                                                                \| //
+                                                                 \ /
+                                                                 |\
+        \                                                        |
+         \                                                       |
+          \\    a N     e S T I M A T I O N                      |
+    _____ \ _____  ___.   ____   _____    ____  ___.   ____   ___|_   _____
+  __\_, /__\\ __/__\  |___\,_/___\   /___(__ /__\  |___\,_/___\ _ /___\_, /_
+  \  /___/_ /__  /_  ,__//_ \ /_ _  / /_ _, / /_  ,__//_ \ /_ _`/  /_  /_  /_
+ /________/_______/_______/____/__\/___/_______/_______/____/_______/___/___/
+               \                                         · ·::.·.|;mute^~
+      o F    t H·E    p A S T    e V E N T S  h(1) - h(k)   .·:::|
+                \\                                            .:.|
+                 \                                             ·:|
+                   \                                          . :|
+                    ·    aSCII sCENE - cHANGES are cOMMINg.     .|
+                                                                 |.
+         nowadays more and more ascii collections are mostly     |
+    gift collies. nothing bad about that, but why ? about        |
+    every ascii artist have to ask for requests. why ? one       |
+    easy answer: the need for ascii's are decreasing. rapidly!   |
+    fewer and fewer amiga boards are operative, not so many      |
+    ppl actually need ascii-logos. so why are wE, the artists    |
+    still active? i hope it's because we enjoy it. but i must    |
+    ask.                                                         |
+        how long will you enjoy to make all those gift collys?   |
+        and beg for more requests to fill up a colly.... ?       |
+                                                                 |
+         not for too long i guess. so then : changes!            |
+                                                                 |
+    again: why are we artists active ? i can ofcourse only speak |
+    for myselves .. :   i enjoy it. for me it's recreation. and  |
+    that's what is most important to me... ofcourse it's fun to  |
+    have the logos i draw used, but there are limited of req-    |
+    uests. then i got this idea to make a colly with my fav.     |
+    music artists. it seemed fun. and as you know: that's why i  |
+    keep on drawing. this was in '97. but i never got any far.   |
+         later i made "Listen to the Beat". it was fun to make.  |
+    no requests. the colly was entirely dedicated to music. and  |
+    the "review" by dipswitch in tac0899.txt:                    |
+                                                                 |
+        "... i'm asking myselves who could use use that logos,   |
+         but nevertheless it's pleasant to view..."              |
+                                                                 |
+         first: i don't care at all about who could use them     |
+    logos. it was never my intention to make logos for others    |
+    to use. second: thanx, my intention was to have fun, and     |
+    make it pleasant to view. so to my point:                    |
+                                                                 |
+         if we always think of who'll use our logos, then many   |
+    artists will get fed up by doing the same all the time, and  |
+    because of the decreasing amount of requests..               |
+         we should try to think more innovative, experiment with |
+    our collections, try to make them different in structure     |
+    and intention.                                               |
+                                                                 |
+         so then i made this collection dedicated to the eritrea-|
+    ethiopia conflict. (asl-int.txt) perhaps it illustrated my   |
+    point a bit to the extreme, but it had to look like that..   |
+    why did i make it? curiosity. pure curiosity for this forgot-|
+    -ten conflict. i learned a lot. and if you read it, you'll do|
+    that too... so that was the intention of it. i learned alot, |
+    had fun, and hope you'll learn something too if you find it  |
+    pleasant to view...                                          |
+                                                                 |
+         yet i've had little feed-back on this collection. but   |
+    if the asciiscene want to survive some of these changes, more|
+    feedback from other aritists and sceners are needed. 'cause  |
+    up till now, the feedback has been in a form of how much     |
+    your ask² are used. and i think the ascii charts are a step  |
+    in the right direction !! but more reviews should become more|
+    objective and larger. (= more interresting)                  |
+         but all you others have a repsonsibility to tell what   |
+    you think of other collections. and hopefully in another way |
+    than "you lame ripper" or "your style stink like dogshit".   |
+ ·,,_                                                            |
+   ~^%x,    pLEASe tHINk aBOUt iT !!!.                           |
+      ~^%,                                                       |
+        ^%,                     mute^aerosol^jEBEDIAh prod^i"g   |
+ - -------½,------ /-- -                                        -|-/(
+          ;%'                                                    !
+         ,%^
+         %!
+         ^%,      if the k·th moment of a random variable exists,
+           ~.      
+                      all moments of order less than k exist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  / --------- sANITARUIm / -- .`-
+
+
+
+
+
+
+
+
+
+   .____   ._____  ._____   .___   ._     ._____  ._____ ,_   ._ __   .____
+ \-` __/_ ____  /\-`_._ /_\-`._/_\-` |__ _____ /\-`,__ /__/_\-` / /_\-`   /_
+ _\___  /_\ _._//_\  l/  /_\-\  /_\  __/_\ _._//_\ / |__/  /_\ /_  /_\   _./_
+ \   /  __\ \l  __\  /_   _\    __\  l  _\ \l  __\   |mute __\ ,/  __\\  / __\
+/________\_______l____/___\______\______\_______\____|______\_______\__\/___\
+                    .
+          .::.   .:·  ·            sANITARIUm           /
+        .··  ·::··                                     // -  -
+
+
+
+
+
+
+
+
+
+                                  / ---------- lETHARIc  / -- .`-
+
+
+
+
+
+
+
+
+
+           _______ _  lETHARIc  - ' .---  -
+    ____.  \ _______  ____.    ____.      ________ _______ ____   _______
+   _\   |____\____ /__\   |____\   |/_____\____  /_\ ___ /_ ._/___\_.  _/__
+  /_    |   __ |_____/    ____/_  _._   /  _._  / /  \ |__/-\   __  |_____/
+   \    l   /_ l     /_   l    /_  |/  /_  \l    /_    |     \  /_  l     /_
+  /__________/________/_________/__/____/_________/____|mute_____/_________/
+
+
+
+
+
+
+
+
+                                  / ---------  tWILIGHt  / -- .`-
+
+
+
+
+
+
+
+                                                ·..
+                    \  -- -                 . ·..·.·
+   ____.    ___.      ______  ____.     ______:·_______   ____.     ____.
+  _\   |____\  |-.____\ .__/__\   |_____\  ._/__\___. /___\   |_____\   |____
+ /_    ____/   | |  ____\\   /    |   ____\\   /   \|    /   _._   /    ____/
+  \    l   /_  l l  /_    \ /_    l   /_    \ /_____l   /_    |/  /_    l   /_
+ /__________/________/_______/_________/_______/    _____/____l____/_________/
+                                 ·.·                \mute^~
+                               ·.:·
+                            ·  ·.          / -  ------  -
+                             ·
+
+
+
+
+
+
+
+
+
+                                  / --------- tL! - dIZ. / -- .`-
+
+
+
+
+
+
+
+
+ tl!    ____.    ____.     ___:
+       _\   |____\   |_____\  |
+      /_    ____/    |   ____ |
+  --- -\    l   /_   l   /_-\ |- --/
+  mute/__________/________/  ;!_
+                             \l
+
+
+
+
+
+
+
+
+                                  / ----------  gENESIs  / -- .`-
+
+
+
+
+
+
+
+
+      .
+  · ::_______   _______   _______   _______   _______   _______   _______
+   :·_\___. /___\____ /___\___. /___\____ /___\  ___/___\  .__/___\  ___/___
+  :·/_   \|    /  |_____/    \|    /  |_____/_____._   /---\\    /____._   /
+ .   \____l   /_  l     /_    |   /_  l     /_    l/  /_mute \  /_    l/  /_
+   /     ______/_________/____l____/_________/_________/_________/_________/
+·         \
+
+
+
+
+
+
+
+
+
+                                  / --------- mARLOn bR. / -- .`-
+
+
+
+
+
+
+
+
+
+       _______    ________ _______ ____.     _______   _______             .
+      _\_.   /____\____  /_\ ___ /_\   |_____\___. /___\___. /___         /
+     /_  |  .   /  _._  / /  \ |__/    |   __   \|    /   \|    /   mARLOn
+      \  |  |  /_  \l    /_    |mute   l   /_    l   /_    |   /_      /.
+     /___l__l___/_________/____| /__________/_________/____l____/      /
+                                                                    bRANDo
+   _____       ____.     _______  _______ _______      ._____ _______/
+'--\   /---/  _\   |_____\ ___ /__\___  /_\___. /______|    /_\___. /___
+    \ /      /_   _|_  __  \ |__/ _._  / /   \|    /  _|_  / /   \|    /
+     /_       \    `/  /_    |    \l    /_    |   /_  \l    /_    l   /_
+             /__________/____|/__________/____l____/_________/_________/
+
+
+
+
+
+
+
+
+
+
+                                  / ----------  kUNg fU  / -- .`-
+
+
+
+
+
+
+
+                                                   .
+  \\------- -  KUNG FU!  --  . `  -- -            /    /
+   \    ____.    ____.     _______   _______      /  _______  ____.
+       _\   |____\   |_____\___. /___\___. /___     _\ ,___/__\   |_____
+      /_    |   /_  ,|    /   \|    /   \|    / /  /_     ___/   ,|    /
+       \    . _/ /_ \l   /_    |   /_\___l   /_//   \       |    \l   /_
+      /_____l_____/_______/____l____/    _____/    /________|mute______/
+                                    _  __\
+                                            /  marlon brando^the zero network
+                                          //
+                                         /               kUNG fU
+     edit this shit ! make it how like it..
+
+
+
+
+
+
+
+
+
+
+
+                                  / ----------  kUNg fU  / -- .`-
+
+
+
+
+
+
+
+
+
+
+
+
+                           < - tHE zERO nETWORK - >
+      ____.      ____.     ______    ______           ______    ____.
+   __(    |_____(    |____(___._/___(___,_/__      __(   __/___(    |___
+   \__    . __/_    _|_  \_   |/   \_   l/   \_    \__    ___/     _|_  \_
+   _/     |    /_   \l    /_  |     /_  /     /_   _/    '  |mute  \l    /_
+   \______l_____/__________/__l______/____,    /   \________|/____________/
+                                      -/______/-
+- --/   kUNG fU !  / ----------- - .                     -/
+                                 ` - -- -                // -  --  ·
+
+
+
+
+
+
+
+
+
+
+
+                                  / ----------  kUNg fU  / -- .`-
+
+
+
+
+
+
+
+
+
+
+                     tHe zERo nETWORk
+                                                  ·
+       .___       .__  __   .______   .______ · .·    .______   .__  __
+     \-`   |____\-`  \l /_\-`/_._ /_\-` _._ /_ :. . \-`  ___/_\-`  \l /_
+     _\    |   /_\   _\  /_\   l/  /_\   |/  /_ ·:  _\  ' ___/_\   _\  /_
+     \     . _/ _\   \l  __\   /_  __\---l   __\.   \     \ | \    \l  __\
+    /______l____\_________l_____/___\_________\mute/________|/__________\
+
+                       k U N G   f U
+
+
+
+
+
+
+
+
+
+
+
+                                  / ---------  mESSAGEs  / -- .`-
+
+
+
+
+
+
+
+    ---------------------- \ -     mESSAGES !
+    ______   ______  ______   ______    _______ ______   ______  ______
+   _\_.  /___\___ /__\  __/___\  __/____\____ /_\__. /___\___ /__\  __/___
+  /_  | .   /  |____/___._   /___._   / _._  / /  \|    /  |____/___._   /
+   \  | |  /_  l    /_  l/  /_   l/  /_ \l    /____l   /_  l    /_  l/  /_
+  /___l_l___/________/_______/________/________/   _____/________/_______/
+                                            '      _\             ~^mute;
+                     ---- / ---------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Let Y have the pdf:          /y+r-1\            y=0,1,...
+                                  f(y)=\  y  /p^r*q^y     
+
+          Show that W=(r-1)/(r+Y-1) is an unbiased estimator for p !
+
+                                      ?
+
+
+
+
+
+
+
+
+
+
+
+
+                                    --\\            _ __
+   _____  _____  __.    _____ ___.    __\__  _____  __./  ____  _____  _____
+  _\ _ /__\__ /__\ |____\__ /_\  |____\__ /__\__ /__\ |___\_./__\ _ /__\_,_/_
+  \  /__/_ l___/_  l  /_ l___/_ -l, /_  |__/ _, / /_ ,__//_ / /_ `/  /_  |/ /_
+ /_______/______/______/______/______/__|mute______/______/____/______/__l___/
+                                            \      .           ·
+               .  .·.                        \\---/-- - ------ : - /
+      ,x%,   . . :·       cELEBRATIOn !          ·             |
+    ,x%~^%x,:.:··.                                             |
+   ,x^ . .;%x: .                                               |
+   %¾. .::·^%$        my twentieth ascii collection !          !
+   ^%x;.·:.x%^     weeey . i would have never guessed it to
+    ·^%x,;x%       come true this soon half a year ago. when
+  .   ·~%%^        i had just made sixteen, and was quite far
+      ,%~          from making another one. but this autum
+      %^           have been pretty productive...
+      %,
+      ^%,                 i'm aMAZEd !! .                            __ //-
+       ^%                                                            \ /
+        %'            nOW i've reached one of my goals in the       _\\
+       ;^          ascii scene. the other goal of mine is to beat
+      `.           snuffy in the amount of released collections.
+                   the trouble is that he's not sure wether he've
+                   released 20, 21 or 22 ... hmm.. do anyone of
+           .       you know ?? hehe.. :)
+           |       i gotta have a serious talk with the fellah !!
+           |
+          -!------ -
+
+
+
+
+
+
+
+
+
+
+
+                                  / -----------   mENU   / -- .`-
+
+
+
+
+
+
+
+                  ________   ________  ________   _____.
+ /  mENU !       _\__.   /___\____  /__\____. /___\    |____    \\-----/- -
+ /              /_   |  .   /  |______/mute\|    /    _|   /-----\
+//--|------------\   |  |  /_  l      /_    |   /_    \l   /_
+    |           /____l__l___/__________/____l____/__________/          /
+    |                                                                  |
+    |                                                                  |
+    |                                                                  |
+    |                              edit yourselves. make the frame     |
+    |                         how you like it .. it's just an example. |
+    /------------/                                                     |
+                //----------------- -                           ---  - \
+
+
+
+
+
+
+
+
+
+                                  / -----------   dINO   / -- .`-
+
+
+
+
+
+
+
+                       .____ ______   _______   _______
+       dINO .     _____|   /_\ .__/___\___. /___\___. /___
+                 /_   _|_ / /__\\    /   \|    /   \|    /
+          \  --   \   \l   /_    \  /_    |   /_    l   /_ --  /
+                 /__________/________/____l____/_________/
+                                                  ~^mute;
+
+
+
+
+
+
+
+
+
+                                  / --------- dIVINe sT. / -- .`-
+
+
+
+
+
+
+
+
+
+               .____ ______   ____.     ______   _______   _______
+          _____|   /_\ .__/___\   |_____\ .__/___\___. /___\____ /__
+         /_   _|_ / /__\\    /   _|,  ____\\    /   \|    /  |_____/
+          \   \l   /_    \  /_   \l   /_    \  /_    |   /_  l     /_
+         /__________/________/_________/________/____l____/_________/
+                                                             ~^mute;
+                          S   T   Y   L   E   R   S
+
+
+
+
+
+
+
+
+
+                                  / --------  jEDI aRTS  / -- .`-
+
+
+
+
+
+
+
+                                ·/
+                               //
+                             / /
+      .____ ______      .____/______       _______ _______ ___.     _______
+ _____|   /_\___ /______|   /_\ .__/__   __\____ /_\____ /_   |_____\  ___/___
+/_    |  / /  |____/   _|_ / /__\\   /  /_  _._ / /    |__/   ____/______    /
+ \    l   /_  l    /_  \l   /_    \ /_   \  \l   /_    |mute  l   /_   )/   /_
+/__________/________/________/_______/  /_________/____|/__________/_________/
+                        /
+                       //        jEDI ARTS !
+                       /
+                      ·
+
+
+
+
+
+
+
+
+                                  / ---------  bASEMENt  / -- .`-
+
+
+
+
+
+
+
+
+
+
+               .       '.- \   b A S E M E N t !   \ -.`
+              /
+   ____.    //_______ ______   ______  _______   ______  ______   ____,
+  _\   |___/__\___  /_\  __/___\___ /__\__.  /___\___ /__\__. /___\   |____
+ /_   _|_  _  _._  / /___._   /  |____/  \| .   /  |____/  \|    /,   ____/
+  \    l/  /_ \l    /_   l/  /_  l    /_  | |  /_  l    /_  |   /_    l   /_
+ /__________/________/________/________/__l_l___/________/__l____/_________/
+        /·              ./                                           ~^mute;
+        /              //    blsh blah ..
+  - --//-------- -    /                                           - ---- /
+      ·             /                write waddeva you want !           //
+                    /
+                   ·                                               '.-- -
+
+
+
+
+
+
+
+
+
+
+                                  / -----------  dARKUs  / -- .`-
+
+
+
+
+
+
+
+               .____  ________ _______ ____.    ____.     _______
+          _____|   /__\____  /_\____ /_\   |____\   |/____\   __/___
+     /   /_   _|_ / / _._   / /   `|__/   \|   /_  _|_   /____._   /   /
+          \   \l  ,/_ \l    ,/_    |mute   , _/ /_ \l  ,/_    l/  /_
+         /__________/_________/____| /_____l_____/_______/_________/
+
+
+
+
+
+
+
+
+
+
+                                  / -----------  nATIVe  / -- .`-
+
+
+
+
+
+
+
+
+
+
+
+           _______    ________ ____.    ______   ____.     _______
+          _\___. /____\____  /_\   |____\ .__/___\   |_____\____ /__     - .`
+     /   /_   \|    / _._  _/ /   ,____/--\\   __   _|_ .__  |_____/   /
+ ` -      \    |  ,/_ \l    ,/_    l   /_   \ ,/_   \l  ,/_  l     /_
+         /_____l____/_________/_________/_______/_________/_________/
+                                                             ~^mute;
+
+
+
+
+
+
+
+
+
+
+
+                                  / -------------  bLUe  / -- .`-
+
+
+
+
+
+
+
+
+
+                   ____.     ____.     ____.     ______
+        .         _\   |_____\   |_____\   |_____\___ /___mute  - -/-
+        |-       /_   ,|_   /    |   __   _|_   /  |_____/         |
+        `.        \    l/  /_    l   /_   \l  ,/_  l     /_       .'
+          -  //  /__________/_________/_________/_________/  //  -
+
+
+
+
+
+
+
+
+
+
+
+
+                                  / -----------  kARLOs  / -- .`-
+
+
+
+
+
+
+
+
+
+           ____.     ________ _______ ____.     _______   _______
+    .     _\   |_____\____  /_\____ /_\   |_____\___. /___\  ___/___
+   // -- /_    |   /_ _._  / /    |__/    |   __   \|    /____,_   / -- //
+    |     \    , _/ /_\l    /_    |mute   l   /_    l   /_    l/  /_    -\- -
+    .    /_____l_____/_______/____| /__________/_________/_________/
+
+
+
+
+
+
+
+
+
+
+                                  / ------------  vOUCk  / -- .`-
+
+
+
+
+
+
+
+
+
+
+             ____.     _______   ____.     _______  _____.
+            _\   |_____\___. /___\   |_____\_.  _/__\    |____mute
+           /_   _|_ .__   \|    /   _|_  /   |_____/     |   /_
+-  ---\\    \   \|   /_    l   /_   \l  ,/_  l     /_    , _/ /_      - --
+     -/--- /__________/_________/_________/_________/____l_____/  --- '. -
+
+
+
+
+
+
+
+
+
+
+
+
+                                  / ------------- hSEVEn / -- .`-
+
+
+
+
+
+
+
+
+
+
+
+                   .    ·
+                   |    |
+        ____.    __|____:  _______  ____.    _______  _______
+       _\   |____\   __/___\____ /__\   |____\____ /__\___. /___
+-- /  /_   _._  _______   /  |_____/   _|_  __ |_____/   \|    /  / - ---- -
+       \    |/  /_   )/  /_  l     /_  \l   /_ l     /_   |   /_
+      /_____l____/________/_________/________/________/___l____/
+            ~^mute;|    :
+                   |    |     . h S e v e n .
+                   !    ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  / ------ bRUTAl cONFLICt / -- .`-
+
+
+
+
+
+
+
+
+
+
+
+           ____.     _______ ____.     ____.     ________ ____.  bRUTAL
+          _\   |_____\____ /_\   |_____\   |_____\_____ /_\   |_____
+         /_   _|_  __    |__/   _|_  /    .____/  _._  / /    |   __
+          \    l/  /_    |mute  \l   /_    l   /_ \l    /_    l   /_
+ --//    /__________/____| /__________/_________/________/_________/
+   /
+  //-   -       -- >        >                          -   -  -------  -  \ -
+   _______  _______  _______  _______  ____.    _______  _______  ____.
+  _\_.   /__\___. /__\___. /__\  ___/__\   |____\  .__/__\_.   /__\   |____
+ /_  |_____/   \|   __  \|   __    ___/    |   ____\\   __ |_____/   ,____/
+  \  l     /_   l   /_   |   /_      |     l   /_    \  /_ l     /_   l   /_
+ /__________/________/___l____/______|__________/________/________/________/
+
+           // -  -                                       - \    cONFLICT
+          /     ___
+   - ---.       \ / -- - >                                  \\ ---
+        `--- --  \
+
+
+
+
+
+
+
+
+
+
+
+                                  / ----------  bLUEBOx  / -- .`-
+
+
+
+
+
+
+
+
+
+
+
+                           - /  b L U E b O X  / -
+        ____.    ____.    ____.    _______  ____.    _______  ____.
+       _\   |____\   |____\   |____\____ /__\   |____\___. /__\   |_____
+      /_   _|_  __   |   __  _|_  /  |_____/   _|_  __  \|   ____ l    /
+       \    l/  /_   l   /_  \l   /_ l     /_   l/  /_   l   /_ / . __/_
+ /  - /__________/________/________/________/________/________/___|    /_ - /
+                                                           ~^mute;l_____/
+
+
+
+
+
+
+
+
+
+
+
+
+                                  / ------ pROJECt bLUEb / -- .`-
+
+
+
+
+
+
+
+
+
+
+
+
+
+        _______ _______ _______      .____ _______  _______  ____.
+   \ - _\____ /_\____ /_\___. /______|   /_\____ /__\_.   /__\   |____
+      /_     __/    |__/   \|   __   |  / /  |_____/  |_____/   ,____/  - /
+       \      |     |mute   l   /_   l   /_  l     /_ l     /_   l   /_
+      /_______|_____| /__________/________/_________/________/________/
+
+                 -      p R O J E C t   b L U E b O x      -
+        ____.    ____.    ____.    _______  ____.    _______  ____.
+       _\   |____\   |____\   |____\____ /__\   |____\___. /__\   |_____
+      /_   _|_  __   |   __  _|_  /  |_____/   _|_  __  \|   ____ l    /
+       \    l/  /_   l   /_  \l   /_ l     /_   l/  /_   l   /_ / . __/_
+ /  - /__________/________/________/________/________/________/___|    /_ - /
+                                                           ~^mute;l_____/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  / ----- gROUNd pHLOOR i / -- .`-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             _______  _______ _______  ____.    _______      .____
+            _\___. /__\____ /_\___. /__\   |____\___. /______|   /_
+           /_   \|   __   |__/   \|   __  _|_  /   \|   __  _|_ / /
+            \____l   /_   |mute   l   /_  \l   /_   |   /_  \l   /_
+           /    ______/___| /__________/________/___l____/________/
+         \_______\
+                      _______  ____.    ____.    _______  _______  _______
+                     _\____,/__\   |____\   |____\___. /__\___. /__\____ /_
+ \-   gROUNd   -/   /_      __/   _,_  __   |   __  \|   __  \|   __   |__/
+               //-- -\-,     |     |/  /_   l   /_   l   /_   l   /_   |---- /
+   \   pHLOOr       /________|_____l____/________/________/________/___|
+
+
+             I    N    D    U    S    T    R    I    E    S    !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  .
+                  |
+                  |
+                  |
+                  |
+                  |
+                  |
+                  |
+                  |
+                  |
+               -\-| ----------- \ credits: sCIENtIfIc aId .. \ ---- -    -
+                __|__   _____  _____    .___   _____  ___.     _____
+              __\._ /___\__ /__\__ /____|_ /___\ ._/__\  |_____\ __/_
+·,  ,x%x,   ,x\   /__/_   |__/  l___/_ (l / /_`--\\ /_  ,__//_ /__  /_x%x,
+ ~^x^~ ~^*x*^/________/___|mute______/_______/_______/_______/_______/~ ~^*x,,
+                  |                                                         ~
+           - ---- |-\-
+                  |      mAd professor    :   mute·aerosol·jEB·i^g
+                  |
+                  |      junior scientist :   native·aerosol·blackArk
+                  |      engineer         :   darkus·aerosol
+                  |
+                  |      la programa      :   cygnused3.5 & dIED2.8
+                  |
+                  |      sound waves ..   :   lamb, depeche mode, bjørk ..
+                  |                           the roots, jamiroquai ..
+         _        |                           k&d sessions ..
+         /   _  __|_     ____
+       //___ \    |
+                  |
+                  |  bORINg bUt rEADAbLe rEPORTs to..
+                  |
+                  |     snuffy . vegard! . folar . boheme . 4play
+                  |     woober . taxi . nicomen . daeron . bird
+                  |     speed devil . vouck . godfather . karlos
+                 .|     blue . wisek . darkus . dipswitch . nup
+                 .|     vegard! . letharic . zaner .repe . acid^kg
+                .·|     frenzy . shaolin . letharic . fatal . h7
+          .   ·.::|·                 # ascii ++ ..                 .
+           .·.:·.:|.    \--- -                                     |
+  - ----/ ----.:·-|-----\\                              - ---------/
+             ·::· |
+             · :: |      fOr eVEn mORe bORINg rEPORts oR 
+              . ·:|    (in)sAne rEQUESts ..  .
+                 .|·
+                  |:.·          carstee@stud.ntnu.no 
+                  | :·     or
+                  | .:          jebprod@hotmail.com
+                  |.:
+                . |:.·  mute  -  at #ascii and #amielite  at IRCnet
+                 .|:
+                 :|. ·
+              . · |        jEBEDIAh productioNs hOMEpAGe : .. (oh dear)
+                :·|
+               · :|     http://www.ifi.ntnu.no/~carstee/ascii .
+              ·   |.                                        get my colly's
+                  |.                                           there ..
+                --|--------/                               (-under constr.)
+                 ·|       //-------------- - 
+                . !
+                      ask²
+                  .     rESPECt..        mogue markryder mortimertwang
+                  |                              snuffy tango
+                  |                                                _ .___ _
+                 -!---- . ` -                                       '
+
+
+
+
+
+
+                  /  Theorem 8.3.1  /
+
+
+                       If T:V->W is a linear transformation, then the
+                       followingn are equivalent..
+
+
+                      .. (a) T is one-to-one.
+                        .(b) The kernel of T contains only the zero vector;
+                             that is, ker(T)={0}.
+                       . (c) nullity(T)=0.
+                      
+
+
+
+
+
+
+                      - -- -
+                  .          aEROSOl:                     -   - -----/
+                  |                                                  |
+                  |     darkus.h7.vouck.native.blue.karlos.mute      ·
+                  |      hq: the yard bbs .
+                  |
+                 -!--- \ ----- -
+
+                  .     
+                  |
+                 -|-/                                   ____
+                  |                                    \\  //--- -
+                  !__.     _____   _____  ___.     _____ \\_____   .___
+                 __\ |_____\.__/___\ __/__\  |_____\ _ /___\__ /_,-|  /_
+                 \   _  /__ \   /_ /__  /_  ,__//_ _`/  /_   |__/\_. / /_
+                /____(___/_______/_______/_______/_______/___|__________/
+   --- -----/     .               . ·:.·                        ~^mute;
+           //-----|----------- - ·.:·  ·
+-nUMba-/          |              ·   ·             -\       sIze
+      /           | ..aNd sO sUSPICIOUSLy            \\----.       oUt: 
+    -//-fILE..    |                       nAMEd..         `------ ------ -
+                 -!-/------ ---  --   -
+
+ ·01  twow.txt        tERRIBLE wASTE oF wORDS                46.6k 04'94
+  02  tnc-1asc.txt    fIRST aSCENSION                        64.8k 07'95
+ ·03  tnc-fufs.txt    fUTURE fASHION                        121.5k 08'95
+  04  mute-fop.txt    fROZEN oRANGE pROJECT                  65.2k 09'95
+ ·05  i^g-nex.txt     nO eXCUSES                             67.8k 12'95
+  06  i^g-ICM.txt     iNNER cORE oF mE                       63.0k 02'96
+ ·07  i^g-ms.txt      mARE sERENITATIS                       99.3k 03'96
+  08  i^g-OM.txt      oLYMPUS mONS                           48.2k 06'96
+ ·09  i^g-spj.txt     sPINELESS jELLY                        43.2k 08'96
+  10  i^g-dh.txt      dUBAI hAREM                            43.5k 08'96
+ ·11  i^g-sfg.txt     eARTHQUAKE iN a sTORMY fLOWER gARDEN  103.2k 10'96
+  12  i^g-hop.txt     i lOVE hOPSCOTCH                       64.5k 11'96
+ ·13  i^g-elab.txt    eLABORATe bURn                         54.2k 03'97
+  14  i^g-room.txt    rOOm 2o8                               51.0k 05'97
+ ·15  mute-lf.txt     lIFEFORMs                              51.4k 10'97
+  16  mute-al.txt     aLIVE!                                 29.2k 07'99
+ ·17  asl-ltb.txt     lISTEn tO tHe bEAt                     54.2k 08'99
+  18  asl-com.txt     cOMMUNICATIOn rELATIONs                55.8k 09'99
+ ·19  asl-int.txt     fORGOTTEn bY tHe iNTERNATIONAl pEOPLe  71.0k 10'99
+  20  asl-mat.txt     mATHEMATICAl nECESSITIEs               51.3k 10'99
+
+
+    - ----------------------------/- -
+
+
+
+
+
+
+
+
+            okey. that's it. a bit few ascii's but what the hell.
+             i didn't have all the inspiration in the world when
+              making it.. but ok. what i really wanted with this
+              colly was to get rid of some waiting req's, and to
+             write some shit about my last colly, and the scene .
+
+                       i have just caught a damn cold !
+
+                              have a nice day !
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ          ____  ____      ____   -dKS!
+___.______\_ /__) _/______\  /______.___
+¾¾¾|      _.  \ \_____._ \ _/       |¾¾¾
+¾¾¾|      \|  /       |/ / \        |¾¾¾
+¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯
+   |    aEROSOL ^ jEBEDIAh prod.    |
+   |           gives you            |
+   |                                |
+   |    mATHEMATICAl nESSECITIEs    |
+   |            by mute             |
+/--!--------------------------------!-\'@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+
+                sPREADsITES :  tHE yARD (asl-hq) and nIGHTLINe
+
+                           theyard ?  zaner's ip :)
+                            nightline.darktech.org
+
+
+
+
+
+
+
+
+
+                                                  aND
+                                ·
+                         .  . .·.· .      thE eXAM aPROACHEs !
+                           ·.:·  .
+       .. i sTARt tO . .·.:·  ·
+               ________ ·_______ ________  _______  ________
+              _]/____,/__\___, /_]/___. /__\  .__/__\__,  _/__       \\--
+   --------\ /_     ___/ _._  / /- --\|   /--.\\   /   |_____/ \----- \
+            . \     \ |  \l  ·_/_;    |  /_mute \-/_   l     /_     ___
+       .   . /________|_________/_____l___/________/__________/     \ /
+        ..:.·  .                                                     /
+  . .·.:··.                                 /---- -      pANIc !     .
+   ..·.                                  -//
+·.:· ·
+. ·
+
+
+
+
+
+                                      .
+
+
+                 another time it might have been so different
+                       if only we could do it all again
+                   but now it's just another fading memory
+               out of focus, thought the outline still remains
+
+                                                           -genesis
+                                      .
+
+
+
+
+
+
+                              · future is ours ·
+
+
+[EOF]

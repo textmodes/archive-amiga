@@ -1,0 +1,1904 @@
+
+
+ " THiS FiLE FOUND THE WAY THROUGH ONE OF THE FiNEST BULLETiN BOARD SYSTEMS "
+                        _ _____        ___   ______
+                               )_  __ _| (___) _  )_
+                              __/__) (_    |   |___/
+                       _ ___  |   |___|    |__
+    · _____________ _    c!|______|mSS|____| |______ _  _ _____________ ·
+ _ _:_\              ____       ____      _____      ____             /_:_ _
+    |             ___\  (_   ___\  (_   __\_  (_   __\  (_              |
+    |            _) _/   /___)  _   /___) _/   /___)   _ /__            |
+    |           /   \      /    \_    /   \      /     /   /            |
+    |           \___       \_____/    \____\     \__   \   \            |
+    |             \  _______\   /______\    \  ___\ \_______\           |
+    |              \/                        \/                         |
+    |                                                                   |
+    |               ÷  THE YARD BULLETiN BOARD SYSTEM  ÷                |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                       WORLD HEADQUARTERS OF                       |
+    |                                                                   |
+    |      AEROHOLiCS (GRAFFiTi) ÷ ARCADE (ASCii) ÷ B-GiRL (MUSiC)      |
+    |          SOUL SURViVORZ (HiPHOP MP3) ÷ THE ASCii CHARTS           |
+    |                                                                   |
+    |                      GERMAN HEADQUARTERS OF                       |
+    |                                                                   |
+    | SiCK OF iT ALL (GRAFFiTi) ÷ LOW PROFiLE (ASCii) ÷ OMEN (GRAFFiTi) |
+    |      UP ROUGH (AMiGA) ÷ PHUNK (ASCii) ÷ 1OO PERCENT (AMiGA)       |
+    |                         MENACE (DAYDREAM)                         |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                CONSOLES/AMiGA/ASCii/LiNUX/DAYDREAM                |
+    |             GRAFFiTi/DRUGS/CLASSiCS/HiPHOP/CHiPTUNES              |
+    |                                                                   |
+    |           2 NODES 33k6 / 2 NODES iSDN / 4 NODES TELNET            |
+    |                                                                   |
+    |           DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS!            |
+    |                                                                   |
+    | ZANER/AEROHOLiCS^ARCADE^SOiA -/- DiPSWiTCH/AEROHOLiCS^ARCADE^1OO% |
+    | HASH/AEROHOLiCS^PANZERKNACKER^SOiA -/- NiNJA/PARADOX^HiGH_SOCiETY |
+    |                                                                   |
+ _ _|__   " THE iDEA OF STYLE iS THE KEY TO ALL FORMS OF ROCKiNG "    __|_ _
+    · /_______________________________________________________________\ ·
+
+@BEGIN_FILE_ID.DIZ _________                    
+ \ __ __ / OFF WORLD PRESENTS 
+  \\_|_//    `VISITORS` BY    
+   \ _ / ZITO/APATHY^OFF WORLD
+    \_/       ON 22.07.99     
+            ASCII-COLLECTION
+@END_FILE_ID.DIZ
+ 
+ 
+ 
+ 
+ 
+____(\·------------------------ ----  ---  -- - -     -        - 
+      \)·           AUTOKNACKER UND 18 JAHRE STOCKBETT
+
+            yOOOOm - tHIS fILE pASSED oNE of tHE lAST! - yUUhU!
+
+                           NO TIME FOR CRITICISM            ·(\ ____
+          -      -  - ---  --- -------- ----------------------·\)
+
+
+
+
+
+
+                      ________________________________
+                      \                              /
+                       \                            /
+                        \   ØØØØØØØØØ  ØØØØØØØØØ   /
+                         \   ØØØØØØØØ  ØØØØØØØØ   /
+                          \   ØØØØØØØ  ØØØØØØØ   /
+                           \   ØØØØØØ  ØØØØØØ   /
+                            \   ØØØØØ  ØØØØØ   /
+                             \   ØØØØ  ØØØØ   /
+                              \      ..      /
+                               \            /
+                                \          /
+                                 \   __   /
+                                  \      /
+                                   \    /
+                                    \  /
+                                     \/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     ZITO / APATHY ^ OFF WORLD ^ ZETEC
+
+                                     IN
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     AN
+                                                 _____
+       _____  ______ ______   |       |  _____  |_____) |       _____|
+      (_____) _|_    _|_      |___|___| (_____) |     \ |_____ (_____|
+               |      |
+
+                                 PRODUCTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                   CALLED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              _____ ___ ________  ____  __________ ________ _
+             (_____|   |___ ____((____))_     ___//      _/__)
+               ____|   |___)_____|_   | /    /____\_      \
+               \   |   |___/     _/   |/    /|  -  )      /
+                \      |   |_     \   |____/  \    \_____/
+                 \     |   |      /   |  /  |  \    \
+                  \____|   |_____/____| /   |   \|__/ [zZ]
+              _______ |    | _________ /    |    \ __________
+             (_______||____||_________\\_________//__________)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  A NEW COLLECTION OF TEXT & AZKEE ART...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         ________
+         \ _  _ /
+          \\||//
+       ____\  /____ ________
+     /\\    \/    //   ____/ READ NOW THE INTRODUCING WORDS, EARTHLING...
+    /  \\     .: //___/
+   /   _\\      /      WHILE LISTENING TO THE SOUNTRACK OF `HANA-BI` - A
+  / __/   \    /  REALLY  GREAT JAPANESE MOVIE - I THOUGHT I SHOULD AT LAST
+ /_/       \  / FINISH  THIS  COLLY BEFORE ENTERING MY NEW AZKEE CREW CALLED
+          /|\/|\ `LAYOUT` FOUNDED BY MY DEAR  FRIEND  AZTEC/ABSURD^SECTOR7.
+         / |  | \ IT`S JUST A COMPILATION OF OLDER LOGOS DIDN`T USED BEFORE
+        /  |  |  \  BUT FILLED UP WITH AN INTERESTING TEXT, I GUESS. WELL,
+       /   |  |   \      CHECK IT OUT AND REQUEST SOME NEW LOGOS!
+      /____|  |____\[zZ]                                          YOUR ZITO!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     SCENE IS A GOOD DRUG TO FORGET REAL LIFE! REAL? WHAT IS REAL???...
+
+                                                     (A SCENER)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /     `PUNISHER`        \\  /
+      \//                      O¹ \ ¯  ¯ / o1                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+                                ____
+            ______    __  __ __(____)______ __ __  _____  ______
+           /   _  \__|  \/  \  \____/   __//  |  \/  _  \/  _   \[zZ]
+           \    __/  |   \      \   |_    \       \      \     _/
+            \   |\_______/__\   /   |     /\__|   /   ___/__|   \
+             \__|            \_/\   |\___/    |__/\____/    |___/
+            === also in 1999 === \__| == punisher swaps again ==
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: PUNISHER/APATHY
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  // THANX FOR LET ME JOIN APATHY! C U SOMETIMES IN POLAND...  /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ DIE BESUCHER - THE VISITORS - LES VISITEURS - TÂJ POSJÈTILAC - EL VISITORS
+
+ ONE OF MY FRIENDS READ A BOOK ONCE AND AFTER HE FINISHED IT HE DISAPPEARED
+ WITHOUT LEAVING A TRACE. BEFORE HE VANISHED HE TOLD ME ABOUT THIS FABULOUS
+ BOOK AND ITS TOPIC - ALIENS ON EARTH!!!  SOME OF HIS `FRIENDS` SAID HE HAS
+ GONE BECAUSE OF HIS LOVE OVERSEA.   OTHERS THOUGHT IT WAS BECAUSE HIS DRUG
+ PROBLEMS WITH ONE OF THE LOCAL DEALERS. I DON`T UNDERSTAND HIM LEAVING HIS
+ HOMETOWN. I SAW NO REASON IN HIS ACTION UNTIL I READ THE BOOK HE  TOLD  ME
+ ABOUT.  LET ME TELL YOU NOW WHAT I READ THERE ABOUT THINGS HAPPEN ON EARTH
+ EVERYONE CAN IMAGE BUT DON`T BELIEVE IN IT. LET ME TELL YOU THE TRUTH...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /       `ANGEL`         \\  /
+      \//                      O² \ ¯  ¯ / o2                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+                                                   __
+                      _____  __ __  _____  _____  /  |
+                     /  _  \/  \  \/  _  \/  _  \/   |__
+                    /       \      \      \      \   |  \[zZ]
+                   /    |___/__\   /__    /   ___/______/
+                   \    |       \_/ /    /\____/
+                    \___| d U S t!  \___/
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: ANGELDUST/R.N.O.
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  // NA, WAS DENKST`DE DENN ÜBER DIE STORY? UND `DAS SYSTEM` ? /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ OF  COURSE  HAD  I  SEEN THE `X-FILES` AND I FOUND IT VERY INTERESTING AND
+ ENTERTAINING TOO BUT I WAS NOT A BELIEVER  AS  MULDER  SHOWED  ONE.  DON`T
+ THINK  NOW THAT I WAS AN IGNORANT WHO SAID THAT THERE COULDN`T BE ANY FORM
+ OF LIVE IN THE UNIVERSE. I THINK PEOPLE TELLING THIS  ARE  STUPID  BECAUSE
+ THEY  HAVE  NO  KNOWLEDGE  ABOUT THE SIZE OF IT. NO IMAGINATION! WITH PURE
+ MATHEMATICS IS ANOTHER LIFEFORM ONLY IN OUR GALAXY POSSIBLE AT LEAST ABOUT
+ TEN THOUSAND DIFFERENT OTHER KINDS THEN US!!! AND THERE  ARE  BILLIONS  OF
+ OTHER  GALAXIES  OUT  THERE. OF COURSE WOULD IT BE A BIG PROBLEM TO TRAVEL
+ BETWEEN TWO GALAXIES BECAUSE OF THE VERY LARGE DISTANCE  EVEN  IF  WE  HAD
+ THE  WARP-TECHNOLOGY,  BUT  WHAT  COUNTS  IS  THAT ANOTHER LIFEFROM SURELY
+ EXISTS.  THE  ONLY  QUESTION  IS  IF IT WILL GET IN CONTACT WITH THE HUMAN
+ RACE OR MAYBE STILL HAS CONTACTED OUR  GOVERNMENTS  WHICH  ARE  BUSY  WITH
+ HIDING THEM FROM US...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /     `ANGELDUST`       \\  /
+      \//                      O³ \ ¯  ¯ / o3                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+                                       _
+          _____  __ __  _____  _____  / |   ____    __  ______ øøø
+         /  _  \/  \  \/     \/     \/  |__/    \__|  \/   __/øøøøøøøø
+        /       \      \  \   \  \   \  |  \  \  \ |   \_    \øøøøøøø
+       /    |___/__\   /__    /   ___/_____/  /  /_____/     / øøø
+       \    |       \_/ /    /\____/       \____/      \____/  øø
+        \___| = in`99 = \___/ = angeldust / mantra^rno^zetec = ø[zZ]
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: ANGELDUST/R.N.O.
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  // EIGENTLICH EIN LAUSIGES TEIL? HAST`S TROTZEM BENUTZT! :-) /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ONE NIGHT I DECIDED TO START READING THE BOOK.  ABOUT  ONE  YEAR  AFTER MY
+ FRIENDS  DEPARTURE.  HE  WAS ONE OF MY BEST FRIENDS AND IT WAS HARD FOR ME
+ LOSING HIM SO I HAD TO WORK UP AT FIRST THE THINGS THAT HAPPENED.  IN THIS
+ NIGHT  I  FELT  LIKE I HEARD A VOICE TELLING ME ABOUT MY FRIEND I TRIED TO
+ FORGET. THE VOICE FORCED ME TO STAND UP AND GO INTO THE OTHER ROOM  OF  MY
+ SMALL  APARTMENT  IN  MIDTOWN. I WENT TO THE BIG CUPBOARD ON THE LEFT SIDE
+ AND OPENED ITS BIG DOOR. I TOOK THE SHORTS AND JACKETS BESIDE AND SEARCHED
+ FOR A LITTLE BLACK BOX. I DIDN`T KNOW WHY I DID THIS BUT I DID! AND THEN I
+ FOUND IT AND I KNEW WHY I NEEDED IT. IT WAS THE BOX WITH A FEW THINGS FROM
+ MY  FRIEND. I REMEMBERED! I TOOK THE BOX OUT OF THE CUPBOARD AND OPENED IT
+ AND THE FIRST THING I SAW WAS THE BOOK...  FASTLY I SNATCHED AT IT AND RAN
+ BACK  INTO  MY  SLEEPING  ROOM  AND  JUMPED  INTO  MY WARM BED LEAVING THE
+ CUPBOARD AND THE DOORS OPEN. I SWITCH THE BEDLIGHT ON AND  STARED  AT  THE
+ FRONT PICTURE OF THE BOOK IN MY HANDS...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /       `R.N.O.`        \\  /
+      \//                      04 \ ¯  ¯ / o4                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+                           _______  __ __  _____
+                          /   _   \/  \  \/     \
+                          \      _/       \  |   \
+                           \__|   \___\   /______/[zZ]
+                          = r |___/ n  \_/ = o ==
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: THE REST RAVERS...
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  //  CRAID (DO YOU REMEMBER ME???), ROZ (I LIKE YOUR MSX!!!)  /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I WAS SCARED FOR THE FIRST SECONDS. IN THE FIRST  MOMENT  I  HAD  THE  BAD
+ FEELING  I  HAD  ALREADY SEEN THE PERSON ON THE BOOK BEFORE. BUT PERSON IS
+ THE WRONG WORD FOR WHAT WAS  PRINTED  THERE.  IT  WAS  RATHER  A  CREATURE
+ WATCHING ME. PARANOIA TOOK CONTROL OVER ME AND I HAD  TO  THROW  THE  BOOK
+ AWAY.  AFTER SOME MINUTES OF REST I GOT THE COURAGE TO STAND UP, CATCH THE
+ BOOK, THAT  WAS  LYING BENEATH THE LITTLE HI-FI TOWER I BOUGHT MYSELF LAST
+ MONTH FROM THE MONEY I HAD TO WORK A HALF YEAR FOR,  AND RETURN TO MY BED.
+ I TOOK ME A HEART AND START AGAIN DISCOVERING THE BOOK MY FRIEND LEFT  ME.
+ THE CREATURE ON THE COVER SHOWED THE TYPICAL ALIEN FACE ONE  COULD SEE ALL
+ OVER  THE  WORLD  THESE  DAYS. EVERYWHERE. BIG BLACK EYES LIKE SEAS WITH A
+ LITTLE  GLITTERING  IN  IT. EYES I WILL NEVER FORGET! A SMALL MOUTH LIKE A
+ THIN LINE ONLY A VERY FINE PENCIL CAN DRAW. A TINY NOSE BETWEEN THEM - NOT
+ AS DOMINATING AS THE HUMAN  ONE - WITH  TWO HOLES THAT SEEMED TO REACH THE
+ MOUTH NEARLY. A LONG FACE WITH A POINTED CHIN. IF ONE HAVED LOOKED CLOSELY
+ ONE COULD SEE SHADES OF A LONG, THIN NECK, NOT EASY TO  SEE.  I  WAS  MORE
+ THAN  FASCINATED  BY  THE  PICTURE OF AN ALIEN PERSON, BUT SO KNOWN FOR ME
+ WITHOUT ANY REASON. AFTER WATCHING AT IT FOR A WHILE I  TURNED  THE  FIRST
+ PAGE AND ONE PART OF A SENTENCE CAME STRAIGHT TO MY EYES:  ...A TRUE STORY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /        `SUSY`         \\  /
+      \//                      05 \ ¯  ¯ / o5                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+                                          ¼¼¼
+                         ______    __  ____¼¼¼   ½½¼
+                        /   __/___|  \/   __¼¼¼ ¼¼¼
+                        \__   \   |   \_    \¼½¼¼¼
+                        /     /_______/     / ½¼¼
+                        \____/= susy =\____/ ¼¼½
+                                            ½½½
+                                           ½½½[zZ]
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: PUNISHER/SUSY
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  //  I AM STILL WAITING! ALSO YOU TOLD ME NOTHING `BOUT SUSY! /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I KNOW ENOUGH PEOPLE WHO CLAIMED TO TELL THE ONLY AND HOLY TRUTH,  BUT ALL
+ OF THEM HAD AT LEAST ONE HOLE IN THEIR STORY THEY TOLD SO MANY TIMES  THAT
+ THEY WERE NOT SURE IF THEY TOLD IT ALWAYS THE SAME WAY - THE SAME TRUTH...
+ TELL ME, READER,  WOULD YOU BELIEVE PEOPLE TELLING YOU THAT ONLY THEM WERE
+ REAL,  SAW  THE  LIGHT AT THE END OF THE TUNNEL???  I  CAN TELL YOU THAT I
+ WON`T. FOR SURE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /   `RAVE NETWORK...`   \\  /
+      \//                      06 \ ¯  ¯ / o6                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+                            _____          _____
+                          |     / \ \     /     |
+                          |    /   \ \    \    _|
+                          |   / /   \ \  | \
+                          |    /     \ \ |  \
+                          |   /   ____\ \|   \
+
+                                  r a v e
+                         _____  ______  _____   _____
+                    |\  /     ||       |    / |     / |
+                    | \ \    _|| |     |   /  |    /  |
+                    |  \ \     | |     |  /   |   / / |  /
+                    |   \ \    | | |   | /    |    /  | /
+                    |    \ \   | |_|_| |/     |   /   |/
+
+                               n e t w o r k
+                    _____   _____   _____
+                   |    /  /     ||     / |   / \     |\
+                   |  \/   \    _||    /  |__/   \    | \
+                   |  /\  | \     |   / /   /|    \   |  \
+                   | /  \ |  \    |    /   / |     \  |   \  _ _
+                   |/    \|   \   |   /   /__|_ ____\ |    \ /_/_
+
+                              o v e r s c a n
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: PUNISHER
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  //  A STRANGE ONE, HE? JUST AN EXPERIMENT! N-JOY OR FORGET!  /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ONCE,  A  WHILE BEFORE MY FRIEND DISAPPEARED, I HAD A VISION. AN AUTHENTIC
+ ONE THAT SEEMS SO REAL IN MY MEMORIES THAT I STILL FEEL ITS PRESENCE TODAY
+ EVERYTIME I AM THINKING ABOUT IT.  I DON`T KNOW IF IT IS OR WAS NECCESSARY
+ FOR THE TOPIC OR FOR THE VANISHING OF MY FRIEND,  BUT IF OR IF NOT I THINK
+ IT IS BETTER TO TELL IT RIGHT HERE THAN TO CLOSE IT FOREVER IN  MY  BRAIN.
+ MAYBE IT WILL HELP TO UNDERSTAND MY OPINION AND THOUGHTS  ABOUT THIS STORY
+ OR AT LEAST GIVES YOU SOMETHING YOU CAN READ AND PERHAPS TALK  ABOUT.  AND
+ HERE IT COMES...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /       `MANTRA`        \\  /
+      \//                      07 \ ¯  ¯ / o7                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+                                           ____
+              /\    /\      /\      /\    /    \    /\      /\
+             /  \  /  \    /  \    / /\  /      \  /  \    /  \
+            /    \/    \  / /\ \  /    \/_      _\/  _/_  / /\ \
+           /            \/  \/  \/      \/      \/      \/  \/  \
+          /              \       \       \       \       \       \
+         /                \       \       \       \ |\    \       \
+         \_______/\_______/_/\____/__/____/_______/_| \___/_/\____/[zZ]
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: ANGELDUST
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  // SORRY, NUR EIN OLD STYLE! ABER`S IS`JETZT JA AUCH EGAL... /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    IT HAS BEEN A FINE DAY,  THIS SUNDAY.  I HAVE BEEN ON TOUR WITH SOME
+    FRIENDS OF MINE, INCLUDING THE SPECIAL  ONE,  AND  MY  BELOVED  GIRL
+    FRIEND,  IF YOU COULD HAVE CALLED IT BELOVED IN  THAT AGE I WAS THAT
+    TIME.  BIKING THROUGH THE ROUGH LANDSCAPE OF OUR COUNTRY WE HAD FELT
+    THE ENERGY OF NATURE AND THE STRENGH OF OUR  BODIES.  IT  HAS  BEGAN
+    WHEN WE HAD PAUSED  FOR  A  WHILE,  NOT  TALKING,  JUST  TO  RELAXE.
+    SOMETHING HAD HAPPENED, BECAUSE THE NEXT THING  I  REMEMBERED WAS ME
+    TAKING A SHOWER LATE IN THE EVENING OF THIS DAY.  I HAD NO KNOWLEDGE
+    WHAT HAPPENED BETWEEN THIS BREAK AND THE MOMENT I WAS STANDING IN MY
+    BATHROOM IN A WARM RAIN.  IN A FEELING OF DISORDER I HAD MADE ME DRY
+    AND HAD WENT TO BED. BUT I HAD NOT BEEN ABLE TO FALL ASLEEP SO I HAD
+    BEEN  LYING IN MY  BED FOR HOURS WATCHING THE CEILING OF MY CHAMBER.
+    LATE AT NIGHT I HAD BEGAN TO WENT TIRED  BUT  SUDDENLY  I`D  FELT  A
+    POWER  OF  UNKNOWN  ORIGIN  THAT FORCED ME TO STAND UP AND GO TO THE
+    WINDOW AND WATCH OUT OF IT.  I  HAD NOT BEEN ABLE TO BELIEVE IN WHAT
+    I  HAD  SEEN  ON  THE SKY THIS NIGHT. IT HASN`T BEEN THE MOON AS THE
+    MOST PEOPLE I TALKED WITH ABOUT LATER TRIED TO TELL MY. WELL, IT HAS
+    BEEN SIMILAR TO IT BUT IT HAS BEEN SO MUCH BIGGER THAT THERE HAD NOT
+    BEEN MUCH SPACE LEFT FOR SOME STARS.  IT HAS TAKEN THE WHOLE SIZE OF
+    MY  WINDOW.  FROM  THE  RIGHT  END  `TILL THE LEFT. AND IT HAS HAD A
+    STRANGE YELLOW-LIKE COLOR.  FULL.  EXCEPT SOME SMALL AREAS WHERE THE
+    SHADOWS OF A FEW MOUNTAINS AND CRATERS HAD TAKEN PLACE. JUST LIKE ON
+    THE MOON BUT IN OTHER POSITIONS AND NUMBERS.  LATER  WHEN  I SAW THE
+    ANIMATION MOVIE WHERE WALACE & GROMMIT FLEW TO THE MOON BECAUSE THEY
+    THOUGHT IT WAS MADE OF CHEESE  I  REMEMBERED  THIS  NIGHT.  I  CAN`T
+    REMEMBER  TODAY  THAT  I  HAD LEFT THE PLACE ON THE WINDOW. THE ONLY
+    THING THAT COMES INTO MY MINDS IS ME - STANDING ON THE OPENED WINDOW
+    AND WATCHING THIS SKY-THING WHICH HAS BEEN MAYBE A PLANET.
+    THIS  TIME  IT HAS BEEN JUST AN EXPERIENCE FOR ME THAT MOST  OF  THE
+    OTHER  KIDS HAD TRIED TO GET BY SMOKING JOINTS OR TAKING XTC OR LSD.
+    WELL, I HAD FOUND IT WAS `REALLY COOL`, BUT I HAD NEVER THOUGHT THAT
+    IT  WOULD  HAVE  SUCH  AN INFLUENCE TO THE FUTURE AS I DO TODAY - AT
+    LEAST THINK IT COULD HAD HAVE - MAYBE...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /       `SCENET`        \\  /
+      \//                      08 \ ¯  ¯ / o8                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+       _____________                                                  .   S
+      |             |  __________         ______       __________   .:·
+      |             | |          |_______|_     |_____|     ...  |.::·    C
+      |             | |       ___|_        |    |     |      ·:::::::::.
+      |         ____|_|__          |       |          |     |  .::·   ··· E
+   ___|___               |         |  |    |          |       .::·_
+  |                      |         |      _|_         |      .::·  |   .  N
+  |                      |         |         |        |     ·:::.. |..::·
+  |                      |_________|         |__|     |______·::::::::·   E
+  |                      |      |____________|  |______|
+  |______________________| [zZ]                                           T
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: GHANDY/DARKAGE^FAITH
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  //  ICH HOFFE MAL, DASS DU IRGENDWANN IRGENDWIE DAS LIEST!!! /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ BUT BACK TO THE BOOK I WANTED TO READ IN THE NIGHT ABOUT  ONE  YEAR  AFTER
+ THIS (I WROTE ABOUT SOME LINES AHEAD).
+ WITH THIS NON-AGREMENTS ABOUT A SENTENCE LIKE `A TRUE STORY`  I DECIDED TO
+ START  READING  ALTHOUGH,  ESPECIALLY I GOT THE FEELING THAT I HAD TO READ
+ THIS, SO YOU CAN`T CALL ME A VOLUNTARY READER AT  THE  BEGINNING  OF  THIS
+ NIGHT BUT THAT FACT WOULD STILL CHANGE MINUTES LATER.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /     `SCENET.DIZ`      \\  /
+      \//                      09 \ ¯  ¯ / o9                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+                            _______     __________
+                      [zZ] |     __|_ C|          |
+                          _|__       |E|       ___| »»
+                      »» |           |N|___     |     !
+                     !   |___________|E  |______|   g !
+                     !                              h !
+                     ! the scener`s net mailboxes   a !
+                     !      & more issue #??        n !
+                     !                              d !
+                     !  www.scenet.home.pages.de    y !
+                     !                                !
+                      ««««««««««««««««««««««««««««««««
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: GHANDY/DARKAGE^FAITH
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  // MEINE LETZTE E-MAIL IST HEUTE (2-6-99) SCHON LANGE HER!!! /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ THE AUTHOR NORMALLY WROTE FOR NEWSPAPERS AND ALSO HAD RELEASED SOME HORROR
+ NOVELS, IF YOU ARE INTERESTED IN SUCH FACTS. AND IT IS A LIE  IF  I  WOULD
+ TELL  YOU  NOW  THAT  I WAS NOT CAUGHT BY HIS STYLE OF WRITING. ALTHOUGH I
+ WASN`T A BELIEVER, AS I ALREADY MENTIONED, I WAS VERY INTERESTED  WHAT  HE
+ WROTE. SO I FINALLY STARTED TO READ THE FIRST WORD.  THE  FIRST  SENTENCE.
+ THE FIRST PAGE. THE FIRST CHAPTER...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /        `GONE`         \\  /
+      \//                      ¹0 \ ¯  ¯ / 1o                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+                         _____  _____  __ __  _____
+                        /     \/     \/  \  \/  _  \[zZ]
+                       /   \   \  |   \      \      \
+                       \___    /______/__\   /   ___/
+                        =/    /=gone/void=\_/\____/==
+                         \___/
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: GONE/VOID
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  // KEEP YOUR EYES OPEN!!! THE GOVERNMENT IS WATCHING US! ;-) /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ JUST  A  NORMAL  DAY IN A NORMAL LIFE OF A NORMAL MAN. A WIFE AND A KID. A
+ HOUSE IN A SMALL VILLAGE (A HOLLIDAY HOUSE ONLY BY THE WAY). BUT  THEN  IT
+ CAME REALLY ASS KICKING.  THE  MAN KNEW THAT SOMETHING WERE WRONG WITH HIM
+ AND ALSO WITH HIS KID BUT HE DIDN`T KNOW WHAT.  THE DOCTOR`S FOUND NOTHING
+ AND HIS WIFE ALSO DIDN`T BELIEVE HIM (AS IT ALWAYS IS).  THEN HE FOUND OUT
+ THAT  HE  WAS CARRIED OFF BY BEINGS SO-CALLED ALIENS. HE WENT TO A SPECIAL
+ MEETING  OF  PERSONS  WHO CLAIMED THAT THE SAME HAPPENED TO THEM. BUT THAT
+ SHATTERED.  THE PROTAGONIST, THAT IS THE AUTHOR HIMSELF, WENT THEREFORE TO
+ A SPECIAL DOCTOR WHO PRACTICES HYPNOSIS AND THERE HE FOUND OUT WHAT REALLY
+ HAPPENED  TO  HIM  AND HIS FAMILY AND WHO THE YOUNG WOMAN WAS HE MET A DAY
+ BEFORE ON THE STREET THINKING TO KNOW HER BUT DIDN`T KNOW FROM WHERE...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /    `BLACK DRAGON`     \\  /
+      \//                      ¹1 \ ¯  ¯ / 1¹                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+           __________ __________ _________ ___________ ____ ______
+          /    _     \         //         \          /     |     /[zZ]
+     .---/       _                                               \---.
+     :   \___________/__________/____|_____/________\ _____|_____/   :
+     :   «------------------------ black ------------------------»   :
+     :                                                               :
+     :      _________ _________ _________øøøø________ _____ _____    :
+     :     /         \         \        øøø          \     \    /    :
+     ·----/     /                      øøø øøø                  \----·
+      [zZ]\_________/_________\_____|___øøø_øøø_____/______\_____\
+          «---------- dragon ----------- øøøøø ------------------»
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: BLACK DRAGON/HONOO
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  // EVERYTHING ALRIGHT? THIS TIME NO CHARACTERS ON THE LEFT!! /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ UNTIL THAT IT WAS MORE A DIARY OR A GOOD  TOLD  MAINSTREAM  NOVEL  THAN  A
+ BOOK TO  SCARE  THE  READER BUT THAT HAD CHANGED A CHAPTER LATER - CHAPTER
+ TWO!  IN  HYPNOSIS  THE  MAN  SAW NOW EVERYTHING CLEARLY, FOR EXAMPLE THAT
+ HE MET THE YOUNG WOMAN IN A SPACESHIP WHERE BOTH OF THEM WERE TAKEN TO  BY
+ ALIEN PERSONS. THEN HE GOT INTO DETAILS:  THE HOLIDAYS,  THE NIGHT WERE HE
+ HEARD  SOME  STRANGE NOICES BUT CAN`T REMEBER THAT HE HAD WOKE UP BUT THAT
+ HE TALKED TO HIS WIFE, BUT THERFORE SHE DIDN`T REMEMBER THAT  HE  TOLD  TO
+ HER.  `I WAS SLEEPING THE WHOLE NIGHT!`  SHE  SAID. AND THE DETAILS BECAME
+ HARD - THE ALIENS TOOK HIM TO ANOTHER PLACE WHERE HE WAS ALONE  AND  WHERE
+ HE  WAS  NAKED  AND  THEN THEY MADE THE THINGS WITH HIM SO MANY PEOPLE ARE
+ TELLING  ON  TELEVISION  THAT  ALIENS  DID  IT  WITH  THEM THESE DAYS. AND
+ SUDDENLY  MY  ASS  HURTED...  AAAAHHHHH! DAMNED!!! DID I DREAM OR WHAT WAS
+ THAT.  UUUHHHH!  WAS THAT REAL! THE LITTLE LAMP ON MY BEDSIDE TABLE SEEMED
+ TO BE TO LESS LIGHT - NOT ENOUGH TO BEWARE OF THOSES BEASTS WHO  HAD  COME
+ TO  EARTH TO CATCH ME - BUT I DIDN`T FELT THE COURAGE TO STAND UP AND TURN
+ ON THE BIG ONE BECAUSE I SAW A LITTLE  SHAPE  ON  THE  WINDOW:  WHITE  AND
+ NEARLY  ONE  METER  HIGH.  `HELLO` I ASKED BUT NO ONE, NOT TO SAY NOTHING,
+ ANSWERED. AGAINST MY FEARS I CONTINUED TO READ.
+ AND  I  READ  UNTIL TWO O`CLOCK IN THE MORNING MORE THAN THE FIRST HALF OF
+ THE BOOK! BUT THERE WAS SOME HUMAN THING I HAD TO DO,  BECAUSE I DRANK TOO
+ MUCH BEER THE EVENING BEFORE. SLOWLY I STOOD UP, ALWAYS LOOKING AROUND ME,
+ BEHIND ME, TWO TIMES A SECOND. I REACHED THE BATHROOM NOT FAR AWAY FROM ME
+ AND  TURNED  THE  LIGHT  ON.  WHAT...  THERE WAS SOMETHING AT THE BATHROOM
+ WINDOW, I SWEAR! AS FAST AS I COULD I DID WHAT I HAD TO DO, TURNED OFF THE
+ LIGHT  END  RAN  BACK  INTO MY BED. DAMNED!! I HAD FORGOT TO SWITCH ON THE
+ LIGHT OF MY ROOM THAT I WANTED TO DO BEFORE. WELL, AT THIS  POINT  I  FELT
+ NOT  STRONG  ENOUGH  TO STAND UP AGAIN, SO I STOOD IN MY BED AND CONTINUED
+ READING THE STRANGE BOOK, NOT WONDERING  ABOUT  THE  STRANGE  REACTION  IT
+ MADE ON ME OR WHERE THIS INFLUENCE CAME FROM...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /        `NOAH`         \\  /
+      \//                      ¹2 \ ¯  ¯ / 1²                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+                         __ __  _____  _____  __ __
+                        /  \  \/     \/  _  \/  |  \
+                       /       \  |   \      \      \
+                       \___\   /______/  |___/__|   /
+                       =====\_/=noah=\___|======|__/[zZ]
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: NOAH/THE ARCHE
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  // DON`T FORGET ME AND ME GIRL FRIEND! NOT ONLY THE DOVE...  /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ AS THE TIME HAS GONE BY I FELT IN A LETARGIC MOOD AND  WENT A  BIT  TIRED,
+ BECAUSE I HAD THE WHOLE DAY BEFORE TO WORK AS A CONSTRUCTION WORKER ON THE
+ MILLENIUM  TOWER,  BUT  I FORCED MYSELF TO CONTINUE READING. AT THE END OF
+ THE NIGHT I FINISHED IT. I SPENT THE WHOLE NIGHT BENEATH THE BLANKET IN MY
+ BED IN FEAR OF EVERY NOISE I HEARD SOMEWHERE...ANYWHERE.  I  FELT  LIKE  A
+ LITTLE CHILD WHO HAS BEEN WAITING FOR THEIR PARENTS TO COME HOME TO BANISH
+ THE GHOSTS FROM ITS ROOM. WHILE  READING  I  SMOKED  ONE  CIGARETTE  AFTER
+ ANOTHER  AFTER  ANOTHER  AFTER... TO ABANDON THE SHAKINGS FROM MY BONES. I
+ HEARD `THEM` WISPERING NOT KNOWING WHO `THEM` WERE AND THE SAME MOMENT THE
+ SUN ROSE UP I TURNED OVER THE LAST PAGE AND READ THE WORDS `THE END` AND I
+ WAS GLAD ABOUT IT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               ______________
+    ______ ____________________\  ___  ___  /____________________ ______
+    \    //                     \ \||  ||/ /                     \\    /
+     \  //    ZITO SAYS...       \ \|  |/ /         `ZEC`         \\  /
+      \//                      ¹3 \ ¯  ¯ / 1³                      \\/
+        \__________________________\ __ /__________________________/
+                                    \  /
+                                 [zZ]\/
+
+
+         ________________________   _____  _______________________
+         \___________________   /  /  __/ / _____________________/
+                            /  /__/  _/__/_ /__ _ _ _
+                           /_____/        /___///////
+                                /________/[zZ] ¯ ¯ ¯
+
+
+
+     __________
+    /          \  A SHORT MESSAGE FROM THE ARTIST TO: ZEC/INDEPENDENT
+    \ ===  === /____________________________________________________________
+   /\\        //                                                           /
+  /  \\  ..  // HEY, LONG TIME NO SEE!! WHAT ARE YOU DOING AT THE MOMENT? /
+ /____\\____//___________________________________________________________/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ BUT SUDDENLY I STOOD ON THE ROOF OF THE SMALER BUILDING NEXT TO MY WINDOW.
+ TWO METERS FAR FROM AN OLD SMOKESTACK LOOKING INTO A PAIR  OF  BLACK  EYES
+ LIKE DEEP AND DEEPER SEAS. IT WAS ONE OF THOSE HUMAN-LIKE CREATURES I READ
+ ABOUT IN THE MYSTERIOUS BOOK. IT WAS LESS THAN ONE METER HIGH  AND  HAD  A
+ SNOW-WHITE  SKIN.  IT  LOOKED  BACK!  AND WITH THE HIGH-HOLD FINGER OF ITS
+ RIGHT HAND IT SAID TO ME WITH THE VOICE OF THE VANISHED FRIEND OF MINE:
+
+ `THERE IS MORE BEHIND THE BLUE PAINTED SKY. PROVE YOUR  RELIGION  MAN  AND
+  YOU WILL UNDERSTAND WHAT WE ARE...`
+
+ I WOKE UP THE NEXT MORNING AS IF I TOOK A LONG REST AND I WAS HAPPY  ABOUT
+ LIFE. DIDN`T KNOW WHY THE WORLD SEEMED SO BRIGHT THIS DAY, BUT I CARED NOT
+ ABOUT IT. I JUST ENJOYED IT...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         _____  __ __  _____  _____
+                        /  _  \/  \  \/     \/  _  \
+                       /       \      \  \   \      \
+                       \    ___/__\   /______/   ___/
+                        \____/     \_/   [zZ]\____/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     LET US CLOSE WITH A BAD PICCY! MY FIRST ASCII DONE WITH PPAINT!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  #########
+                             ######8888#######
+                          ####88888888888888####
+                         ###88888888888888888888###
+                       ##888888888888888888888888###
+                      ###888888888888888888888888888##
+                     ##888888888888888888888888##8888##
+                    ##888888888888888888888##88#888888##
+                   ##8888888888888888888888#88##8888888##
+                  ##8888888888888888888888##8###88888888##
+                 ##8888888888888888888888#######888888888##
+                 #8888888#88888888888888##0##0##8888888888##
+                #8888888####8888888888###00#000#88888888888#
+               #888888888#######88####0000#000#88888888888##
+               #88888888888#00######0000000#000#888888888888#
+              #888#8888888#000000000000000#0000#888888888888#
+              #8888##888888#000000000000000#0000#888888888888#
+              #88888##88888#000000#00000000#0000##88888888888##
+             ##888888###888#00000##000000000#######88888888888#
+             #8888888#0###########00000#######8######888888888#
+             #8###888##00######0#00000##00####88888##88888###8#
+            ### ##888#00000000###0000#00#888##88888888888#  ###
+            ###   #888#0000000##8##00##00#8888##888888888##  #8#
+            #8#   ##88#0000000#888#00##0##8888888888888888#  #8#
+            #8#   #888#000000#8888#0###0#88888888888888888###88#
+            #88####88##000000#8888#0###0#8888888888888888888888#
+            #88888888#0000000#8888###0#0#8888888888888888888888#
+            #8888888######000#8888###0#0#8888888888888888888888#
+            #888888###888##00#888####0#0#8888888888888888888888#
+            ##888888888888#00#####0##0#00#888888888888888888888#
+             #888888888888#000###00##0#00##8888888##88888888888#
+             #888888888888#000000000#00#00##88888###8888888888##
+             #888888888888#000000000#00#000#######0##888888888#
+             #88888888888#0000000000#000#0000###0000#888888888#
+              #888888888##0000000000#000####000000000#88888888#
+              #88888888#######000000#0000##########000#888888#
+              #888888##############0########88888########8888#
+               #8888###8888888######0#888####888888888#####8#
+               #8888888888888###8888##888888###8888888888##8#
+                #88888888888###888888##8888888#888888888888#
+                ##8888888888#888888888##888888888888888888##
+                 ##888888888888888888888888888888888888888#
+                  #88888888888888888888888888888888888888#
+                   #888888888888888888888888888888888888##
+                    #8888888888888888888888888888888888##
+                     #88888888888888888888888888888888##
+                      ##8888888888888888888888888888###
+                        ##88888888888888888888888888##
+                         ###8888888888888888888888###
+                          ###888888888888888888###
+                           #####8888888888#####
+                              ##############
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           MAYBE THE LAST TIME...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ CONTACT ME TO REQUEST AZKEEZ OR FOR COOL SCENE SWAPPING. ALSO FOR JOINING
+                   APATHY GERMANY, OFF WORLD OR LAYOUT!!!
+
+        MY CURRENT ADDRESS IS: PF 100522 IN 04005 LEIPZIG IN GERMANY
+          OR ASK ME VIA E-MAIL: ZITO@AMIGASCNE.ORG OR ZITO@GMX.NET
+
+ WHAT HAPPENS TO OFF WORLD NOW, WHEN THE FIRST AND ONLY MEMBER - ME - MOVES
+  TO ANOTHER ASCII CREW CALLED LAYOUT? WELL, AT FIRST YOU CAN AWAIT FUTURE
+   COLLIES FROM ME OF COURSE! WITH NEW STYLES AND BETTER QUALITY, I HOPE!
+  ONLY THEY WILL BE PUBLISHED UNDER A NEW LABLE. SO JUST REQUEST ASCIIS IF
+  YOU NEED SOME AS ALWAYS! CONCERNING OFF WORLD... I DON`T KNOW!! MAYBE IT
+        WILL BE A SPECIAL LABLE - WHERE I WILL BY THE WAY PUBLISH THE
+     EXTRA-ORDINARY COLLECTION KNOWN AS THE `BLADE RUNNER PROJECT` - FOR
+   SPECIAL PRODUCTIONS LIKE THE ONE NAMED HERE. OR I WILL TURN IT INTO AN
+ AMIGA-BASED SCI-FI CLUB OR SOMETHING SIMILAR...  READ THE NEWS ABOUT IT IN
+  `OWO-LUTION.TXT`. SOON AVAILABLE AT YOUR SCENE STUFF DEALER!!! LAST NOTE
+   THERFOR: TURBODOG JOINED SO WE ARE NOW TWO MEMBERS IN OFF WORLF AND IT
+                        WON`T BE CLOSED FOR SURE!!!
+
+  WHAT ABOUT THIS COLLY? HMH, IT`S NOT A GOOD ONE, JUST STANDART WITH LACK
+    OF DESIGN AND ONLY OLD LOGOS IN SEVERAL STYLES. AT FIRST I PLANED TO
+   RELEASE COLLIES LIKE THIS ONE AS A SERIES CALLED `PIPI LOGIC` BUT PIPI
+  LOGIC WAS SHIT AND I DON`T WANT TO REPEAT THINGS WHICH ARE SHIT!! SO YOU
+  WILL NEVER SEE ANY SHIT FROM ME NAMED `PIPI-LOGIC` (WHAT A SHIT NAME)...
+  AND BECAUSE I USED ONLY SMALL LETTERS - AB JETZT IMMER GROßBUCHSTABEN!!!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE-ID.DIZ
+ _________
+ \ __ __ / OFF WORLD PRESENTS
+  \\_|_//    `VISITORS` BY
+   \ _ / ZITO/APATHY^OFF WORLD
+    \_/       ON 22.07.99
+
+@END_FILE-ID.DIZ
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    HISTORYLINE OF AN RATHER UNKNOWN AND NOT-AS-GOOD-AS-OTHERS ARTIST...
+                        CALLED ZITO - THE LONELY ONE
+
+
+    `TOUCH OF GOD`      ZTC-TOC   91500 /  98638   7.1.99 ZITO/ZETEC
+    `PIPI-LOGIC #1`     ZTC-PL1   66095 /  67477  12.2.99 ZITO/ZETEC
+    `CITY LIGHTS`       ZTC-CLS   77777 /  96780   1.3.99 ZITO/ZETEC
+    `ERROR IN LINE`99`  OWO-EIL  151232 / 154441  25.4.99 ZITO/OFF WORLD
+    `EMERGENCY ROOM`    OWO-ER!   33136 /  33368  23.5.99 ZITO/OFF WORLD
+    `VISITORS`          OWO-VIS   42392 /  55430  22.7.99 ZITO/OFF WORLD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                           ________
+                                                           \ _  _ /
+                                                            \\||//
+                                                ________ ____\  /____ 
+               WATCH NOW THE CREDITS, LONER...  \____   \\    \/    //\
+                                                     \___\\     .: //  \
+ ALL ASCIIS DONE AGAIN BY ZITO/APATHY^OFF WORLD^ZETEC      \      //_   \
+                                                            \    /   \__ \
+      MUSICAL SUPPORT CAME FROM JOE HIAISHI (HANA-BI)        \  /       \_\
+                            MONICA (THIS BOY IS MINE)       /|\/|\
+                     VARIOUS ARTISTS (POINT BREAK ST)      / |  | \
+            VARIOUS ARTISTS (HAUJOBB`S FRIENDSHIP #1)     /  |  |  \
+  OTHER SUPPORT FROM FRIEDHELM PÖRNER (WORKS IN FEAR)    /   |  |   \
+                                                        /____|  |____\[zZ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        YOU CAN NOT READ A BOOK WITHOUT A LITTLE FAITH IN THE TOPIC!
+
+                                                     (A READER)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      ________________________________
+                      \                              /
+                       \                            /
+                        \   ØØØØØØØØØ  ØØØØØØØØØ   /
+                         \   ØØØØØØØØ  ØØØØØØØØ   /
+                          \   ØØØØØØØ  ØØØØØØØ   /
+                           \   ØØØØØØ  ØØØØØØ   /
+                            \   ØØØØØ  ØØØØØ   /
+                             \   ØØØØ  ØØØØ   /
+                              \      ..      /
+                               \            /
+                                \          /
+                                 \   __   /
+                                  \      /
+                                   \    /
+                                    \  /
+                                     \/
+
+
+
+                      AN OFF WORLD PRODUCTION IN 1999
+
+ 
+ 
+                _ _  _                               _  _ _
+               /                                           \
+              ·/(_____    sIMPLY tO gOOD fOR yOU!    _____)\·
+             /                                               \
+                 <- THE LOS ENDOS BULLETIN BOARD SYSTEM ->
+             \   _____                               _____   /
+              ·\(         sIMPLY tO fAST for yOU!         )/·
+               \_ _  _                               _  _ _/
+     
+ 
+ 
+
+                                        .
+        .                    _____: . O  o                               O
+   _____|_____.      _____  .)    |____o [ t . H . E  - y . A . R . d ]_o .
+ _|      /   .|_____/_   /_ : _   |                                       :
+ \      /    |/      /   _//  \   ahs.bgirl.arcade.srz.tac.dkb.wx.lp!.up  |
+  |____/|____/      /__________\  soia.pnk.omn.mce.1oo - headquaters      |
+            /______/     _ _:   _____          ______  __________ ________:
+                         \\\.  /    /__________\_   /_/  _      //  ._   /.
+consoles.amiga.graffiti.req ! /    /|    /   _      \    /     /    |/    |
+ascii.hiphop mp3s.chiptunes |/_____     /____\_______\___\________________|
+pc classics.linux/dd.drugs! :_  t^/____/   _. zANEr/diPSWiTCH/hAsH/NINjA. |
+                             (_____________)| ___________ _______ _ ______:
+one of the finest in +49               _ _ ___)         (_)               :
+non-24h static telnet ip      #1 33k6.  #2 28k8.  #3 64k isdn #4 64k isdn
+  - theyard.ddns.org -        #5 telnet #6 telnet #7 telnet   #8 telnet
+                         
+

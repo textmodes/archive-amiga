@@ -1,0 +1,836 @@
+@BEGIN_FILE_ID.DIZ  ____.    ___      ___      ___     _____
+__\ __|____\ |__  __\ |______\ |_____\ __/
+|_____   |   __|--|   |    |   |   | __/---¦
+|__ |    |__ |    |__ |  __|__ |   |_ |    |
+  )______| )______| )____ _  )_____|)______|
+<>>---------------------------------st!--<<>
+            Ascii Riddless Part 3
+<>>--------------------------------------<<>
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     Note
+                                    ------
+                          These ascii-figures should
+                         watch only with Stezo.fonts!
+
+
+
+
+                               .-.         .. .. ......
+                              / .'   ___     .. ..:.:::
+                           __/  '_­~¯¯ ¯¯-.    .. .:.:.
+                          (__) O° \  _,    )     .. :.:
+                          (__)  _, \¯ /   /        ..:.
+                           (__)    _)·   /          . .
+                             ,  ~¯¯     ·            ..
+                           .'          '     _        .
+                          /       .  ' \    · ~,      .
+                         /    '·        \   \  ·
+                        ·   _/  \      ­¯~·/ ·.'
+                        ;    ¯¯~­\      .;/  /
+                         ·.._     ·     ·' ./.
+                             ¯¯¯~­/       .,)_)
+                                 (        ¯ \ ·.
+                                  ·.__       \  '.
+                                     ·.       \   \
+                                       \       ·  ·
+                      .            sTZ! (_     · /
+                      ..                /     / ·
+                      ...              ·     /.'
+                      ....            ·      .
+                      ... .           ;    /,
+                      :... .         .'  .'  \
+                      ..:...:.    ,-¯ , / ¯\  '.
+                      .:.:... .   \,_  ·,   ·.-'
+                      ::.:..... .    \   \
+                      .::.::. ... .   ·._.·
+
+
+
+
+                                                                          /__
+                                     .._____.¦______________________..__..__/
+                                     ||    /||\                     ||  ||//
+                                     ||    ¯||¯                \\   ||__||/
+   _____. _      ____            _____|     ||   ___¦           \ ______ _¯\
+___\  __|//______\  |__       ___\   |___________\  |        .____\ ___///  .
+|_______      |   ____|-------|      |        |     |¯¯¯¯¯¯¯¯|   ___/--------|
+|     |       |_    |         |      |        |     |   st!  |    |          |
+|___  |       |)___ |         |_____ |   _____|___  |        |___ |          |
+¦  )__________|   )___________|   )______ _ ||   )___________|  )____________|
+                               _..__.||     ||  \                   |.
+                               /||  |||    _||_ \\                  |¦
+                              //||__|||____\¦¦/_____________________||
+                              ¯¯\_                                   o
+                                 /                                   .
+                                .                                    +
+
+
+
+
+
+
+
+
+
+
+
+    _______      ______      _______      ______      ________
+ ._/  ____//____\\    /_  __\\ __  /_____\\____ \____\\   _   \
+ | \_______          __/__     \__/        _____/         /   .\
+ |        /          \                     \             /     \\
+ |______________________________________________________________/
+                   ______      _______      ____.        __       _________
+                ._\\    /_  __\\ __  /_____\\   |____ ___\/______\\__     /
+                |      __/__     \__/          _    .\   \         _/____/_
+                |      \                       /     \\            \       \_
+             tGø|_____________________________/       /_____________________/
+                                             /_______/-T!
+
+
+
+
+
+
+
+
+
+
+
+                                   Starrign:
+
+                                     Jorma
+                                     Raimo
+                                  Mr.Paasonen
+                                   Mr.Pesola
+                                   Mansikki
+                                 Folar the Fly
+
+                                    +others
+
+
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+
+
+
+                This collection is dedicated to Kingpin & U-man
+                  b'cos they gave me some inspiration to make
+                           these ascii dudes again!
+                   uah! I just think that first ascii riddle
+                  was the best! It's hard to think something
+                     hm.. crazy, heh! and draw it .. damn!
+                            give me some subjects;)
+                    heh, but it's quite funny to make these
+              First I draw a picture, and another and third..etc
+                     and for the last I'm trying to think
+                      those answers ;) it suxx anyway ;)
+                         Give me some beer, so I have
+                         more "sick" imagination,heh!
+
+
+
+
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+
+
+
+
+                  ___________________________________________
+                 :_)                                       (_:
+                 |  ... .... . ....  ...  .                  |
+                 | ::.  .:. . ... ..                         |
+                 | .:.... . .. .                             |
+                 | ::.:... . .       .-¯~¯-.                 |
+                 | .... ..    ,      \ (o)O)\       ,        |
+                 | . . .    //       (_  __  )      \        |
+                 | ...      /  ,--.   ( (_/ /  _.._ \\       |
+                 | ..         /    )'~¯\___/~\/    \         |
+                 | .         ( ,\    /     , ( ( \\ )        |
+                 |           \\_)\,_//     \\  /\_)-'        |
+                 |                  (_______\¯~              |
+                 |             .--.(        ) sTZ!/sE        |
+                 |            /   ¯/  (    /__               |
+                 |           (_,\    / /  /¯~'\              |
+                 |               \__/ (___.-   )             |
+                 |          ..   ..oooo...(__,'  /           |
+                 |           OO.ooOOoooooO.    ,//           |
+                 |           'OOOo··''··oooo.o               |
+                 |                       ''OO'               |
+                 |_                                         _|
+                 :_)_______________________________________(_:
+
+
+                          Who/what did Jorma scared?
+
+                  __________________________________________
+                 :_)                                      (_:
+                 |  ... ..... . .  .                        |
+                 | :.:..:.::... .                           |
+                 | ::..:.... .      ._._,                   |
+                 | .. . . .        .--|--.                  |
+                 | .. :..         .\_ø_ø_/.                 |
+                 | ....          (`(°)-(°)')_               |
+                 | . .        .-` \ ¯._,¯ /  '-.            |
+                 | .        .'     ¯~­-­~¯      '.          |
+                 | .      .-'~¯                ¯~'-.        |
+                 |       (        .-~¯¯¯¯~-.        )       |
+                 |       `.-'                    `-.'       |
+                 |       (_                        _)       |
+                 |        /~­-,.¸____________¸.,-­~\        |
+                 |       /·                        ·\       |
+                 |      (·                          ·)      |
+                 |      |          \____/            |      |
+                 |      |.         `·||·'           .|      |
+                 |      |.          ·||:            .|      |
+                 |      |·           ||             ·|      |
+                 |     .|:.          ..            .:|      |
+                 |     |_¯~­------­~¯||¯~­--------­~_|      |
+                 |      /~­-------­~¯  ¯~­--------­'\       |
+                 |     (__/__)__) _\sTZ! /_ (__(__\__)      |
+                 |             (_(_))   ((_)_)              |
+                 |               ¯~¯     ¯~¯                |
+                 |_                                        _|
+                 :_)______________________________________(_:
+
+
+                         Why Raimo tries to be happy ?
+
+
+  __________________________________________________________________________
+ :_)                                                                      (_:
+ | ... . ..........  . ...... .                                             |
+ | :::::::..::.... .. . ..                                                  |
+ | :.::. ..:. .:... . .                                                     |
+ | .:...: .. . . ..                                   ,­~¯¯¯¯¯¯~­,          |
+ | :.:.... . ...       _.,,       FUCKING HOT SUN-> ,'            ',        |
+ | ..:... ...         /  _\                        .                .       |
+ | . . ....         _/_____\             ___       .                .       |
+ | ... ..           (¯(o)(O))         __(   )_      .               '       |
+ | .. .          .---\ ¯__¯/---.    _(       _)_     ',           .'        |
+ | ..           /   /¯`---'¯\   \  (_ (_       _)      ~­-------­'          |
+ | .           /  , \_ \./ _/    \(¯ )_ | _) __)                            |
+ |            (   \  /  |  \  ,   )    )| |/_)                              |
+ |             \   \ ¯\ | /¯ /   /__(_ \| /                                 |
+ |              \   \  \|/  /,--/  (___\\ |                                 |
+ |              |\   )  |  (   \_)      \ |                                 |
+ |              | \_/  ,| (_\ \_)  sTZ! | |                                 |
+ |______________|     / |    \_)|______.| |,________________________________|
+  ______________| `-­~  |       |___________________________________________
+ |              |       |       |                                           |
+ |              |       |       |                                           |
+ |              `-------^-------'                                           |
+ |                |.-.|   |.-.|                                             |
+ |               (_____) (_____)  <- FUCKING UGLY BOOTS                     |
+ |                                                                          |
+ |_                                                                        _|
+ :_)______________________________________________________________________(_:
+
+
+             Why does Mr.Paasonen wear that black, hot jacked on a
+                           hot day like this .. ?
+
+                    ______________________________________
+                   :_)                                  (_:
+                   |                                      |
+                   |                                      |
+                   |          ·                   ·       |
+                   |         .        .          .        |
+                   |          .                           |
+                   |                 ·             ·      |
+                   |           ·                          |
+                   |         .        ·          ·        |
+                   |           __    .           .        |
+                   |      .--./¯ )                        |
+                   |     / o°/../  ___        ____        |
+                   |    (   --.­,-(¯ ¬)­--,.¸/~  ¬\       |
+                   |     \___/ (  /   \ '   / /    )      |
+                   |        (    (     )·.:_ (    /       |
+                   |    sTZ! ¯~­-,\ _ /.· ',¯~­. / _      |
+                   |             (¯)_)¯):_)_),_,)_¯))     |
+                   |              ¯   ¯      (,_) ¯       |
+                   |                          ¯           |
+                   |_                                    _|
+                   :_)__________________________________(_:
+
+
+                 Why is mr.Pesola Lying so happy on the floor?
+
+
+                                   ___
+                                  /,-.\_./)-/)
+                                 `/¯¯'.'¯¬\oo\
+                                 (    *    )··)
+                                  \_ ___ _/-U-'
+                              sTZ! //// \\\\
+                                  (__))(__)_)
+
+
+
+                        What is Mansikki looking about?
+
+
+
+                                    (\./)
+                                     ¯·¯
+
+
+                      hm, what is the "folar"-fly doing?
+
+
+
+
+
+
+
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+
+
+
+
+
+                    ____ ______:_______ _______     ______
+                   /  _/_\_    |_     /_\_    /___  \__   |
+                   \____   \   _/____/    \  /    \   /___|
+                     /_____/___|/     ____/________\_____\
+                               /______\         sTZ!/sE
+
+                        THE CHOICE OF A MAD GENERATION
+
+
+
+
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+
+
+
+
+
+                          Who/what did Jorma scared?
+                         ----------------------------
+
+                           He scared of Mr.Paasonen.
+                                   but why?
+                            (Damn no picture here)
+
+
+                         Why Raimo tries to be happy ?
+                        -------------------------------
+
+                    He tries to be so fucking happy, b'cos
+                  his mum bought that stupid lil' hat! uah..
+          (I think it's the best thing that little fuck has eva get!)
+
+
+                                  .___.-.___,
+                                _ ____| |____ _
+                                //    · ·    \\
+                               _/  _       _  \_
+                               \   / _---_ \   /
+                          sTZ! |·   (_) (_)   ·|
+                              _|_______________|_
+                          .-¯~~¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯~~¯-.
+                         /        __       __        \
+                        /   .___/¯()¯\___/¯()¯\___,   \
+                       (        \_  _/   \_  _/        )
+                        \         ¯¯       ¯¯         /
+                         \                           /
+                          \         ,_   _,         /
+                           \          ¯¯¯          /
+                            ¯~­--,___________,--­~¯
+
+
+
+
+             Why does Mr.Paasonen wear that black, hot jacked on a
+                           hot day like this .. ?
+            -------------------------------------------------------
+
+                           b'cos he is self-exposer!
+                     (and thats why Jorma scared him heh!)
+                           Paasonen is real pervert!
+                                 beware of him
+
+                     ______________________________________
+                    :_)                                  (_:
+                    | ......... . . ... ..                 |
+                    | :.::::...:... . .                    |
+                    | .:..:.:.:.. ..                       |
+                    | :. ..:... ..    _..,,                |
+                    | :. .:. ..      /   \                 |
+                    | :..:. .       /_____\                |
+                    |  .. .        ( (¤)(.))               |
+                    | .. .          \ ¯__,/                |
+                    | ...      __  .-\ U /-.  ___          |
+                    | ..    .-~¯,·¯   `-'   ¯·,¯¯~-.       |
+                    | .    ·    \_           _/     ·      |
+                    |     _|_     ·  - . -  ·     __|_     |
+                    |    (__o) ·   |  (_)  |   · (o___)    |
+                    |    (__o)·    |  | |  |    ·(o___)    |
+                    |    (__o)    (   | |   )    (o___)    |
+                    |      '      |  (_._)  |       '      |
+                    |      ·      |  ,' `,  |       ·      |
+                    |       \     |  |   |  |      /       |
+                    |       ·     (  )   (  )     ·        |
+                    |      /      |  |   |  |      \       |
+                    |     .·­-,.__|  |_ _|  |__.,-­·.      |
+                    |    ·       \_¯¯_/-\_¯¯_/       ·     |
+                    |             |__|   |__|              |
+                    |            (____) (____)             |
+                    |              ¯¯     ¯¯               |
+                    |_                                    _|
+                    :_)__________________________________(_:
+
+
+                 Why is mr.Pesola Lying so happy on the floor?
+                -----------------------------------------------
+
+                        b'cos he just ate one hot-dog!
+
+                               __________________________________________
+                              /              ____                        \
+                    (\../)   //  I'M HOT!  //   /   I used to be a cow,   \
+                   _( oO )_  \_ ___________/   /  but I prefer dogs better )
+                  (  \ -/  )  //               \    so I change my sex.   /
+               sTZ!\,_¯¯_,/\ ¯¯                 \________________________/                     _|¯¯|_  *
+                   (,,)(,,)
+                    ¯¯  ¯¯
+
+
+
+                        What is Mansikki looking about?
+                       ---------------------------------
+
+                           He just saw Mr.Paasonen.
+                           but Paasonen went hiding
+                            hm, so why is Mansikki
+                          trying to find Mr.Paasonen?
+
+                           B'cos Mansikki is scared.
+                       Ya'know Paasonen is Animal-expert
+                             if I may say so, heh!
+
+
+                    ______________________________________
+                   :_)                                  (_:
+                   |                      . ... . . . ... |
+                   |                         . ... ::..:: |
+                   |           ,-~'-._          . ..:.:.: |
+                   |          ;,_.-(oo)            ..::.. |
+                   |           (,   ¯._)             . .. |
+                   |             \  _ -\.              .. |
+                   |             .·~    -:,             . |
+                   |            /         _)              |
+                   |           /    (_ ,-¬ ·,             |
+                   |          /   /, ¯~   .  ),·­-,       |
+                   |         /   / `.       .'   _,\      |
+                   |        ·   · /  ;      ' ,·~(_,)     |
+                   |       /   / /   .-    ,_¬)¬) ¯~      |
+                   |      /   / /   /\      ~\~¯ \        |
+                   |     (_¯\¯\¯\ _¯\¯'._.    \   \       |
+                   |     ( '_)_)_)_' )_)_\     \   \      |
+                   |      ¯¯ ¯ ¯ (  ¯~~¯  `     )   )     |
+                   |              '. ·,_____   /-.,-'     |
+                   |        sTZ!   /  \     ¯~'           |
+                   |              (,,(_)                  |
+                   |                                      |
+                   |_                                    _|
+                   :_)__________________________________(_:
+
+
+                         So what Paasonen really did?
+                  Well, he attack that our nice lil' Mansikki
+             and started to "crush" his major dick into Mansikki!
+               Mansikki wasn't so happy, I mean, what can it do?
+                nothing, situation like that, he is an animal.
+                  Hm.. something is missing.. aH! one more..
+                   Where is his coat?? Where has he lost it?
+
+                 ___________________________________________
+                :_)                                       (_:
+                |                       . .. .. .... ...... |
+                |           _.,,             . ...:..:..::: |
+                |          /   \                 . .. .:.:: |
+                |         / -__-\                  . .. :.. |
+                |        (  (o)(o)                   . . .: |
+                |         \  ¯_,¯/                     .. . |
+                |        / \  U /                        .. |
+                |       (   `--'\   sTZ!/sE   _    _      . |
+                |        \   \   \__          \)--(/      . |
+                |    .    \   \_    \---------(   _ \  .    |
+                |  '._'-  ((   (, ,\\)         \'o°  )  )   |
+                |         //   (_(_/_) )        \__o/       |
+                |        //   /    \_ /______//__/ ¯        |
+                |       _/  _/_     ////    ////            |
+                |      ((______)   (__)_)  (__)_)           |
+                |                                           |
+                |_                                         _|
+                :_)_______________________________________(_:
+
+
+                   Uhm, Oh jeah, he took it into a laundry,
+                   but his ugly neighbour (old punk-bitch!)
+                     took it, b'cos she is tired to watch
+                 when Mr.Paasonen is flashing his major penis!
+                    hm, but I think he will get a new coat!
+                  They are not so expencive; 20$ from Anttila
+
+
+
+                      hm, what is the "folar"-fly doing?
+                     ------------------------------------
+
+                             He is jerking of cos!
+                        hih animal-sex? safe-sex..uah!
+
+
+                                 ._  .
+                                 . ¯-.¯.--.
+                                 ·  . \ oo.'
+                                  \  \ ` -'
+                                   ·.  - _/)
+                                sTZ!.~¯_  ))
+                                     ¯¯~-'
+
+
+                         Uah! does it look like a fly?
+                          hah no way, gee it's really
+                          hard to draw jerking fly;)
+                             damn you "folar"-fly!
+                       I should draw it 10 times bigger!
+                           but I'm too lazy for it;)
+
+
+
+
+
+
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+
+
+
+
+
+
+
+               ..... . . .... .    . :o.: .   . . ...... ....
+               :.:.. .. ..       .  oo.:oo .     .. . .: :::.
+               ::.:.....          :o.   ·oo        ...:.:..::
+               ..:. ..           .o: -  -:o.·        .. .:..:
+               ... .             .o.  ··  o:.          . .:..
+               .. .              _.:._¯¯.-:._            . ..
+               ...   sTZ!      .'  .. ¯¯  ·  '.           ...
+               ..          .---. ·  :       ·___           ..
+               .          /     '.o _.'._ o.·   ·           .
+                         /        \¯~   ~¯/      \
+                        ·     /    \  ·  /   /    \
+                       .    .·       ::      ·     ·
+                ·¯¯­. ·   .'  \     ·,\·     '.     .
+                 `-._'   ,     ·.    \/    .'  ~-.   .___
+                     ·.  )       '---'`---`       ·      ·.
+                       ~¯                        ( _.-¯~­-'
+                                                  ~
+
+
+
+
+
+
+      __________ _____________________________ ·
+    .|          \\                           /_:_ _
+    :|                                         |
+     | Main Ascii Work : Stezotehic            |
+     |                                         |
+     | Guest Artists   : Tango, Stratos, Tommy |.
+  _ _|__                                       |:
+     : /__________________\\___________________|
+     .
+
+                               __________ _____________________________ ·
+                             .|          \\                           /_:_ _
+                             :|                                         |
+                              | Release Date  : 01-JULY-1996            |
+                              |                                         |
+                              | Original Size : 32% VOL. FINLANDIA!     |.
+                           _ _|__                                       |:
+                              : /__________________\\___________________|
+                              .
+
+
+
+
+
+
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+                                      __
+                                      \/
+
+
+
+
+
+
+
+                             Oki, this is the end!
+                       hm, I think this will be the last
+                            part of Ascii Riddles.
+                      But hey! Cya all in my other colls!
+                                      ---
+                         but Thanx goes also to Folar
+                        for giving me the Fly idea eh!
+                           it was too difficult tho'
+
+
+
+
+
+
+                               .-.         .. .. ......
+                              / .'   ___     .. ..:.:::
+                           __/  '_­~¯¯ ¯¯-.    .. .:.:.
+                          (__) O° \  _,    )     .. :.:
+                          (__)  _, \¯ /   /        ..:.
+                           (__)    _)·   /          . .
+                             ,  ~¯¯     ·            ..
+                           .'          '     _        .
+                          /       .  ' \    · ~,      .
+                         /    '·        \   \  ·
+                        ·   _/  \      ­¯~·/ ·.'
+                        ;    ¯¯~­\      .;/  /
+                         ·.._     ·     ·' ./.
+                             ¯¯¯~­/       .,)_)
+                                 (        ¯ \ ·.
+                                  ·.__       \  '.
+                                     ·.       \   \
+                                       \       ·  ·
+                      .            sTZ! (_     · /
+                      ..                /     / ·
+                      ...              ·     /.'
+                      ....            ·      .
+                      ... .           ;    /,
+                      :... .         .'  .'  \
+                      ..:...:.    ,-¯ , / ¯\  '.
+                      .:.:... .   \,_  ·,   ·.-'
+                      ::.:..... .    \   \
+                      .::.::. ... .   ·._.·
+
+
+
+
+
+
+                                     Note
+                                    ------
+                          These ascii-figures should
+                         watch only with Stezo.fonts!
+
+
+
+
+
+
+
+                                  ·
+                               _ _:__
+                                  |  \ __  ·
+                                 .|.  \\/  :
+                                 ·||   \  /|
+                                  |     \/ |
+                                  :        |
+
+       sTEZOTEHIC.....rELEASEd uNDEr sTYLe-LABEL: 17 aSCII cOLLECTION(s)
+       zEUs...........rELEASEd uNDEr sTYLe-LABEL: 06 aSCII cOLLECTION(s)
+       cOCO pOPs......rELEASEd uNDEr sTYLe-LABEL: 01 aSCII cOLLECTION(s)
+       bOHEMe.........rELEASEd uNDEr sTYLe-LABEL: 03 aSCII cOLLECTION(s)
+       vIETCONg.......rELEASEd uNDEr sTYLe-LABEL: 01 aSCII cOLLECTION(s)
+       fOLAr..........rELEASEd uNDEr sTYLe-LABEL: 03 aSCII cOLLECTION(s)
+       sPEED dEVIL....rELEASEd uNDEr sTYLe-LABEL: 00 aSCII cOLLECTION(s)
+                                  .        .
+                                  :        |.
+                                  |        |·
+                                           ·
+             sTEZOTEHIC.....aLLTIMe rECORd: 36 aSCII cOLLECTION(s)
+             zEUs...........aLLTIMe rECORd: 12 aSCII cOLLECTION(s)
+             cOCO pOPS......aLLTIMe rECORd: 04 aSCII cOLLECTION(s)
+             bOHEMe.........aLLTIMe rECORd: 11 aSCII cOLLECTION(s)
+             vIETCONg.......aLLTIME rECORd: 08 aSCII cOLLECTION(s)
+             fOLAr..........aLLTIME rECORd: 04 aSCII cOLLECTION(s)
+             sPEEd dEVIL....aLLTIME rECORd: 08 aSCII cOLLECTION(s)
+
+                                  :       .|
+                                  |       ||
+                                  |        |
+                                           ·
+            sTEZOTEHIC........LEADEr, aSCII, sYSOp........(fINLANd)
+            qUARTz............2Nd LEADEr, sYSOp...........(fINLANd)
+            zEUs..............aSCII, sYSOp................(fINLANd)
+            cOCO pOPs.........aSCII, mUSIc................(fINLANd)
+            rEPe..............mUSIc, tRADe................(fINLANd)
+            bOHEMe............aSCII, tRADe................(fINLANd)
+            fOLAr.............aSCII.......................(fINLANd)
+            zINKo.............sYSOp, aSCII................(dENMARk)
+            vIETCONg..........aSCII........................(sWEDEn)
+            pRINCIp...........sYSOp........................(sWEDEn)
+            sPEEd dEVIL.......aSCII........................(nORWAy)
+
+                                  |.       |
+                                  |:       :
+                                  |        |
+                                  ·
+ dIGITAL uNDERGRoUNd ... +358-0-221-ASK....hOSTEd: sTEZOTEHIc...(uNIVERSe HQ)
+ bERMUDa tRIANGLe ...... +358-0-5861380....hOSTEd: qUARTz..........(wORLd HQ)
+ fEAr fACTORy .......... +358-0-3422069....hOSTEd: zEUs..........(fINLAND HQ)
+ tHe nORTHERn pALACe ... +45-58-506-081....hOSTEd: zINKo.........(dENMARk HQ)
+ iNTERCHANGe ........... +46-3nDz-rINGd....hOSTEd: pRINCIp...(sCANDINAVIa HQ)
+                                           .
+                                  :        |
+                                  |        |
+                                  :    __  :
+                                  |    \/  ¦
+                                 _|_____/\ |.
+                                  :       \/

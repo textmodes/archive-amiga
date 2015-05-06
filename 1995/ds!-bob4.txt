@@ -1,0 +1,3059 @@
+ø=========================================================================ø
+|_________________________     _ ________:    |__________________________ |
+|___  ______\_  /____ \   |__________    |    |____ \_______  ___  ______\|
+| |   l/    / \/| \__  \  |      /  |   _|    | \__  \  __/   /|   l/    /|
+| |   /    /    |   |   \ |     /   |   \_    :   |   \ \    / |   /    / |
+| ø  /    /     |   |    \_    /    |    |    |   |    \_\  /__ø  /    /  |
+| |______/|_____|___|     /___/     |____|____:___|     /_\___/|______/   |
+| :                 |____/                    :   |____/       :[kAm]     |
+|                                                                         |
+|               =>>>  AMiGA:     c·R·U·x     WORLD-HQ  <<<=               |
+|               =>>>  AMiGA:   a·T·O·M·i·c   WORLD-HQ  <<<=               |
+|               =>>>  AMiGA: h·E·L·L·F·i·R·e SWISS-HQ  <<<=               |
+|               =>>>  AMiGA:   m·O·T·i·O·n   SWiSS-HQ  <<<=               |
+|               =>>>  SNES!:  a·N·T·H·R·O·x  SWiSS-HQ  <<<=               |
+|               =>>>  SEGA!:  a·N·T·H·R·O·x  SWiSS-HQ  <<<=               |
+|               =>>>  ASCii:  a·R·T·c·O·R·e  SWiSS-HQ  <<<=               |
+|                                                                         |
+|                          Sysop:  FURY/PRESTiGE                          |
+|        Cosysops:  DEATHKNiGHT, BEAST, ECHO&GUIDO, SNAKE & DELBOY        |
+|                       -[dEViL&rAVEN]-, aRTiC CAT!                       |
+|                                                                         |
+|                 [ NODE-1: 33.6 V.34+]  [ +41 ASK-4-iT ]                 |
+|                 [ NODE-2: 33.6 V.34+]  [ +41 ASK-4-iT ]                 |
+| SYSPW REQUIRED! [ NODE-3: 33.6 V.34+]  [ +41 ASK-4-iT ]  NUP REQUIRED!  |
+|                 [ NODE-4: ISDN X.75 ]  [ +41 ASK-4-iT ]                 |
+|                 [ NODE-5: ISDN X.75 ]  [ +41 ASK-4-iT ]                 |
+|                                                                         |
+`========================================================================='
+
+.-----------------------------------------------------------------------------.
+|                    _______     _ _________ _________ _                      |
+|                   _\ ____(___ _\\\____   /_\ ______///_                     |
+|     fASTEST!      |  \        |     |/    \_________  |      wE`VE nO!      |
+|                   |         _ |     '     | _     \/  |                     |
+|    dEMO bOARD     |        \\\_           _///        |      gAMES bUT      | 
+|                   ¯\_         |           |         _/¯                     |
+|    iN gERMANY        `---------Ç-----------Ç-------dG'      pERFECT fUN     |
+|                                                                             |
+|                         L·O·S  E·N·D·O·S  B·B·S                             |
+|        _________ _ _ _________ _ _________ _ _________ _________ _          |
+|       _\ ______///_\\\  _    /_\\\____   /_\\\____   /_\ ______///_         |
+|       |     _)    |     |     |     `/    |     |/    \_________  |         |
+|       |         _ |     |     |     /     |     `     | _     \/  |         |
+|       |        \\\_     |     |   _/      |           _///        |         |
+|       ¯\_         |     |     |   \       |           |         _/¯         |
+|         `m!-------Ç-----|_____|----\______|-----------Ç---------'           |
+|                                                                             |
+`--------------.                                               .--------------'
+           ¡¯¯¯  uPLOADTIME: 12:57:47   uPLOADDATE: 25-Dez-95   ¯¯¯¡
+           |                                                       |
+           | uPLOADER: eXON!           / [^] r.I.O.t [^]    nODE:1 |
+           `-------------------------------------------------------'
+
+
+
+
+
+
+
+
+
+ __________
+ \    ____/__ ___ ______ ____ _____ ______  _ ____ ______  _____
+__\_____    /    /    _/_    |   _/_     /_____   \      \/   _/_ ________
+\__________/            /_____     /    /     /    \_  \  \     /        /__
+        _ __ ____\_____/__________/__________/______/___\______/  /_____/  /
+X- -- --- ---- ----- ------------------------------------_-__-____________/-X
+|                                                                           |
+|    · [UNiQUE] LEADER HEADQUATERS - [MORBiD] EUROPEAN HEADQUARTERS ·       |
+|         · [HELLFiRE], [LSD] aND [FLOOD] SWEDiSH HEADQUARTERS ·            |
+|                     · GENERAL /X BETATESTiNG SiTE ·                       |
+X- -- --- ---- ----- ----------------------------------- ----- ---- --- -- -X
+|  REcAll/MYSTiC^LSD^HELLFiRE^FLOOD - -jUAN&HARPOON!/TRSi^iNSANE^SKiD ROW   |
+|  CHARLiE/LSD - SNAKE & DELBOY/PRESTiGE^CREAM^MYTH - AXEN/LSD - ViSiTOR    |
+X------------------------------------------------------- ----- ---- --- -- -X
+|               AMiGA 4000/030/50, 16MB RAM, 1.6GiG STORAGE                 |
+|         MAXiMUM TRANSFERiNG OF [AMiGA], [CONSOLE] AND [PC] STUFF          |
+|          HOME OF AMiGA ANSi/ASCii ARTiSTS! FAST ONLiNE ORDERiNG           |
+|       LET THE NATURAL SELECTiON DECiDE WHERE TO GET THE FAST WAREZ        |
+|                     NUP REQUiRED! - WELCOME ONLiNE                        |
+X- -- --- ---- ----- ----------------------------------- ----- ---- --- -- -X
+|            NODE 1 US ROBOTiCS COURiER 33600 [+46-691-30800]               |
+|            NODE 2 US ROBOTiCS COURiER 33600 [+46-691-30996]               |
+|            NODE 3 US ROBOTiCS COURiER 33600 [+46-691-30599]               |
+|            NODE 4 US ROBOTiCS COURiER 28800 [+46-CHRiSTMAS]               |
+|            NODE 5 US ROBOTiCS COURiER 28800 [+46-CHRiSTMAS]               |
+X- -- --- ---- ----- ----------------------------------- ----- ---- -M- -- -X
+
+            THiS GUY: vIETCONg         ^ ==[·divine stylers!·==
+     iS ONE OF THE USERS WHO SUPPORTED STRONG AT 12-25-1995, 10:45:05
+
+
+
+
+
+
+
+
+
+
+
+[ s o f ]
+- ---( o h  m y  g o o d n e s s .   w h e r e  h a v e  y o u  b e e n ? )-- -
+                    ·
+ 
+           /\    ·/
+          //\\  //
+       .-//---\-/---------- CONTENTS ---------------------------.
+       |//    \/                                                |
+       |/                                                       |
+      //  Chapter 1: INTRODUCTION ..........line xxxxi          |
+     //|  Chapter 2: PREFACE ...............line ccciv          |
+    /· |  Chapter 3: THE BOOKS OF BLOOD ....line idlxvi         |
+    ·  |  Chapter 4: BOOKS-2-ASCII .........line mdccclxxxix   _|_
+  ·    |  Chapter 5: INFORMATION ...........line mmdxxxix      \|/
+       |  Chapter 6: DIVINE STYLERS INC ....line mmdcxxxiv      |
+       |  Chapter 7: FINAL WORDS ...........line mmdcclvii      |
+       |                                                        |
+       `--------------------------------------------------------´         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     _____  :_____
+- --. --- ------ -------------- - :_/ ___ \_|    /___  :________:
+__  |__ __.  ___ _i_  ___  ___    |    |  ·:|    . ·:\_|  _   ·:|
+\__ | / \_l_ \_/  l_, \_/_ \ ¬    |    |    |    :     | _/     |
+              \                   |    :    |    |     | \______|
+- --- ------ ---------------- --  |_________|____|_____|_____   |
+                                                       czar|____|
+            - i n t r o d u c t i o n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        
+
+
+
+
+     _ __/____                _____                         ____
+      __/    / ______________/    /_  _____ _  _______  __ /   / _____ _
+     /  \    \/    /  ___   /   ___/_/   _____/   _   \/  \    \/   _____
+ <--/   l\    \   /   \____/\   \    \   \    \   \    \   \    \   \    \-->
+   /__________/__/\_____\____\___\____\___\____\___\___/____\    \___\    \
+                /                                         kRm\____\  /____/
+                                  - the fellow is yellow!
+
+
+
+
+                                 ____ ___
+                                 \__/ \_
+                                       \
+
+
+
+
+              .
+            .:::
+            :::::.---------------------------------------.
+            ·::::|..::                   ...            .·.::..
+            `::::|::::            ..:·  .:::         .::·:·::::. .....
+             ::::|·' .   ..:·     ::::  :··       .::··  ¦ ·:::::::::::.
+ ..::::..    ::::|¸.::  :::·      ·::: ..:·  .. .::·     |  ::::::··:::::
+ :::::::::.  ::::|:::: ::::       :::::::: ::::::·       |  ::::::: ·:::::
+ ::::.··::::.::::¦::::.:::       .::::::: .:::::         |  :::::::   ·::::¸
+  ::::.  ·::::::::::::::::      ¸::· :::: :::::    ©Mt/dS! .:::::::    ·::::
+  ·::::   ··::::::::::::::.    .::·  :::::··'            | :::::::::..  ·::::
+   :::::   ::::::·::::·:::::..::·... ·::::¸              |.::: ·::::::::::··
+    ·:::: ·:::   ¦:::·  ·::::::::::::::::::.             |::::  ·::::  .......
+     ·::::::::   |·:·                · ·:::::::...       ::::    ·::::.::::
+      `·::··  .::··                        · ·::::::..   :·'      ·:::::::
+            .:::·|                             · ·:::::..|  ..:::  ·:::·
+    ....   ,:::· |                   .:::·         ·:::::¦.:::::::   ....
+  ::::::: .::::  ¦.       ..·       ::::      ..     ·  ::::·::::.::::::·
+  ::::::::··    ::::     :::·       ·::::  .::::::.  ..:::::  ::::::::::::
+  ::::·::::...:::::.    :::·      ...:::: .::::::::. ·:::::   ::::::: :::::
+  :::: ·:::: ··:::::::::::·    .::::·:::: :::::·::::: :::::   ::::::: ·::::
+  ::::  :::::  ::::·  ::::     :::: ::::: ::::· ·:::::·::::   ·' ::::  ::·
+  ::::·  :::: .:::·  .::::    .:::: ::::: ::::·  ·:::::::::.     :::·    ...:.
+  ·::::  ...::::::   .::::    .:::: ::::: :::::   `:::::::::    :::::·.····:::
+  `::::····:::::::.:::::::..  ::::: ::::...::::..:·''   ·::::    `· ...  .:::'
+         .::··::::::: `::::`··::::  :::::::::::: .:::·   ··'       :::· .::'
+      ···'    :::¦:·    ...  .:::   `:::·' ·::::.::::    :       .:::.:::'
+              `· |    ¸:::.::··             :::::::·     ¦      :::::·'
+                 |    ::··'                 `:::::·      |      `·'
+                 ·                                       :
+
+
+
+                        · W I Z e M A N   S A Y S ·
+
+                                   .oOo.
+                              --++**0Ø0**++--
+
+          .oOOOo. ooo ooo .oOOOo. .oOOOo. .oOOOo. OOOOOo. .oOOOo.
+          OOO OOO OOO OOO OOO OOO OOO OOO OOO OOO OOO OOO OOO OOO
+          OOO OOO OOO OOO OOO OOO OOO     OOO OOO OOO OOO OOO OOO
+          OOO OOO OOO OOO OOO OOO OOO     OOO OOO OOO OOO OOO OOO
+          OOO OOO OOO OOO OOO OOO OOO     OOO OOO OOO OOO OOO OOO
+          OOOOOOO °OO.OO° OOO OOO OOO OOO OOOOOOO OOO OOO OOO OOO
+          OOO OOO  °OOO°  °OOOOO° °OOOOO° OOO OOO OOOOOO° °OOOOO°
+
+           .     .oOOOo. .oOOO .oOOOo. OOO .oOOOo. .oOOOo.     .
+          oOo    OOO OOO OOO   OOO OOO ooo OOO OOO     OOO    oOo
+       °OOOOOOO° OOO OOO OOOO  OOO     OOO OOO     OOO OOO °OOOOOOO°
+        .oO°Oo.  OOO OOO OOO   °OOOOo. OOO OOO OOO OOO OOO  .oO°Oo.
+        °     °  OOO OOO OOO       OOO OOO OOO OOO OOO OOO  °     °
+                     OOO OOO       OOO °OO OOO OOO OOO OOO
+                 OOOOOO° °OOOOOOo.oOO°  °O °OOOOOO OOO OOO MRS!
+        
+
+                              --++**0Ø0**++--
+                                     °
+              " W E   D o N T   S U C K   B I G   D I C K S "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                ____ ____ ____    __, ____   .___ _i_    __,
+                \__/ \  ¬ \__/__ `--, \__/__ |  /  l__, `--,
+                 \               ¯¯¯                    ¯¯¯
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        his 7th ascii collection called
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- ----------------------------------------------------------------------- -
+ _____.                             .______
+ \   _|____ _________ ________._____|     /__________   _________ ___________
+ /   __    \    _    \    _    \   _|  __/    ______/  /    _    \\_   _____/
+/     |     \   |     \   |     \  __    \______    \ /     |     \    __|
+\___________/_________/_________/___|     \_________/ \___________/____|
+                                    |______\skZ
+          _____.                                           ._____
+          \   _|____ ______.     _________  _________  ____|_   /
+          /   __    \\     |____/_   _    \/    _    \/    __   \
+         /     |     \     |     /   |     \    |     \    |     \
+         \___________/__________/__________/__________/__________/
+
+- ----------------------------------------------------------------------- -
+
+
+
+
+                            v o l u m e   f o u r
+
+
+
+
+
+
+
+
+   .______    ______.
+ __|_   _/__  \    _|_____ ____________
+ \__    ___/__/_   __     \\______    /_
+  /     |      /    |      \_   _____/ /
+  \___________/_____|_______/_________/
+                                                              .______
+     ______. .______ ___________ ___________ ______.     _____|_    /
+     \     |_|     //     _     \      _    \__    |____/__   __    \
+     /     | |     \      |      \     |______/    |      /   |      \
+     \______|______/_____________/_____|    \____________/___________/
+                                          ________  _____________
+                                         (________)/     _______/
+                                         /        \________     \
+                                         \_________/____________/
+                                             .______
+  ____________ __________  ___________  _____|_    /
+ /    _______/_    _     \/     _     \/     __    \
+/     \_      /    |      \     |      \     |      \
+\____________/____________/____________/____________/
+                                                .______
+                  ____________ __________  _____|_    /
+                  \_______    \     _    \/     __    \
+                  /     _/     \    |     \_    |      \
+                  \____________/____|______/___________/
+
+                        .______  ______.
+____________ ___________|    _/__\    _|_____ _______ __________ ____________
+\     _     \    _     \_    ___/___  __     \_______)     _    \    _______/_
+/     |      \_  |      \    |     /   |      \_     \_    |     \_  \_      /
+\_____|_______/_________/_________/____|_______/______/____|______/_________/
+                                 ______.                         .______
+                                 \    _|_____ ____________  _____|_    /
+                                 /    __     \\_______    \/     __    \
+                                /      |      \     _/     \     |      \
+                                \_____________/____________/____________/
+_____________     ._________________ ________
+\_______    /_ ___|      /_____    /_    _   \___
+/     _____/ /    |     /    _____/ /    |______/
+\___________/__________/___________/_____|skZ
+ ______.
+ \    _|_____ ___________ ___________ _________ _________ ________ __________
+ /    __     \ ______    \ _____     \____     \____    /_   _    \    _____/
+/      |      \_   _/     \    ______/   ______/  _____/ /   |     \_____   \
+\______|_______/__________/____|  \______|   \__________/____|______/_______/
+
+
+t h e  w o r l d  i s  g o o d  &  n o t h i n g  b a d  e v e r  h a p p e n s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  :____:                   _____   
+- --. --- ------ -------------- - |  ·:|____:___:   :___:_/ ___ \_:
+__  |__ __.  ___ _i_  ___  ___    |  ______/|   |___| ·:|    |  ·:|
+\__ | / \_l_ \_/  l_, \_/_ \ ¬    |    |  ·:|   |   |   |    |    |
+              \                   |    :    |   :   :   |    :    |
+- --- ------ ---------------- --  |_________|___________|_________|czar
+            - p r e f a c e
+        
+
+
+
+
+
+
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+                      every body is a book of blood;
+                     whenever we`re opened, we`re red.
+
+                                         - Clive barker
+
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                ·
+____
+\__/___ ____  ___ ___.  __   ____ \
+ \  \ ¬ \__/_ \_  \__l_ \___ \__/_ \                /\
+   _      _    \  _ _____ __ _ _____\  /\          //\\
+                                    \\//\\        //  \\
+    oOoOoOOOooOooooOOoOOOOOOOOOOooooO\/oo\\OoOooO//ooOo\\oooOOOoOooOo
+   OOoOOooOOOOoOooooooOOOOoOOooOooOOooOOoo\\ooOO//OooOoO\\OooOOoOoOOoO
+   oOooOoO                                 \\  //        \\    ooOOooo
+   oOoOOoO wow!  It`s been over a month     \\//          \\   oOOoOOo
+   ooOOooo since i last released something!  \/            \\  OoooooO
+   oOOoOOo I just got so bored of making ascii              \\ oOOooOo
+   OoooooO (the main reason was that recall installed my name\\ooOooOo
+   oOOooOo  in his orderdoor, and so that i all of a sudden   \\OooOoO
+   ooOooOo  got over 30 requests at one time. Need i tell you  \\OoooO
+   oOooOoO  that i lost ALL inspiration whatsoever?)           O\\ooOo
+   ooOoooO But, now I`m back. I spoke to Trivial at undercover oO\\ooo
+   OoOooOo i joined forces with divine stylers and left my     OOO\\oO
+   OOoOooo position as abandoned leader of offspring.          OOoO\\o
+   OOOOOoO Speaking of which... In case you wondered what      ooOoo\\___ _
+   OOoOoOo really happened i can tell you this. When Hotwire   ooOOoo\
+   ooOoooO and relief realised that oS! had gone haywire they  OOoOOoO\
+   ooOOooO left and founded twisted. But, since I can`t call   OoooOOO \
+   OOoOOoO abroad that much i wouldn`t be able to keep in      oOOoOOo
+   oooOooO touch properly with the rest of the group they      ooOooOO   ·
+   oOOoooo didn`t want me in the group. Ok, it sounded ok to   OoooooO
+   oOooOoO me at first, but then i started thinking about it.  oOOooOo
+   oOoOOoO Why didn`t they clean up offspring and throw out    ooOooOo
+   ooOOooo the members they didn`t want? Why did i have to     oOooOoO
+   oOOoOOo suffer for THEIR mistakes? Well, one reason could   ooOoooO
+   OoooooO be that the name of offspring now had a bad rep...  OoOooOo
+   oOOooOo Ok, i can live with that. One thing however upset   OOoOooo 
+   ooOooOo me a bit. Hotwire: You said that -T had reached     OOOOOoO
+   oOooOoO its limit in members. Whay did you then let dV$     OOoOoOo
+   ooOoooO join? I just want to know... Err, a note to all of  ooOoooO
+   OoOooOo you reading this: I`m still the best of friends     ooOOooO
+   OOoOooo with Hotwire and Relief, so don`t you think that    OOoOOoO
+   OOOOOoO I`m trying to write some kind of slagoff text here. oooOooO
+   OOoOoOo And no offence to Devistator. You`re a great artist oOOoooo
+   ooOoooO man. Make me some logos whydontcha?                 oOooOoO
+   ooOOooO So, as i understood the situation i was leader of   oOoOOoO
+   OOoOOoO offspring (who only consisted of Me, Tommy, Snuffy  ooOOooo
+   oooOooO jedi and satans fire). But, after talking to Tommy  oOOoOOo
+   oOOoooo (the only other swedish member) i decided to scrap  OoooooO
+   oOooOoO the whole thing. I simply couldn`t afford to call   oOOooOo
+   oOoOOoO to norway and other countries. Sorry. But things    ooOooOo
+   ooOOooo seem to have worked themselves out now.             oOooOoO
+   oOOoOOo I joined Divine Stylers. Jedi quit the scene.       ooOoooO
+   OoooooO Tommy joined Epsilon Design. Satans fire founded    OoOooOo
+   oOOooOo Caustic Style and Snuffy joined his previous group. ooooOoo
+   ooOOoOO Best of luck to all of you.                         OOOOOoO
+   oOooOoO Well, the other reason for my inactivity            OOooOoO
+   ooOoooO is that i`ve started studying at the university.    OOooOOo
+   OoOooOo I`ve been so busy flunking exams that i`ve hardly   OOooOoo
+   OOoOooo been in front of my amiga. (only in front of the    OOooOoO
+   OOOOOoO macintosh`s (or even worse, the PC`s) in school).   OOooOoO
+   OOoOoOo I have hardly had time to trade, let alone do all   oOOoOoO
+   ooOoooO the ascii requests i`ve been getting. Now i atleast oOOOooo
+   ooOOooO have a few weeks to spare. Thank goodness for that! OooOoOO
+   OoOOooo                                                     OooOooO
+   oOOooOo Well, now some other things have happened too.      OOooOOO
+   OooOoOO Inhumans are dead, and I`m once again looking for   OooOooo
+   OOooOOO a group to join as a trader... just check out the   OoooOoO
+   ooooOOo dreamcharts and judge for yourself...               oooOooO
+   oOooOoO                                                     OooOOoO
+   OooOOoo And I`m NOT in unique arts either. Not that I have  oOOooOo
+   OooOOoO anything against them, it`s just that i`m mot a     oooOoOO
+   OOoOooO member. Respekt!                                    OOoOOoo
+   oOOoOoO                                                     OooOoOO
+   OooooOO Btw, some group called kinky changed name to        OOooOoO
+   oooOoOo Avocado. If you know them, can you tell then that   oooOooo
+   ooOOoOO Avocado Design have existed for over three years?   oOOOOoo
+   OoOOoOo                                                     OooOooo
+   oooOooO Wow, this was a bit longer than my previous         OOOooOo
+   ooOooOo prefaces. I could go on and on, but i wont  (:      OooOoOO
+   oOOoOoO                                                     oooOooO
+   OOoOOoO Well, i hope you`ll enjoy this collection.          OooOoOo
+   oooOooO Best wishes:                                        oOOooOO
+   ooOooOo                                                     OooOooO
+   oOOoooo                   vIETCONg/dIVINE sTYLERS^aVOCADO!  oOOooOO
+   OooOooO                           (looking for more groups) oOOooOO
+   ooOOooO                                                     OOOOooo
+   oOOooooOooooOOOoooooOOooOoooOooooOoOOoOoOooOoOooooOoOOOooOOoOoOoOoo
+    OooOooOoOOooOoOoooOOoOoooooooOoooOoooOoOOOooOoOOoooOOoOOooOOOOooO
+
+
+
+
+
+
+
+
+
+
+
+                   __ __                             __ __
+                  /__\//                             \\/__\												luv! luv! luv!																		
+                  \_ \\_ so... let`s get on with it! _// _/
+                     ///                             \\\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                             :____:    :____.
+- - . --- ------ --------- - |  ·:|____|  ·:|     :_______:________:________:
+__  |____. ____i_ ___ ___    |  ______/|    |___  | _   ·:|  _   ·:|  _   ·:|
+\__ | /\_l_\_/ l_,\_/_\ ¬    |    |  ·:|    .   \_| |     | _/     | _/     |
+            \                |    :    |    :     | |_____| \______| \______|
+- -- ------ ------------ --  |_________|____|_____|____|  |_____   |_____   |
+           - t h e  b o o k s  o f  b l o o d             czar|____|   |____|
+
+
+
+
+
+
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+             My life is all right now, everythings fine.
+             Just heard from my doctor; my cancers benign.
+             People are nice here, I love my towm.
+             Got evicted two days before my house burnt down.
+
+             The world is good and nothing bad ever happens!
+
+                                                           © Cat Rapes Dog
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+
+
+
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    1  
+| ___,           | and nothing  b a d | lOGO nAME:      carpe diem
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: can`t remember
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+     .
+ c . .
+ a . :
+ r : ¦__/\_______/\___  __/\___  __/\___  __/\_____
+ p ¦ |\_  _______  .  \ \_  .  \ \_  .  \ \_  ____/     . ·      __.__
+ e | |/   \____/   |   \/   | _/_/   |   \/  __/________| l ____ \ ` /
+   | /     \   \   .    \   .    \   .___/   \      /\__l   \__/__
+== | \____      \__l     \__l     \_ | = \____      \_ ================
+== | ¦dS!\_______/\_______/\_______/_l ===== \___ ___/ vC!=============
+ d ¦ :                                          \/
+ i : ·
+ e · .
+ m .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    2
+| ___,           | and nothing  b a d | lOGO nAME:      corrosion
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: infusion
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+.--------------------------------------------------------------. 
+¦__/\_____                                                     ¦
+:\_  ____/__/\___                                              | corrosion!
+·/   \____\_  .  \ __/\___                                     ¦
+/     \   \   |   \\_  .  \ __/\___                   .        `-----------.
+\____      \_ |    \   | _/_\_  .  \ __/\___          .   ·                ¦
+.dS!\_______/_      \_ .    \   |  /_\_  .  \ __/\_____   :                |
+¦            \_______/_l     \_ .    \   |   \\  _____/ __/\___            |
+|                     \_______/_l     \_ |    \\_____ \ \_· .  \ __/\___   |
+|                              \_______/_      \_   / ·\/ · |   \\_     \  |
+|                                       \_______/_    · \_· |    \   |   \ ¦
+¦                                                \_______/__      \_ |    \·
+`---------------------------------------------------- ¦   ¦\_______/_l     \_
+                                                      ·   :      vC!\_______/
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    3
+| ___,           | and nothing  b a d | lOGO nAME:      corrosion file_id
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: infusion
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+       __/\_______/\___  __/\_____
+.----- \_  _______  .  \ \  _____/ --------.
+¦corro /   \____/   | _/_/\_____ \ blahuja ¦
+|sion /     \   \   .    \     /  \ heppli |
+¦give:\____      \__l     \__      \_ hupp ¦
+`- vC!/dS!\_______/\_______/\_______/ -----´
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    4
+| ___,           | and nothing  b a d | lOGO nAME:      czar file_id
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: cZAR
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+  __/\_______/\___  __/\___  __/\___vC!/dS!
+ .\_  ___________ \.\_  .  \.\_  .  \.....
+¦:/   \____/ _____/\/   |   \/   | _/_   ::
+|/     \   \ \      \   .    \   .    \ \|¦/
+|\____      \__      \__l     \__l     \_\/
+¦|   \_______/\_______/\_______/\_______/
+:¦czar presents his fifth collection called:
+·:          vietcong for president
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    5
+| ___,           | and nothing  b a d | lOGO nAME:      divine stylers
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: all dS! members
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                     ·   .
+  .------------------- ·   . ------- .   . -----------------------------.
+  ¦  d  i  v  i  n  e  .   .__/\.__  ·   .__/\___  s  t  y  l  e  r  s  ¦
+  |          ___/\___  .   :\_  |  \ :   :\_     \  __/\_____           |
+  |          \______ \ :   ¦/   |   \¦   ¦/   |   \ \_  ____/           |
+  |           /    |  \¦   /    |    \   /    |    \/  __/_____         ¦
+  ¦          /     |   \   \____      \_ \____l     \_ \      /         :
+  :          \____      \_ ¦   \_______/ :   \_______/__      \_        ·
+  ·           dS!\_______/ :         ·   .             \__ ____/        :
+  :                    ·   .                              \/            ¦
+  ¦    __/\______/\__  __/\.__  __/\.    __/\_______/\___  __/\_____    |
+  |    \  ________   \ \   |  \ \_  l___ \_  _______  .  \ \  _____/    |
+  |    /\_____ \ |    \/\____  \/   |   \/  __/___/   | _/_/\_____ \    ¦
+  `-- /      /  \|     \    /   \   |    \  \     \   .    \     /  \ --´
+      \____      \_     \__      \__      \__      \__l     \__      \_
+       vC!\_______/______/\_______/\_______/\_______/\_______/\_______/
+
+
+
+
+
+      . ·     . ·
+   .  . :  .  . :  .      .      .    .      .      .      .      .      .
+__/|_ · ¦_/|_ · ¦_/|_  __/|_____/|___/|_  __/|_  __/|   __/|_____/|_  __/|___
+_____\: \_ | \: \_   \ \_  __/\  _____  \ \  | \ \_ l__ \_  _____ . \ \  ___/
+/   | ¦ |  |  ¦ |  |  \/  _/__/\___ \|   \/\___ \/  |  \/  _/__/  ` /_/\___ \
+\__ ` |\¦__´  |\¦__|   \__`   \__ ´  \_   \__ ´  \__`   \__`   \__|   \__ ´  \_
+  \___:_7 \___¦_7 \_____/\_____/\_____/____/\_____/\_____/\_____/\_____/\_____/
+vC!/dS! .     : ·
+      · .     · .
+
+
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    6
+| ___,           | and nothing  b a d | lOGO nAME:      divine stylers file_id
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: all dS! members
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+         ___/\___  __/\_____ .---.
+.------- \______ \ \  _____/ |   | ---------.
+| divine  /    |  \/\_____ \ ¦   ¦ cHILDISH!|
+|stylers!/     |   \     /  \:___: featuring|
+¦presents\____      \__      \___  vIETCONg!¦
+`---- vC!/dS!\_______/\_______/__¦ ---------´
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    7
+| ___,           | and nothing  b a d | lOGO nAME:      dream engine
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: shellshock
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+           .   ·
+           .   .
+           :___/\___  __/\___  __/\_______/\___  __/\  _     
+           ¦\______ \ \_  .  \ \_  _______  .  \ \_  \/ \
+           | /    |  \/   | _/_/  __/___/   |   \/  \  / \   
+           |/     |   \   .    \  \     \   .    \   \/   \  
+           |\____      \__l     \__      \__l     \__/     \_
+           |   .\_______/\_______/\_______/\_______/\_______/
+           | d |
+           | r |
+   ======= | e | ====================================================
+========== | a | ================================================
+   ======= | m | ====================================================
+           |   |
+           |   |                             ·   .
+           | e |  __/\_______/\___  __/\_____:   .__/\___  __/\_____
+           | n |  \_  _______     \ \_  ____/¦   :\_     \ \_  ____/
+           | g |  /  __/___/   |   \/   |   \|   ¦/   |   \/  __/_____
+           | i ¦ /   \     \   |    \   |    \   /    |    \  \      /
+           ¦ n : \____      \__l     \__      \_ \____l     \__      \_
+           : e ·  dS!\_______/\_______/\_______/ ¦vC!\_______/\__ ____/
+           ·   .                             ¦   :               \/
+           .                                 :   .
+               .                             .
+           .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    8
+| ___,           | and nothing  b a d | lOGO nAME:      dwayne goettel
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: ogilvie / royal
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+___/\___  __/\.__  __/\___  __/\.__  __/\___  __/\_____ 
+\______ \ \_  |  \ \__ .  \ \   |  \ \_     \ \_  ____/ 
+ /    |  \/   |   \/   |   \/\____  \/   |   \/  __/_____
+/     |   \  /¯\   \   .    \    /   \   |    \  \      /
+\____      \__      \__l     \__      \__l     \__      \_
+ dS!\_______/\_______/\_______/\_______/\_______/\___ ___/
+                                        .        vC!\/
+            ___. _oO_ _i_  _i_   ____   |
+            \__| \__/  l__, l__, \__/__ l__,
+             --´                       
+
+
+
+
+
+  ___/\___  __/\.__  __/\___  __/\.__  __/\___  __/\_____ 
+  \______ \ \_  |  \ \__ .  \ \   |  \ \_     \ \_  ____/ 
+   /    |  \/   |   \/   |   \/\____  \/   |   \/  __/_____
+  /     |   \  /¯\   \   .    \    /   \   |    \  \      /
+  \____      \__      \__l     \__      \__l     \__      \_
+   sS!\_______/\_______/\_______/\_______/\_______/\___ ___/
+                                                      \/
+ __/\_______/\___  __/\______/\_____/\__  __/\_______/\.
+ \_  _______  .  \ \_  ______.   ___.   \ \_  _______  l___
+ /   |   \/   |   \/  __/___ |    \ |    \/  __/___/   |   \
+/    |    \   |    \  \     \|     \|     \  \     \   |    \
+\____      \__      \__      \_     \_     \__      \__      \_
+ vC!\_______/\_______/\_______/______/______/\_______/\_______/
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    9
+| ___,           | and nothing  b a d | lOGO nAME:      everyware
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: shade / trsi
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+            __/\_______/\.__  __/\_______/\___  __/\.__
+            \_  _______  |  \ \_  _______  .  \ \   |  \
+ _ ____ ___ /  __/___/   |   \/  __/___/   | _/_/\_____ \ ______
+  -  ----- /   \     \   |    \  \     \   .    \     /  \ ----.¦
+ ·         \____      \__      \__      \__l     \__      \_   ¦|
+            vC!\_______/\_______/\_______/\_______/\_______/ __||__
+   \             __/\.__  __/\___  __/\___  __/\_____        \ || /
+    \            \_  |  \ \_  .  \ \_  .  \ \_  ____/everyware\¦¦/
+   __\   __  ___ /   |   \/   |   \/   | _/_/  __/_____ _______\/
+ -   \\  /\ --- /   /¯\   \   .    \   .    \  \      / --------´
+      \\//\\    \____      \__l     \__l     \__      \_
+       \/  \\    dS!\_______/\_______/\_______/\__ ____/
+            ·\___ _______ ___   _                 \/
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    10
+| ___,           | and nothing  b a d | lOGO nAME:      giants
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: rooster
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+- -- --- ---- --------.
+                      :   :
+wE aRE hUGE!__/\_____ :   :__/\___  __/\______/\__  __/\_____
+            \_  ____/ ¦   ¦\_  .  \ \_    ·.__.   \ \  _____/
+            /   |   \ |   |/   |   \/   |   \ |    \/\_____ \
+           /    |    \|   /    .    \   |    \|     \     /  \
+           \____      \_  \____l     \__l     \_     \__      \_
+            dS!\_______/  :vC!\_______/\_______/______/\_______/
+                      :   :
+                          `-------- ------- ------ ----- ---- --- -- -
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    11
+| ___,           | and nothing  b a d | lOGO nAME:      holiday inn
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: wingnut
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                           __ ·   . ______________________  /\
+                           \  .   .                       \/  \
+   __/\.    __/\___  __/\.  \ .   ___/\___  __/\___  __/\.__   \  _____
+- -\_  l___-\_  .  \-\_  l___-:   \______ \-\_  .  \-\   |  \  -\/---./
+   /       \/   |   \/   |   \¦   |/    |  \/   |   \/\____  \       /
+  /    |    \   |    \   |    \   /     |   \   .    \    /   \     /|
+  \____l     \__      \__      \_ \____      \__l     \__      \_  / |
+   dS!\_______/\_______/\_______/ :   \_______/\_______/\_______/ /  |
+                              ·   ·                              /   |
+                              :    \                            /    |
+                              ¦   ·__/\___  __/\___  /\        /     |
+    !-· holiday !- inn -.     |   :\_     \ \_     \·  \      /      |
+                              |   ¦/   |   \/   |   \   \    /       |
+                              ¦   /    |    \   |    \   \  /        |
+ - --   - - - -   - -    ---- :   \____l     \__l     \_ -\/--- -  --´
+                              :   :vC!\_______/\_______/   
+                              ·   .       ·    ·
+                              .            \  /
+                                  .         \/ 
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    12
+| ___,           | and nothing  b a d | lOGO nAME:      homicide
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: homicides friend
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                               ··
+                              ·  ·
+                             ·    ·
+·                           ·      ·
+ ·                         ·homicide· 
+  \                       ·········:··       .
+   \                     /     .   :  \      :   .
+_ __\_/\.    __/\___  __/\  _  :   ¦__/\_____¦   :__/\___  __/\_____       ·
+    \_  l___ \_  .  \ \_  \/ \ ¦   |\_  ____/|   \______ \ \_  ____/
+    /       \/   |   \/  \  / \|   |/   \____|   |/    |  \/  __/___     ·
+   /    ¦    \   |    \   \/   \   |     \   \   |     |   \  \     \   /
+   \____l     \__      \__/     \_ ¦____      \_ |____      \__      \_/__ _
+    dS!\_______/\_______/\_______/ :vC!\_______/ ¦   \_______/\________/
+                               :   ·         ·   :
+        - w i t h   a n   i !  ·                 ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+             Me and my friend, we broke up just before
+             he got careless and got AIDS from a whore.                                                                                                                                       visst låter det bögigt? Det är Annelie som sjunger, så bli inte lurade...
+             My good fortune, my good luck.
+             Protected me from a fatal fuck.
+
+             The world is good and nothing bad ever happens!
+
+                                                           © Cat Rapes Dog
+
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+
+
+
+
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    13
+| ___,           | and nothing  b a d | lOGO nAME:      interchange
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: princip / quartex
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                                   
+                           
+                           
+                ·
+                :   :__/\______/\__  __/\_______/\___
+                ¦   ¦\_     ____   \ \_  _______  .  \
+ _  ____ ______ |   |/   |   \ |    \/  __/___/   | _/_ _____________
+-  -- --- ----- |   /    |    \|     \  \     \   .    \ -----------.¦
+   ____________ ¦   \____l     \_     \__      \__l     \_ _______  ||
+  ¦.----------- :   :dS!\_______/______/\_______/\_______/ ------.¦ ||
+  ||            ·   .                                            || ||
+  || QUARTEX SHQ * MOTION SHQ * OLDSKOOL SHQ * FAIRLIGHT c64 SHQ || ||
+  ||                                                             || ||
+  || +46-8-6082340  3nODEZ rINGDOWN * aMIGA^cONSOLE^pC^aSCII^c64 || ||
+  ||                                                             || ||
+  ||                         sYSOP: PRINCIP                      || ||
+  || -cOsYSOPS: hURRICANE - pITCH - lOGIC - uFOK - bILBO bAGGINS || ||
+  ||    fLATLINE^sNAPCASE - sLAVER^iRONCODE - rING+rING - sYS    || ||
+  ||                                                             || ||
+  ||     __/\_______/\.    __/\___  __/\___  __/\_______/\_____  || ||
+  ||     \_  _______  l___ \_  .  \ \_     \ \_  _______  ____/  || ||
+  ||     /   \____/       \/   |   \/   |   \/   |   \/  __/_____·¦ ||
+  ¦¦___ /     \   \   |    \   .    \   |    \   |    \  \      / __¦¦
+  `---- \____      \__l     \__l     \__l     \__      \__      \_---´
+         vC!\_______/\_______/\_______/\_______/\_______/\__ ____/¦
+                                  _      ___________________\/___¦|
+                                       -     ---------------------´
+
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    14
+| ___,           | and nothing  b a d | lOGO nAME:      last rights
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: ogilvie / royal
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+ __/\.    __/\___  __/\______/\__                .
+ \_  l___ \_  .  \ \  _______.   \   ____ · ___. |___ _i_    __,
+ /   |   \/   |   \/\_____ \ |    \  \  ¬ l \__| l  /  l__, `--,
+/    |    \   .    \     /  \|     \        ---´            ¯¯¯
+\____      \__l     \__      \_     \_
+ dS!\_______/\_______/\_______/______/vC!
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    15
+| ___,           | and nothing  b a d | lOGO nAME:      mind - t.p.i
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: ogilvie / royal
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                                    .
+          .   ·                               _i_   |___ ____
+ __/\  _  .   :__/\___ ___/\___                l__, |  / \__/__           .
+ \_  \/ \ :   ¦\_     \\______ \   ----,____  ____----,____ _i_  _   ___. |
+ /  \  / \¦   |/   |   \/    |  \   l¯¯ \__/__\  ¬ l¯¯ \__/__l__,\__/\__l_l__
+/    \/   \   /    |    \    |   \  · ___ _i_  ___ ___ __ ___ _   ___ __,___
+\____/     \_ \____l     \__      \_l \ /  l__,\_/_\ ¬ \__\_/ \_/ \ ¬`--,\_/__
+ dS!\_______/ :vC!\_______/\_______/                                 ¯¯¯
+          ·   .                      -! mind: the perpetual intercourse !.
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    16
+| ___,           | and nothing  b a d | lOGO nAME:      nivek
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: ogl/ryl or nvk/hny
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+          ·   .
+ __/\___  :   .__/\.__  __/\_______/\.__
+ \_     \ ¦   :\_  |  \ \_  _______  |  \
+ /   |   \|   ¦/   |   \/  __/___/    __/_
+/    |    \   /    |    \  \     \   .    \
+\____l     \_ \____      \__      \__l     \_
+ dS!\_______/ :vC!\_______/\_______/\_______/
+          ·   .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    17
+| ___,           | and nothing  b a d | lOGO nAME:      oldskool (2)
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: princip / quartex
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+ __/\___  __/\.   ___/\___  __/\_______/\.__  __/\___  __/\___  __/\.
+ \_  .  \ \_  l___\______ \ \  ________  |  \ \_  .  \ \_  .  \ \_  l___
+ /   |   \/   |   \/    |  \/\_____ \/    __/_/   |   \/   |   \/   |   \vC!
+/    |    \   |    \    |   \     /  \   .    \   |    \   |    \   |    \
+\____      \__      \__      \__      \__l     \__      \__      \__      \_
+ dS!\_______/\_______/\_______/\_______/\_______/\_______/\_______/\_______/
+
+
+
+
+
+                       __/\___  __/\.   ___/\___ 
+                       \_  .  \ \_  l___\______ \
+                       /   |   \/   |   \/    |  \
+                      /    |    \   |    \    |   \
+                      \____      \__      \__      \_
+                       dS!\_______/\_______/\_______/
+               __/\_______/\.__  __/\___  __/\___  __/\.
+               \  ________  |  \ \_  .  \ \_  .  \ \_  l___
+               /\_____ \/    __/_/   |   \/   |   \/   |   \
+              /      /  \   .    \   |    \   |    \   |    \
+              \____      \__l     \__      \__      \__      \_
+               vC!\_______/\_______/\_______/\_______/\_______/
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    18
+| ___,           | and nothing  b a d | lOGO nAME:      orion
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: orion
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -                                                                                       Wow! A hidden part (:
+                                                                                                                                                                I hate you all!
+
+
+
+
+                                                           ·
+                                                         ·
+                                                         . :
+                                     .------------------ . ¦ --   -
+                                     .                   :o|
+                                 ·   :                   ¦r|
+              __/\___  __/\___   ·   :__/\___  __/\___   |¡|
+              \_  .  \ \_  .  \  ¦   ¦\_  .  \ \_     \  |o|
+              /   |   \/   | _/_ |   |/   |   \/   |   \ |n|
+             /    |    \        \|   /    |    \   |    \· |
+             \____      \__l     \_  \____      \__l     \_¦
+              vC!\_______/\_______/  ¦   \_______/\_______/:
+        /\    /                  :   :                   · .
+       //\\  /                   ·   .                   ·
+ - - -//--\\// -- -- -   --------´                       . ·
+     //    \/
+     /      
+    /
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    19
+| ___,           | and nothing  b a d | lOGO nAME:      phenox
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: phenox
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+           __/\___  __/\.    __/\_______/\___  __/\___  __/\.____   
+ ___ ___ __\_  .  \ \_  l___ \_  _______     \ \_  .  \ \__ | __/ _ ___ ___
+  p  h  e  /   |   \/       \/  __/___/   |   \/   |   \/   .   \  n  o  x
+ -- -- -- /    ____/    |    \  \     \   |    \   |    \   |    \ -- --- -
+        _/     |   \____l     \__      \__l     \__      \__l     \_
+        \______lvC!/dS!\_______/\_______/\_______/\_______/\_______/
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    20
+| ___,           | and nothing  b a d | lOGO nAME:      phenox file_id
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: phenox
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+.       __/\___  __/\.    __/\.____       ·
+:phenox!\_  .  \ \_  l___ \__ | __/!phenox:
+¦p r e s/   |   \/       \/   .   \e n t s¦
+|      /    ____/    |    \   |    \      |
+|    _/     |   \____l     \__l     \_    |
+|    \______lvC!/dS!\_______/\_______/    |
+`---    (snes) vietcong crackpatch     ---´
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    21
+| ___,           | and nothing  b a d | lOGO nAME:      pitch
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: pitch / rebels
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                    ·
+                                    .     pitch: -cooler than the best!
+                                    :
+                                    ¦
+                                    |.---------------- -- ----  --- -
+                                    |¦
+                                    ¦|
+                __/\___  _______/\__ ¦__/\_______/\.
+                \_  .  \ \___.___   \·\_  _______  l___
+                /   |   \¦   |  |    \/   \____/       \
+               /    ____/|   |  |     \    \   \   |    \
+             _/     |    |   |  |      \__      \__l     \_
+             \______ldS! ¦   l  l_______/\_______/\_______/
+                         :   ¦   vC!.·
+                         ·   :      ¦: 
+   --- ------ ------- -- .   · - ---´¦
+                             .       |
+                                     |
+    pitch: -hotter than the rest!    |
+                                     ¦
+                                     ·
+                                     .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    22
+| ___,           | and nothing  b a d | lOGO nAME:      princip
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: princip / quartex
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+                \/\ \\ /\ \  \\ \/   \/\  \ / /\  \/\  \/
+        /\/ \/\/ \/ \/ \   \//\ //\/   /\/\/   \ /\//  \\\/ / /\ \
+      \\/\ // \\/   \/// \\    \//     /\\\    \////   \/\/\  /\\ /\
+   /\/\ /                    .   ·                   ·   .     \\//\
+   \ /__/ __/\___  __/\___   :   :__/\___  __/\_____ :   :__/\___ \\/
+    /|/   \_  .  \ \_  .  \  ¦   ¦\_     \ \_  ____/ ¦   ¦\_  .  \ //
+_  _ \ _  /   |   \/   | _/_ |   |/   |   \/   \____ |   |/   |   \_ _ _ _
+  _  |\  /    ____/    .    \|   /    |    \    \   \|   /    ____/ _ ___
+ _ __  _/     |   \____l     \_  \____l     \__      \__/.    | __ _ ___ _
+ _ __ _\______l       \_______/  :dS!\_______/\_______/\______lvC! _____ _
+_____________________________·   .___________________.   ·_____________ __
+________ p r i n c i p    c o m m i n `    t o    y a    l i v e _________
+__________________________________________________________________________
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    23
+| ___,           | and nothing  b a d | lOGO nAME:      prodigy
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: ezco / prodigy
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                  .
+                  .·
+                  :.
+                  ¦:
+  = == ====== ====|¦ ======================== ====  = =     = =     =
+= ==   ====   ====||=================== ==. ==    == ===== =    =
+  __/\___  __/\___||__/\___ ___/\___  :   :__/\_______/\.__
+  \_  .  \ \_  .  \|\_  .  \\______ \ ¦   ¦\_  ______   |  \
+  /   |   \/   | _/|/   |   \/    |  \|   |/   |   \/\____  \
+ /    ____/    .    \   |    \    |   \   /    |    \    /   \
+/     |   \____l     \__      \__      \_ \____      \__      \_
+\_____l    dS!\_______/\_______/\_______/ :vC!\_______/\_______/
+                  ||                  ·   .
+                  ¦¦
+                  ::     -! da prodigy are here to stay -.
+                  ·.
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    24
+| ___,           | and nothing  b a d | lOGO nAME:      rabies
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: ogilvie / royal
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -                                                                                                                                                                                                                                  I luv my fiancee! lots`n`lots`n`lots`n`lots`n`lots!
+
+
+
+
+
+                            ·   .
+ __/\___  __/\___  __/\___  :   .__/\_______/\_____
+ \_  .  \ \_  .  \ \_  .  \ ¦   :\_  ______  _____/
+ /   | _/_/   |   \/   | _/_|   ¦/  __/___/\_____ \
+/    .    \   .    \    .   \   /   \     \     /  \
+\____l     \__l     \__ |    \_ \____      \__      \_
+ dS!\_______/\_______/\_______/ ¦vC!\_______/\_______/
+                            :   :
+                            .   ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+             So many wars on this old sphere.
+             But there are none being fought here.
+             Here where I am the sun is shining.
+             Remember; every cloud has a silver lining.
+
+             The world is good and nothing bad ever happens!
+
+                                                           © Cat Rapes Dog
+
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+
+
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    25
+| ___,           | and nothing  b a d | lOGO nAME:      ravenloft
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: nightshade / insane
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+  .·                  ·
+   ·   ·              .
+  ·:                  ¦
+  :¦ /                |.--------------- --- ---- ----  --  ----  -
+  ¦|/_____ ____ ___  _·¦  _    _
+  |//  __/\___  __/\___  __/\.__  __/\_______/\___
+  //   \_  .  \ \_  .  \ \_  |  \ \_  _______     \
+ ·/¦__ /   | _/_/   |   \/   |   \/  __/___/   |   \ _______________
+ /`-- /    .    \   .    \   |    \  \     \   |    \ -------------.¦
+·     \____l     \__l     \__      \__      \__l     \_ ravenloft! ¦|
+       dS!\_______/\_______/\_______/\_______/\_______/ - ------ - ||
+                      ..                                           ||
+  sysop: Nightshade!  :¦                                           ||
+  cosysops: vIETCONg  ¦|        __/\.    __/\___  __/\_____/\__    ||
+             sAVAGE!  ||        \_  l___ \_  .  \ \_  ______   \   ¦|
+              sNIPER  || - ---- /   |   \/   |   \/  __/ - |    \ -´¦
+                 gAZ  || ¯¯¯¯¯ /    |    \   |    \   | ¯¯ |     \ ¯
+         BLACK DEVIL  ||       \____      \__      \_ |    |      \_
+                      ¦|        vC!\_______/\_______/_l    l_______/
+   -  - --- ----- ----´|
+                       |
+ nODE 1: +46-8-157472  ¦
+ mODE 2: +46-8-6124141 :
+ nODE 3-4: aNY mINUTE! ·
+- -- rINGDOWN sOON -- -·
+                       .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    26
+| ___,           | and nothing  b a d | lOGO nAME:      remission
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: ogilvie / royal
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                           .   ·                  ·   .
+ __/\___  __/\_______/\  _ :   :__/\_______/\_____:   :__/\___  __/\___
+ \_  .  \ \_  _______  \/ \¦   ¦\  _______  _____/¦   ¦\_  .  \ \_     \
+ /   | _/_/  __/___/  \  / \   |/\_____ \/\_____ \|   |/   |   \/   |   \
+/    .    \  \     \   \/   \  /      /  \     /  \   /    |    \   |    \
+\____l     \__      \__/     \_\____      \__      \_ \____      \__l     \_
+ dS!\_______/\_______/\_______/:vC!\_______/\_______/ :   \_______/\_______/
+                           ·   .  > remission! <  ·   .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    27
+| ___,           | and nothing  b a d | lOGO nAME:      ryl^dlt^aqs^ds!
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: demax/ryl^dlt^aqs^ds!
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+.------------ __/\___  __/\___  __/\.__  __/\___  __/\. ---------------.
+¦ rOYAL sCHQ  \_  .  \ \_  .  \ \   |  \ \_  .  \ \_  l___             ¦
+|dELIGHT sHQ  /   | _/_/   |   \/\____  \/   |   \/   |   \            |
+aQUARIUS sHQ /    .    \   |    \    /   \   .    \   |    \           |
+| dIVINE     \____l     \__      \__      \__l     \__      \_         |
+|sTYLERS wHQ  dS!\_______/\_______/\_______/\_______/\_______/         |
+|                                 .   ·                                |
+|     ___/\___  __/\_______/\.    .   ·__/\_______/\. _ __/\__         |
+|     \______ \ \_  _______  l___ :   :\_  _______  l______   \        |
+|      /    |  \/  __/___/   |   \¦   ¦/   |   \/       \ |    \       |
+|     /     |   \  \     \   |    \   /    |    \   |    \|     \      |
+|     \____      \__      \__      \_ \____      \__l     \_     \_    |
+|      vC!\_______/\_______/\_______/ ¦   \_______/\_______/______/    |
+|                                 ·   :        ·   .                   |
+| __/\___  __/\___  __/\.__  __/\___ .__/\___  ·   .__/\.__  __/\_____ |
+| \_  .  \ \_  .  \ \_  |  \ \_  .  \ \_  .  \ :   :\_  |  \ \  _____/ |
+| /   |   \/   |   \/   ¦   \/   |   \/   | _/_¦   ¦/   ¦   \/\_____ \ |
+|/    .    \____    \   ;    \   .    \   .    \   /    ;    \     /  \|
+|\____l     \_ |     \__      \__l     \__l     \_ \____      \__      \_
+|    \_______/ l______/\_______/\_______/\_______/ ¦   \_______/\_______/
+|    .                                         ·   :                   |
+|  __| · __/\______/\__  __/\.__  __/\.    __/\_______/\___  __/\_____ |
+|  \_l | \  ________   \ \   |  \ \_  l___ \_  _______  .  \ \  _____/ |
+¦    _ · /\_____ \ |    \/\____  \/   |   \/  __/___/   | _/_/\_____ \ ¦
+`- \_/ |/      /  \|     \    /   \   |    \  \     \   .    \     /  \´
+ ___ ___\____      \_     \__      \__      \__      \__l     \__      \_
+ \ / \_/__  \_______/______/\_______/\_______/\_______/\_______/\_______/
+
+
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    28
+| ___,           | and nothing  b a d | lOGO nAME:      shellshock
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: shellshock
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                                     ·
+                                                     . s ·
+        -!your allmighty sysop              __/\.    : h .
+                                  __/\.     \_  l___ ¦ e :
+                        __/\_____ \_  l___  /   |   \  l ¦    ·
+              __/\.     \_  ____/ /   |   \/    |    \ l |
+    __/\_____ \_  l___  /  __/___/    |    \____      \_ |  ·
+    \  _____/ /       \/   \     \____      \_ \_______/ | /
+    /\_____ \/    |    \____      \_ \_______/ _ ___ .   |/___ _  _  _
+   /      /  \____l     \_ \_______/  _ ___ __   _ _ | s | _   ____  _ _
+   \____      \_ \_______/          _  ___ __   ___  | h | __ ___ __  _
+_ _/\_/\_______/\.    __/\___  __/\_______/\.__      | o |
+   /\  ________  l___ \_  .  \ \_  _______  |  \     | c |
+  / /\_____ \/       \/   |   \/   \____/    __/_    | k |
+ · /      /  \   |    \   |    \    \   \   .    \  /¦   |
+·  \____      \__l     \__      \__      \__l     \/ _ __¦__  _ _ _  _
+    dS!\_______/\_______/\_______/\_______/\________/·   :
+                                                     .   ·
+      has decided to exchange a few words with you-!     .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    29
+| ___,           | and nothing  b a d | lOGO nAME:      skautch
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: skautch`s friend
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                ·
+                                :
+    - s  k  a  u  t  c  h  !    ¦
+                                |
+  _ ___ _____ __ _______ ______ ¦
+                               ¦:
+     __/\_______/\.__  __/\___ :__/\._____/\__  __/\_______/\.
+     \  ________  |  \ \_  .  \·\_  | ·.___   \ \_  _______  l___
+     /\_____ \/    __/_/   |   \/   ¦   \ |    \/   \____/       \
+    /      /  \   .    \   .    \   ;    \|     \    \   \   |    \
+    \____      \__l     \__l     \__      \_     \__      \__l     \_
+     vC!\_______/\_______/\_______/\_______/______/\_______/\_______/
+                               ·.
+                               :¦
+                               ¦|
+                               |¦
+                               |`------- ---- ------- ---  ---      -
+                               ¦
+                               :
+                               . /. what the hell does skautch mean? .\
+
+                               .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    30
+| ___,           | and nothing  b a d | lOGO nAME:      snuffy
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: for snuffy
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+ __/\_______/\___  __/\.__  __/\______/\_____/\.__
+ \  ________     \ \_  |  \ \_  ______  ____   |  \
+ /\_____ \/   |   \/   ¦   \/  ___/ /  ___//\____  \
+/      /  \   |    \   ;    \   |  /    | /     /   \
+\____      \__l     \__      \_ | /     | \____      \_
+ dS!\_______/\_______/\_______/_l \_____l  vC!\_______/
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    31
+| ___,           | and nothing  b a d | lOGO nAME:      summer time
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: you want it? use it!
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+     ·
+   · .
+   . .
+   .s:   __/\_______/\.__  __/\  _  __/\  _  __/\_______/\___
+   :u¦   \  ________  |  \ \_  \/ \ \_  \/ \ \_  _______  .  \
+   ¦m|   /\_____ \/   ¦   \/  \  / \/  \  / \/  __/___/   | _/_
+_  |m| _/      /  \   ;    \   \/   \   \/   \  \     \   .    \ _ ___ _
+ _ |e| _\____      \__      \__/     \__/     \__      \__l     \_ __  _
+__ |r| ____ \_______/\_______/\_______/\_______/\_______/\_______/ _ ___
+dS!| | ·        \____   \  ·   .__/\  _
+   | | ·\           |    \ :   :\_  \/ \  __/\_____               /
+   | |  \\          |     \¦   ¦/  \  / \ \_  ____/          /\  /
+__ |t¦ _ \\ ___ ___ |      \_  /    \/   \/  __/___ ___ ____//\\/___ __
+vC!¦i:    \\        l_______/  \____/     \_ \     \       /   \/
+   :m·     \·              :   :   \_______/__      \_    /
+   ·e·      ··                 ·             \_______/
+   · .       ·
+   .           ·
+               ·
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    32
+| ___,           | and nothing  b a d | lOGO nAME:      sweet dreams
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: canaan / prestige
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                       ·
+                       :·
+                       ¦:
+                       ||
+       __/\_______/\.__·¦__/\_______/\______/\__    
+       \  ________  |  \·\_  _______  _______   \
+       /\_____ \/   l   \/  __/___/  __/___ |    \
+      /         \  /¯\   \  \     \  \     \|     \
+      \____      \__      \__      \__      \_     \_
+       dS!\_______/\_______/\_______/\_______/______/
+                       .·
+                       :¦
+                       |`----------------------- -------  ----   --    -
+                       `---------------------------.
+                                                   ¦    !- sweet /.
+               ___/\___  __/\___  __/\_______/\___ ¦__/\  _  __/\_____
+               \______ \ \_  .  \ \_  _______  .  \·\_  \/ \ \  _____/
+                /    |  \/   | _/_/  __/___/   |   \/  \  / \/\_____ \
+               /     |   \   .    \  \     \   .    \   \/   \     /  \
+               \____      \__l     \__      \__l     \__/     \__      \_
+                vC!\_______/\_______/\_______/\_______/\_______/\_______/
+                                                   ·
+                                                   ¦    =. dreams .-!
+                                                   `--- ----- --- --   - -
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    33
+| ___,           | and nothing  b a d | lOGO nAME:      the kestrel
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: the kestrel / ihs^sos
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+ ·                            .
+ . ·                     _i_  |___ ____
+ : .                      l__,l  / \__/__
+ ¦t:
+ |h¦__/\.__  __/\_______/\______/\__  __/\___  __/\_______/\.
+ |e|\_  l  \ \_  ______  _______.   \ \_  .  \ \_  _______  l___
+ | |/    __/_/  __/___/\_____ \ |    \/   | _/_/  __/___/   |   \
+ | /    .    \  \     \     /  \|     \   .    \  \     \   ¦    \
+ |k\____l     \__      \__      \_     \__l     \__      \__      \_ 
+ |e|dS!\_______/\_______/\_______/______/\_______/\_______/\_______/
+ |s| ________________________________________________________________ 
+ ¦t|vC!===============================================================
+ :r¦ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ·e:
+ .l·
+   .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    33
+| ___,           | and nothing  b a d | lOGO nAME:      the light fantastic
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: gaston / tws
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                  .
+ - ----- - ---- ------ ---- _i_   |___ ____ ---------------------.
+                             l__, |  / \__/__                    ¦
+                                                                 |
+                          .   ·                                  |
+       /\        __/\.    .   ·__/\_______/\. _ __/\__           |
+      //\\/\    ·\_  l___ :   :\_  _______  l______   \          ¦
+ .---//--\/\\--/ /   |   \¦   ¦/   |   \/       \ |    \ --------´
+ ¦  //  the \\/ /    |    \   /    |    \   |    \|     \
+ | /·  light \_ \____      \_ \____      \__l     \_     \_ __ __ _
+ |·  fantastic \ dS!\_______/ ¦vC!\_______/\_______/______/// // /
+ ¦              `-------- ¦   : --------------------------´
+ `----------------------- :   . -----------.               .   ·
+   __/\______/\___  __/\_____/\__  __/\___ ¦__/\_____/\__  .   ·__/\_____
+   \_  ______  .  \ \_     ___   \ \_  .  \·\  _______   \ :   :\_  ____/
+   /   __/ /   |   \/   |   \|    \/   |   \/\_____ \|    \¦   ¦/   \____
+  /    |  /    .    \   |    \     \   .    \     /  \     \   /     \   \ 
+_/     |  \____l     \__l     \_    \__l     \__      \_    \_ \____      \_
+\______l      \_______/\_______/_____/\_______/\_______/_____/ ¦   \_______/
+                                           ·               ¦   :
+                                           ¦               :   ·
+                                           :               .   ·
+                                           .
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    34
+| ___,           | and nothing  b a d | lOGO nAME:      trespass
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: reverend d / c!s^b!
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+- --- - - --------.
+                  ¦
+  -      -     -  | - ---- ----- -------------------.
+                  |                                 |
+                  ¦                                 ¦
+____/\__  __/\___ :__/\_______/\_______/\_____/\___ :__/\_______/\_____
+\____   \ \_  .  \.\_  ______  ________  .  \_  .  \.\  _______  _____/
+    |    \/   | _/_/  __/___/\_____ \/   |   \  |   \/\_____ \/\_____ \
+    |     \   .    \  \     \     /  \   ____/  .    \     /  \     /  \
+    |      \__l     \__      \__      \_ | \____l     \__      \__      \_
+ dS!l_______/\_______/\_______/\_______/_l  vC!\_______/\_______/\_______/
+                  ·                                 ·
+                  :                                 :
+                  ¦  t   r   e   s   p   a   s   s  ¦
+                  |                                 |
+                  `---------------------------------´
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    35
+| ___,           | and nothing  b a d | lOGO nAME:      trivial
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: my friend t^
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                   .   ·         ·   .
+____/\__  __/\___  .   ·__/\.__  ·   .__/\___  __/\.
+\____   \ \_  .  \ :   :\_  |  \ :   :\_  .  \ \_  l___
+    |    \/   | _/_¦   ¦/   |   \¦   ¦/   |   \/   |   \
+    |     \   .    \   /    |    \   /    .    \   |    \
+    |      \__l     \_ \____      \_ \____l     \__      \_
+    l_______/\_______/ ¦dS!\_______/ ¦vC!\_______/\_______/
+                   :   :         ¦   :
+                   .   ·         ·   .
+                       .         .
+                                                                                                                                                                                                    förlåt. jag är så lat... men, det är du med!
+
+
+
+
+
+
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+             Nothing bad ever happens to me.
+             I see only what I wanna see.
+
+                                                           © Cat Rapes Dog
+
+                                                                                                                                                                                                                                                                                                           den här gömda delen är meningslös!!!
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+
+
+
+
+
+
+
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    36
+| ___,           | and nothing  b a d | lOGO nAME:      twisted
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: my ex-partners
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+        ·
+       /
+  .---/------------------------------------- -------- -- -----   -
+  ¦¦¯/ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯¯¯¯¯¯¯¯¯ ¯¯¯ ¯¯¯¯¯¯¯¯ ¯¯¯    ¯
+  ||/                    .   ·
+  |/  ____/\__  __/\.__  .   :__/\______/\__  __/\_______/\___
+  /|  \____   \ \_  |  \ :   ¦\  ________   \ \_  ___________ \
+ /¦¦_____ |    \/   |   \¦   |/\_____ \ |    \/  __/___/    |  \ _____
+· `------ |     \  /¯\   \   /      /  \|     \  \     \    |   \ ---.¦
+  \·      |      \__      \_ \____      \_     \__      \__      \_  ||
+   \\_ dS!l_______/\_______/ :vC!\_______/______/\_______/\_______/ _¦¦
+   ¦\.--/\-------------- ·   . ---------------------------------------´
+   ||\\//\\_ ____ _____  · __   _      _         _           _
+   |¦ \/  \
+   ¦:      \        !.the twisted cleanchaven scapegoats are:
+   :·       ·
+   ·.           HoTWire^ReLieF^sCARfACE^sAL 1^Tango^prIde^dEVISTATOR
+   .          ·
+
+
+
+                                                                                                                                                                       ve dig, hetlina, ve dig, dams, ve dig, ärrfejs, ve dig, stolthet osv (:
+
+.--- . ----------.--------------------.--------------------    -   -
+¦ ___|           | books o f blood 4: |
+| \__l -ivi ne   | the world i s good | lOGO nUMBER:    37
+| ___,           | and nothing  b a d | lOGO nAME:      vision
+|`---, -tyl ers! | ever h a p p e n s | lOGO rEQUESTER: rooster
+¦¯¯¯¯            | told by: vietcong! |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+ - -- --- ----- ---------.   ·          ·   .--------- ----- ---- --- -- -
+                __/\.__  :   :__/\_____ :   :__/\___  __/\___
+                \_  |  \ ¦   ¦\  _____/ ¦   ¦\_  .  \ \_     \  !vision-
+                /   |   \|   |/\_____ \ |   |/   |   \/   |   \
+   -!vision    /    ¦    \   /      /  \|   /    |    \   |    \
+               \____      \_ \____      \_  \____      \__l     \_
+                dS!\_______/ :   \_______/  :vC!\_______/\_______/
+                         .   `- ------ -´   .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-  -   - -- -----  --------------------------------------  ----- -- -   -  -
+
+
+ what? He`s been inactive for nearly 2 months, and that was ALL he could do?
+
+
+-  -   - -- -----  --------------------------------------  ----- -- -   -  -
+
+
+
+
+
+
+
+
+                                    ________:  _____            :________:
+- --. --- ------ -------------- - :_\ ______|_/ ___ \_:____:____| _    ·:|
+__  |__ __.  ___ _i_  ___  ___    |  _____/ |    |  ·:|    |  ·:| |      |
+\__ | / \_l_ \_/  l_, \_/_ \ ¬    |   ·:|   |    |    |    |    | |______|
+              \                   |     |   |    :    |    :    |_    |czar
+- --- ------ ---------------- --  |_____|   |_________|__________/____|
+            - b o o k s  t o  a s c i i
+
+
+
+
+
+
+
+
+
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+             Everybody in the books of blood.
+             Everybody in the books of blood.
+             One book. One blood.
+             Everybody in the books of blood.
+
+                                                           © East 17
+             
+                                                                                                                                                                                                                                                                                                           yeah, yeah. House of love... This is more fun than i expected it to be...
+_ ________ ________________________________________________________ ________ _
+
+
+
+
+
+
+
+
+             well. Not really. A few days ago I thought:
+             hell! Why don`t I try iff2ascii, and see
+             what fuss is all about... sed & dun, I called
+             a board, leeched the damn program, unpacked it,
+             made an iff-pic, converted it and... 
+             i was hooked. Wow, it really was fun. So, I
+             made a few logos, amd, since I don`t really call
+             iff2ascii-ing art i decided to release the logos
+             seperately. My tag is "-vC!" instead of "vC!" whem
+             I make these logos, just to show that it isn`t
+             really my stuff. I mean, it takes less than 
+             1/10th of the time to make an iff2ascii pic
+             compared to a real ascii picture.
+
+
+
+-  -   - -- -----  --------------------------------------  ----- -- -   -  -
+
+
+             So here it is... the first iff2ascii pics by me!
+
+
+-  -   - -- -----  --------------------------------------  ----- -- -   -  -
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 1
+| actually quite | and nothing  b a d | lOGO nAME:   divine stylers (2)
+|     lame!      | ever h a p p e n s | mADE fOR:    all dS! members
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+   ,_____
+   @@@@@@[
+   ~@@P~~              mm                ,W@@i
+    V@@s               @@.    ,mmWmmmi   ]@@@[                 _
+     !@@W             @@@A    '@@@@**!   ]@@A`   g@W.         W@W
+      'M@W.           @A!      !@@.      '*f    g@@@@.       d@@@.
+        !@@i                    ]@@             @@@@@@       @@@@W
+         ~M@m                   'M@s            @@[]@@      i@@V@@i
+           M@W.               ms '@@i    ,g@@[  @@! @@      d@[ @@[
+            V@@.              @@  ]@[i@@@@@@@!  @@  @@     ,@@  !@@
+             VM@s        _g@i @@[ !@W!***f8@P   @@  @@i    ]@P   @@.
+         ,____]@@     _gW@@@! M@[  @@    ,@@`   @@  @@[   ,W@[   d@[
+    mmm@@@@@@@@@@i i@@@@AY@@  ]@[  @@    W@P    @@ ,@@[   M@@mmmm@@`
+   d@@A*~~`  ~VM@@  ~~`  ]@[  ]@W  @@.  ,@@     @@ ]@@`   ]@@M@@@@f
+  d@A           V@b      @@[   @@  @@[  ]@@    ]@@ ]@@    ]@@
+ ]@@`            8@i    i@@!   @@. @@[  ]@@  iW@@A @@A    ]@[
+i@@P             ]@[    ]@@    Y@[ @@[  ]@[  !*f~ ,@@[    @@!
+]@@[             ]@[    W@[    ]@W @@   ]@[       ]@@!   ,@@       ,s
+'@@b             ]@[    M@[     @@]@A   ]@[       ]@@    ]@P       'MWs
+ Y@@s            W@[    @@[     M@@@!   ]@!      ,@@f    '@@.        M@W
+ '@@@Ws.        g@@!    !@A     ]@@f             @@f      Y@[        'M@W.
+   V@@@@@WmmW@@@@f                              W@P       ]@@         !@@@s
+    '**********f~                     i@W       @@!       '@@.     ,___8@@@
+                    W@                @@[      i@@         ]@WmW@@@@@@@@@A`
+         ,_        ]@@                @@[      W@b  ,_____.'M@A*~~~~~~~~
+       __@@[       W@@                @@[    'W@@@W@@@@@@@[
+    g@@@@@@[       ]@@      .   imm   @@[  gms'!****~`
+ ,g@@Af~           ]@@     ]@   ]@@  i@@! i@fMW.       _  ,W@@s.    _____.
+i@@A`              ]@@     ]@i   @@  ]@@ ,WP  Y@s    ,W@W,W@A@@[  i@@@@@@!
+!@@@@@@@@mms       i@@,gm. ]@@   @@  ]@@ ]@    !@    M@@@W@f ~~`  @@~`
+ '~~~~~~V*@@Ws   ,_d@@@@@!  M@b. ]@  ]@@ ]@mmmW@*      @@@P       @@m
+           !@@[ @@@@@@~`     M@@W@@  ]@@ ]@A**f        @@@[       '*@@@m__
+     _.     ]@[ '~`]@@        V@@@@  ]@@ ]@`    iW@s   ]@@[         '**M@@W.
+    ]@[     W@[    ]@@__gs     '`@@  ]@@ ]@      Y@@D  ]@@!              Y@[
+    !@@m_ ,g@@!    'V@@@@A      ,@@  '~` !@b    m@*~    @@       mms     ]@[
+     ]@@@@@@A`                ,gW@@       V@WmmWA`      ~`       VM@W.   W@[
+      !**~~`                g@@@A`          V*f~                   V@@@m@@A`
+                        ,m@@@Af`                           -vC!/dS!  V***`
+                        ]@A~~
+
+
+
+
+
+           g.
+           YW
+           ]@
+           ]@     .
+           ]@    ]@-         ,s
+           ]@     `           M!
+           ]@              .                 gWW.
+           ]@      ,  ,s  dA     ,          dAL@A
+   ,_______d@    4@@[ 'Msi@` -W. M@@@@@i   4@@*~
+   V@A******@i     @[  '@W@   @[  Mb  YW    @[
+    V@s_    @[     @[   '@@   Mb  '@i !@.   YW_.
+      V*@@mm@[     @[    Vf   'f   'f  V`    V*f       .
+          ~~~      '                                  ]@
+                                                      ]@
+        ,__gW              g.                    ,.    @[
+      gWA**M@!  4W         Mb                  gWAf    @[
+     WP`        ]@         ]@           ,_ms  i@!      ]@
+     @W___.      @[        !@.  i@4W.  gA*~`   V@ms.   ]@
+     '~***M@m.   @[ . ,. iW @[  @bg@@- @[        ~VMs  ]@
+            ~@i,m@@@A V@.]@ Mb  M@**`  ]@.         '@i  `
+    ,        @[ ~Y@    YW]@ '@i !@.     MW       -@@f   ,.
+    Mb       @[  !@.    M@@. V`  YW_     M!            i@5s
+     VW_    dA    M!     @A`      V*@D                 MWW@-
+      '*@mmWA            @[                  -vC!/oS!  '~`
+         ~~~            ]@
+                        WP
+                        @[
+                        @[
+                        @[
+                        '
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 2
+| actually quite | and nothing  b a d | lOGO nAME:   Lamer (zone)
+|     lame!      | ever h a p p e n s | mADE fOR:    Any sysops?
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                                                   ,.
+                                                                  W@@W_
+        ,s                                      ,_.              ]@*`'*W.
+      ,g@@                ,g@W       Ws       gWA*@i      gm.    ]@    V@s
+     _@f]@              ,mAf @[     dA@i    ,Wf`  @[     WP~@i   ]@     '@i
+   ,W*` ]@             gA~   @[     @[!@. ,gA`    @[    dA  ]@   !@.     V`
+  -A`   ]@            4f     @[    ]@  !@gAf      @[   i@`   @[   @[
+        ]@   ,_____gm.       @[    @[   MA`       @[  ,@!    @[   ]@
+        dA   @A****f~        @[    @[            ]@   WP     @[    @[
+        @[   !@.     _mmmmm_ @[    @[            WP  dA     ,@!    ]@
+        @[    'Ms   WA~~~~~*@@[    @[           ,@! i@`    ,Wf     '@i
+        @[     '@i  @[      ,@[    @[           dA ,@!  g_m@f       @[
+        @[      ]@  VWmmmmmWM*`    ]@           @[ ]@   V*~         @[
+        @[      ]@   '~~~~~`        @[         ]@  @[               @[
+        @[     g@`                  !@.        WP ,@!               Mb
+        Mb__mm@*`                    YW       dA  ]@                ]@
+  gmmm@@@***~~    -VC!/dS!  ,  ,___mmW@!     WP   WP                ]@
+  '~~~                      M@@A***~~`      WP    Mb     ,___s      'f
+                                          ,Wf     '@mmmW@A***`  
+           __  ___  __ ___               ,Wf       '~~~`
+            /  \_/ | / \_/_             ,Wf
+            ¯¯                         ,Wf __gmmmmmmmmmmm.
+                                      ,@WW@**f~~~~~~~~~~~
+                                     -Af~`
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 3
+| actually quite | and nothing  b a d | lOGO nAME:   Magic
+|     lame!      | ever h a p p e n s | mADE fOR:    Oden / Razor 1911
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                          is_
+                                          '@'V***m     !@
+                                           M          gi]
+                                           ].         P ]      ,.
+                   ,_          _.           [        ]  d      ][
+                  zfVi       iZ~Y        ,_ W        'mzf      'W
+       izes.     W`  @      mf  ][       'T8@mz       _         M
+      ,@  ~[    Wf   @     df   ][      imf~YPM.    ,WY[        ].
+      ]!   Y.  if    @    W`    ][     mf   ][ ~W  gf`][      mz=Wi
+      Z    ]b  d    ,P    !     ][   ,g!     [  @ -*  ][    ,Z`  '`
+      N     M  @    d           ][   ][      N ,@     ][   ,P
+      ].    !i,@   iA           ][   !b______dz*~     ][  ,A`
+      ][     b][   d`     _vY*W ][     ~~~~~~Vb       ][  ][
+      !W     @]!  ,[    ,Z~   'Nd[            @       ][  !b
+       Y.    YA   W!   gP       Y[            ]        [   @.          ,_gm
+        @.   '`  ,P   df        ]W            ]b_      `   'V*MmmW***~~`
+         N      ,@   W!         ]A       ,mA*VW@ Vb.
+         !W.    @`  d`  ,_mmW***~~     ,Z~     @.  Vs
+          'N   d`  '~~~~~              A       ][   Yb
+    __gmmmmY  iP       -vC!/dS!       ]`       '@    @
+ '~~~~`      ,/                       ]         Vm  ,@
+             W` _gmz=f~~~~~~~`        's           gf`
+            iWzf~~                     Yi        ,Z~
+            !`                          N_.   ,_g*`
+                                         ~*egY*~
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 4
+| actually quite | and nothing  b a d | lOGO nAME:   ©Mt!
+|     lame!      | ever h a p p e n s | mADE fOR:    Mortimer Twang/dS!^hOS
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+              ,gmm.                            gW
+           ,_g@f~~                ,m.         i@@i           ,
+           V@A*@@mms_             ]@Mm.      ,@!@[          ,@!
+          ,Wf    ~~V*@m_          ]@ ~Ms     ]@ ]@          ]@
+         gA`          ~*@s        !@. '@i    @[ ]@          @[
+       ,Wf               V@s       @[  ]@    @[ ]@         i@`
+      ,Wf                  VW.     @[   @[  ]@  ]@         WP
+     gA`           iW       'Ms    ]@   ]@  ]@  ]@        ,@!
+    dA             ]@        'Ms   ]@    @[ @[  @[        ]@      _.
+   gA`        ,____.@[         Mb  !@.   ]@ @[  @[        dA,_mm@@*f
+  i@`      ,gWA****M@!         '@i  @[   '@i@[ ]@   ,mmm@@@@A*~~
+  @[      gAf`                  !@. Mb    YW@[ WP    ~~~ ,@!
+ ]@      dA                      Mb ]@     M@[,@!        ]@
+ @[      @[                      '@i!@.    'M!]@         WP
+i@`      ]@                       YW @[       @[         YW
+]@        MW_    ,__gmm@@-        '@iMb      ]@           V@@@WmmmmW@-
+ @[        ~*@@@@A**f~~            Mb]@      WP               '~~~~`
+ !@.                               ]@]@     ,@!
+  VW.                       ,mmW@@@@@@f     ]@
+   !@.                       ~~`   ]@       @[
+    'MW_                           ]@      ]@
+      '*@m_.                       WP      WP
+         ~*MWm__                  dA       @[      ,_____.
+            '~**@@mms__      ,__gWA        M@@@@@@@A*****M@@-    -vC!/dS!
+                  ~~V**@@@@@@A**f~
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 5
+| actually quite | and nothing  b a d | lOGO nAME:   Phoenix 2
+|     lame!      | ever h a p p e n s | mADE fOR:    Citruz / Royal
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                                     g@i         gm.
+             ___                   ,m@@s     g@@s   ]@@A  ims   i@@@@s
+   ,_m@@@@m.]@@@i                 ,@f~M@i  ,Wf '@i  '*`   ]@@   ]@@@A`
+ ,m@P~  'Y@@ V@@b         g@@m.   ]P  dA   ]@  i@[    _.  !@@   @@@`
+  V@@    ]@@  M@@,_mms   i@@'@W   @W d@`   !@. ]@   i@@@   V@b ]@@!
+   @@[  _@@f  '@@@@A*@[  W@P Y@[ W@@W*`  i@s@[ @[   Vf]@.   Y@i@@[
+   !@@@@@*f    @@@`  Y@i @@W d@@ '@P` ,_ '*@A i@      ]@[    M@@A
+    @@W.       @@@i  ]@W !@@s@@P  @[  *@W    ,@`   _  W@W    W@@b
+    ]@@W      i@@@`  '@@W V@@Af   @@.  d@-   dA ,g@@[i@@@i  i@@@@b
+    d@@@b      '~     MA*` '`     V@@@@A`   g@@@@@A*`'*@A` _W@PVM@W_.
+    @@@@@D                          ~~`     '~*~~         !@@@  'M@@@-
+    @@@@f                                                   '`   '*f
+   !*~`                               ,_gms_.
+                                 __mW@@@@@@@@
+                              ,m@@@Af~`' 'Y@@
+                             g@@*~        d@!
+                            '*`         gWA`
+                                      gWAf            .`
+                                   ,g@A~            ./
+                    ,_mmmm_.    _g@@Af             ='
+                   i@@*****@@mgW@@A~             _~
+                   ]@W____mW@@@@f`            v//
+                   !@@@@@@****@@W.        ,_zK/
+                     '~       'VM@@@ms_mm@@*~
+                    -vC!/dS!     '~*****~`
+
+
+
+
+
+
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 6
+| actually quite | and nothing  b a d | lOGO nAME:   ©t^
+|     lame!      | ever h a p p e n s | mADE fOR:    Trivial / dS!
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                 ,__mmmmms_                    gm.          ,m.
+            ,m@@@@@@@@@@@@@@W.                ]@@!         ,W@@
+         _g@@@A***f~`V*M@@@@@b_               ]@P          d@@@.
+       g@@@Af~          '~VM@@@@s             W@[         ]@@M@Wi
+      W@@f~                 '~Y@@.           i@@[        ,W@P M@Wi
+    ,W@A`                      V@@i          W@A        ,@@P   V@@s_.
+   g@@f              _m.        M@@.         @@[        @@A`    !M@@@@WW.
+  m@@f        __gmmmm@@@i        M@Wi        @@[       !@@!       ~~*@@P`
+  @@[      g@@@@@@@@@@@@@i        Y@W.       @@[        ~`
+  @@[     ]@A*f~~     ~Vf          M@@.      @@[
+  @@[     @@[                      'M@W      @@[
+ ,@@[    ]@@`                       !@@[     @@[   _gmW@m
+ ]@@     ]@@                        ]@@      @@WW@@@@@@A!
+ ]@@.    'M@b                       d@@g@@@@@@@@@***~
+  @@b     !@@b.                  WW.@@PV******M@[
+  Y@@i     'M@@ms             ,mW@@Y@@`       ]@W
+   @@b       'M@@@@m_.     _W@@@@*`]@@        ]@@i
+   !@@[        'V*M@@@@@@@@@@A*~   @@A         M@W            ,.
+    Y@W            '~~~~~~~~`     i@@!         ]@@ms_.      im@@i
+    '@@Wm.                       _W@A          'M@@@@@@mmmmW@@A~
+     'M@@@Ws                 ,g@@@@@!              ~V*M@@@@@A`
+        ~*@@@m_          __m@@@@*f`      -vC!/dS!       '~`
+          'VM@@@@@@@mmmmW@@@Af~
+             ~V****@@@@@@*~`
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 7   
+| actually quite | and nothing  b a d | lOGO nAME:   Underworld
+|     lame!      | ever h a p p e n s | mADE fOR:    Druid / Deja Vu
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                    ,___                 K~~~~`
+     ,mmM[      -mm*~~ ~    gm*m         Yi      ,Zms       immZ**mmm
+  _z*~  Z        @        vf`  @         ][    ,Z~  'Y     ,P
+ !!    d`        *.      d`   ,A         'W   ,P     'b    Yi
+      ][          N      @    ]!          @   ]`      @    '[
+     ,P           'b     @    d       ,gY+@   W][    ,P     M
+     ][            ]     ]    @     ,Z~   ]   [ Ns. _/      '[
+     ][           i!     ][  i!    ,P     ]  ![  '~~~        Y
+     ][          g!    __Z  ,P     W      ]   b              'b
+      \s        gf   **~~`  d`    ][     ,Z   @              ,f
+        \===mmmm!          Z`     'N___m=f    ]          V***`
+                          ]`        ~~        !W_
+                         ,P                     ~~+e__
+                        ,/          -vC!/dS!      _  ~V+e   N.
+                   ,_g ,Z`  ,_____.              d@         'N
+               ,_z*~`  Z*f~~~~~~                '\[           N.
+            emf~`                                d             \
+     ,_m=4-  Vc.                                ][              M.
+ mz=f~  g!     ~e.         ___.        vf~~     A                b
+       g!        Vc.    ii!~~~Vm.     ![       i[                M
+     ,Z`           Vs.  ![      ~c.    N       d            g/V[ ]i
+     Z               Vi  W        Yi   'b      ].          ]`  ` ]
+    ]!    s           Vs !s       ][   i8      'b          A     A
+    d    iA.          ,f   Ve_    d!    M[      Ys        ,[    W`
+    Y.  _Z Vm_.      if      ~+mzY!     '`      '~*=ei    ][  _Y`
+     +=f`    '~***f~~`                                     +Yf`
+
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 8   
+| actually quite | and nothing  b a d | lOGO nAME:   vIETCONG (3)
+|     lame!      | ever h a p p e n s | mADE fOR:    Myself (:
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                                                                       ,m@@@
+                                                                    ,m@@@@@A
+      _                                                             W@@@@*`
+     ]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@b
+     ]@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@P
+     ]@[                                                            !@@
+     ]@[  ,@@@.             ii                                ,_     @@.
+     ]@[  '@@@!            i@@            ms               _mm@@i    Y@b
+     ]@[   '~~             W@[           i@@             ,W@@@@@[   ,d@@mi
+i@i  ]@[        _mms      ,@@          ,gW@P     d@_     ]@@A~Y@[  g@@@@@@i
+]@b  ]@[  ,m  ,W@@@@b     ]@P        im@@@@[   ,W@@@s    ]@[  ]@[ i@@@@@@@W
+ @@  ]@[  W@[ @@@f~@@     d@bmm@W.  W@@@*~~   ,@@AV@@@m. ]@[  ]@[ @@! @@ @@
+ @@b ]@[  @@ i@@   @@ i@@@@@@@@@@! ]@@f`      ]@A  ~M@@W ]@[  ]@[ @@  @@d@A
+ !@@ ]@[  @@ ]@bgmm@@ ]@@@@@@A**`  ]@[        ]@b    V@@ ]@[  ]@b @@mm@@@@!
+  @@.]@[  @@ '@@@@@@A  ~~~@@`      ]@Ws_____dW]@@Ws__m@@ ]@[  '@@ *@@@@@@A
+  ]@[d@[  @@  @@/~~~      @@_. __m !@@@@@@@@@@ V@@@@@@@! !@!   MP  ~~~@@~
+  ]@[@@!  @@  Y@W         @@@@@@@@[  V*******`   V***f`               @@
+  ]@W@@   @@. !@@s____m.  'M@@@@@A                      -vC!/dS!      @@
+   @@@@   Y@[  !@@@@@@@A     ~~`                                      @@
+   @@@!   ]@[   V*****f                                           gmW@@@mmmm.
+   V@P     ~                                                    _W@@@@@@@@@@@
+                                                               ]@@@**~@@A**@@
+                                                               @@f    ]@@  m@
+                                                               @@_    '@fiW@@
+                                                               M@@Wmmmmmm@@@!
+                                                              '*@@@@@@@@@*` 
+                                                                  ~~~~~~~`
+                         _gms         ,W@@@@Ws
+                    ,_mW@@@@@[        ]@@@@@@@s
+                _gm@@@@@@@@Af         ]@@@@@@@@W
+           _gmW@@@@@@@@*f~            !@@@@@@@@@W.
+       ,gm@@@@@@@@A*~`                 V@@@@@@@@@W
+      g@@@@@@A*f~                       !@@@@@@@@@[
+      M@@@A~                             V@@@@@@@@b
+      '@@@W                               !@@@@@@@@.
+       !@@@W                               Y@@@@@@@[
+        !@@@b                               Y@@@@@@[
+         Y@@@i                 ,W@s          M@@@@@[
+   ,W@W.  M@@@i                !@@@[         !@@@@@[
+   @@@@@i  M@@@.                @@@[          Y@@@@[
+   '*@@@W  '@@@W             gmm@@@[           @@@@@
+     ]@@@.  !@@@[          g@@@@@@@[           Y@@@@
+     '@@@b   @@@W        ,W@@@A***f             M@@@
+      Y@@@.  ]@@@i      ,@@@A~                  !@A!
+      '@@@b   @@@b      W@@@`
+       Y@@@.  Y@@@.     @@@[
+       '@@@b  '@@@b     M@@@                     _.
+        Y@@@.  Y@@@     ]@@@s                   W@@s
+        '@@@b  !@@@[     Y@@@s                  @@@@b
+         Y@@@i  @@@[      V@@@W         _gm.    @@@@@
+          M@@@. @@@[       !@@@@m_____m@@@@@    'M@@A
+          '@@@W @@@[        'M@@@@@@@@@@@@A`      ~~
+           !@@@b@@@[ -vC!/dS! ~*@@@@@@@*~
+            Y@@@@@@[
+             M@@@@@[
+             '@@@@@!
+              'M@@f
+                ~`
+
+
+
+       .
+       Vs                    M.
+        YW                   ]b                                .
+         Yi                  '~                               ]A
+          @.          g                                       W`
+          Y[         iA               m.                     iP
+           M.        d!              ]PN_                    @!
+           ]b       d[               ][ Vs.                 ,A
+           '@      ,A`  .            ][  !M.                d!
+            Yi     W`  !Ws.         ,@     @i        _.    ,@
+             @    WP     'VM.        @@s    M.       ~V**@@@@ms_.
+             @[  iP         Y[      i@ '*m_ ][            iP  '~V*M@@Wm
+             'f i@           Yi     ]@    ~*@Wm_.        ]A
+                W`           ]@     ]@         ~V!      iP
+               iP             Y[    ]@                 gf`
+               !`              `    !@                gZ~
+  -vC!/dS!                           @                ~  _gmm_
+                                     !b                ,g*`  ~N.
+                                      vb              ]P      Yi
+                           _mmmm.      Vs             @       '@i
+       _m@@@@ms_        ,WA~    Yi      `            ][        ][
+      ]P      '~*@s     d!       @.        ,_gms.    ][        !b
+      W`          ~`    @        M[       Wf~~~~\i    Vmms.     @
+      @                 @        ][      gZ`     ]@     ~~VNmmm*@
+      M.                @        'W      @       ]@             @
+      ]W                @         @      @       ][             @
+       M.               M.        @      @       d!            d[
+        Ms     ___Z+    ]@s____gm*f      *       *            iA`
+         VNimm**f~       `V**f~`                            ,gf
+                                                         ,_WA`
+                                             ,.      _gm@f~
+                                             'V******~`
+
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 9  
+| actually quite | and nothing  b a d | lOGO nAME:   man
+|     lame!      | ever h a p p e n s | mADE fOR:    anyone
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+                              -@@@@@Ws.
+                         ,______mms_2Y@m.
+                      ,W@@@@@@@M@@@@@@@@@@D
+                    ,mA\Af~~~V*@@ Y@@@8@@
+                     ~         '@Wm@@@fY@
+                         ,______d@@8@L_2@mmmm____
+                     _m@@A**************Af~8@A***@@@ms.
+                   i@*~,mmmms      gmW@@AgW*@s      ~V@i
+                   @[   ~~~~`  WD  '~` ,WA@s'*Ws  ,_gWA
+                   V@mmmm__    '      i@f '@s_2@WWA*f`
+                     ~~~~**@@@@@@@@@@@@@@@@@A**f~`             _.
+      ,ms                    ,_mmmm@b@Wmmms.               ,mm@M@
+     g@f@i               ,W@@A*~~~~'`''~~~VMs         iW. gA8@W@`
+    ,@!g@W  ,m.         g@f                 YW.       !@@W5W@@@@
+    M@WAY@i ]@W       g/f`                   VMs       ]@@WKX@@!
+    !@W_'M@sW@@       V@s                .    d@m.    ,W@@****`
+     '~*@@@@@@`        !@Ws.i@          !@s.,W@@@@Ws.g@@A`
+         '**M@@s     ,m@f'*@@@           !@@@*@@@@@@@@@f
+             V@Z@s__gA~     @P            Y@`  ~~M@@@Wf
+              'MW8**A      dA             ]@      ]@A`
+                ~*@@A     ]@_____________m@@ms     `
+                          d@A************f~~~VW.
+                        ,WA~                  YW
+                       ,Wf                     Mb
+                      gA`                      '@i
+                     i@`                        '@i
+                    ,@!             iW           ]@
+                    ]@              ]@           ]@
+                    ]@               @[          '@i
+                    ]@.              Y@           @[
+                     V@Ws.           '@i        _g@!
+                       'VMWmms___gmmm@@[    __m@**`   ,ms
+                          @@@V***fV@@@@@@@@@*M@!     i@8@.
+                          @@@                ]@     i@G@@[
+           g@@Ws          !@@                d@    ,@@f@@@
+           @W@K@Ws         ]@               ,@@,_gmW@@m@Y@
+           ]@M@@@VW.       !A               d@@@@@@fV@@@]@
+            Y@AM@.'Mmmmmm__gW              '*******@@W@@W@
+             V***MA***M@@@@@P     -vC!/dS!           ~~~~`
+                        '~~~
+
+
+
+
+
+.----------------.--------------------.--------------------    -   -
+¦                | books o f blood 4: |
+|  iff2ascii is  | the world i s good | lOGO nUMBER: 10   
+| actually quite | and nothing  b a d | lOGO nAME:   really ugly picture!
+|     lame!      | ever h a p p e n s | mADE fOR:    noone!
+¦                | featuring vietcong |
+`----------------^--------------------^------------------- --    - -    -
+
+
+
+
+
+             gmmmmmm__.
+             V******@@@@@@Ws.
+              ________~~*MK8@Wm__________
+           -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ms_
+            ,m@@A******f~,g@@@@@@@@@@@@@@@@@@@Ws
+             ~`       _m@@@@@@@@@@@@@@@@@@@@@@@@W_.
+                    g@@@@@@@@@@@@@@@@@@@A~M@@@@@@@@Ws
+                  g@@@@@@@@@@@@@@@@@@@@*`,.'@@@@@@@@@W
+                ,W@@@@@@@@@@@@@@@@@@@A`,g@@ !@@@@@@@@@b
+               g@@@@@@@@@@@@@@@@@@@@|       ,@@@@@@@@@@b
+              i@@@@@f~~~~~~'~M@@@@@@sg@@@@@@@@@@@@@@@@@@ .-----------.
+              ]@@@@@ immmi gm@@@@f         '@@@@@@@@@@@@ |stop thoes |
+              ]@@@@@ ]@@A`g@@@Af` Y@ ]@[ @@i'@@@@@@@@@*` |downloading|
+              '@@@@@b '`,W@@@f -Y! * !*t M@[ @@@@@@@*`   |activities!| ,m.
+               Y@@@@@@mW@@@A` ,___.__._     g@@@@@*`     `-----.-----´ ]@[
+                M@@@@@@@@@@Wg@@@@@@@@@@@@W@@@A*~~  - -- -------´       ]@[
+                 VM@@@@@@@@@@@@@@@@@@@@@A*~~                           @@[
+                   'V*@@@@@@@@@@@@A*f~`                                @@`
+        ,s             ~~***f~~~ ]@s                                   @@
+       i@@i                     ,@M@                                 ,W@@
+       WP@[                    _W@@@                               ,W@@@@
+      ]@W@[               ,_m@@@8@@@____________m@@@@@@Wmmmms____mW@@A~WA
+      ]@@@[          _gmW@A@@@@@@@@*M@@@@@***@@**********@@@@@@@@M@*@Wm@`
+      @@@A     __gmW@@@@W@@AfV@@__,_d@~`]@  !@@@@@@@@@@@@*******fWP_2X7`
+     i@@f,gmW@@@@@@@@**~~`    !@@@A*M@  @[                     i@@@***f
+   ,,@@[4A@@@@@@@*~           W@@@@i]@ d@`                      ~~
+  i@PM@LgW@@@A*~              V~@@@@d@i@P
+  W@@@@@f~~~                    !@Z@@b@@
+  @@@@@`                         YW!@@@A
+  'Vf~`                           V@@A@[
+                                   M@_@[
+                                    '*A` ,.
+                                    ,Wf  Y@s
+                                   gA\ g@MaNW.
+                                  gA\@8A Mthiss
+                                 gA\@@@`  VmanW.
+                                gA\W@@!     Vis/@.
+                               i@`W@@!       'ugly.              gWm
+                              i@\W@@!          'MKMs           _W@@@W.
+                             i@\@@@A             VW@b       Gs!@8@@@@@i
+                            ,@WAY@@`    -vC!/dS!  'M@b    ,W@WW@@@*~@A
+                            W@5s]@[                 VA,W@@@@@@@KX__W@`
+              __..   ,_   _d@WW@W@                    'f      'V****f
+           iWW@@@@@@@@@@@@@@@XXG@f
+            V@@@@@@@@@@@@@@@@@@@P
+             '`V************~~~~
+
+
+
+
+
+
+
+
+
+                                    ________:________
+- --. --- ------ -------------- - :_\ ______|_______/:____:____:________:
+__  |__ __.  ___ _i_  ___  ___    |  _____/ |      ·:|    |  ·:|  _   ·:|
+\__ | / \_l_ \_/  l_, \_/_ \ ¬    |   ·:|   |        |    |    | _/     |
+              \                   |     |   |        |    :    | \______|
+- --- ------ ---------------- --  |_____|   |________|\_______/|____    |
+            - i n f o r m a t i o n                           czar|_____|
+
+
+
+
+
+
+
+
+
+
+
+ -- ---------------------------------------------------------------------- --
+
+
+
+             I`d give my life.
+             Give my life, give my life, give my life
+             to be in the books of blood (?)
+                                             						                                                                                                                                                                                                                   It`s actually "the book of love", but who cares anyway?
+                                                           © Army Of Lovers
+
+
+
+ -- ---------------------------------------------------------------------- --
+
+
+
+
+
+
+
+
+
+                . : .              .        .            .  .        
+            __|________           . .                  . :
+           :\_|_______/:________    : .    _|__________ ____|_
+       ... |         ·:|       /__|____  :_\| ________/ ___ | \_: ...
+           |           |       .  |    \_|     _____)    |    ·:|    
+         . |           |       :       ·:|     ·:|       :      | .  
+       . : |__|________|_______|         |       |__________|___| : .
+         . :  |        :   . . |__|______|       | . .  czar|   : .  
+              .              : :  |      :       : :        .        
+         .                        .                               .  
+         :     Main Author ........................... vIETCONg
+         :     Ghost Writers ............................ sKIZE
+         :     .......................................... kARMA
+         :     ........................................... cZAR
+         :     .......................................... 2Fast
+         :     ................................. mORTIMER tWANG
+         :     ......................................... mORRIS
+         :     Quotes ............................ Clive Barker
+         :     .................................. Cat Rapes Dog
+         :     ................................. Army Of Lovers
+         :     ........................................ East 17
+         :     Original File Size ................ 110000 bytes
+         :     Amount Of Lines ........................... 2866
+         :     Published ........................... 1995-12-25
+         :     First Published At ................. Interchange
+         :     To Be Viewed In ................ Pot-Noodle Font
+         :
+         .
+
+         .
+
+
+
+
+
+
+
+             please make me a vietcong logo, all you artists!!!
+
+
+
+
+
+
+
+
+
+
+                     aSCII rESPECTS: (no order whatsoever)
+- trivial - desoto - u-man - nup - v-cut! - gozz - scarface - shapechanger -
+- relief - chrombacher - case - hotwire - 2fast - juan - everslick! - skin -
+- biscrok - tango - t0mmy! - mogue - karma - kerosene - danzig - tbm - gem -
+- crusader - phase - skize - treach - fatal - desert - manta - neurodancer -
+- countzero - elvis - warlock - hijack - jedi - sal 1 - dartagnan - stylez -
+- h20 - maz - mark ryder - zeus - behemoth - mortimer twang - phase! - xcz -
+- data! - dino - devistator - stylez - stezothetic - style%wars - grimlock -
+/ cybergod! - radavi - nike - czar - harpoon - treach! - recall - acid kid \
+|                                                                          |
+¦             and to the following ascii generating groups                 ¦
+:                                                                          :
+`--( al * hos * uc * e^d * -t! * hny * c! * wl! * -u! * sos * grt * m`s )--´
+
+
+
+
+
+
+
+
+                            ¸a*****w.__
+                            Ø         Ø  _w**w,_
+                         ___`#       _Æ*"¯     °m
+                      ¸p¤"¯¯¯"°#µ   _°         _#
+                      Æ~        ]#µÆE__µæµµææ€±°   t^
+                      ¬^ma___agæÑPÑÆ_          ¯¬*ç
+                          ¯¯ æ°     °Ñm,__      _JP
+                            ¬¶w________# ¬"°°°""¯  
+
+
+
+
+
+
+                            gREETINGS:  (nO oRDER)
+
+- ^trivial! - ogilvie - nightshade! - hotwire! - scarface - morris - case! -
+- kid curry - relief - sniffet - mood - biomench - nike - santzia - savage -
+- zanok - zen - shapechanger - kerosene - twister - demax - agressor - web -
+- orgasmatron - phenox - cruger - fuzz - v·cut - u·man - centurion - skize -
+- morgue - warhammer - citruz - vegas - biscrok - ezco - the violator - po -
+- the mask - druid - recall - payday - booth - gaston - reverend d - logic -
+- tbm - micflair - sal1 - muad`dib - shellshock - fury - dansken - visitor -
+- xcz - markryder - spider - gaz - necronomicon - opium&razor - mr nielsen -
+- mortimertwang - czar - dino - drastic - princip - pitch - krome - morgoth -
+/ diz`nee - qen - mystix - canaan - distler! - shellshock - oden - cyclone \
+¦                                                                          ¦
+`-----( special greetings aren`t needed, since i luv you all so much )-----´                                                                                                                                                okejrå. extra pussar till: trivial.ogilvie.morris.nightshade.mark ryder.phenox & biomench! nöjda?
+
+
+
+
+
+
+
+                         h o w    t o    c o n t a c t
+
+                         simple: just call any +46-8-*
+                          bbs (stockholm, sweden) or 
+                          skyline or another step to
+                                get hold of me.
+
+
+
+
+
+
+
+
+
+
+
+
+                                    _______ :________     :____
+- --. --- ------ -------------- - :_\ ____/_|_______/:____|  _/_:
+__  |__ __.  ___ _i_  ___  ___    |_______. |      ·:|\_  :   ·:|
+\__ | / \_l_ \_/  l_, \_/_ \ ¬    |     ·:| |        |    .     |
+              \                   |       : |        |    :     |
+- --- ------ ---------------- --  |_________|________|____|_____|czar
+            d i v i n e  s t y l e r s  i n c .
+
+
+
+
+
+
+
+
+    .               d i v i n e   s t y l e r s   a r e :              .
+    .                                                                  .
+    .      trivial . mortimer twang . tommy . cybergod . vietcong      .
+    .                                                                  .
+    .         dino . orlingo . 243 . dash . matt . anyone else?        .
+    .                                                                  .
+
+
+
+
+
+
+                       Available from Divine Records:
+
+    Recorded in MTV live studio's New York. (c) Divine Records^Stylers '95
+                             
+              PVC - PVC AFFAIR  [- tOPQ hARDtRANCE  - 179 Sek -]
+             TRANCED OUT - 777! [- vERY niCE tRANCE - 179 Sek -]
+
+
+
+
+                  Send Money To Divine Stylers^Bank Of Zrich        
+                                 7381-21-06558
+
+
+
+
+
+
+
+
+          __      _________ |o          o  ________   ________
+  .-------\/-----(_________\||l________)|l/        )l/________)----------. 
+  |                                                 `---                 |
+  |                                                                      |
+ _|       iNTERCHANGE    wORLD HOOFDKWARTIER         mANNE: pRINCIP      |
+ \_        wILD PALMS    nEDERLANDS hOOFDKWARTIER    mANNE: rADAVi       |_ _
+  |   oNE eIGHT sEVEN    nEDERLANDS hOOFDKWARTIER    mANNE: wHIRLwIND    _///
+  |          cLUBLAND    mERCHANdiSE hOOFDKWARTIER   mANNE: tRiViAL      |
+  |  sOUTHERN cOMFORT    aUSTRALiAN hOOFDKWARTIER    mANNE: 243          |_
+  | vIRITUAL tHEATHRE    gERMAN hOOFDKWARTIER        mANNE: rAMIREZ      _//
+  |                                                                      |
+  |               ____  |-    _      _|     ____   ____  ___,            |
+  |              (______l_____)(____/|l__,l/____)|/____)(______          |
+  |                 ---'          ---'    `--    `    \    ---'          |
+  |                                                                      |
+  `----------------------------------------------------------------------'
+
+
+
+
+
+
+
+
+                                               _ ________
+- --. --- ------ -------------- -    _____   __\\\      /____    ____
+__  |__ __.  ___ _i_  ___  ___     _/  __/__/  _\      /   _/  _/    \_
+\__ | / \_l_ \_/  l_, \_/_ \ ¬    /\__    /   _/_\   //   _/__/   /   /
+              \                  /__ /   /__ /   /\  /__ /   /___/   /
+- --- ------ ---------------- --  2F\___/   \___/  \/   \___/   /____\
+            f i n a l  w o r d s
+
+
+
+
+
+            __/\  _  __/\_______/\___  __/\___  __/\.__
+            \_  \/ \ \_  _______  .  \ \_  .  \ \   |  \
+_ __ ______ /  \  / \/  __/___/   | _/_/   | _/_/\____  \ _______
+ -- ------ /    \/   \  \     \   .    \   .    \    /   \ -----.¦
+           \____/     \__      \__l     \__l     \__      \_    ¦|
+            dS!\_______/\_______/\_______/\_______/\_______/    ||
+                                                                ||
+    .------  m  e  r  r  y  --  c  h  r  i  s  t  m  a  s  -----´|
+    ¦                                                            |
+    |        __/\.____        __/\  _  __/\___  __/\_____        |
+    |        \__ | __/        \_  \/ \ \_  .  \ \  _____/        |
+    |        /   .   \  ....  /  \  / \/   |   \/\_____ \        |
+    |       /    |    \·::::·/    \/   \   .    \     /  \ ______¦
+    |       \____l     \_ |  \____/     \__l     \__      \_    
+    |        vC!\_______/ ¦      \_______/\_______/\_______/
+    |                     ·
+    |    a  n  d    a    h  a  p  p  y    n  e  w    y  e  a  r
+    ¦                     .
+    `---------------------´   
+
+
+
+
+          g o   f i n d   t h o s e   h i d d e n   p a r t s !
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ
+.----[ascii]-- aµææø -[ d¡ViNE sTYLERs ]---.
+|              ¬ØØØØø   ________.          |
+|     µæØ*ÑØØÑæµØØØØ#ø ØØØØØE      ©Mt     ¦
+¦  ·gØØØ#   ¬¶ØØØØØØØF °¤ØÑØ#ææµµ____      :
+   øØØØØL     °ØØØØØ# ¸µæµææ¯¬°¶ÑØØØØØæw·  ·
+ mØØØØØr     ___ØØØØØWØØØØØF      ¬¶ØØØØØ#w
+øØØÑÑØØ--'°¬"¯¯  ¬""ÆØØØØØK________.Ø#ÑØ#ØØø
+|------------------------------------------|
+|vIETCONg presents: books of blood volume 4¦
+the world is good & nothing bad ever happens
+`--------------------------( 1995-12-25 )--'
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ e o f ]
+- -- -----------------( where are we going now, dad? )------------------- -- -
+
+
+
+
+
+
+
+           .             wHEN qUALiTY iSN'T 'nUFF
+                   aND u'RE sTiLL lOOKiNG fOR mO' pHUN         ·
+           ·  tHEN tHERE iS oNE bOARd oPEN fOR u eVERY dAY!    ·
+           :            ____ _    _____ _        .________ _   :
+       ____¦_ _  ____. /   ///_  /    ///__._____l_  ___  \\\__¦____ _ xCz
+    __/ ____///_/   _l/  _/ ¯  \/    / ¯  /l______/   |    ¦¯ _____///_
+ _ /  \_____ ¯ /    \      \___     /    /___     ¦   |    | ____/  ¯  \ _
+///____   /    ______\      \/    __   _/    \    ____|    _  l     ____\\\
+- --÷/__________/÷---÷\___________/÷---\______\÷--'   l____l_________\÷-- -
+           :                                                   :
+       uNiQUE! aRTS lEADER hEADQUARTERS «·» lSD sWEDiSH hEADQUARTERS
+      hELLFiRE sWEDiSH HEADQUARTERS «·» mORBiD eUROPEAN hEADQUARTERS
+         fLOOD sWEDiSH hEADQUARTERS «·» gENERAL /X dOORS bETA siTE
+ - -·÷-- --:--- ------------------------------------------- ---:-- --÷·- -
+        REcAll [mYSTiC/lSD/hELLFiRE/fLOOD] «·» viSiTOR [sPACEBALLS]
+  cHARLiE [lSD] «·» aXEN [lSD] «·» -jUAN&hARPOON! [tRSi/iNSANE/sKiD^ROW!]
+        sONNY [lSD/diViNE] «·» sNAKE & dELBOY [pRESTiGE/cREAM/mYTH]
+ - -·÷-- --¦--- ------------------------------------------- ---¦-- --÷·- -
+           ·          a4OOo/o3O/5omHz/1OmB rAM/1.6giG          ·
+      mAXiMUM tRANSFERiNG oF [aMiGA], [pC] aND [cONSOLE/sNES] wAREZ!
+           :                                                   :
+           ·                 oRDER aSC2 fROM:                  ·
+ recall, xcluziwe, vietcong, misfit, woober, u-man, tommy, rooster, druid
+ java, trivial, relief, kerosene, wedlock, harpoon, the kestrel, skautch,
+           .                 aND mANY mORE...                  .
+ - --------¦---------------------------------------------------¦-------- -
+           :     [nODE 1 uSR cOURiER 33600 +46 691-30800]      :
+           .     [nODE 2 uSR cOURiER 33600 +46 691-30996]      .
+                 [nODE 3 uSR cOURiER 33600 +46 691-30599]
+           .     [nODE 4 uSR cOURiER 33600 +46 cHRiSTMAS]      .
+
+              - -÷ nUP! rEQUiRED!   -   wELCOME oNLiNE! ÷- -
+
+
+
+    -     -    -   -  - --- ---- --+×X×+-- ---- --- -  -   -    -      -
+
+       _                  L·O·S  E·N·D·O·S  B·B·S                   _
+    __//\__                                                      __/\\__
+    \\¯øo /          _______     ___________  __________         \ oø¯//
+    //_ O \         /______(____/    ______/_/  _______/__       / O _\\
+    ¯¯\\/¯¯       _/ \          \_   \|    _\___________  \_     ¯¯\//¯¯
+       ¯          \              /    '    \          \/   /        ¯
+                   \_          _/           \_           _/
+                    `----------^-------------^---------dG'
+       ___________  ___________  ___________  ___________  __________
+      / _________/_/     _     \_\_____     \/    ______/_/  _______/__
+    _/      _)-----._    |      :    |/      \_   \|    _\___________  \_
+    \               /    |      :   _/        /    '    \          \/   /
+     \_           _/     |      :   \        /           \_           _/
+      `m!---------^------|______:----\______/-------------`-----------'
+
+    [..RIOT^WHQ - GODS^GHQ - ABYSS^GHQ - SYNDROME^GHQ - JORMAS^dIZT..]
+         yA sYSOPtEAM iS: eXON/RIOt - gHANDY/gODS - rAHIEM/eSSENCE
+
+    -     -    -   -  - --- ---- --+×X×+-- ---- --- -  -   -    -      -
+
+ø=========================================================================ø
+|_________________________     _ ________:    |__________________________ |
+|___  ______\_  /____ \   |__________    |    |____ \_______  ___  ______\|
+| |   l/    / \/| \__  \  |      /  |   _|    | \__  \  __/   /|   l/    /|
+| |   /    /    |   |   \ |     /   |   \_    :   |   \ \    / |   /    / |
+| ø  /    /     |   |    \_    /    |    |    |   |    \_\  /__ø  /    /  |
+| |______/|_____|___|     /___/     |____|____:___|     /_\___/|______/   |
+| :                 |____/                    :   |____/       :[kAm]     |
+|                                                                         |
+|               =>>>  AMiGA:     c·R·U·x     WORLD-HQ  <<<=               |
+|               =>>>  AMiGA:   a·T·O·M·i·c   WORLD-HQ  <<<=               |
+|               =>>>  AMiGA: h·E·L·L·F·i·R·e SWISS-HQ  <<<=               |
+|               =>>>  AMiGA:   m·O·T·i·O·n   SWiSS-HQ  <<<=               |
+|               =>>>  SNES!:  a·N·T·H·R·O·x  SWiSS-HQ  <<<=               |
+|               =>>>  SEGA!:  a·N·T·H·R·O·x  SWiSS-HQ  <<<=               |
+|               =>>>  ASCii:  a·R·T·c·O·R·e  SWiSS-HQ  <<<=               |
+|                                                                         |
+|                          Sysop:  FURY/PRESTiGE                          |
+|        Cosysops:  DEATHKNiGHT, BEAST, ECHO&GUIDO, SNAKE & DELBOY        |
+|                       -[dEViL&rAVEN]-, aRTiC CAT!                       |
+|                                                                         |
+|                 [ NODE-1: 33.6 V.34+]  [ +41 ASK-4-iT ]                 |
+|                 [ NODE-2: 33.6 V.34+]  [ +41 ASK-4-iT ]                 |
+| SYSPW REQUIRED! [ NODE-3: 33.6 V.34+]  [ +41 ASK-4-iT ]  NUP REQUIRED!  |
+|                 [ NODE-4: ISDN X.75 ]  [ +41 ASK-4-iT ]                 |
+|                 [ NODE-5: ISDN X.75 ]  [ +41 ASK-4-iT ]                 |
+|                                                                         |
+`========================================================================='

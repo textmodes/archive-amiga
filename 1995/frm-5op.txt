@@ -1,0 +1,2770 @@
+
+ " THiS FiLE FOUND THE WAY THROUGH ONE OF THE FiNEST BULLETiN BOARD SYSTEMS "
+                        _ _____        ___   ______
+                               )_  __ _| (___) _  )_
+                              __/__) (_    |   |___/
+                       _ ___  |   |___|    |__
+    · _____________ _    c!|______|mSS|____| |______ _  _ _____________ ·
+ _ _:_\              ____       ____      _____      ____             /_:_ _
+    |             ___\  (_   ___\  (_   __\_  (_   __\  (_              |
+    |            _) _/   /___)  _   /___) _/   /___)   _ /__            |
+    |           /   \      /    \_    /   \      /     /   /            |
+    |           \___       \_____/    \____\     \__   \   \            |
+    |             \  _______\   /______\    \  ___\ \_______\           |
+    |              \/                        \/                         |
+    |                                                                   |
+    |             ÷  THE YARD BULLETiN BOARD SYSTEM 2k! ÷               |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                       WORLD HEADQUARTERS OF                       |
+    |                                                                   |
+    |         AEROHOLiCS (GRAFFiTi) ÷ DiSCiPLES OF AGEEMA (MUSiC)       |
+    |      ARCADE (ASCii) ÷ AEROSOL (ASCii) ÷ DREAM THEATRE (ASCii)     |
+    |          SOUL SURViVORZ (MP3) ÷ THE ASCii CHARTS (ASCii)          |
+    |                                                                   |
+    |                      GERMAN HEADQUARTERS OF                       |
+    |                                                                   |
+    |  LiGHTFORCE (AMiGA/CONSOLE) ÷ BAD KARMA (AMiGA) ÷ SODiUM (AMiGA)  |
+    |       LOW PROFiLE (ASCii) ÷ SiCK OF iT ALL (GRAFFiTi/DRUGS)       |
+    |  HOTSTUFFERS (AMiGA) ÷ PHUNK (ASCii) ÷ 1OO PERCENT (AMiGA/ASCii)  |
+    |  VORTEX (AMiGA) ÷ MOST VALUABLE PLAYAZ (MUSiC) ÷ UP ROUGH (MUSiC) |
+    |       OMEN (GRAFFiTi) ÷ TEQUiLA (MUSiC) ÷ PUNGAS (DAYDREAM)       |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                CONSOLES/AMiGA/ASCii/LiNUX/DAYDREAM                |
+    |             GRAFFiTi/DRUGS/CLASSiCS/MP3/MOD/CHiPTUNES             |
+    |                                                                   |
+    |           2 NODES 33k6 / 2 NODES iSDN / 4 NODES TELNET            |
+    |                                                                   |
+    |                      [ THEYARD.DARKTECH.ORG ]                     |
+    |                                                                   |
+    |                      [ 49-ASKTHERiGHTPEOPLE ]                     |
+    |                                                                   |
+    |           DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS!            |
+    |                                                                   |
+    |   ZANER/LiGHTFORCE^BAD KARMA^AHS ÷ DiPSWiTCH/BAD KARMA^1OO%^AHS   |
+    |       HASH/AHS^PZK^SOiA ÷ NiNJA/PARADOX^EURASiA ÷ MOOL/AHS        |
+    |                                                                   |
+ _ _|__   " THE iDEA OF STYLE iS THE KEY TO ALL FORMS OF ROCKiNG "    __|_ _
+    · /_______________________________________________________________\ ·
+
+                                 __  ._   __
+                                 (__ | ) (_/__
+      _________________..::::.                        _ _________  _________
+  .___\       /    .:::·· .::·__________        ________.____  ./__\       /
+  |    \     /  |     .  .::·          /___.  _/   _____|  _/ _/  \_\     /
+  |  \  \   /   '  __::.:::_\__   _ __/_   |__\___ __l__.  \       / \   /
+  |   \    /_______/ ::::· \____    ___/   |     / \ '  |___\_____/\    /
+  l____\  /[rLf]    .::::::.   \____/\___  .  __/_______|    oS!l___\  /
+        \/            :  ··::::...      \__|__/                      \/
+                      ·      ····
+                           p  a  l  a  c  e
+  
+    
+                                * MOT!ON HQ  *
+                            * TRADERS DREAN HQ  * 
+                           * TRSI RECORDZ DK HQ  *
+                              * DREAMCHART HQ  *
+                              * HOODLUM DK HQ  *
+                            * DATA DIVISION EHQ *
+                               *  PUZZLES HQ  *
+
+                a4ooo/o4o/25/2.5Gb/1x33.6DS/1x28.8DS/1x16.8DS
+                            Amiga/Ascii/Consol/PSX
+    
+                            tHe oNEs mAK!Ng iT rUn
+  
+           ZINKO^PLAYMATE^SISko^BILBO BAGGIn^NEIL/FLT^LABEL/LSD-DD
+             UFOK/MsT^LsD^PsG^iHS^FURY/PSG/M!/SYS/HLM^DELIVERYMAN
+  
+                         <0> +45-58ASK4IT 3NDs RD <0>
+
+
+                           Wed Sep 13 20:07:47 1995
+
+
+@BEGIN_FILE_ID.DIZ
+      ... _ _ __    _ _____ ________
+------: :  \\\\//\______   \\__     \_  _
+ 14/5 : :______/ePSILOn/_____/dESIGn!///
+------: _\_____       /   ___ _     //
+-1995-:/    __/      /    \      __//
+   _ _/     \_______/_     \      \_ __ _
+    \\  /____________/_____________//
+     \\/
+  -÷ fRAMe / c-LOUs  /  ePSILOn dESIGn ÷-
+  presents a new ASCII collection called:
+  -÷  o  p  e  n   --   d  o  o  r  s  ÷-
+@END_FILE_ID.DIZ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           - --÷×X  l U G n   s O m   e N   f I L B U N K e  X×÷-- -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           ÷ Read this, or don't ÷
+
+
+ Warning,  this  collection does not consists of any top quality ascii logos
+
+ but  I haven't been very active when it comes to do ascii's.  I have mostly
+
+ been  working on some "real" grafix and designing work in Deluxe Paint.  So
+
+ I  am now mostly not doing any ascii logos at all except the most important
+
+ ones for C-Lous, to my self or maybe some to my friends...
+
+
+
+ Take  me  for the one I am and dont ask too much before your open your eyes
+
+ for  trying enjoying this lame and serious ascii collection.  I am just the
+
+ one  I  am,  sorry  for that.  (How can you be sorry for some one you don't
+
+ know, like  or love?)  Be squared!  Find the secret of the security,  in my
+
+ not so beloved  a s s !
+
+
+     - --÷×  E  v  e  r  y  t  h  i  n  g   i  s   w  r  o  n  G  ×÷-- -
+
+
+
+
+
+
+ A  short message to the fregments in my mind, Chrombacher and Fatal.  Well,
+
+ I didn't see that cooperation collection so I started by my self to compose
+
+ and  produce  my  5:th collection, hope you guys don't mind!  I don't think
+
+ so..  My brain is feeling a bit ravin', so I'll go to bed now...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    I,
+    frame, frame, frame, frame, frame, frame, frame, frame, frame, frame,
+    frame, frame, frame, frame, frame, frame, frame, frame, frame, frame,
+    frame, frame, frame, frame, frame, frame, frame, frame, frame, frame,
+    and me....
+
+
+
+
+
+
+
+
+
+
+
+                                       I
+                                       N
+
+                                       M
+                                       C
+                                       M
+                                       X
+                                       C
+                           _ __ _ __ _ V _ __  _ __ _
+                  ._____ _     \\\\    :    ////     _ _____.
+                  |...............\\___.___//...............|
+     _ ____ _  __ ':                                       :` __  _ ____ _
+      __ _ \//\\/__:  ÷ fRAMe / c-LOUs ^ ePSILOn dESIGn ÷  :__\//\\/ _ __
+      \_______ \/  :                                       :  \/ _______/
+   _ __ _ _/     ____  gives you a new azq-I collection  ____     \_ _ __ _
+       \\\\______/f:......................................:e\______////
+
+
+
+
+
+
+                               ____
+                               \  (_____ _ __ _
+   .............................\... __////
+   :            _ ______ _       \ :  \_____ _
+   :         ________   \//\______ .   ________     ________     ________
+   :  ______/       /____/       /____/       /__ _/       /____/       /
+   : _\____        /_____       /  __        /   Y        /____        /
+   :/      \______/  _ _/    __/    l__   __/   \_/    __/  __/       /
+  _/       ____/      \\      \_   ___/    \_    |      \_  \________/_ _ __ _
+  \________|  _ ________\______/____l____\  /____l_______/____________////
+   :                                      \/fRM/e^d
+   :    ·
+   :....:
+
+
+
+                            simpel, that's me!
+
+
+
+
+
+
+
+            ...................................
+            :::··                             :
+            :·    ____   ____|  ____   ____   :   |__    |____   ____
+     - ÷  (____l (    l (____l (___/_ |    '  :   l____, |    ) (___/_  ÷ -
+            :.................................:
+
+
+
+
+
+
+
+
+
+
+
+
+                                           ......
+                                           :    :            .---- - -  ._____.
+    ______________ _ ___________ _ ________:  ._:____. _ ____|__ _ ____ |     |
+.__/   __        /   __        /    ______/:_ | :    |          \    _ \|     |
+|       /_______/__   /_______/_______     : \| :    |_____ o    \_   \ \     |
+|_________________/_____|  _ _ ____________:__\_:_________/_______/    \ \_   |
+         ......... ______________ _ _______: _ _:________ _ _|__ |      \_____|
+   ......:...  ._:/   __        /    ______:__  :  _____/__     \|      |
+  :     ....:  | :     /_______/_______    :  \ :  \____   \_  _ \      |
+  :      :     |_:_______________/_________:___\:___________/___\ \_    |
+  ·..............: splat/e^d               :    :        ..::|   \      |
+                                           :...::  - --------'    \_____|
+
+
+
+
+                           ,                     ,
+                   - ÷ 3 p ) i l o n ÷  -  ÷ ð 3 ) i g n ÷ -
+
+
+
+
+
+                       ...................
+                       :::··             :
+                     | :·    ____  |____ : ____  |
+           - --÷ -÷  l____, (____l |____):(___/_ l____, ÷- ÷-- -
+                       :.................:
+
+
+
+
+
+
+
+
+
+
+
+            with deep feelings and psychedelic mind experiences
+
+            together with primordial secrets for you, entitled..
+
+
+
+
+
+
+
+
+
+
+
+        .....................                         ____ _
+        :.fRm/e^d. ________ :    ________      _____ _\ _    ________ _ __ _
+        :  _______/       /_____/       /_____/  _ ___ \\ ._/       ////
+        : _\_  __        /    __       /    __       /  \\|        //
+        :/     \      __/    __/      /  _ __/      /    \\_    __/
+ _ _ _ _/       \      \_    \_______/    \\_______/_     \_     \
+    \\\\________________/_____|  _ _________________/_____|       \_
+        :   ___________                                   l________/
+  ......:...\__       /     ________      ________      ________      ________
+  :  ___:____/_      /_____/       /_____/       /_____/       /_____/       /
+  : _\_ : ____/     /   __        /   __        /_____        /   __        /
+  :/    · \      __/    \      __/    \      __/    _/     __/    \________/
+ _/     ·  \      \_     \      \_     \      \_    \       \__________   \_
+ \_________________/_____________/_____________/_____\_____________________/
+
+         - --÷¤°~¯  ø · ¶ · 3 · n      ð · ø · ø · r · $  ¯~°¤÷-- -
+
+
+
+
+
+
+
+
+
+
+
+
+                     Ohh, lord.. give me your clothes.
+
+                         I would like to eat 'em.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           _ __ _ ___________ _ __ _
+                  ._____ _     \\\\         ////     _ _____.
+                  |...............\\_______//...............|
+     _ ____ _  __ ':           _  _  _  _ .__ ,            :` __  _ ____ _
+      __ _ \//\\/__:        ÷ (_,| '(/_|_)||_,) ÷          :__\//\\/ _ __
+      \_______ \/  :                                       :  \/ _______/
+   _ __ _ _/     ____     squeezing ascii's done by:      ____     \_ _ __ _
+       \\\\______/f:                                       :e\______////
+                   :   ÷ f r a m e / c ! s  /  e ^ D ÷     :
+                   :                                       :
+                   :     epsilon design logo done by:      :
+                   :                                       :
+                   :              splat/e^D                :
+                   :                                       :
+                   :              that's it                :
+                   :                                       :
+                   :         - --÷-÷-÷-÷-÷-÷-- -           :
+                   :        _  _  _  _ __ . _  _ ,         :
+                   :     ÷ (_|| '(/_(/_l_,|| )(_|) ÷       :
+                   :         '                  '          :
+                   :             not it, it's              :
+                   :                                       :
+                   :           Chaos! / Desire             :
+                   :           Yaffle / Insane             :
+                   :           Slash / Citron.             :
+                   :        Fatal / Obscene & E^D          :
+                   :     Chrombacher / Obscene & E^D       :
+                   :           Nemesis / Zenon             :
+                   :           Radavi / Effect             :
+                   :           Slime / Rebels              :
+                   :        Beholder / Diffusion           :
+                   :           Zenit / Compact             :
+                   :           Adder / Infect              :
+                   :        Mindphaser / Freezers          :
+                   :       Spalatterhead / Analog          :
+                   :          Hacksaw / Chrome             :
+                   :        Suhu / Banal Projects          :
+                   :           Trooper / Lego              :
+                   :           Eightball / S!P             :
+                   :           Falcon / Legacy             :
+                   :           Decoy / Passion             :
+                   :               Kestrel                 :
+                   :           Darkhawk / Iris             :
+                   :           MDB / Alcatraz              :
+                   :           Virtue / Legacy             :
+                   :         Immortal / Freezers           :
+                   :       Dick / Damones & 6Crew          :
+                   :            Swerx / Føda               :
+                   :             Mass / S!P                :
+                   :         Decadence / Vision            :
+                   :           Fugazi / Taurus             :
+                   :          Dr.Poison / Vixen            :
+                   :             Raivo / Gac               :
+                   :          Miklesz / Damage             :
+                   :        Tsar1 / Balance & W^S          :
+                   :     Crusader / Giants & Outlaws       :
+                   :         Hysteric / Ram Jam            :
+                   :          Helloween / Bronx            :
+                   :           Wizard / Infect             :
+                   :         Siriax / Fairlight            :
+                   :         Rod / Banana Dezign           :
+                   :          Chimera / Cadaver            :
+                   :          Al Bundy / Jewels            :
+                   :          Payday / Freezers            :
+                   :      Darren / Balance & Scoopex       :
+                   :           Pearl / Passion             :
+                   :    2Fast / Avantgarde & aRTCORe       :
+                   :           Sugar Ray / S!P             :
+                   :            Jinx / Nebula              :
+                   :         Limbo / Razor 1911            :
+                   :          Cesium / Session             :
+                   :            Nop / Saints               :
+                   :          Acid / D-Version             :
+                   :            Norby / TRSI               :
+                   :          Oden / Razor 1911            :
+                   :         Snuffy / Earthbound           :
+                   :   Noodle / Facet's pussy / Desire     :
+                   :           Cyryx / Excess              :
+                   :         Kr'33 / Spaceballs            :
+                   :          Wolfman / Balance            :
+                   :     Gno / Obsession & Sardonyx        :
+                   :           Rascal / Speedy             :
+                   :             TMX / Jelly               :
+                   :         Electron / Citron.            :
+                   :          Lussar'n / Rebels            :
+                   :       Colorbird / Razor 1911          :
+                   :          Gangsta / Scoopex            :
+                   :              Owl / Mns                :
+                   :           Dvize / Devious             :
+                   :          Devistator / Neo             :
+                   :          Jeckbuzz/Y-Front             :
+                   :            Vinzi/Yodel                :
+                   :.. .       Pride / Stellar         . ..:
+
+                   plus alle de andre jej bryker helse til...
+
+
+                     coursie some gnejs to my fellas (?!)
+                        in da Epsilon Design crew...
+                               ...............
+                               :             :
+                               :    fATAl    :
+                               : cHROMBACHEr :
+                               :    jUAn     :
+                               :   sANDMAn   :
+                               :   hARPOOn   :
+                               :    sPLAt    :
+                           ....:    cRAZy    :....
+                           :   :    sTASh    :   :
+                           :   :.............:   :
+                           :                     :
+                         ..:.                   .:..
+                         :     If you belive in    :
+                         :   God then dont belive  :
+                         :     those c-looser's    :
+                         :                         :
+                         : P  r  o  s   p  e  c  t :
+                         : O    r    i     g     o :                                                     
+                         : F    r    a     m     e :
+                         : P      o      z       z :
+                         : C      l      a       w :
+                         : M  r .   M   y   g    g :
+                         : C   r   a   z   y     D :
+                         : S   t  a  r  d  u  s  t :
+                         :.........................:
+
+                          ÷ Never trust an animal! ÷
+
+                          ÷ När det susar i säven! ÷
+
+
+                              ....Schlosch....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           ÷ w A R M I N g   u P  ÷
+
+
+  Humbidum..   I  was  thinking  of  it...   I  have never included any ascii
+
+  respects to anyone in any of my collections.  Why, you might ask?  The real
+
+  truth  is  that I don't have any respect for other ascii'ans..  NOOOOOOOOO!
+
+  just kidding.  Damn funny, Aren't I?
+
+
+
+
+  Well,  The real truth is that I'm not is very skilled when it comes to name
+
+  the best.  The absolutely best ascii graphican is Vinzi of Yodel (?). He is
+
+  the   only  one  who  makes  collections  that  you  can enjoy  while you'r
+
+  watching,  there  is  some  kind of linking between the logos.  Other ascii
+
+  makers  makes  their  collys  soo  booring,  it  is just houndreds of logos
+
+  collected  into  one  file..  Hmm, That is the point of making a collection
+
+  isn't it?   But anyway, I prefer watching collections from Vinzi instead of
+
+  another  ones...   It  very  sad  that he dosen't makes any collections any
+
+  more.
+
+
+
+
+   The truth collected without any linkings between the lines of perfection.
+
+
+     - --÷×  E  v  e  r  y  t  h  i  n  g   i  s   w  r  o  n  G  ×÷-- -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  _   | _    ,
+                               ÷ (_,- l(_)(_|) ÷
+
+                            · vi bringer dej acid ·
+
+
+                           _ __ _ ___________ _ __ _
+                  ._____ _     \\\\         ////     _ _____.
+                  |...............\\_______//...............|
+     _ ____ _  __ ':       .........................       :` __  _ ____ _
+      __ _ \//\\/__:       :                       :       :__\//\\/ _ __
+      \_______ \/  :       : c-lous is searching a :       :  \/ _______/
+   _ __ _ _/     ____      : fuckin living board.. :      ____     \_ _ __ _
+       \\\\______/f:       : contact me if you are :       :e\______////
+                   :.......: intersted in any way. :.......:
+                           : contact me via mail   :
+                           : or phone(voice) sorry :
+                           :                       :
+ .......                   : We will ofcourse give :
+.::::...... .....   .....  : you'r board thousands : .... .... ...   ........
+ ::::      ::::  .....:::: : of BBS-intros! belive : ::::·::::·:::: ::::..::::
+ ::::      :::: ::::..:::· :                       : :::: :::: :::: ·:::..
+                           : ÷ Joakim Bengtsson ÷  :
+                           :    Fjällsippev.14     :
+                           :  S-31133 Falkenberg   :
+                           ¦     S W E D E N       ¦
+                   ........¦                       ¦........
+                   :       | Tel. +46-(0)346/80703 |       :
+                   :       |_______________________|       :
+                   :                                       :
+                   :   That thing above is probably also   :
+                   :   for some mailtrading or some lazy   :
+                   :   ascii ordering...    Do Not think   :
+                   :   anything, belive it!  (Tumbelina)   :
+                   :   Hej Matte, Michael, Janne, Patrik   :
+                   :.......................................:
+
+                                  _   | _    ,
+                               ÷ (_,- l(_)(_|) ÷
+
+                               · cosmic  glide ·
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            some one is calling me...
+
+                            mOBy is a fan of jesus!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           _ __ _ ___________ _ __ _
+                  ._____ _     \\\\         ////     _ _____.
+                  |...............\\_______//...............|
+     _ ____ _  __ ':                                       :` __  _ ____ _
+      __ _ \//\\/__:    let's begin this soul-freezing     :__\//\\/ _ __
+      \_______ \/  :    collection with some quite old     :  \/ _______/
+   _ __ _ _/     ____   logos done by ME (ofcourse!!).    ____     \_ _ __ _
+       \\\\______/f:.......................................:e\______////
+                           ,                     ,
+                   - ÷ 3 p ) i l o n ÷  -  ÷ ð 3 ) i g n ÷ -
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           _ __ _ ___________ _ __ _
+                  ._____ _     \\\\         ////     _ _____.
+                  |...............\\_______//...............|
+     _ ____ _  __ ':       .........................       :` __  _ ____ _
+      __ _ \//\\/__:       :                       :       :__\//\\/ _ __
+      \_______ \/  :       : If you'r looking for  :       :  \/ _______/
+   _ __ _ _/     ____      : any special logo(s),  :      ____     \_ _ __ _
+       \\\\______/f:       : I've wroted 'em down  :       :e\______////
+                   :.......: here.. spank me!      :.......:
+                           :                       :
+                           :                       :
+                           :     o1. Asciis        :
+                           :     o2. Amiga         :
+                           :     o3. Chat          :
+                           :     o4. Comment       :
+                           :     o5. Confs         :
+                           :     o6. Console       :
+                           :     o7. Demo          :
+                           :     o8. Files         :
+                           :     o9. Good Bye      :
+                           :     1o. Join          :
+                           :     11. Leech         :
+                           :     12. Logoff        :
+                           :     13. Menu          :
+                           :     14. New User      :
+                           :     15. News          :
+                           :     16. Pc            :
+                           :     17. Pd            :
+                           :     18. Snes          :
+                           :     19. Upload        :
+                           :     2o. Last 10       :
+                           :     21. Rebels        :
+                           :     22. Polka B.      :
+                           :     23. Pozz          :
+                           :     24. Lost Carrier  :
+                           :     25. Nuance        :
+                           :     26. Gangsta       :
+                           :     27. Scoopex       :
+                           :     28. Pride         :
+                           :     29. Lego          :
+                           :     3o. Modules       :
+                           :     31. Origo         :
+                           :                       :
+                           :     32. Fatal         :
+                           :     33. Chrombacher   :
+                           :     34. Juan          :
+                           :     35. Sandman       :
+                           :     36. Harpoon       :
+                           :     37. Splat         :
+                           :     ... Splat 2
+                           :     38. Crazy         :
+                           :     39. Stash         :
+                           :.......................:
+
+                        _   _   _       _  , __   _   _|
+              - --÷×X  | ' (/_ (_| (_) (/_ ) l_, (/_ (_l  X×÷-- -
+                                 `
+                           .........................
+                           :                       :
+                           :     39. Session       :
+                           :     4o. Giants        :
+                           :     41. Outlaws       :
+                           :     42. Neo           :
+                           :     43. Tsar1         :
+                           :     44. Crusader      :
+                           :.......................:
+
+
+                          just search for the number.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     They stinks but please don't hate me!
+
+    If you have seen any of the logos before, then don't mind watching 'em!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .o1  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _   ÷ a s c i i s ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+          ._______________ _ _  _   _
+          |      _________    _________    _____________._____:    _________
+       ___:_____/fRm/e^D /___/        /___/       ____  l___  ¦___/        /
+ ______\__________ _    / __         / __         /     ·     | __        /____
+ \__  ___    ____ _  __/   \________/   \________/|     :     |  \_______/  __/
+  ·\  \/  .   \/      \_________   \_    \      \_|     ¦   _________   \/  /
+  ..\_____|_________________________/____________/l_____l__________________/
+ . ·::::::|
+  . ··::::|  __/\  __   . ...a..s..c..i..i..s.... .
+     · ·::l____/\\/__ _  _
+                 \/
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .o2  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ a m i g a ÷    _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+          ._______________ _ _  _   _
+          |      _________    _____________.      _________    _________
+       ___:_____/fRm/e^D /__ /        /__  l_____/        /___/        /
+ ______\__________ _    /__ Y        /     ·   __        /______     _/____
+ \__  ___    ____ _  __/   \_/   ___/|     :   _\_______/    __    ___  __/
+  ·\  \/      \/      \_    |      \_|     ¦   \___    \_    \/     \/  /
+  ..\_______________________|_______/l__________________/______________/
+ . ·::::::|
+  . ··::::|  __/\  __   . ...a..m..i..g..a... .
+     · ·::l____/\\/__ _  _
+                 \/
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .o3  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _     ÷ c h a t ÷     _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+             ·    /\_
+             : /_/fRm/e^D          _ _____ _
+             ¦//  ________     ________   \//\______      ________
+           __|___/       /__._/       /____/       /_____/       /
+          _\___         /   |        /   _        /____         /
+         /     \_______/  _ |     __/  __|     __/   /     ____/
+       _/       \     \_  \___     \_  \___     \_ ////     \_
+       \_______________/____|_______/____|_______/ ///_______/
+                                             _ ___////
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .o4  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ c o m m e n t ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                            _ __ _____ _                  ·
+          _______   _______   _______ \//\_____   _______ : _______    _______
+     ____/      /__/      /_ /      /_ /      /__/      / |/      /___/      /
+    _\_        / __ _    /  Y      /  Y      /______   / \|      /____      /
+   /   \______/  \   ___/  \_/  __/  \_/  __/ \_______/  _\_  __/  /   ____/
+ _/     \    \_   \    \_   |    \_   |    \_  /     \_   \_   \ //     \_
+ \____________/_________/___l_____/___l_____/_________/___l____\\ /______/
+                                                                \/fRm/e^D
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .o5  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _   ÷ c o n f ' s ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                        _ _____ _
+                ________   ________ · ________ \//\______   ________
+         ______/       /__/       / ¦/       /__/       /__/       /
+        _\__          /  ___ _   / \|       /__        /          /
+       /    \________/   \  _ __/  _\_   __/   \______/ \________/
+     _/      \      \_    \    \_   \_    \_   ____/_________   \_
+     \_______________/__________/___l___\  /____|fRm/e^D _ ______/
+                                         \/
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .o6  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ c o n s o l e ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                            ·  _ _____ _                  ·
+          _______   _______ : _______ \//\_____   _______ :           ________
+     ____/      /__/      / ¦/      /__/      /__/      /_|   _ _____/       /
+    _\_        / __ _    / \|      /         / __ _    /  |______ _____ _   /
+   /   \______/  \    __/  _\_  __/  _______/  \    __/   |   __/ \________/
+ _/     \    \_   \    \_   \_   \_______  \_   \    \_   |    \    \     \_
+ \____________/_________/___l_______________/_________/________\\ /________/
+                                                                \/fRm/e^D
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .o7  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _     ÷ d e m o ÷     _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+             ·    /\_
+             : /_/  _              _ _____ _
+             ¦//   /(____ _    ________   \//\______      ________
+           __|____/  _ _______/       /__ _/       /_____/       /
+          _\_  _ _      / ______ _   /   Y        /   ___ _     /
+         /       /   __/  \_________/   \_/    __/ // \      __/
+       _/       /     \_    \      \_    |      \_ //  \      \_
+       \_______________/____________/____l___ _  / //__________/
+                                           _ ___////fRm/e^D                                          \/
+                                                  /
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .o8  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _   ÷ f i l e s ÷     _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                   /
+               /\//_\_.___ _ :     ·   _ _____ _
+          _ __//\//___|___   ¦     :          \//\______   ________
+           ______/    :  /   |____/¦   _ ______/       /__/       /
+          _\____        /   ____   |_______ __        /          /
+         /      \______/     |/    |    __/   \______/ \________/
+       _/     ____/   |      |     |     \_   ____/_________   \_
+       \_______|      l______._________\\ /_____________________/
+                             |          \/fRm/e^D
+                             ·
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .o9  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _ ÷ g o o d   b y e ÷ _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+             ·
+             : /  /\___ _                        _ _____ _ _
+             ¦//\/________     ________     ________    \//(______
+           __|___/       /____/       /____/       /_____/       /
+          _\___         /   __ _     /  __ _      /    __       /
+         /    _\_______/    \     __/   \      __/      /    __/
+       _/     \___    \_     \     \_    \      \_     /      \_
+       \_______________/____________/____________/__________\  /
+             |fRm/e^D    ________     ________     ________  \/
+             ¦    ______/       /____/       /____/       /
+             :   _\______      /   _/       / ______     /
+             .  /     __   ___/    \     __/  \_________/
+              _/      /      \_______     \_    \      \_
+              \____________________________/____________/
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .1o  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ j o i n ÷      _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                  _ _  _
+                  \\\ /(____ _    ________  _____      ________
+                   \__  _ _______/       /_/    /__ ._/       /_ _ __ _
+      _ __ _ _______/      /  __ _      /      /   \|        //////
+          \//      /    __/   \      __/    __/    _\_    __////
+          _/      /      \_    \      \_     \_     \_     \_
+          \_______________/____________/___\  /_____l_______/
+                                            \/fRm/e^D
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .11  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ l e e c h ÷    _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                          _ _____ _          .
+        _________          ________    ________  \//\______  . ________
+  _ __/\\ ___   / _ ______/       /___/       /___/       /__:/       //\__ _
+        _\ \   /______  _____    /  _____    /___        /   ¦       /
+       /  \   /  _ __/  \_______/   \_______/    \______/  _ |    __/
+     _/      /      \_    \    \_     \    \_     \    \_  \___    \_
+     \_______________/__________/________\\ /___________/____l______/
+                                          \/fRm/e^D
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .12  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ l o g  o f f ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                  _ __ _____ _
+   _ __ _____           _______    _______  \//\_____    _______    _______
+       \\    \_  _ ____/      /___/      /___/      /___/      /___/      /
+        _\_   /____  __ _    /___       /  __ _    /          /__        /
+       /     /  __/  \   ___/   _\_____/   \    __/  \_______/   \______/
+     _/     /    \_   \    \_   \__   \_    \    \_   ____/      ____/
+     \____________/_________/_______\  /__________/____|   _ _____|
+                                     \/fRm/e^D
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .13  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ m e n u ÷      _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                     ______ _     _ _____ _ _
+                   /\______     _____\ __ _  ________    \//(______
+       _ __ _____ /       /____/      \ \ ._/       /___._/       /
+          /_\___ Y       /  _____     /\ \|        /    |        /
+         //     \_/   __/   \________/   _\_    __/     |     __/
+        _/       |     \_     \     \_    \_     \_     |      \_
+        \________l______/____________/____l_______/__________\  //\__ _
+                                                       fRm/e^D\//
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .14  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _÷ n e w   u s e r s ÷_  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                              _ ______ _          ·
+                           ________   \//\______  :  ________
+                   _____._/       /____/       /_.¦_/       /
+              ___ _\_  _|        / _ ___      /  ||        /  ____ _
+            __ _//     _\_   ___/   __/      /   /\     __/_/ ___
+        _ __/_/_/       \_     \_   \_______/   /  \     \_\___ \_
+             \ \________|_______/________________/\_______/  \_ _
+        _________          ________    ________    ________    ________
+  _ __/\\       /_________/       /___/       /___/       /___/       //\__ _
+        _\     /      / ___      /  _____    /_____      /  ___      /
+       /  \   /    __/  \_______/   \_______/  ___/   __/   \_______/
+     _/      /      \_______   \_     \    \_  \___    \________   \_
+     \__________________________/___________/____l___\  /___________/
+                                                      \/fRm/e^D
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .15  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _     ÷ n e w s ÷     _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                         _ ______ _          ·
+                      ________   \//\______  :  ________     ________
+              _____._/       /____/       /_.¦_/       /____/       /
+         ___ _\_  _|        / _ ___      /  ||        /  ___       / ____ _
+       __ _//     _\_   ___/   __/      /   /\     __/   \________/_/ ___
+   _ __/_/_/       \_     \_   \_______/   /  \     \_________   \_\___ \_
+        \ \________|____\  /________________/\____________________/  \_ _
+                         \/fRM/e^D
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .16  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _       ÷ p c ÷       _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                       _ _____ _
+                          ___ \//\______     _________
+                  _   ___/ ____/       /____/        /
+                  /___\__  _ ___      /____         /  ____ _
+                _/___/ /    __/      /    \________/_/ ___
+               _ __\ _/     \_______/      \      \_\___ \_
+                  \\\\________|   _ ____________\  /  \_ _
+                                          fRm/e^D\/
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .17  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _      ÷ p d ÷        _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                       _ _____ _               _
+                          ___ \//\______      /(______
+                  _   ___/ ____/       /_____/_      /
+                  /___\__  _ ___      /    ___/     /  ____ _
+                _/___/ /    __/   _  /     /     __/_/ ___
+               _ __\ _/     \_____\       /       \_\___ \_
+                  \\\\________|    \____________\  /  \_ _
+                                          fRm/e^D\/
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .18  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _     ÷ s n e s ÷     _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                         _ ______ _
+                      ________   \//\______     ________     ________
+              _______/       /__._/       /____/       /____/       /
+         ___ _\    _____    /  _|        /  ______    /  ___       / ____ _
+       __ _//  \   \_______/   _\_      /   \________/   \________/_/ ___
+   _ __/_/_/    \______   \_    \_    _/   ____/    \_________   \_\___ \_
+        \ \________________/____l_________________\  /____________/  \_ _
+                                                   \/fRm/e^D
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .19  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _   ÷ u p l o a d ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                   _ __ _____ _                       _
+           .________    _______  .    fRm/e^D\//\_____    _______    /(_____
+       ____|       /___/      /_/|      _ ____/      /___/      /___/__    /
+ _ __ _\_  |      /   _      / __|_______   __ _    /  __      /   ___/   /__ _
+    //     |   __/  __/     /  \__    __/   \    __/  _ |   __/    /   __//
+   _/      |    \_  \______/     |     \_    \    \_  \___   \_   /     \_
+   \_____________/___|    \__________\  /__________/____|_____/__________/
+                                      \/
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .2o  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ l a s t  1 o ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                _ __ _____ _        _ __
+ _ __ _____           _______    _______  \//\_____    / _______    _______
+     \\    \_  _ ____/      /___/      /___/      /  _/_/      /___/      /
+      _\_   /____  __      /___       /____ _    /  //        /  __      /
+     /     /  __/ __/  ___/    \_____/  /   ____/  /__     __/    /   __/
+   _/     /    \_ \___   \_______   \_ /     \_      |      \_   /     \_ __ _
+   \____________/___|__\  /__________///______/      |_______/__________//
+                        \/fRm/e^D    /
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .21  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _   ÷ r e b e l s ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+            _ ___  /\__ _
+     .___________\//\___ _
+     |fRm/e^D    \/
+    _|_________  ___________  ___________  ___________ __.        __________
+   _\____     /__\___      /__\____     /__\___      /   |_____ __\  ______/\
+  /    _/  __/     _/     /     __/  __/     _/     /    |     \   \___    \/
+_/     \     ¬\    \_____/__    \      ¬\_   \_____/__   |      \_   /      \_
+\_______\      \___________/_____________/___________/___________/___________/\
+ \_______\______/\_________\_____________\___________\___________\___________\/
+     |    \_____\/
+ _ __|_____________ _ _  _
+     ¦ r e b e l s
+     :
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .22  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ p o l k a  B . ÷ _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+              ._______________________    /\___ _ _  _
+              |fRm/e^D       _  _ ____\  //\____ _ _  _
+            __|______    ________   . \\//            ________     ________
+     ______/  :     /___/       /__/|  \/     _____._/       /____/       /
+    _\______       /   _       /  __|_________\_ __|        /_______ _   /
+   /  _ ___/      /    |    __/   \___    __/    \__     __/    ___// __/
+ _/    \\________/     |     \_     /      \_      |      \_    \/     \_
+ \________|   |_______________/_____________/______|_______/____________/
+     ___ __   .
+    /\__\\_\\ |____   ____   ____  |_     |____   ____   ____    ___
+    \/__//_// l____) |    ' (____) l____, |    ) (___/_ |    ' ___)
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .23  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ p o z z ÷      _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                     ______ _     _ _____ _ _
+                   /\______     _____\ __ _  ________    \//(______
+       _ __ ______/       /____/      \ \___/       /_____/       /
+          /_\_   _       /   __ _     /\_    __    /     _ __    /
+         //    __/      /    \     __/________/   /_________/   /
+        _/     \_______/      \     \_    _______/_      ______/_
+        \________|    _ _____________/____________/___________  //\__ _
+                                                       fRm/e^D\//
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .24  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ lost  carrier ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                                   _ __ ______ _
+        _ __ _______               _________      _________   \//\_______
+       .    \\      \_    _ ______/        /_____/        /____/        /
+       .     _\_     /______    __ _      /    ___ _     /_____ _      /
+       :    /       /    __/    \     ___/     \________/ __/     ____/
+       ¦  _/       /      \_     \      \__________    \_ \/       \_
+       |  \________________/_____________/______________/___________/
+       |   _______   _______   _______   _______  ____   _______   ________
+      _|__/      /__/      /__/      /__/      /_/   /__/      /__/       /
+     _\_        /______   /  _      /  _      /     /____ _   /   _      /
+    /   \______/   ___/__/ __/  ___/ __/  ___/___\_/ \_______/  __/  ___/
+  _/     \    \_   \/   \_ \__    \_ \__    \_    \_   \    \_  \__    \_
+  \____________/_________/___\_____/___\_____/_____/_________/____\__\  /
+  .·:::|fRm/e^D                                                       \/
+   .:::|               . l O S t   c A R R I E r   B B S .
+   ·.·:|
+   . .·|_ _
+     :/\_\\\
+     .\/_///
+       l_____ ___ __ _  _   _
+     _ ____ _  __                                             __  _ ____ _
+
+
+
+
+
+
+
+
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .25  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _   ÷ n u a n c e ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+      ...................................................... ... .. .  .
+      :        _ _____ _                           _ _____ _
+      :     ________  \//\______    ________    ________  \//\______    ________
+    _____._/       /_. /       /___/       /_._/       /___/       /___/       /
+   _\_  _|        /  |/       /  __ _     / _|        / __        / _ __      /
+  /     _\_   ___/   |     __/   \__   __/  _\_    __/   \_______/ _ __/     /
+_/       \_     \_   l      \_  ___/    \_   \_     \_    \     \_  \\______/_
+\________l____\  /___________/___l_______/___l_______/___________/___________/
+      :÷fRm/e^D\/          ____          ____   ____   ___    _____
+      :            - ÷÷÷  l    ) (____l /____\ |    ) (____, (____/_  ÷÷÷ -
+      :......... .. .
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .26  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ g a n g s t a ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+  ...............................................
+  :                                       _ ___ : /\____ _
+  :  ÷gANG$7a/sCOOP3x÷  ______________ _       \:/
+  :       _______   ____\ __  _______ \//\_____ : _______    _______    _______
+  :  ____/      /__/     \\ ./      /__/      /__/      /___/      /___/      /
+  : _\__       / __      /\\|      /__       /__       /____      /  __ _    /
+  :/  __\_____/  \__ ___/  \\_  __/ __\_____/   \_____/ /    ____/   \__  __/
+ _/   \___   \_  __/   \_   \_   \_ \___   \_______  \_/      \_     __/   \_
+ \_________\  /__l______/___l_____/___________________/_ ______/_ ___l______/
+     fRm/e^D\/
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .27  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ s c o o p e x ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                         .................................
+                                         :                               :
+           _ _____ _                     : ÷sCOOPEx - gENERATIONs aHEAd÷ :
+  fRm/e^D _______ \//\_____   _______   _______   _______   _______   ________
+ _ ______/      /__/      /__/      /__/      /__/      /__/      /_./       /
+  \\   ___ _   /__       / __ _    / __ _    /___      /__    ___/  |__     /
+   _\  \______/  \______/  \    __/  \    __/ __/     /__/    \__  ___/  __/
+ _/  \_____  \_   \    \_   \    \_   \    \_ \______/ \_______/    |     \_ _
+ \____________/_________/_________/_________/___| \_________________l___\  //
+                                                                         \/
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .28  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ p r i d e ÷    _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                             .....................
+                                    ·        :                   :
+                    _ ______ _      :        : ÷ pR!ð3/s7e11ar ÷ :
+                _________   \//\____|_ ___.  :   _________     _________ _ _
+        _ _____/        /____/      |___ ¬l_____/        /____/        ////
+      ///_\_____       /______      :/  _______         /______       //
+       //    __/      /    __/    __/     |    \     __/    __/      //
+  _ _ _/     \_______/     \       \_     |     \     \_    \_______/___ _
+     \\________|    \_______\_______/_____¦_________\  /______________ _
+                                             :       \/fRm/e^D   :
+                                             :...................:
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .29  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ l e g o ÷      _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                       .......................
+                       :                     :     _ __ ______ _
+        _ __ _______   : ÷l e g o÷ _________ :    _________   \//\_______
+            \\      \_ :  _ ______/        /_____/        /____/        /
+             _\_     /______ _ ___        /    __ _      /   __ _      /
+            /       /    __/   __/       /     \      __/    \      __/
+          _/       /      \_   \________/_      \      \_     \      \_
+          \________________/_____________/__________    /_____________/
+                       :               _ ____\  _______/fRm/e^D
+                       :......... .. .       \\/
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .3o  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ m o d u l e s ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                         _ ___ _________ __            _ _____ _
+ ......... . ______    ______ \\__     / \//\_____.           \//\____    ______
+ :  ____ ___/     /___/     /___/_    /_._/  ____ |    ________/     /___/     /
+ : _\_  Y        / __      / ____/   /  |      /  |____\_   __      / _       /
+ :/    \_/    __/  \    __/  \    __/   |   __/   |   __/  __/     /  \______/
+_/      |      \    \    \_   \    \_   |    \_   |    \_  \______/______   \_
+\_______|       \_________/_________/______\  /_________/____________________/
+·fRm/e^Dl________/                          \/
+ :                  ·
+ :..................:   -÷ running you'r life into your trancy mindflow ÷-
+
+
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .31  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ o r i g o ÷    _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+
+
+                                             ......................
+                                    ·        :                    :
+                    _ ______ _      :        : ÷ oRIGo / c-LOUs ÷ :
+                _________   \//\____|_ ___.  :   _________     _________ _ _
+        _ _____/        /____/      |___ ¬l_____/        /____/        ////
+      ///_\_ __ _      /______      :/  ________        /   __ _      //
+       //    \      __/    __/    __/     |   _\_______/    \      __//
+  _ _ _/      \      \_    \       \_     |   \___    \_     \      \___ _
+     \\_______________/_____\_______/_____¦_________\  /______________ _
+                                             :       \/÷fRm/e^D÷  :
+                                             :....................:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          _  _ ,.| _  _     _| _ ,. _  _
+                - --÷×X  (/_|_))|l(_)( l - (_l(/_)|(_|( l  X×÷-- -
+                            `                        '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .32  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _     ÷ f a t a l ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+                                                 .....................
+                                                 :                   :
+                 _ ______ _                      : ÷ fATAl/oBs/e^D ÷ : /\__ _
+             _________   \//\_______ _    ______ :   ____________.  /\/
+     _ _____/        /____/    __________/     /____/       __   | / :
+   ///_\___         / _ __     \______        /   __        /    |________ _ _
+    //     \_______/   __/     __/  /   _____/ _ __/     __/     |     __////
+ _ _/      _____/__ _  \___     \__/      \_    \\___     \_     |      \_
+  \\________|    \_______|____\  /_________/_______|____\  /_____________/
+                           _ __\/                :       \/fRm/e^D   :
+                               \___ _            :...................:
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .32  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _   ÷ chrombacher ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+
+
+
+      ..../\..........................
+      :  //\\___ _                   :.............    _ ______ _
+  _ ____/ ¯¯     _______  .  _______ :   _______  :  _______   \//\_____
+      :  _______/      /_/|_/      /____/      /____/      /__ _/      /
+      : _\___         / __|       / _ __      /  __ _     /   Y       /
+ .....:/     \_______/  \___   __/   __/   __/   \     __/   \_/   __/
+ : _ _/       \     \_    |     \_   \      \_    \     \_    |     \_ _ __ _
+ :  \\_______________/____|______/____\______/___________/____l______////
+ :÷fRm/e^D÷ _______     _______     _______  .  _______     _______     _______
+ :  _______/      /____/      /____/      /_/|_/      /____/      /____/      /
+ : _\______      /  __       /__         / __|       /   __      /  ___      /
+ :/    ___   ___/  __/    __/   \_______/  \___   __/   __/     /    _/   __/
+_/       \     \_  \___    \_    \     \_    |     \_   \______/_    \     \_
+\_______________/____|______/___________/____l______/___________/_____\_____/
+ :                                                :
+- -÷× cHROMBACHEr / oBSCENe  /  ePSILOn dESIGn ×÷- -
+ :................................................:
+
+
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .33  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _     ÷ j u a n ÷     _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+
+
+                             ...............
+                        _ _____ _          :         _____ _ _
+                    /\______ : \//\______  :  _______\ __ _ /(______ _ __ _
+             ___ _ /       /__._/       /____/  _ ____\\ ._/       ////
+  _ __ _ ___/ (___/       /   |        /  __        /  \\|        ///
+      \\\\__    _/     __/    |_    __/  __/     __/    \\_    __//
+         _/     \__ _   \_    l/     \_  \___     \_     \_     \_
+         \  /____________/____________/____|_______/_____l____\  //\__ _
+          \/÷fRm/e^D÷        :             :                   \///\
+                             : ÷ j U A n ÷ :
+                             :.............:
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .34  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ s a n d m a n ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+
+
+
+
+                          ____ _   _ ___ _________     _ _____ _   ____ _
+ ......... . ______    ___\ _ _  ______ \\__     /  _______   \//\_\ _ _  ______
+ :  ________/     /___/    \\ ._/     /___/_    /_ /      /____/    \\ ._/     /
+ : _\   ___      / __     __\\|      /  ___/   /  Y      /  __      /\\|      /
+ :/  \  \_______/ __/   __/  \\_  __/   \   __/  \_/  __/  __/   __/  \\_  __/
+_/    \____    \  \___   \_   \_   \_    \   \_   |    \_  \___   \_   \_   \_
+\________       \___|_____/___l_____/______\  /___|_____/____|_____/___l_____/
+·fRm/e^D\________/                :         \/
+ :                                :
+ : -÷× sANDMAn / fAIRLIGHt  /  ePSILOn dESIGn ×÷-
+ :................................:
+
+
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .35  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ h a r p o o n ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+
+
+
+   ...................................
+   :       _ ____ _                  :                   __
+   :     ._______\//\______  ________: ________  ________\//\______  ._______
+   :  __/|      /_/       /_/       /_/       /_/       /_/       /_/|      /
+   : _\ _|   __/  __   __/  __     /  __     /  __   __/  __   __/  _|   __/
+   :/   \__   \  __/    \  __/  __/  __/    /   \     \   \     \   _\_   \
+_ _/     |     \_\___    \_\___   ¬\_\_____/     \     \_  \     \_  \_    \_
+ \\______|______/__|______/__|___\  /__|     _ _________/_________/__|___\  /_
+   :                              \/÷fRm/e^D÷                             \//
+   : ÷ hARPOOn / sKId rOw  /  e^D ÷  :
+   :.................................:
+
+
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .36  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ s p l a t ÷    _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+
+
+
+   ......................................   ___ _
+   :            _ ______ _              :  /____ _
+   :         _________  \//\______   .  /\//           ________      ________
+   :  ______/        /___/       /__/| //\/    _______/       /_____/       /
+   : _\   ____      /  __       /  __|_________\_   _        /____         /
+   :/  \  \________/  __/      /   \___    __/    __/     __/   /    _____/
+  _/    \_____    \_  \_______/      /      \_    \___     \_ _/      \_
+  \________________/____|    \_______________/______|____\  / \________/
+   :                                    :        ÷fRm/e^D÷\/
+   : --÷× sPLAt / dD sTYLe  /  e^D ×÷-- :
+   :....................................:
+
+
+
+
+
+               .   ·
+               ..__:_.·
+         ..    :/\   \:·
+      .:::     /  \___\:
+    .::::      \  /   /
+   :: ::        \/___/
+  ::  ::                           :::     _ _______ _                    ....
+  ::  ·::... . ÷fRm/e^d÷_________ :::               \//\____:::........::·:::
+  ·::......      ______/        /:::           ______/    .:.::::   :::  .::
+    .... ··::.  _\_   __    · :::::           _\   __    . ·./::::  ·::·
+   :::      :::/.   ___/    . .:::    ::::   /    __/     __/  :·    :::
+   ::.   ..::::. ·  \________/:::      ::::.:. .  \___     \_        ·::.
+    ··:::::··_·________|     ::::.......::::·_______|_______/    . ...:::..
+
+
+
+                   I just had too.... Hi e^d:s.........
+
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .37  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ c r a z y ÷    _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+
+
+
+                         ......
+       ..................: __ :..........................................
+       :/\_     ________   \//\______     ________     ________     ____:___
+ _ __  / ______/       /____/       /____/       /____/       /__._/    :  //
+     \/:_\___         /_____       /  __        /   ___      /   |      . ///
+       /     \_______/    _/    __/  __/     __/______/     /    |     __//  /
+     _/       \     \_    \      \_  \___     \_   ________/________    \_
+ _ __\  /____________/_____\______/____|_______/_________ _   ________\  /__ _
+     \\/     ___    ____   ____  ___    _    _    · _ _______/÷fRm/e^D÷\//
+       : -÷ (____, |    ' (____l   /___ \____/ ÷- :.....................:
+       :.................................._ /.....:
+                                          \/
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .38  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ s t a s h ÷    _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+
+
+
+
+
+
+
+
+
+
+
+
+       ...........................................
+       :        _ ______ _                       :  __
+       :    ________    \//\______      ________ :  \//\______      ________
+     ______/       /_____/       /_____/       /_____/       /__.__/       /
+    _\   ___      /____         /  __         /\   ___      / __|         /
+   /  \  \_______/   /     ____/  __/      __/  \  \_______/  \___     __/
+ _/    \____    \_ _/       \_    \___      \_   \____    \_    |       \_
+ \_______________/ \______\  /______|________/_____________/____l________/
+       :                   \/÷fRm/e^d÷           :
+       :                                         :
+       : -÷× sTASh / cRAZe  / ePSILOn dESIGn ×÷- :
+       :.........................................:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ·
+        :........................            _____
+     _____   ______   _____     :     ______ \____'|___     ______   _____| |
+    |   : ' (_____/_ (_____| (_____l (_____/_  _ / l_____, (_____/_ (_____l .
+ _ ___  /\                -|                   \/
+   fRm\/:.\/\............................................ ... .. .  .
+           /\\  ______ _
+           ¯¯ \/
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .39  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ s e s s i o n ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+                    - --÷×  fOr cESIUm / sESSIOn  ×÷-- -
+
+
+
+
+
+
+
+
+
+                     .....................
+      _ ____ _       :                   :           _ _____ _
+  _ _____ _ \//\____ :  ______    ______ :  ________        \//\____     ______
+   __________/     /___/     /___/     /___/  _(____)________/     /_.__/     /
+   \     __       /  __     / __      / __    \__  ___   __       / _|       /
+   _\    \_______/  __/    /  \______/  \______/    \    \     __/  _\_   __/
+ _/  \______    \_  \_____/_____    \_____    \_     \_   \_    \_   \_    \
+ \_______________/________________\  /_________/______/__________/___|      \_
+                     :             \/    :                  ·fRm/e^D·l_______/
+                     : ÷ sESSIOn ÷       :
+                     :...................:
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .4o  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _   ÷ g i a n t s ÷   _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+               - --÷×  fOr cRUSADEr / gIANTs  /  oUTLAWs  ×÷-- -
+
+
+
+
+
+
+
+
+
+
+          ......................
+          :    _ _____ _       :                _ _____ _
+          :   ________\//\___  : ________    ________  \//\______    ________
+      _______/       /_/    /___/       /_._/   _ __/___/       /___/       /
+     _\_  _         /      /  __ _     / _|    _ __/____       /  __       /
+    /    _\________/   ___/   \__   __/  _\_    __/   /  _____/   \_______/
+  _/     \____    \_     \_  ___/    \_   \_     \_ _/     \________     \_
+  \_____________\  /______/___l_______/___l_______/_\  /__________________/
+          :      \/            :                    \\/·fRm/e^D·
+          :          ÷gIANTs÷  :
+          :....................:
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .41  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _  ÷ o u t l a w s ÷  _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+               - --÷×  fOr cRUSADEr / gIANTs  /  oUTLAWs  ×÷-- -
+
+
+
+
+
+
+
+
+
+
+
+  .../\.................................. _ _____ _
+  : /  \_  ______    ______    ______   :        \//\____    ______     ______
+ _:/ _____/     /_._/     /___/     /_. :  _______/     /_._/     /____/     /
+ \/ _\_ _      /  |      /___      /  |____\_  ___     /  |      /  __      /
+  :/    \   __/   |   __/  /  ____/   |   __/  \_   __/   |   __/   \______/
+ _/      \   \_   |    \_ /    \_     |    \    |    \_  /¯\   \  _____   \_
+ \____________/_________//  /___/______     \___|_____/_____    \ /________/
+  :                     / \/·fRm/e^D· \______/             \_____/
+  :.....................................:
+
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .42  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _      ÷ n e o ÷      _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+                      - --÷×  fOr dEVISTATOr / nEo  ×÷-- -
+
+
+
+
+
+
+
+
+
+
+                     ____ _    _ ______ _
+                     \ _    ________   \//\______     ________
+                    __\\ ._/       /____/       /____/       /
+               ___ _\_ \\|        / _ ___      /  __ _      /  ____ _
+             __ _//     \\_   ___/   __/      /   \      __/_/ ___
+         _ __/_/_/       \_     \    \_______/_    \      \_\___ \_
+              \ \________|       \____________/____________/  \_ _
+                 .fRm/e^Dl________/
+
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .43  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _    ÷ t s a r 1 ÷    _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+              - --÷×  fOr tSAR1 / bALANCe  /  wILd sTYLe  ×÷-- -
+
+
+
+
+
+
+
+
+
+             .......................
+             :                     :
+             : ÷tsar1 / blc / w^s÷ :     _ __ ______ _      _ ______ _
+           _________     _________ :    _________   \//\_______     \//\____
+ _________/        /____/        /_____/        /____/        /  ____/     /
+_\______          /  ______     /   __ _       / _ ___       /___\__    __/___
+_____/   _ ______/   \_________/    \___    __/     _/    __/_____/      \__ /
+ _ _/        \__________      \_    ___/     \_     \      \    _/        \//
+  \\___________________________/______\_______/______\      \_  \__________/
+             :                                .fRm/e^D\______/
+             :......... .. .
+
+
+
+
+
+
+
+
+
+
+     _ ____ _  __                                             __  _ ____ _
+      __ _ \//\\/_____________________________________________\//\\/ _ __
+ .44  \_______ \/                                             \/ _______/
+   _ __ _ _/     ____ __ _  _ ÷ c r u s a d e r ÷ _  _ __ ____     \_ _ __ _
+       \\\\______/ :.......................................: \______////
+
+               - --÷×  fOr cRUSADEr / gIANTs  /  oUTLAWs  ×÷-- -
+
+
+
+
+
+
+
+
+
+
+
+                 ...................
+                 :            _ ___:_          _ ____ _________
+          ______ : ______   ______ \//\____   ______ \\__     /  ______   ______
+  _______/     /__/     /_./     /__/     /__/     /___/_    /__/     /__/     /
+ _\____       / __     /  |     / _      /  _     / ____/   / __     / __     /
+/    \_______/  _/  __/   |  __/  \_____/  _/  __/   \   __/  _/    /  _/  __/
+      \     \   \    \_   |   \______  \_  \_   \_    \   \_  \____/_  \    \_
+_______      \___\____/_____\  /________/___|____/_________/________/___\_\  /_
+      \_______/  :           \/÷fRm/e^D÷                                   \//
+                 : ÷cRUSADER÷      :
+                 :.................:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ I'm  sorry for the lack of design in this quite bad ascii collection, but I
+
+ does not feel for the moment to change anything.
+
+
+
+ for  the  moment  I  feel like fuck to change my style but I don't have the
+
+ propotions  for  getting  my eye's in the right position.  eat my ground to
+
+ get  your hands of my pants  and let my mind get mobed,  moved and circled.
+
+
+
+ I  think I will end this quite "less of logos" collection.  See other logos
+
+ from  me  in  another  ascii  collection  by  me  or in personal letters or
+
+ somewere else...  Be there!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  _   | _    ,
+                               ÷ (_,- l(_)(_|) ÷
+
+                            · vi bringer dej acid ·
+                      · tillsammens suser vi dei i säden ·
+
+                           _ __ _ ___________ _ __ _
+                  ._____ _     \\\\         ////     _ _____.
+                  |...............\\_______//...............|
+     _ ____ _  __ ':       .........................       :` __  _ ____ _
+      __ _ \//\\/__:       :                       :       :__\//\\/ _ __
+      \_______ \/  :       :                       :       :  \/ _______/
+   _ __ _ _/     ____      :  mine ende tekksten   :      ____     \_ _ __ _
+       \\\\______/f:       :                       :       :e\______////
+                   :.......:  isch komming uppen   :.......:
+                           :                       :
+                           :  whilen minen soule   :
+           german!         :                       :
+                           :  etter mine bittres   :
+                tyska!     :                       :     tyskasnastika!
+                           :  sorges ine runtine   :
+    tysklys!               :                       :            germaniska!
+                           :.......................:
+
+
+                           ð o n t  y a  t h ¡ n k ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Schloubb  kgroubb  schlouss  - c-lous in yar travelling brain washed heart.
+
+ So, the end is taking the globing truth together with my cykled inlfuence.
+
+
+
+ It is now going to be some words about some different thoughts by me, first
+
+ about  the  C-Lous  intro's  and  then  some  poetic  words  about "normal"
+
+ graphicans.
+
+
+ Before you'r reading this you should know that I'm not only a ascii gfx:er.
+
+ I am also a mailtrader and an IFF graphican !!
+
+
+
+
+
+ Well, If you think we are releasing too much shit then you thinks quite ok.
+
+ Actually that's our point of view, is'nt it Origo?  Talking about him..  He
+
+ is  the  only  coder  I  know  who loves to make the most simpel, unserious
+
+ things.  Well, the numerous of intros is not his fault, it is mine I think.
+
+ In  my  most  innest minds I loves to send own production, they aren't very
+
+ good  but  it  is  ofcource better to send an own bad production instead of
+
+ sending a good production that everyone allready has for weeks ago..  Ain't
+
+ I'm saying the right things?
+
+
+
+ Well,  this  text was mostly pointed to the thousands of swappers out there
+
+ who  dosen't  have  anything to send.  Join a group with some active coders
+
+ and  start  to  design  by your self.  If your group doesn't consist of any
+
+ cool graphican's ofcource.  There is a difference between "COOL" graphicans
+
+ and "GOOD" graphicans when it comes to the pixeling and thinking.  A really
+
+ cool  graphican  for an  example is with no doubt  W A L T  of  M E L O N .
+
+ Also  Sunny  and  Pixie  are cool filosofers.  I don't say that I am a cool
+
+ graphican  because  I  aren't!!!  A "good" graphican in my point of view is
+
+ Cougar of Sanity, Electron of Citron,  and a lots of other master machines.
+
+
+
+ Personal Styles are very important!
+
+
+
+ Well,  If  you  have  another  point  of viewing then write an article in a
+
+ diskmag  or  anything...   I would really like to hear other people talking
+
+ about this different subject...
+
+
+
+ Stay cool, then you'll be good. (Shit, this line destroyed my hole article.)
+
+
+
+
+
+
+
+
+     - --÷×  E  v  e  r  y  t  h  i  n  g   i  s   w  r  o  n  G  ×÷-- -
+
+
+
+
+
+
+
+
+ Now  I  should  say something about some comming productions from C-Lous in
+ the year of 1995.
+
+ When  you  are  reading  this  line, an intro should be out called "Dildo".
+ That  intro  was  planned  by me and I travelled to Origo, Pozz and Claw in
+ Gothenburg to start on it.  It is a very little, very unserious intro which
+ dosen't mean anything.  It is absoloutley nothing special at all!!
+
+ When  I was there I had painted a backgroundspicture at home in 2 bitplanes
+ for  our musicdisk which will be called "HIGH TIMES".  That thing should be
+ out  in  a  couple  of  weeks  I  guess.  It consists of modules from our 2
+ musicans, Mr.  Mygg and Claw.
+
+
+ Hmm..   C-Lous  will  ofcource  be  present  at  the big event this year in
+ Sweden,   Junction'95   in  Linköping,  held  by  Razor  1911,  VD-FLT  and
+ Triton(PC).   We  will  probably  release  2  demos there.  One bigger demo
+ filled  with raytraced animations done by Claw in Lightwave.  The demo is a
+ science-fiction  story  which Claw have planned for about 2 years.  But the
+ work  with  design  and  the rendering has almost beginned.  Let's see what
+ we'll get.
+
+ Credits:  Code by Origo, Music, design and rendering by Claw.
+
+ The  2:nd  demo at the Junction will be coded by Prospect.  It will consist
+ of  only 3-4 routines I think, but that can ofcource be changed.  That demo
+ will  also  include  a raytraced animation by Claw (hopefully).  The design
+ will be done by me, it is just some simple design with short animations and
+ backgroundpictures by me.
+
+ Credits:  Code by Prospect, Music by Claw, Artwork and design by me (Frame)
+
+
+ Well,  we haven't planned anything else this year but we will maybe release
+ an  INTRO  at  the  Junction'95, but that haven't we spoked about that.  We
+ will ofcource release some intros during this year, maybe some packs by me.
+ That packmenu is almost finnished, but I don't feel for the moment to start
+ all  over  again  to  start  a pack-serie.  It is quite alot of work with a
+ project  like  that,  let's  see.  If we'll go to Assembly we will ofcource
+ release  something, our (mine) motto is that we must release anything if we
+ are  at  a  party.   Let's  if  we will go there, at least me and Claw have
+ spoked  about  that  for  a long time ago, I think it was at the ferry home
+ from The Party 4.
+
+
+ So,  I think this was the hole fucking storry about our year, 1995.  I will
+ maybe release an ascii collection but I can't promise anything.
+
+
+
+
+
+
+
+
+
+
+
+
+ It could be the end here and it is...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ...................................
+     :       _ ____ _                  :                __
+     :     ________\//\______  ________: _____  .       \//\______  ._______
+     :  __/       /_/       /_/       /_/    /_/|   _ ___/       /_/|      /
+     : _\  __    /  __     /  __     / _____/   |____    __   __/  _|   __/
+     :/   __/   /  __/    /\  \_____/      \    |    \   \     \   _\_   \
+  _ _/    \____/ \_\_____/  \____    \_     \_  |     \_  \     \_  \_    \_
+   \\  /__________/__| _ _____________/______/_________/_________/__|___\  /_
+     \/fRm/e^D ._______  ________  ________  _____  ________  ._______   \//
+     :      ___|__    /_/       /_/       /_/    /_/       /_/|      /
+     :     _\  __/ __/   __    /  __     / _____/  _____  /  _|   __/
+     :..../    \    \   __/   /\  \_____/      \   \__  \/   _\_   \
+ _ __ _ _/      \    \_ \____/__\____    \_     \_   \    \_  \_    \_ _ __ _
+     \\\\  /__________/___________________/______/_________/__|___\  ////
+        \\/                                                        \//
+                         _  _ ,.| _  _     _| _ ,. _  _
+               - --÷×X  (/_|_))|l(_)( l - (_l(/_)|(_|( l  X×÷-- -
+                           `                        '
+
+
+                         . still kicking ass in 1995 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Jag  måste  tillägga  att "Hockey night gala award" på TV 3 var mycket bra.
+
+ Över  min  förväntan  faktiskt.  Jag trodde att det skulle bli något ganska
+
+ tafatt och tråkigt program men ack, ja, ja.  Tiderna förändras.
+
+
+
+
+ Well,  I  still  haveto write something to complete my inner competition to
+ get  the  size  bigger  and  bigger  of my ascii collections each time I'll
+ release  them.   My  first  ascii collection was only in the size of 21909.
+ That can ofcource be competed by everyone.  I beated that size very easy in
+ my secound collection, and by the way, that collection was the lamest ascii
+ collection ever released.  I was only in the age of 13 I guess.
+
+ I  have  only 120 bytes left so I guess I haveto end here now..  Wait, some
+ more, more, more and more.  Ok, this will be the..
+  
+ 
+
+
+                             Wed Sep 13 20:07:48 1995
+
+                                 __  ._   __
+                                 (__ | ) (_/__
+      _________________..::::.                        _ _________  _________
+  .___\       /    .:::·· .::·__________        ________.____  ./__\       /
+  |    \     /  |     .  .::·          /___.  _/   _____|  _/ _/  \_\     /
+  |  \  \   /   '  __::.:::_\__   _ __/_   |__\___ __l__.  \       / \   /
+  |   \    /_______/ ::::· \____    ___/   |     / \ '  |___\_____/\    /
+  l____\  /[rLf]    .::::::.   \____/\___  .  __/_______|    oS!l___\  /
+        \/            :  ··::::...      \__|__/                      \/
+                      ·      ····
+                           p  a  l  a  c  e
+  
+    
+                                * MOT!ON HQ  *
+                            * TRADERS DREAN HQ  * 
+                           * TRSI RECORDZ DK HQ  *
+                              * DREAMCHART HQ  *
+                              * HOODLUM DK HQ  *
+                            * DATA DIVISION EHQ *
+                               *  PUZZLES HQ  *
+
+                a4ooo/o4o/25/2.5Gb/1x33.6DS/1x28.8DS/1x16.8DS
+                            Amiga/Ascii/Consol/PSX
+    
+                            tHe oNEs mAK!Ng iT rUn
+  
+           ZINKO^PLAYMATE^SISko^BILBO BAGGIn^NEIL/FLT^LABEL/LSD-DD
+             UFOK/MsT^LsD^PsG^iHS^FURY/PSG/M!/SYS/HLM^DELIVERYMAN
+  
+                         <0> +45-58ASK4IT 3NDs RD <0>
+
+                                     :
+                         /___________ø_ [%* tHE YARd BBS 2k! *%]
+     ._________________///   ________:                          ____
+  ___|_______ ____.    /  ___\_      |___   ___\      _____  __/_   \
+  \     _   //   _|__  __/_    \     |   \ /    \  __/_    \/   /    \
+   \___/    ø   /    \/   /    /     |_   /      \/   /   _/   /      \
+     _/     :  /_     \_ /____/¯\_____/  /       /   /_    \__________/
+     \______|    \_____/_________/ /____/        \_____\_____//
+         \_______|                     /____________\©nUP
+
+        zANEr^LFC ÷ diPSWiTCH^BK ÷ hAsH^AHS ÷ NINjA^PDX ÷ mOOL^AHS
+
+   ÷ AEROHOLiCS WHQ ÷ ARCADE WHQ ÷ AEROSOL WHQ ÷ DiSCiPLES OF AGEEMA WHQ ÷
+   ÷ THE ASCii CHARTS WHQ ÷ LiGHTFORCE GHQ ÷ BAD KARMA GHQ ÷ TEQUiLA GHQ ÷
+     ÷ SiCK OF iT ALL GHQ ÷ UP ROUGH GHQ ÷ LOW PROFiLE GHQ ÷ PHUNK GHQ ÷
+  ÷ SODiUM GHQ ÷ PUNGAS GHQ ÷ OMEN GHQ ÷ 1OO% GHQ ÷ VORTEX GHQ ÷ MVP GHQ ÷
+          ÷ DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS/BETA-SiTE ÷
+
+  ÷ 2 nODES wITH 33k6 - 2 nODES wITH iSDN - 4 nODES tELNET wITH sTATIC iP ÷
+ ÷ cONSOLES/aMIGA/gRAFFITI/aSCII/mP3/mOD/dRUGS/cLASSICgAMES/dAYdREAM/lINUX ÷
+

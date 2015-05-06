@@ -1,0 +1,658 @@
+
+ " THiS FiLE FOUND THE WAY THROUGH ONE OF THE FiNEST BULLETiN BOARD SYSTEMS "
+                        _ _____        ___   ______
+                               )_  __ _| (___) _  )_
+                              __/__) (_    |   |___/
+                       _ ___  |   |___|    |__
+    · _____________ _    c!|______|mSS|____| |______ _  _ _____________ ·
+ _ _:_\              ____       ____      _____      ____             /_:_ _
+    |             ___\  (_   ___\  (_   __\_  (_   __\  (_              |
+    |            _) _/   /___)  _   /___) _/   /___)   _ /__            |
+    |           /   \      /    \_    /   \      /     /   /            |
+    |           \___       \_____/    \____\     \__   \   \            |
+    |             \  _______\   /______\    \  ___\ \_______\           |
+    |              \/                        \/                         |
+    |                                                                   |
+    |             ÷  THE YARD BULLETiN BOARD SYSTEM 2k! ÷               |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                       WORLD HEADQUARTERS OF                       |
+    |                                                                   |
+    |         AEROHOLiCS (GRAFFiTi) ÷ DiSCiPLES OF AGEEMA (MUSiC)       |
+    |      ARCADE (ASCii) ÷ AEROSOL (ASCii) ÷ DREAM THEATRE (ASCii)     |
+    |          SOUL SURViVORZ (MP3) ÷ THE ASCii CHARTS (ASCii)          |
+    |                                                                   |
+    |                      GERMAN HEADQUARTERS OF                       |
+    |                                                                   |
+    |  LiGHTFORCE (AMiGA/CONSOLE) ÷ BAD KARMA (AMiGA) ÷ SODiUM (AMiGA)  |
+    |       LOW PROFiLE (ASCii) ÷ SiCK OF iT ALL (GRAFFiTi/DRUGS)       |
+    |  HOTSTUFFERS (AMiGA) ÷ PHUNK (ASCii) ÷ 1OO PERCENT (AMiGA/ASCii)  |
+    |  VORTEX (AMiGA) ÷ MOST VALUABLE PLAYAZ (MUSiC) ÷ UP ROUGH (MUSiC) |
+    |       OMEN (GRAFFiTi) ÷ TEQUiLA (MUSiC) ÷ PUNGAS (DAYDREAM)       |
+    |                                                                   |
+    |                     - -------------------- -                      |
+    |                                                                   |
+    |                CONSOLES/AMiGA/ASCii/LiNUX/DAYDREAM                |
+    |             GRAFFiTi/DRUGS/CLASSiCS/MP3/MOD/CHiPTUNES             |
+    |                                                                   |
+    |           2 NODES 33k6 / 2 NODES iSDN / 4 NODES TELNET            |
+    |                                                                   |
+    |                      [ THEYARD.DARKTECH.ORG ]                     |
+    |                                                                   |
+    |                      [ 49-ASKTHERiGHTPEOPLE ]                     |
+    |                                                                   |
+    |           DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS!            |
+    |                                                                   |
+    |   ZANER/LiGHTFORCE^BAD KARMA^AHS ÷ DiPSWiTCH/BAD KARMA^1OO%^AHS   |
+    |       HASH/AHS^PZK^SOiA ÷ NiNJA/PARADOX^EURASiA ÷ MOOL/AHS        |
+    |                                                                   |
+ _ _|__   " THE iDEA OF STYLE iS THE KEY TO ALL FORMS OF ROCKiNG "    __|_ _
+    · /_______________________________________________________________\ ·
+
+                                 __  ._   __
+                                 (__ | ) (_/__
+      _________________..::::.                        _ _________  _________
+  .___\       /    .:::·· .::·__________        ________.____  ./__\       /
+  |    \     /  |     .  .::·          /___.  _/   _____|  _/ _/  \_\     /
+  |  \  \   /   '  __::.:::_\__   _ __/_   |__\___ __l__.  \       / \   /
+  |   \    /_______/ ::::· \____    ___/   |     / \ '  |___\_____/\    /
+  l____\  /[rLf]    .::::::.   \____/\___  .  __/_______|    oS!l___\  /
+        \/            :  ··::::...      \__|__/                      \/
+                      ·      ····
+                           p  a  l  a  c  e
+  
+    
+                                * MOT!ON HQ  *
+                            * TRADERS DREAN HQ  * 
+                           * TRSI RECORDZ DK HQ  *
+                              * DREAMCHART HQ  *
+                              * HOODLUM DK HQ  *
+                            * DATA DIVISION EHQ *
+                               *  PUZZLES HQ  *
+
+                a4ooo/o4o/25/2.5Gb/1x33.6DS/1x28.8DS/1x16.8DS
+                            Amiga/Ascii/Consol/PSX
+    
+                            tHe oNEs mAK!Ng iT rUn
+  
+           ZINKO^PLAYMATE^SISko^BILBO BAGGIn^NEIL/FLT^LABEL/LSD-DD
+             UFOK/MsT^LsD^PsG^iHS^FURY/PSG/M!/SYS/HLM^DELIVERYMAN
+  
+                         <0> +45-58ASK4IT 3NDs RD <0>
+
+
+                           Sun Jan 07 14:16:06 1996
+
+
+SOF
+             _____________________________________________________
+
+             FATAL AND CYBERGOD BRINGS YOU THIS HARESIS COLLECTION
+             _____________________________________________________
+
+
+
+
+.______.                            _________      _______          _______
+|   ___|______   ________ .___________  ____/__  _/ _____/__......_/ _____/__
+|   \____     \./        \|    _     / _______/__\________  \.   :\________  \.
+|      |/      |  __/\    \    |____/  \|        \.     |/   |   |       |/   |
+fTL____|       |__\________\___| _______|         |_____|____|   |_______|___eD
+       |_______|                        |_________|        |_____|
+
+
+                                     YEAH!
+
+
+The time is currently 04:08 and Fatal arrived here 20 minutes ago. Yes, it's
+true, we decided to make a crazy (yea wild kick ass fuck shit etc) coop not so
+long ago. Don't ask us why, we're just..   HAREEEEESSiiiSSsSsSs...
+
+
+                 _____ _____     __.       _____... .___ .___|..... .  _____
+   .____________( _._/ _   /    /  |______( _._/. : :   \|   |: . : :_( _._/
+   |          /    ¦  / __/_   /   |    /    ¦: :.: :  \ \   |: :.: :    ¦
+   |__________\ ___|___/___/cG/____¦____\ ___|:.....:___\____|:.....:____|
+
+      =\\= fOR ALL THE TV-SERiE FANATiCS AND THE JUNIOR HOCKEY-TEAM =//=
+
+                                             /7
+                                            //      _
+                                           //  -_--/- -   -
+                                  __ _____// --- \/--  - --
+                                 (÷÷)\_\X_/
+
+
+
+
+
+     ________
+   _/      _/__ ._____   ____  _________ ._____ _______ ________
+.__\______     \| ____\// __/./         \|     /      /        /eD
+|       |/      | \__ \/ /   |           |   _/     _/      __/__ _________
+fTL_____________|____\  /____|___________|___\_______\__________/(_______ /____
+                      \/                                                /______
+
+                     ..  AHHHH..  SMOKE DA HERB!  (ehehee)
+
+
+
+
+
+           ____  ____ _____    _______.    ______..... .  _____... .
+           \   \/   /_\_   ) _( _._/  ¦   (  _  /: . : :_( _._/. : :
+           |        ¦   _\  \    ¦/   |____  \  \: :.: :    ¦: :.: :
+         cG|___\/___|________\ __| _______/______\.....:____|:.....:
+
+           ___, _______  __.  ,________.______      ,________   _ ___
+        ._(  __   _   / /  ¦  ¦   _   /¦     /________  _   /________\
+        |  \   \ / __/_/   |____ / __/_   __/_       / / __/_        \\
+        |_______\ /___/________/__/___/\_____/_______\__/___/_________\
+
+                             ___|___.___ .___|_______     .-     __
+                          ._( ___/  |   \|   |  _   /     `---. /%/
+                          ¦    __/  |  \ \   | / __/_      .--'/¯/
+                          |____||___|___\____|__/___/      !  / /
+                                                             XX/
+                    ..... .______ _____  .______.______..... .  ___,
+         .__________:_. : :  _  /_\_   )_¦     /¦     /: . : :_(  __
+         |           /:.: :  \  \   _\  \   __/_   __/_: :.: :  \   \
+      cIGG___________\....:______\ ______\_____/\_____/:.....:_______\
+
+
+
+                         SAAAAAJBER IN DA SPAAAAAAACE
+
+
+
+
+     FATAL HIITNG ON THE KEYS: xi,ki9lilrikkxril.o9loxrd8i9ldxdrrdr
+
+
+
+
+
+
+
+
+
+                                  TURK DUSCH!
+
+
+
+                                  TURK DUSCH!
+                                    .________
+                      ________ _____|       /________ _
+                     /        \    _|_    _/_    ___/_/
+                    / ___/\    \   \___      \.  _____/____.
+                   /  \_________\   |         |__\|        |
+                  /fTL /   /_______/|_________|   |_______ED
+
+                    __  _    _  _ _  __   ¤    _    _ _ __
+                   { _¯¯_\ {¯_¯¬  }¯¯  ¯' } {¯¯_ _ { ¯_¯__\
+                    ¯ ¯¯   }¯                ¯¯ ¯   ¯¯ ¯
+
+                                  TURK DUSCH!
+
+
+
+
+
+                         R A M L Ö   S A   K I K K S !
+                                                                                                        HIDDEN~ ~ ! ! ! !
+
+
+
+
+YEAH..  MAJOR ASCII RELEASE>. FROM THE CREAM OF THE TOP OF THE WILD HERASIsSSS!!
+
+
+
+             _____  .______|___.      __
+           ._\_   ) ¦     /|   |________\
+           |   _\  \   __/_|   |        \\ (SKA MAN INTA VARJE DAG!)
+        aCG|________\ ____/|___|_________\
+          i
+
+
+
+   ZIGENAR DUSCH =  SPRAYA AXE (AFRICA) UTANPÅ TRÖJAN  (NEj, SCHJORTAN, CP!)
+
+
+
+
+
+
+
+
+
+           HELT UTaN BLEKMEDEL    HERIKSA.. eller va faan det heter
+                                   ¯¯¯¯
+
+
+
+
+                       TOBaK skadar din hälsa allvarligt
+
+
+
+
+
+
+   e N   h e l   j ä v  l a   a  r m e    m e d   b a rb a r a   ä n g l a r
+
+
+
+
+                             en av de vise mennen har en BH på huvvet! HAssaSHA
+
+
+
+
+
+
+
+                     !!1!1!!!!!!!!SATAN TOMTEN!!!!!!!1!!!
+                                                       .
+                                                     ..
+                                                   .
+         .___.     _____.          ____ _________.....    ______    ______
+       __|_  |_____\    |___     _/   /__ _    __:::::__ /     /__ /     /
+     _/   /  |     |\___|   \. __\_      \|    | |   | _/    _/  _/    _/
+  fTK\___/___|_____|____\____| \__________|____| |   |_\_____\___\_____\EnD
+                                                 |___|       .
+                                       FET  .---.  .        /|\
+                                    HAVANNA `-. l__|         |
+                                      CiGARR!-'              |_ NORSK
+                                                              STAVNING
+                              (SÅ ATT GRIMLOCK BLIR GLAD (EFTERSOM HAN FATTAR))
+
+
+
+
+                        (ALLA VISE MENNEN HAR SUG-MUN)!
+
+             ..... .____  ____      ,________ _ .___|
+   ._________:_. : :\   \/   /______¦_  _   /  \|   |
+   |          /:.: :         ¦       / / __/_ \ \   |
+   |__________\....: _ _\/___|_______\ _/___/__\____|
+
+                             |___. __.   __.       .___|___. _____
+                  ______.____|_  |/  ¦  /  ¦       |   |   |_\_   )
+                  \     ¦     /  |   |____ |____   |   ¦   |   _\  \
+              stoCG\_________/___|_______/_____/   |___.___|________\
+
+                       ___,       ..... . .______  __.
+                    ._(  __ ______:_. : :_¦     / /  |_____
+                    |  \   \       /:.: :\   __/_/   |    /
+                    |_______\ _____\ ...: \_____/____¦____\
+
+            ______________________________________________________
+           (_)________TILLHöR SKÅNSKA OCH SNICKAR-ANDERS__________)
+                      ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯.¯¯¯¯¯¯
+                                                /|\
+                                                 |__- STOR JÄVLA TALL
+
+
+
+
+
+
+
+
+
+Ny Shellprocess 3
+3.Work:> fatal
+3.Work:> cyber
+3.Work:> fatal
+3.Work:> cyber
+3.Work:> fatal
+3.Work:> cyber
+3.Work:> fatal
+3.Work:> fatal
+3.Work:> cyber
+3.Work:> dir
+     L (dir)
+3.Work:>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ó                  $  é   $,y   p Cú JN®þh#À   P"<   d$<  í,y   PN®ÿâ#À   `"<   zB‚&9   `N®ÿ""9   `N®ÿÜNu    dos.library     CON:0/0/640/256/DU SMAKAR SKiT! dh1:ced dh1:cg!.txt ¿@  ì                $   .   4   <   F      ò
+
+
+
+
+
+
+
+
+
+                        SNAPP
+
+                                        SNAPP
+                SNAPP
+
+
+
+
+                                 $$$$$ $    $
+                                 $     $    $
+                                 $$$   $    $
+                                 $     $    $
+                                 $$$$$  $$$$
+
+
+
+
+
+
+                                               CASH CASH CAHSH CAHSH CASH CACHE
+
+
+
+Bonus part./----------------------------------------------------------------------------------------------------____>          CLC
+                                                                                                                               LDA   #$1
+                                                                                                                               ADC   #$2
+                                                                                                                               STA   $ANUS
+                                                                                                                               RTS
+
+
+
+                sNIFF                   snUFF
+
+                    © © ©
+                   ©     ©
+                   ©    ©    ©        ©
+                     ©© ©   ©         ©
+                       ©   ©          ©
+                   © ©© © ©           ©
+                  ©      © ©©©©©©©©©©©
+©  © ©           ©        ©©    ©
+                 ©             ©
+                 ©           ©©
+                   ©        ©              RULL STOLS MANNE!
+                     ©© © ©
+
+
+
+
+                                        __ __
+     ._________ _____ .____  ___ .____ _\/_\/_  _____ _____
+     |   _    /      \|   _\/__ \|    |   _   _/   _/_     \iNTE
+     |   |___/__/\    \    \/    |    |__ |   \__    __/\   \
+  nEJ|___|/  \_________\___||____|_______|_____/     \_______\
+         /____/                            /________/
+                                                            oCH kNäKKE bröt!
+
+
+
+
+
+
+
+
+
+330975...330975..46.21.330975...330975                                                  är numret som du ska ringa, jävla fåntratt!! FATTA!!!
+
+           _____  ___ .___|..... .      .____|____.________  _____
+         ._\_   )    \|   |: . : :______|_   |    |   _   /_( _._/
+         |   _\  \  \ \   |: :.: :       /   ¦    |  / __/_    ¦
+         |________\ _\____|:.....:_______\___.____| __/___/____|      _
+                             ___,         _ ______  _ ____        _  / \
+                          ._(  __ _________  _   /   .   /       / \ \_/
+                          |  \   \        / / __/_   ¦__/        \_/ (_)
+                        cG|_______\_______\ _/___/___|           (_)
+
+                                                         oNLY ASCII ELITE LUX
+
+
+
+
+
+
+
+
+
+                          .____.. __  __ _     /___
+                          |  _/  |  / _/_ |_ _/| _/_
+                       xCZ|__|___|__\___/___|\ |___/sOSSE
+                                             /
+                                            /
+
+
+                               s KOJJA  B A R A
+
+
+
+
+
+
+
+
+
+
+
+                               100 % unterboten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                SUPPORT LIST:an
+
+                                                .
+                                 oRIGNAL fÖÖD .
+                                             .
+                                          . .
+                                         ,
+                                         ,.
+                                        #
+                                       |°|
+                                       |_| marlboro cigaretteR                                                          tobak orsakar cancer
+                                       |$|
+                                       |$|
+                     __
+                    (__)
+                    |  |
+                   /    \
+                   |  _ | ramlösa
+                   |¯¯ ¯|
+                   |    |
+                   |____|
+                                 _ _ _ _
+                                |_|_|_|_|
+                                |_[_|_|_|
+                                |_|_|_|_|
+                                |_|_]_|_| jul knäcke! (bröd)
+                                |_|_|_|_|
+                                |_|_|_[_|
+                                |_|_|_|_|  mE bregoottt
+
+    och EN MED CHILI KETCHUP som fatal åt
+
+                                                  åså några cigaretter till
+
+
+
+
+
+
+
+                                                             ______
+                                                 .          /_____/
+                              .               ---|       __/  /__/
+                              |   MUSIC SöPPE:          (_/   __/
+                             -|------------------- -         (_/·
+
+
+                                 ASCORBiN ACiD
+
+                               L'AGE SYNTHETIQUE
+
+                                  TERRATROPIN
+
+                                 FREE RADICALS
+
+        T.H.C (Egentligen T.L.C, menvi vill ju ite verka disko-aktiga)
+
+                                  SUPRARENiN
+
+                    HEiKO LAUX (Min grannee) (Näe.. skämt)
+
+                       ORiGiN (Men inte dator-nördarna)
+
+                                 ACiD WARRioR
+
+                                   C'HANTAL
+
+
+
+
+
+
+                  @#$%          g R a J T I N G S        @$%#                                                                           seääääsongs grajtings from outer space delux
+
+                                                grimlock                                                                ät inte så mycket val, misfit blir så sur
+
+                        alle norkse gutter                                                                                      snacka svenska!!!!! (svin)
+                                               jul tomten
+                hele porr Kören
+                                     chrombasjer
+
+                          nån.. den där.. han med undercovver                                                           steeeeeeeeeeeeefaaaann....    du är liten och kort
+
+        den jevla tradern som blokkat StagE divE
+
+                                                alla gOA människer
+                             aXe uppfinnaren
+      han som gjorde pennan
+                                          glödlamps pojken
+                nirgle , norgle, patrik
+
+                                                                (s)AGGE
+
+devaAAAAJn STAJLERSssSSsSSssss (yeah) och eppeleptikernas desajnerförening (tm)
+
+   teddybög
+
+                                                   Philip Morris Products Inc.
+
+                        indien
+                                                        philips
+
+                                  spv (GMBH)
+
+
+                                  misfit(ta)
+
+                                                                U-woman
+                   violator pc board (suga kuk mister sysop)
+
+
+
+
+
+
+                      ORIGiNAL STORLEK:       XS (15oOo)                                                                som vi måste fuska oss till..
+
+
+
+@BEGIN_FILE_ID.DIZ
+                          ...
+ .%% .·... . . .     .·..·   · . .  HAREsiS!
+ | | ·          ·....·                    ..
+ | |    dA ramlöööööööösa experienceeeee  ·.
+ |_|                                       .
+ |£| prod.tid: 03:45 - 5:40  (4/1 -96) . ..|
+ `-'- --AV OCH MED: cG! uND fTL . ....·-yeah
+@END_FILE_ID.DIZ
+
+EOF
+
+
+
+                             Sun Jan 07 14:16:07 1996
+
+                                 __  ._   __
+                                 (__ | ) (_/__
+      _________________..::::.                        _ _________  _________
+  .___\       /    .:::·· .::·__________        ________.____  ./__\       /
+  |    \     /  |     .  .::·          /___.  _/   _____|  _/ _/  \_\     /
+  |  \  \   /   '  __::.:::_\__   _ __/_   |__\___ __l__.  \       / \   /
+  |   \    /_______/ ::::· \____    ___/   |     / \ '  |___\_____/\    /
+  l____\  /[rLf]    .::::::.   \____/\___  .  __/_______|    oS!l___\  /
+        \/            :  ··::::...      \__|__/                      \/
+                      ·      ····
+                           p  a  l  a  c  e
+  
+    
+                                * MOT!ON HQ  *
+                            * TRADERS DREAN HQ  * 
+                           * TRSI RECORDZ DK HQ  *
+                              * DREAMCHART HQ  *
+                              * HOODLUM DK HQ  *
+                            * DATA DIVISION EHQ *
+                               *  PUZZLES HQ  *
+
+                a4ooo/o4o/25/2.5Gb/1x33.6DS/1x28.8DS/1x16.8DS
+                            Amiga/Ascii/Consol/PSX
+    
+                            tHe oNEs mAK!Ng iT rUn
+  
+           ZINKO^PLAYMATE^SISko^BILBO BAGGIn^NEIL/FLT^LABEL/LSD-DD
+             UFOK/MsT^LsD^PsG^iHS^FURY/PSG/M!/SYS/HLM^DELIVERYMAN
+  
+                         <0> +45-58ASK4IT 3NDs RD <0>
+
+                                     :
+                         /___________ø_ [%* tHE YARd BBS 2k! *%]
+     ._________________///   ________:                          ____
+  ___|_______ ____.    /  ___\_      |___   ___\      _____  __/_   \
+  \     _   //   _|__  __/_    \     |   \ /    \  __/_    \/   /    \
+   \___/    ø   /    \/   /    /     |_   /      \/   /   _/   /      \
+     _/     :  /_     \_ /____/¯\_____/  /       /   /_    \__________/
+     \______|    \_____/_________/ /____/        \_____\_____//
+         \_______|                     /____________\©nUP
+
+        zANEr^LFC ÷ diPSWiTCH^BK ÷ hAsH^AHS ÷ NINjA^PDX ÷ mOOL^AHS
+
+   ÷ AEROHOLiCS WHQ ÷ ARCADE WHQ ÷ AEROSOL WHQ ÷ DiSCiPLES OF AGEEMA WHQ ÷
+   ÷ THE ASCii CHARTS WHQ ÷ LiGHTFORCE GHQ ÷ BAD KARMA GHQ ÷ TEQUiLA GHQ ÷
+     ÷ SiCK OF iT ALL GHQ ÷ UP ROUGH GHQ ÷ LOW PROFiLE GHQ ÷ PHUNK GHQ ÷
+  ÷ SODiUM GHQ ÷ PUNGAS GHQ ÷ OMEN GHQ ÷ 1OO% GHQ ÷ VORTEX GHQ ÷ MVP GHQ ÷
+          ÷ DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS/BETA-SiTE ÷
+
+  ÷ 2 nODES wITH 33k6 - 2 nODES wITH iSDN - 4 nODES tELNET wITH sTATIC iP ÷
+ ÷ cONSOLES/aMIGA/gRAFFITI/aSCII/mP3/mOD/dRUGS/cLASSICgAMES/dAYdREAM/lINUX ÷
+

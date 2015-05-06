@@ -1,0 +1,793 @@
+           -( [ bOONDOCKS! ] [ oNE oF tHE fASTEST iN eUROPE ] )-
+    ________________________________________________________________________
+ __/  __ __/   _ __/   _ __/   _ __/ ___ __/   _ __/   ____/   / __/   ____/
+ \_   _  \_    / \_    / \_    / \_    / \_    / \_    / \_   _  \_____  \_
+  /   / ¯¯/  _/   /  _/   /   /   /  _/   /  _/   /  _/   /   / ¯¯/  _/   /
+ /___     \__     \__     \__/    \__     \__     \__     \__/    \__     \
+ sAl1      \/______\/      \/______\/      \/______\/      \/______\/      \
+   /        \      /________\      /        \      /________\      /
+  /          \                    /          \                    /
+[tRIStAR aND rED^sECTOR ¡NC!, lSD!, oRIGIN!, hELLFIRE! & iLLUSION aMIGA eHq!]
+ [·tRIStAR & rED^sECTOR ¡NC! cONSOLE·&·gERMAN cONSOLE sYNDICATE wORLD hQ!·]
+    [·tRISTAR & rED^sECTOR ¡NC! /X-iNNOVATION wORLD dISTRIBUTION sITE!·]
+[·sUNFLEX iNC. & dEVIOUS dEZIGNS dUTCH hQ!··tHE oRGANIZED cRIME aMIGA dIST!·]
+ 
+                           sYSOP: [-s/\L-oNE!-]
+ cOSYSOPS: [mARIO/tRSI!] [sECTORCHARGER/tRSI/tRSI/tRSI&fTH!] [aPOLLO/pDX!]
+       [eCS/tRSI/tRSI!] [aSTRO/mOVEMENT!] [aRTIC cAT!/sNK/eDGE/oTT!]
+
+    2 * cREDITZ fOR mAJORS! 3 * cREDITZ fOR mAJORS fROM yOUR oWN gROUP!
+                 --»> lATEST aMIEXPRESS vERSION 4.xX! <«--
+         ---»> nO nEW uSER pASSWORD aND/oR sYSTEM pASSWORD! <«---
+
+-[ +31-(0)-548-040-653 ]--[ +31-(0)-548-021-716 ]--[ +31-(0)-548-021-848 ]-
+     -[ 16k8 dUAL ]-          -[ 16k8 dUAL ]-          -[ 16k8 dUAL ]-
+
+     [-[[ uPLOADEd bY: rING+rING!           ]]-] [-[[ nODE: 2     ]]-]
+
+  [-[[ tIME aND dATE oF tHE uPLOAD: ]]--[[ 12:37:16 ]]--[[ 14-aPR-95 ]]-]
+ 
+å
+_____  /\______.___  ______  _
+\____\/____/   |  ¬\/  __ ¬\_\ -  -- --- ---------------------------------.
+_/   \/  ¬\_   _    \_ \____/__     >.T.H.E. .U.N.D.I.S.C.O.V.E.R.E.D.<   ¦
+\_____     /___|     /___     /:.   >.+31.229.444.42...+31.229.414.42.<   !
+-:---l____/----l____/---\____/---- --- --- --  -     >.+31.229.4ELITE.<   :
+ ¡                   ______.                         ________             |
+ |   DELiGHT DHQ!    \     |___  ____ .____ _  ______\      /______       O
+ O  MYSTiC BETA HQ   \\_   |  ¬\/    \|   _____\__  ¬\\____/    __/__  /\ |
+ |    iNFECT EHQ     _/    ·    \_   \\   ¬\_    |    \_  ¬\______  ¬\_\//¡
+ ¦                  .\___________/___|\_____/_____     /____/   ______/ · :
+ :        - -- --- ------------------------------l____/--\______/------   .
+ . _ ______   _____________. ___________    _______ _ _____    ________ _ :
+ : //  ___/__/   __ ¬\     |/     / __ ¬\___\____ ¬\_  __ ¬\___\____  ¬\\ ¦
+ ._/   |    ¬\_  \/   \_   ·     /  \____/__   \/  _/  \____/__    |    \_:
+ |\_____      /________/   _____/ _ __     /___/    \____     /_____     /|
+ :-----l_____/-------|_____/-sTZ!/6c-\____/----\_____/--\____/-----l____/-:
+ !                                                                        !
+ | [MUAD'DiB/DLT]  [WISHBRINGER/DLT]  [MOTIVE POWER/MST]  [KiLLRAVEN/MST] |
+ ¦                               [JAKE/PSG]                               ¦
+ : >.A.M.I.G.A.<>.C.O.N.S.O.L.E.<>.6.8.O.4.O.P.0.W.E.R.<>.U.S.R.2.8.K.8.< :
+ ¦------------------------------------------------------------------------¦
+ |UL BY: =zEn=          / ÷ r½O½a½d½h½O½g½z  ON: 04-13-95/23:56:37 NODE 01|
+ `------------------------------------------------------------------------'
+                           - --(· FastAdd v2.0 By Nike/Craze^Del!ght -95 ·)-- -
+
+
+      ÖOo-------------------------ÒgO^bLUEsÒ-------------------------Oo·
+      |        ________   _____                     _____              |
+      |      __\___   /___\    \  __________ ___   /    /______ _      |
+      |    __   __/ _/__   \_   \__   ___  //  _ _/    /    __///      |
+      |     __  \_      \_____   _/   \___/    \\\_________ \          |
+      |        __/       _/ l___/       \_ _     _  _ _/     \_ _      |
+      |         l_______/_  _  _ __ _____/// _          _ _ __///      |
+      |     _______                                                    |
+ _  _ ____ _\      \_________   _________    _____________________     |
+_  ___       \      \______  \__\___    /_ __\  ______   /______  \__  |
+  _  ___    _/\_     _/  _/   \__ _/   /________ \______/  / _______/_ _  __ _
+       \__   /\_____/_ __\    __ _\            /____      /  \       __ _  __
+      | l___/             \    _ __\    mD!   /   l______/ \_____      |
+      |                    \___/    \________/               l__________
+      |
+      |                         Ö-rOadhOgz WHQ-·                       |
+      |                    Ö-BLADEz '94 affiliated-·                   |
+      |             Ö-watchdOgz: [=zEn=]^[Boldy]^[Castro]-·            |
+      |        Ö-sUppOrt fOr: [PCx]^[PCb]^[SyStem/X]^[X=FiLEs]-·       |
+      | Ö-nOde1: +31-70-363.97.60 nOde2: +31-70-IDSN sOOn^nUp: xXxXx-· |
+      |                                                                |
+      ÓOo------------------------------------------------------------oO½
+
+           -( [ bOONDOCKS! ] [ oNE oF tHE fASTEST iN eUROPE ] )-
+    ________________________________________________________________________
+ __/  __ __/   _ __/   _ __/   _ __/ ___ __/   _ __/   ____/   / __/   ____/
+ \_   _  \_    / \_    / \_    / \_    / \_    / \_    / \_   _  \_____  \_
+  /   / ¯¯/  _/   /  _/   /   /   /  _/   /  _/   /  _/   /   / ¯¯/  _/   /
+ /___     \__     \__     \__/    \__     \__     \__     \__/    \__     \
+ sAl1      \/______\/      \/______\/      \/______\/      \/______\/      \
+   /        \      /________\      /        \      /________\      /
+  /          \                    /          \                    /
+[tRIStAR aND rED^sECTOR ¡NC!, lSD!, oRIGIN!, hELLFIRE! & iLLUSION aMIGA eHq!]
+ [·tRIStAR & rED^sECTOR ¡NC! cONSOLE·&·gERMAN cONSOLE sYNDICATE wORLD hQ!·]
+    [·tRISTAR & rED^sECTOR ¡NC! /X-iNNOVATION wORLD dISTRIBUTION sITE!·]
+[·sUNFLEX iNC. & dEVIOUS dEZIGNS dUTCH hQ!··tHE oRGANIZED cRIME aMIGA dIST!·]
+ 
+                           sYSOP: [-s/\L-oNE!-]
+ cOSYSOPS: [mARIO/tRSI!] [sECTORCHARGER/tRSI/tRSI/tRSI&fTH!] [aPOLLO/pDX!]
+       [eCS/tRSI/tRSI!] [aSTRO/mOVEMENT!] [aRTIC cAT!/sNK/eDGE/oTT!]
+
+    2 * cREDITZ fOR mAJORS! 3 * cREDITZ fOR mAJORS fROM yOUR oWN gROUP!
+                 --»> lATEST aMIEXPRESS vERSION 4.xX! <«--
+         ---»> nO nEW uSER pASSWORD aND/oR sYSTEM pASSWORD! <«---
+
+-[ +31-(0)-548-040-653 ]--[ +31-(0)-548-021-716 ]--[ +31-(0)-548-021-848 ]-
+     -[ 16k8 dUAL ]-          -[ 16k8 dUAL ]-          -[ 16k8 dUAL ]-
+
+     [-[[ uPLOADEd bY: Data                 ]]-] [-[[ nODE: 1     ]]-]
+
+  [-[[ tIME aND dATE oF tHE uPLOAD: ]]--[[ 01:45:06 ]]--[[ 13-aPR-95 ]]-]
+ 
+å
+@BEGIN_FILE_ID.DIZ
+...............................
+. /\_____/\____................
+./_ / __/ _   /\...............
+.\/  /\/  /  / /...............
+./__/ /_____/ /..dudes.........
+.\__\/\_____\/.................
+...............................
+DatA sTrIkES bAck wiTh His NeXt
+kEwL AscIi cOllEctIOn , cAllEd:
+
+   GREETINX FROM NOWHERE
+
+@END_FILE_ID.DIZ
+
+        
+        
+        
+        
+        
+        aaaa aAaaa !
+        bbbb bAbbb !
+        ccCc cAccc !            Some word's in advance...
+        ddCd dAddd !
+        eeCe eAeee !            Welcome to my 2nd AsCiI cOllY .. I didn't 
+        FfCf fAfff !            chanGe ThE StylE in cOnTrasT tO thE 1St ,bUt
+        FgCg gAggg !            inStead Of mAkiNg MorE BoaRD ColLY'S I JuSt
+        FhCh hAhhh !            MadE AZcIiS Of A FeW gRoUPs AnD BAORd NameS.
+        FiCi iAiIi !
+        FkCK kAkIk !
+        FlCK lAlIl !                      lata!
+        FmCK mAmIm !
+        FnCK NAnIn !
+        FoCK NAoIo !
+        FpCK NApIp !
+        FrCK NArIr !
+        FsCK NAsIS !
+        FtCK NAtIS !
+        FUCK NAuIS !
+ =====> FUCK NAZIS ! ... finally we made it :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           
+    |----*[ ME/\/U]*---------------------|
+    |                                    |
+    |    1. BlUNt                        |
+    |    2. TRSi                         |
+    |    3. Backlash                     |
+    |    4. Skid Row                     |
+    |    5. Logic                        |
+    |                                    |
+    |   ____________                     |
+    |   |   ,,,,,  |                     |
+    |___|  < O o > |_____________________|
+        |_  | _ | _|
+             `-\.
+                               
+
+     That'S mE  ^  ..hey, why do i smoke ... it's REALLY BAD!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          //
+                         //
+                         \\  /\\
+                          \\/  \\
+                               //
+                              //
+                             //
+                            /\\
+                           /  \\
+                           \\///
+                            \//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------[ 1. BlUNT ]------------------------------------------------------
+
+
+
+
+
+
+
+          BlUNt: tHiS GrOuP SlowlY gets rEAllY LAme ... thInk TheY
+                 Don't WAnnA exISt AnY loNger ... hEY .. wHY thAn Am i
+                 A mEMbEr ... fUCk!
+
+
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  /\____/\_    /\____/\____/\______
+                 /  _ _/  /\  /  /  / _   /_   ___/\
+                /  _  /  /_/_/  /  /  /  /\/   /\_\/
+               / ____/____  /_____/__/__/ / __/ /
+               \/\DA!\____\/\_____\__\__\/\/\_\/
+                \/         \/              \/
+
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   Special GrEetiNX TO : Dope (Hope The Bbs Gets Better The neXt WeEX!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           //
+                          //
+                         //
+                         \\  /\\
+                          \\/  \\
+                               //
+                              //
+                             //
+                            /\\
+                           /  \\
+                           \\///
+                            \//
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------[TRSi]---------------------------------------------------
+
+
+
+             
+             
+             
+
+
+
+
+
+
+
+
+             
+
+
+
+             /\____/\_________/\/\__
+            /_   __  .   /  ___/___/\
+            \/  /\/  / _/___  /   /\/
+            /__/ /__/  / ____/___/ /
+            \__\/\_/__/\/\___\DA!\/
+                   \__\/\/
+
+
+
+
+
+
+
+
+
+
+
+
+          Special GrEetiNX TO : -s/\L-oNE!-  (Cool,fAst system ...
+                      do yOu also send MARIJUANA from ZomE oF Ya CoFFeeShOPS
+                      tO gErMAnY ??! )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           //
+                          //
+                         //
+                         \\  /\\
+                          \\/  \\
+                               //
+                              //
+                             //
+                            /\\
+                           /  \\
+                           \\///
+                            \//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------[ BAcklash ]-------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         /\____/\___________________    /\________/\______
+        /  - _/ _   /  _____ /  _/ /\  / _   /  ___/  /  /\
+       /  _  /     /  /__   ,  /  /_/_/     /___  /     / /
+      / ____/__/__/___  /__/  /____  /__/__/ ____/__/__/ /
+      \/\DA!\__\__\___\/\_/__/\____\/\__\__\/\___\__\__\/
+       \/              \/ \__\/     \/      \/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Special GrEetiNX TO : Marky (are you not looking for a cosys ? :) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           //
+                          //
+                         //
+                         \\  /\\
+                          \\/  \\
+                               //
+                              //
+                             //
+                            /\\
+                           /  \\
+                           \\///
+                            \//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------[ Skid RoW]----------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ____/\/\___/\_/\/\_____     /\____/\____/\_/\_/\__
+     /  ___/  /  _/__/  _   /\   / _   / _   /  /  /   /\
+    /___  /  ,  /   /   /  / /  /  / _/  /  /  /  /   / /
+   / ____/__/  /___/ _____/ /  /__/  /_____/_________/ /
+   \/\___\_/__/\___\/\____\/   \_/__/\_____\_____DA!_\/
+    \/     \__\/    \/           \__\/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Special GrEetiNX TO : OzzY ( nice bbs, but where's the pc stuff?)
+                            Marc ( read my letter on metal connextion!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           //
+                          //
+                         //
+                         \\  /\\
+                          \\/  \\
+                               //
+                              //
+                             //
+                            /\\
+                           /  \\
+                           \\///
+                            \//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              /\_    ____________/\_______/\
+             /  /\  / _   / ____/___/  ____/\
+            /  /_/_/  /  /  /  /   /  /_\__\/___
+           /______/_____/_____/___/__________  /\
+           \DA!___\_____\_____\___\__________\/ /
+                                              \/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Special GrEetiNX TO : Rofoe (Thx 4 supporting/helping our bbs!)
+                   
+     and my "special friends":
+
+     Steve/Whiz (THX 4 THRoWinG ME OuT Of YoUR BBS's, ASSHOLES!!!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  ......... well , that's all folks ... it's 2 p.m. I'm
+                  tiRed and Have onLY 8 bOxes Of GALOISES from my holidays 
+                  in fRAnCE lEft ..... So GoOd NiGht ... tomOroW i Will
+                  ThiS ShiT And kICk Your AsS!
+
+
+                                         cYa GUYs, DAtA
+
+
+
+
+
+
+STOP ... we won't forget the AddS :
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+           -( [ bOONDOCKS! ] [ oNE oF tHE fASTEST iN eUROPE ] )-
+           ____    ____                   ____                _
+     _____|_ __|__|  __|__  _____________|  __|__   _________/| ____________
+    /    _  \\___ \  \___ \/\__   \   __ \  \___ \_/   _    / |/   /   _   /
+   /    _/__/  |/  \   |/  \   \   \_/ /  \   |/  \    /___/ _/ __/\    \_/
+  /    /   \_  /    \  /    \  /    / /    \  /    \  /   \  \   \__\_   \
+ /   _/     /_/     /_/     / /    /_/     /_/     /_/    /   \   \_ /    \
+ \ ________/_______/_______/_/____/_______/_______/______/____|\   /______/
+  \/                                                            \_/-rS!
+[tRIStAR aND rED^sECTOR ¡NC!, lSD!, oRIGIN!, hELLFIRE! & iLLUSION aMIGA eHq!]
+ [·tRIStAR & rED^sECTOR ¡NC! cONSOLE·&·gERMAN cONSOLE sYNDICATE wORLD hQ!·]
+    [·tRISTAR & rED^sECTOR ¡NC! /X-iNNOVATION wORLD dISTRIBUTION sITE!·]
+[·sUNFLEX iNC. & dEVIOUS dEZIGNS dUTCH hQ!··tHE oRGANIZED cRIME aMIGA dIST!·]
+ 
+                            sYSOP: [-s/\L-oNE!-] 
+ cOSYSOPS: [mARIO/tRSI!] [sECTORCHARGER/tRSI/tRSI/tRSI&fTH!] [aPOLLO/pDX!]
+       [eCS/tRSI/tRSI!] [aSTRO/mOVEMENT!] [aRTIC cAT!/sNK/eDGE/oTT!]
+
+    2 * cREDITZ fOR mAJORS! 3 * cREDITZ fOR mAJORS fROM yOUR oWN gROUP!
+                 --»> lATEST aMIEXPRESS vERSION 4.xX! <«--
+         ---»> nO nEW uSER pASSWORD aND/oR sYSTEM pASSWORD! <«---
+
+-[ +31-(0)-548-040-653 ]--[ +31-(0)-548-021-716 ]--[ +31-(0)-548-021-848 ]-
+     -[ 16k8 dUAL ]-          -[ 16k8 dUAL ]-          -[ 16k8 dUAL ]-
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                                     -[hANSA^ADD·SCoPE/CAF]-
+ 
+
+      ÖOo-------------------------ÒgO^bLUEsÒ-------------------------Oo·
+      |        ________   _____                     _____              |
+      |      __\___   /___\    \  __________ ___   /    /______ _      |
+      |    __   __/ _/__   \_   \__   ___  //  _ _/    /    __///      |
+      |     __  \_      \_____   _/   \___/    \\\_________ \          |
+      |        __/       _/ l___/       \_ _     _  _ _/     \_ _      |
+      |         l_______/_  _  _ __ _____/// _          _ _ __///      |
+      |     _______                                                    |
+ _  _ ____ _\      \_________   _________    _____________________     |
+_  ___       \      \______  \__\___    /_ __\  ______   /______  \__  |
+  _  ___    _/\_     _/  _/   \__ _/   /________ \______/  / _______/_ _  __ _
+       \__   /\_____/_ __\    __ _\            /____      /  \       __ _  __
+      | l___/             \    _ __\    mD!   /   l______/ \_____      |
+      |                    \___/    \________/               l__________
+      |
+      |                         Ö-rOadhOgz WHQ-·                       |
+      |                    Ö-BLADEz '94 affiliated-·                   |
+      |             Ö-watchdOgz: [=zEn=]^[Boldy]^[Castro]-·            |
+      |        Ö-sUppOrt fOr: [PCx]^[PCb]^[SyStem/X]^[X=FiLEs]-·       |
+      | Ö-nOde1: +31-70-363.97.60 nOde2: +31-70-IDSN sOOn^nUp: xXxXx-· |
+      |                                                                |
+      ÓOo------------------------------------------------------------oO½
+
+[Oxg-Text-Add-1.00]
+       - -- --- >>-> the Weak HaVe PaST NOW TRY THe ReaL!! <-<< --- -- -
+ 
+  ..........................................................................
+  :   ____ .____      _______   _ ____     _____. ____    _____      ______:
+ tHE  \_  \|  _/ _____\     /___   __/__ __\__  |/   /____\___ \_ _ _\___  \
+__:_._/__ \\   \_\__  \\___/ __/__ |    \_ __ \ ·   /__ \_  \/ _/_____  |   \_
+\_  |  _/_|\____/  |   \_  \___   \______/ \/  \___/ \___/__/   \_ __ \______/
+/   ·   \_     _ ___    /___/  ____/Stz\________/ _ ___    /\____/ \___/__ :
+\________/         l___/  _ ___/                      \___/    _ ____    / :
+  :.................................................................\___/..:
+  bROUGHT hERE bY =zEn=         /÷ r½O½a½d½h½O½g½z  oN nODE 01 : DELiGHT DHQ
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                           - --(· FastAdd v2.0 By Nike/Craze^Del!ght -95 ·)-- -
+
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+           -( [ bOONDOCKS! ] [ oNE oF tHE fASTEST iN eUROPE ] )-
+           ____    ____                   ____                _
+     _____|_ __|__|  __|__  _____________|  __|__   _________/| ____________
+    /    _  \\___ \  \___ \/\__   \   __ \  \___ \_/   _    / |/   /   _   /
+   /    _/__/  |/  \   |/  \   \   \_/ /  \   |/  \    /___/ _/ __/\    \_/
+  /    /   \_  /    \  /    \  /    / /    \  /    \  /   \  \   \__\_   \
+ /   _/     /_/     /_/     / /    /_/     /_/     /_/    /   \   \_ /    \
+ \ ________/_______/_______/_/____/_______/_______/______/____|\   /______/
+  \/                                                            \_/-rS!
+[tRIStAR aND rED^sECTOR ¡NC!, lSD!, oRIGIN!, hELLFIRE! & iLLUSION aMIGA eHq!]
+ [·tRIStAR & rED^sECTOR ¡NC! cONSOLE·&·gERMAN cONSOLE sYNDICATE wORLD hQ!·]
+    [·tRISTAR & rED^sECTOR ¡NC! /X-iNNOVATION wORLD dISTRIBUTION sITE!·]
+[·sUNFLEX iNC. & dEVIOUS dEZIGNS dUTCH hQ!··tHE oRGANIZED cRIME aMIGA dIST!·]
+ 
+                            sYSOP: [-s/\L-oNE!-] 
+ cOSYSOPS: [mARIO/tRSI!] [sECTORCHARGER/tRSI/tRSI/tRSI&fTH!] [aPOLLO/pDX!]
+       [eCS/tRSI/tRSI!] [aSTRO/mOVEMENT!] [aRTIC cAT!/sNK/eDGE/oTT!]
+
+    2 * cREDITZ fOR mAJORS! 3 * cREDITZ fOR mAJORS fROM yOUR oWN gROUP!
+                 --»> lATEST aMIEXPRESS vERSION 4.xX! <«--
+         ---»> nO nEW uSER pASSWORD aND/oR sYSTEM pASSWORD! <«---
+
+-[ +31-(0)-548-040-653 ]--[ +31-(0)-548-021-716 ]--[ +31-(0)-548-021-848 ]-
+     -[ 16k8 dUAL ]-          -[ 16k8 dUAL ]-          -[ 16k8 dUAL ]-
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+                                                     -[hANSA^ADD·SCoPE/CAF]-
+ 

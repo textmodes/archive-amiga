@@ -1,0 +1,1807 @@
+ 
+  ...         _ _                                          _ _     ...
+ ::::          \\\ sTAGE 1 cOMPLEtED <> pAsSED tHRoUGH TY ///      ::::
+ :::_   .___.    \                                        /        _:::
+ :://-- |   |-----\  24h Static Telnet on broadband ADSL /--------// ::
+ |. .___.  _:____ _  ___                                             _:
+ _ _|   |_ \_   // //  /____   __ _  cONSOLES/aSCII/aMIGA/gRAFF/=C64 \:
+ \\\_   _/__/  /___  _     /__||///  mACINTOSH/mUSIC/sAMPLES  ____    |
+    |_  \_\        \ /____/   _      _____ _      _____     ./  _/    .
+ .   /_    \________\________\\    ._)  _ \\______\__  \____|   \_ _ _: _
+ :     \______\\t^/lp!        ____ |   _/     /     /   \  _|   _////__\\
+                             /   /___  \      \ __ \\  _/__\|   \     :/
+  > theyard@graffiti.ag < _ /   / __//__\______\\_\ /_____/ \    \    :
+ :     _                  //_____\\:     \      /___|   \_________\  _.
+-.----\\-----------------------|   |----- .-----------||-------- ----/:
+ | tHE iDEA oF sTYLE iS tHE kEYl___|tO aLL fORMs oF rOCKiNG - TY 9603 |_
+-@----------------------------._____.---------------------------------@
+
+H!AM-SAM.TXT             :
+                         :
+                         :
+'last night [...] i was a pirate and set sail for new undiscovered worlds 
+were [sic] we found tons of gold and drank beer until the sunset' (gone/
+scarab: 2004, everything is nothing at all p.2, in: pain # 55) 
+			 :
+			 :
+			 :                                                     
+                         :                                                     
+                         :                                                     
+                         :                                                     
+                         :                                                     
+                         :                                                     
+                         :                                                     
+                         :                                                     
+                         :                                                     
+                         :                                                     
+                         :                ~~!MMM$$$$$$!!                       
+                         :             ~M$$MMMM!!~~~~!M$$M!                    
+        ~MMM!!           :           !M$!!              ~M$$!                  
+      ~M$!!!!$$          :         ~M$!                   ~!$$!               ~
+     ~$M     ~MM         :        ~$M                        !$M              !
+     MM   !~~! $!        :       ~$!                          ~$!             $
+     M! !!~    !$        :       $!                            ~$!          !$!
+     M!~!!      MM~      :      $!                             ~!$!        !$! 
+     $!~         $$~     :     !$                            ~ !~!$       $M   
+    !$            M$!~   :    ~$~                                ~$!    !$!    
+    $!              M$M~     $$                                 !M$  ~M$~     
+    MM               !M$M!  !$!                                 !!$!!$!       
+    ~$~                !$$!~$!~                                ~~~!$!       ~~
+     !$!MM!M!            !$$$~~~                            !  !!!~$~     ~ !!
+      !$$$$$$$!           ~M! !!                           ~M ~~M!!$!   ~~!!M$
+        ~!M!!$$$M~         !! !!                            ~ ~!!$!MM  ~!!!M$M
+              ~!$$M~       MM !$~                             !!!!M!M~!!!$$M~ 
+                 !M$M~     MM  $~                             !!~!M!$M!!$M~   
+                   !$$$!   M!  M!                          !  !!!!!!$$MM~     
+                     !M$$~ M!  ~M                      ~~  !!!$!!M!~$$M       
+                       ~M$$$! ~!$~   !!  ~!!        ~!!!M~  ~!$M!$M!$~        
+                         ~!$M~!MM~!! ~~   !!        !M       !M$!$MM!         
+                           !$M~M$~    ~~~~            ~!!!~   !M$!!$!         
+                         :   $$!$$~  !$$$$$$M ~M~ ~!~ !$$$$$$!  !$!$$~         
+                         :   !$M$$  !$$$$$$$$M MM!$! !$$$$$$$$~ !!M$M          
+                         :   !$$$~ !$$$$$$$$$$!!$M$! $$$$$$$$$! !MM$!          
+                         :   $$$~ M$$$$$$$$$$!~$$$~!$$$$$$$$$$ ~$$$           
+                         :  !$$$! M$$$$$$$$$$!!$MM!M$$$$$$$$$$  M$$M~         
+                         : $!!$$~ $$$$$$$$$$$!M~!~M$$$$$$$$$$$  M$$MM         
+                         : M$$!~  M$$$$$$$$$$!$ !!$MM$$$$$$$$!   M$$M         
+                           ~$!     M$$$$$$$$~~!  !$~ M$$$$$$!     !$~         
+                         :  !$      !$$$$$M~   ~  M!! ~!!!$!      $!          
+                         :   $M       !!~     !$!M~!$MM~  !~     !$           
+                         :   !$$        ~M   !$$!$$  !M!  !~     $!           
+                         :  ~M$$$!  !M$M!M!  $$$!$$!  ~~      ~!$$!           
+                           !$! $!!$$$$M! ~! ~$$$!$$$ ~!!~   !!$$$MM~          
+                         !$M~  !M~!$$!M!    ~$$! $$$ ~MMM!M$$$$$M~$$!         
+                       ~MM~     ~M$$$  $!!  ~!~~ !$!! !$$$$$MM$$$!!!!$!       
+                      !$!         $$$! M$   !$$$$$$$!  ~M$$$!!$$$!!  ~MM!     
+                    ~$M          !$$$M $!    ~! $M!!    ~$!$M$$$M!     ~M!~   
+                   M$!          !MM$!!!M!       $       ~$~$$$$$$!       ~M!  
+                 !$!          !$! M$!~!!~       ~        MMM$$$$$!         ~M!
+              ~!$!          ~M$!  MM! !!!!!!!!!!!M!~!!M! $$!$$ ~M$           !
+           !MM$M~          !$!    !!!~ !$!!~ !!~$ M~!~! ~$!M$!   M$           
+      !$$MM!!~           !$$~     M!~M !$$!  ~  ! ! !!!M$!~MM!    !$!         
+    !$M~                !$!       $! ~!MM!MM$MM!$!MMMMMM!!!~$!      M$~       
+   !$~                !$M~        $!  !!~ !~!!M!!!!~! !~!$!!$!       !$!      
+  !$!        -pnk!   M$! :        !$!  ~!!!~~ !~! ! !!!!M! !$!         !$!    
+  $!               ~$M   :          M~        !!~ !!~~M$~  $$~          ~MM~  
+ ~$     ~         !$!    :          ~$                !   ~$~             !$! 
+ ~$~  ~!~        !$!     :            !M                  !$!               ~$!
+  $!  M!  !~~   ~$!      :            M$~               !$~                  M
+  ~MM~!  !$~   ~$!       :             !$M!           !$M~                    
+    M$!  $~   ~$M        :               !$$!       ~MM!                      
+    ~$$ ~M   !$M         :                 !$$MM!MMMM!                        
+      $~ ! ~!$M          :                    ~!!~!!~                          
+      !$ ~!$$!           :                                                     
+       !M$$$!            :                                                     
+         ~~              :
+	                 :
+                         :
+			 :
+                         :
+			 :
+			 :     
+                         :
+			 :     
+               		 :
+			 :
+                         :
+read the [NFO] properly: : 
+                         :
+                         :
+                         :
+                         :
+                    _ ________________________ _
+                    \\                        //
+               ___  |                          |
+              /  /_______           __________ |     ___
+             /           \_______  /        _/_______\  \
+          ._/    /       /       \/         \            \
+     wPx  |_____/_______/  /     /____/\_____\       /    \
+                    .  \__________/           \___________/
+                    |                          .
+                    |                          |
+                    |     ·  h  e  a  d  ·     |
+                   _|_                        _|_     A N D 
+                    :/________________________\:
+   __  _______    ____________  ___________    :    
+  /  \/      /___/_   _       \/  _        \   ._
+ /     _    /     /   /       _/  /        /__ |/     ______  ______________
+/___\__/___/     /___/\_______\___________/   \  _____\__   \/     / _      \
+     _.  /______/                       \      \/       /         /  /      /__
+     \|                                 _\      \      /\________/\___________/
+      .         .                 .     /_______/     /
+      |         | m i n d j i v e |          /_______/  wPx
+      |         ___________________            .
+     _|_                                      _|_
+      ·(______________________________________)·
+
+
+
+		    i ncorporated & incorporea l
+				
+
+released today:
+			     
+		    s pite & m alice
+
+                    by wannabe-enter
+		    tainment 2 0 0 4
+
+
+
+
+
+-----------------------------------------------------------------------------
+
+   game type  :  strategy                      # of disks : 15 * 5kb
+
+   released   :  apr o1st*, 2004               protection : -
+
+        *at   :  undertown.xxxxxxxx.xxx (3nodez telnet)
+	         the yard.xxxxxx.xxx (5 nodez telnet)
+		 haciend.xxx.xx (2 nodes telnet)
+		 boondocks (http://asciiscene.org)
+
+-   - -- -----------------------------------------------:-- - - -+- -   -
+                                       - game notes -+- | ------------------>
+-   - -- -----------------------------------------------:-- - - -+- -   -
+
+   
+    spite & malice had forever been a quest that some view as a  l i f e-l o g  
+    calling...  are you one? bone chilling cold and horrid mountain conditions 
+    are just a few of the challenges spite & malice has  in store for you... A 
+    rare blend of simulation and action adventure, spite & malice will takeyou 
+    on a journey to the ultimate goal! 
+    
+       
+    game features:
+    
+    surrealism, abstractism & minimalism. 
+
+      
+     -   - -+- - - --:----------------------------------------------- -- -   -
+ <------------------ | -+- install notes  -
+     -   - -+- - - --:----------------------------------------------- -- -   -
+
+   
+   1# Load CED or Edit Plus2
+   2# Open file then to view the collection
+   3# Have fun
+
+   
+
+
+
+
+				       greetings to our partners in art-crime
+-----------------------------------------------------------------------------
+
+   AEROSOL / ARCLITE / ART / G'STYLE / MO'SOUL / PRO ARTS / STYLE / TWISTED
+
+-----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+							     P R O L O G U E. 
+                                                                            
+                                                                            
+                                                                            
+                                                                            
+  SRR.RIPRULEZ.nfo                                                          
+
+
+                       Standard Rip Rules (S.R.R).
+
+  In 1998, and again on March 26th 2000, three rip game groups collaborated 
+  to bring about rules with the hope of ensuring quality in a constantly
+  evolving rip fscene. These rules lasted a long time, but as technology moves
+  forward, so to must the rules governing it. It is time once again for
+  the standards by which the games scene operates to be updated.
+
+  As we are all aware there have been major developments in the scene. These
+  new rules may seem to be quite radical as a result. Those fearful of change
+  may very well be opposed to them - but let us not forget that had there
+  never been any change, we would not have any of the existing rules in the
+  first place!
+
+             In lieu of past events, the deciding figures of:
+
+                      Myth, Divine, Vace, and Instinct
+
+  have converged and agreed upon a new set of rules based on those that
+  came before. These new rules have been updated, modified, and
+  agreed upon by a consensus, and should provide a new standard better suited
+  to the scene in this day and age.
+
+  These groups have been active participants in shaping the scene in the
+  last six months, and were given active participation in voicing their point
+  of view. These new rules will allow for a fair and competitive scene
+  while ensuring a quality-minded environment for all, bringing game rips
+  forward into a new era and restoring their relevance.
+
+  It should be noted that CLASS and BACKLASH chose not to attend due to their
+  reduced role within the scene. However former NSA groups (such as CLASS and
+  BACKLASH), who have chosen not to sign up for these new rules, will still
+  be required to abide by the former NSA rules, which they signed.
+
+  In the past, groups setting the rules have been called the SPA, The Faction,
+  or as in the most recent case the NSA (Network Software Association).
+  Some have claimed the exclusive nature of these organizations have locked
+  them out of the process. Hence from this time forth there shall be no
+  organization dictating to the others. All groups are invited to adopt these
+  rules, and every effort has been made to contact the various players in the
+  games rip scene.
+
+  These rules shall be identified simply as the Standard Rip Rules (S.R.R).
+ 
+  They have been ratified and approved among the four groups and will be
+  recognized and followed immediately on this date and thereafter:
+  March 5th, 2004.
+
+  The Standard Rip Rules are as follows:
+
+
+  1.  Files:
+
+      The disk limit is as of now 55 x 5,000,000 bytes.
+      This equates to a total of 275,000,000 bytes of
+      compressed data. Groups may not exceed the total
+      size (including when crack.ace or similar files are
+      are needed in the first disk of a release) to prevent
+      any future cheating. Groups caught cheating on file
+      size WILL be nuked!
+
+      The limit for standard game add-ons is 25 x 5,000,000
+      bytes for any add-on that includes Music, Speech,
+      Commentary or Play By Play for the original release.
+      Any add-on that does not fit these criteria will be
+      restricted to 15 x 5,000,000 bytes. Only the group
+      that won the game release is allowed to release the
+      add-ons for that game.
+
+      Due to an increasingly limited number of file names,
+      and the ability of all modern operating systems to handle
+      long file names, it is now permissible to use file names
+      up to a maximum of 12.3 characters (filename/extension). 
+
+      Acceptable compression formats at this time are ACE or
+      RAR or any future compression that supports multiple
+      volumes and long file names, followed by the
+      traditional PKZIPing.
+
+      The traditional packaging methods (ZIP/DIZ) shall be
+      maintained, with a DIZ file being present in each zip.
+
+  2.  Proper Rips:
+
+      To prevent sloppy rips, a re-release of a game is allowed
+      to ensure groups release proper and respectable rips.
+      The following provisions include:
+
+         it can be ripped in >=7 disks less than the previous
+         release or less than half the size of the previous
+         release by using only lossless compression methods.
+
+      That means all the essential game data must be still
+      included in the re-release. No essential data is allowed
+      to be removed to be considered a valid re-release. A re-
+      release from a competing group may not use tools, original
+      crack or any other files from the previous release that
+      were modified for the original game rip. A group may NOT
+      use DDS conversion on a proper rip unless used on
+      the original rip. Lossy audio conversion is allowed in
+      proper rips; downsampling is not.
+
+      The re-release of a rip can be done by any group and must
+      be done within 48 hours of the original rip, as possibly every
+      game is rippable in a smaller size if enough time is spent.
+
+  3.  Functionality:
+
+      Every release under this limit MUST be a functional and
+      playable complete game with no essential data missing to
+      finish the game. This means that included will be every
+      component  necessary for the successful completion of the
+      game e.g.:
+
+      - all game executables that are needed,
+      - every level (single AND multiplayer),
+      - every track (including practice),
+      - all actor graphics & models etc,
+      - sound effects
+      - registry settings to play on the Internet (Zone/etc.)
+      - if the serial of the game is checked online thus making
+        it impossible to play online with any possible rip, it is
+        allowed to rip out multiplayer, LAN play should still be
+        fully included if it exists
+
+  4.  Packers:
+
+      Any lossless compression method to reduce the size of
+      selected game data is ALLOWED (e.g. uharc).
+
+  5.  Lossy Compression:
+
+      Lossy compression is ALLOWED for sound, videos and non-
+      texture graphics (menu screens and loading screens) but
+      lossless compression is encouraged before using lossy
+      compression. Lossy compression of textures is allowed
+      only using DDS. If a game includes separate texture
+      sets for hires AND lowres systems you are allowed to
+      rip lowres only but the game still has to work on all
+      hardware platforms.
+
+  6.  Sound:
+
+      Sound effects WILL and MUST be included. To reduce the size
+      of rips when possible, standard wave format files (PCM)
+      should be compressed. If the sound files exist inside a big
+      file it's highly regarded when time is invested to extract
+      those files to compress them. Groups are not required to
+      index big  files though. A downgrade of sound quality to sound
+      files to allow the game to fit the limit will NEVER be permitted.
+
+      Acceptable sound compression formats are:
+
+            <22/1 <22/2 22-32/1 22-32/2 44-48/1 44-48+/2 (khz/channels)
+      mp3   32    32    48      56      56      112      (kbit)
+      ogg   32    32    48      48      56      64       (kbit)
+      wma8  20    20    20      32      32      80       (kbit)
+      wma9  16    16    16      20      20      64       (kbit)
+
+      It is allowed to rip music, commentary/speech and ambience
+      files as long as the game remains playable. speech files
+      MUST be included if there exist no on-screen subtitles.
+      Speech can be downsampled, but only to the above SOUNDS
+      quality or to WAV 22.050 quality. No lower. It is okay
+      to remove commentary from a release if size does not
+      permit it.
+
+      It is highly regarded when all sounds, speech and music
+      are included in a rip and not intentionally put out as
+      add-ons.
+
+  7.  Movies:
+
+      Movies (intros, cut scenes) should be removed if they
+      are not game related. Movies must be ripped in a way so
+      that the  game play  experience is  not compromised, e.g.
+      framing of movies is highly regarded. It should always be
+      avoided to create situations in which user-input is
+      necessary on black screens because the video  normally
+      shown has been blacked out.
+
+      Downsampling of Movies is allowed under the following
+      guidelines:
+
+      Divx 3-5 / Xvid / Original codec (used in game):
+      - Kbit rate: 650 kbit+
+      - Quality: 93%+
+      - Quantizer: 4.0 (no more)
+
+      RadVideo (BIK):
+      - Compress to 50%+ of the original file size.
+
+      Windows Media Video (WMV) / MPEG2:
+      - Allowed resolution change, but no less than 50% of original
+        resolution (width/height divided by 2).
+      - Allowed recompression to same resolution but with lower
+        kbit rate.
+
+      *NOTE* Movie conversion on enduser machine is FORBIDDEN.
+
+  8.  Add-ons:
+
+      Other allowed add-ons for games include:
+
+      - cut scenes/movies
+      - commentary/speech
+      - music
+      - editor
+
+      No more than 2 add-ons should be released for a game
+      release.
+
+      Intro and Outro add-ons are EXPLICITLY FORBIDDEN.
+
+      Only the group that released the initial game release
+      can release the above add-ons, unless there is a
+      problem with the release. This is to prevent third
+      party groups that may not understand how to release
+      these properly to correctly support the initial
+      release, and to prevent multiple add-on dupes from
+      appearing.
+
+      This will be ENFORCED on group SITES!
+
+  9.  Kiddie:
+
+      Children's games (aka Kiddie  games) and Edutainment
+      software do not qualify under these rules guidelines for
+      acceptable releases. Kiddie games are usually defined via
+      the game target audience of '5-12 years' as stated by the
+      game's producer. Common sense should be applied by all
+      groups to identify what  really is a kiddie game.
+      Platform games are not to be considered kiddie games
+      unless explicitly stated by the developer/publisher.
+
+ 10.  Official:
+
+      Level packs, game add-ons etc. for rips are only allowed
+      if they are officially released/authorized by the same
+      company, developer or publisher that put out the original
+      game. If possible by its size, the add-on should be made
+      as a standalone and not needing the original game release.
+      The original missions may be removed to allow the game
+      add-on to become standalone if not size can not permit
+      the original game. It should be explained in the NFO
+      if and why a game add-on isn't made to be standalone.
+
+ 11.  Dupes:
+
+      In regard to games distributed in the United States that
+      are  LATER distributed in Europe or vice versa under the
+      same or different name/publisher. These games if released
+      AFTER another group's release are counted as DUPES unless
+      it can be proven that there is a clearly noticeable
+      PLAYABLE difference in the latter release (more than just
+      tiny differences in graphics or sound). Differences in
+      file dates and Game Titles between Euro and US releases
+      are NOT a good enough reason to re-release the game.
+
+ 12.  Information:
+
+      A brief outline of what  has been  stripped and any
+      explicit lossy compression used should  be clearly stated
+      in the game-release in the .NFO or CRACKTRO file. This file
+      should be placed within the first file of a release so
+      everyone knows where to find it.
+
+ 13.  Enhancements:
+
+      Trainer releases & Update patches:
+
+      Fully cracked Update Patches and Trainers are highly
+      regarded, though they are not the responsibility of
+      any group (including  the group which released the
+      original game title).
+     
+      If 2 trainers from the same or different groups are released
+      for 1 game, this does NOT qualify as a dupe unless the latter
+      trainer provides no new features over the prior trainer.
+     
+      Patches that are the same do qualify as a dupe. Also beta
+      patches fall under the area of betas and should also be
+      nuked  accordingly. Even the companies that make beta
+      patches do not support them so, why should the scene?
+     
+      All trainers must work the same on all formats that the
+      game supports. If the game supports W9x/WME/NT4/WXP/W2K3
+      /WOW64, then the trainer's options must work on all those
+      formats too.
+   
+      No TMK/Magic or trainer making utility releases will be
+      allowed in making trainers. These will be banned as they
+      lack the quality that a real trainer employs and can be
+      unreliable on games that check for these in later levels
+      or situations.
+     
+      Beta update patches will not considered a valid release
+      among any game group. No group shall release a cracked
+      patch for a  game if a generic patch exists for a particular
+      game in the scene. If a generic crack exists, a new
+      patch-release must specify that the generic crack does
+      not work anymore.
+
+ 14.  Competition:
+
+      If two or more rips of the same game get released, the first
+      complete working rip wins. Sites should not nuke any release
+      until the winning rip has been proven to work correctly and
+      follows the above rule set.
+ 
+ 15.  Stealing:
+
+      No group shall use another's groups work - be it an iSO
+      crack or tools written by another competing group. Any
+      third party tools are acceptable. A crack from an iSO or
+      past release (even in other languages or iSO's) shall
+      not be used unless permission is given from the cracker or
+      creator of the original release group. This permission can
+      only be given by crackers and not leaders or seniors. Thus
+      making sure crackers control their own cracks and are not
+      dragged into group politics. It should be noted that most
+      iSO cracks are actually cracked by rip group crackers. Thus
+      without permission from the rip group, said crack cannot be
+      used by other groups. Even if no rip currently exists, as
+      that would be stealing. An example of this is groups like
+      TECHNIC who steal cracks all the time and should be banned
+      and nuked on all sites for reasons of quality.
+     
+      If however a group or member makes their said tools/source
+      public, then they loose their right to prevent others using
+      their tools as they have made it public domain. This should
+      act as a deterrent to crackers who wish to brag to everyone
+      as protection companies gain an insight into the scene when
+      people make standard scene tools public.  This then in turn
+      hurts the scene when protections get updated.
+
+ 16.  Flaming:
+
+      While baiting and harping within a groups release has always
+      been a part of the scene, at times groups have taken this
+      too far. This causes all groups to look lame and childish
+      within the eyes of end users; worse still it can lead to
+      security breeches. In order to avoid this being taken too
+      far in the future, direct naming/nicks of individuals (not
+      groups) within NFO files and other materials is STRICTLY
+      PROHIBITED.
+
+ 17.  Ancients:
+
+      No game can be ripped where the latest file date of a file
+      on the original media (CD/DVD) is older than 6 months prior
+      to the releases of the rip. This is to avoid the emergence
+      of new technologies being employed to resurrect past un-rip
+      able games & create a mess of hundreds of ancient games
+      being released. And to promote faster rips at the time of
+      game release. No rips that were deemed unrippable before
+      the date of March 5th, 2004 shall be released because
+      the new rules deem them rippable!
+
+ 18.  Rules:
+
+      These rules should be placed in the first zip file of every rip
+      release. It is hoped that this will prevent groups down the
+      line from feigning ignorance of the rip rules. This should
+      also allow these rules to travel far and wide in the hope that
+      all sites/groups will adopt these standards for game rip
+      releases, thus ensuring the quality we have come to expect
+      within the scene.
+
+ 19.  Sites:
+
+      It is highly regarded for all groups to establish a /GAMERIPS
+      directory on their affiliated FTP sites which will contain
+      game-iso rips and (optionally) DVD rips. Trainers and patches
+      belong to 0day.
+
+ 20.  DVD Amendment Rules:
+
+      With the advent of games on DVD media, albeit in minor
+      quantities, it has been decided to pre-empt any more rule
+      changes in the future by including the following DVD rules.
+      These rules will be based mostly on the existing rip rules
+      and will allow people to get used to this new and developing
+      scene.
+
+   a. Installation:
+
+      The DVD rip release should install from the CD and only
+      run the game from the hard drive. HD running of a game is
+      the goal, not running off CD. This is the usual way with
+      rips.
+     
+   b. Size:
+
+      The game size for DVD RIPS should be made into a burnable
+      CD iSO format for easy burning and distribution. The .bin
+      and .cue format where possible. The release must not have
+      more than 3CD's of 80mins. Regardless of how many DVD's
+      there were. This should only be the case where the normal
+      rip sizes cannot apply and the original media format was
+      indeed DVD. It should not be used as an excuse to rip down
+      6 CD releases, as these have been proven to be rippable
+      even under the old rules in the past.
+     
+   c. Format:
+
+      Release files should be in RAR format or any future
+      compression that supports multiple volumes and long file
+      names, followed by the traditional SFVing. And in also rip
+      sites/places should therefore adjust their scripts to
+      handle the new DVD rip formats as well as the usual ZIP
+      files. Siteops UPDATE your SCRIPTS!
+       
+   d. Valid:
+
+      A rip release of 55 x 5,000,000 bytes and the release of
+      a DVD rip of the same game, are allowed as they will
+      accommodate to different users.
+
+   e. Singular:
+
+      No add-ons are allowed for DVD rips as the current size
+      should be enough. For patches and trainers the current
+      normal rip rules should apply.
+
+   f. CD/DVD availability:
+
+      No DVD rip of a game is allowed if a certain publisher
+      releases a game on CD and DVD unless the DVD game increases
+      some game features (like highres movies, etc.).
+
+   g. General:
+
+      In general the standard rules should be applied also to
+      DVD rips. If a group removes any allowed data and a
+      competing group can leave the data in and make it
+      the same CD count, their release is considered a
+      proper and is the valid release. It is preferred to
+      include as much data as possible on DVD rips.
+      Only if it is not possible to fit all data on 3 CDs by
+      downsampling and other means of compression it is legit
+      to remove data from the game. This means a 3 CD release
+      with movies included is preferred over a 2 CD release
+      with movies ripped out. Reasons for proper are:
+
+      A) If a group can rip a game to the same CD count
+         as the previous groups rip by including gamedata
+         ripped out by the previous group. Downsampling
+         IS ALLOWED. The size of the cds do not matter
+         in this case.
+
+      B) If a group can get 350mb smaller in size
+         as long as all previous data in rip is included
+         and NO downsampling occurs.
+
+      C) If a group can get 1 CD smaller in size
+         as long as all previous data in rip is included.
+         Downsampling IS ALLOWED.
+
+      To cease any confusion examples are provided:
+
+      Scenario A)
+     
+      If group A releases a 2 CD DVDRip with movies and some
+      audio ripped, and group B releases their rip which is also
+      2 CD's with all movies/music included but downsampled,
+      group B's is the valid release. Regardless if group B's
+      release has bigger sized cds.
+
+      Scenario B)
+
+      Group A releases a 2 CD DVDRip with everything included,
+      both CD's being 700mb. Group B releases a 2 CD rip
+      with everything included but because of better technique
+      CD1 is 700mb and CD2 is 350mb, hence half a CD
+      smaller as long as movies are NOT downsampled it is the
+      valid release.
+
+      Scenario C)
+
+      Group A releases a 3 CD DVDRip, 2 CD's being 700mb, CD
+      3 being 200mb. Group B releases a 2 CD rip with everything
+      included from previous rip, because of better technique
+      or downsampling it is the valid release. This is true
+      regardless of the size of the last CD, be it 700mb or 10mb.
+
+
+  S.S.R. March 5th, 2004
+
+    Signed and ratified by Leaders & Council Members of the
+    following groups: Myth, Divine, Vace, Instinct, Dynasty,
+    Oceanine, Cubic, Delice, Bowling, NLrip and Storm.
+
+
+
+
+
+[...]
+
+
+[DAY00-PC%RIPZ]> fr
+
+ 
+[ File #01 ] 
+
+
+dvn-l´or.nfo P---     256 o1-o4-o4 LEMON OR MILK / JUSTICE OR ORDER    
+                                                        
+				                 :                  [xx/xx]
+				                 :______ _  
+				   __________ ___:____  \/            _____
+			                  __ /   / _/   /  /\_________ _/_   /
+				   -pnk! /  /   /:  /  /  \   _   /   /  /
+				        /   \  / :_/  /.___\  /  /   /__/
+				   _____\______\ :\  /\|  / \/___\-------- 
+						 : \/  |__\
+
+				   [ Date from file_id.diz: 01.04.04 (xx:xx) ]
+                                   --------------------------------( punk! )--
+
+------------------------------------------------------------------------------
+Cursor keys to move or  MORE  Quit  Cont  Flag
+------------------------------------------------------------------------------
+
+[ File #02 ] 
+
+		                                          
+ist-sr.nfo   P---     256 01-04-04 SOMETHING REASONABLE +3 TRAINER               
+
+                                                        /\  [xx/xx] %%%%%%
+                                                       /  \         %%% %%
+				   __  _ _            /    \        %%% %%____
+				     /\ _______  ____/      \ ______%%%    ___
+                                    /  \   _  / /   /_ ___   \   _  /%% %%/  /
+                                   /.___\  / / _\  \  /  /.___\  / /%%% %% /__ 
+                                   \|  / \/__\/     \/  /\|  / \/__\%%%_%%_\ 
+                                    |__\     /\-----/\__\ |__\      %%%%%%____
+                                                             
+                                  
+                                   [ Date from file_id.diz: 01.04.04 (xx:xx) ]
+                                   --------------------------------( punk! )--
+
+------------------------------------------------------------------------------
+More? (Y/n/ns), (C)lear, (F/R) Flag, (?) Help, (Q)uit: y				   
+------------------------------------------------------------------------------
+
+[ File #03 ]
+
+
+myt-i&h.nfo  P---     256 01-04-04 INSANITY & HEROISM 
+                                                	           .... ....
+				                           [yy/yy] :  : :  :
+				   ___ _____             ____ _____:  : :  :__
+				       \    \  _ _______/   /___   :  : :  :
+				   -pnk!\    \/  \     /   /   /___:  :.:  :__
+				        /____\/   \/____  /   /____:  :..  :__
+				   _________ /____/\ /____\___\    :  : :  :
+								   :..: :..:
+				   
+				   [ Date from file_id.diz: 01.04.04 (xx:xx) ]
+				   --------------------------------( punk! )--
+
+
+
+------------------------------------------------------------------------------
+Cursor keys to move or  MORE  Quit  Cont  Flag                                
+------------------------------------------------------------------------------
+
+
+
+[ File #04 ]
+
+
+v-astar.nfo  P---     256 01-04-04 CIVILIZATION & MADNESS     ........
+				                              :  ... : [xx/xx]
+				           ____________       :  : : :
+			           _______ \ ______   /  _____:  : :.:  ______
+			                _/__/     /  / __\_   /  :    _/_    /
+					\        /  /\/  _   /:  : ...  /   /
+				   ______\/    _/  /  \  / \/ :  : : : /___/
+				         /\----\  /________/\_:  :_: :-------
+				   	        \/     	  /   :......:                      
+                                   
+				   [ Date from file_id.diz: 01.04.04 (xx:xx) ]
+				   --------------------------------( punk! )--
+
+					      
+
+------------------------------------------------------------------------------
+More? (Y/n/ns), (C)lear, (F/R) Flag, (?) Help, (Q)uit: q				   
+------------------------------------------------------------------------------
+
+
+
+
+					  
+
+[...]
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) dvn-l'or.nfo
+----------------------------------------------------------------------------
+
+
+t h e   a s t r o l o g e r s  k n o w . . .
+
+w h a t  t h e  s t a r s  h o l d
+
+i n   s t o r e   f o r  u s			 
+
+
+			 
+
+
+
+			 :
+                     ....:...  /\ 
+                      :    /  \
+                      :_________ _ 
+_________________ ____     ____    \/              _______ _________________._
+            _____/    :/   /    /\___________ _/_     /                  |
+-pnk!      /    /    /:   /    /  \   _     / \ /    /     D I V I N E . | 
+          /     \   / : _/    /.___\  /    /   /____/____________________|  
+__________\_________\ :-\    /\|### \/_____\---------\                   |
+                      :  \  /  |###             \    /                   |
+                         :   \/   ------------------\--/--------------------|
+-------------------------:--------|                  \/
+                         :
+                         :
+                         :. r e l e a s e d   t o d a y  :  ****************
+                                                            ****************
+                                                            ****************
+                                                            ****************
+		            t h e   s t a t i s t i c s	    ****************
+                                                            ****************
+                                                            
+****************************************************************************
+
+*******************         r i p p e d :       t h e %
+*******************
+*******************         w e ' r e    o n    y o u r
+*******************         
+*******************		       s i t e
+*******************
+
+					
+
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) ist-sr.nfo
+----------------------------------------------------------------------------
+
+						     
+						     
+						     ........
+                                                     :  ... :
+                                                     :  : : :
+______ _______  _ _                                  :  : :.: ______________
+      \  _____/\ ________  _____/          /\ _______:  :    ____
+-pnk!  \/    /  \   _   / /    /_ ____    /  \   _   /  : ../   /_________
+       /\   /.___\  /  / _\   \  /   /___/.___\  /  /:  : : :  /__________ 
+_________\__\|  / \/___\/      \/   /____\|  / \/___\:  :_: :__\ 
+             |__\      /\------/\___\     |__\       :......:________________
+
+	                                                      I N S T I N C T
+___________________________________________________________ _________________
+t r a i n e d.
+
+		CIVILIZATION AND MADNESS - IN THE AGE OF REASON
+
+
+		A brief cultural analysis of the modern society
+
+
+                M O N E Y + 1 0 0 0
+                P O W E R + 1 0 0 0
+                x x x x x + 1 0 0 0
+                x x x x x + 1 0 0 0
+
+------------------------------------------------------------------------------
+
+
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) myt-i&h.nfo
+----------------------------------------------------------------------------
+
+
+
+t h e   j o u r n a l i s t s   o f          
+                                             :... ....
+                                             :  : :  :
+_________ ______               _____ ________:  : :  :_______________________
+          \     \  __ ________/    /___      :  : :  :
+-pnk!      \     \/   \      /    /   /______:  :.:  :_____         M Y T H .
+           /_____\/    \/_____   /   /_______:  :..  :_______________________
+________________ /_____/\  /_____\___\       :  : :  :
+                                             :..: :..:
+                                             :
+
+r e l e a s e d   t o d a y :  insanity & heroism yyyyyyyyyyyyyyyyyyyyyyyyyyy
+         
+	 
+	g a m e   _ s i z e :  yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+
+
+  h o w  t o  i n s t a l l :
+
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+
+#1. c o p y   t e x t
+
+#2. p a s t e 
+
+#3. r e a d   t h e   i n f o   p r o p e r l y
+
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+
+
+
+		
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) v-astar.nfo
+----------------------------------------------------------------------------
+			     
+
+				
+
+................
+               :
+               :
+               :                     ........
+               :                     :  ... :
+               ______________        :  : : : _______________________________
+______________ \ ______     /  ______:  : :.:  ________ 
+            _/__/     /    / __\_    /  :    _/_      /
+            \        /    /\/  _    /:  : ...  /     /              V A C E .
+_____________\/    _/    /  \  /  \/ :  : : : /_____/
+             /\----\    /_________/\_:  :_: :-------_________________________
+               :    \  /         /   :......:                    
+               :     \/          
+               :                                  
+               :  .............               ATTENTION, NEW SLOGAN:
+...............:  :           :               
+                  :           :
+                  :           :               WE RIP EVERYTHING, EVEN THE TAG
+                  :           : .........
+                  :           : :       :
+                  :           : :       : 
+                  :           : :       :       
+                  :...........: :       : ......
+                                :       : :    :
+                                :.......: :    : 
+                                          :    : 
+                                          :....:   
+                                                    and so on...
+
+                                                    soon to come
+
+
+
+		
+		
+		
+		
+		
+                
+		
+		
+		
+		
+		
+		
+				
+		drunk on immortality
+		
+		
+		[  C O M M E R C I A L  F O R  L E V I  ]
+
+                                     drunk on immortality
+			  
+			
+
+
+
+
+
+
+
+
+
+
+[DAY o1-PC%ISOZ.]
+
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) dvc-xxx.nfo
+----------------------------------------------------------------------------
+
+
+
+
+
+                                                   ........
+                            __________             :  ... :
+______________ _____  _______         /     ______    :  : : :  _______ _____
+         _____/    /_/_     /        /___\_   /____:  : :.:_/_     /
+        /    /    /   /    /        /    _   /_    /  :      /    /
+       /     \   /   /____/        /     / \/ /   /:  : ... /____/
+_______\_________\-----------     /   _____/\/____\:  :_: :-------- ------
+                            \    /        /        :......:
+			     \  /
+                              \/
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+[1.Mark release info. 2.Press Ctrl+C to copy text 3. Paste text with Ctrl+V ]
+
+
+
+
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) flt-xxx.nfo
+----------------------------------------------------------------------------
+
+
+
+
+
+							   the surrealists of
+
+
+                                         ....................................
+       .........                         :       
+       :  ...  :                         :   
+_______:  :  :.: _____\/                 :                              
+       :  :..____\_   /\   _____  ____/\ :  _______.___.       ____   
+       :  ..:    _   /  \  \   / /   /  \: /  _   /|   |______/ __/-----
+       :  :      / \/.___\_/_\/ /   /.___\/   /  / |   |_    /   /______
+_______:  :________/\|  / \  /\/   / |  //_____ /__|   |/____\___\  
+       :  :          |__\  \  /\___\ |__\:  /___\  |___|       
+       :..:                 \/           :               
+                                         :
+       :                                 :		FÄÄÄRLIGHT
+       :.................................:
+
+
+ released: 
+ 
+ ÚÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÙ
+ ÚÙ                   Spite & Malice (c) Wannabee Entertainment              ÚÙ
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙÙ
+ .   Supplied by: FAiRLiGHT            : : Release Date: 04/01/04             :
+ ³   Cracked by:  FAiRLiGHT            ³ ³ Game Type:    Strategy             ³
+ ³   Packaged by: FAiRLiGHT            ³ ³ Image Format: BIN/CUE              ³
+ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄ-----ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+ ³   CDS: 1                            ³ ³ Protection: CD Key                 ³
+ ³   CD1 archives: xx x xx MB          ³ ³ CD1: FLT-xxxx.001 --> FLT-xxxx.050 ³
+   ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ³
+ ³ System Requirements: a1200, 64mb ram, 1gb hdd, kickstart 4.0               ³
+ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[...]
+
+
+ 
+							       t wisted
+							       a rclite
+							       p ro art*s
+							       e psilon design
+
+
+
+no *style in this colly. in art we trust.
+
+
+
+
+
+
+
+
+
+
+
+[DAY o2-AMIGA%ASCII.] fr
+
+
+[ File #01 ] 
+
+
+al-text.txt  P---     256 o1-o4-o4 INSERT TEXT HERE
+	      
+ 				  	        ........
+				                :  ... :
+				                :  : : :  
+				   _ _____ _____:  : :.. __ ___________ _____ 
+			           __\_  / \_   /  :    /  /\    ___ __/_   /
+			 	     _  /  _/_ /:  : ../  /  \  /  /_   /  /
+				     /\/___\   \/  : :/  /.___\/  /___ /__/
+				   ___/\    \  /\  :.:\__\|  //\__\ /-------
+			                     \/ :......:  |__\         -pnk!   
+				   -----------------------------------------
+				                               A R C L I T E   
+				   -----------------------------------------
+				   [ Date from file_id.diz: 01.04.04 (xx:xx) ]
+				   --------------------------------( punk! )--
+
+------------------------------------------------------------------------------
+Cursor keys to move or  MORE  Quit  Cont  Flag                                
+------------------------------------------------------------------------------
+
+
+
+[ File #02 ] 
+
+
+e^d-text.txt P---     256 o1-o4-o4 INSERT TEXT HERE   
+
+
+                                   ___ _____ ______ ___/   ________ _____ ____
+				     _/_    /_    //  /_ /\  __   /     /____ 
+                                    /  /   / /   /_\ \  /  \  /  / _   /_   / 
+                                   /  /___/ ____/     \/.___\/  /  /_ / /  / 
+                                   ------/\__\ /------/\|  //\__\_____\/___\
+                                   -pnk!                |__\                 
+                                   -------------------------------------------
+ 
+ 				   E P S I L O N  D E S I G N
+                             
+				   ______ ____  _____ ____/_  __ ______ ______
+				       __/   /_/_   //   /  /\  / _   /___
+				      / /   /   /  /_\  \  /  \/  /  /_  /
+				     /  \  /   /__/      \/.__ \___ / / /
+				     \_____\-------------/\|  ///___\/__\
+				   ------------------------|__\---------------
+				   [ Date from file_id.diz: 01.04.04 (xx:xx) ]
+				   --------------------------------( punk! )--
+
+
+					      
+
+------------------------------------------------------------------------------
+More? (Y/n/ns), (C)lear, (F/R) Flag, (?) Help, (Q)uit: q				   
+------------------------------------------------------------------------------
+
+
+
+
+
+[ File #03 ] 
+
+
+p^a-text.txt P---     256 o1-o4-o4 INSERT TEXT HERE
+                                      _____ _____  _____ _____ _____ __   ___/
+				   __/_   / \_  / /    /_\_  / \_  /  /_ /  /_
+			              /  /  _/_/ / _  /  _  /  _/_/  /___\ \
+				    ____/___\  \/  / /   / /___\  \__\  /   \/
+				   __\-pnk!  \ /_____\_____\    \_____ /----/\
+					      /
+                                   -------------------------------------------
+								      PRO^ARTS
+                                   -------------------------------------------
+				   [ Date from file_id.diz: 01.04.04 (xx:xx) ]
+				   --------------------------------( punk! )--
+
+
+
+------------------------------------------------------------------------------
+Cursor keys to move or  MORE  Quit  Cont  Flag                                
+------------------------------------------------------------------------------
+
+
+[ File #04 ] 
+
+
+-t-.txt  P---     256 o1-o4-o4     INSERT TEXT HERE
+                                            ______      ___/       _____   ___         
+			           __ ___   \    /\    /  /_ ___ _/_   /__/  /
+			             /  /___/\  /  \  _\ \  /  /__ /  /  /  /
+ 			           \/  /__ /   /.___\/    \/  /__ /__/   \ /
+                                   /\__\    /\_\|  //-----/\__\------\-----\_    
+			           ________/    |__\-pnk!
+			           ------------------------------------------
+				   TWISTED	 
+				   -------------------------------------------
+				   [ Date from file_id.diz: 01.04.04 (xx:xx) ]
+				   --------------------------------( punk! )--
+
+					      
+------------------------------------------------------------------------------
+More? (Y/n/ns), (C)lear, (F/R) Flag, (?) Help, (Q)uit: q				   
+------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[...]
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) al-text.txt
+----------------------------------------------------------------------------
+
+
+
+
+
+
+
+			      
+			      ........
+                              :  ... :
+                              :  : : :  
+_______________ ______ _ _____:  : :..  ____ _______________ ______ ________
+             ___\_   /   \_   /  :     /   /\    ____ ______/_    /
+-pnk!     /\/   _   /    _/_ /:  : .../   /  \  /   /_____   /   /
+         /  \   / \/_____\   \/  : : /   /.___\/   /_______ /___/
+________/_________/\      \  /\  :.: \___\|  //\___\     /------------------
+                 /         \/ :......:    |__\           
+
+
+				
+ 
+
+File al!-bfg!.txt (34164 bytes) has been added to the download request. 
+File al!mbw.txt (59044 bytes) has been added to the download request. 
+File al-.fS!.txt (9260 bytes) has been added to the download request. 
+File al-13.txt (36936 bytes) has been added to the download request. 
+File Al-baadh_gem.txt (24164 bytes) has been added to the download request. 
+File al-coz.txt (81296 bytes) has been added to the download request. 
+File al-devil.txt (75237 bytes) has been added to the download request. 
+File al-dfc.txt (123651 bytes) has been added to the download request. 
+File al-dod.txt (233990 bytes) has been added to the download request. 
+File al-doh.txt (89125 bytes) has been added to the download request. 
+File alex!1st.txt (35658 bytes) has been added to the download request. 
+File al-gloe.txt (165549 bytes) has been added to the download request. 
+File al-iou!_e.txt (42918 bytes) has been added to the download request. 
+File al-jsa2.txt (351269 bytes) has been added to the download request. 
+File alk!som.txt (38478 bytes) has been added to the download request. 
+File al-kick.txt (69853 bytes) has been added to the download request. 
+File al-l50_1_syk.txt (51673 bytes) has been added to the download request. 
+File Al-Lergy.txt (78380 bytes) has been added to the download request. 
+File al-liqui.lha (96560 bytes) has been added to the download request. 
+File Al-maels.txt (33674 bytes) has been added to the download request. 
+File al-meta.txt (21800 bytes) has been added to the download request. 
+File al-morbid_e.txt (78940 bytes) has been added to the download request. 
+File al-oe!.txt (104065 bytes) has been added to the download request. 
+File alp_soup.txt (59612 bytes) has been added to the download request. 
+File al-path.txt (50594 bytes) has been added to the download request. 
+File alpfxr1.txt (26216 bytes) has been added to the download request. 
+File al-phant_e.txt (27019 bytes) has been added to the download request. 
+File al-pop.txt (63203 bytes) has been added to the download request. 
+File al-porto.txt (64657 bytes) has been added to the download request. 
+File al-premr.txt (53993 bytes) has been added to the download request. 
+File al-raze.txt (50631 bytes) has been added to the download request. 
+File al-rif.txt (61015 bytes) has been added to the download request. 
+File al-rotgi.txt (82538 bytes) has been added to the download request. 
+File al-sad.txt (39403 bytes) has been added to the download request. 
+File al-sdmm.txt (114586 bytes) has been added to the download request. 
+File al-slc.txt (82042 bytes) has been added to the download request. 
+File al-war!.txt (100086 bytes) has been added to the download request. 
+File al-what.txt (34164 bytes) has been added to the download request. 
+File al-year.txt (30992 bytes) has been added to the download request. 
+
+ 	
+38 files found.
+
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) e^d-text.txt
+----------------------------------------------------------------------------
+
+
+
+
+		
+
+__ _____ ______ ___/   ________ _____ _______ ____  _____ ____/_  __ ______
+ _/_    /_    //  /_ /\  __   /     /____  __/   /_/_   //   /  /\  / _   /___
+/  /   / /   /_\ \  /  \  /  / _   /_   / / /   /   /  /_\  \  /  \/  /  /_  /
+  /___/ ____/     \/.___\/  /  /_ / /  / /  \  /   /__/      \/.__ \___ / / /
+-----/\__\ /------/\|  //\__\_____\/___\ \_____\-------------/\|  ///___\/__\
+-pnk!               |__\                                       |__\
+
+------------------------------------------------------------------------------
+                                                                              
+                                                                             
+                                                                              
+
+
+File E^D-2M.TXT (32737 bytes) has been added to the download request. 
+File E^D-CF3.TXT (152736 bytes) has been added to the download request. 
+File E^D-CITW.TXT (28364 bytes) has been added to the download request. 
+File E^D-CYP.TXT (79051 bytes) has been added to the download request. 
+File E^D-FLAM.TXT (64890 bytes) has been added to the download request. 
+File E^D-HEAD.TXT (66709 bytes) has been added to the download request. 
+File E^D-HU.TXT (165911 bytes) has been added to the download request. 
+File E^D-III.TXT (14681 bytes) has been added to the download request. 
+File E^D-JOF.TXT (69369 bytes) has been added to the download request. 
+File E^D-NAME.TXT (51296 bytes) has been added to the download request. 
+File E^D-NMB.TXT (22605 bytes) has been added to the download request. 
+File E^D-PAL.TXT (65689 bytes) has been added to the download request. 
+File E^D-TD.TXT (142736 bytes) has been added to the download request. 
+File E^D-TDA.TXT (62736 bytes) has been added to the download request. 
+File E^D-ARMY.TXT (53915 bytes) has been added to the download request. 
+File E^D-BIG1.TXT (51157 bytes) has been added to the download request. 
+File E^D-K8!.TXT (90556 bytes) has been added to the download request. 
+File E^D-POSI.TXT (93274 bytes) has been added to the download request. 
+File E^D-THRI.TXT (100150 bytes) has been added to the download request. 
+File e^d-duh!.txt (9113 bytes) has been added to the download request. 
+File e^d-noas.txt (15829 bytes) has been added to the download request. 
+File e^d-tea2.txt (11197 bytes) has been added to the download request. 
+File e^D-TEAR.txt (17264 bytes) has been added to the download request. 
+File e^d-wocu.txt (14245 bytes) has been added to the download request. 
+File e^d.guide.txt (177962 bytes) has been added to the download request. 
+File e^d_sdn4.txt (107423 bytes) has been added to the download request. 
+File e^d-13th.txt (41707 bytes) has been added to the download request. 
+File e^d-25_l.txt (41999 bytes) has been added to the download request. 
+File E^D-4u.txt (152764 bytes) has been added to the download request. 
+File e^d-50pl.txt (48044 bytes) has been added to the download request. 
+File e^d-aflv.txt (38166 bytes) has been added to the download request. 
+File E^D-ALIV.txt (60614 bytes) has been added to the download request. 
+File e^d-argh.txt (66983 bytes) has been added to the download request. 
+File e^d-art1.txt (285763 bytes) has been added to the download request. 
+File e^d-art2.txt (253366 bytes) has been added to the download request. 
+File e^d-barc.txt (197764 bytes) has been added to the download request. 
+File e^d-bd.txt (36364 bytes) has been added to the download request. 
+File e^d-blc.txt (115916 bytes) has been added to the download request. 
+File e^d-chto.txt (31189 bytes) has been added to the download request. 
+File e^d-cr.txt (20543 bytes) has been added to the download request. 
+File e^d-dado.txt (29254 bytes) has been added to the download request. 
+File e^d-dang.txt (46337 bytes) has been added to the download request. 
+File E^D-DEZ.LHA.txt (35611 bytes) has been added to the download request. 
+File e^d-drif.txt (147764 bytes) has been added to the download request. 
+File e^d-end.lha.txt (34912 bytes) has been added to the download request. 
+File e^d-eros.txt (98626 bytes) has been added to the download request. 
+File e^d-etal.txt (19723 bytes) has been added to the download request. 
+File e^d-frkd.txt (52809 bytes) has been added to the download request. 
+File e^d-gay.txt (32763 bytes) has been added to the download request. 
+File e^d-getb.txt (96619 bytes) has been added to the download request. 
+File E^D-GURU.txt (109284 bytes) has been added to the download request. 
+File e^d-hard.txt (135881 bytes) has been added to the download request. 
+File e^d-hate.txt (52764 bytes) has been added to the download request. 
+File e^d-htgt.txt (24764 bytes) has been added to the download request. 
+File e^d-iiii.txt (54953 bytes) has been added to the download request. 
+File e^d-indy.txt (58643 bytes) has been added to the download request. 
+File e^d-k8_.txt (98357 bytes) has been added to the download request. 
+File e^d-king.txt (56765 bytes) has been added to the download request. 
+File e^d-l3o3.txt (21005 bytes) has been added to the download request. 
+File e^d-liv.txt (218725 bytes) has been added to the download request. 
+File e^d-mdst.txt (35238 bytes) has been added to the download request. 
+File e^d-mist.txt (26598 bytes) has been added to the download request. 
+File e^d-mjau.txt (274542 bytes) has been added to the download request. 
+File e^d-mst.txt (63073 bytes) has been added to the download request. 
+File e^d-muer.txt (31704 bytes) has been added to the download request. 
+File e^d-najs.txt (82745 bytes) has been added to the download request. 
+File e^d-new!.txt (319463 bytes) has been added to the download request. 
+File e^d-p9os.txt (33364 bytes) has been added to the download request. 
+File E^D-PREEEVIEEEEW.txt (49185 bytes) has been added to the download request. 
+File e^d-que.txt (42764 bytes) has been added to the download request. 
+File e^d-ra01.txt (85244 bytes) has been added to the download request. 
+File e^d-ra02.txt (53244 bytes) has been added to the download request. 
+File e^d-ra03.lha (27400 bytes) has been added to the download request. 
+File e^d-ra04.txt (53922 bytes) has been added to the download request. 
+File e^d-ra05.txt (71463 bytes) has been added to the download request. 
+File e^d-ra06.txt (71584 bytes) has been added to the download request. 
+File e^d-ra07.txt (55653 bytes) has been added to the download request. 
+File e^d-rcow.txt (85764 bytes) has been added to the download request. 
+File e^d-rip.txt (48501 bytes) has been added to the download request. 
+File e^d-rise.txt (56335 bytes) has been added to the download request. 
+File e^d-rrzz.txt (37671 bytes) has been added to the download request. 
+File e^d-rst.txt (47696 bytes) has been added to the download request. 
+File e^D-RTHS.txt (52408 bytes) has been added to the download request. 
+File e^D-ScGr.txt (76689 bytes) has been added to the download request. 
+File e^d-si!.txt (222975 bytes) has been added to the download request. 
+File e^d-slep.txt (159097 bytes) has been added to the download request. 
+File e^d-snow.txt (86388 bytes) has been added to the download request. 
+File e^d-step.txt (92764 bytes) has been added to the download request. 
+File e^d-styl.txt (158181 bytes) has been added to the download request. 
+File e^d-sux!.txt (96119 bytes) has been added to the download request. 
+File e^d-sux_.txt (99856 bytes) has been added to the download request. 
+File e^d-t!.txt (122782 bytes) has been added to the download request. 
+File e^d-t0!5.txt (147051 bytes) has been added to the download request. 
+File e^d-t0!6.txt (163837 bytes) has been added to the download request. 
+File e^d-t0!7.txt (171010 bytes) has been added to the download request. 
+File e^d-t0!8.txt (81387 bytes) has been added to the download request. 
+File e^d-t0!9.txt (78507 bytes) has been added to the download request. 
+File e^d-t0!a.txt (100274 bytes) has been added to the download request. 
+File e^d-t0!b.txt (128474 bytes) has been added to the download request. 
+File e^d-t0!c.txt (120168 bytes) has been added to the download request. 
+File e^d-t0!d.txt (120398 bytes) has been added to the download request. 
+File e^d-t0!e.txt (17764 bytes) has been added to the download request. 
+File e^d-t0!f.txt (145182 bytes) has been added to the download request. 
+File e^d-t0_5.txt (7 bytes) has been added to the download request. 
+File e^d-t0_a.txt (7 bytes) has been added to the download request. 
+File e^d-t0_d.txt (7 bytes) has been added to the download request. 
+File e^d-t0_e.txt (7 bytes) has been added to the download request. 
+File e^d-tejp.txt (71764 bytes) has been added to the download request. 
+File e^d-trib.txt (46946 bytes) has been added to the download request. 
+File e^d-twar.txt (36654 bytes) has been added to the download request. 
+File e^d-twnm.txt (53075 bytes) has been added to the download request. 
+File e^d-twwb.txt (114067 bytes) has been added to the download request. 
+File e^d-wcu!.txt (23239 bytes) has been added to the download request. 
+File e^d-xvnt.txt (96504 bytes) has been added to the download request. 
+File e^d-zz02.txt (51813 bytes) has been added to the download request. 
+File e^d-zz1.txt (40031 bytes) has been added to the download request. 
+File e^d-zzcc.txt (40325 bytes) has been added to the download request. 
+File E^D-ARMY.LHA (17309 bytes) has been added to the download request. 
+File E^D-BFG.TXT (60731 bytes) has been added to the download request. 
+File E^D-BKW.TXT (123374 bytes) has been added to the download request. 
+File E^D-BRDE.TXT (54263 bytes) has been added to the download request. 
+File E^D-COJ.TXT (201666 bytes) has been added to the download request. 
+File E^D-COJ2.LHA (44204 bytes) has been added to the download request. 
+File E^D-DEZ.LHA (32439 bytes) has been added to the download request. 
+File E^D-MVH.TXT (53373 bytes) has been added to the download request. 
+File E^D-NOCG.TXT (10975 bytes) has been added to the download request. 
+File E^D-PCE1.TXT (44206 bytes) has been added to the download request. 
+File E^D-SBOX.TXT (23151 bytes) has been added to the download request. 
+File E^D-SH2.TXT (63853 bytes) has been added to the download request. 
+File E^D-SLUT.TXT (4676 bytes) has been added to the download request. 
+File E^D-T0!.TXT (163370 bytes) has been added to the download request. 
+File E^D-TSFB.LHA (125577 bytes) has been added to the download request. 
+File e^D-tec.txt (43715 bytes) has been added to the download request. 
+
+
+132 files found.
+
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) p^a-text.txt
+----------------------------------------------------------------------------
+
+
+
+
+
+
+			
+
+
+__________  ______ _ ______  _______         ______ _ ______ ___     _____/
+       __/_/_    /   \_   / /      /_____  __\_   /   \_   /   /___ /    /_
+-pnk!  \    /   /    _/_ / /  _   /     /\/  _   /    _/_ /   /_____\   \
+        \  ____/_____\   \/   /  /     /  \  /  /_____\   \___\   /      \/
+________/___\         \  /_______\_____\________\      \_______  /-------/\
+                       \/
+
+
+
+
+
+        
+File p^a-1oo0.txt (35776 bytes) has been added to the download request. 
+File p^a-aov.txt (36267 bytes) has been added to the download request. 
+File p^a-boom.txt (68951 bytes) has been added to the download request. 
+File p^a-fuck.lha (45804 bytes) has been added to the download request. 
+File p^a-gal2.txt (49713 bytes) has been added to the download request. 
+File p^a-gal3.txt (49257 bytes) has been added to the download request. 
+File p^a-gal4.txt (52116 bytes) has been added to the download request. 
+File p^a-hevi.txt (39449 bytes) has been added to the download request. 
+File p^a-jnte.txt (21328 bytes) has been added to the download request. 
+File p^a-qty1.txt (55049 bytes) has been added to the download request. 
+File p^a-qty2.txt (70007 bytes) has been added to the download request. 
+File p^a-qty3.txt (110787 bytes) has been added to the download request. 
+File p^a-rr.txt (78623 bytes) has been added to the download request. 
+File p^a-scom.txt (94871 bytes) has been added to the download request. 
+File p^a-smth.txt (50312 bytes) has been added to the download request. 
+File P^A-1000.TXT (35319 bytes) has been added to the download request. 
+File P^A_GAL.TXT (48936 bytes) has been added to the download request. 
+File P^A-ATSU.TXT (35289 bytes) has been added to the download request. 
+File P^A-EGO!.TXT (34514 bytes) has been added to the download request. 
+File P^A-LOPL.TXT (112688 bytes) has been added to the download request. 
+File P^A-NUTS.TXT (36895 bytes) has been added to the download request. 
+File P^A-SPHA.TXT (66848 bytes) has been added to the download request. 
+File P^A-SUNB.TXT (81603 bytes) has been added to the download request. 
+File P^A-T023.TXT (51925 bytes) has been added to the download request. 
+File p^A-xmas.txt (34703 bytes) has been added to the download request. 
+File PA!-ART6.LHA (26983 bytes) has been added to the download request. 
+File pa-3bute.txt (28886 bytes) has been added to the download request. 
+File pa-ermaa.txt (31155 bytes) has been added to the download request. 
+File pa-nuker.txt (17839 bytes) has been added to the download request. 
+File pa-skaa.txt (53188 bytes) has been added to the download request. 
+File pA-JSA.txt (31929 bytes) has been added to the download request. 
+File pa-s5.txt (37857 bytes) has been added to the download request. 
+
+31 files found.
+
+
+
+----------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) -t-text.txt
+----------------------------------------------------------------------------
+
+                   
+                  ________      _____/            ______       _____ _______        
+_______ ____      \      /\    /    /_ ____ _____/_    /______/    /
+    .  /   /______/\    /  \  _\   \  /   /____   /   /      /    /
+-pnK!\/   /_____ /     /.___\/      \/   /______ /___/       \   /
+     /\___\       /\___\|  //-------/\___\-----------------------\__________    
+_________________/      |__\
+
+			     
+
+
+
+   
+File -T-50AND.TXT (127159 bytes) has been added to the download request. 
+File -T!-LFSQ.TXT (140527 bytes) has been added to the download request. 
+File -T-ACDMK.TXT (135974 bytes) has been added to the download request. 
+File -T-AP.TXT (72909 bytes) has been added to the download request. 
+File -T-ASCI2.TXT (87000 bytes) has been added to the download request. 
+File -T-ASCII.TXT (74889 bytes) has been added to the download request. 
+File -T-BLDN.TXT (188925 bytes) has been added to the download request. 
+File -T-CHGR.TXT (86173 bytes) has been added to the download request. 
+File -T-CIVM.TXT (41698 bytes) has been added to the download request. 
+File -T-CIVM2.TXT (42099 bytes) has been added to the download request. 
+File -T-CRIME.TXT (62831 bytes) has been added to the download request. 
+File -T-DOP6.TXT (54394 bytes) has been added to the download request. 
+File -T-DREAM.TXT (162747 bytes) has been added to the download request. 
+File -T-EXP.TXT (58607 bytes) has been added to the download request. 
+File -T-EXP2.TXT (122077 bytes) has been added to the download request. 
+File -T-FFJ.TXT (178690 bytes) has been added to the download request. 
+File -T-FLESH.TXT (138526 bytes) has been added to the download request. 
+File -T-GANGS.TXT (79630 bytes) has been added to the download request. 
+File -T-HERTC.TXT (181193 bytes) has been added to the download request. 
+File -T-HISP.TXT (69808 bytes) has been added to the download request. 
+File -T-IRIS.TXT (142122 bytes) has been added to the download request. 
+File -T-MFTB.TXT (130974 bytes) has been added to the download request. 
+File -T-MIND.TXT (62602 bytes) has been added to the download request. 
+File -T-MINI.TXT (35909 bytes) has been added to the download request. 
+File -T-MOTG.TXT (44552 bytes) has been added to the download request. 
+File -T-NOMAD.TXT (53694 bytes) has been added to the download request. 
+File -T-ONTOP.TXT (69029 bytes) has been added to the download request. 
+File -T-ORDER.TXT (176193 bytes) has been added to the download request. 
+File -T-PITN.TXT (71329 bytes) has been added to the download request. 
+File -T-PLSA2.TXT (85562 bytes) has been added to the download request. 
+File -T-PLSAG.TXT (84588 bytes) has been added to the download request. 
+File -T-POWER.TXT (61585 bytes) has been added to the download request. 
+File -T-QUARA.TXT (249913 bytes) has been added to the download request. 
+File -T-RAP.TXT (241038 bytes) has been added to the download request. 
+File -T-RAS!.TXT (37423 bytes) has been added to the download request. 
+File -T-SATC.TXT (113024 bytes) has been added to the download request. 
+File -T-SATC2.TXT (127479 bytes) has been added to the download request. 
+File -T-SATC3.TXT (128970 bytes) has been added to the download request. 
+File -T-SE1.TXT (143672 bytes) has been added to the download request. 
+File -T-SNK2D.TXT (78385 bytes) has been added to the download request. 
+File -T-T^.TXT (77855 bytes) has been added to the download request. 
+File -T-TANGO.TXT (69724 bytes) has been added to the download request. 
+File -T-TATF2.TXT (271279 bytes) has been added to the download request. 
+File -T-TATFD.TXT (166857 bytes) has been added to the download request. 
+File -T-THC.TXT (108448 bytes) has been added to the download request. 
+File -T-TING!.TXT (94740 bytes) has been added to the download request. 
+File -T-TOOMP.TXT (74835 bytes) has been added to the download request. 
+File -T-VISI2.TXT (91688 bytes) has been added to the download request. 
+File -T-WIST!.TXT (76766 bytes) has been added to the download request. 
+File -T-STINK.TXT (57449 bytes) has been added to the download request. 
+File -t-toch2.txt (56175 bytes) has been added to the download request. 
+File -t-50and.zip (17751 bytes) has been added to the download request. 
+File -T!-HTML.txt (113800 bytes) has been added to the download request. 
+File -t-psy.txt (172352 bytes) has been added to the download request. 
+File -t-tatf3.txt (59177 bytes) has been added to the download request. 				
+ 
+66 files found.
+
+
+
+
+
+[DAY o3%AMIGA%ELITE.]
+
+ 
+------------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) rse-a1200.nfo
+------------------------------------------------------------------------------
+
+
+
+ _______ ______  ______ ____/__/\     ____/       _____        ___     ______
+       / \_   /_/_    //   /  /  \   /   /____  __\_  /___\/__/ _/__ _/_    /
+ -pnk!/  _/_ /   /   /_\  \  /.___\ _\  \    /_/  _  /_   /\    \  /   /   /
+     /___\   \  /___/      \ \|  //\     \  / /   / / /  /  \     /   /___/
+     \    \  /-----/--------\ |__\-------/__\_\_____\/___\  /_____\-----------
+-----------\/-----------------------------------------------------------------                 
+
+
+				                    R E S I S T A N C E
+
+
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
+CED/EDITPLUS(Ctrl+O) dc-a1200.nfo
+------------------------------------------------------------------------------
+
+
+
+
+_____________ ____    ______                 ______ ___ _____________________
+          ___/   /\  / _   /\    ____      __\_   /   /
+-pnk!    /  /   /  \/  /  /  \  /   /__ /\/   _  /   /
+        /   \  /.___\___ /.___\/   /__ /  \   / /   /
+________\______\|  ///___\|  / \___\  /_________\___\ _______________________  
+                |__\      |__\ 
+
+___ ____    _______ _ ______  _ ______         _______           _______
+___/  _/___/      /   \_   / /  \_   /  ______/_     /___   /\  /      /____
+\     \   /  _   /    _/_ / /   _/_ /___\   /  /    /   /--/  \/  _   /_   /
+ \       /   /_ /     \   \/    \   \   /  /  _____/   /__/.___\  /_ / /  /
+_/_______\______\------\  /______\  _______\___\  /____\   |  /______\/___\__
+                        \/        \/                       |__\
+
+
+DIGITAL CORRUPTION
+
+A1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. a1200 rulez. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+				R E S P E C T S. 
+
+ ----------------------------------------------------------------------------
+ CORIOLAN(US). STÖRTEBECKER, KLAUS KINSKI. HAMLET. DON QUIXOTE & SANCHO PANZA
+ ----------------------------------------------------------------------------
+
+  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+THIS CONFERENCE WAS HELD BEETWEEN THE 29.03. - o1.o4.o4
+                                                                              
+                                                                             
+                                                                          
+                                                                              
+                                                                              
+                                                                              
+@BEGIN_FILE_ID.DIZ __________________________________________
+|                                          |
+|           HEAD! & MINDJIVE inc.          |
+|                                          |
+|                                          |
+|              SPITE & MALICE              |
+|                                          |
+|          "my japanese is better"         |
+|                                          |
+|              (PUNK! : 2004)          #23 |
+|__________________________________________|
+@END_FILE_ID.DIZ
+
+
+
+	         this is the end of the risky generation, mental mastrubation.
+Ctrl+S
+                                              ¡    fOR pLEASURE sINCE 1996
+>> ¡ -------------------------------------- - |. - ----------------------- -
+  .|  w  o  r  l  d    h e a d q u a t e r s  ||
+  ||     bad karma - phantasy - up rough      !| _
+  |!   divine stylers - dtr - ageema blues     | ;
+  |      aeroholics - black maiden - mvp       |   _
+  |                                            |   ;
+  7   g e r m a n  +  e u r o p e a n  h q's   |
+  :    lightforce - oldskool - rising sun      |
+  ¡   supplex - royal - soia - low profile     |
+_ |    drunken - 1oo% - true school - asl      | "...dON't pLAY uS cHEAP!"
+; |                                            !
+  |   amiga/ascii/graffiti/handheld consoles    ___.     ______.    drn\lp!
+  |    n64/snes/gb/gba/ngp/wsc archive/ngc     \\  !___  \     !__ _ _ ________
+  |    apple macintosh/pc audio-gfx apps/dd    \\  .__/--\\   ._   \ / ._     /
+  |     =c64/atari/speccy/sample soundbank     _\  ;/     \   !/    \  !/____/_
+  |                                            /___/     _____/     __ /    __\
+ _!   daydreaming on 5 telnet nodes. 24h/day.      `----'     `----'  `----' 
+\\;     . ______   ___ _ _ _________   _______                            ¡
+ \      !/  __ /___\_  \ /   _  __ /___\_    //   t h E   y A R d _______,|
+ _\    _/   \ /     _   /    /  \ /     /    /______________________\ ____|_
+ /_____);  ______   )  __    \ ______  /_  ___,_________________________\ !
+     ,_____\     `----'  `----\      `----'     theyard@graffiti.ag

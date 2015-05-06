@@ -1,0 +1,1500 @@
+ 
+  ...         _ _                                          _ _     ...
+ ::::          \\\ sTAGE 1 cOMPLEtED <> pAsSED tHRoUGH TY ///      ::::
+ :::_   .___.    \                                        /        _:::
+ :://-- |   |-----\  24/7 Static Cable - Daydream/*nix   /--------// ::
+ |. .___.  _:____ _  ___                                             _:
+ _ _|   |_ \_   // //  /____   __ _  cONSOLES/aSCII/aMIGA/gRAFFiti   \:
+ \\\_   _/__/  /___  _     /__||///  =C64/mACINTOSH/gAMES/aPPS____    |
+    |_  \_\        \ /____/   _      _____ _      _____     ./  _/    .
+ .   /_    \________\________\\    ._)  _ \\______\__  \____|   \_ _ _: _
+ :     \______\\t^/lp!        ____ |   _/     /     /   \  _|   _////__\\
+                             /   /___  \      \ __ \\  _/__\|   \     :/
+  > t h e  y a r d ' 05 < _ /   / __//__\______\\_\ /_____/ \    \    :
+ :     _                  //_____\\:     \      /___|   \_________\  _.
+-.----\\-----------------------|   |----- .-----------||-------- ----/:
+ | tHE iDEA oF sTYLE iS tHE kEYl___|tO aLL fORMs oF rOCKiNG - TY 9604 |_
+-@----------------------------._____.---------------------------------@
+
+[sof]
+
+                  i m p o r t a n t  i n f o m a t i o n !
+                  - +----------------------------------+ -
+
+          This colly is NOT drawn in OLDSKOOL! style its AMIGA STYLE!
+       If anyone further says that i'm doing "OS" i gonna kick his ass
+                        PRETTY BAD ! ( i am not kidding!! )
+
+        This colly can't NEVER EVER reach the REAL Oldskool attitude!
+     If you are too stupid to understand what i mean - its not my fault ...)
+                           You have been warned!
+
+                 Now enjoy this Amiga Ascii collection ...
+
+                            signed vOuck! / ASL
+
+
+
+
+
+
+
+
+
+
+
+
+
+      _                                    .        ____
+      / iNiTiALiZe dEViCe dRiVErs       _ /      ___(_ /______:_ _
+    _  _ ___________________________ _ _\/ ______:   oO       :
+     \ \)/                              /        |            |
+                                                 !  (__)      !
+        ascii console :         # ...            .            :
+                                                              .
+	enter text-mode ....... 640x256x8, 78 rows detected!  .
+
+	initalize workspace ... CygnusEd Professional V4.20   .
+
+	loading vouck.o ....... Ascii EngineV0.8.1Beta2PRE2 sucessful loaded
+
+	loading maps .......... A whole bunch of so called Ascii Crap
+
+   ### WARNING - nOt eNOUGh mEMORy ### 1024 MB required for this colly! :)
+                                                 .
+    _ _ _________________________________________|            !  __ _
+                                                _|____________(/(_//
+                                                 |
+                                                 !
+                                                 .                                                        .
+
+
+
+
+
+
+
+
+
+	  - - ---+ HEAVY ERROR ENGINE FAULT IN MODULE VOUCK.O +-- - -
+
+	     detected Windows XP Installation.... hey kid grab ya
+
+    ULTRA-SUPER-DOOPER-HIGHEND-XL-ULTRAEXPENSIVE GRAPHIC-ADAPTER OUT,
+    REMOVE YOU DIRECTX DRIVERS, REMOVE YOUR SO-CALLED MOUSESPORT ATTITUDE
+          JUST SIT DOWN AND WATCH THIS !  (and leave the mouse unused!!! :)
+
+                  FOR MOST COMPATIBILITY USE AN AMIGA WITH CED
+ ALL RIGHTS RESERVED. VOUCK IS A REGISTRED TRADEMARK OF AEROSOL ENTERPRISES
+                                         _
+           - - - ---------------------+_ /-------------------- - - -
+                                      i//
+                                      /
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          .: Guess who's back ? :.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              .: Its ME! :.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       /\
+                                      /  \ ______
+                                     /    \     /
+    ____________                    /      \    \ ______ __ __
+    \          / __________ ____   /        \    \     //_/ //
+     \__      / / _ _ _   //    \ /________  \    .    \   ____________ __
+       /     / /      /  //  __  \\       /___\_  _____ \  \_       /// //
+      /      \/      /  //   \/   \_     /     \_/  _//_____/      /___
+      \       \     .  /     /     /    /     / \   \/     /      /  _/_
+       \           .  /           /     \     \  \         \    __      \_
+        \            /\__________/\___________/___\        /    /        /
+         \      ____//_//_/ .                      \______/\___/        /
+          \     // \_ __  __  __ __   _             \    \    \\_______/
+           \___//___//_/ /_/ //  /   /               \    \    \ H7/dS!
+                         .                            \    \    \_
+                        /        %  v o u c k  %       \    \    /
+                       /_______________________________/     \  /__
+                                                       \_____/ //  \_ __
+                                                           \__//____//_/
+
+
+
+
+
+
+
+
+                                      .
+
+                        _ _________ _ : _ _________ _
+                       _)\\           :           //(_
+
+                        .: i aM tHe m0THERvOUCKER! oF...
+                     _ _ _____________ ______________ _ _
+                       )             ( )              (
+                                      :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .
+
+ :
+ _________ _________ ____________  ____  __________  /____________  ________ __
+ \        \\_       \          _/        \_        \/     _       \          |/
+ .\        \ \       \\        \__ _____  /        /      \       \\         :
+ | \        \_\       \\        _/      \/       //        \       \\       /|
+ |  \\        _        \\       \       \\        \         \       /    _   |
+ |   \\       \\        \        \       \\        \_        \     / -rtx/   |
+ |    \________\\ _______\________\_______|\ _______/_____________/     /art |
+ |               \/                       ' \/                               |
+ |                        ______________      ____________\ _____________    |
+ |                        \            /     /       _     \            /    |
+ |   A .E .R .O .S .O .L   \       ___/_____/        /      \          /     :
+ |  ---- ----- ----- ----  _\_________     /        /        \\       /________
+_|                         \         /     \\      /         /\\     //       /
+\|                          \      _/       \\    /         /  \   _//       /
+ :__________________________ \ ____\_________\_____________/ __ \  \________/
+  \                           \/                                 \/          :
+                                                                             .
+                                                                             .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   .:  w e  p r o u d l y  p r e s e n t :.
+                    .: i n  t h e  y e a r  of  2 0 0 5 :.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      /\ _     _                           _  .  _          _     _ /\
+   _/\\//(__ __)\_______________/\  _______(_   _)_________/(__ __)\\//\_
+  .)  \/   (_)                    \/          :               (_)   \/  (.
+_.|                                           :                          |._
+ ||_                                        ..:..                       _||
+ _|/   __ _                               .:' : `:.              _ __   \|_
+ \|   _\ _______           __./\     _____::  :  ::    ______ __    /_   |/
+  \   ___\     (________ _/  |  \___/  _ (_:  . _::__/\\    // _)_____   /
+  .\ _)  _\     _   ___//    |        l/  /__    ::    \_  //  \     (_ /.
+ .| \\_   \\_   \  __/       |    _  __._/  (___ ::  _  /\//    \  _ _// |.
+_||  \/____\     \ \  _      .   _/ _\ :       / ::  \_//\/      \/ _\/  ||_
+__|         \____/  \/    _______\_____|     _/  ::   \       _____/     |__
+\     - --------/_________\------------|_____\.  ::____\______\----- -     /
+ \___                                     ::     ::                    ___/
+ _  /                                     ::  :  ::                    \  _
+ (_//_                                    `::.:.::'                   _\\_)
+  | ¯     __ _    n  E  u  R  O  t  i  C     `:'    aBHO\-T!  _ __     ¯ |
+  |_  /\ _)                                   :                  (_ /\  _|
+   /_//\\\ /\___  ______________  /\_________ : ___________  __/\ ///\\_\
+   ¯  \/ \/     )/              \/         (  .  )         \(    \/ \/  ¯
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                :   :  : :  :
+                              .  : : :  :  : .:.
+                   ,...:.    . :.::::::::::::.:'.     .:....
+                ,..:   :....  . :::::::::::::::.  .... :   :...
+                :  :   :      . :::_      _:::: .      :   :  :
+           __ __________________ :_\¯¯¯¯¯¯/_: __________________ __
+           \((¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯/__(  00    )__\¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯))/
+                               ¯¯:   /      :¯¯
+        f i r s t  i  h a v e    :  (__     :  t e l l  y o u . . .
+                                 :  _____   :
+         _ ______________________:  |_|_|   :______________________ _
+           ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ :.      .::' ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯
+                :..:   :.......  °:.....::'   .........:   :..:
+                  `:...:'                             `:...:'
+
+
+
+
+
+
+
+
+
+
+
+             _______   _______.           _______    _______.
+           ._\_    /___\_    _|__ ________\_    /____\     _|__
+      ____ |  /  _/__   /_ _|   /   ___/       /.   _|\_ _|   / _____
+_:____\    |____|   /  / /______\  __/____/_____|  |   /______\     /_____:__
+ !              |___\____\÷e÷ |____|           \_______\                  !
+ .                                                                        .
+      Ah whatta great feeling when doing that outdated ascii crap
+      while stoooopid kids download trashy ego-shooters at Steam-Network
+      or wasting her last money to Blizzard Entertainment for having 
+      never-ending fun (and costs) ...
+
+      Nothing against 3D Games, though. I just hate that "buy this XXX"
+      or "Register your Software and apply the 25th patch" attitude ...
+      once upon a time i'd buy a game and played it until the end.
+
+      Would be a great idea for ascii! This ascii collection runs
+      the Ascii EngineV0.8.1Beta2PRE2 ... Update to V0.9.2Alpha will
+      be released soon - just 190MB to download). the changes info
+      might contain * "minor bugfixes" ... haha. Not funny!
+
+      Its not just the complexity of modern games, its the business
+      "post-shopping-frustation" strategy of the managment.
+
+      The consumer is the target. Buy it, patch it, play it, buy
+      (download) the next game. No one in the industry wants your
+      luck because happy people do not consume!
+
+      Godamn i am feeling so poor when using my old nokia 3210 mobile
+      without digicam - colour-display and mp3 player. I should waste
+      my money for having the latest edition of the forthcoming Sony-
+      Ericson XL9999-08/15 - somewhen is it sureley a must to watch porn
+      paytv via satellite while driving in the car. Then i can finally 
+      wank my penis at 220km/h beneath my ass. haha.
+
+      Thats Mobile Wanking! Whatta hell... we dont life, we just consume.
+
+      If you think we dont need ascii...i just answer we dont need alot
+      of things, though we have it, too!
+
+      2All: Release some collys! If you are to lazy - teach your children
+      how to make ascii.  Its anyway cheaper than downloading awful
+      mobile-logos and ringtones from jamba or mload!  :)
+
+      remember it! greets to darkus !!!!!!  ......:.      ......:.
+                                            :     :.......:     :
+                                            :     :       :     :
+      vOuck / dft / phd / asl       .:......:     :   ,   :     :.......:.
+ .                                   :      :.....: ,::,  :.....:       :
+_:___________________________________:       _:___ ,::::, ______:_      :_
+ !                                   :        :  ,:::::::,      :       :
+                                    .:........: ,::::::,::     .:.......:.
+                                     :         ,:::::::: ::     :       :
+.                                       _ ___ ,::::::::.::: ___ _ .
+                                           (  ::::o0:::::::  )
+                                              ':::-:::::::'
+                                               '::::::::'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           .: dON'T PUSH ME, CAUSE i'M CLOSE TO THE EDGE.
+                                   i'M TRYING NOT TO LOOSE MY HEAD :.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 .    .     .
+                             .                  .
+                          .      .............     .
+                               ,::::   ::::::::.
+                        .    ,::::::   :::::::::     .
+                             :::::::   :::::::::
+                       .     :::::::   :::::::::    .
+                             :::::::   :::::::::
+  _  - -------------------------------------------------------------- - _
+  /  Question of the week :  Are dots more stylish than regular ascii ? \                                                                          Answer : Depends HOW the artist makes use of it !
+
+                                              xcz ^ sos (ascii gazette)
+     - ----------------- - - -------------------------------------- - -
+                       .               :::::::::
+                         .           ,:::::::::'
+                                    ,::::::::'
+                            .      :::::::::'
+                                 . :::::::'
+                                   :::::::
+                                   .......
+                                   :::::::
+                                   :::::::
+                                      :
+                                      .
+                                      .
+                                   _ \ / _
+                                  -/--+--\-
+                                    )/ \(
+                                      . .
+                                   .
+                                     .:.
+
+                          .: pRECACHiNg tEXtURes :.
+                                pLEASe  wAit!
+                                     .:.
+                                      :
+                                      .
+                                      .
+
+                                      .
+
+
+                                      .
+                                      .
+
+                                      .
+
+                                      :
+                                 . .:::::. .
+          ____    ______________   ________   ______      _______
+       ___\__/____\    __      /___\_     /___\  __/_____ \     /_______
+_:_ __ \         /     /      /     /    / \     /      /      /       /_ _:.
+ :)) _  \       /     /      /     /    /_     _/      /_     /\      /_(((:
+ |   /_______________/      /____________\ _____________\ _____________\   |
+ :                  /      /_.vK                                           !
+ |           _ ___ /________\    -+ i n d e x +-                           .
+ !                /                                                        .
+ .                                                                         i
+ |  .:  r e q u e s t s :.                                                 |
+ |      - +---------+ -                                                    |
+ |                                                                         |
+ !   1  w e b p i g e 0            +   w e b p i g e 0                     !
+ !   2  n u p !                    +   d u a l c r e w s h i n i n g       |
+ i   3  n u p !                    +   n u p !                             |
+ |   4  a b h o r r e n c e        +   d a m o n e s                       :
+ !
+ .   .: l y r i c  p a r t  o n e :.                                       i
+ .      - +--------------------+-                                          |
+ .                                                                         |
+     -  D E R 'F R E U N D E S K R E I S' ?                                |
+ |                                                                         |
+ X   5  a b h o r r e n c e        +   n o s h a m e                       |
+ |   6  b a r i u m                +   b a r i u m                         :
+ |   7  z a c k / t h e a l t a r  +   z a c k                             :
+ :                                                                         .
+ :                                                                         |
+ !   .: l y r i c  p a r t  t w o  :.                                      |
+ !      - +-------------------+ -                                          |
+ .                                                                         |
+ .   -  t h e  m e s s a ge        +   g r a n d m a s t e r f l a s h     !
+ :                                                                         i
+ |   8  z a c k / t h e a l t a r  +   a d è h a d è                       |
+ |   9  z a c k / t h e a l t a r  +   t h e a l t a r                     |
+ :  10  d i p s w i t c h          +   b l a c k m a i d e n               |
+ .  11  r o t o x                  +   a r t                               |
+    12  s l a p s h o t            +   t h e j u n c t i o n               :
+ .  13  s l a p s h o t            +   c u b o n                           |
+ .  14  p s                        +   e n o u g h r e c o r d s           <
+ <  15  p s                        +   m i n i m a l a r t i f a c t       |
+ |                                ...                                      |
+ |                              .:::::.                                    !
+ |                            _!!!!!!!!!_                                  :
+ |_                           )         (                                 _:
+.!/__________________________ \__(0 0)__/ ________________________________\:..
+ :¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ _ _| ___ |_  ___¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯i
+                              \\| \_/ |///
+                                \      \
+                                 \      \
+                       _:__ _____ X      \
+                        :        ))\      \ _ _____ _:_
+                        .          |\     |\((       :
+                                   |      |          .
+                        pRECACHiNg |      |
+                                   |.     | fiNiSHEd!
+        _ ____          :          ||     |
+             /__________|__________|______|          . ________ _
+                        |          |)     |________ _|_\
+                        !          !                 |
+                        .                            .
+                                                     .
+                        |                           _|
+                     _ _! _ _                       \|
+                     ((//\\))                        \0
+                       /..\                           \
+                    _ /____\  _                        \
+                    \)\_____\(/                        |\
+           .            <                              |
+          .             |                              !
+           .            |                              .
+         _ :            |                              .
+         ):             |                             _|_______ /_
+        /   _           !                              !      //
+       /    \ _________ __        __ _____ __ ________ ______ /
+ :::: /  00  \\   ____ \\(__ _____\((    / )// __    //     (/_____ __ :::::
+ ::: /        \    /       /     /      /      /____/_      /      \\( :::::
+ :' /   (_)   .\  /       /     /      /_     /      /      \         \ ::::
+ : /     _     \\________/\_____________\ ___________\______|\_________\ _ :
+  /______________\ _                                   __           .vk^\asl
+ /                \    __                              )//
+                       )//  p.a.r.a.n.o.i.a  r.u.l.e.z
+                                                       .
+               c.a.u.s.e  y.o.u  n.e.v.e.r  f.e.e.l l.a.l.o.n.e
+                        .                              !
+                        i                              |
+                        <                              |
+                        |                              |
+                        |                              |
+                        |:                             |
+                        |.             __              |
+                       _|__            |//             |
+               .:__ _ /___/\ __ _      /               |
+                :  \\)\___\// //(..                    :
+                        |        :                     |
+                        |                              |
+                        |                              :
+                        |                              |
+                        :                              |
+                        |                              |
+                        |                              |
+                        |                             i|
+                        |                             <|
+                        |                             ||
+         .:_______:.    '      _  _ ___                |
+  .:______<       >_______:.    \ \)) /                °              _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : w e b p i g e 0            |
+   |   1  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : w e b p i g e  0   _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+
+                     .  .              .  .
+                    .  ..................  .
+                      :::          :::::::    .:......:.
+          ___.        :::          :::::::   _ >      < _
+         _) /________ :::          :::::::   < <  o0  > >
+_!______   / __    _/____     _____    _______\|   .  !/____     ______
+ \   ___\ /  /(    \  __/___ ( ___/_ __\____  \.      /( __/_____\  __/___
+ _\   )/ /  /     / __/    (   \    \)    |/   .         /        __/    /
+ /    /    /_____/  (/          \     _   /____:      : /|        (/    /_
+/____/    /.vK^asl_________/)_________\____\   |      |_______/)_________\
+    /____/            ...           ......    _!......|_
+                      ::: webpige 0 ::::::     |      !
+                      :::           ::::::
+                    . !::...........:::::: .
+                     . :::::::::::::::::' .
+                      .                 .
+
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : d u a l c r e w shining    |
+   |   2  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : n u p !            _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+                   ______ _      _____   ________ ______
+            _______\_   ((_ ____/    /___\__    (/     /      ____:_
+            \     ( /     / \  /    /      /    /     /______ )   :
+      _: ___       /     /    /    /_     /   _/     /|      /_   :
+       :    )___________//__________\________( )______________\   :
+       :    __ ________   ______ ___ ______  _______   _______    :
+       :    )// __    /___\___  )) / \  __/__\   ___\ / ___  /___ _
+       :        /____/_     /     /  ___/   (_\   )/ /  /(  /
+      _:__     /      /    /_____/_  (/      /    /    /   /  ___ _
+       : )____________\______\    /_________//___/    /______(
+       :                                        /____/            :
+     ____      ______       ____   ___________ ____   __________ _____
+    _\ _/______\    /___ __ \_  )__\   __    /_\_  )__\  __    /_( __/____
+    ) \___    /    //   \\(__     /    |/     /      /   |/     /   \    /_
+   /    /    /_    /       /     /_    /     /      /_   /     /    |\    \
+  /___________\___/       /_______\___/     /________\__/     /\___________\
+       .         /_______/.vK^asl    /____ /_          /____ /_
+       :                                  /                 /     :
+      _:____ _    +- d U a L C R e W s H i N i N G -+-  _  _______:_
+       !                                                          !
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : n u p !                    |
+   |   3  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : n u p !            _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+
+          ___ _____________ _ _       _____ _ ___________ _ ___
+      _|__\  )\    _____   \\(/_______\   //(_\    _    //((  /__|_
+       |       /    \/       / \     /       /     \)     /      |
+       |      /     /       /       /       /_      \____/       |.vK^asl
+      -|----'/_____/       _\\_______________\_______\   `-------l-
+                  /_______/
+
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : d a m o n e s              |
+   |   4  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : a b h o r r e n c e_|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+
+
+                         _
+        _:____________ /\\ 0 o .
+         |           //__)
+         !
+       ______  ______ ____________ __ _______  ________ _______  ____
+   ____\_   \ _(__  /_  ____ ____ \\(__  __  \/  ___  (_\ ____/__\ _/______
+  _\  ( /    /   /    \   \/   \/     /  /   /   \/    / ___/   (_\___    /
+  /    /    /   /      \__/    /     /  /   /_   /    /  (/      /   /   /_
+ /__________\___________\/____/     /________\__/    /_ ________/_________\
+         .                   /_____/           /______\.vK^asl
+         |           _
+        _|___________\       -  --+ dAMonES +-- -
+        \|
+
+
+
+
+
+  _ _______ _
+  \))
+
+                       DER 'FREUNDESKREIS' ?
+
+            Jaja dein Freundeskreis macht mit dir jeden Scheiss
+                  und macht dich zu oft auf Drogen heiss ?
+
+  Du kippst dir täglich mit denen 'ne Ladung Pillen und Pappen und Coca rein
+            und danach kiffst 'n Heck Weed um wieder klar zu sein ?
+
+         Meist bist du dann zu Harte um die Realität zu ckecken und
+               wartest nur noch drauf endlich zu verrecken.
+
+            ... und irgendwann sagt dir dein Freundeskreis :
+       'Ey Mann, weisste was: DU GEHÖRST HIER EINFACH NICHT MEHR REIN!'
+
+                                             lyric by vOuck! (2005)
+
+
+                                                            _ ______ __
+                                                                     (/
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : n o s h a m e              |
+   |   5  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : a b h o r r e n c e_|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+
+                                                        .
+                                                           .
+                                          ::::::::::::::::
+      .                                   ::::::::::::  :: .        .
+     _|____________ _ ___________ _  ___________ _ '::  :: _ _______|_
+   _ _|)             _\  ___    //( /    ____  //(_ ::  ::          |
+   ((/|              /    \/       /       /      / ::  ::          |_ _
+      |             /     /       /       /      /  ::::::          |\))
+      !            /_____/       /       /      /  _ ______ _       |
+      .                 /_____________________ /___\))              |
+    _ ____         ______         _____ ______________ __  ______   !
+     \\ _/______ __\    /___ __ __\__ /____  ___ ____ \\(__\ ___/__ __
+     __\_______ \\(    //   \\(_    /     /   \/   \/     /   /    \\(_
+     \       /    \    /       /   /     /    /    /     / __/        /
+    _ \     /      \__/       /   /     /____/____/     / (/          \
+    /______________( /_______//__________\.vK^asl/_____/\______________\
+      :                                                             |
+      |             -+ n O S H A M e +-   ................          :
+     _|_____________ _ __________________ :::::::::::   :: _ _______|_
+      |                                   :::::::::::   ::          |
+                                        . ::::::::::::::::
+                                         . .
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : b a r i u m                |
+   |   6  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : b a r i u m        _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+
+
+         .   .
+  .    .       .
+ _|_ ___ !!!!! ____ __ _
+ _|//    :::::    (( //
+ /!      :::::    |                          ___
+   _____ °::::    ! ______     ______ ___ __(__/___      _____ _____________
+  /    //___ __ ____(__  /(_ __\___  )) / \       /_____/    / \ ___ ___   /
+ /     /    \\(_      /    / \   /     /         / \   /    /    \/  \/   /
+_\    /|       /     /    /     /_____/         /_    /    /_    /   /   /
+/_____________/\_________/\_______\.vK^asl_______\__________\___/   /   /
+  .      .....    _                                            /___/   /_
+ _|_____ ::::: ___( -+ t h e b a r i u m s t r i k e s b a c k +- /_____\
+  /    . iiiii .
+        .    .
+
+
+
+
+
+
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : z a c k                    |
+   |   7  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : z a c k            _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+
+              _ /______________ /_
+             `¯/ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯/ ¯'
+              /               /
+  _ ___ _ _________ __      _______    __ _________ ______
+      ((//         \\( _____\__   /_ __)// __     / \    /_______
+            /        / \      /     \\(     /____/_      /      /
+           /        / _      /       _     /      /_     \     /  _ _
+          /___________\______________\ ____________\_____|\_______\)).vK^asl
+        _
+        \               /    .: z A C k :.
+     _ /______________ /_
+    `¯/ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯/ ¯'
+
+
+
+
+
+
+
+
+
+              ...........
+       ......:           :            .
+      :      :   ( 00 )  :         . _  _ .
+ __ __:_____ : _   ( ) _ : ___ ___ __)/\(__ ___ ____________________________ __
+\\_)) :      : <_______> .    ))  \) /__\ (/  ((                           ((_//
+  !   `......:           :           ¯  ¯                                    !
+  .          `...........'                                                   .
+
+
+             THE MESSAGE -/- GRANDMASTER FLASH                               i
+          ¯ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ ¯                          .
+
+  .          Broken glass everywhere                                         :
+             People pissing on the stairs, you know they just don't care
+             I can't take the smell, I can't take the noise                  .
+  .          Got no money to move out, I guess I got no choice
+             Rats in the front room, roaches in the back
+             Junkie's in the alley with a baseball bat
+             I tried to get away, but I couldn't get far
+             Cause the man with the tow-truck repossessed my car
+
+             Don't push me, cause I'm close to the edge
+             I'm trying not to loose my head
+             It's like a jungle sometimes, it makes me wonder
+             How I keep from going under
+
+             Standing on the front stoop, hangin' out the window
+             Watching all the cars go by, roaring as the breezes blow
+             Crazy lady, livin' in a bag
+             Eating out of garbage piles, used to be a fag-hag
+             Search and test a tango, skips the life and then go
+             To search a prince to see the last of senses
+             Down at the peepshow, watching all the creeps
+             So she can tell the stories to the girls back home
+             She went to the city and got so so so ditty
+             She had to get a pimp, she couldn't make it on her own
+
+             It's like a jungle sometimes, it makes me wonder
+             How I keep from goin' under
+
+             My brother's doing fast on my mother's T.V.
+             Says she watches to much, is just not healthy
+             All my children in the daytime, Dallas at night
+             Can't even see the game or the Sugar Ray fight
+             Bill collectors they ring my phone
+             And scare my wife when I'm not home
+             Got a bum education, double-digit inflation
+             Can't take the train to the job, there's a strike at the station
+             Me on King Kong standin' on my back
+             Can't stop to turn around, broke my sacroiliac
+             Midrange, migrained, cancered membrane
+             Sometimes I think I'm going insane, I swear I might hijack a plane!
+
+             My son said daddy I don't wanna go to school
+             Cause the teacher's a jerk, he must think I'm a fool
+             And all the kids smoke reefer, I think it'd be cheaper
+             If I just got a job, learned to be a street sweeper
+             I dance to the beat, shuffle my feet
+             Wear a shirt and tie and run with the creeps
+             Cause it's all about money, ain't a damn thing funny
+             You got to have a con in this land of milk and honey
+             They push that girl in front of a train
+             Took her to a doctor, sowed the arm on again
+             Stabbed that man, right in his heart
+             Gave him a transplant before a brand new start
+             I can't walk through the park, cause it's crazy after the dark
+             Keep my hand on the gun, cause they got me on the run
+             I feel like an outlaw, broke my last fast jaw
+             Hear them say you want some more, livin' on a seasaw
+
+             A child was born, wih no state of mind
+             Blind to the ways of mankind
+             Got a smile on you with these burning tooth
+             Cause only god knows what you go through
+             You grow in the ghetto, living second rate
+             And your eyes will sing a song of deep hate
+             The places you play and where you stay
+             Looks like one great big alley way
+             You'll admire all the numberbook takers
+             Dogpitchers, pushers and the big money makers
+             Driving big cars, spending twenties and tens
+             And you wanna grow up to be just like them
+             Smuygglers, scrambles, burglars, gamblers
+             Pickpockets, peddlers and even pan-handlers
+             You say I'm cool, I'm no fool
+             But then you wind up dropping out of highschool
+             Now you're unemployed, all null 'n' void
+             Walking around like you're pretty boy Floyd
+             Turned stickup kid, look what you done did
+             Got send up for a eight year bid
+             Now your man is took and you're a Maytag
+             Spend the next two years as an undercover fag
+             Being used and abused, and served like hell
+             Till one day you was find hung dead in a cell
+             It was plain to see that your life was lost
+             You was cold and your body swung back and forth
+             But now your eyes sing the sad sad song
+             Of how you lived so fast and died so young
+          _                                               _
+          /____________________ _ ________________________\
+
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : a d è h a d è              |
+   |   8  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : z a c k            _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+    .
+          ......:.
+ ...:.....:'    :
+    :           :       _ __                                        _ __
+   -+-          :       \\__)                                       \\__)
+    : ____      ____  _   ____    ______         ____      ___ __    ____
+ _____\_  )__ __\_  \(/__( __/_ __\    /__ __ ___\_  )__ __\_ \\(___( __/___
+ \     /    //   /_  /  ___/   \\(    //  \\(_\   /    //   /_   \ ___/    /
+ _\   /    //   /_)   _ (/       \    /      /   /    /_   /_)     (/     /_
+ /________ /__________\___________\__/      /__________\___________________\
+    .     /__ _                     /______/.vK^asl
+    : _ _____)) .: a d è h a d è :.
+    :           .
+  ..:......    -+-
+    :    `:.....:
+    .           :
+
+
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : t h e a l t a r            |
+   |   9  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : z a c k            _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+
+               .                                           .
+              _| __________________________________________|_
+           _i__|(                .                         |__|_
+            |  |    ____________ |_________    ______      |  |
+            |  |      (          |         ) -(------'     |  |
+            !  !                               ¯¯¯¯¯¯¯ ¯   !  !       _
+    _      _____    _ _____   ____            _____        _______ __ /
+    \ _____\__  )___))\   /___\  _)__     ____\__  )___ ___\___  /( /
+      \      /     /     /   /   ___/_____\     /     / \    /     /
+      _\    /     /_    /   /_    /      /_    /     /_     /_____/
+      /____________\_________\____________\___________\_______\.vK^asl
+               |                                           |
+       ________|_______ __ .: t H e  a L T A r :. __ ______|________
+      (        |      ((_/                        \_))     |       _)
+              _|__________________________________________)|_
+               |                                           |
+
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : b l a c k m a i d e n      |
+   |  10  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : d i p s w i t c h  _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+          _:______________ __ ____ _
+           |              ))/(
+           !               /
+        _______       ______         ____      ___________ ______
+       _\     //___ __\    /__ __ ___\__ )_____\  ___    / \    /_______
+       /      /    \\(    /   \\(_     /      /    /____/_      /      /
+    _  \     /|      \   /       /_   /      /_   /      /_     \     /  _
+    /________________/____________\___________\___________\_____|\_______\
+  __ _________         ____      ____        ______    _____    _______ __
+  )// ___    (_____ ___\__ )__ __\___)___ ___\_   /_ _( ___/____\  ___ \\(_
+ /    \/  ___     /      /   //         //    /_   // ___/     /   \/     (
+/_____/   \/     /      /   /_         /_    /_)  /_  (/      /____/      /
+     /____/     //___________\__________\__________\___________\  (______/
+         /_____/.vK^asl
+           .            - + b L A C k m A i D e N + -
+          _|_/
+           !
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : a r t                      |
+   |  11  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : r o t o x          _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+
+
+                        _____ __    _________ _____
+                    ____\__  \\(_ __\___    / \   /___ ___
+            :      /      /     //    /    /    _____//   \      :
+          - +---- /      /     /     /____/     /          \ ----+ -
+            :    \\____________\_______\.vK^asl____________//    :
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : t h e j u n c t i o n      |
+   |  12  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : s l a p s h o t    _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+
+   .                ______      _____          ________
+   |             _ _\    /____  \    \_____ __ ) _____/__  _              i
+ --|-------------)/__   _____/___   __     \\(   ___/    \\(--------------|--
+   !               /    /       /    \)          (/      /__ __           !
+   :              /___________________\     ______________\_)) )          .
+   :                                /______/                              :
+   :                 _ ___                           ___ _                .
+   !                     (__ t.h.e.j.u.n.c.t.i.o.n __)                    .
+   .                                                                      !
+   .             - -) c.e.n.t.e.r. .of e.x.c.e.l.l.e.n.c.e (- -           .
+      ______    _____ _________ _______ _____        ____           __________
+_____ /    /____\   /_\ ___   /_\  ___/_\   /_ ____ _\___)_ ________\ ___    /
+    (/    /    /        \/        /       ___//   / \     / \   __    \/    /_
+    /    /______________/    __________    /     ____________   /     /______\
+    ______\.vK^asl     /_____\         \________/           /________/    .
+___/                               .  .  .                                :
+   .                             . _ ___ _ .                              i
+   i                               //__/\\                                |
+ --|------------------------------- \__\/ --------------------------------|--
+                                 .        .                               i
+                                    .  .
+
+
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : c u b o n                  |
+   |  13  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : s l a p s h o t    _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+           :                              :
+         .( ).                          .( ).
+           :          _:__________________|_
+          _|___________|_                 |
+           !           |                  !
+      __ __________    !  ____ __  _______     ___________ ____________
+   __\\( ____     /______ /   \\(_ \     /_____\    ___  / \   ____   /___ /_
+   \        /____/_\    (/       /      /_    /_    /           \/        /
+  _ \      /      \     /        __    /_)     \   /     _______/        /_
+  /______________________________\(______________________\.vK^asl_________\
+           .           .                  .
+           i           i  .: c U B o N :. |
+          _|___________|_                 |
+           |          _|__________________|_
+           |           |                  |
+         .( ).                          .( ).
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : e n o u g h r e c o r d s  |
+   |  14  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : p s                _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+
+
+          _____    _________ __ __________       _______ ____
+     ____( ___/____\   ____ \\(_\  ___   /______ /     /( __/_____
+     \   ___/     /     \/     /    /   / \    (/     /    \     /_
+     _\  (/      /      /     /    /   /_      /     /_    |\     \
+     /_________________/     /\_________\_____________\ ___________\
+                      /_____/.vK^asl                           ....
+     ______   ____     _____    ______   _______   _____\  ::::!  :::
+     \     ' (----'   (_______ (______)  \      ' (______\ i::::....
+              ¯¯¯¯¯¯¯                                            ::::
+      -+ ENOUGH RECORDS - WE RECORD AND YOU LISTEN +- :::: i::i  ::::
+                                                      :::: ::::..:::'
+
+
+
+
+
+         .:_______:.           _  _ ___
+  .:______<       >_______:.    \ \)) /                               _ ___ _
+__ <      >_      <       >  _ _____ /________________________ __ ________ )))
+ (_| (o0) |/  00  | _     |__)))    /                         \\((        \|¯
+   |      /       | ( oO )|        /  n a m e : m i n i m a l a r t i f a ct
+   |  15  |   ()  |       :       /                                        :
+   |      |    .  |  (_)  |_     .    d o n e f o r  : p s                _|_
+__/|      |      _|_      |/______________________________________________\ /
+  .`------!       |/  !   |¯                                              ¯/
+         .`-------:       |                                               .
+                 .`-------'.
+
+
+                               .....:::::......
+                             _:                :_
+      .:...................:.\:      0 0       :/.:...................:.
+       :                   :  :       .        :  :                   :
+       :                      `................'                      :
+_ ______________   ___   ________ _  ___   _____________ __ ____ __ _____
+__  ____ ____  /_ _\__)__\  ____ \(_ \__)__\  ____ ____ \\( \__ \\( \   /
+ /   \/   \/    / \     /    \/    /      /    \/   \/    /   /        /_____
+/____/    /    /       /     /    /       _____/    /    /   /    /   /|    /
+    /____/    /_____________/    /________\   /____/    /_________\ ________\
+        /_______ _         /____/                 /____/.vK^asl       .
+       .                                                              :
+       :             - -+ m i n i m a l a r t i f a c t +- -          :
+  _____ __     __ __ ____         ___  ________ ____ _  ________ ____ :
+__\___ \\(_ __/  \\(_\  /___ ____ \__)_\  ____/_\__ \\)_\  __  / \  /___ ____
+    /     /  /      /  ____//   /     /  ___/     /    /   /__/_    ___//   /
+   /     /  /______/    /      /     /_   \      /    /   /    /_    /     /_
+________________\ _ ___________\______\____\_________/__________\___________\
+       .                      .                .                      .
+       :                      :                :                      :
+       `..................... : .............. : .....................'
+                             ):(              ):(
+
+
+
+
+
+
+
+
+       _ _
+       \ )) d i s c l a i m e r s
+
+
+        .: Variation of style can be caused through excessive alcohol
+           mis-use. Except those all rights are reserved.
+
+           Any modification, ripping or whatever you want to do except
+           downloading and viewing is prohibited! Sure you can use your
+                               requested logo! :)
+
+           This collection has been printed to virtual paper which
+                     can be 100% recycled. Save the byte!
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     ..              ,.:::.
+                                   ,::::.          .:::::::
+                      .:.          `::::::.      .:::::::'
+                    ,:::::     .::.. `::::::.  .:::::::'
+                    ::::::     ::::::. `:::::::::::::'
+                     ::::´     :::::::.  `:::::::::'
+                    ,:::       `:::::::.  `::::::
+    _               :::            `::::   :::::                     _
+    /___________ _ ,::: _ _______ _  ::: _ :::::  _ _________________\
+                   :::               :::   ::::::.
+                   :::.             ,:::   ::::::::.                   .
+              .... `::::..         ,::::   ::::::::::.
+            .:::::: `::::::::::::::::::   :::::`::::::::.              :
+            :::::::: `::::::::::::::::  .:::::'  `::::::::::...      ..:... .
+            :::::::'  `:::::::::::::'   `::::'     `::::::::::::::::::::
+         .vK `::::'    `::::::::::'      `::'        `::::::::::::::::::  :
+                                                       `::::::::::::::::  :
+                                                         `:::::::::::::'  :
+     .:  g R E E T S  f l y  t o :.                        `::::::::::'  ::
+                                                             `::::::'  ,::'
+    Rotox - Abho - Slapshot - Mogue - Darkus - Siegel             ....::'
+    Webpige0 - Barium - Dipswitch - Trivial - H7
+    ... and the other lazy artists :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        .___.      _.                   _
+    _________.  ________   _____________|__ |_____/ |___.  ____.        \ __/\__
+_   \    _.__|__.  ._   \_/  _.    /   .__/ (____)  .___|_/ ___|____.    _\    /
+/____\   \|     | _l/   _/_. \|___/_.  |/   |    |  |/    \____     |___ /__  _\
+  .cRb\__ l_    |_\        |_ l_    |_ l    |____|_ l_   ___ l/     |e^D/   \/
+         \______|  \_______| \______| \_____|      \______| \_______|
+
+         vouck title logo  ........................... H7
+
+         aerosol title logo & diz .................... Rotox
+
+         preface logo ................................ Exocet
+
+         neurotic title  ............................. Abhorrence
+
+         credits logos ............................... Chrombacher
+
+         aerosol end logo ............................ Barium
+
+
+             ... t H A N K  f O R  t H E  l O G O S  m A T E S ...
+                special thanx goes Rotox ... for title and diz
+
+
+
+
+
+
+                            moral support by :
+                            - ------+------- -
+
+                      Sternburg Export (Würzig,Süffig)
+  
+                         Cabinett Würzig 3x24 cigs
+
+                                   and
+
+                         Rondo Melange Coffee (tm)
+
+
+
+
+
+
+
+
+                        .
+                      .   .  ___   ______ ____    _____ ___   _
+                        & .  \_____\____//   //___\___/_\____ \_______ _
+                      .&½ ½
+_ _______________ _  .&&½ &¾  ________________________________________________
+                    .&&¾½::¾&,
+      flame me...  .&&¾½: :¾¾&&     vOUCk! email : marco.langner@web.de
+_ ______________ _ &&¾¾:: ::¾¾&&_____________________________________________
+                   `&&¾¾::::¾¾&&
+                    `&&&&¾¾¾¾&&'
+                      `&&&&&&&' .vK
+
+
+
+
+
+
+
+
+
+
+
+
+
+   t h i s  a s c i i  c o l l e c t i o n  w a s  p r e s e n t e d  b y
+         _______
+     ___\\_     \. _ ___________________________________________________
+   _/    __      | _____                                               //_
+   \     \ |     |/  __// _ ___________ _ ________                        \.
+    \     \:     :  _/   ______    _   \_    __   \_                .      |
+    :\     \     _  \  ./    _//  |/    /   | /    /                .      |
+  //_______.     |_  \ |     |   _/   _/    :/ ___/____  _ _________|__    |
+    .      |______/   \|     |   \_   :     /  \      /_       __   |  \_  |
+    |         _ _______:     |____|        /      /____//_.   | /   |   /  |
+    |                  |______/   |     :___________.     |   :/    |  /   |
+    |                             |______/        \ |     :   /     : .    |
+    |                                      b5!sac  \|     _  /      ./     |
+    |                                   _ _ ________:     |_________/      |
+    |                                               |______/        :      |_
+    :\_                                                           : | ______//
+      //_________________________________________________________ | |/
+                                                                 \| :
+                                                                  :
+                    ansichrist . darkus . dipswitch . karlos
+                   kempy . mute . native . spermwhale . vouck
+
+             -÷[  FILE NAME  ]÷[      ARTIST(S)      ]÷[  DATE  ]÷-
+             -^---------------^-----------------------^----------^-
+             ... ASL-OTB.TXT ... DARKUS,KARLOS,BLUE .... MAR-97 ...
+             ... ASL-HDT.TXT ... DARKUS ................ JUL-97 ...
+             ... ASL-MNS.TXT ... KARLOS ................ AUG-97 ...
+             ... ASL-COS.TXT ... BLUE .................. SEP-97 ...
+             ... ASL-CLI.TXT ... IBANEZ ................ OCT-97 ...
+             ... ASL-AG2.TXT ... DARKUS ................ OCT-97 ...
+             ... ASL-AAS.TXT ... IBANEZ ................ NOV-97 ...
+
+             ... ASL-EMT.TXT ... BLUE .................. MAR-98 ...
+             ... ASL-IWY.TXT ... DARKUS ................ APR-98 ...
+             ... ASL-LJT.TXT ... DARKUS,KARLOS ......... APR-98 ...
+             ... ASL-FPT.TXT ... DARKUS ................ MAY-98 ...
+             ... ASL-BDR.TXT ... DARKUS ................ AUG-98 ...
+             ... ASL-END.TXT ... BLUE .................. DEC-98 ...
+
+             ... ASL-DTC.TXT ... DARKUS ................ AUG-99 ...
+             ... ASL-LTB.TXT ... MUTE .................. AUG-99 ...
+             ... ASL-FWB.TXT ... NATIVE ................ AUG-99 ...
+             ... ASL-2VS.TXT ... BLUE .................. AUG-99 ...
+             ... ASL-WNE.TXT ... NATIVE ................ AUG-99 ...
+             ... ASL-ENJ.TXT ... HSEVEN ................ SEP-99 ...
+             ... ASL-COM.TXT ... MUTE .................. SEP-99 ...
+             ... ASL-UPR.TXT ... DARKUS ................ SEP-99 ...
+             ... ASL-BLM.TXT ... NATIVE ................ SEP-99 ...
+             ... A!&ASLQ.TXT ... VOUCK,ZANER ........... OCT-99 ...
+             ... ASL-INT.TXT ... MUTE .................. OCT-99 ...
+             ... ASL-MAT.TXT ... MUTE .................. OCT-99 ...
+             ... ASL-WAT.TXT ... HSEVEN ................ OCT-99 ...
+             ... ASL-RSE.TXT ... DARKUS ................ NOV-99 ...
+             ... ASL-AWB.TXT ... NATIVE ................ NOV-99 ...
+             ... ASL-HRN.TXT ... NATIVE ................ NOV-99 ...
+             ... ASL-FNR.TXT ... DARKUS ................ DEC-99 ...
+             ... ASL-SM!.TXT ... MUTE .................. DEC-99 ...
+
+             ... ASL-RTR.TXT ... MUTE .................. JAN-00 ...
+             ... ASL-KRM.TXT ... DARKUS,PHREAK KLASS ... FEB-00 ...
+             ... ASL-1O1.TXT ... PHREAK KLASS .......... MAR-00 ...
+             ... ASL-STR.TXT ... HSEVEN ................ MAR-00 ...
+             ... ASL-RFN.TXT ... DARKUS ................ APR-00 ...
+             ... ASL-BAS.TXT ... BLUE .................. APR-00 ...
+             ... ASL-ICM.TXT ... DARKUS ................ JUL-00 ...
+             ... ASL-WIS.TXT ... NASONE................. SEP-00 ...
+
+             ... ASL-VGD.TXT ... DARKUS ................ AUG-01 ...
+
+             ... ASL-LJ2.TXT ... DARKUS,KARLOS ......... JAN-02 ...
+
+             ... ASL-PTB.TXT ... DIPSWITCH ............. MAR-03 ...
+             ... ASL-LTD.TXT ... DARKUS ................ MAR-03 ...
+             ... ASl-FTM.TXT ... DARKUS ................ OCT-03 ...
+
+             ... ASL-STT.TXT ... DIPSWITCH ............. AUG-04 ...
+             ... ASL-LV2.TXT ... DIPSWITCH ............. OCT-04 ...
+
+             ... ASL-GD3.TXT ... DIPSWITCH ............. MAR-05 ...
+             ... ASL-NEU.TXT ... VOUCK ................. MAY-05 ...
+
+
+
+
+
+                       IF YOU READ THIS: THANKS FOR VIEWING!
+            "NEUROTIC' RELEASED 26.MAY 2005 BY MARCO LANGNER AKA VOUCK!
+
+
+
+
+
+
+@BEGIN_FILE_ID.DIZ    __________  ____  _________   _________
+   /  ______  \/ _  \/  ___   /__/  ___   /
+  /  /  /  /  /  /  /  /  /\_   /  /  /  /__
+_/     /  ___/  /  /  /  /  /  /  /  /  /  /
+___/__/\_______/\  \____/_____/\____/\____/:
+:----------------\/-rtx--------------------:
+: vOUCK / AEROSOL 'NEUROTIC' (c) Rotox!/Art:
+:------------------------------------------:
+.                                          .@END_FILE_ID.DIZ
+
+(eof)

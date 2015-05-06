@@ -1,0 +1,3091 @@
+---[TY!]-----------------------------------------------------------------------
+          .                                      .
+    _____/|_                   _______/\         :.
+    \ _   | \---.____/\____    \_    /  \________:_____/\  -poyZ!
+- - -\/  \|   _  \ __   __/-.   (____    \   _  \_   _   \________/\
+     (____|   \   \//  __/   \_    \____/_) _    |   \   _\__   _   \
+        /______)  /__________ /       _/    /    |____)     /   /    \
+          :   \________/    \/        \_\  /-----'   \____ /__________)
+          .                              \/              \/
+
+ * Ringdown on two nodes at 33k6 and 64k ISDN - 24h/7days Telnet at 64k ISDN *
+
+Aeroholics wHQ - Dream Theatre wHQ - Arcade wHQ - Aerosol wHQ - Black Sista wHQ
+  Lightforce gHQ - Bad Karma gHQ - Royal gHQ - Low Profile gHQ - Up Rough gHQ
+Sick of it All gHQ - Most Valueable Players gHQ - Tequila gHQ - 1oo Percent gHQ
+
+ * Amiga^Handhelds^N64^Psx^Snes^Ascii^Graffiti^Oldies^Linux^Drux^Mp3^Musique *
+
+   -+- Zaner/Lightforce -+- Dipswitch/DualCrew&Shining -+- Ninja/Paradox -+-
+       -+- Darkus/Haujobb -+- Hash/Panzerknacker -+- Mool/Aeroholics -+-
+
+------------------------------------------------------------------------[TY!]--
+
+                                     .    .
+                                     _\__/
+                                    |   //\
+                                  __|°_°  |___
+                                  | |_____|  |
+                                  |   `-'    |
+                                  |__\l124/__|
+                                    `.----.'
+                                  ___|----|___
+                                  \____|_____/az0!/l124
+
+
+      p  r  o  d  u  c  e  d     e  x  c  l  u  s  i  v  e  l  y     b  y
+
+                           _____
+               ___________/    /_
+     - --------\         /____/  \  ____________
+     \¯¯¯¯¯¯¯¯¯¯        _____  __ææØØØØ#@@@@P¶¶"
+      \_æµææægggØØØØMggæµ_  _ægØØØØØØØØggggæµ, ,µµµæææææaz0!/l124æµµµ4__
+    _ægØØØP°°"""""""°°¢#ØØk  ¬°#ØØØØØ@F°°°""¯  JØØØØØØØ@@#ØØØØØØP@@M#ØØØ
+    ¶ØØØØ                        ØØØØL          JØØØØ¯    ¬ØØØ#      ØØØÎ
+    ¬¢ØØØQæµµµ________µµæµ,  __æÆØØØØÞµ_____    jØØØØµ_   äØØØØæµ_  øØØØØb
+       ¬°°°¶@@@@@@@@@@¶¶°"  °¶@##########@P°"  °MØØØØ#@^  ¬°¶@@@¶^  °*##®Ë
+           \     _____                  \
+            \   _____          __________\ le  creations  for  the  masses
+             \_/    /__________\-------- - s  t  u  d  i  o  s  2  0  0  0
+              /____/
+
+
+                       ,________________________  ______
+                       l                       /__)   _/
+                       |                              T
+                       |                              |
+                       |                              |
+                       ¦                              |
+  - ------ ----------  ·                              ¦ - ---------  ------- -
+    ____________ _____ _____ ___________              :
+     \_       _/     /      Y      ___/___ __         . ·
+ -x6L T       T     /|      |      _l    //_           /
+      |_   .: |    __      _|_ ::       _             /  ·tHE sECT bBS!·
+       /  ____| ___\ |_____\ /_________\\___ _   _   /
+              |     ___________                     ·      _     _  ______
+              ¦      /     __/__ __________   ________ _____________       |
+              .      \____      Y      ___/_//   .____ \_        _/        |
+                        /              _l        |      T        T s3a!    ·
+   ___uSR'33k6         / ::      _               ¦      |_    :: |        _|
+     _24oo-336oo bPs  /_________\\\ ______ __            /___   _l ||_____\
+                                            /_________ _         ¦
+----------------------------------------  -               --------    ----------
+  ·aPPENDiX·dA jORMAS·tELKORDS·piC sAiNT lOUP·fLOPPY·k0RE·liNEAR·oLD bULLS·
+                     ·sATiVE mEA·diNX pROjECT·mAWi·
+
+                 nODe 0 __________________ +48-91-48794393
+                 nODE 1 ___________________________ tELNET
+                 nODE 2 ___________________________ tELNET
+
+    · mASTERED bY: mADBART/aPPENDiX·pOWERED bY: a124ot/6o3/24omhz/5gb ·
+                   · sUPPORTED bY: uFOK+pREFiX+mADBART ·
+
+                [+]  sECOND iN dA wORLD!  [tSP'o1 cHARTS]  [+]
+_                      .                              ·                      _
+\\------------------ - ¦                              : - ------------------//
+                       |_                             ¦
+                       l/                             |
+                       |        _                    _l
+                       |_       \____________________\
+                        /________\
+
+@BEGIN_FILE_ID.DIZ
+                               ______
+                       _______/     /\
+    ______     ______ /      /     /  \
+   /     /\  _/     //_     /_    /___/_
+  /      /\ /      /      _/ /   /     /\
+ /______/  /______/_________/___·     /  \
+ \      \  \      \         \  /_____/   /
+--\______\/-\______\_________\_\     \  ---.
+l i n k 1 2 4 ascii[ART]release \_____\/   ¦
+"down the rabbit hole" by azzaro [17/04/2k]¦
+-------------------------------------------'
+@END_FILE_ID.DIZ
+
+
+«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»
+                     ...let`s get down the rabbit hole...
+«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»
+
+                                                                              .
+                  ___   ________
+                 |   | |        |                                             ·
+                 |___| |  ______|______  ______  _____  ____  ___  __  _      ·
+                  _____| |_____________||______||_____||____||___||__||_||    ·
+ ·               |              |                                             :
+           o N e   d a y   s u N r a y   b l i N d   m y   s i g h t          :
+ ·      _________|__       _____|___                          _________       :
+ ·      \          /_____ /        /_____\ ________\ _______ /        /       :
+ :      /\               /________/       \\       \\      _/      __/        ¦
+ :     /________________         __________\\_______\\ ____\       \          ¦
+ :     -az0!/l124|     /--------/ ----------\         \-----\_______\--       ¦
+ :      ___      |              |                            ___  _           ¦
+ ¦       | | ____|______________|_____________________________|_|| | |        ¦
+ ¦       | || |  . . ... ...  . .                              _ |_|_|_       |
+ ¦       |_||_|_______________________________________________|_|    |        |
+ ¦               |              |                                             |
+ |            e v e r y t h i N g   b u t   N o t   l i N k 1 2 4             |
+ |               |              |                                             |
+ |     m i N i m a l   s e r v i c e   c o m p a N y   1 9 9 6 - 2 0 0 0      |
+_|_  __  ___  ___|______   _____|                                     ________|_
+\ _||__||___||__________| |  ___   - azzaro - bull - covenant - krs - \        /
+ \      ·        |        | |   |      - luk - noches - q3ntin -      \\ ·    /
+  \    //        |________| |___|                                      \\    /
+  _\  /_____                                                        _____\  /_
+  \ \/     /                                                        \     \/ /
+  \\ ·    /  on a solistice day / somewhere outside this collection  \    · //
+   \\    /   ------------------------------------------------------   \    //
+_____\  /_   Alice  was  beginning  to get very tired of sitting by   _\  /_____
+\     \/ /   her  sister  on the bank, and of having nothing to do:   \ \/     /
+ \    · //   once  or twice she had peeped into the book her sister   \\ ·    /
+  \    //    was  reading,  but it had no pictures or conversations    \\    /
+  _\  /_____ in  it, `and what is the use of a book,' thought Alice _____\  /_
+  \ \/     / `without pictures or conversation?'                    \     \/ /
+  \\ ·    /                                                          \    · //
+   \\    /   So she was considering in her own mind (as well as she   \    //
+_____\  /_   could,  for  the hot day made her feel very sleepy and   _\  /_____
+\     \/ /   stupid),  whether the pleasure of making a daisy-chain   \ \/     /
+ \    · //   would  be  worth the trouble of getting up and picking   \\ ·    /
+  \    //    the  daisies,  when  suddenly a White Rabbit with pink    \\    /
+  _\  /_____ eyes ran close by her.                                 _____\  /_
+  \ \/     /                                                        \     \/ /
+  \\ ·    /  There  was nothing so VERY remarkable in that; nor did  \    · //
+   \\    /   Alice think it so VERY much out of the way to hear the   \    //
+_____\  /_   Rabbit  say to itself, `Oh dear!  Oh dear!  I shall be   _\  /_____
+\     \/ /   late!'  (when  she  thought  it  over  afterwards,  it   \ \/     /
+ \    · //   occurred  to  her  that  she ought to have wondered at   \\ ·    /
+  \    //    this,  but  at  the time it all seemed quite natural);    \\    /
+  _\  /_____ but  when  the Rabbit actually TOOK A WATCH OUT OF ITS _____\  /_
+  \ \/     / WAISTCOAT-  POCKET, and looked at it, and then hurried \     \/ /
+  \\ ·    /  on,  Alice  started to her feet, for it flashed across  \    · //
+   \\    /   her  mind that she had never before seen a rabbit with   \    //
+_____\  /_   either  a  waistcoat-pocket, or a watch to take out of   _\  /_____
+\     \/ /   it,  and  burning  with  curiosity, she ran across the   \ \/     /
+ \    · //   field  after  it,  and fortunately was just in time to   \\ ·    /
+  \    //    see it pop down a large rabbit-hole under the hedge.      \\    /
+  _\  /_____                                                        _____\  /_
+  \ \/     / In another moment down went Alice after it, never once \     \/ /
+  \\ ·    /  considering how in the world she was to get out again.  \    · //
+   \\    /                                                            \    //
+_____\  /_   The  rabbit-hole  went  straight  on like a tunnel for   _\  /_____
+\     \/ /   some  way,  and then dipped suddenly down, so suddenly   \ \/     /
+ \    · //   that  Alice  had  not a moment to think about stopping   \\ ·    /
+  \    //    herself  before  she found herself falling down a very    \\    /
+  _\  /_____ deep well.                                             _____\  /_
+  \ \/     /                                                        \     \/ /
+  \\ ·    /  Either  the  well  was  very  deep,  or  she fell very  \    · //
+   \\    /   slowly, for she had plenty of time as she went down to   \    //
+_____\  /_   look  about her and to wonder what was going to happen   _\  /_____
+\     \/ /   next.  First, she tried to look down and make out what   \ \/     /
+ \    · //   she  was  coming  to,  but  it  was  too  dark  to see   \\ ·    /
+  \    //    anything;  then  she  looked at the sides of the well,    \\    /
+  _\  /_____ and  noticed  that they were filled with cupboards and _____\  /_
+  \ \/     / book-shelves; here and there she saw maps and pictures \     \/ /
+  \\ ·    /  hung  upon  pegs.  She took down a jar from one of the  \    · //
+   \\    /   shelves   as  she  passed;  it  was  labelled  `ORANGE   \    //
+_____\  /_   MARMALADE',  but  to  her  great disappointment it was   _\  /_____
+\     \/ /   empty:   she  did not like to drop the jar for fear of   \ \/     /
+ \    · //   killing somebody, so managed to put it into one of the   \\ ·    /
+  \    //    cupboards as she fell past it.                            \\    /
+  _\  /_____                                                        _____\  /_
+  \ \/     / `Well!'  thought  Alice to herself, `after such a fall \     \/ /
+  \\ ·    /  as  this,  I  shall  think  nothing  of  tumbling down  \    · //
+   \\    /   stairs!  How brave they'll all think me at home!  Why,   \    //
+_____\  /_   I  wouldn't  say anything about it, even if I fell off   _\  /_____
+\     \/ /   the top of the house!' (Which was very likely true.)     \ \/     /
+ \    · //                                                            \\ ·    /
+  \    //    Down,  down,  down.   Would  the fall NEVER come to an    \\    /
+  _\  /_____ end!   `I  wonder  how  many miles I've fallen by this _____\  /_
+  \ \/     / time?'  she  said aloud.  `I must be getting somewhere \     \/ /
+  \\ ·    /  near the centre of the earth.  Let me see:  that would  \    · //
+   \\    /   be four thousand miles down, I think--' (for, you see,   \    //
+_____\  /_   Alice  had  learnt  several things of this sort in her   _\  /_____
+\     \/ /   lessons  in  the schoolroom, and though this was not a   \ \/     /
+ \    · //   VERY  good  opportunity for showing off her knowledge,   \\ ·    /
+  \    //    as  there  was  no  one to listen to her, still it was    \\    /
+  _\  /_____ good practice to say it over) `--yes, that's about the _____\  /_
+  \ \/     / right  distance--but  then  I  wonder what Latitude or \     \/ /
+  \\ ·    /  Longitude  I've  got  to?'  (Alice  had  no  idea what  \    · //
+   \\    /   Latitude  was,  or  Longitude either, but thought they   \    //
+_____\  /_   were nice grand words to say.)                           _\  /_____
+\     \/ /   Presently  she began again.  `I wonder if I shall fall   \ \/     /
+ \    · //   right THROUGH the earth!  How funny it'll seem to come   \\ ·    /
+  \    //    out  among  the  people  that  walk  with  their heads    \\    /
+  _\  /_____ downward!  The Antipathies, I think--' (she was rather _____\  /_
+  \ \/     / glad  there  WAS  no  one  listening, this time, as it \     \/ /
+  \\ ·    /  didn't  sound  at  all  the right word) `--but I shall  \    · //
+   \\    /   have  to ask them what the name of the country is, you   \    //
+_____\  /_   know.    Please,   Ma'am,   is  this  New  Zealand  or   _\  /_____
+\     \/ /   Australia?'   (and   she   tried  to  curtsey  as  she   \ \/     /
+ \    · //   spoke--fancy  CURTSEYING as you're falling through the   \\ ·    /
+  \    //    air!   Do you think you could manage it?) `And what an    \\    /
+  _\  /_____ ignorant  little girl she'll think me for asking!  No, _____\  /_
+  \ \/     / it'll never do to ask:  perhaps I shall see it written \     \/ /
+  \\ ·    /  up somewhere.'                                          \    · //
+   \\    /                                                            \    //
+_____\  /_   Down,  down,  down.   There was nothing else to do, so   _\  /_____
+\     \/ /   Alice  soon  began  talking  again.  `Dinah'll miss me   \ \/     /
+ \    · //   very  much  to-night,  I should think!' (Dinah was the   \\ ·    /
+  \    //    cat.)  `I  hope they'll remember her saucer of milk at    \\    /
+  _\  /_____ tea-time.   Dinah  my dear!  I wish you were down here _____\  /_
+  \ \/     / with  me!   There  are no mice in the air, I'm afraid, \     \/ /
+  \\ ·    /  but  you  might  catch  a  bat, and that's very like a  \    · //
+   \\    /   mouse, you know.  But do cats eat bats, I wonder?' And   \    //
+_____\  /_   here  Alice  began  to  get rather sleepy, and went on   _\  /_____
+\     \/ /   saying  to  herself, in a dreamy sort of way, `Do cats   \ \/     /
+ \    · //   eat  bats?  Do cats eat bats?' and sometimes, `Do bats   \\ ·    /
+  \    //    eat cats?' for, you see, as she couldn't answer either    \\    /
+  _\  /_____ question,  it didn't much matter which way she put it. _____\  /_
+  \ \/     / She  felt  that she was dozing off, and had just begun \     \/ /
+  \\ ·    /  to dream that she was walking hand in hand with Dinah,  \    · //
+   \\    /   and saying to her very earnestly, `Now, Dinah, tell me   \    //
+_____\  /_   the  truth:   did  you ever eat a bat?' when suddenly,   _\  /_____
+\     \/ /   thump!   thump!   down  she came upon a heap of sticks   \ \/     /
+ \    · //   and dry leaves, and the fall was over.                   \\ ·    /
+  \    //                                                              \\    /
+  _\  /_____ Alice  was not a bit hurt, and she jumped up on to her _____\  /_
+  \ \/     / feet  in a moment:  she looked up, but it was all dark \     \/ /
+  \\ ·    /  overhead; before her was another long passage, and the  \    · //
+   \\    /   White  Rabbit  was  still  in sight, hurrying down it.   \    //
+_____\  /_   There  was  not  a moment to be lost:  away went Alice   _\  /_____
+\     \/ /   like the wind, and was just in time to hear it say, as   \ \/     /
+ \    · //   it turned a corner, `Oh my ears and whiskers, how late   \\ ·    /
+  \    //    it's getting!' She was close behind it when she turned    \\    /
+  _\  /_____ the  corner,  but the Rabbit was no longer to be seen: _____\  /_
+  \ \/     / she  found  herself in a long, low hall, which was lit \     \/ /
+  \\ ·    /  up by a row of lamps hanging from the roof.             \    · //
+   \\    /                                                            \    //
+_____\  /_   There were doors all round the hall, but they were all   _\  /_____
+\     \/ /   locked;  and  when Alice had been all the way down one   \ \/     /
+ \    · //   side  and  up the other, trying every door, she walked   \\ ·    /
+  \    //    sadly  down  the middle, wondering how she was ever to    \\    /
+  _\  /_____ get out again.                                         _____\  /_
+  \ \/     /                                                        \     \/ /
+  \\ ·    /  Suddenly  she  came  upon a little three-legged table,  \    · //
+   \\    /   all  made  of  solid  glass;  there  was nothing on it   \    //
+_____\  /_   except  a  tiny  golden key, and Alice's first thought   _\  /_____
+\     \/ /   was  that  it  might belong to one of the doors of the   \ \/     /
+ \    · //   hall;  but, alas!  either the locks were too large, or   \\ ·    /
+  \    //    the  key  was  too small, but at any rate it would not    \\    /
+  _\  /_____ open  any of them.  However, on the second time round, _____\  /_
+  \ \/     / she  came  upon  a  low  curtain  she  had not noticed \     \/ /
+  \\ ·    /  before,  and behind it was a little door about fifteen  \    · //
+   \\    /   inches  high:   she tried the little golden key in the   \    //
+_____\  /_   lock, and to her great delight it fitted!                _\  /_____
+\     \/ /                                                            \ \/     /
+ \    · //   Alice  opened  the  door  and found that it led into a   \\ ·    /
+  \    //    small  passage,  not much larger than a rat-hole:  she    \\    /
+  _\  /_____ knelt  down  and  looked  along  the  passage into the _____\  /_
+  \ \/     / loveliest  garden you ever saw.  How she longed to get \     \/ /
+  \\ ·    /  out  of  that  dark hall, and wander about among those  \    · //
+   \\    /   beds  of  bright flowers and those cool fountains, but   \    //
+_____\  /_   she  could  not  even get her head though the doorway;   _\  /_____
+\     \/ /   `and  even  if my head would go through,' thought poor   \ \/     /
+ \    · //   Alice,  `it  would  be  of  very little use without my   \\ ·    /
+  \    //    shoulders.   Oh,  how  I  wish  I could shut up like a    \\    /
+  _\  /_____ telescope!   I  think  I  could, if I only know how to _____\  /_
+  \ \/     / begin.'  For,  you  see, so many out-of-the-way things \     \/ /
+  \\ ·    /  had  happened  lately,  that  Alice had begun to think  \    · //
+   \\    /   that very few things indeed were really impossible.      \    //
+_____\  /_                                                            _\  /_____
+\     \/ /   There  seemed  to  be  no use in waiting by the little   \ \/     /
+ \    · //   door,  so  she went back to the table, half hoping she   \\ ·    /
+  \    //    might find another key on it, or at any rate a book of    \\    /
+  _\  /_____ rules  for  shutting  people up like telescopes:  this _____\  /_
+  \ \/     / time   she  found  a  little  bottle  on  it,  (`which \     \/ /
+  \\ ·    /  certainly was not here before,' said Alice,) and round  \    · //
+   \\    /   the  neck  of  the  bottle was a paper label, with the   \    //
+_____\  /_   words  `DRINK  ME'  beautifully printed on it in large   _\  /_____
+\     \/ /   letters.                                                 \ \/     /
+ \    · //                                                            \\ ·    /
+  \    //    It  was  all very well to say `Drink me,' but the wise    \\    /
+  _\  /_____ little  Alice  was  not  going  to do THAT in a hurry. _____\  /_
+  \ \/     / `No, I'll look first,' she said, `and see whether it's \     \/ /
+  \\ ·    /  marked "poison" or not'; for she had read several nice  \    · //
+   \\    /   little histories about children who had got burnt, and   \    //
+_____\  /_   eaten  up  by wild beasts and other unpleasant things,   _\  /_____
+\     \/ /   all  because  they WOULD not remember the simple rules   \ \/     /
+ \    · //   their  friends  had  taught  them:   such  as,  that a   \\ ·    /
+  \    //    red-hot  poker  will burn you if you hold it too long;    \\    /
+  _\  /_____ and  that  if  you  cut your finger VERY deeply with a _____\  /_
+  \ \/     / knife,  it usually bleeds; and she had never forgotten \     \/ /
+  \\ ·    /  that, if you drink much from a bottle marked `poison,'  \    · //
+   \\    /   it  is  almost certain to disagree with you, sooner or   \    //
+_____\  /_   later.                                                   _\  /_____
+\     \/ /                                                            \ \/     /
+ \    · //   However, this bottle was NOT marked `poison,' so Alice   \\ ·    /
+  \    //    ventured  to  taste  it, and finding it very nice, (it    \\    /
+  _\  /_____ had,  in fact, a sort of mixed flavour of cherry-tart, _____\  /_
+  \ \/     / custard,  pine-apple,  roast  turkey,  toffee, and hot \     \/ /
+  \\ ·    /  buttered toast,) she very soon finished it off.         \    · //
+   \\    /                                                            \    //
+_____\  /_     *       *       *       *       *       *       *      _\  /_____
+\     \/ /                                                            \ \/     /
+ \    · //         *       *       *       *       *       *          \\ ·    /
+  \    //                                                              \\    /
+  _\  /_____   *       *       *       *       *       *       *    _____\  /_
+  \ \/     /                                                        \     \/ /
+  \\ ·    /  `What  a  curious  feeling!'  said  Alice;  `I must be  \    · //
+   \\    /   shutting up like a telescope.'                           \    //
+_____\  /_                                                            _\  /_____
+\     \/ /   And  so  it  was  indeed:  she was now only ten inches   \ \/     /
+ \    · //   high,  and  her face brightened up at the thought that   \\ ·    /
+  \    //    she  was  now  the  right  size  for going through the    \\    /
+  _\  /_____ little  door into that lovely garden.  First, however, _____\  /_
+  \ \/     / she  waited  for a few minutes to see if she was going \     \/ /
+  \\ ·    /  to  shrink  any  further:   she  felt a little nervous  \    · //
+   \\    /   about  this;  `for it might end, you know,' said Alice   \    //
+_____\  /_   to  herself,  `in  my  going  out  altogether,  like a   _\  /_____
+\     \/ /   candle.  I wonder what I should be like then?' And she   \ \/     /
+ \    · //   tried  to  fancy  what  the  flame of a candle is like   \\ ·    /
+  \    //    after  the  candle  is  blown  out,  for she could not    \\    /
+  _\  /_____ remember ever having seen such a thing.                _____\  /_
+  \ \/     /                                                        \     \/ /
+  \\ ·    /  After a while, finding that nothing more happened, she  \    · //
+   \\    /   decided  on  going  into the garden at once; but, alas   \    //
+_____\  /_   for  poor  Alice!  when she got to the door, she found   _\  /_____
+\     \/ /   she  had forgotten the little golden key, and when she   \ \/     /
+ \    · //   went back to the table for it, she found she could not   \\ ·    /
+  \    //    possibly  reach  it:   she  could see it quite plainly    \\    /
+  _\  /_____ through  the glass, and she tried her best to climb up _____\  /_
+  \ \/     / one of the legs of the table, but it was too slippery; \     \/ /
+  \\ ·    /  and  when  she  had tired herself out with trying, the  \    · //
+   \\    /   poor little thing sat down and cried.                    \    //
+_____\  /_                                                            _\  /_____
+\     \/ /   `Come, there's no use in crying like that!' said Alice   \ \/     /
+ \    · //   to herself, rather sharply; `I advise you to leave off   \\ ·    /
+  \    //    this  minute!'  She  generally  gave herself very good    \\    /
+  _\  /_____ advice,  (though  she  very  seldom  followed it), and _____\  /_
+  \ \/     / sometimes  she scolded herself so severely as to bring \     \/ /
+  \\ ·    /  tears into her eyes; and once she remembered trying to  \    · //
+   \\    /   box  her own ears for having cheated herself in a game   \    //
+_____\  /_   of  croquet  she was playing against herself, for this   _\  /_____
+\     \/ /   curious  child  was  very fond of pretending to be two   \ \/     /
+ \    · //   people.   `But  it's  no use now,' thought poor Alice,   \\ ·    /
+  \    //    `to  pretend  to  be  two people!  Why, there's hardly    \\    /
+  _\  /_____ enough of me left to make ONE respectable person!'     _____\  /_
+  \ \/     /                                                        \     \/ /
+  \\ ·    /  Soon her eye fell on a little glass box that was lying  \    · //
+   \\    /   under  the  table:   she  opened it, and found in it a   \    //
+_____\  /_   very  small  cake,  on  which  the words `EAT ME' were   _\  /_____
+\     \/ /   beautifully  marked in currants.  `Well, I'll eat it,'   \ \/     /
+ \    · //   said  Alice,  `and  if  it makes me grow larger, I can   \\ ·    /
+  \    //    reach  the key; and if it makes me grow smaller, I can    \\    /
+  _\  /_____ creep  under the door; so either way I'll get into the _____\  /_
+  \ \/     / garden, and I don't care which happens!'               \     \/ /
+  \\ ·    /                                                          \    · //
+   \\    /   She  ate  a little bit, and said anxiously to herself,   \    //
+_____\  /_   `Which  way?  Which way?', holding her hand on the top   _\  /_____
+\     \/ /   of  her head to feel which way it was growing, and she   \ \/     /
+ \    · //   was quite surprised to find that she remained the same   \\ ·    /
+  \    //    size:   to  be  sure,  this generally happens when one    \\    /
+  _\  /_____ eats  cake,  but Alice had got so much into the way of _____\  /_
+  \ \/     / expecting nothing but out-of-the-way things to happen, \     \/ /
+  \\ ·    /  that it seemed quite dull and stupid for life to go on  \    · //
+   \\    /   in the common way.                                       \    //
+_____\  /_                                                            _\  /_____
+\     \/ /  So she set to work, and very soon finished off the cake.  \ \/     /
+ \    · //                                                            \\ ·    /
+  \    //             /\                     //\/\                     \\    /
+  _\  /_____      //\// \\       /\  /\     //   \\       //\       _____\  /_
+  \ \/     //\    /      \/\\  // \\/ \\  /\/     \\/\   //  \/\  /\\     \/ /
+  \\ ·    //  \/\//         \/\/       \\/            \/\/     \\/ \\\    · //
+   \\    //                                                         \\\    //
+_____\  /_      A   L i n k 1 2 4 ` s   c a k e   c a l l e d         _\  /_____
+       __    ________     __         _____       __         __         ___     /
+  ____|  \||/__      |_--|  \|___ __|     \|  _|/  |____ _|/  |____ _|/  _|__ ·
+|/__      || `-      ||  ¯   |   |         |  ||   _____\||        \||  |____\|_
+| `-  _____|     _____|\___| ¯¯  |____|    |  |_____     |___|      |_____    ||
+|-----'=====-----'=========|____/|====`----| ·=====`-----|===`------|====`-----|
+_        ________    _______     __         __        __       __              _
+\\     _|     ___\|  ______ \|_|/  |____ _|/  |____ _|  \|_ _|/  |____        //
+ \     ||      -'_|_/__      |||      __\||      __\||\__| \||   _____\|      /
+  \    |_____|     | `-  _____|_____  -' |_____  -' |_      |_____     |     /
+___\ ·=======`-----|-----'=========`-----|====`-----|`------|====`-----|=·  /___
+\   \               __        ________    __         ___      az0!/l124    /   /
+ \   \  /        _|/  |____ |/__      |_|/  |____ _|/  _|__            \  /   /
+  \   \·         ||        \| `-      |||        \||  |____\|_          ·/   /
+ __\  ·\ __      |___|      |     _____|_____     |_____    ||       __ /·  /__
+ \  \/  \ /    ·=====`------|-----'=========`-----|====`-----|=·     \ /  \/  /
+ \\  ·   \                                                            /   ·  //
+  \\    / \   _____                                          _____   / \    //
+____\  /__ \  \   / ________________________________________ \   /  / __\  /____
+\    \/  /  \  \ /  d o w n   t h e    r a b b i t   h o l e  \ /  /  \  \/    /
+ \   ·  /    \  / _ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯ _ \  /   \\  ·   /
+  \    //     \/ \/                                          \/ \/     \\    /
+   \  //                                                             _ __\  /__
+   \\/                                                                    \/  /
+   ___ __ __       number one in new link124`s ascii project called
+  _\  /  \ /_ _
+ (   / ][ \  X __  ____                 ___ _
+  \    ][___/__\ ][   /__ _            \\ / /
+   \___]   _X    ][_     X ___  __      \/\/ o   n   d   e   r    2   0   0   0
+             \___[_/    / _\  ][ /___ _
+                 [_____/_X    ][     X_    __  __
+                          \__\ [    / _____\ ][ /_ _
+                              \____/_X    ___][   X __  ____
+     ½½½½½½.                          \   `--][__/ _\ ][ __/___ _
+        ½½½½ .½½½½½½½. .½½½½½½½. .½½½½½\_____]   _X   ][--'    X     ___
+ .½½½½½½½½½' ½½½   ½½½ ½½½   ½½½ ½½½   ½½½         \__][      /____ [  /_
+ ½½½½        ½½½   ½½½ ½½½   ½½½ ½½½   ½½½             [_____/X    ][    )
+ ½½½½   ½½½½ `½½½½½½½' `½½½½½½½' `½½½½½½½'                  fAr\   ][___/
+ `½½½½½½½½½'                                                !s3a\____\
+
+
+
+   s  p  a  n  k  e  d  ,  t  y  p  e  d  ,  d  e  s  i  g  n  e  d     b  y
+
+
+
+                          ·  __ _      ___      _ __  ·
+                      - --:-/ ////-/---\ /---\-\\\\ \-:-- -
+                          |             /             |
+        ______            |    _______   · aZZARO !   |  _____
+   ____\\_    \_   _______·___\\_    /_       ______ ___\\_  /___     ______
+   \     /     /__\\_    /_     ____/  \ ____\\_    \_   _/     /____\\_    \_
+   /    /     /     ____/  \    \       \      /     /   \      \__    /     /
+  /    _     /      \       \    \_      \    /     /     \       /   /     /
+ /_____\_____\\      \_      \ __________/   _     /_______\_____/         /
+              /______________/        _ _____\_____\  .       _ ___________\
+                          .   diP/a!                  |
+                       _ _|__ _                   _ __|_ _
+                          · ////-----------------\\\\ ·
+
+                            [    m   a   d   w   i   z   a   r   d   s    ]
+     k®s!/l124! _ /_________   ___________________
+        ________\/         /___\____             /________    _ /_____
+        \         _             ___              \       /____\/     /_____
+    -«---\        \----|______    /    _________                          /
+         /         \         /---------\       /-------|________         /
+        /           \                                          /---------\
+       /_____________\                _
+     ___                             |_| ______________
+    |   |                  _ /_________                |
+    ______\ ___    ________\/         /____\ _         |   k®s!/l124! |___|
+   /    ___\  /____\         _              \/________ |  ___________  ___
+   \        \/               \-------\\              /____\___      / |   |
+    \______        ___________\        \    _       /      ___     /  |___|
+          /--------\           \       /----/____________    /    /    ___
+                        |                  /            /---------\   |   |
+       _    embassy [·] |    ________                                 |___|
+      |_| ______________|    \    __/______________              _ /________
+                              \  ______         __/_______\------\/        /
+    /\                    -«--/--\    / _      ______                _    /·
+   /  \                          /______\------\    / _   //____     \----\ \
+  /    \                                 \     /______\---\    /______\ ·    \
+ /      \                                              \               /      \
+/________\------------------------------------------------------------/________\
+
+   a  z  z  a  r  o  .  m  a  d  w  i  z  a  r  d  s  +  e  m  b  a  s  s  y
+__________                                                            __________
+\        /------------------------------------------------------------\        /
+ \      //                    ..:  `Fury said to a  .:                \\      /
+  \    //                   ..:   mouse, That he....:                  \\    /
+  _\  /_____              ..:   met in the......:                   _____\  /_
+  \ \/     /           ...:   house, .....:                         \     \/ /
+  \\ ·    /            :.. "Let us   :.....                          \    · //
+   \\    /               :.. both go to   :....                       \    //
+_____\  /_                  :..law:  I will  .:                       _\  /_____
+\     \/ /                    :..prosecute   :.....                   \ \/     /
+ \    · //                      :..YOU.  --Come,  :...                \\ ·    /
+  \    //                         :.  I'll take no  .:                 \\    /
+  _\  /_____                    ...:   denial; We  .:               _____\  /_
+  \ \/     /                ....:   must have a....:                \     \/ /
+  \\ ·    /              ...:   trial:  For....:                     \    · //
+   \\    /            ...:   really this ..:                          \    //
+_____\  /_           .:   morning I've...:                            _\  /_____
+\     \/ /          .:   nothing  ....:                               \ \/     /
+ \    · //          :.. to do."   :...                                \\ ·    /
+  \    //             :.. Said the   :.....                            \\    /
+  _\  /_____            :.. mouse to the  :.                        _____\  /_
+  \ \/     /              :.. cur, "Such   :                        \     \/ /
+  \\ ·    /                 :.. a trial,   :...                      \    · //
+   \\    /                    :.. dear Sir,   :.                      \    //
+_____\  /_                      :.      With  .:                      _\  /_____
+\     \/ (                    ...:  no jury  .:                       \ \/     /
+  ¦      ¦                 ...:  or judge,...:                        \\ ·    /
+--+------+--             ..:   would be ..:                            \\    /
+  ¦ _____¦              .:   wasting ...:                           _____\  /_
+l    |  |¦  2    4      :.  our      :..                            \     \/ /
+  ¦  |__|¦                :. breath."  :..                           \    · //
+--+------+--               :. "I'll be   :....                        \    //
+  ¦      ¦                  :.. judge, I'll  :                        _\  /_____
+  ¦                           :.  be jury,"  :..                      \ \/     /
+  ¦                            :.       Said  .:                      \\ ·    /
+  ¦                             :  cunning    :.                       \\    /
+  ¦                             :..  old Fury: :......              _____\  /_
+ -+-------------------------------- "I'll ---------  :.             \     \/ /
+ hello there and welcome to my new   try the      E   :.             \    · //
+ ascii collection under link124 label   whole       -  :..            \    //
+ and under influence of lewis carroll`s  cause,     D    :....        _\  /_____
+ book named "alice in wonderland".          and        -     :....    \ \/     /
+ also it`s stronly inspirated by       condemn         I    -    :....\\ ·    /
+ "matrix" movie but no so official    you                   T      -    ·    /
+ this time. what to say? nothing     to death."                    O      - - --
+ special happens during those three  _ _____                  _ ____      R I AL
+ weeks after releasing last colly - _____  /___________ _   ____   /_________
+ i just take a deeper look at new   \ -_/_____       ____ __\  //_   _____  /_ _
+ reborned "the ascii charts" and   /___       \ _____\ _/    \//  \ /    /__
+ want to say - it`s great. those      /_______ / -    \ __________ /____/ ____
+ fixed tabels and point rules make  _ ______  /________\  _ _________  /__\___\
+ whole charts more clearly imho.   ¦  km!k0/__________ _            /_______ _
+ ----------------------------------'
+ answering your words, dipswitch - yes, me and krs want to see what other people
+ can do with our letters - it`s more  funny to see the  different points of view
+ how to design  a whole logo just from base letters.  and please belive in those
+ guys - there are  not only lamers  who want to fucks up whole  logo and design.
+ it`s also  something new and fresh and  try to release a collection like that -
+ both of us are fully sattisfied by giving people some fun in those hard days...
+ also congratulations & best wishes about working hard on "t.a.c." series again.
+  _ .----- ,--------, ----------------------------------------------------------
+ _\ ¦ __  /  -l124-  \ now something like small commercial break - we as a group
+ \_ ¦ _/ /____________\---, need more and  more members worldwide  so if you are
+    ¦ \  |            |¯¯¯ interested in joining link124 don`t hesistste to send
+ ---' ¯ _j____________l_   e-mail to: zorka19@puma.tu.koszalin.pl.  include some
+       (,¯)____)(____(¯,)                                    _ _ _ _ _ _ samples
+        \)   (____)   (/                  _____________,_    )\\\\\\\\\))     of
+ ______ (        ____, ) _______________ / \\__\  _______| _ | ___  ·.·.|   your
+         \         \) (                 /¯¯¯       ___|-'   | ¦   |  ·:.|_ skill
+          \__  _______/                 \______ ___/-'      |o|o  |     _ )  ...
+     ,------(_______)-----------------,-¯_¯\(__)_)          |¯¯¯¯¯     _'/  blah
+    /                                 |  |\_)__)            |  ,_ __   (/   lahb
+   /                                  |_ |¦(___)            |___//  \   |   ahbl
+  /     _ .-      -.  ________________| \l`--(_)              )_/    \  |   hbla
+ /      / | TRESOR |    |                 ¯¯¯¯         . o .  _____ _/  |   blah
+/      /    ne\/er      |                                   .`------/   |   lahb
+\      \  | SLEEPS |    |                            °    °    ____/    |   ahbl
+ \      \ `-      -'    |                              o      (_________|   hbla
+  \      \              |                           ·    °      ,­` '­.     blah
+   \      )             |                                      /       \    lahb
+    \____/\_____________|                                     /         \   ahbl
+     |\    /  | | \     |                                                   hbla
+ ___ |¯¯¯¯¯   | |  ¯¯¯¯¯| ________________________________ _  _             blah
+     |        l_|       ¦ aC!d/k0!                                          lahb
+     ¦                  ·         please welcome our new member - q3ntin - young
+                           polish maker full of ideas. hope you`ll something new
+ from him in nearly future. so, that`s all folks this time. see you!.  signed by
+ --· ---- ·-----.                                            .-------· ---- ·---
+    \    /      ¦   tommy aka azzaro. link124 headquarters   ¦        \    //
+_____\  /_      `--------------------------------------------'        _\  /_____
+\     \/ /                                                            \ \/     /
+ \    · //                                                            \\ ·    /
+  \    //                          ____              ___.              \\    /
+  _\  /_____                       |   \_  _____     \  |__         _____\  /_
+  \ \/     /          ____     ____|___ |_(  __/     _\ |  )_       \     \/ /
+  \\ ·    /   __ _  _(____)____\      /     _/______/        \       \      //
+   \\    .----\_\\_/            _    /__    \  ____     |     \ psR/k0!__  /_
+_____\  /|        |_____________)\  /_ /_______\  /_____|¯¯¯¯¯¯\ _ __  \ \/ /
+\     \/ |                        \/ \/         \/              \//_/---\  //-.
+ \    · /|                                                               \/   |
+  \    / |    as you see this collection is fullfilled by logos dedicated     |
+  _\  /__|__  to my ascii friends. some of them are my own gifts and respects |
+  \ \/     /  to well known  teams and  artists.  also small part with missed |
+  \\ ·    /   requests and  something  for new link124 members.  details now: |
+   \\    /                                                                    |
+_____\  /_    01. 100 percent--------------------------------------752  Ascii |
+\     \/ /    02. 100 percent_diz----------------------------------655  Ascii |
+ \    · /|    03. aerosol_diz--------------------------------------652  Ascii |
+  \    / |    04. ascii--------------------------------------------390  Ascii |
+  _\  /__|__  05. ascii pack---------------------------------------870  Ascii |
+  \ \/     /  06. bitch--------------------------------------------401  Ascii |
+  \\ ·    /   07. bitch_diz----------------------------------------631  Ascii |
+   \\    /    08. bull---------------------------------------------374  Ascii |
+_____\  /_    09. cru----------------------------------------------353  Ascii |
+\     \/ /    10. crusader-----------------------------------------705  Ascii |
+ \    · /|    dipswitch----------------------------------------709  Ascii .11 |
+  \    / |    dream theatre------------------------------------812  Ascii .12 |
+  _\  /__|__  dream theatre_diz--------------------------------654  Ascii .13 |
+  \ \/     /  dwarf--------------------------------------------416  Ascii .14 |
+  \\ ·    /   far----------------------------------------------350  Ascii .15 |
+   \\    /    fghter for future--------------------------------345  Ascii .16 |
+_____\  /_    imagination--------------------------------------756  Ascii .17 |
+\     \/ /    k0re._diz----------------------------------------671  Ascii .18 |
+ \    · /|    kacper-------------------------------------------446  Ascii .19 |
+  \    / |    killkrazed---------------------------------------744  Ascii .20 |
+  _\  /__|__  21. killkrazed_diz-----------------------------------658  Ascii |
+  \ \/     /  22. krash--------------------------------------------411  Ascii |
+  \\ ·    /   23. krs----------------------------------------------348  Ascii |
+   \\    /    24. layout-------------------------------------------444  Ascii |
+_____\  /_    25. layout_diz---------------------------------------651  Ascii |
+\     \/ /    26. link124_diz--------------------------------------673  Ascii |
+ \    · /|    27. luk----------------------------------------------346  Ascii |
+  \    / |    28. mimic--------------------------------------------393  Ascii |
+  _\  /__|__  29. neurodancer--------------------------------------790  Ascii |
+  \ \/     /  30. noches-------------------------------------------444  Ascii |
+  \\ ·    /   of-----------------------------------------------318  Ascii .31 |
+   \\    /    passenger----------------------------------------713  Ascii .32 |
+_____\  /_    phreak klass-------------------------------------718  Ascii .33 |
+\     \/ /    qentin-------------------------------------------436  Ascii .34 |
+ \    · /|    revi---------------------------------------------372  Ascii .35 |
+  \    / |    sative mea_diz-----------------------------------660  Ascii .36 |
+  _\  /__|__  soc_diz------------------------------------------659  Ascii .37 |
+  \ \/     /  style--------------------------------------------405  Ascii .38 |
+  \\ ·    /   style_diz----------------------------------------631  Ascii .39 |
+   \\    /    the ascii charts--------------------------------1042  Ascii .40 |
+_____\  /_    41. the lo0p-----------------------------------------659  Ascii |
+\     \/ /    42. the lo0p_diz-------------------------------------658  Ascii |
+ \    · /|    43. threaz-------------------------------------------446  Ascii |
+  \    / |    44. thung--------------------------------------------409  Ascii |
+  _\  /__|__  45. tribe--------------------------------------------401  Ascii |
+  \ \/     /  46. tuffest men alive-------------------------------1032  Ascii |
+  \\ ·    /   47. tuffest men alive_diz----------------------------657  Ascii |
+   \\    /    48. twisted------------------------------------------472  Ascii |
+_____\  /_    49. twisted_diz--------------------------------------642  Ascii |
+\     \/ /    50. twister------------------------------------------469  Ascii |
+ \    · /|    xball--------------------------------------------406  Ascii .51 |
+  \    / |    zabora-------------------------------------------499  Ascii .52 |
+  _\  /__|__  zero---------------------------------------------384  Ascii .53 |
+  \ \/     /  zito---------------------------------------------368  Ascii .54 |
+  \\ ·    /                                                                   |
+   \\    /    is it enought? i think yes. ask my fingertips, too =)           |
+_____\  /_                             .    .                                 |
+\     \/ /    now to the logos.        _\__/                                  |
+ \    · /|                            |   //\                link124 [c] 2000 |
+  \    / `.________________________ __|°_°  |___ ____________________________.'
+  _\  /_____                        | |_____|  |
+  \ \/     /                        |   `-'    |
+  \\      /                         |__\l124/__|  (.com guys coming up!)
+   \\    /                            `.----.'
+   . \  /                           ___|----|___
+   ·  \/                            \____|_____/
+   :                                __     __        ________     __
+   :                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   ¦              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   ¦             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   |             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   | d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    1 0 0 %                    |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                    ________
+                                  |/        \|
+                                  |          |
+                             ___  · ________ · ________
+                          __/  _| |/__      |_/__      |_
+                          \___/ |\| `-      || `-      ||
+                          |_      |     _____|     _____|
+                        ·==`------|-----'====|-----'======·
+  ________    ___       ________     _______    ___         ______    __
+_|      __\||/  _|__   |     ___\| |/ ______ _|/  _|__  ___|      \||/  |____
+||      -' ||  |____\|_|      -'_|_|        \||  |____\|_          ||   _____\|
+|_   |_____|_____    ||_____|     |_____     |_____    ||____|     |_____     |
+=`---|==========`-----|=====`-----|====`-----|====`-----|====`-----|====`-----|·
+                                  ·          ·                        az0!/l124
+                                  |          |
+                                  |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    1 0 0 % . D I Z            |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                           ___    ________   ________
+                        __/  _| |/__      |_/__      |_
+                     %  \___/ |\| `-      || `-      ||  %
+                        |_      |     _____|     _____|
+                    .====`------|-----'====|-----'========.
+                  .-|-'                                 `-|-.
+                  |     100% ascii release.                 |
+                  |                                         |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    A E R O S O L . D I Z      |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                        _______     _____      __
+                        ______ \|_|/ ______ _|/  |____
+                      |/__      |||____    \||        \|
+                      | `-  _____|____|     |_____     |
+                    .=|-----'=========`-----|====`-----|==.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |  aerosol ascii release [c] 2000         |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    A S C I I                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                _______     _____      _______   __      __
+                ______ \|_|/ ______ _|/ ______ _|  \|_ _|  \|_
+              |/__      |||____    \||        \||\__| \||\__| \|
+              | `-  _____|____|     |_____     |_      |_      |
+            ·=|-----'=========`-----|====`-----|`------|`------|=·
+                                                        az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    A S C I I   P A C K        |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                _______     _____      _______   __      __
+                ______ \|_|/ ______ _|/ ______  |  \|_  |  \|_
+         _____|/__      |||____    \||        \||\__| \||\__| \|______
+     ____\    | `-  _____|____|     |_____     |_      |_      |     /____
+  ___\  ___ ·=|-----'=========`-----|====`-----|`------|`------|=·  ___  /___
+ _\ ____\                                                             /____ /_
+ __ _____    a   s   c   i   i      p   a   c   k     #  0   0   0    _____ __
+  /___  /__        ________   _______     _______   ___ ___         __\  ___\
+     /____       _|      __\| ______ \|_|/ ______  |   |   \|        ____\
+         /_______||      -' |/__      |||        \||  _  ___|________\
+                 |_   |_____| `-  _____|_____     |___|      |az0!/l124
+               ·==`---|=====|-----'=========`-----|===`------|=·
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    B I T C H                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                  ________
+                                |/        \|
+                                |          |
+                __        __    ·  __      ·  _______    __
+             _|/  |____ _|  \|_ _|/  |____ _|/ ______ _|/  |____
+             ||      __\||\__| \||   _____\||        \||        \|
+             |_____  -' |_      |_____     |_____     |___|      |
+           ·======`-----|`------|====`-----|====`-----|===`------|=·
+                                ·          ·               az0!/l124
+                                |          |
+                                |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    B I T C H . D I Z          |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                __         ___
+                             _|/  |____ __/  _|
+                             ||      __\\___/ |\|
+                             |_____  -' |_      |
+                    .=============`-----|`------|=========.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |  bitch ascii release [c] 2000           |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    B U L L                    |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                    __            ____    __         __
+                 _|/  |____   ___|    \||/  |____ _|/  |____
+                 ||      __\|/   |     ||        \||        \|
+                 |_____  -' |     _____|_____     |_____     |
+               ·======`-----|-----'=========`-----|====`-----|=·
+                                                    az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    C R U                      |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                         _______   ________        ____
+                      _|/ ______ _|     ___\|  ___|    \|
+                      ||        \||      -'_|_/   |     |
+                      |_____     |_____|     |     _____|
+                    ·======`-----|=====`-----|-----'======·
+                                                 az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    C R U S A D E R            |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                         _______   ________        ____
+                      _|/ ______ _|     ___\|  ___|    \|
+                      ||        \||      -'_||/   |     |
+                      |_____     |_____|     |     _____|
+                    ·======`-----|=====`-----|-----'======·
+              _____     _______         __     ___       ________
+           _|/ ______   ______ \|_ ____|  \|_|/  _|__   |     ___\|
+           ||____    \|/__      ||/__      |||  |____\|_|      -'_|_
+           |____|     | `-  _____| `-  _____|_____    ||_____|     |
+         ·======`-----|-----'====|-----'=========`-----|=====`-----|=·
+                                                             az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    D I P S W I T C H          |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      | szto ty dumajesz ob etom ascii, huh?            |__|
+
+
+
+
+
+                               __    __      ________
+                          ____|  \|_|  \|_ _|      __\|
+                        |/__      |||\__| \||      -' |
+                        | `-  _____|_      |_   |_____|
+                      ·=|-----'=====`------|`---|=======·
+          _____       __       __       __         _______    __
+       _|/ ______ |--|  \|___ |  \|_ _|/  |____ _|/ ______ _|/  |____
+       ||____    \|  ¯   |   ||\__| \||   _____\||        \||        \|
+       |____|     |\___| ¯¯  |_      |_____     |_____     |___|      |
+     ·======`-----|====|____/|`------|====`-----|====`-----|===`------|=·
+                                                                az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    D R E A M   T H E A T R E  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                   ________
+                                 |/        \|
+                                 |          |
+                  __    ________ ·   ___    ·  _______    ____
+             ____|  \|_|     ___\| |/  _|__    ______ \|_/    |___
+           |/__      |||      -'_|_|  |____\|_/__      ||  __ |   \|
+           | `-  _____|_____|     |_____    || `-  _____|___|   _  |
+         ·=|-----'==========`-----|====`-----|-----'========|\__|--'=·
+   __         __         ___       _______     __        ________     ___
+_|/  |____ _|/  |____ _|/  _|__    ______ \|_|/  |____ _|     ___\| |/  _|__
+||   _____\||        \||  |____\|_/__      |||   _____\||      -'_|_|  |____\|_
+|_____     |___|      |_____    || `-  _____|_____     |_____|     |_____    ||
+·====`-----|===`------|====`-----|-----'=========`-----|=====`-----|====`-----|·
+                                 ·          ·                        az0!/l124
+                                 |          |
+                                 |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)  D R E A M   T H E A T R E  |
+   | h  o  l  e   |      |              \{_)                      . D I Z  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                             __    ________     __
+                        ____|  \|_|     ___\| |/  |____
+                      |/__      |||      -'_|_|   _____\|
+                      | `-  _____|_____|     |_____     |
+                    .=|-----'==========`-----|====`-----|=.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |  dream theatre ascii release [c] 2000   |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    D W A R F                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                  __      __       _______    ________       _____
+             ____|  \|_--|  \|___  ______ \|_|     ___\| ___|     \|
+           |/__      ||  ¯   |   |/__      |||      -'_|_     _____|
+           | `-  _____|\___| ¯¯  | `-  _____|_____|     ||  |____|
+         ·=|-----'=========|____/|-----'==========`-----||----'======·
+                                                            az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    F A R                      |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                           _____   _______    ________
+                       ___|     \| ______ \|_|     ___\|
+                      |     _____|/__      |||      -'_|_
+                      ||  |____| | `-  _____|_____|     |
+                    ·=¯|----'====|-----'==========`-----|=·
+                                                 az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)  F I G H T E R   F O R      |
+   | h  o  l  e   |      |              \{_)    F U T U R E                |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                          _____      _____      _____
+                      ___|     \|___|     \|___|     \|
+                     |     _____|     _____|     _____|
+                     ||  |____| ||  |____| ||  |____|
+                   ·=¯|---'=====¯|---'=====¯|---'======·
+                                                 az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    I M A G I N A T I O N      |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                __      ____       _______     _______   __
+              _|  \|_  /    |___   ______ \|_|/ ______  |  \|_
+              ||\__| \|  __ |   \|/__      |||      __\||\__| \|
+              |_      |___|   _  | `-  _____|____   -' |_      |
+            ·==`------|===|\__|--|-----'========`------'`------|=·
+           ______   _______     __        __      ________     ______
+       ___|      \| ______ \|_|/  |____  |  \|_ |/__      |___|      \|
+       |          |/__      |||   _____\||\__| \| `-      ||          |
+       |____|     | `-  _____|_____     |_      |     _____|____|     |
+     ·======`-----|-----'=========`-----|`------|-----'=========`-----|=·
+                                                               az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    K 0 R E . D I Z            |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                     _____    ___ ___    ________    _____
+                    _\    \ _|   |   \||/__      |_ /    /_
+                    |  20 _\||  _  ___|_ `-      ||/_ 00  |
+                    |_____\ |___|      |     _____| /_____|
+                    .===========`------|-----'============.
+                  .-|-'                                 `-|-.
+                  |    k[]re. machines inside release.      |
+                  |                                         |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    K A C P E R                |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+       ___ ___    _______     _______   ________    ___       ________
+     _|   |   \|  ______ \|_|/ ______  |      __\||/  _|__   |     ___\|
+     ||  _  ___|_/__      |||        \||      -' ||  |____\|_|      -'_|_
+     |___|      | `-  _____|_____     |_   |_____|_____    ||_____|     |
+   ·=====`------|-----'=========`-----|`---|==========`-----|=====`-----|=·
+                                                                az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    K I L L K R A Z E D        |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                  ________
+                                |/        \|
+                                |  k il l  |
+                    ___ ___    _·       __ ·       __
+                  _|   |   \| |  \|_ _|/  |____ _|/  |____
+                  ||  _  ___|_|\__| \||        \||        \|
+                  |___|      |_      |_____     |_____     |
+                ·=====`------|`------|====`-----|====`-----|=·
+       ___ ___    ________    _______      _____     ___            __
+     _|   |   \| |     ___\|  ______ \|_ ______ \|_|/  _|__    ____|  \|_
+     ||  _  ___|_|      -'_|_/__      ||/    ____|||  |____\|_/__      ||
+     |___|      |_____|     | `-  _____|     |____|_____    || `-  _____|
+   ·=====`------|=====`-----|-----'=====-----'=========`-----|-----'======·
+                                ·          ·                     az0!/l124
+                                |  krazed  |
+                                |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    K I L L K R A Z E D . D I Z|
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                        ___ ___    ___ ___      _____
+                      _|   |   \| |   |   \|  ______ \|_
+                      ||  _  ___|_|  _  ___|_/    ____||
+                      |___|      |___|      |     |____|
+                    .=====`------|===`------|-----'=======.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |   killkrazed ascii release [c] 2000.    |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    K R A S H                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+             ___ ___    ________    _______     _____      __
+           _|   |   \| |     ___\|  ______ \|_|/ ______  |/  |____
+           ||  _  ___|_|      -'_|_/__      |||____    \||        \|
+           |___|      |_____|     | `-  _____|____|     |___|      |
+         ·=====`------|=====`-----|-----'=========`-----|===`------|=·
+                                                            az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    K R S                      |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                        ___ ___    ________     _____
+                      _|   |   \| |     ___\| |/ ______
+                      ||  _  ___|_|      -'_|_|____    \|
+                      |___|      |_____|     |____|     |
+                    ·=====`------|=====`-----|====`-----|=·
+                                                 az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    L A Y O U T                |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                  ________
+                                |/        \|
+                                |          |
+         __        _______     _·__      __·_____       ____    __
+      _|/  |____   ______ \|_|/    |__ |/__      |_ ___|    \||/  |____
+      ||        \|/__      |||___  |  \| `-      ||/   |     ||   _____\|
+      |_____     | `-  _____|____| ¯   |     _____|     _____|_____     |
+    ·======`-----|-----'=========`-----|-----'====|-----'=========`-----|=·
+                                ·          ·                     az0!/l124
+                                |          |
+                                |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    L A Y O U T . D I Z        |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                         __        ________    __
+                      _|/  |____ |/__      |_|/  |____
+                      ||        \| `-      |||   _____\|
+                      |_____     |     _____|_____     |
+                    .======`-----|-----'=========`-----|==.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |  layout ascii release [c] 2000          |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    L I N K 1 2 4 . D I Z      |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                       __     ______   ________    _____
+                    _|/  |____ |    \| _/      | |/     | |
+                    ||        \|     | |       | |______|_|_
+                    |_____     |     | |       |          |/
+                    .====`-----|\____|=|______/__=========|==
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  | link124 ascii release [c] 2000.         |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    L U K                      |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                         __            ____   ___ ___
+                      _|/  |____   ___|    \||   |   \|
+                      ||        \|/   |     ||  _  ___|_
+                      |_____     |     _____|___|      |
+                    ·======`-----|-----'========`------|=·
+                                                az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    M I M I C                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                   ________
+                                 |/        \|
+                                 |          |
+                ____       __    · ____     · __       _______
+              |/    |___  |  \|_  /    |___  |  \|_  |/ ______
+              |  __ |   \||\__| \|  __ |   \||\__| \||        \|
+              |___|   _  |_      |___|   _  |_      |_____     |
+            ·=====|\__|--'`------|===|\__|--'`------|====`-----|=·
+                                 ·          ·            az0!/l124
+                                 |          |
+                                 |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    N E U R O D A N C E R      |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+               ______    ___           ____   ________    ________
+           ___|      \||/  _|__    ___|    \||     ___\||/__      |_
+           |          ||  |____\|_/   |     ||      -'_|_ `-      ||
+           |____|     |_____    ||     _____|_____|     |     _____|
+         ·======`-----|====`-----|-----'==========`-----|-----'======·
+            __    _______      ______    _______    ___       ________
+       ____|  \|_ ______ \|___|      \||/ ______  |/  _|__   |     ___\|
+     |/__      ||/__      ||          ||        \||  |____\|_|      -'_|_
+     | `-  _____| `-  _____|____|     |_____     |_____    ||_____|     |
+   ·=|-----'=====-----'=========`-----|====`-----|====`-----|=====`-----|=·
+                                                                 az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    N O C H E S                |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+          ______   ________    _______    __         ___        _____
+      ___|      \|/__      |_|/ ______  |/  |____  |/  _|__   |/ ______
+      |          | `-      |||        \||        \||  |____\|_|____    \|
+      |____|     |     _____|_____     |___|      |_____    ||____|     |
+    ·======`-----|-----'=========`-----|===`------|====`-----|====`-----|=·
+                                                                 az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    " O F "                    |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                              ________      _____
+                            |/__      |____|     \|
+                            | `-      ||     _____|
+                            |     _____||  |____|
+                          ·=|-----'=====|----'======·
+                                             az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    P A S S E N G E R          |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+             ________   _______     _____      _____      ___
+           _|      __\| ______ \|_|/ ______ _|/ ______ _|/  _|__
+           ||      -' |/__      |||____    \||____    \||  |____\|_
+           |_   |_____| `-  _____|____|     |____|     |_____    ||
+         ·==`---|======-----'=========`-----|====`-----|====`-----|=·
+                    ______    _______    ___       ________
+                ___|      \||/ ______ _|/  _|__   |     ___\|
+                |          ||      __\||  |____\|_|      -'_|_
+                |____|     |____   -' |_____    ||_____|     |
+              ·======`-----|===`------'====`-----|=====`-----|=·
+                                                       az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    P H R E A K   K L A S S    |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+       ________    __        ________     ___       _______    ___ ___
+     _|      __\||/  |____ _|     ___\| |/  _|__    ______ \|_|   |   \|
+     ||      -' ||        \||      -'_|_|  |____\|_/__      |||  _  ___|_
+     |_   |_____|___|      |_____|     |_____    || `-  _____|___|      |
+   ·==`---|=========`------|=====`-----|====`-----|-----'========`------|=·
+             ___ ___     __        _______     _____      _____  az0!/l124
+           _|   |   \| |/  |____   ______ \|_|/ ______ _|/ ______
+           ||  _  ___|_|        \|/__      |||____    \||____    \|
+           |___|      |_____     | `-  _____|____|     |____|     |
+         ·=====`------|====`-----|-----'=========`-----|====`-----|=·
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    Q E N T I N                |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+         ________    ___         ______    __        __        ______
+       |/__      |_|/  _|__   __|      \||/  |____ _|  \|_  __|      \|
+       | `- ____ |||  |____\|_          ||   _____\||\__| \|          |
+       |____\_   _|_____    ||____|     |_____     |_      |____|     |
+     ·=====`-|___|=====`-----|====`-----|====`-----|`------|====`-----|=·
+                                                               az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    R E V I                    |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                    ________     ___       ____       __
+                  _|     ___\| |/  _|__  |/    |___ _|  \|_
+                  ||      -'_|_|  |____\|_     |   \||\__| \|
+                  |_____|     |_____    ||_____     |_      |
+                ·=======`-----|====`-----|====`-----|`------|=·
+                                                     az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    S A T I V E   M E A . D I Z|
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                         _____      ___       _______
+                      _|/ ______ _|/  _|__    ______ \|_
+                      ||____    \||  |____\|_/__      ||
+                      |____|     |_____    || `-  _____|
+                    .======`-----|====`-----|-----'=======.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |   sative mea ascii release [c] 2000     |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    S O C . D I Z              |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                         _____     ________    _______
+                      _|/ ______ |/__      |_|/ ______
+                      ||____    \| `-      |||        \|
+                      |____|     |     _____|_____     |
+                    .======`-----|-----'=========`-----|==.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |  symptoms of chernobyl ascii release    |
+                  |             [c] 2000                    |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    S T Y L E                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                   ________
+                                 |/        \|
+                                 |          |
+              _____      __      ·  ____    ·  __         ___
+           _|/ ______ _|/  |____ _|/    |__ _|/  |____ _|/  _|__
+           ||____    \||   _____\||___  |  \||        \||  |____\|_
+           |____|     |_____     |____| ¯   |_____     |_____    ||
+         ·======`-----|====`-----|====|-----'====`-----|====`-----|=·
+                                 ·          ·              az0!/l124
+                                 |          |
+                                 |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    S T Y L E . D I Z          |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                               _____      ___
+                            _|/ ______ _|/  _|__
+                            ||____    \||  |____\|_
+                            |____|     |_____    ||
+                    .============`-----|====`-----|=======.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |  style ascii release [c] 2000           |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)  T H E   A S C I I          |
+   | h  o  l  e   |      |              \{_)    C H A R T S                |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                   ________
+                                 |/        \|
+                                 |          |
+                         __      ·  __      ·  ___
+                      _|/  |____ _|/  |____ _|/  _|__
+                      ||   _____\||        \||  |____\|_
+                      |_____     |___|      |_____    ||
+                    ·======`-----|===`------|====`-----|=·
+                _______     _____      _______   __      __
+                ______ \|_|/ ______ _|/ ______ _|  \|_ _|  \|_
+              |/__      |||____    \||        \||\__| \||\__| \|
+              | `-  _____|____|     |_____     |_      |_      |
+            ·=|-----'=========`-----|====`-----|`------|`------|=·
+        _______    __        _______    ________     __         _____
+     _|/ ______ _|/  |____   ______ \|_|     ___\| |/  |____ _|/ ______
+     ||        \||        \|/__      |||      -'_|_|   _____\||____    \|
+     |_____     |___|      | `-  _____|_____|     |_____     |____|     |
+   ·======`-----|===`------|-----'==========`-----|====`-----|====`-----|=·
+                                 ·          ·                    az0!/l124
+                                 |          |
+                                 |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    T H E  L O 0 P             |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                   ________
+                                 |/        \|
+                                 |          |
+                         __      ·  __      ·  ___
+                      _|/  |____  |/  |____  |/  _|__
+                      ||   _____\||        \||  |____\|_
+                      |_____     |___|      |_____    ||
+                    ·======`-----|===`------|====`-----|=·
+                    __        ________   ________   ________
+                 _|/  |____ |/__      |_/__      |_|      __\|
+                 ||        \| `-      || `-      |||      -' |
+                 |_____     |     _____|     _____|_   |_____|
+               ·======`-----|-----'=====-----'=====`---|=======·
+                                 ·          ·         az0!/l124
+                                 |          |
+                                 |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    T H E   L O 0 P . D I Z    |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                         __        ________   ________
+                      _|/  |____ |/__      |_|      __\|
+                      ||        \| `-      |||      -' |
+                      |_____     |     _____|_   |_____|
+                    .======`-----|-----'=====`---|========.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |  the lo0p ascii release [c] 2000        |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    T H R E A Z                |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+        __         __        ________     ___       _______      _____
+     _|/  |____ _|/  |____ _|     ___\| |/  _|__    ______ \|_ ______ \|_
+     ||   _____\||        \||      -'_|_|  |____\|_/__      ||/    ____||
+     |_____     |___|      |_____|     |_____    || `-  _____|     |____|
+   ·======`-----|===`------|=====`-----|====`-----|-----'====|-----'======·
+                                                                az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    T H U N G                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+              __         __            ____     ______    _______
+           _|/  |____ _|/  |____   ___|    \|__|      \||/ ______
+           ||   _____\||        \|/   |     |          ||      __\|
+           |_____     |___|      |     _____|____|     |____   -' |
+         ·======`-----|===`------|-----'=========`-----|===`------'=·
+                                                          az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    T R I B E                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+               __        ________    __       __         ___
+            _|/  |____ _|     ___\| |  \|_ _|/  |____ _|/  _|__
+            ||   _____\||      -'_|_|\__| \||      __\||  |____\|_
+            |_____     |_____|     |_      |_____  -' |_____    ||
+          ·======`-----|=====`-----|`------|====`-----|====`-----|=·
+                                                          az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)  T U F F E S T   M E N      |
+   | h  o  l  e   |      |              \{_)    A L I V E                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                  ________
+                                |/        \|
+                                |          |
+    __            ____      ____·      ____·    ___        _____      __
+ _|/  |____   ___|    \|___|     \|___|     \||/  _|__   |/ ______ _|/  |____
+ ||   _____\|/   |     |     _____|     _____||  |____\|_|____    \||   _____\|
+ |_____     |     _____||  |____|  |  |____|  _____    ||____|     |_____     |
+·=====`-----|-----'=====|----'=====|----'=========`-----|====`-----|====`-----|·
+                        ____        ___         ______               az0!/l124
+                      |/    |___ _|/  _|__   __|      \|
+                      |  __ |   \||  |____\|_          |
+                      |___|   _  |_____    ||____|     |
+                    ·=====|\__|--'====`-----|====`-----|=·
+               _______     __        __      ____        ___
+               ______ \|_|/  |____ _|  \|_ |/    |___ _|/  _|__
+             |/__      |||        \||\__| \|     |   \||  |____\|_
+             | `-  _____|_____     |_      |_____     |_____    ||
+           ·=|-----'=========`-----|`------|====`-----|====`-----|=·
+                                ·          ·
+                                |          |
+                                |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)  T U F F E S T   M E N      |
+   | h  o  l  e   |      |              \{_)    A L I V E . D I Z          |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                         __        ____       _______
+                      _|/  |____ |/    |___   ______ \|_
+                      ||   _____\|  __ |   \|/__      ||
+                      |_____     |___|   _  | `-  _____|
+                    .======`-----|===|\__|--'-----'=======.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |  tuffest men alive ascii release [c]2k  |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    T W I S T E D              |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                  ________
+                                |/        \|
+                                |          |
+     __          __       __    ·  _____   ·  __         ___            __
+  _|/  |____ |--|  \|____|  \|_ _|/ ______ _|/  |____ _|/  _|__    ____|  \|_
+  ||   _____\|  ¯   |   ||\__| \||____    \||   _____\||  |____\|_/__      ||
+  |_____     |\___| ¯¯  |_      |____|     |_____     |_____    || `-  _____|
+·======`-----|====|____/|`------|====`-----|====`-----|====`-----|-----'======·
+                                ·          ·                         az0!/l124
+                                |          |
+                                |\________/|
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    T W I S T E D . D I Z      |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                                    __
+                      ---------- _|/  |_____  ----------
+                      t  w  i  s ||   _____/| e  d `2  k
+                      ---------- |_____     | ----------
+                    .=================`-----|=============.
+                  .-|-'                                 `-|-.
+                  |                                         |
+                  |  twisted ascii release [c] 2000         |
+                  |                                         |
+                  `-|-.                                 .-|-'
+                    `==[az0!/l124]========================'
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    T W I S T E R              |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+    __          __       __       _____      __         ___       ________
+ _|/  |____ |--|  \|____|  \|_ _|/ ______ _|/  |____ _|/  _|__   |     ___\|
+ ||   _____\|  ¯   |   ||\__| \||____    \||   _____\||  |____\|_|      -'_|_
+ |_____     |\___| ¯¯  |_      |____|     |_____     |_____    ||_____|     |
+·=====`-----|====|____/|`------|====`-----|====`-----|====`-----|=====`-----|·
+                                                                    az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    X B A L L                  |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+             ___ ____    __        _______     __         __
+           |/   |    |_|/  |____   ______ \|_|/  |____ _|/  |____
+           |__  |__  |||      __\|/__      |||        \||        \|
+            |     |___|_____  -' | `-  _____|_____     |_____     |
+         ·==|-----'========`-----|-----'=========`-----|====`-----|=·
+                                                           az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    Z A B O R A                |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+         _____    _______     __        ________   ________    _______
+       ______ \|_ ______ \|_|/  |____ |/__      |_|     ___\|  ______ \|_
+     |/    ____||/__      |||      __\| `-      |||      -'_|_/__      ||
+     |     |____| `-  _____|_____  -' |     _____|_____|     | `-  _____|
+   ·=|-----'=====-----'=========`-----|-----'==========`-----|-----'======·
+                                                                 az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    Z E R O                    |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                    _____     ___       ________    ________
+                  ______ \|_|/  _|__   |     ___\||/__      |_
+                |/    ____|||  |____\|_|      -'_|_ `-      ||
+                |     |____|_____    ||_____|     |     _____|
+              ·=|-----'=========`-----|=====`-----|-----'======·
+                                                      az0!/l124
+
+
+
+
+
+   .                                __     __        ________     __
+   ·                           ____|  \|_|/  |____ _|     ___\| |/  |____
+   :              ,@@@@@@,   |/__      |||   _____\||      -'_|_|        \|
+   :             _@@@@@__)   | `-  _____|_____     |_____|     |___|      |
+   ¦             \,@@¬\__]_·=|-----'=========`-----|=====`-----|===`------|=__
+   ¦ d  o  w  n   \      __) link124asciipresentation-spanked&typedbyazzaro|  |
+   | ----------   /   ____)             _ ______________   _  _ __ ___ ____|__|
+   | t    h   e   \  /   ¬)            /(/ ____________(                   |
+   | ----------  __\___,½/____________/\/  _{__)j----'                     |
+   | r a bb i t /      `¾  |           /  {__)¬¯                           |
+   | ----------/  _     ___|___________\  {__)                             |
+   | h  o  l  e   |      |              \{_)    Z I T O                    |
+ __|____________ /| l124 | ________________________________________________|__
+|  | aC!d/k0!&    | rula |                                                 |  |
+|__| az0!/l124    |      |                                                 |__|
+
+
+
+
+
+                      _____    __       __        ________
+                    ______ \|_|  \|_ _|/  |____ |/__      |_
+                  |/    ____|||\__| \||   _____\| `-      ||
+                  |     |____|_      |_____     |     _____|
+                ·=|-----'=====`------|====`-----|-----'======·
+                                                   az0!/l124
+
+
+
+
+
+                      «« and remember - god is a dj... »»
+
+
+
+
+
+                                      ---~~~~~~~~~~~--__
+                                    .` -__              \
+                                    | ,.  ~~~--- -       |
+                                    ; ||                 |
+                                __/~\;\`-    _________  |
+                               _|   |  `~-/~~         ~~\__
+                              (|| ; ; .    \ \   ________  \__
+             /`-__             `|   |  ~~~- \_/~~     ,  ~\  /
+         _\~~___  ~~--__         \|_|   .__\    /~ ~~/   , |/
+         \  //~~~~--__  ~~--__      |          | --'/ _/~
+        _| ||         ~~--__  ~~- _ ,\      \__]   //~    __--~~\___
+        | ,||               ~~-- _    \          /~ _ -~~~ __--\__  \
+       _| ||                       .   `\_ /~~_-~     . -~~      \\_ \_
+      _/ _||                        -_    ~~~~   _,         ___   __  '
+      \   '~~ ~                       ~~-_   _-~~        _-'   `\~  \~~\---.
+       \_--~~ __ _                        \ /           /   \    `\  `\_`\_ \_
+      _/ _//~~   __--'~)      ___--/\      Y           /    /\     `\  _\ _|_|
+    _/ _//  __-- |     |----~~ `--~ /      ;       ,--~|   /  \    ~'|  / /'/
+    \_  _-_|    _|      |         _/       .        \_~  _/   |   ___|_/-'~~
+    _  /   |    |  ---  |---_____/                    ~~~     [   \___\
+  _/ ~|   | -   |       |    _____--------~~~~~~~~~~~~~~~~~    `--___/ ___
+/~\  | -  |     |       | ~~~~         `-.                                ~~-
+\___/|__  |__    | ~~] |               ,----~~~~~~~_\
+     | ]  |  ] _, \___/                ~--------~~~ _                  __--/
+      `--'`---~   _                                  `~ -    ____---~~~__--
+             jH.` _~~~-----______________________-------~~~~~____---~~~
+----------- -  -   ~~~-----______________________-------~~~~~       -  --------
+_____\  /_                                                            _\  /_____
+\     \/ /                                                            \ \/     /
+ \    · //                                                            \\ ·    /
+  \    //                                                              \\    /
+  _\  /_____                                                        _____\  /_
+  \ \/     /                                                        \     \/ /
+  \\ ·    /                                                          \    · //
+   \\    /     ________                            _                  \    //
+_____\  / _____\      /____ __________________ ___//________/\_________\  /
+\     \/ \\  _//     /\    \\    /\ _        / \___       \/           \\/
+ \      /____\/     //______\___/__\/_______/_\ __/_______/___________/
+  \    /   _ /______\pk^               _       _\/____       _
+  _\  /___//_________/\________ _______\\_____\\_    /______//_________ GUEST
+  \ \/ \___        \/          \\    _ /    /   \       /\___         / STARS
+ _ ____ __/________/__________/______\/_____\____\______\ __/_________\ ____ _
+ - -----\/------------------------------------------------\/---------------- -
+_____\  /_                                                            _\  /_____
+\     \/ /  i used WITH PLEASURE some asciis made by other GUYS like: \ \/     /
+ \    · //   XBALL/sative mea, CHOSEN/ex-link124, KRS/link124, JH/?,  \\ ·    /
+  \    //    FAR/sative mea, DIPSWITCH/dream theatre+100%, DAYTONA/?,  \\    /
+  _\  /_____ KEMPY/k0re., ACID/k0re., PASSENGER/k0re., SHAOLIN/?,   _____\  /_
+  \ \/     / PHREAK KLASS/aerosol, NATIVE/aerosol. chaotic order... \     \/ /
+  \\ ·    /  - - - - - - - - - - - - - - - - - - - - - - - - - - - - \    · //
+   \\    /   rest of logos, pictures, layout and design made by me.   \    //
+_____\  /_                                    ,_                      _\  /_____
+\     \/ /                                 ,x½| ½x,                   \ \/     /
+ \    · ·                              · , ½½½| ½½½ , ·               \\ ·    /
+  \  h  i  s  t  o  r  y     _ ______ ,o\| ½½½| ½½½ !/o, __ _    n7v!aSl\    /
+  _\  ·____    _,      _     ___     _,  ! ½½½| ½½½  ___    __,__   _____\  /_
+  \ \/    /  _( |___ _\\/_ _(  /__ _( |___ ½½½| ½½'_\\  )_ _\ | )_  \     \/ /
+  \\ ·    _ /_  ,_ //_ \ //_ \_, //_  _,_/_`½½| ½'/_ (, _//_____ /_ _·    · ·
+     _ __\\__\__|   _\_____\_  l  _\_  l  _\`½| ½x,\__|   _\   ' __\\___ ___  __
+----------------l___/------- `----'- `----',x½| ½½½ --l___/-- ·-' --------------
+                                           `x½!_½x'   ,__
+------------------------------------------------------l_//----------------------
+no |     date |  o 1 9 9 5  [ o 5 r e l ]        title |     size |    arconym |
+--------------------------------------------------------------------------------
+o1 [o8/28/95] ozone friendly                           [25o.936b] [amf-ozfr.txt]
+o2 [12/3o/95] waterworld                               [o81.ooob]  [amf-wtw.txt]
+o3 [12/12/95] e=asc²                            (+drf) [153.944b] [amf-asc².txt]
+o4 [12/16/95] 93° fahrenheit                           [o69.55ob] [amf-93°f.txt]
+o5 [12/2o/95] vibrobeton                               [222.ooob] [drf_vbet.txt]
+                                              total: [o.77o.43o/o.77o.43o bytes]
+--------------------------------------------------------------------------------
+no |     date |  o 1 9 9 6  [ 1 7 r e l ]        title |     size |    arconym |
+------------------------------------------------------------------------------
+o6 [o1/1o/96] bring me noise                           [o81.o2ob]  [amf-bmn.txt]
+o7 [o2/o7/96] back on plastic                  (+seti) [o55.ooob] [amf-back.txt]
+o8 [o2/12/96] sayonara fuckhead                        [191.2oob] [amf-sayo.txt]
+o9 [o6/o7/96] rame                                     [o41.5oob] [amf-rame.txt]
+1o [o6/1o/96] firestarter                              [o8o.ooob] [amf-fire.txt]
+11 [o6/22/96] turbo                        (+covenant) [2oo.ooob] [amf-turb.txt]
+12 [o6/22/96] phun faktory                             [193.1oob]   [amf-pf.txt]
+13 [o8/3o/96] dreamland 1: hexagonal heretic           [247.ooob] [amf-dre1.txt]
+14 [o8/3o/96] dreamland 2: jericho                     [178.227b] [amf-dre2.txt]
+15 [o8/3o/96] dreamland 3: fantasia                    [229.16ob] [amf-dre3.txt]
+16 [o8/3o/96] radiation in zoo                         [121.ooob] [amf-rzoo.txt]
+17 [1o/o5/96] dreamland 4: exit fantasy                [115.oo7b] [amf-exit.txt]
+18 [1o/1o/96] 3er4 millenio                            [253.5oob] [amf-3er4.txt]
+19 [11/o1/96] stylez retrospection                     [173.16ob] [l124-stz.txt]
+2o [11/1o/96] pain and heartbeat pumping               [365.o3ob] [l124-pai.txt]
+21 [11/11/96] amphetamine dust                         [189.5o6b] [l124-dst.txt]
+22 [12/12/96] hand on my pussy                         [141.o1ob] [l124-hop.txt]
+                                              total: [2.854.42o/3.624.85o bytes]
+--------------------------------------------------------------------------------
+no |     date |  o 1 9 9 7  [ 1 6 r e l ]        title |     size |    arconym |
+--------------------------------------------------------------------------------
+23 [o1/2o/97] aurora borealis                          [21o.15ob] [l124-abs.txt]
+24 [o2/o1/97] paparazzi                                [161.ooob] [l124-pzi.txt]
+25 [o2/17/97] poetry of love                           [463.ooob] [l124-pol.txt]
+26 [o2/22/97] turbo 2                       (+zorka19) [173.ooob] [l124-tb2.txt]
+27 [o3/o5/97] morsedome                                [o36.ooob] [l124-msd.txt]
+28 [o3/2o/97] plunge into goa: poetry of love 2        [186.ooob] [l124-goa.txt]
+29 [o4/16/97] eclipse travel to india                  [14o.ooob] [l124-e2i.txt]
+3o [o5/2o/97] ambient waster                           [197.ooob] [l124-awa.txt]
+31 [o6/15/97] to the sea                               [178.352b] [l124-sea.txt]
+32 [o7/11/97] industrial 1: odyssey to anyoona         [o96.762b] [l124-any.txt]
+33 [o7/12/97] industrial 2: kaleidoscope skies         [194.o29b] [l124-ksk.txt]
+34 [o7/13/97] industrial 3: detroit experiment         [132.oo4b] [l124-det.txt]
+35 [o8/3o/97] delphinus i-dentity                      [18o.185b]  [l124-id.txt]
+36 [1o/15/97] garden of eden                           [12o.ooob] [l124-gde.txt]
+37 [1o/29/97] two spys in the house of love            [182.284b] [l124-spy.txt]
+38 [12/15/97] phoebus apollo                           [125.734b] [l124-pho.txt]
+                                              total: [2.775.86o/6.4oo.71o bytes]
+--------------------------------------------------------------------------------
+no |     date |  o 1 9 9 8  [ 1 5 r e l ]        title |     size |    arconym |
+--------------------------------------------------------------------------------
+39 [o1/2o/98] sen wezyra                               [o66.312b] [l124-sen.txt]
+4o [o3/15/98] psilocibe 1: sukia monotone              [181.ooob] [l124-smo.txt]
+41 [o3/17/98] psilocibe 2: event horizon               [182.ooob] [l124-ehn.txt]
+42 [o3/2o/98] psilocibe 3: the dream machine           [2oo.ooob] [l124-tdm.txt]
+43 [o4/24/98] homework                                 [11o.ooob] [l124-hom.txt]
+44 [o4/24/98] rebirth of stylism                       [219.338b] [l124-338.txt]
+45 [o7/o2/98] in search of sparks                      [21o.ooob] [l124-iso.txt]
+46 [o8/25/98] 94,7% smoked out                         [o87.298b] [l124-9so.txt]
+47 [1o/o2/98] experiment encore                        [373.648b] [l124-exe.txt]
+48 [1o/24/98] klub voltaire                            [136.ooob] [l124-klv.txt]
+49 [12/1o/98] neon flow                                [o74.ooob] [sea-neon.txt]
+5o [12/2o/98] origami                                  [116.314b] [sea-orig.txt]
+51 [12/2o/98] 456 alien 3                              [124.145b]  [sea-4a3.txt]
+52 [12/2o/98] portait out of the blue                  [1o6.oo9b] [sea-blue.txt]
+53 [12/2o/98] pulverturm                               [1o8.ooob] [sea-pulv.txt]
+                                              total: [2.294.o64/8.694.774 bytes]
+--------------------------------------------------------------------------------
+no |     date |  o 1 9 9 9  [ 1 7 r e l ]        title |     size |    arconym |
+--------------------------------------------------------------------------------
+54 [o2/27/99] zero remix                               [183.ooob] [sea-zero.txt]
+55 [o3/o6/99] construction kit o1                      [o47.733b] [sea-cko1.txt]
+56 [o4/o6/99] dobermann                                [1oo.ooob] [sea-dobm.txt]
+57 [o4/17/99] klubbhead loop 89   (+zabora,acid,kempy) [4oo.ooob] [sea-kore.txt]
+58 [o5/19/99] morning lemon                  (+renton) [1o2.558b] [sea-mlem.txt]
+59 [o6/o6/99] diskocitizen rocks you bitch             [192.593b] [sea-dcry.txt]
+6o [o6/2o/99] aqua di azor                             [25o.ooob] [sea-adia.txt]
+61 [o6/27/99] ex-faktor lite `99                       [117.541b] [sea-xfl9.txt]
+62 [o7/15/99] alice on da 2nd side of...     (+renton) [139.71ob] [sea-alis.txt]
+63 [o8/18/99] live at lodz                    (+thung) [o62.321b] [la!-lodz.txt]
+64 [o9/o1/99] 8mm mikroplastikk asciiform              [14o.ooob] [sea-8mpf.txt]
+65 [o9/27/99] negative skin color             (+thung) [182.ooob] [sea-skin.txt]
+66 [1o/14/99] globe sessions 1: omnipotent technocrat  [o96.ooob] [sea-omte.txt]
+67 [1o/14/99] globe sessions 2: uv catastrophe         [o8o.38ob]   [sea-uv.txt]
+68 [1o/18/99] belgian happenings                       [o8o.275b] [sea-behp.txt]
+69 [11/22/99] erase & rewind                           [32o.ooob] [sea-erre.txt]
+7o [12/15/99] x-tank                                   [158.289b] [sea-xtnk.txt]
+                                             total: [2.652.4oo/11.347.174 bytes]
+--------------------------------------------------------------------------------
+no |     date |  o 2 o o o  [ o 4 r e l ]        title |     size |    arconym |
+--------------------------------------------------------------------------------
+71 [o1/2o/oo] we are back for sure!                    [o27.8oob] [l124-wrb.txt]
+72 [o1/26/oo] duets one: snuff culture          (+krs) [126.416b] [l124-d1s.txt]
+73 [o2/23/oo] hang on the machine                      [159.ooob] [l124-hng.txt]
+74 [o4/17/oo] down the rabbit hole                     [181.37ob] [l124-drh.txt]
+                                                        total: [o.494.586 bytes]
+
+--------------------------------------------------------------------------------
+[total 11.841.76o bytes]                                 [o74 ascii collections]
+--------------------------------------------------------------------------------
+_____\  /_  s-----------------------------() many differet questions  _\  /_____
+\     \/ /                              0                             \ \/     /
+ \    · //       p            a    k`2 0 /\         l                 \\ ·    /
+  \    //     /\  r gr   iv    t  c   0 /  \/\    /\ in                \\    /
+  _\  /_____ // \  o  e s  e /\ ta /\  /  .  \\  // \  k      ck    _____\  /_
+  \ \/     ///  \\  /\ s    /. \  / .\//    .  \/  . \\ 1 4  o  s?  \     \/ /
+  \\ ·    // .    \/ \\ //\/   \\/      .  . .   .  . \\ 2  r  /\  /\\    · //
+   \\    //   .     .  \/  .  .   .   .   .   .   .  . \  /\ //  \/ \\\    //
+_____\  /_ .     .     _____________________________.   \/.\\/ .   .  _\  /_____
+\     \/ /    .     . __\                         /__            .    \ \/     /
+ \    · //  .         |  .                      .   |  .  .   .  .  . \\ ·    /
+  \    //        .    | ·:..  -·> tHANKS! <·-  .·:. |             .   .\\    /
+  _\  /_____  .    .  |  ·:·                    .   | .  : .  .     _____\  /_
+  \ \/  ___/.     ____:____ ________  ________  ____:___ ._________ \     \/ /
+  \\ · __\_ |__  __\  |  /___\___   \__\___   \__\_ |   \__\_ ____/_ \    · //
+   \\  |    __/  |    |    |    |    |    |    |    l    |_____    |  \    //
+_____\ |    |____|         |         |    |    |        -|    |    |  _\  /_____
+\     \|    `    l_   |    l_   |    l_   |    l_   |    l_   `    l_ \ \/     /
+ \     l_____     /___|     /___|     /___|     /___|     /____     / \\ ·    /
+  \     [---l____/----l____/----l____/----l____/----l____/©dtA!____/   \\    /
+   ·                                                                     ·  ·_
+  ace.ex-phase truce ÷ acid.k0re.  ÷ adam.dual crew-shining ÷ adamsoft.pic saint
+loup ÷ adonis.iris ÷ aln!.madwizards ÷ amifan.garbage+terror_13 ÷ andy.anadune ÷
+       antibyte.scoopex ÷ ash!.weeds+apathy ÷ bay-tek.taski ÷ belos.madwizards ÷
+     bonzaj.madwizards+plastic+endzeit+dcs ÷ borys.dione ÷ bta.appendix+absurd ÷
+            budgie.dreamweb ÷ bull.link124 ÷ caro.phase truce+hybrid+nah-kolor ÷
+        caustic.interceptors ÷ cd beavis.online tv+prototype ÷ cerber.appendix ÷
+          clever.veezya ÷ coach.twilight ÷ c0manch3.amnesty ÷ covenant.link124 ÷
+         cure.spawn ÷ curtcool.depth ÷ darkus.haujobb+aerosol ÷ dave.oftenhide ÷
+          def.floppy ÷ des moines.loveboat ÷ digger.iris ÷ dr_chiry.agravedict ÷
+                  dr_szach.dinx project ÷ drf.luzik dizajn ÷ dziq.luzik dizajn ÷
+       dzordan.moons+anadune ÷ elf.total vision ÷ emiter.nand ÷ enter.appendix ÷
+                                              equal.cefalon ÷ estrogen.garbage ÷
+               evan.madwizards+nah-kolor+dualcrew-shinig+o_evex ÷ fei.twilight ÷
+    flapjack.appendix ÷ frequent.ephidrena ÷ garion.dev666 ÷ ghenesis.the grid ÷
+    gorzyga.decree ÷ grass.madwizards+hypnotize+liberty ÷ grogon.picco+pic saint
+ loup ÷ guma.active minds ÷ hakon.whelpz ÷ hash.veezya ÷ hazh.dione+amiga nest ÷
+       humanoid.embassy ÷ icetray.reality ÷ informer.appendix ÷ insert.amnesty ÷
+            itb.madwizards+active minds ÷ jacko.independent ÷ jim.madwizards+old
+  bulls+hocus pocus ÷ jok.dreamweb+absurd ÷ juen.harvester+taski ÷ kazik.anadune
+       ÷ kempy.veezya+kore.  ÷ kessel.independent ÷ kierownik.appendix+garbage ÷
+ kk.taski ÷ ko$mi.dinx project ÷ krs.linear ÷ kure.rave netwok overscan+whelpz ÷
+   lala.dione ÷ leunam.network ÷ leyzer.hope ÷ lothar.moons+appendix ÷ luk.phase
+ truce ÷ madbart.appendix ÷ magic.nah-kolor ÷ maq.floppy+appendix ÷ mavey.potion
+    ÷ mcr.madwizards+appendix ÷ mr_acryl.anadune ÷ muffin.taski ÷ mumin.veezya ÷
+          native.aerosol ÷ nelson.potion ÷ neuroup.agravedict ÷ noches.link124 ÷
+  noe.total vision ÷ norman.anadune ÷ noster.venture ÷ noxis.madwizards+dreamweb
+      ÷ oczek.whelpz ÷ oopure.madwizards+nah-kolor+opteemal ephex ÷ opi.hybrid ÷
+ otton.veezya ÷ paplo.taski ÷ passenger.k0re.  ÷ peer.phase truce ÷ pepson.taski
+        ÷ pesti.nah-kolor ÷ phaser.independent ÷ pickpoke.floppy ÷ pill.floppy ÷
+             pnx.grdu ÷ popcorn.appendix ÷ powerslave.void ÷ pron.indepenndent ÷
+                                  protas.nah-kolor+madwizards ÷ psylocyb.monar ÷
+   punisher.apathy+absurd+darkage+rno ÷ qentin.breathe+link124 ÷ qix.nah-kolor ÷
+  raptor.sector 5 ÷ rebel.veezya+des fentoches ÷ renton.floppy+potion+dcs+sative
+                mea ÷ revi.whelpz+sative mea ÷ revisq.floppy+anadune+nah-kolor ÷
+   riddler.independent ÷ roover.decree+apathy ÷ sante.absurd ÷ scavenger.nemesis
+       ng ÷ sharp.anadune ÷ shepherd.interceptors ÷ skid.ozone ÷ skope.uprough ÷
+                                  sly.embassy ÷ smajk.venture ÷ sobol.appendix ÷
+ spectra.madwizards+nah-kolor+opteemal ephex ÷ speedo.loveboat+dual crew-shining
+              ÷ starlight.madwizards ÷ strife.apathy ÷ substance.madwizards+dual
+   crew-shining+mono 211 ÷ subwork.horizontal lamerz+reason ÷ superfml.monar+pic
+       saint loup ÷ teis.madwizards+spaceballs ÷ tft.rave network overscan ÷ the
+    hooligan.dual crew-shining ÷ the shepherd.crew ÷ thung.whelpz+k0re.+hybrid ÷
+             timer.independent ÷ tomeq.agravedict ÷ twister.garbage+sative mea ÷
+           ubik.dreamweb+absurd ÷ uhu.oftenhide ÷ voicer.old bulls+apathy+void ÷
+    wierza.venture ÷ wild.phase truce ÷ xball.decree+sative mea ÷ yaneq.linear ÷
+   ·      zabora.old bulls+sative mea ÷ zig.floppy ÷ zoltan.madwizards+amnesty ÷
+    \   _                          zomo.dione ÷ rest and forgotten scene freaks!
+_____\  /_                                                          _____\  /_
+\     \/ /                                                          \     \/ /
+ \    · //                                                           \    · //
+  \    //                                                             \    //
+  _\  /_____                                                          _\  /_____
+  \ \/     /                                                          \ \/     /
+  \\ ·    /                                       _________           \\ ·    /
+   \\    /                                      ,/        /    ·       \\    /
+_____\  /_           :____                    __|_  |____/ ___/     _____\  /_
+\     \/ /           |   /_        -xßL's3a~ |   /_ |        //     \     \/ /
+ \   ·  // _______ __|__  /___   ________  __|__  / |        / ___ __·_   · //
+  \    // .\___  // ___/  )  _]__\__ ___ // ___/    | o _   /|    |)  _]_____
+  _\  /___|   /     __/   \____     )  /    __/     ¦  (_)  .|    |_ ___     )
+  \ \/    |   \ _   \l       j/     /  \    \l        ¬     |     _/  j/     /
+  \\ ·    |    \\__________ _|     / ___\ ________        _-l ___ | __|     /
+   \\    //_____\            l____/             T        _\\      |   l____/
+_____\  /_                                       \________\           ·    ·
+\     \/ /   most respects goes to these ascii freaks...              _\  /_____
+ \    · //                                                            \ \/     /
+  \    //    acid, kempy, thung, cru, darkus, hazh, twister, xball,   \\ ·    /
+  _\  /_____ far, zabora, dipswitch, h7, juen, native, revi, bull,     \\    /
+  \ \/     / noches, covenant, passenger, fighter for future, the   _____\  /_
+  \\ ·    /  shepherd, krs, luk, zito & renton (chaotic order).     \     \/ /
+   \\    /                                                           \    · //
+_____\  /_   ...and teams: sative mea, aerosol, dream theatre, crew,  \    //
+\     \/ /   symptoms of chernobyl, layout, k0re, 100%, killkrazed.   _\  /_____
+ \   ·  ·                                                   ·         \ \/     /
+  \   [   n   e   w   s      s   e   k   t   i   o   n   ]  |·        \\ ·    /
+  _\  ------------------------------------------------------||·----- - \\    /
+  \ \/     /                _________ ______      ____ _    |||______    ·  /
+  \\ ·    /               __\       /_\  __/___ __\   / \____ \  __________·
+   \\    /               |     _   /   \ \ ___/__   _/     _/--\____      /
+_____\  /_               |_____/    ______\     /____/\    \_______/     /|
+\     \/ /               -----/_____|-----/____/|------\____\-----/_____/_|
+ \   _______    ______     _____ _____________/_ _____ _____|||________/___
+  \  \  ________\  __/___ _\   //    /         /_\   /_\ ___     /\       /
+  _\  \____    /-\ \ ___/__ \ _/  __/ \_  _______ \_/  /\\/          _   /
+  \ \/____/   /_____\     /___\    \   /   \    |_ \  /      ________/  / \
+  \\ ----/___/_|----/____/|----\____\|______\----/___________\------/______\
+   \\       /           /                                   |||   az0!/l124
+     ·------------------------------------------------------|||------ -- -
+      [   n   e   w   s      s   e   k   t   i   o   n   ]  |||
+                                                            |||
+                                                            ||·
+ -  Noches joined from The L0op;                            |·|
+ -  Bull joined from IPC (Independent People Community);    ·|
+ -  Qentin joined;                                          |
+                   ._____________________________________________.
+-------------------|---------------------------------------------|--------------
+      o    f    f    i    c    i    a    l         r   e   l   e   a   s   e   s
+----|--------------|---------------------------------------------|--------------
+ no.| arcronym     | original collection title            author |   l e n g h t
+----|--------------|---------------------------------------------|--------------
+    | 1   9  9   6 |                                             | OOO6 releases
+----|--------------|---------------------------------------------|---------------
+ o1 | l124-stz.txt | stylez retrospection-----------------azzaro | 173,O6O bytes
+ -2 | l124-dst.txt | amphetamine dust----------------seti+azzaro | 189,5O6 bytes
+ -3 | l124-pai.txt | pain and heartbeat pumping-----------azzaro | 365,O3O bytes
+ -4 | l124-hop.txt | hand on my pussy---------------------azzaro | 141,O1O bytes
+ o5 | l124-liv.txt | life is a long way---------------------seti | O64,366 bytes
+ -6 | l124-nmm.txt | no ma`am-----------------------------chosen | O87,O55 bytes
+----|--------------|---------------------------------------------|--------------
+    | 1   9  9   7 |                                             | OO28 releases
+----|--------------|---------------------------------------------|--------------
+ -7 | l124-abs.txt | aurora borealis----------------------azzaro | 21O,15O bytes
+ -8 | l124-pzi.txt | paparazzi----------------------------azzaro | 161,OOO bytes
+ -9 | l124-mtr.txt | misterium--------------------------covenant | 125,OOO bytes
+ 1o | l124-cmt.txt | crematory--------------------------covenant | 176,5OO bytes
+ -1 | l124-pol.txt | poetry of love-----------------------azzaro | 463,OOO bytes
+ -2 | l124-tb2.txt | turbo 2----------------------azzaro+zorka19 | 173,OOO bytes
+ -3 | l124-msd.txt | scandal 1: morsedome-----------------azzaro | O36,OOO bytes
+ -4 | l124-maa.txt | malaria------------------------------chosen | 195,344 bytes
+ 15 | l124-goa.txt | poetry of love 2: plunge into goa----azzaro | 186,OOO bytes
+ -6 | l124-e2i.txt | eclipse travel to india--------------azzaro | 14O,OOO bytes
+ -7 | l124-lk.txt  | lemon killers------------------------darkus | 1O8,139 bytes
+ -8 | l124-jkr.txt | the joker--------------------------covenant | 3O1,OOO bytes
+ -9 | l124-awa.txt | ambient waster-----------------------azzaro | 197,OOO bytes
+ 2o | l124-sea.txt | to the sea---------------------------azzaro | 178,352 bytes
+ -1 | l124-b&g.txt | bryniol & gazior---------------------chosen | O49,578 bytes
+ -2 | l124-any.txt | odyssey to anyoona-------------------azzaro | O96,762 bytes
+ -3 | l124-ksk.txt | lost in kaleidoscope skies-----------azzaro | 194,O29 bytes
+ -4 | l124-det.txt | detroit------------------------------azzaro | 132,OO4 bytes
+ 25 | l124-eth.txt | expert hand----------------------------revi | 136,188 bytes
+ -6 | l124-ksz.txt | king styles--------------------------chosen | 16O,OOO bytes
+ -7 | l124-id.txt  | delphinus i-dentity------------------azzaro | 18O,185 bytes
+ -8.| l124-ght.txt | go to the hell-----------------------budgie | O68,394 bytes
+ -9 | l124-vol.txt | violence-----------------------------budgie | O87,962 bytes
+ 3o | l124-gde.txt | garden of eden-----------------------azzaro | 12O,OOO bytes
+ -1 | l124-spy.txt | 2 spys in the house of love----------azzaro | 182,284 bytes
+ -2 | l124-cww.txt | call it what you want------------------revi | 2O6,518 bytes
+ -3 | l124-mvi.txt | my vision----------------------------budgie | 11O,899 bytes
+ -4 | l124-pho.txt | phoebus apollo-----------------------azzaro | 125,734 bytes
+----|--------------|---------------------------------------------|--------------
+    | 1   9  9   8 |                                             | OO25 releases
+----|--------------|---------------------------------------------|---------------
+ 35 | l124-sen.txt | sen wezyra---------------------------azzaro | O66,312 bytes
+ -6 | l124-sod.txt | skate or die---------------------------revi | 152,269 bytes
+ -7 | l124-cou.txt | course-------------------------------budgie | 133,874 bytes
+ -8 | l124-m98.txt | minimalistik`98------------------------acid | 14O,OOO bytes
+ -9 | l124-smo.txt | psilocibe 1: sukia monotone----------azzaro | 181,OOO bytes
+ 4o | l124-ehn.txt | psilocibe 2: event horizon-----------azzaro | 182,OOO bytes
+ -1 | l124-tdm.txt | psilocibe 3: dream machine-----------azzaro | 2OO,OOO bytes
+ -2 | l124-hom.txt | homework-----------------------------azzaro | 11O,OOO bytes
+ -3 | l124-338.txt | rebirth of stylism-------------------azzaro | 219,338 bytes
+ -4 | l124-san.txt | santa claus on the party-------------budgie | O78,262 bytes
+ 45 | l124-ays.txt | abyss--------------------------------budgie | 123,141 bytes
+ -6 | l124-wow.txt | wow!---------------------------------budgie | 1O1,OO7 bytes
+ -7 | l124-caf.txt | children against frustration-----------revi | 155,474 bytes
+ -8 | l124-iso.txt | in search of sparks------------------azzaro | 21O,OOO bytes
+ -9 | l124-mld.txt | magic land-----------------------------revi | 1O9,258 bytes
+ 5o | l124-aiw.txt | alice in wonderland--------------------revi | 143,383 bytes
+ -1 | l124-oxi.txt | oxidize------------------------------budgie | 1O4,586 bytes
+ -2 | l124-9so.txt | 94.7% smoked out---------------------azzaro | O87,298 bytes
+ -3 | l124-cre.txt | co robi edgar?-------------------------revi | 1O7,925 bytes
+ -4 | l124-val.txt | valis---------------------------------yaneq | 115,OOO bytes
+ 55 | l124-nlw.txt | no law-------------------------------budgie | O57,OO4 bytes
+ -6 | l124-edg.txt | conceptions 1: edgecrusher-----------renton | O91,968 bytes
+ -7 | l124-des.txt | conceptions 2: descent---------------renton | O38,351 bytes
+ -8 | l124-exe.txt | experiment encore--------------------azzaro | 373,648 bytes
+ -9 | l124-klv.txt | klub voltaire------------------------azzaro | 136,OOO bytes
+----|--------------|---------------------------------------------|--------------
+    | 2   O  O   O |                                             | OOO3 releases
+----|--------------|---------------------------------------------|---------------
+ 6o | l124-wrb.txt | we are back for sure!----------------azzaro | O27.8OO bytes
+ -1 | l124-d1s.txt | duets one: snuff culture---------azzaro+krs | 126.416 bytes
+ -2 | l124-hng.txt | hang on the machine------------------azzaro | 159.OOO bytes
+ -3 | l124-drh.txt | down the rabbit hole-----------------azzaro | 181.37O bytes
+----|--------------|---------------------------------------------|--------------
+ t   o   t   a   l | O63 ascii collections spanked by O12 makers | OO9.431.753 b
+----|--------------|---------------------------------------------|--------------
+    `¯¯¯¯¯¯¯¯¯¯¯¯¯¯'
+    .______________.
+----|--------------|------------------------------------------------------------
+      s       t       a       t       i       s       t       i       c       s:
+----|--------------|------------------------------------------------------------
+    |               a   c   t   u   a   l    m  e  m  b  e  r  s   productivity:
+    `-|------------|------------------------|---------------|-------------------
+      | azzaro---- |  34 ascii collections  |  3O own made  |  O4 co-operations
+      | bull------ |  OO ascii collections  |  OO own made  |  OO co-operations
+      | covenant-- |  O3 ascii collections  |  O3 own made  |  OO co-operations
+      | krs------- |  O1 ascii collection   |  OO own made  |  O1 co-operations
+      | luk------- |  OO ascii collections  |  OO own made  |  OO co-operations
+      | noches---- |  OO ascii collections  |  OO own made  |  OO co-operations
+      | q3ntin---- |  OO ascii collections  |  OO own made  |  OO co-operations
+    .-|------------|------------------------|---------------|-------------------
+    |               e  x   -   m  e  m  b  e  r  s  /  g  u  e  s  t   releases:
+    `-|------------|------------------------|---------------|-------------------
+      | acid------ |  O1 ascii collection   |  O2 own made  |  OO co-operations
+      | budgie---- |  O9 ascii collections  |  O9 own made  |  OO co-operations
+      | chosen---- |  O4 ascii collections  |  O4 own made  |  OO co-operations
+      | darkus---- |  O2 ascii collections  |  O1 own made  |  O1 co-operations
+      | renton---- |  O2 ascii collections  |  O2 own made  |  OO co-operations
+      | revi------ |  O7 ascii collections  |  O7 own made  |  OO co-operations
+      | seti------ |  O2 ascii collections  |  O1 own made  |  O1 co-operations
+      | yaneq----- |  O1 ascii collection   |  O1 own made  |  OO co-operations
+      | zorka19--- |  O1 ascii collection   |  OO own made  |  O1 co-operations
+------|------------|------------------------|---------------|-------------------
+        c     o     n     t    a     c     t         u      s          a      t:
+------|------------|-----------------|------------------------------------------
+      | --OOOOOOO1 | a  z  z a  r  o |  zorka19@puma.tu.koszalin.pl---  [poland]
+      | ---OOOOOO2 | b    u   l    l |  bullaa@poczta.onet.pl---------  [poland]
+      | ----OOOOO3 | c o v e n a n t |  bogus@puma.tu.koszalin.pl-----  [poland]
+      | -----OOOO4 | k      r      s |  ------------------------------  [poland]
+      | ------OOO5 | l      u      k |  ------------------------------  [poland]
+      | -------OO6 | n  o  c h  e  s |  noches@poczta.onet.pl---------  [poland]
+      | --------O7 | q  e  n t  i  n |  ------------------------------  [poland]
+------|------------|-----------------|----------------------------------\    /--
+layout/collected by`¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯'                              _____\  /_
+a  z   z   a   r  o                                                 \     \/ /
+\     \/ /                                                           \    · //
+ \    · //                                                            \    //
+  \    //                                                             _\  /_____
+  _\  /_____                              \                           \ \/     /
+  \ \/     /                               ·(\S!                      \\ ·    /
+   \ ·    /  _____             _______  __  \        __      __        \\    /
+   _\   ____/    /_____.     _/      |_/_/___________\/__.__/ /_______. ___ /
+ ._\ \  \     _//      | ____\      _||___________   \/  |   /        |   //.
+ |    \/ \    \        _      \     \           _/       _  /         _     |
+ |        \____\/      \       \     \          \        \ /          \     |
+ |:            /        \ ___         \          \        \            \    |:
+ :|           /__________\  /__________\ _________\       _\ ___________\   :|
+  |                                                \      /                  |
+  |_        [. m.U.S.I.C  i.S  t.H.E  k.E.Y .]      \    /  s u p p o r t   _|
+  ·//     __________________ _  _____________________\  /_____________     \\·
+    \    /  __               \/                       \/              \    /
+_____\  /_  \/                                                        _\  /_____
+\     \/ /                                                            \ \/     /
+ \      //   musical support  while making  this ascii  collection:   \\ ·    /
+  \    //    ------------------------------------------------------    \\    /
+  _\  /_____ denki groove..................................double a _____\  /_
+  \ \/     / fatboy slim...............on the floor at the boutique \     \/ /
+  \\ ·    /  speedy j........................................g-spot  \    · //
+   \\    /   sheryl crow..........................the globe session   \    //
+_____\  /_   underworld...............................beaucoup fish   _\  /_____
+\     \/ /   niels van gogh.........................doppelganger ep   \ \/     /
+ \    · //   future sound of london.....................dead cities   \\ ·    /
+  \    //    madonna...................................ray of light    \\    /
+  _\  /_____ jam&spoon...................tripomatic fairytales 2001 _____\  /_
+  \ \/     / yello...................................motion picture \     \/ /
+  \\ ·    /                                                          \    · //
+   \\    /   also...............various music modules and mp3 files   \    //
+_____\  /_      _    _         __      _                              _\  /_____
+\     \/ /     | \| | \| |_   |\_|  _ |_|                             \ \/     /
+ \    · //     |  | |\_| |\_| |__  |_|                                \\ ·    /
+  \    //                                                              \\    /
+  _\  /_____   and please meke vengaboys and enrique iglesias shut  _____\  /_
+  \ \/     /   the fuckin` up! those faggots just nerve me more     \     \/ /
+  \\ ·    /    than shitty german version on mtv which cable guy     \    · //
+   \\    /     activate me some days ago. german speech is so....     \    //
+_____\  /_                                                            _\  /_____
+\     \/ /     ah, piss it. i`m off.                                  \ \/     /
+ \    · //                                                            \\ ·    /
+  \    //                                                              \\    /
+  _\  /_____                                                        _____\  /_
+  \ \/     /                                                        \     \/ /
+  \\ ·    /                                                          \    · //
+   \\    /                                                            \    //
+     \  /                                                              \  /
+«»«»«»\/«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»\/«»«»«»
+                              ...out of space...
+«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»«»
+
+@BEGIN_FILE_ID.DIZ
+                               ______
+                       _______/     /\
+    ______     ______ /      /     /  \
+   /     /\  _/     //_     /_    /___/_
+  /      /\ /      /      _/ /   /     /\
+ /______/  /______/_________/___·     /  \
+ \      \  \      \         \  /_____/   /
+--\______\/-\______\_________\_\     \  ---.
+l i n k 1 2 4 ascii[ART]release \_____\/   ¦
+"down the rabbit hole" by azzaro [17/04/2k]¦
+-------------------------------------------'
+@END_FILE_ID.DIZ
+
+                            bbs adverts down there
+                                      __
+                                      \/
+
+                       ,________________________  ______
+                       l                       /__)   _/
+                       |                              T
+                       |                              |
+                       |                              |
+                       ¦                              |
+  - ------ ----------  ·                              ¦ - ---------  ------- -
+    ____________ _____ _____ ___________              :
+     \_       _/     /      Y      ___/___ __         . ·
+ -×6L T       T     /|      |      _l    //_           /
+      |_   .: |    __      _|_ ::       _             /  ·tHE sECT bBS!·
+       /  ____| ___\ |_____\ /_________\\___ _   _   /
+              |     ___________                     ·      _     _  ______
+              ¦      /     __/__ __________   ________ _____________       |
+              .      \____      Y      ___/_//   .____ \_        _/        |
+                        /              _l        |      T        T s3a!    ·
+   ___uSR'33k6         / ::      _               ¦      |_    :: |        _|
+     _24oo-336oo bPs  /_________\\\ ______ __            /___   _l ||_____\
+                                            /_________ _         ¦
+----------------------------------------  -               --------    ----------
+  ·aPPENDiX·dA jORMAS·tELKORDS·piC sAiNT lOUP·fLOPPY·k0RE·liNEAR·oLD bULLS·
+                     ·sATiVE mEA·diNX pROjECT·mAWi·
+
+                 nODe 0 __________________ +48-91-48794393
+                 nODE 1 ___________________________ tELNET
+                 nODE 2 ___________________________ tELNET
+
+    · mASTERED bY: mADBART/aPPENDiX·pOWERED bY: a124ot/6o3/24omhz/5gb ·
+                   · sUPPORTED bY: uFOK+pREFiX+mADBART ·
+
+                [+]  sECOND iN dA wORLD!  [tSP'o1 cHARTS]  [+]
+_                      .                              ·                      _
+\\------------------ - ¦                              : - ------------------//
+                       |_                             ¦
+                       l/                             |
+                       |        _                    _l
+                       |_       \____________________\
+                        /________\
+
+
+                           _____
+               ___________/    /_
+     - --------\         /____/  \  ____________
+     \¯¯¯¯¯¯¯¯¯¯        _____  __ææØØØØ#@@@@P¶¶"
+      \_æµææægggØØØØMggæµ_  _ægØØØØØØØØggggæµ, ,µµµæææææaz0!/l124æµµµ4__
+    _ægØØØP°°"""""""°°¢#ØØk  ¬°#ØØØØØ@F°°°""¯  JØØØØØØØ@@#ØØØØØØP@@M#ØØØ
+    ¶ØØØØ                        ØØØØL          JØØØØ¯    ¬ØØØ#      ØØØÎ
+    ¬¢ØØØQæµµµ________µµæµ,  __æÆØØØØÞµ_____    jØØØØµ_   äØØØØæµ_  øØØØØb
+       ¬°°°¶@@@@@@@@@@¶¶°"  °¶@##########@P°"  °MØØØØ#@^  ¬°¶@@@¶^  °*##®Ë
+           \     _____                  \
+            \   _____          __________\ le  creations  for  the  masses
+             \_/    /__________\-------- - s  t  u  d  i  o  s  2  0  0  0
+              /____/
+
+
+      p  r  o  d  u  c  e  d     e  x  c  l  u  s  i  v  e  l  y     b  y
+
+
+                                     .    .
+                                     _\__/
+                                    |   //\
+                                  __|°_°  |___
+                                  | |_____|  |
+                                  |   `-'    |
+                                  |__\l124/__|
+                                    `.----.'
+                                  ___|----|___
+                                  \____|_____/az0!/l124
+                                     :
+                         /___________ø_ [%* tHE YARd BBS 2k! *%]
+     ._________________///   ________:                          ____
+  ___|_______ ____.    /  ___\_      |___   ___\      _____  __/_   \
+  \     _   //   _|__  __/_    \     |   \ /    \  __/_    \/   /    \
+   \___/    ø   /    \/   /    /     |_   /      \/   /   _/   /      \
+     _/     :  /_     \_ /____/¯\_____/  /       /   /_    \__________/
+     \______|    \_____/_________/ /____/        \_____\_____//
+         \_______|                     /____________\©nUP
+
+  zANEr^LFC ÷ diPSWiTCH^DCS ÷ hAsH^SOiA ÷ NINjA^PDX ÷ mOOL^AHS ÷ dARkUS^HjB
+
+   ÷ AEROHOLiCS WHQ ÷ ARCADE WHQ ÷ AEROSOL WHQ ÷ DiSCiPLES OF AGEEMA WHQ ÷
+      ÷ DREAM THEATRE WHQ ÷ LiGHTFORCE GHQ ÷ BAD KARMA GHQ ÷ ROYAL GHQ ÷
+   ÷ SOiA GHQ ÷ UP ROUGH GHQ ÷ LOW PROFiLE GHQ ÷ PHUNK GHQ ÷ TEQUiLA GHQ ÷
+  ÷ SODiUM GHQ ÷ PUNGAS GHQ ÷ OMEN GHQ ÷ 1OO% GHQ ÷ VORTEX GHQ ÷ MVP GHQ ÷
+          ÷ DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS/BETA-SiTE ÷
+
+    ÷ 2 nODES dIAL-UP 33k6 aND 64k iSDN ÷ 4 nODES tELNET 24h/7 64k iSDN ÷
+ ÷ aMIGA/n64/hANDhELD/pSX/sNES/gRAFFITI/aSCII/mUSIQUE/dRUGS/cLASSICS/lINUX ÷
+

@@ -1,0 +1,543 @@
+@BEGIN_FILE_ID.DIZ
+
+ amiga ascii entries from xenium`99
+ collected by kempy/kore.
+ joined by zito/layout        v0.1.
+
+@END_FILE_ID.DIZ
+
+ --------------------------------------------------------------------------
+  Official XENIUM ASCII Results                                       1999
+ --------------------------------------------------------------------------
+  1. Snap/Ad^Logo   67 points
+  2. Belglar        48 points
+  3. Insect/Altair  35 points
+
+ --------------------------------------------------------------------------
+  XENIUM Logo                                                    by Krepel
+ --------------------------------------------------------------------------
+
+                __________RR___RULEZ__________________________
+     _______   /\   ____      ________              /\       /\
+    /       \ /\ \ /___/\ /\ / ______ \    ________/\ \     /\ \
+   /_______ _/  \ /__  \ i\ \I      /\ \  /________/ \ \   /  \ \
+   \       \/   _/* __\ \I \ I     /  \ \ \      /    \ \ /    \ \
+    \       \  /   ______\  \I    /   |\ \ \    /      \_/      \ \
+     \        /   (  \   |   \   /|   | \ \ \  :                 \ \
+      \     /  \   \  \__|    \   |   | / /_\_ |                  \ \
+     / \  \\    \   \    |  \     |   | \___/¯ |    \      /\     \ \
+    /     / \    \   ----/   \    |   |        |    /\____/  \     \ \
+   /_____/   \____\_____/___/ \___|____\______/_\__/          \_____\_\_
+                  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯K®@p@L¯¯¯¯¯ 
+
+  ------------------------------------------------------------------------
+   Info:  entry number 05
+          placed at    - not placed -
+
+ --------------------------------------------------------------------------
+  XENIUM Logo                                                 by Luftmysza
+ --------------------------------------------------------------------------
+
+          _      _
+         ( \    / )         _        ___   _  _R   R_  __ ___
+          \ \  :¯\|        (_)       )  ) / \ \_\^/_/ /   )__)
+           \ \/ / '        | |      / ¯¯ /   ) / V \ /¯  /  \
+            \  / /¯¯\  _   |;|           ¯¯¯¯        ¯¯
+            /  \/;/¯¯ /'\  | |/\     _   _
+           / /\ \ ¯¯=/ /¯\ |.| / /¯\/ \_/ \_
+          /;/  \ \¯¯/ /   \| | \/  :   __'  \....C-PARTY.....
+         ( /    \ ¯¯ / FTM |   ;  /¯¯\/  \_/¯
+          ¯      ¯¯¯¯      '¯¯¯¯¯¯
+
+  ------------------------------------------------------------------------
+   Info: entry number 06
+         placed at    - not placed -
+
+ --------------------------------------------------------------------------
+  XENIUM Logo                                              by Yaneq/Linear
+ --------------------------------------------------------------------------
+
+                                                           _
+      __                                       ,          |_|
+     |__|                        _            ø#
+                                |_|          j²¬Î
+            [| .______  .______       dF#µ  jF  ¬L  _øNb
+             | |      | |      |      Æ  ¬#µ@    åµø@" â                __
+               |      | |      |      ¬¶ææµµµµµµµµµµææØ"               |__|
+  _            |   [] | |   [] |         \ ~¯¯¯¯¯¯¯~/
+ |_|           |______| |______|          \  -  -  /
+                      |        |     _ ____\_o  O_/____ _        _
+                  |___|    |___|   _  _____  \  /  _____  _     |_|
+      _______                    __        |  \/  |
+     |       |  _______         |__|       | °  ° |  X E N I U M  1 9 9 9 ----
+ ____|       |_|    ___|    _________      |      |       _____    ____
+[]   |             __|___ _|         |_ ___|      |_ ____|     |__|    |_____
+|___     ________        Y     _       Y   |------| Y    |             |     |
+  |  |_____|     |____________| |       __           _          ____|    |__[]
+  |__|     _  __  ____  ______  |      |  |_________| |________|    |____|
+       || |_||__||____||______| |      |
+                                |      |  _____ _  ____  __  _
+------------------ yANEQ.Linear |______| |_____ _||____||__||_| ||
+                  _
+                 |_|                                     ___
+                                                        |___|
+
+  ------------------------------------------------------------------------
+   Info: entry number 07
+         placed at    - not placed -
+
+              __ __    ____   __       ____    ____
+        / / __\ Y /_ _(   /_ _\ \___ _( __/_ _(   /__ \ \
+       <) ) \__   __Y   -   Y  _ \  Y  --'  Y   7  _/ ( (>
+  .a(id \ \   |___| |---7___+---\___|_______|_____(_\ / /  k0re.
+
+                   name------------------xenium
+
+                   author----------yANEQ.Linear
+
+                   font----------thing (size 8)
+
+                   req.------640*256 resolution
+
+                   dedication----budgie+krs+luk
+
+
+    no tak!  jak wyûej pisze proszë o pokazanie tego logosa w
+    rozdzielczoôci  640*256.  najlepiej na filemasterze3.0 lub
+    cedzie4.2 [tutaj proszë wîâczyê opcjë "duplicate workbench
+    size",  gdyû w innym wypadku caîy logos nie wmieôci sië na
+    ekranie  i trzeba go bëdzie troszkë scrollowaê!!!].  no to
+    chyba tyle.  pozdrawiam organizatorów
+
+                                             yANEQ.Linear
+
+
+
+    tym razem ostro sponsorowaî mnie strasznie poîamany track
+    BLIM- Glaciers!  ech, drumy rulesujâ...
+
+ --------------------------------------------------------------------------
+  XENIUM Logo                                                by Krs/Linear
+ --------------------------------------------------------------------------
+
+      _                                              __   ___
+     |_|           /                              / |__| |   |  ____
+   _   ___  _____ /______                        /       |___| |____|
+  |_| |   | \    /      /                   ___ /__________
+      |___|  \  /      /   \ [ wîocîawek ]  \  /          /   /
+     \--------\/      /_____\ ___    ________\/          / _ /____k®s!/la!
+    _ \              /    ___\  /____\                  /__\/    /_______
+   |_| \       _     _        \/              \_____                    /
+       /       \-----/_______       /----------\   /_________          /
+      /         \--]        /-------\                       /----------\
+     /           \-----]               multiplatform  ___ /_____________
+    /             \--]    _______\ _                  \  /             /
+   /_______________\  ___ \       \/-------/___________\/             /
+                  _  |   | \                                         /
+    .demoscene . |_| |___| /________________             _           \
+                                           / 1o-11 lipca \------------\
+                              x e n i u m /_______________\  6 6 6 |
+                                                           \
+
+  ------------------------------------------------------------------------
+   Info: entry number 08
+         placed at    - not placed -
+
+  autor: krs/linear  [ k®s/la! ]
+  nazwa: xenium'99 logo
+  compo: ascii art - xenium'99 wîocîawek
+  contact:
+    krzysztof gawor  ul.gombrowicza 33/28  59-22o legnica  tel.855-08-43
+
+  coment: w wypadku wygranej osobâ upowaûnionâ do odebrnia nagrody jest
+          yaneq/linear
+          Logos jest zrobiony za pomocâ mojego nowego stylu [summer drugs].
+          Styl zupeînie n'shool. Jest to jeden z pierwszych logosów otrzymanych
+          tâ technikâ wiëc jest jeszcze nie dopracowany.
+
+
+  respect:  all members of 
+                        kore.  linear  sative mea  deeznuts
+
+                                       monar
+
+
+                    a kto z nami nie wciâgnie, tego we dwa kije
+
+
+                               do zobaczenia na slc
+
+  greets:
+
+   acid  ace aln!  asl azzaro binar blaze budgie caro city cooper covenant deixas
+   def  digger  dosia  droczkins  gluten  grogon  guma hangman idaho jakec kaiser
+   kessel  kro  luk  lulu  madbart  madd maq mdw melon mobby mustafa neuroup peer
+   proton punisher revi rico spark starlight thor thung twister voicer wild yaneq
+   zoom
+
+ --------------------------------------------------------------------------
+  XENIUM Logo                                      by Fighter4Future/Crew
+ --------------------------------------------------------------------------
+
+                         _________ .
+         ._______.-------\_       `|- -
+      ___|__          _ __ ___ ______
+      \_   _\  _____  \\\_\\__\\__  /       _____
+       _,--' \/    /_________   _/ /       /____/            ._____
+     .        \         ____/---' /_ ___/\ ______        ____|   _|_____
+  - -|-,_        ____   >--,_   _/  \     \\    /________\   |   \     /___ __
+        /___/\____\ /________\--\_____   _ \\     ___                \/    \\ \
+         .                           /___/ _______\ /      ______    _______\\_\
+         |    ____                 .        -FFF-  /_______\    /______\
+      - -|-- /\   \                |
+         ·  /  \ __\  __           |         __ _
+            \  /   / /\_\  __      |        / ///               .::::::.
+             \/___/  \/_/ <>_> ----|- -     \///  .::::::.     ::::.  ::.
+                                   ·             ::::.  ::.     ::::. .::
+                                                  ::::. .::  .    :::::::
+                                               .    ::::::: :::.     .::;
+                                              :::.      .:: `::::::::::;
+                                              `:::::::::::'
+
+  ------------------------------------------------------------------------
+   Info: entry number 09
+         placed at    - not placed -
+
+  Ascii compo Xenium'99
+
+  Fighter For Future/Crew(ascii group)^Garbage^(demo)
+
+ --------------------------------------------------------------------------
+  XENIUM Logo                                              by Thung/Kore.
+ --------------------------------------------------------------------------
+                         .                                 __ _ _
+                    ·         ·                           _) (_)) \\___
+                .                 .                    __)           _(__
+      .______    .[ x e n i u m ].                     \  .½½_½½½. _ ___/
+    __|     / .    .] 1 9 9 9 [.    .                   (\|      |/_) ).
+  __\ l    /___  \______________________                  l_oO___l _
+ Y             \ _______                \\_________ __ _  / - ___  \
+      7         \\  ___/______ _______    .___   ___.    (____`-' __)
+ 7___/l________7    _/ /      \\    _/__ _l  /_ _\  |____ _ / \_// \__ _
+  tG!.k0       l____\            __ \/  Y      Y    |\   Y \ ___ ___    
+                     \___________\|     _______l__  `       \\  Y  /____ 
+                   \              l_____l       /________7              Y
+    t h e           \\_________                          l__   \__l
+   k 0 r e.                 _ /________________________ _  /_____|     _7
+  p r o d u c t i o n       \/                        //         l_____\
+                                                     _/ tHUNg.k0re.
+
+  ------------------------------------------------------------------------
+   Info: entry number 10
+         placed at    - not placed -
+
+   .____                  title  .xenium-999.
+  _l   //___
+ Y    _____/___           compo  ascii compo ;]
+ l____ \       Y
+     \__     __l        _ author thung of k0re. ] ascii [ + apathy ] demo [
+      _l  Y _/_________ /
+ tG! Y    -           //_ address peter klimek zabia 8/3 91-457 lodz poland
+  k0 l____7              Y        thung@polbox.com
+          l\___ _    ____l        try for ascii requests or normal swapping
+              _\\ Y _/_____
+             Y    l \/     Y comment  [ respect to all ascii maker's ]  
+             l_____        _
+                  l__    __l
+                 .__\    /_________________________   .___ /
+                 |  \\                            /_ _l  //____
+                 l_____7                            Y  __/     Y
+                       |                            ___\_      _
+                       l____________________________l   l______l
+
+                                  _______
+                             _ _//       \\_ _
+                              \\  __ _ __  //
+                              \_  '     `  _/
+                               (\___) (___/)
+                                )`-'   `-'(
+                                \   -=-   /
+                                 \\_____//
+                              \--=--\_/--=--/
+                              )\    (_)    /(
+                             / _\\  / \  //_ \
+                             \  \  /   \  /  /
+                             /  /  \\__/  \  \
+                             `-//\___ ___/\\-'
+                                  / `-' \
+                                _ )  _  ( _
+                            tG!(__\__l__/__)k0
+
+ message :  nie wiem jakie dokladnie sa zasady ascii compo [ brak invitki ]
+            logos xenium-999 jest napewno dobry [ zgodny z zasadami ]
+            reszta logosow moze byc traktowana jako ??? jako dodatek
+
+ --------------------------------------------------------------------------
+  XENIUM Logo                                         by Azoore/Siara+L129
+ --------------------------------------------------------------------------
+
+ ###########################################################################
+ ###########################################################################
+ ###########################################   #############################
+ ###########    ############################   ################   #####   ##
+ #    ######    ###############################################     ##    ##
+ #     ####   ####################     #####   #####   ########     ##    ##
+ ###   #### #######      #####         #####   #####   ###   ##           ##
+ #####      #######   ##   ###    ###   ####   #####   ###   ##   #       ##
+ ######    ######   ####   ###    ###   ####   #####   ###   ##   ##  #   ##
+ ######    ######          ###    ###   ####   #####   ###   ##   #####   ##
+ #####      #####          ###    ###   ####   #####   ###   ##   #####   ##
+ #####        ###   ##########    ###   ####   #####   ###   ##   #####   ##
+ ###   ####   ###   ###  #####    ###   #####    ####        ##   #####   ##
+ ###  ######    ###      #####    ###   #####    ####        ##   #####   ##
+ #    ######   #############################################################
+ ##############################  ###########################################
+ ##############################       ######       #########################
+ #############################   ##   ######       #########################
+ #############################   ###    ###   ###    #######################
+ #############################   ###    ###   ###    #######################
+ ##############################  ###    ###   ###    #######################
+ #############     ############         ####         ##########     ########
+ ###################################    ####         #######################
+ ###################################    #########    #######################
+ ##################################   ###########    #######################
+ ##############################       ##########   #########################
+ ##############################     ########     ###########################
+ ###########################################     ###########################
+ ##################################################################azoo/l129
+
+ --------------------------------------------------------------------------
+  Info: entry number 11
+        placed at    - not placed -
+
+  ASCII-LOGO BY AZOORE/SIARA+L129
+  ========================================================
+  ========================================================
+  praca w calosci wykonana przeze mnie na programie
+  CygnusEd Pro v4.2 (oryginal)
+  ========================================================
+  ========================================================
+  fuck ascii styles, minimalize all!
+
+ --------------------------------------------------------------------------
+  XENIUM Logo                                               by Kempy/Kore.
+ --------------------------------------------------------------------------
+
+ .  x      .      e      .      n      .      i      .      u      .      m  .
+ ____ _____________________________________________________________________ __
+    //                                                                    //
+ __//____________________________________________________________________//___
+ ____ ,  .  ,  ._____.  ,  .  ,  .  ,  .  ,  .  ,  .  ,  .  ,  .  ,  .  ,   __
+    / .  ,  .  /    /,  .  ,  .  ,  .  ,  .  ,  .  ,  .  ,  .  ,  .  ,  .  /
+ __/  ,  _____/    / .  ,  .  ,  .  ,  .  ,  . ____.  ,  .  ,  .  ,  .  , /___
+ ____ __/__  /  __/__________________________ /   /________________________ __
+    //                    ______/            /   /      /     __ __ __    //
+ __//_______7              __/        7     /___/     _/       /  /  / __//___
+ ____ ___  /         ________________/______________________  /  /  /_/ ___ __
+    //    /_________/   __  _____________  _____________   __/__/__/      //
+ __//________________  / / /   _____    (_/   _____    (_  ______________//___
+ ____ .  ,  .  ,  .  , )/ /       _/             _/     /,  .  ,  .  ,  .  ,__
+    / ,  .  ,  .  ,  .  , )_______      /)_______      / .  ,  .  ,  .  ,  /
+ __/  .  ,  .  ,  .  ,  .  , 7_________/  . 7_________/  ,  .  ,  [km!k0] /___
+ ____ _____________________________________________________________________ __
+    //                                                                    //
+ __//____________________________________________________________________//___
+
+ [ .  w  .  l  .  o  .  c  .  l  .  a  .  w  .  e  .  k  .  9  .  9  .  9  . ]
+
+ --------------------------------------------------------------------------
+  Info: entry number 12
+        placed at    - not placed -
+
+ Autor(Autorzy): kempy'kore.
+ Ctx:            somewhere in szuflandia
+ Tytul pracy:    XENIUM'99 ASCII TURBOLENCE...
+ Rodzaj compo:   ASCII ARMAGEDDON
+ MSX-soft:       
+ MSX-sprzet:     
+ System:        
+ Procek:        
+ Video:         
+
+
+ !UWAGA! Jak moûecie to zapodajcie na THINGPL.FONT [jest na dyszlu!] !UWAGA!
+
+            _ _____  __    _________     _ _________   _ ______
+      ___  _\\)   /_) /_ __) _____ (__ __\\) _____ / __\\) ___/___  ___
+ ·((((___(·)____     / (·)____`-'    (·)____ _ `-' (·)_____-`    (·)___))))·
+                /______/      /______/      ///____/      /______/__
+ K  0  R  E  .                                                   /__)  km!k0
+
+ competition: · · · · · · · · · · · · · · · · · · · · · a s c i i  c o m p o
+
+ title: · · · · · · · · · · · · · · · · · · · · · · · ·  x e n i u m ' 9 9 9
+
+ author:  · · · · · · · · · · · · · · · · · · ·  k e m p y / k 0 r e . [km!]
+
+ addy:  · ·  p r z e m e k  k o w a l c z y k . k o p e r n i k a  1 3 / 1 4
+
+        · · · · · · · · · · · ·  3 4 - 1 0 0 . w a d o w i c e . p o l a n d
+
+ technical stuff: · · · · · · · · p r e f e r e d  f o n t  -  t h i n g p l
+
+ comment: · · · · ·  h a p p y  b i r t h d a y  t o  a c i d / k 0 r e . =)
+
+          · · · · · · · ·  m a d e  o n  g r e a t  A M I G A  c o m p u t a
+                   .
+          . .  w y z e j  k r o p k i  n a m  n i e  p o d s k o c z y c i e
+
+ --------------------------------------------------------------------------
+  XENIUM Logo                            by Arhan, Pmazi, Synthetic, Tomba
+ --------------------------------------------------------------------------
+
+   xenium,99         **
+       _,     _            _____                                   ... .. .   .
+   \/ /_  \  / \    _><_   \   <    .-, m     ______  ^$#^$#^#^    .. .  .   .
+   /\ \_  |\ | |   |    |   |   >  < <       ( o _ | %@%#%@%#@%#@  ...  .   . .
+        ' | \+ |   (    )   |  (    ) )       \_/ || %%%$   %%@$#  ..  .    .
+         ++ |  |... (  )    |   )  ( (            || $@#$   $#@$#  ....   .   .
+         |__|  |  :  ||      \ (____) )          _||  %#$#%$$@%@%  .. ..  .  .
+               |  : (  )      \_____./          |  |        %%%%$  ...  .   .               |  :  ||                         + /
+               |  :............                 ^./         $$@$@  ..  ..   ..
+               |            * :                      %$#    $$#$@  ... .. .   .
+               ·······.... *+*:                        @$$$#$!#    .. ... .  .  .
+                         :  * :
+                         :    :   /|     | /      |\   /|
+                         :....:  /_|     |+       | \ / |
+                                /  |miga | \ielce |  |  |eeting
+                                                                     +
+         |_ogos by: arhan ("e"+"u"+second "9")                     () ()
+                    pmazi ("i"+"·")                               +  o  +
+                    synthetic ("x"+first "9"+"m")                  () ()
+                    tomba ("n"+"akm" logo)                           |
+                                                                     \
+                                                                      \
+                                                                      |
+
+made on synthetic's babcia house party meeting'99 [with kolumienkis from pcs]
+                             [one hundert coma twenty watts]
+                {multimedialnes kolumienkis]
+
+
+inspiration: psylocyb "liscie skuna"
+             synthetic "inspiration source"
+             blaze[pc] "brainscanner"
+
+ --------------------------------------------------------------------------
+  Info: entry number 13
+        placed at    - not placed -
+
+  autor akm
+  tytul akm&xenium rulez
+  ctx synth@box43.gnet.pl
+
+ --------------------------------------------------------------------------
+
+ --------------------------------------------------------------------------
+
+ @ b e g i n                                                         e n d @
+             .::::·                       ... ... ... ... .. ...
+   ·::::.  .::::·_________                ·                    :
+   __·::::::::·_\_________\__________     :      xenium 99     .
+  /\__·::::::·__/_____    /__________\_______                  :
+ / /   .::::.        /__________     /_______\__________       .
+ \/__.::::::::.____            /    /____    /____\_____\__________
+    .::::::::::. /____________/                   /     /____\_____\
+   .::::·  ·:::::. ==========/______ _           /           /     /
+                 ____  ____  =====/_____________________          /___
+                /\\\\\/////\     ==============twr/dzn/____\/    /\\  \ __
+ _____________ (// ____   \\) ____________________   ======/_______\\__\\_\
+                \| |  |__ |/                     /_________ _  _   _____
+  m    /__    /\(· |_,|,| ·)/\                                        | |
+      /__//  /// \ (_()_) / \\\         | |
+  i     __   \\// \_`--'_/ \\//                                   |_|
+      //_/_   \/ __|    |__ \/          ______
+  n     __      /          \                             | |  | |
+      //__\    /            \              |_|__| |
+  i           /              \                           _|_|
+  m   //__\  /  /( . )( . )\  \                 ______
+             \  \          /  /                    | |  | |
+  a    //_    \  \   /\   /  /               |_|__| |
+      //__     \  \ /__\ /  /                              _|_|
+  k             \  /|  |\  /              ______
+      \\_/     / \/ |__| \/ \                                | |  | |
+  s     /      \ /  `--'  \ /          |_|__| |
+                \¯¯¯¯¯¯¯¯¯¯/                                         _|_|
+  (c) deez`nuts - minimaks industries - kacperpassengertwister - all stars
+
+ --------------------------------------------------------------------------
+  Info: entry number 14
+        placed at    - not placed -
+
+ @begin info
+                                 _          g r e a t e x p e r i e n c e
+          ½½½½½   _     _       ` ½         
+    %%% ½¯½½½½½ ½½_½½ ½½_½½ ½½½½½½½ %%%     d e e z n u t s   a t t a c k
+  %·%   ½_½½½½½ ½½_,  ½½_,  ½½½½½_,   %·%   y o u r   s i l l y   m i n d
+  % %                                 % %   w i t h   n e w   a z k e e e
+  %·%   ½½·½½½½ ½½½ ½ ½½½½½ ½½½¯'     %·%   m     a     d    e     b    y
+    %%% ½   ½½½ ½½½_½  ½_,  ½½½½½½½ %%%           ! T W I S T E R !
+        ½   ½½½              ,__½½½ kem/k0
+
+
+
+               .small.info
+ 
+               .lenght : 2.1o1kb
+               .font   : topazpl [8]
+               .author : twister/garbage+veezya+deez`nuts! [twr]
+               .addy   : robotnicza 2, 14-53o frombork, poland
+
+                      greetings fly (for a white guy) :P
+
+  Acid/Twilight+Kore.Adonis/Iris.Amifan/HighVoltage+Terror13.Ash!/Decree+
+  Apathy.Azoore/Siara.Aztec/Absurd+Sector7.Azzaro/Mawi+Embassy+SativaMea.
+  Basha/BlackMaiden.B0b/Garbage.Bojler/PRL+X-Liberty.Boulder/HighVoltage.
+  Budgie/Absurd+Linear.Carp/Whelpz+Apathy.Clever/Butchers+Veezya.CNR/Agra
+  vedict+Kore.Combo/Independent.Cyrnox/Garbage.Delphin/Dreamland.Digger/I
+  ris.Dope/Independent.Dr.Oczkins/Whelpz.Edydar/Neurotics.Estrogen/Garbag
+  e+DeckSix.Evan/Nah-Kolor.Exor/Garbage+HighVoltage.Fazer/X-Liberty.Fight
+  er for Future/Garbage.Franc/DarkTeam.Gandalf/Whelpz+RainbowDesign.Hypno
+  tic/Cefalon.Idaho/Potion.Jarus/Independent.Juen/DarkTeam.Kacper/Proxima
+  ll+DeezNuts.Kempy/Twilight+Veezya+Kore.Korbol/Cefalon+Garbage.Krs/Linea
+  r.Laku/Independent.Lisaros/HighVoltage+PowerOfManga.LordMax/Zools.Luk/P
+  haseTruce+Linear.Lunar/Taski+RaveNetworkOverscan.Mandos/Moons.Mornaug/A
+  migaNest.Passenger/DeezNuts.Pnx/Garbage+GraveRaveDancersUnion.Rabi/Task
+  i+Drinkers.Ravrot/Whelpz+Apathy.Rebel/Apathy+DesFantoches.River/Breathe
+  .Rodman/Independent.Roger/Cefalon.Rolpho/Deck6.Roover/Decree.Sator/Poti
+  on.Sirus/Breathe.Smooth/PhaseTruce.Sobol/Breathe.Spectra/Veezya.St0/Dec
+  k6.Swonyo/Cefalon.Thorin/Veezya.Thorr/Whelpz.Venom/HighVoltage.VincentV
+  ega/Garbage.Zigo/Independent.Zito/Zetec.
+
+      special greetings goes 2: Dipswitch/Arcade - big thanks 4 all,
+                      i'm waiting for more surprises!
+
+
+                ___________________________
+                \                         /___________________
+                   _____________________                      \_______
+           ________\_____    /____     /___________  ________        /
+           \         ___/        /____________    /__\_____  \_____
+            \____ :. \     ____:.            /______  ________\   /\
+               __\________/   /____________:.       :.\          / /
+          ____/\__________________        /_____________________/ /
+         /\___\/______      /    /________     ________  _ _____\/
+        / / :.       /     /_            /____/   ____/___ twr/dzn
+        \/__________/ :.                _____/________    \ ___
+                   /______________ :.     \          /  :. \\  \ __
+      /__________                /__________________________\\__\\_\
+                /______________
+                              /____________________________ ___ __ _
+       contact us!
+
+                ·kacper·d.kacprzak·lipowa8/32·97-5oo radomsko·
+             ·passenger·t.piatek·78-111 ustronie-morskie·gwizd5a·
+           ·twister·b.ptaszynski·robotnicza2·14-53o frombork·whq!·
+                               all from Poland
+
+                     deez`nuts minimaks industries in 1999
+
+                   wait 4 a little ascii-boom near milennium!
+@end info
+
+ --------------------------------------------------------------------------

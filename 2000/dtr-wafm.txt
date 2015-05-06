@@ -1,0 +1,1052 @@
+--[BOF]-----------------------------------------------------------------------
+______________________________________________________________________________
+
+w    w    w    .    t    h    u    g    l    i    f    e    .    o    r    g
+              ,  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+        . __________;;;;_____________________;;;;____  t·H·U·G·L·I·F·E
+     _ _|_)                                          \ _______________
+     ___|      ___   _______  ______   ____        ___\\   ____  ____/_
+ _ __\ (|_ ____\ (___\__   /__\_  _(___\_ (._______\_(_\\__\ _(_ \   _/_____
+ \\\_   _//  _/  _    _/  /   _/  \_   _/  |    _/      _/ _    \   _\    _//
+    /__ \    \___/    \___    \___     \___     \___    \  )_____\___     \
+<<====/____ __\=/___ __\=/__ __\=/___ __\=/___ __\=/__ __\___\    /=/___ __\==
+        | / \      / \     / \      / \      / \     / \   \\    /     / \
+     _ _|___________________________________________________\\  /
+________|           ;;;;,,,,,,, ,,,   ,      ;;;;             \/ bne&&spf-----
+                                             ``````````` ``  `
+w    w    w    .    t    h    u    g    l    i    f    e    .    o    r    g
+______________________________________________________________________________
+             This file passed The Ascii Archive at THUGLIFE.ORG.
+         Home to over 133 +/- ascii groups, and even more releases.
+      Interviews & Reviews. Always the latest in Ascii News/Releases.
+--[EOF]-----------------------------------------------------------------------
+---[TY!]-----------------------------------------------------------------------
+          .                                      .
+    _____/|_                   _______/\         :.
+    \ _   | \---.____/\____    \_    /  \________:_____/\  -poyZ!
+- - -\/  \|   _  \ __   __/-.   (____    \   _  \_   _   \________/\
+     (____|   \   \//  __/   \_    \____/_) _    |   \   _\__   _   \
+        /______)  /__________ /       _/    /    |____)     /   /    \
+          :   \________/    \/        \_\  /-----'   \____ /__________)
+          .                              \/              \/
+
+ * Two Nodes Dial-UP at 33k6/64k-ISDN -+- Four Nodes 24/7 Telnet at 64k-ISDN *
+
+ [-ahs/dtr/a!/asl/bs! WHQs ··· lfc/bk/ryl/lp!/hts/up!/soia/mvp/tql/1oo/ GHQs-]
+[-0d Amiga/Ascii/Handhelds/N64 · Snes/Psx/Ps2/Mp-3/PC-Classics/Graffiti/Linux-]
+
+   -+- Zaner/Lightforce -+- Dipswitch/DualCrew-Shining -+- Ninja/Paradox -+-
+       -+- Darkus/Haujobb -+- Hash/Panzerknacker -+- Mool/Aeroholics -+-
+------------------------------------------------------------------------[TY!]--
+
+                                        .
+                                     ·
+                                 . ..:..:.. .
+                                     :  :
+                           .   . ... :  : ... .   .
+       __                            :  :                             __
+- --\-\\_)-----------------------------------------------------------(_//-/-- -
+        _              W  E   A  R  E   F  A  M  i  L  Y              _
+- --/-//_)-----------------------------------------------------------(_\\-\-- -
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :    .
+                                     :  :
+                            .   . ...........:. .
+                                     .  .    ·
+                                     :  :    .
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                .    :  :
+                                     :  :
+                             . .:........... .   .
+                                ·    .  .
+                                .    :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     ·  .
+                                     .
+                                        .
+                                     .
+
+@BEGIN_FILE_ID.DIZ             _____,----.
+   drn!  ____\ __      |_____________
+ ________\_   \ /   _ _!\    _      /
+_\ .     ./    /  _\\\\:     /   . /_
+/__:___  !\  ___       __    \ __:__\
+   ¡   `----'   `-----'  `----\  ¡ _
+_  |       "wE aRE fAMiLY"       | ((
+// !_      - ----------- -      _!
+   :/ diPSWiTCH aT mEKKA^sYMP2k \:
+   //___________________________)\@END_FILE_ID.DIZ
+
+                                     ·  .
+                                     .
+                                        :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :    .
+                                     :  :
+                            .   . ...........:. .
+                                     .  .    ·
+                                     :  :    .
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                .    :  :
+                                     :  :
+                             . .:........... .   .
+                                ·    .  .
+                                .    :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                           .:....... :  : .......:.
+                          ·......... :  : .........·
+                            ·        :  :        ·
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  .
+            ·.                       :  :                      .
+         . .:.::......... .  .   .  .:  .  .   . ... ........:.:.:. .
+            :::::                                            ::.::
+            :::::   _____    ____   _____   __________  ______ :::
+            . ___ __\__  \___\_  \__\  _/___\___  /_  \/     /__ .
+       _____|_) //    /   \  _/ _/__   __/__  _    /  \/    // (_|_____
+    _:_)   /|   /    /    / /      /       /  /  _/   /    /     |\   (_:_
+   \\_         /_________/__\_____/_______/______\___/_____\            _//
+     |_                                                                 |
+     |/   ________________________   _______________  ____   _____      |_
+     ·    \ _    _ /   /    /   _/___\___  /_    _ /__\_  \__\  _/_     |/
+    (|    /_/    /_\ _/    /    __/__  _    /    /_\  _/ _/__   __/__   ·
+     |  tR!/    //   \_   /         /  /  _/    /    /      /       /  (|
+     ¦    /_____\_____/___\________/______\_____\____\_____/_______/-T! |
+     |_ _ ___                                                    ___ _ _|
+     :////  /           .____                   ____.            \  \\\\:
+    //__________________:_ (/· dRE/\M tHE/\TRE ·\) _:___________________\\
+            . ...       |/                         \|        .....
+            :::::                                            ::.::
+         . .::.::............. .. . ..  . ..  ... . .........:::::. .
+            : ·.                     :  .                    ·: :.
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                           .:....... :  : .......:.
+                          ·......... :  : .........·
+                            ·        :  :        ·
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :                     __
+       __ _       __                 :  :                 ____\/____
+      _\ _________) \__              :..:... _ ......  ___\········/___.
+  ____../             /_..__ __  _______  __ /_     · :::: :::::::: :::: ·
+ .)   ||  /          //_||_((_(_/ ._   (_/ (_____· :: :::: :::::::: :::: :: ·
+ |    || ·      _   /          /  l/   _/__._   (_ _____:__ _____ ___::______
+ |____||_       ) _/_        _/_  /____/   l/   _//____//__))____))__||______))
+        /_________\ /________\ /____\ /   _/____\     :::: ........ ...
+                               _ _ _ X____/         . :::: :::::::: ::::
+   _______.    __ _   : _      ((_\\/                 :::: :::::::: ::::
+  .)      |   _\ _____._)                           ._:_______::::: ::__
+  |   .oO |     _)   _|____/\  __ __ __  __ ·    __  \/      /·______/ (..____
+  :__ ____:__ _/     \|_     \/ ((_((_(__) \_\ _/ _)____    / /         ||   (.
+ <(_((___((__\\       |/      ._      _      )\\  \    /   /-/       ·  ||    |
+  :       :    \_     /\______|/_    _)     _\__   · _/___/ /       /  _||____|
+ _|_ aBHO | _   (____/:     /________\ _______\/_____\:::: /___________\
+  :/______|_)                         ·             · :::: ........ ... ·
+  ·     - · - --- / - d i P S W i t C H - / - -- · :: :::: :::::::: :::: :: ·
+          :                          .............. . :::: :::::::: ::::
+                                     :  :             ·¯¯¯/........\¯¯¯·
+                                     :  :                 ¯¯¯¯/\¯¯¯¯
+                                     :  :                     ¯¯
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                           .:....... :  : .......:.
+                          ·......... :  : .........·
+                            ·        :  :        ·
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+         ·                           :  :                           ·
+.........:.. .   .  .    .    .  . ..:  :.. .  .   .     .  .. . ...:.........
+::       :                                                          :       ::
+::.......: <---------- -  -- -------------------------------------> :.......::
+    :::::: _______                       _______                    ::.:::
+    :.___  \     /_____ ______        ___\___  /_ ______    ______  ::::::
+    :|   | /    /     /_\_    \      /     _    /_\_    \ __\_    \ ::::::
+    _|.  |/    /\    /   /    /_  _ /      /  _/  _/   _/_   /    /_ _::::
+   | ||  /_____/\____\  /____/ //\\\\_________\   \      /  /____/ ///_:_:
+   | :|  |          \_________/             /_____/_____/_________////////  /
+  :| ||__;                   · wE aRE fAMiLY ·                      /....:
+ .||__| ..    _________     _____  _____    .           _____.____  ::::::
+ ·  ....::  __\__     /_____\    \/    /    :  _____   /    /    /  ::::::
+    :::::  /    /____/_\__  /_   \/   /     | /    / _/    /_   /   ::::::
+    :.::::/     ___/    _    /   /   /      |/   _/__\______/  /    ::::::
+    :::: /_______\      /  _/___/____\      |    \     //_____//))) ::::::
+    ::::..       \_________\tR!     |       \_________/-T!          :::.::
+    ::::::                          :       :                       ::::::
+....:::::: <----------------------- · -  - -----------------------> ::::::....
+::       :                                                          :       ::
+::.......:... .  .    + tHE mEKKA/sYMPOSiUM eXPERiENCE +    .  . ...:.......::
+         :                                                          :
+         .                                                          ·
+         .  Cologne, 28th April 2000                                .
+         .                                                          .
+         :                                                          :
+         :  Welcome to this textfile. It is colly and party report  :
+         :  at the same time. First I gonna expose you my sight on  .
+         :  the biggest German scene event, then you gonna see the  :
+         :  logos i did straight at the party place.                :
+         :  By the way, don't miss the party reports of Crest (not  :
+         :  the c64 legends) and Scamp/Vacuum. Especially the last  :
+         :  one exposes some very negative circumstances of the     :
+         :  party which I unfortunately didn't notice.              .
+         :                                                          .
+         :  I got to the party place by car with some old pc scene  .
+         :  friends of mine - Poti and Pandur of Black Maiden. Per-
+         :  haps you know the last one as one of the most hardcore  :
+         :  PcBoard door coders of the past. Anyway, Avenger/Black  :
+         :  Maiden^DTR also planned to go with us, but failed       :
+         :  because he noticed too late that he must learn for his  :
+         :  exam =). As you perhaps know, DTR Allstars planned to   :
+         :  arrive and do party and coops and stuff but it failed.  :
+         :  Zaner wasn't there because of his usual trips to Turkey :
+         :  and some additional probs, Avenger and Lord Chaos had   :
+         :  to learn for the exams and Shaolin wasn't seen either   :
+         :  at the party place. So I was the only one DTR warrior   :
+         :  to represent our crew. Unfortunately I couldn't even    :
+         :  take my Amiga with me because the car was too filled    :
+         :  up, so I had to be happy with a 386/SX20 notebook and   :
+         :  the Amiga font simulator. Well, better than nothing...  :
+         :                                                          :
+         :  We arrived at the partyplace at around 16:00 (we had    :
+         :  to go through a damn Easter traffic jam). At this time  :
+         :  the party place was very filled up already, and Pandur  :
+         :  (who got his PC with him) and me got a quite shitty     :
+         :  place in row 54, somewhere in the middle of the hall.   :
+         :                                                          :
+         :  The first person I met wandering around the hall was    :
+         :  Ramses/Remedy, whom I was really glad to meet, on the   :
+         :  one hand because he's really one of the friendliest     :
+         :  in the scene and on the other hand because at first     :
+         :  sight I haven't noticed anyone I know in the hall.      :
+         :  Ramses helped me to find cQBs/Oldskool, was going to    :
+         :  setup his BBS at the party place to get online with     :
+         :  it again after the party (Hey cQBs, I still get no      :
+         :  connect!). The guy sitting next to cQBs turned out to   :
+         :  be my groupmate Gilligan from DCS Console. Now that     :
+         :  was really nice, because I was looking forward to       :
+         :  get taught some GB trainer coding techniques by him.    :
+         :  We decided to do this tomorrow, and the I was off to    :
+         :  walk around a bit.                                      :
+         :                                                          :
+         :  I think, the nicest thing about this year's Mekka was   :
+         :  the weather. It was really warm, so we spent really     :
+         :  much time outside, lying on the one grass, smoking      :
+         :  the other and listening to music from Poti's car radio  :
+         :  At the time (about 18:00) Faxe (the ex-sysop of one     :
+         :  of the nicest german Pc BBS's of the past, Kaoz BBS)    :
+         :  was around already and brought me some long-awaited     :
+         :  dancehall reggae mixtapes, the absolutely right music   :
+         :  for the weather.                                        :
+         :                                                          :
+         :  We didn't spend all the time we spent on fresh air      :
+         :  of free will. Smoking at the hall was prohibited for    :
+         :  some unclear reasons (btw at Evoke'99 everyone smoked   :
+         :  inside, and the air was still better than at MS hall).  :
+         :  As the most of you already know, the organizing team    :
+         :  hired some professional security men for the party.     :
+         :  Security men CAN be nice, but the organizers managed    :
+         :  to get some real dumb morons out of Hamburg's most      :
+         :  rotten nightlife places, who were used to take care of  :
+         :  people who are even more dumb then them. Fortunately,   :
+         :  I had no serious probs with them, but other people      :
+         :  seemed to have, read Scamp's report...;(  But I still   :
+         :  had the chance to see how dumb they were. Later in      :
+         :  the evening I was standing infront of the entrance      :
+         :  smoking a self-rolled cig, a security man called out    :
+         :  "Hey, you aren't smoking a joint, do you?". I offered   :
+         :  him to smell the "joint" and to convince himself that   :
+         :  it was an ordinary cig. Innerly ashamed, he stated in   :
+         :  an ignorant way "I don't care, you can shoot heroine    :
+         :  out here and I won't care, it's your health." So why    :
+         :  he was asking ?  Scamp/Vacuum tells many other un-      :
+         :  pleasant facts about the security men who happened to   :
+         :  sit not far from him... So my first appeal to the       :
+         :  organizers is: prove your security men if you even have :
+         :  to hire them !  And go to Evoke to convince yourselves  :
+         :  that smoking at the partyplace musn't be a problem.     :
+         :                                                          :
+         :  But lets go on with the chronology... Friday evening    :
+         :  there was the great movie "23" shown on the bigscreen.  :
+         :  I guess the most of you know this great movie about     :
+         :  a 80's hacker who believes in secret societies and      :
+         :  starts to hack for the Soviets to balance the powers,   :
+         :  but hooks up with coke and starts to hack just for      :
+         :  money... But the main point, why the movie was worth    :
+         :  showing at the party, was the scene where the two       :
+         :  main actors smoke a spliff in a train and get thrown    :
+         :  out - guess where ?  In Fallingsborstel, the small      :
+         :  village where the party was held ! =)                   :
+         :                                                          :
+         :  After the movie I finally met lots of people. At the    :
+         :  antrance i suddenly noticed good old Crazy/Arcade^TRSi  :
+         :  standing surrounded by several TRSi guys, of those I    :
+         :  only got introduced to Irata. Crazy was pretty drunk    :
+         :  and mumbled something about he'll get Gilligan/TRSi     :
+         :  this night because he didn't like that Gilligan was     :
+         :  DCS member besides TRSi... I didn't like this kind of   :
+         :  talk much, so after some chitchat I went back to the    :
+         :  hall. BTW, I also met Ninja&Legend/TRSi at the first    :
+         :  day, but I don't remember anymore how and when...;)     :
+         :                                                          :
+         :  And, not to forget, I spent many many time on friday    :
+         :  to search ONE scener: Azzaro/L124 !  He announced       :
+         :  on IRC that he will be there, but I first wasn't able   :
+         :  to find him. I nerved several c64&Amiga sceners asking  :
+         :  if they have seen some polish guys around and even      :
+         :  took some swiss guys for polish sceners taking swiss-   :
+         :  french (or whatever) for polish. ;)  But on Friday I    :
+         :  had no success to find the TAC critician No. 1... =)    :
+         :                                                          :
+         :  I decided to sleep early on Friday so I didn't miss     :
+         :  too much compos due sleeping in the next days, so       :
+         :  already at 1:00 I made my way to the sleeping tent.     :
+         :  It was nice because it was very quite in there, even    :
+         :  no snoring =), but the disadvantage was the heating.    :
+         :  It WAS cold outside, so the heating was needed, no      :
+         :  doubt, but the fuckup was that the hot air did hit you  :
+         :  straight in the face while you layed on the floor...    :
+         :  Due to that circumstance I was only able to sleep       :
+         :  about 6 hou                                             :
+         :                                                          :
+         :  - - - - - - - L O N G  B R E A K - - - - - - - - - - -  :
+         :                                                          :
+         :  Cologne, 16th June 2000                                 :
+         :                                                          :
+         :  Sorry sorry sorry !  Due of school stress I had to      :
+         :  stop writing the report and can continue only now,      :
+         :  because school is nearly over...;) The problem is that  :
+         :  the party is now nearly 2 months ago and I can't        :
+         :  continue the report as i started it ;(. I just don't    :
+         :  have all the things in memory to write as detailed as   :
+         :  above. I just can add some things shortly which         :
+         :  happened at Evoke.                                      :
+         :                                                          :
+         :   -  I finally met Azzaro on Saturday, with a bunch of   :
+         :      other Polish Amiga sceners, who were all very       :
+         :      nice. One of them even borrowed me a spoon for      :
+         :      the whole party to eat my "5-Minuten-Terrine" ;).   :
+         :      With Azzaro and the other MAWI guys I was constant- :
+         :      ly boozing the whole Sunday, starting with wine in  :
+         :      the morning and continuing with Polish and German   :
+         :      beer in the afternoon (Azzaro had over 50! cans of  :
+         :      beer in his car). Hey Azzaro Polish beer is tasty!  :
+         :      Sorry that I have forgotten to give you the         :
+         :      promised "KÖlsch" beer...The only unpleasant thing  :
+         :      was the sniff tobacco...%-0 On this place I send    :
+         :      many hugs and virtual beers to Azzaro, Hakon,       :
+         :      the russian-speeking jura-student, Azzaros bald-    :
+         :      headed pal and all other Polish sceners at Mekka.   :
+         :                                                          :
+         :   -  Another person worth mentioning is Raver/DCS who    :
+         :      hitchhiked over 1000km from Liepaja/Latvia to       :
+         :      Fallingborstel. He needed 4 days to get there       :
+         :      and 6 days to get back. Respect !  It's a pitty we  :
+         :      had so few communication at the party place...      :
+         :      But I'm looking forward when you come to Cologne    :
+         :      and we'll have a nice smoke together !              :
+         :                                                          :
+         :   -  Now a few words about the compos: The PC demo       :
+         :      compo sucked, nearly all demos looked like some     :
+         :      lame Cinema3D animations or something - no cute     :
+         :      design, just 3D crap... The PC 64k ruled - some     :
+         :      really stylish stuff by Replay and ofcourse the     :
+         :      magnificent "Heaven 7" 64k from the Hungarian guys  :
+         :      of Exceed. PC 4k was funny, but nothing really      :
+         :      fresh. All the Amiga democompos did rule - the      :
+         :      mighty 'miggy community showed the scene what's     :
+         :      the combination of stylish design and mindblasting  :
+         :      effects. My absolute favorite is the Haujobb 64k -  :
+         :      they even used an ascii by Trivial in a bouncing    :
+         :      effect !!! They were also ones of the few who       :
+         :      packaged the intro with a more or less proper       :
+         :      file_id. Of course the Potion 64k ruled too,        :
+         :      especially effect-wise. The c64 compos RULED ! It   :
+         :      absolutely astonished me what freaks can get out    :
+         :      of this machine... Respect !                        :
+         :      The music compos SUCKED DICK !  An MP3 compo has    :
+         :      nothing to do with scene ! You can track a ultra-   :
+         :      complicated mod and convert it to MP3, you can      :
+         :      also do "music" with some suckey progs a la         :
+         :      "Magix Music Maker" or "e-Jay", convert it to MP3.  :
+         :      It is really NOT FAIR to do this sort of compo.     :
+         :      And why the hell there was no 4ch compo ?! No 4ch   :
+         :      mod cane thru the preselection of the "Alternative  :
+         :      music" compo where the most 4ch freaks handled in   :
+         :      their entries. So what is it ? The Symposium has    :
+         :      forgotten the Amiga scene ?! How can it be ?        :
+         :      Well, at the Pixel-GFX compo the Amiga community    :
+         :      showed another time their superiance design-wise.   :
+         :      Amiga artists too over 6 of the 10 top places,      :
+         :      under them the first 4. My favorite pic was the one :
+         :      by Cyclone, unfortunately it got 6th.               :
+         :      The Wild compo rocked with Hitmen's magnificent     :
+         :      GBC and DC demos. The DC demo was amazing, just     :
+         :      keep in mind the guy wrote the DC-devtools him-     :
+         :      self !  The GBC demo was kinda fakey because no     :
+         :      proper pixel gfx were used and the tunnel was just  :
+         :      animated, but just the fact that it was a GBC demo  :
+         :      made me vote for it...;) The other stuff was funny  :
+         :      and also very nice done (especially Ramses' short   :
+         :      film), but for me as a consoles freak the Hitmen    :
+         :      demos had a preference.                             :
+         :      About the PSX demos and the fast intros I can't     :
+         :      say anything, because unfortunately I slept during  :
+         :      the compos...;(                                     :
+         :                                                          :
+         :   -  Well, I think that's all I have kept in mind about  :
+         :      this more-or-less good event. Special thanks go     :
+         :      out to:                                             :
+         :             · ****** and **** for constantly weed sup-   :
+         :               port.                                      :
+         :             · Gilligan for trying to teach me GBC        :
+         :               trainer coding (sorry I was so stoned      :
+         :               the whole time).                           :
+         :             · Azzaro for the booze and the nice time.    :
+         :             · Poti for driving and strange criticism =). :
+         :             · Faxe for the Dance Hall tapes, the tasty   :
+         :               green tea and the nice chillout sessions.  :
+         :             · Pandur for being a nice travel&table       :
+         :               partner (Hey Pandur wieviel Geld schuld    :
+         :               ich dir nun fuer die Rueckfahrt ? Lass ma  :
+         :               treffen, weit auseinander wohnen wir ja    :
+         :               nicht=)).                                  :
+         :             · Ego_UK for showing the power of GBC to     :
+         :               some surprised PC sceners =).              :
+         :             · the nice Spanish guys in row 55, especial- :
+         :               ly Wavemaker for guiding me to Wayfinder.  :
+         :             · Wayfinder/KFMF for showing my the amazing  :
+         :               Beyond Tracker and giving me Pyromaniac's  :
+         :               email. Thanx mate !                        :
+         :             · Cru for the funny communication =)         :
+         :                                                          :
+         :  Have i forgotten someone ? I hope not. MAny many greets :
+         :  to everyone I met on Mekka - I hope we will all meet    :
+         :  aechother again some day.                               :
+         :                                                          :
+         :  Now the second part follows - the logos I did live on   :
+         :  the Mekka party. They were all requested at the party-  :
+         :  place. Enjoy !                                          :
+         :                                                          :
+         :                                                          :
+         :                                                          :
+         :       ______.  ______     __ /\     _______   ______     :
+         :   _!__\__   |__\____/     \//  \ .__\__   /.__\____/     :
+         .___ |    /   |    _/__. ___ _\   \|   _/  /_|    _/__. __ :
+         |t0! |   /\   |   _\   |    /      \   \_    \   _\   |  /_._
+      _ _|    |___/\___|________|   /________\___|_____\_______|    |_ _
+      \\\_  __ __   _____.                    __.               __  _///
+         | /_/\  .__\_   |/\    /\  ___.__  ._\ |      _____.  _\/_ |
+         | \_\/_ |   |   |  \ ./  \/   | /_ |   | _!___\    |  \/\/ |
+         |______ |   |___|  /_|   \/   |   \|   |__|   _\   | ______|
+                 |   __/      \____\   |    \   |  |   \____|
+                 |   |/________\ /_____|_____\  |  |____|
+                 |___|                      |_______|
+
+
+
+
+
+
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Absolute            |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: cQBs^oS             |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: Great you're back ! |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+
+
+
+
+         ........            fiNALLY iT's bACK...!           ........
+     diP :      :                                            :      : dTR
+      ____   ____      ___        ____    ___        _______ ___    __
+   __\\_  \__\_ /____ /  //____ _\\_  \_ /  /____ __\\_    //  //_ / //____.
+  _)   /   /   \_    \\___    /    /   // _//   (_    /   /     _/   _/    |
+  \   _   /     /    /   /   /        /   \      /   /   /      \    \     |
+  /___\___\ ____\___/________\ _______\ ___\____/________\ ______\ ___\____|
+         .      .                                            .      .
+ ........:......:   ÷  a  B  S  O  L  U  T  e   b  B  S  ÷   :......:........
+ : __ :                                                                : __ :
+ : XX :     cONSOLE · aMiGA · aTARi · mP3 · gRAFFiTi · aSCii · hPA     : XX :
+ : XX :                                                                : XX :
+ : XX : sYSOPS: cQBS^oS·sKiNHEAD·-187!·fAZWONGA!·rAMSES&PASO·dIPSWITCH : XX :
+ : XX :                                                                : XX :
+ : XX : rUNNiN oN a3ooo·o6o·6omHZ·64mB·/X4.2 · iSDN&aNAL · tELNET sOON : XX :
+ : XX :                                                                : XX :
+ : XX :                 oLDSKOOL eHQ · aEROHOLiCS diST                 : XX :
+ : XX :                                                                : XX :
+ : XX :              fOR aCCESS mAiL tO: CQBS@HOTMAIL.COM              : XX :
+ :....:                                                                :....:
+
+
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: AGP diz             |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Agitprop guys       |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: -                   |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+
+
+    _____    ___          ____
+ __\\_   \_ / _//____ _ _/   (_- ----------.
+_)   /    /   \_    /   \     /            |
+\   _    /     /   /     \___/  aGiTPROP!  |
+/___\____\ ________\ ______\               |
+.-diP/dTR----------------------------------+
+|                                          |
+| blablha mekka produkt                    |
+|                                          |
+|                                          |
+`----------------(xx.xx.2k)----------------'
+
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Alien Pub           |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Zippy/BM            |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: -                   |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+
+
+                                     __
+                              __ __ _\/_ __ __
+                           _ _\//   \/\/   \\/_ _
+                             |\/            \/|
+                  _____    ___       __    ___        _____
+              ___\\_   \_ /  /____ _\\_)_ /  //____._\\_   \_
+             _)    /    // _//   (_     (_   _/    |   /    /
+             \    _    /   \      /      /   \     |  /     \
+             /____\____\ ___\____/_______\ ___\____|__\______\
+                             .                .
+                         diP |   aLiEN pUB!   | dTR
+                          ____    ________  _____
+                     __ _/   (_ _\\_     /_\\_  /______
+                    _)  \     /    /    /     \_      /
+                    \    \___/    /    /       /     /
+                    /______\ __________\ ______\____/
+                             .  _          _  .
+                          - -|-/_)--------(_\-|- -
+                             :                :
+
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Drastic             |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Pandur/BM           |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: Come back online! =)|
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+
+
+
+      _____     ____        _____    ___         _____      _
+_____\\  _/_ __\\_ /___ ___\\_   \_ /  //______ /    //_ __(//__ ____ ______.
+\      _/  (_   _/    /      /    / \___      /       _/       (_   _/      |
+ \     \    /   \     \_    _    /     /     /        \         /   \       |
+ /_____/____\ ___\_____/____\____\ __________\ ________\ _______\ ___\______|
+<-diP-------------------------------------------------------------------dTR->
+
+
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Evoke File_ID       |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Poti/BM             |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: Wo bleibt das Evoke |
+- -diP/dTR--------------------------------------------. Infofile mit meiner |
+                                                      | file_id !??! ;|     |
+                                                      '---------------------'
+
+
+
+   __        _______ ____      __   __
+._/ //____. _\_    /_\_  \_ _ / (_ / //____.
+|   _/    |/  /   /   /   / _/   /   _/    |
+|   \     |  /   /       /  \    \_  \     |
+|____\____|______\ ______\ __\____/___\____|
+.-diP----------------------------------dTR-.
+|                                          |
+|                                          |
+|                                          |
+`------------------------------------------'
+
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Evoke               |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Poti/BM             |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: So ist es gut =)    |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+
+                ·
+             _ _:____ __                              __ ____:_ _
+                |    \\/_ _  _                  _  _ _\//    |
+                |     \/|                            |\/     |
+                |       |    · eVOKE pARTY 2ooo ·    |       |
+                |       |                            |       |
+              ___       |   ________   _____       ___   ___ ·
+            _/  //_____. ___\_     /__\\_   \_ __ /  (_ /  //_____.
+           _)   _/     |/    /    /     /    /  _/    /    _/     |
+       diP \    \      |    /    /          /   \     \_   \      | dTR
+           /_____\_____|_________\ _________\ __ \_____/____\_____|
+             <- . ----- . -------------------------- . ----- . ->
+                |       |                            |       |
+                |       |  18.-2o.aUG - lANGERWEHE!  |       |
+                |  _ _  |                            |  _ _  |
+            -  -|-//-\\-|-  -                    -  -|-//-\\-|-  -
+                ·       ·                            ·       ·
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Haujobb File_ID     |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Haujobb guys        |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: They ruled every    |
+- -diP/dTR----------------------------------------------compo...------------'
+
+
+
+
+
+    .__. ___  ______ _ ___  ____    ____
+.__.|  |_\_ \_\_   /(/_\_ \_\_ /____\_ /____
+|  ||  |  /  / /  /   / /  /  \_   /  \_   /
+|  ||  | _  / /  /   /    /    /  /    /  /
+|__||  |_\__\ ___\  /_____\ ___\_/_____\_/
+<---|__|---------/_/---------------diP/dTR->
+      hAUjOBB pRES. "blahbhalblhlhbalh"
+            MS2k 64k iNTRO cOMPO
+<------------------------------------------>
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Link 124 File_ID    |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Azzaro/L124         |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: cheers              |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+
+   ___   _____.  _____ ______
+  /  /___\_   |__\_   \     /____.
+ / _//  (_|   |     __/    /|    |
+/  \     /|   |     \_     ¯¯    | l124 pL!
+\___\___/ |   |______/______.    |
+«-diP/dTR-|___|-------------|____|---------»
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Lena                |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Ole/Daze            |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: See ya on Evoke'2k !|
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+
+   ___             __                ________           _________
+  /  /___________ / //__________ ___\\_      \__ ______\\_       \_ - --------.
+ / _//          (_  _/         (_     /        /         /        /   lENA    |
+/  \             /  \           /    /         \        _        /       fTP  |
+\_______________/____\_________/_____\__________\ ______\________\ ___________|
+--diP/dTR--------------------------------------------------------------------->
+              lENA fTP  -  20GB 0dAY iBM wAREZ:) -  oP: oLE/DaZE
+<----------------------------------------------------------------------------->
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Mekka 2ooo          |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: ?                   |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: just for fun...     |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+                                      __
+                      __ _________ _ _\/_ _ _________ __
+                _  _ _\//            \/\/            \\/_ _  _
+                     |\/                              \/|
+             _ _     |   diPSWiTCH/dTR^dCS aT mS'2ooo   |
+           __\  ___  |                  _____           |       ______
+         _\\__\/__//_   ___    _ _____ /    (_       _____ ____\\_    \_
+        _)    \/    (_ /  //_____.   _/      /_____ /    (_      /     /
+        \     ||     /    _/     |   \       \_   _/      /     /     /
+         \    ||    /     \      |    \       /   \       \_   _     /
+         /____||____\      \     |_____\_____/     \       /___\_____\
+                   _ _______\____|        _ ________\_____/
+                     .                                  .
+                     |  _____     _____     _____     _____
+                   _____\_   \ ___\_   \_ __\_   \_ __\_   \_
+                   \        _/     /    /    /    /    /    /
+                    \       \_         /         /         /
+                     \       /        /         /         /
+                     /______/_________\ ________\ ________\
+                     .                                  .
+                 diP |                                  | dTR
+                     :                                  :
+                     .                                  .
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Selassie            |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Faxe                |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment:                     |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+
+
+                                       __
+                          __ ________ _\/_ ________ __
+                       _ _\//         \/\/         \\/_ _
+                         |\/                        \/|
+      __            diP  ___               __         | dTR   _
+     / //_____ __       /  /___    _____  / //_____ __    _ _(//_   __
+     \___    // //____./ _//  (_ _\\_   \_\___    // //_____    (_ / //____.
+     _ _/   /   _/    |  \     /    /    /   /   / \___    /     /   _/    |
+     \\\____\   \     |___\___/    _    /________\    /   /______\   \     |
+           _ ____\____|  .   _ ____\____\       _ ________\    _ _____\____|
+                         |                            .
+                         |                            |
+                         | rAS tAFARi hAiLE sELASSiE! |
+                         |   _                    _   |
+                      - -|--/_)------------------(_\--|- -
+                         :                            :
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Trinity             |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Faxe                |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: Seal di trinity...  |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+                         .                          .
+
+                      . .:..........................:. .
+                         :                          :
+             .:........  :                          :  ........:.
+              :       :  :                          :  :       :
+              :       :  :                          :  :       :
+          _____     ____ :    __      _____     __  : _____   _ ___
+        _/    //_ _\\_ /___ _(_//_ __\\_   \_ _\\_)_ /    //_    _/__
+        \      _/   _/    //     (_    /    //     (_      _/    \   \
+         \     \    \     \_      /   /     \       /      \          \
+          \_____\ ___\_____/______\ __\______\ _____\ ______\ ___    _/
+       <----- . ----- .  . ------------------------ .  . ------ /___/ -->
+              :   diP :  :                          :  : dTR   .
+              :       :  :                          :  :       :
+              :.......:  :                          :  :.......:
+                         :                          :
+                     .  .:..........................:.  .
+                         .                          .
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: TRSI File_ID        |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: TRSI peepz          |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: use dem !           |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+
+      _____     ____     ___       __
+.__ _/    //_ _\\_ /___ /  //____ (_//_ ___.
+|   \      _/   _/    / \__     /     (_   |
+|    \     \    \     \_  /    /       /   |
+|_____\_____\ ___\_____/_______\ ______\ __|
+«-diP----------------------------------dTR-»
+          tHE sLEEPiNG gODS pRESENT
+        - ------------------------- -
+bahlblahblahlbalhalahlaablablahalhalablahalh
+«------------------------------------------»
+
+
+
+
+  __  __   __           ___      ___    _____
+ _\_\/_/_ / //____. __ /  (_ __ /  (_ _\\_   \_- ---------------------------.
+_)  \/  (_  _/    |/ _/    // _/    //   /    /   says: Hakon               |
+\   ||   /  \     |  \     \_ \     \_  _    /     for: Hakon/WPZ           |
+/___||___\ __\____|___\_____/__\_____/__\____\ comment: Come to Evoke !     |
+- -diP/dTR------------------------------------------------------------------'
+
+
+
+                     __ __________________________ __
+                  _ _\//                          \\/_ _
+                    |\/                            \/|
+                diP |        · hAKON/wHELPZ ·        | dTR
+               .____.               ___              |_____
+           ____|    |   _____ ____ /  (_    _____ ___\\_   \_
+          _)   |    |__\\_   \_  _/    /___\\_   \_    /    /
+          \    _    |    /    /  \     \_    /    /   /     \
+          /____\____|   _    /____\_____/        /____\______\
+       <--------- _ ____\____\ ----- _ __________\ -------------->
+                    .                                |
+                    |                                |
+                    |       Krzysztof Kurzawski      |
+                    |          Herdera 8/23          |
+                    |         10-693 Olsztyn         |
+                    |             Poland             |
+                 _ _|_ _                          _ _|_ _
+                    :///--------------------------\\\:
+
+
+
+
+
+
+
+                                        .
+                                     ·
+                                 . ..:..:.. .
+                                     :  :
+                           .   . ... :  : ... .   .
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                                     :  :
+                 .      .   . .......:  :....... .  .       .
+
+        .----. ____ ___.
+        \   _/\    / __/          ----=( d ip swi t ch )=----
+         \  \_    /\ )_
+         /   /    \/  /-----.                                   ::::
+        `---._____/  /_\   _/  w e    ___    _____.   _____.   ::::
+             .....\.._______\     ____\_ \_._\  _ )_  \  __/  ::::
+          .::::::::::::   a re    \    /   |    /  /_  \ )_  ::::
+         :::::::  ::::::         _l  _/   .l_  ._    \ /  /-----.
+          :::::  .::::: f amil y \_________\/__l/     \_ /_\:: _/   ::::
+   zNr/DtR ::::: ::::'___    ____  ____ ____  /________/__::::_\  .::::.
+            ::::  ____\_ \_./ _  \/   /_\__/-.____       ::::    ::::::::
+  .::: :: ::::::::\    /   |  \    .   l     /\   \    :::::    ::::::
+  `::: :: ::::::::l  _/   _l_  \   l   |     \/   /   :::::......::::::
+            ::::/__________\/---\__|___|\     \  /__/\ :::::::::::::::::
+  :::::::   ::::                        /_____/ /_\   \ .....      :::::::
+ :::::::  :::::                            /________:::::::::       ::::::
+   :::::::::::  ----=( d re am the a tr e )=----   :::::::::::::  :::::::
+    :::::::::                                       :::::::::::::::::::'
+
+
+                                 fast credits:
+                               - ------------- -
+
+                               file_id - Daeron
+                            Dream Theatre - Threaz
+                            Dipswitch - Abhorrence
+                           We Are Family 1 - Threaz
+                            We Are Family 2 - Tommy
+                            We Are Family 3 - Zaner
+
+
+                          no group infos this time...
+                                   sorry...
+                           you know who we are ! ,)
+
+
+( EAREFAMILYWEAREFAMILYWEAREFAMILYWEAREFAMILYWEAREFAMILYWEAREFAMILYWEAREFAMIL )
+                                     :
+                         /___________ø_ [%* tHE YARd BBS 2k! *%]
+     ._________________///   ________:                          ____
+  ___|_______ ____.    /  ___\_      |___   ___\      _____  __/_   \
+  \     _   //   _|__  __/_    \     |   \ /    \  __/_    \/   /    \
+   \___/    ø   /    \/   /    /     |_   /      \/   /   _/   /      \
+     _/     :  /_     \_ /____/¯\_____/  /       /   /_    \__________/
+     \______|    \_____/_________/ /____/        \_____\_____//
+         \_______|                     /____________\©nUP
+
+  zANEr^LFC ÷ diPSWiTCH^DCS ÷ hAsH^SOiA ÷ NINjA^PDX ÷ mOOL^AHS ÷ dARkUS^HjB
+
+   ÷ AEROHOLiCS WHQ ÷ ARCADE WHQ ÷ AEROSOL WHQ ÷ DiSCiPLES OF AGEEMA WHQ ÷
+      ÷ DREAM THEATRE WHQ ÷ LiGHTFORCE GHQ ÷ BAD KARMA GHQ ÷ ROYAL GHQ ÷
+   ÷ SOiA GHQ ÷ UP ROUGH GHQ ÷ LOW PROFiLE GHQ ÷ PHUNK GHQ ÷ TEQUiLA GHQ ÷
+  ÷ SODiUM GHQ ÷ PUNGAS GHQ ÷ OMEN GHQ ÷ 1OO% GHQ ÷ VORTEX GHQ ÷ MVP GHQ ÷
+          ÷ DAYDREAM/LiNUX DEVELOPMENT TEAM HEADQUATERS/BETA-SiTE ÷
+
+    ÷ 2 nODES dIAL-UP 33k6 aND 64k iSDN ÷ 4 nODES tELNET 24h/7 64k iSDN ÷
+÷ 0d aMiGA/aSCii/hANDhELDS/n64 - pSX/sNES/mP3/cLASSiX/liNUX/dRUGS/cHiPtUNES ÷
